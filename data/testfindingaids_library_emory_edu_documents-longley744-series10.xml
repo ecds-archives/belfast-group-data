@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="https://testfindingaids.library.emory.edu/documents/longley744/series10/">
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateModified xml:lang="en">2013-05-14</schema:dateModified>
+    <schema:about rdf:resource="http://viaf.org/39398205/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/39398205/">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+</rdf:RDF>
