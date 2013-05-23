@@ -20,7 +20,7 @@ except ImportError:
 # rdf namespaces
 ARCH = rdflib.Namespace('http://purl.org/archival/vocab/arch#')
 SCHEMA_ORG = rdflib.Namespace('http://schema.org/')
-DCTERMS = rdflib.Namespace('http://purl.org/dc/terms/')
+DC = rdflib.Namespace('http://purl.org/dc/terms/')
 DCMITYPE = rdflib.Namespace('http://purl.org/dc/dcmitype/')
 BIBO = rdflib.Namespace('http://purl.org/ontology/bibo/')
 
@@ -44,6 +44,7 @@ NAME_URIS = {
     'Simmons, James': 'http://viaf.org/viaf/92591927/',
     'Parker, Stewart': 'http://viaf.org/viaf/7497547/',
     'MacLaverty, Bernard': 'http://viaf.org/viaf/95151565',
+    'Belfast Group': 'http://viaf.org/123393054/',
 }
 
 # URIs not found for:
@@ -72,14 +73,15 @@ def generate_rdf(file):
     # bind namespace prefixes for output
     g.bind('schema', SCHEMA_ORG)
     g.bind('bibo', BIBO)
-    g.bind('dc', DCTERMS)
+    g.bind('dc', DC)
 
-    # create a blank node for the archival collection at Queen's Belfast (no URI) 
+    # create a blank node for the archival collection at Queen's Belfast (no URI)
     coll = rdflib.BNode()
     for t in [ARCH.Collection, SCHEMA_ORG.CreativeWork, DCMITYPE.Collection]:
         g.add((coll, rdflib.RDF.type, t))
     g.add((coll, SCHEMA_ORG.name, rdflib.Literal(doc.body.h1.text)))
     g.add((coll, SCHEMA_ORG.description, rdflib.Literal(doc.body.find(id='about').text)))
+    g.add((coll, SCHEMA_ORG.about, rdflib.URIRef(NAME_URIS['Belfast Group'])))
     # TODO: add information about owning archive ?
     # NOTE: PDF with collection listing is here:
     # http://www.qub.ac.uk/directorates/InformationServices/TheLibrary/FileStore/Filetoupload,312673,en.pdf
@@ -160,9 +162,9 @@ def generate_rdf(file):
                     date = year_match.group('year')
 
             if date is not None:
-                # NOTE: using dc:date since it's not clear what date this would be 
+                # NOTE: using dc:date since it's not clear what date this would be
                 # (not necessarily a publication/creation date, e.g. one of the more specific schema.org)
-                g.add((msnode, DCTERMS.date, rdflib.Literal(date)))                
+                g.add((msnode, DC.date, rdflib.Literal(date)))
 
         # collection desription includes notes about poetry, short story, etc.
         # including as genre to avoid losing information
@@ -191,10 +193,11 @@ def generate_rdf(file):
         else:
             for title in titles:
                 docpart = rdflib.BNode()
-                # this item is a document part with a title, related to ms by dcterms:hasPart
+                # this item is a document part with a title, related to ms by dc:hasPart
                 g.add((docpart, rdflib.RDF.type, BIBO.DocumentPart))
                 g.add((docpart, SCHEMA_ORG.name, rdflib.Literal(title)))
-                g.add((msnode, DCTERMS.hasPart, docpart))
+                g.add((docpart, DC.title, rdflib.Literal(title)))
+                g.add((msnode, DC.hasPart, docpart))
 
 
     # use input filename as base, but generate as .xml in current directory
