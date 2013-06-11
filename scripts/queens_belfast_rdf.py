@@ -128,8 +128,8 @@ def generate_rdf(file):
         # FIXME: a few have multiple authors
         name_match = NAME_REGEX.match(first_line)
         if name_match:
-            last_name = name_match.group('last')
-            first_name = name_match.group('first')
+            last_name = name_match.group('last').strip()
+            first_name = name_match.group('first').strip()
             name_key = '%s, %s' % (last_name, first_name)
             full_name = '%s %s' % (first_name, last_name)
 
