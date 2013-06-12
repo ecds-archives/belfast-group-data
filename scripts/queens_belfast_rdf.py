@@ -29,6 +29,7 @@ NAME_REGEX = re.compile('(?P<last>[A-Z][a-zA-Z]+), (?P<first>[A-Z][a-z. ]+)')
 DATE_REGEX = re.compile('Dated (?P<day>\d{2})/(?P<month>\d{2})/(?P<year>\d{4})')
 YEAR_REGEX = re.compile('Dates [^\d]*(?P<year>\d{4})')
 PAGES_REGEX = re.compile('Typescripts?, (?P<num>\d)(p|pp.)')
+PAREN_REGEX = re.compile(' ?\([^())]+\)')
 
 
 NAME_URIS = {
@@ -183,6 +184,12 @@ def generate_rdf(file):
         titles = []
         for italic_text in div.find_all('i'):
             for title in italic_text.stripped_strings:
+                # qub titles include subtitles/dedications in parenthesis,
+                # and "(sic)" in a few places,
+                # which makes de-duping difficult because titles look different.
+                # remove anything in parenthesis, including nested parens
+                while '(' in title:
+                    title = PAREN_REGEX.sub('', title)
                 titles.append(title)
 
         # if only one title, no parts
