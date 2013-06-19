@@ -7,8 +7,9 @@ from urlparse import urlparse
 import argparse
 try:
     import rdflib
+    import requests
 except ImportError:
-    print '''Please install rdflib (pip install or easy_install rdflib)'''
+    print '''Please install rdflib and/or requests (pip install or easy_install rdflib requests)'''
     exit(-1)
 
 DCTERMS = rdflib.Namespace('http://purl.org/dc/terms/')
@@ -21,7 +22,11 @@ PROCESSED_URLS = []
 def harvest_rdf(url, find_related=False):
     g = rdflib.Graph()
     try:
-        data = g.parse(url, format='rdfa')
+        response = requests.get(url)
+        data = g.parse(data=response.content, location=url, format='rdfa')
+        # NOTE: this was working previously, and should be fine,
+        # but now generates an RDFa parsing error / ascii codec error
+        # data = g.parse(location=url, format='rdfa')
     except Exception as err:
         print 'Error attempting to load %s - %s' % (url, err)
         exit(-1)
