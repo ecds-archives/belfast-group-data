@@ -25,16 +25,21 @@ BELFASTGROUPSHEET = rdflib.Namespace("http://belfastgroup.org/groupsheets/md5/")
 def calculate_uri(uri, graph):
     titles = []
     title = graph.value(uri, DC.title)
-    # single title
-    if title is not None:
-        titles.append(unicode(title))
-    # multiple titles (current rdf configuration)
-    else:
-        # NOTE: possible to have title and subtitles;
-        # ignoring subtitles for now
-        titles.extend([unicode(graph.value(part, DC.title))
-                       for part in graph.objects(subject=uri,
-                                                 predicate=DC.hasPart)])
+
+    # title is either a single literal OR an rdf sequence
+    if graph.value(DC.title) is not None:
+        title = graph.value(DC.title)
+        # single literal
+        if isinstance(title, rdflib.Literal):
+            titles.append(title)
+
+        # otherwise, assuming node is an rdf sequence
+        else:
+            # convert from resource to standard blank node
+            # since collection doesn't seem to handle resource
+            # create a collection to allow treating as a list
+            titles.extend(rdfcollection.Collection(graph,
+                                                   title))
     # current RDF format is *not* preserving title order
     # sort them to get consistent MD5
     # (assumes any group sheet with the same titles in any order
