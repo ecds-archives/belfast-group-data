@@ -4,28 +4,28 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="N7e701e984ad24955885a51a503e6ba13">
-    <schema:name xml:lang="en">Belfast</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://testfindingaids.library.emory.edu/documents/ormsby805/series5/">
-    <schema:dateModified xml:lang="en">2013-05-14</schema:dateModified>
-    <schema:about rdf:resource="http://viaf.org/49280158/"/>
-    <dc:hasPart rdf:resource="https://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.2/"/>
-    <dc:hasPart rdf:resource="https://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.3/"/>
-    <dc:hasPart rdf:resource="https://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.1/"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N93412cc4b19541039e6d2bd6df2458da">
-    <schema:name xml:lang="en">Dublin</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/49280158/">
-    <schema:name xml:lang="en">Ormsby's</schema:name>
-    <schema:name xml:lang="en">Ormsby</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/49280158/">
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:mentions rdf:nodeID="N7e701e984ad24955885a51a503e6ba13"/>
-    <schema:mentions rdf:nodeID="N93412cc4b19541039e6d2bd6df2458da"/>
-    <schema:mentions rdf:resource="http://viaf.org/49280158/"/>
+    <schema:mentions rdf:nodeID="N29a44736bfd74c76a6c5ae7a6ddc1d32"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <schema:name xml:lang="en">Ormsby</schema:name>
+    <schema:mentions rdf:nodeID="N982608b6af2a476db94855238b9c53fc"/>
+    <schema:name xml:lang="en">Ormsby's</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N982608b6af2a476db94855238b9c53fc">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">Dublin</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/">
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.3/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <schema:dateModified xml:lang="en">2013-06-18</schema:dateModified>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.2/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.1/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N29a44736bfd74c76a6c5ae7a6ddc1d32">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">Belfast</schema:name>
   </rdf:Description>
 </rdf:RDF>

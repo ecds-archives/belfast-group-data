@@ -4,21 +4,22 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://viaf.org/216613925/">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Queen's University, Belfast</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://testfindingaids.library.emory.edu/documents/longley744/series11/">
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <dc:hasPart rdf:resource="https://testfindingaids.library.emory.edu/documents/longley744/series11/subseries11.2/"/>
-    <dc:hasPart rdf:resource="https://testfindingaids.library.emory.edu/documents/longley744/series11/subseries11.1/"/>
-    <schema:dateModified xml:lang="en">2013-05-14</schema:dateModified>
-    <schema:about rdf:resource="http://viaf.org/109956735/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/109956735/">
+  <rdf:Description rdf:about="http://viaf.org/viaf/109956735/">
     <schema:jobTitle xml:lang="en">academic</schema:jobTitle>
     <schema:jobTitle xml:lang="en">critic</schema:jobTitle>
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:worksFor rdf:resource="http://viaf.org/216613925/"/>
+    <schema:worksFor rdf:resource="http://viaf.org/viaf/216613925/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/216613925/">
+    <schema:name xml:lang="en">Queen's University, Belfast</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/longley744/series11/">
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/longley744/series11/subseries11.2/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/longley744/index1/"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateModified xml:lang="en">2013-06-18</schema:dateModified>
+    <schema:about rdf:resource="http://viaf.org/viaf/109956735/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/longley744/series11/subseries11.1/"/>
   </rdf:Description>
 </rdf:RDF>

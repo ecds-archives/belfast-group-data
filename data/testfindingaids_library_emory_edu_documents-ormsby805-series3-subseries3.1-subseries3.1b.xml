@@ -4,244 +4,309 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="N394a2fc223374af29a3776618132f6cb">
+  <rdf:Description rdf:nodeID="Nb0a210d416b643a9a3d9371d8f7cb0d2">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">Business as Usual</dc:title>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc77edca039364db9a4508b4024fa1b15">
+    <dc:title rdf:nodeID="Nb12d0117029b4ccf85dc5d14d8a21dc7"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1b/">
+    <schema:mentions rdf:nodeID="Nd32e1e24e8104412a4447722d346f44f"/>
+    <schema:mentions rdf:nodeID="Nfe9b575a854c4ec1b6005bb1733c9a9d"/>
+    <schema:mentions rdf:nodeID="N8ee8a83d573e490995d6964431f5787d"/>
+    <schema:mentions rdf:nodeID="N49859f2ad01a4aeb8a894d707780e55b"/>
+    <schema:mentions rdf:nodeID="Na20f43a6ce694726af2c47374a86110f"/>
+    <schema:mentions rdf:nodeID="N1b37f80d69be4623a0323305b4da4197"/>
+    <schema:mentions rdf:nodeID="N9c1ca1ffe2b6456ab54ea689034de8c9"/>
+    <schema:mentions rdf:nodeID="Ncbf0f17b8129422a8a8283c15c4eaeb1"/>
+    <schema:mentions rdf:nodeID="Ne37c6e33b87942fbba12cb2ae4130720"/>
+    <schema:mentions rdf:nodeID="Nc77edca039364db9a4508b4024fa1b15"/>
+    <schema:mentions rdf:nodeID="N37348d6569ab430a913b82839aedb863"/>
+    <schema:mentions rdf:nodeID="N3140f2bc312344be82349238923e781e"/>
+    <schema:mentions rdf:nodeID="Nef369b4e5b784c66872b255578ba7b26"/>
+    <schema:mentions rdf:nodeID="N88890d38fcfd4a99b1971a0cfe609ff4"/>
+    <schema:mentions rdf:nodeID="N1090c06b9c4842da98d87217e45e566d"/>
+    <schema:mentions rdf:nodeID="N181aff84a1a743d6ac29fffa72aa1b45"/>
+    <schema:mentions rdf:nodeID="Ne98209d06d2a4f10a1b79da678790f6d"/>
+    <schema:mentions rdf:nodeID="N7fb86977ec3c44edad06bca5557f21df"/>
+    <schema:mentions rdf:nodeID="N580e66a56afa427c83655e847960649f"/>
+    <schema:mentions rdf:nodeID="Nb0a210d416b643a9a3d9371d8f7cb0d2"/>
+    <schema:mentions rdf:nodeID="N1e3092cd720b4707aa38abbed721dcaa"/>
+    <schema:mentions rdf:nodeID="N8522a800ef4b46809b6d7542dcfcfd8e"/>
+    <schema:mentions rdf:nodeID="N234137bf0258436fb87e21802819e6c5"/>
+    <schema:mentions rdf:nodeID="N807543672ad746a48c76922fad81205c"/>
+    <schema:mentions rdf:nodeID="N839c791e289b46e7a3cfc4d7ea0c2842"/>
+    <schema:mentions rdf:nodeID="N00c9243c2952483eae1906843e760602"/>
+    <schema:mentions rdf:nodeID="N2e7a20f7c83b4b73878a8e302ce470a5"/>
+    <schema:mentions rdf:nodeID="N53d6ad41150d4a919744b00edb9758fb"/>
+    <schema:mentions rdf:nodeID="Na656c2a3ace7424cb898ce7c0dcc1f0a"/>
+    <schema:mentions rdf:nodeID="N5e4d62e20fb3499a96bde7c1827e1f9f"/>
+    <schema:mentions rdf:nodeID="N8d9791dc55c94cb9ab9bcd5c501243df"/>
+    <schema:mentions rdf:nodeID="N882e3d7e843d4f938ca385650f409523"/>
+    <schema:mentions rdf:nodeID="Nc2eca4f43240491d8832f06dd86f3490"/>
+    <schema:mentions rdf:nodeID="Ndf58c47b881f428fac82ec9502202ba0"/>
+    <schema:mentions rdf:nodeID="N2f0115f320d0401293c898d0088e9375"/>
+    <schema:mentions rdf:nodeID="N15e2af764c404bb398b44dd651ff4c4e"/>
+    <schema:mentions rdf:nodeID="Nd26dc3051aa549c1b34d2ecfa2d43b4a"/>
+    <schema:mentions rdf:nodeID="N93bf6386c18c4854a8742f20803f0e90"/>
+    <schema:mentions rdf:nodeID="N79276ae02bb84b1cb5bd8fee2c596591"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateModified xml:lang="en">2013-06-18</schema:dateModified>
+    <schema:mentions rdf:nodeID="N652a467c740a495ab4f1440f034b2ad6"/>
+    <schema:mentions rdf:nodeID="Ndf29947422cc409b91ae745803553f40"/>
+    <schema:mentions rdf:nodeID="N67a48756eb0f4631811d6a260226f904"/>
+    <schema:mentions rdf:nodeID="N47d841934f604bbb8f153636a3dad680"/>
+    <schema:mentions rdf:nodeID="N5cfdfa70742f45fab13228aa41d8d074"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nad79dcfe8ef248889dcf524bfc8d72a9">
+    <rdf:first xml:lang="en">Working Days</rdf:first>
+    <rdf:rest rdf:nodeID="Nfa34e9e56e554a3d8e97f745768d045c"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1e3092cd720b4707aa38abbed721dcaa">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">A Northern Spring</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1090c06b9c4842da98d87217e45e566d">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">A Northern Spring</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7fb86977ec3c44edad06bca5557f21df">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">Business as Usual</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb12d0117029b4ccf85dc5d14d8a21dc7">
+    <rdf:first xml:lang="en">A Store of Candles</rdf:first>
+    <rdf:rest rdf:nodeID="N0c0d4bc209fe42d7a236acaf9faef3cc"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N882e3d7e843d4f938ca385650f409523">
+    <dc:title xml:lang="en">A Store of Candles</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N79276ae02bb84b1cb5bd8fee2c596591">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">First Born</dc:title>
+    <schema:mentions rdf:nodeID="Nf735943df41746da9dc5e63fdeec8391"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/121698436/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N53d6ad41150d4a919744b00edb9758fb">
+    <dc:title xml:lang="en">Business as Usual</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndf58c47b881f428fac82ec9502202ba0">
+    <dc:title xml:lang="en">Business as Usual</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc2eca4f43240491d8832f06dd86f3490">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title rdf:nodeID="N7f79ece2f0d94e7bab1d26f1a47e99fd"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8ee8a83d573e490995d6964431f5787d">
+    <dc:title xml:lang="en">A Northern Spring</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd26dc3051aa549c1b34d2ecfa2d43b4a">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">Ripe for Company</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N15e2af764c404bb398b44dd651ff4c4e">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
     <dc:title xml:lang="en">A Store of Candles</dc:title>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N755f06f015c744d79a90838289bf7736">
+  <rdf:Description rdf:nodeID="N580e66a56afa427c83655e847960649f">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
     <dc:title xml:lang="en">Business as Usual</dc:title>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N0b7d3d9daa764f0e935b2afe7765c5f9">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">A Northern Spring</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N360d077d2b084b0498aca99eb1a5b1a0">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Ripe for Company</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N9f8aec6638954ebdba1b0dad6160d701">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Ripe for Company</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N1cfa6df22bd14f82bb54a9da6f05e1df">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Ripe for Company</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nf2057b8a27cc4837b556964c6f07296e">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">A Northern Spring</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N1a2b02e1907f4963b23d272412f50a64">
+  <rdf:Description rdf:nodeID="N3140f2bc312344be82349238923e781e">
     <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
     <dc:title xml:lang="en">Business as Usual</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Neadbdd790ebb421e9fa2a86278098bd8">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Business as Usual</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N3ebbfb80f8d745d18b75644010446a23">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Business as Usual</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Naf578cbc0c194c8ea9de4c5acb02a368">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">A Northern Spring</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N8ab095ae759942a982ed30d9227dc16a">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">A Northern Spring</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N54068ff75a0b47e583ba5a696d7292e9">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nb9e84b1d9c85499b8c7351440ecc3cf2">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Business as Usual</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N8595ff0b86054b75813b55b6d2dcb352">
-    <schema:mentions rdf:nodeID="Ndc6d85a9cc1a4ed6a8665cf85dc06193"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/121698436/"/>
-    <dc:title xml:lang="en">First Born</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N71595bf549f54da48d58bc49d92155ec">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">A Northern Spring</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N2e561fab1712455989069b30ad7e0c10">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">A Northern Spring</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Ne640934cc2cd4521ab451813f3554783">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">A Northern Spring</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N7665ce091fd0454aa2307278d2e87d20">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Business as Usual</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N8ab520d2fb1b4bb68449303b5ead7def">
+  <rdf:Description rdf:nodeID="N00c9243c2952483eae1906843e760602">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
     <dc:title xml:lang="en">The Ghost Train</dc:title>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc6a8e63c0442480b9b02b40d3c9aaa25">
+  <rdf:Description rdf:nodeID="N49859f2ad01a4aeb8a894d707780e55b">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">A Northern Spring</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N652a467c740a495ab4f1440f034b2ad6">
+    <dc:title xml:lang="en">Ripe for Company</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8d9791dc55c94cb9ab9bcd5c501243df">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
     <dc:title xml:lang="en">Business as Usual</dc:title>
-    <dc:title xml:lang="en">A Store of Candles</dc:title>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N3d1d37687c584d2282cc0f012440bf08">
+  <rdf:Description rdf:nodeID="N2e7a20f7c83b4b73878a8e302ce470a5">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">Ripe for Company</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N37348d6569ab430a913b82839aedb863">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
     <dc:title xml:lang="en">A Northern Spring</dc:title>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N37df5ada1d564b1291017cdaec1621e4">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Being Walked by a Dog</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N4df69564e1064f989741c2edf1d74d2d">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Business as Usual</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N2513f653639a45a9b541338ee2e2120f">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Business as Usual</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N82ac935381e54971a57adfe7bdd6db76">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">A Store of Candles</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N6e713664345a4a60a3890822e4fd0cb6">
+  <rdf:Description rdf:nodeID="N181aff84a1a743d6ac29fffa72aa1b45">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
     <dc:title xml:lang="en">A Northern Spring</dc:title>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Ndc6d85a9cc1a4ed6a8665cf85dc06193">
+  <rdf:Description rdf:nodeID="Nf37fd7d25ad8441b8f02a5691c861d1a">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first xml:lang="en">A Store of Candles</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncbf0f17b8129422a8a8283c15c4eaeb1">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">A Northern Spring</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1b37f80d69be4623a0323305b4da4197">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">The Ghost Train</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N47d841934f604bbb8f153636a3dad680">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">A Northern Spring</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndf29947422cc409b91ae745803553f40">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">Business as Usual</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfe9b575a854c4ec1b6005bb1733c9a9d">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">A Northern Spring</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7f79ece2f0d94e7bab1d26f1a47e99fd">
+    <rdf:first xml:lang="en">Business as Usual</rdf:first>
+    <rdf:rest rdf:nodeID="Nf37fd7d25ad8441b8f02a5691c861d1a"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2f0115f320d0401293c898d0088e9375">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">The Ghost Train</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N88890d38fcfd4a99b1971a0cfe609ff4">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">A Northern Spring</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N807543672ad746a48c76922fad81205c">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">A Northern Spring</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne37c6e33b87942fbba12cb2ae4130720">
+    <dc:title xml:lang="en">Business as Usual</dc:title>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/121698436/">
+    <schema:name xml:lang="en">Tom McGurk</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">McGurk's</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9c1ca1ffe2b6456ab54ea689034de8c9">
+    <dc:title xml:lang="en">A Northern Spring</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne98209d06d2a4f10a1b79da678790f6d">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">Business as Usual</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N839c791e289b46e7a3cfc4d7ea0c2842">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">A Northern Spring</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfa34e9e56e554a3d8e97f745768d045c">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first xml:lang="en">A Northern Spring</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf735943df41746da9dc5e63fdeec8391">
     <rdf:type rdf:resource="http://schema.org/Organization"/>
     <schema:name xml:lang="en">Botanic Printers</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/121698436/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Tom McGurk</schema:name>
-    <schema:name xml:lang="en">McGurk's</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N404a5a199cc94cbc8e508b129587184e">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Business as Usual</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N60ee4744c75b463996baf0fa9f358f0a">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Business as Usual</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N586551c3dac14c949f2314401bcce8ec">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">A Northern Spring</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1b/">
-    <schema:mentions rdf:nodeID="N394a2fc223374af29a3776618132f6cb"/>
-    <schema:mentions rdf:nodeID="N755f06f015c744d79a90838289bf7736"/>
-    <schema:mentions rdf:nodeID="N0b7d3d9daa764f0e935b2afe7765c5f9"/>
-    <schema:mentions rdf:nodeID="N360d077d2b084b0498aca99eb1a5b1a0"/>
-    <schema:mentions rdf:nodeID="N9f8aec6638954ebdba1b0dad6160d701"/>
-    <schema:mentions rdf:nodeID="N1cfa6df22bd14f82bb54a9da6f05e1df"/>
-    <schema:mentions rdf:nodeID="Nf2057b8a27cc4837b556964c6f07296e"/>
-    <schema:mentions rdf:nodeID="N1a2b02e1907f4963b23d272412f50a64"/>
-    <schema:mentions rdf:nodeID="Neadbdd790ebb421e9fa2a86278098bd8"/>
-    <schema:mentions rdf:nodeID="N3ebbfb80f8d745d18b75644010446a23"/>
-    <schema:mentions rdf:nodeID="Naf578cbc0c194c8ea9de4c5acb02a368"/>
-    <schema:mentions rdf:nodeID="N8ab095ae759942a982ed30d9227dc16a"/>
-    <schema:mentions rdf:nodeID="N54068ff75a0b47e583ba5a696d7292e9"/>
-    <schema:mentions rdf:nodeID="Nb9e84b1d9c85499b8c7351440ecc3cf2"/>
-    <schema:mentions rdf:nodeID="N71595bf549f54da48d58bc49d92155ec"/>
-    <schema:mentions rdf:nodeID="N2e561fab1712455989069b30ad7e0c10"/>
-    <schema:mentions rdf:nodeID="N76ec7d28b9284db29a46ebd7ab6a1014"/>
-    <schema:mentions rdf:nodeID="N7665ce091fd0454aa2307278d2e87d20"/>
-    <schema:mentions rdf:nodeID="N8ab520d2fb1b4bb68449303b5ead7def"/>
-    <schema:mentions rdf:nodeID="Nc6a8e63c0442480b9b02b40d3c9aaa25"/>
-    <schema:mentions rdf:nodeID="N3d1d37687c584d2282cc0f012440bf08"/>
-    <schema:mentions rdf:nodeID="N37df5ada1d564b1291017cdaec1621e4"/>
-    <schema:mentions rdf:nodeID="N4df69564e1064f989741c2edf1d74d2d"/>
-    <schema:mentions rdf:nodeID="N2513f653639a45a9b541338ee2e2120f"/>
-    <schema:mentions rdf:nodeID="N82ac935381e54971a57adfe7bdd6db76"/>
-    <schema:mentions rdf:nodeID="N6e713664345a4a60a3890822e4fd0cb6"/>
-    <schema:mentions rdf:nodeID="N6b5ce5f11d5947928b8d36d4126e85d4"/>
-    <schema:mentions rdf:nodeID="N404a5a199cc94cbc8e508b129587184e"/>
-    <schema:mentions rdf:nodeID="N60ee4744c75b463996baf0fa9f358f0a"/>
-    <schema:mentions rdf:nodeID="N586551c3dac14c949f2314401bcce8ec"/>
-    <schema:mentions rdf:nodeID="N14108e417bd8464a868f0208cb87d8df"/>
-    <schema:mentions rdf:nodeID="Nd0c13634b7734b9dac2b1208ea331c68"/>
-    <schema:mentions rdf:nodeID="N0e9cef71203c4c818d20d8bfb0507e60"/>
-    <schema:mentions rdf:nodeID="N91786cb08e9044c292d2a29b3f49f8e0"/>
-    <schema:mentions rdf:nodeID="N744e7bbe45564a7ab3ebd294c7691425"/>
-    <schema:mentions rdf:nodeID="N962a57e344b54f04a36014b78a470cdf"/>
-    <schema:mentions rdf:nodeID="Nb34e7bf43a6949fa8654216217d58f65"/>
-    <schema:mentions rdf:nodeID="N03eb9a59cc1d408a9c172c83b9c6ddf6"/>
-    <schema:mentions rdf:nodeID="N2e5f9469010741a19b997a2ae85ca0b0"/>
-    <schema:mentions rdf:nodeID="N90f570c8e5d442a39c4657a723f8ded9"/>
-    <schema:mentions rdf:nodeID="N8595ff0b86054b75813b55b6d2dcb352"/>
-    <schema:mentions rdf:nodeID="Nc6fd59f9da3744d3bca5af30e17d7b4a"/>
-    <schema:mentions rdf:nodeID="Ne640934cc2cd4521ab451813f3554783"/>
-    <schema:mentions rdf:nodeID="Na68cb7d05a224a2daa1714c1e7760e18"/>
-    <schema:dateModified xml:lang="en">2013-05-14</schema:dateModified>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N14108e417bd8464a868f0208cb87d8df">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">A Northern Spring</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nd0c13634b7734b9dac2b1208ea331c68">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Business as Usual</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N0e9cef71203c4c818d20d8bfb0507e60">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">The Ghost Train</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N91786cb08e9044c292d2a29b3f49f8e0">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Business as Usual</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N744e7bbe45564a7ab3ebd294c7691425">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Business as Usual</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N962a57e344b54f04a36014b78a470cdf">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">A Northern Spring</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nb34e7bf43a6949fa8654216217d58f65">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">A Northern Spring</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N03eb9a59cc1d408a9c172c83b9c6ddf6">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">A Northern Spring</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N76ec7d28b9284db29a46ebd7ab6a1014">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">A Northern Spring</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N2e5f9469010741a19b997a2ae85ca0b0">
+  <rdf:Description rdf:nodeID="N67a48756eb0f4631811d6a260226f904">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
     <dc:title xml:lang="en">A Store of Candles</dc:title>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N90f570c8e5d442a39c4657a723f8ded9">
+  <rdf:Description rdf:nodeID="Nef369b4e5b784c66872b255578ba7b26">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">Business as Usual</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5cfdfa70742f45fab13228aa41d8d074">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
     <dc:title xml:lang="en">Business as Usual</dc:title>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N6b5ce5f11d5947928b8d36d4126e85d4">
+  <rdf:Description rdf:nodeID="Na656c2a3ace7424cb898ce7c0dcc1f0a">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na20f43a6ce694726af2c47374a86110f">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">A Northern Spring</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N93bf6386c18c4854a8742f20803f0e90">
     <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
     <dc:title xml:lang="en">Business as Usual</dc:title>
-    <dc:title xml:lang="en">A Store of Candles</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc6fd59f9da3744d3bca5af30e17d7b4a">
+  <rdf:Description rdf:nodeID="N8522a800ef4b46809b6d7542dcfcfd8e">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">The Ghost Train</dc:title>
+    <dc:title xml:lang="en">Being Walked by a Dog</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd32e1e24e8104412a4447722d346f44f">
+    <dc:title xml:lang="en">A Northern Spring</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0c0d4bc209fe42d7a236acaf9faef3cc">
+    <rdf:first xml:lang="en">Business as Usual</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/49280158/">
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">Ormsby</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Na68cb7d05a224a2daa1714c1e7760e18">
+  <rdf:Description rdf:nodeID="N234137bf0258436fb87e21802819e6c5">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <dc:title xml:lang="en">Working Days</dc:title>
-    <dc:title xml:lang="en">A Northern Spring</dc:title>
+    <dc:title rdf:nodeID="Nad79dcfe8ef248889dcf524bfc8d72a9"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5e4d62e20fb3499a96bde7c1827e1f9f">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:title xml:lang="en">Business as Usual</dc:title>
   </rdf:Description>
 </rdf:RDF>

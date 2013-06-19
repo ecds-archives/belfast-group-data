@@ -4,82 +4,90 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/11112354/">
-    <schema:name xml:lang="en">O'Canainn, Thomas</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N9a7c0e07fcf74e32ba8d4fae1f990cd7">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/222714533/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nf4cef29dcb614c4c8b330f7e43bf89ac">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/11112354/"/>
-    <dc:title xml:lang="en">Kindling</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://testfindingaids.library.emory.edu/documents/ormsby805/series4/">
-    <schema:dateModified xml:lang="en">2013-05-14</schema:dateModified>
-    <schema:about rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:mentions rdf:nodeID="N9a7c0e07fcf74e32ba8d4fae1f990cd7"/>
-    <schema:mentions rdf:nodeID="Nf4cef29dcb614c4c8b330f7e43bf89ac"/>
-    <schema:mentions rdf:nodeID="Nb22509dfa19e4b6383d2b7d9d3d0f62d"/>
-    <schema:mentions rdf:nodeID="Nf6e9c372819d4f20819594038413b608"/>
-    <schema:mentions rdf:nodeID="N8484950a693d411f8d7a43b780400f30"/>
-    <schema:mentions rdf:nodeID="N9d1c9cad070543abb4c6f85a1009f185"/>
-    <schema:mentions rdf:nodeID="N07275c15bbfe447d8df3ebb7ac09ae44"/>
-    <schema:mentions rdf:nodeID="N91d941b918de470a91139441ef9afbb5"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N9d1c9cad070543abb4c6f85a1009f185">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/123393054/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/95151565/"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/49280158/">
-    <schema:name xml:lang="en">Ormsby's</schema:name>
     <schema:name xml:lang="en">Ormsby</schema:name>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <schema:name xml:lang="en">Ormsby's</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/123393054/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Ndc02a7f40b9e48198a7fd94b7b40a097">
+  <rdf:Description rdf:about="http://viaf.org/viaf/123393054/">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Belfast Group</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6f46502eec1a45bd8fd74f91fcbbe267">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/123393054/"/>
+    <schema:mentions rdf:nodeID="Nf2034537615140708f208c2b1c931bb8"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6dae47dd788a40f68891dc1f0c0bef2f">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/95151565/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/123393054/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series4/">
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateModified xml:lang="en">2013-06-18</schema:dateModified>
+    <schema:mentions rdf:nodeID="N7384bcbd8d5a407ab604f3c8c85d34e1"/>
+    <schema:mentions rdf:nodeID="Nb100e0280e0a4533bdc6397209193ad5"/>
+    <schema:mentions rdf:nodeID="Nbd938fb14f3b45b4aacda4a3aecbc9f2"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <schema:mentions rdf:nodeID="N6f46502eec1a45bd8fd74f91fcbbe267"/>
+    <schema:mentions rdf:nodeID="N71930d7aec864d4e94dd8dfc60eb5e6b"/>
+    <schema:mentions rdf:nodeID="N6dae47dd788a40f68891dc1f0c0bef2f"/>
+    <schema:mentions rdf:nodeID="N3755cc1261184bfa9a69175120b77a1b"/>
+    <schema:mentions rdf:nodeID="N44046082b4b94a03bd874478d65d7928"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N026bbf66c6344d20970715abc92d678e">
     <schema:name xml:lang="en">Egan, Neil</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N07275c15bbfe447d8df3ebb7ac09ae44">
+  <rdf:Description rdf:nodeID="N71930d7aec864d4e94dd8dfc60eb5e6b">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/123393054/"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/95151565/"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nb22509dfa19e4b6383d2b7d9d3d0f62d">
+  <rdf:Description rdf:nodeID="N44046082b4b94a03bd874478d65d7928">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/222714533/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb100e0280e0a4533bdc6397209193ad5">
     <schema:mentions rdf:resource="http://viaf.org/viaf/123393054/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nf6e9c372819d4f20819594038413b608">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/123393054/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/50609413/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/222714533/">
-    <schema:name xml:lang="en">Heaney, Seamus</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N8484950a693d411f8d7a43b780400f30">
-    <schema:mentions rdf:nodeID="N40fdeb280c8c46efbde812ae71e3f7d0"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/123393054/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N40fdeb280c8c46efbde812ae71e3f7d0">
-    <schema:name xml:lang="en">McMahon, Trevor</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/95151565/">
     <schema:name xml:lang="en">MacLaverty, Bernard</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/50609413/">
-    <schema:name xml:lang="en">Dugdale, Norman</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/11112354/">
+    <schema:name xml:lang="en">O'Canainn, Thomas</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/123393054/">
-    <schema:name xml:lang="en">Belfast Group</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  <rdf:Description rdf:nodeID="N7384bcbd8d5a407ab604f3c8c85d34e1">
+    <schema:mentions rdf:nodeID="N026bbf66c6344d20970715abc92d678e"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N91d941b918de470a91139441ef9afbb5">
-    <schema:mentions rdf:nodeID="Ndc02a7f40b9e48198a7fd94b7b40a097"/>
+  <rdf:Description rdf:nodeID="Nf2034537615140708f208c2b1c931bb8">
+    <schema:name xml:lang="en">McMahon, Trevor</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/50609413/">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Dugdale, Norman</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3755cc1261184bfa9a69175120b77a1b">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/11112354/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">Kindling</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/222714533/">
+    <schema:name xml:lang="en">Heaney, Seamus</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbd938fb14f3b45b4aacda4a3aecbc9f2">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/123393054/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/50609413/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
 </rdf:RDF>

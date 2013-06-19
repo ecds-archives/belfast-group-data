@@ -4,209 +4,248 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="N3733f9fe5c7b4ff08e52874318881837">
+  <rdf:Description rdf:about="http://viaf.org/viaf/147030387/">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">BBC Northern
+					 Ireland's</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N965ca57e08d54d519cef07dbf6e307f2">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-    <dc:title xml:lang="en">Conacre: A Poem</dc:title>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/49280158/">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-    <schema:mentions rdf:nodeID="Nc95f67edfb974b43bf85eba779dc3bdb"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:mentions rdf:nodeID="Nfa782001615b40c894c0bf627e5d26b3"/>
     <schema:name xml:lang="en">Ormsby's</schema:name>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
     <schema:name xml:lang="en">Ormsby</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.4/">
-    <schema:mentions rdf:nodeID="N3733f9fe5c7b4ff08e52874318881837"/>
-    <schema:mentions rdf:nodeID="Nbfbf40ac244240ac84618b363c38f3e8"/>
-    <schema:mentions rdf:nodeID="Na876d01a5afe4eeab65f1588f9177001"/>
-    <schema:mentions rdf:nodeID="Nc9aad815a43f4aa69b84e9b90a2aee13"/>
-    <schema:mentions rdf:nodeID="Nacf64eb7dbf44391b52a21fd62974620"/>
-    <schema:mentions rdf:nodeID="N8fa5da3255f741f8a49bcb3ac6f564e9"/>
-    <schema:mentions rdf:nodeID="N89f62901bf8f46c6946b16739c3102f0"/>
-    <schema:mentions rdf:nodeID="Nbdfc65a6b58a46859c015f62a1b6892d"/>
-    <schema:mentions rdf:nodeID="N81f9d0204b1a4df98b5b479216b33a3b"/>
-    <schema:mentions rdf:nodeID="N32736f13390a4fffa3f95feda1fe53c4"/>
-    <schema:mentions rdf:nodeID="Nfefd677bbe724cbd8ab95c12df95b7bb"/>
-    <schema:mentions rdf:nodeID="N0de1e237fa824f95a242b813e24ba3d4"/>
-    <schema:mentions rdf:nodeID="Ndfc054115b0441caa9f7000297ed6f70"/>
-    <schema:mentions rdf:nodeID="Nea03a9142f9d4953a868652e2e65e33a"/>
-    <schema:mentions rdf:nodeID="Nfd2bfc97785d4b2e9f0034af1a35111c"/>
-    <schema:mentions rdf:nodeID="Nbe6bc10c7bc349d9a0345b2626d04ae8"/>
-    <schema:mentions rdf:nodeID="N4ea2ad8f042746a2abe76d954eb0475b"/>
-    <schema:mentions rdf:nodeID="Nd5aff975c08c48f2a900f2e925230f12"/>
-    <schema:mentions rdf:nodeID="Nef56ec01791e4aabbde4f6cde0590e5d"/>
-    <schema:mentions rdf:nodeID="Nb8038a24b04b40279034d13078e18dd1"/>
-    <schema:mentions rdf:nodeID="N01afc1768cb64b41adf1f9ddc998a31b"/>
-    <schema:mentions rdf:nodeID="Ndcd5f269571f4ef5a66d6a5f554b82ac"/>
-    <schema:mentions rdf:nodeID="N5bf8954badb748c6867b48d29b151c60"/>
-    <schema:mentions rdf:nodeID="Nb5923394f7394e64bb1d700a698aa8e9"/>
-    <schema:mentions rdf:nodeID="N0445738a3741403fb76493b795115953"/>
-    <schema:mentions rdf:nodeID="Nad047814d11345e9ae32b59c775ce6c9"/>
-    <schema:mentions rdf:nodeID="Na9aabb7cf4514a8e93b65ecf2892c2ef"/>
-    <schema:mentions rdf:nodeID="Nf0dbb192c4e04ac7b98ee9627c7197bd"/>
-    <schema:mentions rdf:nodeID="N9ffa176a3dfe422b9aee6e13eae9139a"/>
-    <schema:mentions rdf:nodeID="Nfa19c310708646c3b58a9d4909011354"/>
-    <schema:mentions rdf:nodeID="Nff932054339149d8a4b1efd928f1c7fc"/>
-    <schema:mentions rdf:nodeID="N85b4bfefa67a435a8457e864a6e8c4b7"/>
-    <schema:mentions rdf:nodeID="Ne5d63dda886f4102a8b6e997684e30b8"/>
-    <schema:mentions rdf:nodeID="N9360cd16a0604879aca6808a2b58aa77"/>
-    <schema:mentions rdf:nodeID="Ncd26eab05b7646058b3985c7da908f15"/>
-    <schema:mentions rdf:nodeID="Nf19166af04464d08a2046eee1fbe67b1"/>
-    <schema:mentions rdf:nodeID="N6f72c09922b1401a97d0bfdd26691401"/>
-    <schema:mentions rdf:nodeID="Ncf59a28ad7994c92adfba93b3d3a92c5"/>
-    <schema:mentions rdf:nodeID="N4b367cbc2198487da936921f8435a39d"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <schema:dateModified xml:lang="en">2013-05-14</schema:dateModified>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Na876d01a5afe4eeab65f1588f9177001">
     <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-    <dc:title xml:lang="en">The New Northman</dc:title>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc9aad815a43f4aa69b84e9b90a2aee13">
+  <rdf:Description rdf:nodeID="N09e483ed6be24f879e5f803232aa273d">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">The New Northman</dc:title>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9b84d69448e44d31be29976078a7f3a3">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">The Bell</dc:title>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N44b1533dd9b34659a622c926d6dfcdfa">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0753084213ce46d9a218eaa28c02e9d7">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfe4d191e15904c149d3af06f4ba945ae">
+    <dc:title xml:lang="en">The Bell</dc:title>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/94401473/">
+    <schema:name xml:lang="en">John Hewitt</schema:name>
+    <schema:name xml:lang="en">Hewitt's</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">John Hewitt's</schema:name>
+    <schema:name xml:lang="en">Hewitt</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd8a8bed68a6542f0a22bc7ad8743fdb9">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N604f1088094443a9b0cf709a3dcb2320">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
     <dc:title xml:lang="en">The Bell</dc:title>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nacf64eb7dbf44391b52a21fd62974620">
+  <rdf:Description rdf:nodeID="N81cddf7060c54cd1a50d8e9c02ca0427">
+    <dc:title xml:lang="en">The Bell</dc:title>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N56f10afc37484d89b770c8a36b9bff97">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4de78e9947ab4b3e95fd3077e9d9d56f">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb6585b8fc6644806b8971fafb0efe34f">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">The Bell</dc:title>
     <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N8fa5da3255f741f8a49bcb3ac6f564e9">
+  <rdf:Description rdf:nodeID="N8121fe3940454beca0f15e56e7c32d78">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">The Day of the Corncrake</dc:title>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7f98e358c1784d04800f2a32cf7b290f">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfecc95df07794b64a5e1a2b5c08838c2">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb0d1217e26ff42d0a5977d9651c93f3b">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5644122f48bd49bfb613047d57670e5f">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">The Bell</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb2e60cef296144f6a1967e0e9d2e4cca">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/43379361/"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N89f62901bf8f46c6946b16739c3102f0">
+  <rdf:Description rdf:nodeID="Nb1f18c00e2ed473aad202de1c3464fee">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-    <dc:title xml:lang="en">The Bell</dc:title>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nbdfc65a6b58a46859c015f62a1b6892d">
+  <rdf:Description rdf:nodeID="Ne2902ab1af8a465191f690f1c9599fdb">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-    <dc:title xml:lang="en">The Bell</dc:title>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N81f9d0204b1a4df98b5b479216b33a3b">
+  <rdf:Description rdf:nodeID="N5af6577c4e084a68aa156fa98254fbd5">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nca030686e60d4727827959a870f3bd0d">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne06991b6c90542709a4de92faa3aa5e5">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N25025bc9d5374ebb8a2bfb1352768d61">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5530309fb8554a1c93bdee1129c5ddc2">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/43379361/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfa782001615b40c894c0bf627e5d26b3">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">Belfast</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N90e19d94dcbe45c9a0871ca590dca1e9">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">Radio Talk</dc:title>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5890921318144caba94a34ec15faba32">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6fa7dd5d3a854c048cfcdc52851cd4f2">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9ef3ea401d564bc780392be7b4f675b2">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <dc:title xml:lang="en">Quarto Literary Magazine</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd531c1c28b27411182e4b2e6d7ac884e">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/43379361/">
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">McKittrick</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N32736f13390a4fffa3f95feda1fe53c4">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-    <dc:title xml:lang="en">The Bell</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nfefd677bbe724cbd8ab95c12df95b7bb">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc95f67edfb974b43bf85eba779dc3bdb">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">Belfast</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N0de1e237fa824f95a242b813e24ba3d4">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Ndfc054115b0441caa9f7000297ed6f70">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nea03a9142f9d4953a868652e2e65e33a">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nfd2bfc97785d4b2e9f0034af1a35111c">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nbe6bc10c7bc349d9a0345b2626d04ae8">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-    <dc:title xml:lang="en">The Day of the Corncrake</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N4ea2ad8f042746a2abe76d954eb0475b">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-    <dc:title xml:lang="en">The Bell</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nd5aff975c08c48f2a900f2e925230f12">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-    <dc:title xml:lang="en">Tesserae</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nef56ec01791e4aabbde4f6cde0590e5d">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nb8038a24b04b40279034d13078e18dd1">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-    <dc:title xml:lang="en">The Bell</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N01afc1768cb64b41adf1f9ddc998a31b">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Ndcd5f269571f4ef5a66d6a5f554b82ac">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+  <rdf:Description rdf:nodeID="N35ea4e7e32cc4fb6ad6a2a3242abc225">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <dc:title xml:lang="en">The Planter and the Gael</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N5bf8954badb748c6867b48d29b151c60">
     <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nb5923394f7394e64bb1d700a698aa8e9">
+  <rdf:Description rdf:nodeID="Nfb2e193acd6c4eceb20fad5b33dddc77">
+    <dc:title xml:lang="en">The Bell</dc:title>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N51a09441fdaa45d9bdab4f04550c0dd5">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">Conacre: A Poem</dc:title>
     <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N0445738a3741403fb76493b795115953">
+  <rdf:Description rdf:nodeID="Nb90e7c399e3e465da27ba84a61602017">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nad047814d11345e9ae32b59c775ce6c9">
+  <rdf:Description rdf:nodeID="N782f3f92f8924274b6739aa933d06ac1">
+    <dc:title xml:lang="en">Tesserae</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Na9aabb7cf4514a8e93b65ecf2892c2ef">
+  <rdf:Description rdf:nodeID="Nbc289eeb037e4592826d02f2a8ce6f11">
     <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nf0dbb192c4e04ac7b98ee9627c7197bd">
+  <rdf:Description rdf:nodeID="N14d8ba2464a2453084053ddd0809f267">
     <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
     <dc:title xml:lang="en">The New Northman</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N9ffa176a3dfe422b9aee6e13eae9139a">
+  <rdf:Description rdf:nodeID="N4873fe5b0d0e4466b11b3bf25863b34a">
     <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nbfbf40ac244240ac84618b363c38f3e8">
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.4/">
+    <schema:mentions rdf:nodeID="N9b84d69448e44d31be29976078a7f3a3"/>
+    <schema:mentions rdf:nodeID="Nd531c1c28b27411182e4b2e6d7ac884e"/>
+    <schema:mentions rdf:nodeID="N4de78e9947ab4b3e95fd3077e9d9d56f"/>
+    <schema:mentions rdf:nodeID="N88d1863d78ec4406a64e65ba185f0692"/>
+    <schema:mentions rdf:nodeID="N09e483ed6be24f879e5f803232aa273d"/>
+    <schema:mentions rdf:nodeID="N81cddf7060c54cd1a50d8e9c02ca0427"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:mentions rdf:nodeID="N8121fe3940454beca0f15e56e7c32d78"/>
+    <schema:mentions rdf:nodeID="Nca030686e60d4727827959a870f3bd0d"/>
+    <schema:mentions rdf:nodeID="Nfb2e193acd6c4eceb20fad5b33dddc77"/>
+    <schema:mentions rdf:nodeID="Ne06991b6c90542709a4de92faa3aa5e5"/>
+    <schema:mentions rdf:nodeID="N35ea4e7e32cc4fb6ad6a2a3242abc225"/>
+    <schema:mentions rdf:nodeID="N6fa7dd5d3a854c048cfcdc52851cd4f2"/>
+    <schema:mentions rdf:nodeID="N7f98e358c1784d04800f2a32cf7b290f"/>
+    <schema:mentions rdf:nodeID="N4873fe5b0d0e4466b11b3bf25863b34a"/>
+    <schema:mentions rdf:nodeID="N9ef3ea401d564bc780392be7b4f675b2"/>
+    <schema:mentions rdf:nodeID="Nd8a8bed68a6542f0a22bc7ad8743fdb9"/>
+    <schema:dateModified xml:lang="en">2013-06-18</schema:dateModified>
+    <schema:mentions rdf:nodeID="N14d8ba2464a2453084053ddd0809f267"/>
+    <schema:mentions rdf:nodeID="Ne2902ab1af8a465191f690f1c9599fdb"/>
+    <schema:mentions rdf:nodeID="Nfe4d191e15904c149d3af06f4ba945ae"/>
+    <schema:mentions rdf:nodeID="Nb2e60cef296144f6a1967e0e9d2e4cca"/>
+    <schema:mentions rdf:nodeID="N56f10afc37484d89b770c8a36b9bff97"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <schema:mentions rdf:nodeID="N90e19d94dcbe45c9a0871ca590dca1e9"/>
+    <schema:mentions rdf:nodeID="N5644122f48bd49bfb613047d57670e5f"/>
+    <schema:mentions rdf:nodeID="N782f3f92f8924274b6739aa933d06ac1"/>
+    <schema:mentions rdf:nodeID="Nb1f18c00e2ed473aad202de1c3464fee"/>
+    <schema:mentions rdf:nodeID="N5890921318144caba94a34ec15faba32"/>
+    <schema:mentions rdf:nodeID="N604f1088094443a9b0cf709a3dcb2320"/>
+    <schema:mentions rdf:nodeID="Nbc289eeb037e4592826d02f2a8ce6f11"/>
+    <schema:mentions rdf:nodeID="N44b1533dd9b34659a622c926d6dfcdfa"/>
+    <schema:mentions rdf:nodeID="N5af6577c4e084a68aa156fa98254fbd5"/>
+    <schema:mentions rdf:nodeID="N51a09441fdaa45d9bdab4f04550c0dd5"/>
+    <schema:mentions rdf:nodeID="Nb90e7c399e3e465da27ba84a61602017"/>
+    <schema:mentions rdf:nodeID="Nb6585b8fc6644806b8971fafb0efe34f"/>
+    <schema:mentions rdf:nodeID="Nb0d1217e26ff42d0a5977d9651c93f3b"/>
+    <schema:mentions rdf:nodeID="N0753084213ce46d9a218eaa28c02e9d7"/>
+    <schema:mentions rdf:nodeID="N965ca57e08d54d519cef07dbf6e307f2"/>
+    <schema:mentions rdf:nodeID="N5530309fb8554a1c93bdee1129c5ddc2"/>
+    <schema:mentions rdf:nodeID="Nfecc95df07794b64a5e1a2b5c08838c2"/>
+    <schema:mentions rdf:nodeID="N25025bc9d5374ebb8a2bfb1352768d61"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N88d1863d78ec4406a64e65ba185f0692">
     <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-    <dc:title xml:lang="en">Quarto Literary Magazine</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nfa19c310708646c3b58a9d4909011354">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nff932054339149d8a4b1efd928f1c7fc">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-    <dc:title xml:lang="en">The Bell</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N85b4bfefa67a435a8457e864a6e8c4b7">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/147030387/">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">BBC Northern
-					 Ireland's</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Ne5d63dda886f4102a8b6e997684e30b8">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N9360cd16a0604879aca6808a2b58aa77">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Ncd26eab05b7646058b3985c7da908f15">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nf19166af04464d08a2046eee1fbe67b1">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/94401473/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">John Hewitt</schema:name>
-    <schema:name xml:lang="en">John Hewitt's</schema:name>
-    <schema:name xml:lang="en">Hewitt</schema:name>
-    <schema:name xml:lang="en">Hewitt's</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N6f72c09922b1401a97d0bfdd26691401">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387/"/>
-    <dc:title xml:lang="en">Radio Talk</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Ncf59a28ad7994c92adfba93b3d3a92c5">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N4b367cbc2198487da936921f8435a39d">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/43379361/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
 </rdf:RDF>

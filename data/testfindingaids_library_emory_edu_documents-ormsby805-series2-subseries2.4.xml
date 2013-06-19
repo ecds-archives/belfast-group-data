@@ -4,131 +4,144 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="N391426928b444ecda9cc943e6e3fe3e6">
-    <dc:title xml:lang="en">Still Running</dc:title>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/138803018/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nf0b248dfe5d74ac5bcec58317f2eaa4f">
+  <rdf:Description rdf:about="http://viaf.org/viaf/85621766/">
+    <schema:name xml:lang="en">Carson, Ciaran</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Smith, Ian Crichton</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/72904606/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Marshall, Douglas</schema:name>
+  <rdf:Description rdf:nodeID="Nc9dc9229518045c498cd048682a4bb4b">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">The Honest Ulsterman</dc:title>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/46802910/"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N59f61b066e694ab1a66e463728d9338a">
+  <rdf:Description rdf:nodeID="N89ae4bcf24fd4127bd1c9c02f2eb835b">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">Personal Column</dc:title>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/108291535/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0366c8777ff94e92a56e493a853b61c2">
+    <dc:title xml:lang="en">A Killing in the Grove</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/75153460/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9476c52136174087ab8061d7fc8c48ef">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">Poems for Donalda</dc:title>
+    <schema:mentions rdf:nodeID="Nd5fe5fb1bc89467d8f37564ac555e23c"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nee798e9fc5964a03ac53ef00b1451191">
     <dc:title xml:lang="en">An Imaginary Love Affair</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/56651926/"/>
   </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne1eae887c78340bd9fc77cd5d322f957">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/110228045/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">Light Music</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9bebc6c44d5b44eaa39aa6b070fc55a9">
+    <schema:name xml:lang="en">Ulsterman Publications</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/46802910/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">Louis MacNeice</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.4/">
+    <schema:mentions rdf:nodeID="Ne1eae887c78340bd9fc77cd5d322f957"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:mentions rdf:nodeID="N9660cb793b604fa0ba131edb290afce4"/>
+    <schema:mentions rdf:nodeID="N0366c8777ff94e92a56e493a853b61c2"/>
+    <schema:dateModified xml:lang="en">2013-06-18</schema:dateModified>
+    <schema:mentions rdf:nodeID="N00df96145cad461787047bd5a831fe44"/>
+    <schema:mentions rdf:nodeID="Nc9dc9229518045c498cd048682a4bb4b"/>
+    <schema:mentions rdf:nodeID="Nc5ddf6f721104c59ab92243b96969f00"/>
+    <schema:mentions rdf:nodeID="Ne09685186ed449cf81003d07c2f9ef96"/>
+    <schema:mentions rdf:nodeID="N561260407d8343c9b9c8a4e887f29f1a"/>
+    <schema:mentions rdf:nodeID="N89ae4bcf24fd4127bd1c9c02f2eb835b"/>
+    <schema:mentions rdf:nodeID="Nee798e9fc5964a03ac53ef00b1451191"/>
+    <schema:mentions rdf:nodeID="N2e8b5a20017d4fe5a102321a12382185"/>
+    <schema:mentions rdf:nodeID="N9476c52136174087ab8061d7fc8c48ef"/>
+    <schema:about rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.4/None"/>
+    <schema:mentions rdf:nodeID="Ne000bd55f1244b96b37cc3dc55a21445"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/138803018/">
+    <schema:name xml:lang="en">King, Patrick</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/56651926/">
+    <schema:name xml:lang="en">Ewart, Gavin</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/108291535/">
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">Paulin, Tom</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N23025a8c8281424d99065f65852d91be">
-    <dc:title xml:lang="en">A Killing in the Grove</dc:title>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/75153460/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N682158cc5be2489eb4bf880d61101e57">
-    <dc:title xml:lang="en">Being Walked by a Dog</dc:title>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/110228045/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Mahon, Derek</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N8d208d9b379d452fa6a6e289cb097ae2">
-    <dc:title xml:lang="en">The Honest Ulsterman</dc:title>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/46802910/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N8d4c08200f8f49b390e3456e66b045f1">
-    <dc:title xml:lang="en">The Lost Explorer</dc:title>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/85621766/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/56651926/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Ewart, Gavin</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.4/">
-    <schema:about rdf:resource="https://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.4/None"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:dateModified xml:lang="en">2013-05-14</schema:dateModified>
-    <schema:mentions rdf:nodeID="N3aa57ad66721441ea7f9c546b040246a"/>
-    <schema:mentions rdf:nodeID="N391426928b444ecda9cc943e6e3fe3e6"/>
-    <schema:mentions rdf:nodeID="Na0ea8e26b24a48d090896b2f27594924"/>
-    <schema:mentions rdf:nodeID="N8756c04ee02c406ca3c57af6d4c81352"/>
-    <schema:mentions rdf:nodeID="N59f61b066e694ab1a66e463728d9338a"/>
-    <schema:mentions rdf:nodeID="N8d208d9b379d452fa6a6e289cb097ae2"/>
-    <schema:mentions rdf:nodeID="N8d4c08200f8f49b390e3456e66b045f1"/>
-    <schema:mentions rdf:nodeID="N75242ca8750049f39bfb453dcd1eb2cd"/>
-    <schema:mentions rdf:nodeID="N5cbded1433e142cd93ca849239c17c84"/>
-    <schema:mentions rdf:nodeID="N96f8b290238741cba02dac391a256778"/>
-    <schema:mentions rdf:nodeID="N23025a8c8281424d99065f65852d91be"/>
-    <schema:mentions rdf:nodeID="Nf1f1874bb84e4f859baab6e73e1423a4"/>
-    <schema:mentions rdf:nodeID="N682158cc5be2489eb4bf880d61101e57"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N5cbded1433e142cd93ca849239c17c84">
-    <dc:title xml:lang="en">A Killing in the Grove</dc:title>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/75153460/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/138803018/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">King, Patrick</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N5138fc988cdb47e4827fd9e34526df0e">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Ulsterman Publications</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N14d7bc4ec7574017bd6d57b7a676f5da">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Ulsterman Publications</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Na0ea8e26b24a48d090896b2f27594924">
-    <dc:title xml:lang="en">Upstairs Neighbours</dc:title>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/72904606/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/85621766/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Carson, Ciaran</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N96f8b290238741cba02dac391a256778">
-    <dc:title xml:lang="en">Personal Column</dc:title>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/108291535/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.4/None">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:mentions rdf:nodeID="N5138fc988cdb47e4827fd9e34526df0e"/>
-    <schema:mentions rdf:nodeID="N14d7bc4ec7574017bd6d57b7a676f5da"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N3aa57ad66721441ea7f9c546b040246a">
-    <dc:title xml:lang="en">Cleaning Stables</dc:title>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/75153460/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/75153460/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Peskett, William</schema:name>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/33362880/">
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">Johnstone, Robert</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N8756c04ee02c406ca3c57af6d4c81352">
-    <dc:title xml:lang="en">Light Music</dc:title>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/110228045/"/>
+  <rdf:Description rdf:nodeID="Ne09685186ed449cf81003d07c2f9ef96">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/75153460/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">A Killing in the Grove</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/75153460/">
+    <schema:name xml:lang="en">Peskett, William</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2e8b5a20017d4fe5a102321a12382185">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/72904606/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">Upstairs Neighbours</dc:title>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/49280158/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">Ormsby, Frank</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nf1f1874bb84e4f859baab6e73e1423a4">
-    <dc:title xml:lang="en">Our Lives Are Swiss</dc:title>
+  <rdf:Description rdf:nodeID="Nd5fe5fb1bc89467d8f37564ac555e23c">
+    <schema:name xml:lang="en">Smith, Ian Crichton</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N00df96145cad461787047bd5a831fe44">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/85621766/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">The Lost Explorer</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N95f079ed8fb946a8a18c006f10d6e890">
+    <schema:name xml:lang="en">Ulsterman Publications</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9660cb793b604fa0ba131edb290afce4">
+    <dc:title xml:lang="en">Still Running</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/138803018/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N561260407d8343c9b9c8a4e887f29f1a">
     <schema:mentions rdf:resource="http://viaf.org/viaf/33362880/"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">Our Lives Are Swiss</dc:title>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N75242ca8750049f39bfb453dcd1eb2cd">
-    <dc:title xml:lang="en">Poems for Donalda</dc:title>
-    <schema:mentions rdf:nodeID="Nf0b248dfe5d74ac5bcec58317f2eaa4f"/>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.4/None">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:mentions rdf:nodeID="N9bebc6c44d5b44eaa39aa6b070fc55a9"/>
+    <schema:mentions rdf:nodeID="N95f079ed8fb946a8a18c006f10d6e890"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc5ddf6f721104c59ab92243b96969f00">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">Being Walked by a Dog</dc:title>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne000bd55f1244b96b37cc3dc55a21445">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/75153460/"/>
+    <dc:title xml:lang="en">Cleaning Stables</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/72904606/">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Marshall, Douglas</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/110228045/">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Mahon, Derek</schema:name>
   </rdf:Description>
 </rdf:RDF>
