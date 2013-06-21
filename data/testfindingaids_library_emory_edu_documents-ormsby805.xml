@@ -1,232 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rdf:RDF
+   xmlns:arch="http://purl.org/archival/vocab/arch#"
+   xmlns:dbp="http://dbpedia.org/ontology/"
    xmlns:dc="http://purl.org/dc/terms/"
-   xmlns:ns1="originator:"
    xmlns:owl="http://www.w3.org/2002/07/owl#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="N3ad877ab0e0b43a887907b67c35de6dc">
-    <schema:name xml:lang="en">Emory University</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/55394043/">
-    <schema:name xml:lang="en">Michael Foley</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39398205/">
+    <schema:name xml:lang="en">Michael Longley</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/33362880/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Robert Johnstone</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/147893360/">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Gallery Press</schema:name>
+    <schema:name xml:lang="en">Longley, Michael,
+			 1939-</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/49280158/">
-    <schema:name xml:lang="en">Frank Ormsby</schema:name>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/222714533/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/92591927/"/>
-    <schema:jobTitle xml:lang="en">poet</schema:jobTitle>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/33362880/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/76349747/"/>
-    <schema:jobTitle xml:lang="en">teacher</schema:jobTitle>
-    <schema:jobTitle xml:lang="en">editor</schema:jobTitle>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/147893360/"/>
-    <schema:jobTitle xml:lang="en">Poet</schema:jobTitle>
-    <schema:name xml:lang="en">Ormsby</schema:name>
     <schema:mentions rdf:resource="http://sws.geonames.org/7521316/"/>
-    <ns1:alumniOf rdf:resource="http://viaf.org/viaf/173298995/"/>
+    <schema:workLocation rdf:resource="http://viaf.org/viaf/126719206/"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:jobTitle xml:lang="en">Editor</schema:jobTitle>
+    <schema:alumniOf rdf:resource="http://viaf.org/viaf/173298995/"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/76349747/"/>
+    <dbp:birthPlace rdf:resource="http://sws.geonames.org/2649984/"/>
+    <schema:homeLocation rdf:resource="http://sws.geonames.org/2655984/"/>
+    <schema:association rdf:resource="http://viaf.org/viaf/131195240/"/>
+    <schema:association rdf:resource="http://viaf.org/viaf/147893360/"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/222714533/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
     <schema:name xml:lang="en">Ormsby, Frank,
 			 1947-</schema:name>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2655984/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <ns1:employer rdf:resource="http://viaf.org/viaf/126719206/"/>
-    <schema:name xml:lang="en">Ormsby's</schema:name>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/123393054/"/>
-    <schema:jobTitle xml:lang="en">Editor</schema:jobTitle>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/55394043/"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/131195240/"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2649984/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/222714533/">
-    <schema:name xml:lang="en">Heaney,
-			 Seamus, 1939-</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Seamus Heaney</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2635167/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">Great Britain</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/64022963/">
-    <schema:name xml:lang="en">Rumens, Carol.</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Carol Rumens</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N7fe6e6fc4d444fa2927299aa07954354">
-    <schema:name xml:lang="en">Great Britain</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/173298995/">
-    <schema:name xml:lang="en">Queen's University Belfast</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/50609413/">
-    <schema:name xml:lang="en">Norman Dugdale</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/85621766/">
-    <schema:name xml:lang="en">Ciaran Carson</schema:name>
-    <schema:name xml:lang="en">Carson, Ciaran, 1948-</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N6c9be86361d74f90851c843d0771cf91">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/64022963/"/>
-    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zf2t"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/110228045/"/>
-    <schema:keywords xml:lang="en">Jamie, Kathleen, 1962-</schema:keywords>
-    <schema:keywords xml:lang="en">Poems.</schema:keywords>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series4/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.3/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.2/"/>
-    <schema:keywords xml:lang="en">Longley, Edna.</schema:keywords>
-    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zn19"/>
-    <schema:description xml:lang="en">Personal and literary papers of Irish poet
-        Frank Ormsby.
-            </schema:description>
-    <schema:mentions rdf:nodeID="N304cc896bcda40818ddb295b741dac54"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zkmf"/>
-    <schema:mentions rdf:nodeID="N7fe6e6fc4d444fa2927299aa07954354"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/120096893/"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2641364/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series8/"/>
-    <schema:creator rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/64048541/"/>
-    <schema:keywords xml:lang="en">Publishers and publishing--Ireland.</schema:keywords>
-    <schema:keywords xml:lang="en">McGuckian, Medbh, 1950-</schema:keywords>
-    <schema:keywords xml:lang="en">Editor.</schema:keywords>
-    <schema:keywords xml:lang="en">Photographs.</schema:keywords>
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series1/subseries1.1/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.1/"/>
-    <schema:keywords xml:lang="en">Irish poetry--20th century.</schema:keywords>
-    <schema:keywords xml:lang="en">Carson, Ciaran, 1948-</schema:keywords>
-    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8z8zw"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series7/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.5/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.4/"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2635167/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/199252297/"/>
-    <schema:jobTitle xml:lang="en">Editor.</schema:jobTitle>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473/"/>
-    <schema:keywords xml:lang="en">Simmons, James, 1933-</schema:keywords>
-    <schema:keywords xml:lang="en">Hewitt, John Harold, 1907-</schema:keywords>
-    <schema:jobTitle xml:lang="en">Poet.</schema:jobTitle>
-    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zrf8"/>
-    <schema:name xml:lang="en"> 
-                Frank Ormsby papers, 
-		  circa 1967-2004
-            
-             </schema:name>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/50609413/"/>
-    <schema:keywords xml:lang="en">Heaney, Seamus, 1939-</schema:keywords>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2963597/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series1/"/>
-    <schema:keywords xml:lang="en">Poet.</schema:keywords>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/222714533/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/"/>
-    <schema:keywords xml:lang="en">Fallon, Peter, 1951-</schema:keywords>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/108291535/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/92591927/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series1/subseries1.2/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.3/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/222714533/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/94401473/"/>
-    <schema:keywords xml:lang="en">Mahon, Derek, 1941-</schema:keywords>
-    <schema:keywords xml:lang="en">Paulin, Tom.</schema:keywords>
-    <schema:keywords xml:lang="en">Manuscripts.</schema:keywords>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/110228045/"/>
-    <schema:keywords xml:lang="en">Longley, Michael, 1939-</schema:keywords>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/39398205/"/>
-    <schema:keywords xml:lang="en">Poets, Irish--20th century.</schema:keywords>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/199252297/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/95151565/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/109956735/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/85621766/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1b/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/"/>
-    <schema:keywords xml:lang="en">Muldoon, Paul.</schema:keywords>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/24613408/"/>
-    <schema:keywords xml:lang="en">English poetry--Irish authors--20th century.</schema:keywords>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/85621766/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/24613408/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series6/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.1/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.2/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.4/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/109956735/"/>
+    <schema:colleague rdf:resource="http://viaf.org/viaf/33362880/"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/92591927/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1a/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/64048541/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/120096893/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/"/>
-    <schema:keywords xml:lang="en">Rumens, Carol.</schema:keywords>
-    <rdf:type rdf:resource="http://purl.org/archival/vocab/arch#Collection"/>
-    <schema:keywords xml:lang="en">Honest ulsterman.</schema:keywords>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1c/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/64022963/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/39398205/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.2/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/123393054/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.3/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/108291535/"/>
-    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zm5r"/>
+    <schema:memberOf rdf:resource="http://viaf.org/viaf/123393054/"/>
+    <schema:colleague rdf:resource="http://viaf.org/viaf/55394043/"/>
+    <schema:jobTitle xml:lang="en">Poet</schema:jobTitle>
+    <schema:birthDate xml:lang="en">1947</schema:birthDate>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N304cc896bcda40818ddb295b741dac54">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">Ireland</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109956735/">
+    <schema:name xml:lang="en">Edna</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Longley, Edna.</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/7521316/">
     <schema:name xml:lang="en">Ulster</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/95151565/">
-    <schema:name xml:lang="en">Bernard MacLaverty</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/64022963/">
     <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Rumens, Carol.</schema:name>
+    <schema:name xml:lang="en">Carol Rumens</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/123393054/">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Belfast Group</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/120096893/">
+    <schema:name xml:lang="en">Medbh McGuckian</schema:name>
+    <schema:name xml:lang="en">McGuckian, Medbh,
+			 1950-</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2641364/">
-    <schema:name xml:lang="en">Northern Ireland</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">Northern Ireland</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/199252297/">
-    <schema:name xml:lang="en">Kathleen Jamie</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Jamie, Kathleen,
-			 1962-</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/64048541/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Paul Muldoon</schema:name>
-    <schema:name xml:lang="en">Muldoon, Paul.</schema:name>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/8zqq8">
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/"/>
+    <schema:datePublished xml:lang="en">2003-08-15</schema:datePublished>
+    <schema:url xml:lang="en">http://pid.emory.edu/ark:/25593/8zqq8</schema:url>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <schema:dateModified xml:lang="en">2013-06-19</schema:dateModified>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series7/"/>
+    <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004</schema:name>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series6/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series8/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/"/>
+    <schema:about xml:lang="en">http://viaf.org/viaf/49280158/</schema:about>
+    <owl:sameAs rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/"/>
+    <schema:dateCreated xml:lang="en">2003-08-15</schema:dateCreated>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series4/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series1/"/>
+    <schema:author xml:lang="en">Manuscript, Archives, and Rare Book     Library, Emory University</schema:author>
+    <schema:publisher rdf:nodeID="Na0dcbc29810c4001b8cf49c37635c8ad"/>
+    <schema:about rdf:nodeID="Ne946634b137841f9ab1c9baa8212795f"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/76349747/">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">Michael Allen</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/24613408/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Fallon, Peter,
-          1951-</schema:name>
-    <schema:name xml:lang="en">Peter Fallon</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/94401473/">
     <schema:name xml:lang="en">John Hewitt</schema:name>
@@ -234,71 +91,201 @@
 			 1907-</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/110228045/">
-    <schema:name xml:lang="en">Mahon, Derek,
-			 1941-</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Derek Mahon</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/109956735/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Edna</schema:name>
-    <schema:name xml:lang="en">Longley, Edna.</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2963597/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">Ireland</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/108291535/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Tom Paulin</schema:name>
-    <schema:name xml:lang="en">Paulin, Tom.</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2655984/">
-    <schema:name xml:lang="en">Belfast</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/126719206/">
     <rdf:type rdf:resource="http://schema.org/Organization"/>
     <schema:name xml:lang="en">Royal Belfast Academical Institution</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/39398205/">
-    <schema:name xml:lang="en">Michael Longley</schema:name>
-    <schema:name xml:lang="en">Michael
-		Longley</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Longley, Michael,
-			 1939-</schema:name>
+  <rdf:Description rdf:nodeID="Ne946634b137841f9ab1c9baa8212795f">
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.3/"/>
+    <schema:keywords xml:lang="en">Publishers and publishing--Ireland.</schema:keywords>
+    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zn19"/>
+    <schema:keywords xml:lang="en">Paulin, Tom.</schema:keywords>
+    <schema:knows rdf:resource="http://viaf.org/viaf/120096893/"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/39398205/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1c/"/>
+    <schema:keywords xml:lang="en">Longley, Michael, 1939-</schema:keywords>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/64048541/"/>
+    <schema:keywords xml:lang="en">Photographs.</schema:keywords>
+    <schema:about rdf:resource="http://viaf.org/viaf/39398205/"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/110228045/"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/199252297/"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/108291535/"/>
+    <schema:keywords xml:lang="en">Irish poetry--20th century.</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.1/"/>
+    <schema:keywords xml:lang="en">Fallon, Peter, 1951-</schema:keywords>
+    <schema:keywords xml:lang="en">Mahon, Derek, 1941-</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series4/"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/92591927/"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <schema:keywords xml:lang="en">McGuckian, Medbh, 1950-</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series1/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/120096893/"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/109956735/"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/85621766/"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/64022963/"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/64048541/"/>
+    <schema:homeLocation rdf:resource="http://sws.geonames.org/2963597/"/>
+    <schema:keywords xml:lang="en">Carson, Ciaran, 1948-</schema:keywords>
+    <schema:about rdf:resource="http://viaf.org/viaf/92591927/"/>
+    <schema:name xml:lang="en"> 
+                Frank Ormsby papers,
+		  circa 1967-2004
+            
+             </schema:name>
+    <schema:keywords xml:lang="en">Muldoon, Paul.</schema:keywords>
+    <schema:about rdf:resource="http://viaf.org/viaf/109956735/"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/120096893/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1b/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.4/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series1/subseries1.2/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series7/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <schema:keywords xml:lang="en">Simmons, James, 1933-</schema:keywords>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/199252297/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/123393054/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/110228045/"/>
+    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8z8zw"/>
+    <schema:keywords xml:lang="en">Manuscripts.</schema:keywords>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/39398205/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.3/"/>
+    <rdf:type rdf:resource="http://purl.org/archival/vocab/arch#Collection"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/108291535/"/>
+    <schema:keywords xml:lang="en">Poems.</schema:keywords>
+    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zf2t"/>
+    <schema:keywords xml:lang="en">Editor.</schema:keywords>
+    <schema:about rdf:resource="http://viaf.org/viaf/64048541/"/>
+    <schema:keywords xml:lang="en">Poet.</schema:keywords>
+    <schema:knows rdf:resource="http://viaf.org/viaf/92591927/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.4/"/>
+    <schema:keywords xml:lang="en">Rumens, Carol.</schema:keywords>
+    <schema:keywords xml:lang="en">Jamie, Kathleen, 1962-</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series1/subseries1.1/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/64022963/"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/222714533/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/85621766/"/>
+    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zm5r"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/94401473/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.1/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series6/"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/92591927/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/39398205/"/>
+    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zrf8"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.5/"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/109956735/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series8/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/95151565/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/108291535/"/>
+    <schema:keywords xml:lang="en">Poets, Irish--20th century.</schema:keywords>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/24613408/"/>
+    <schema:keywords xml:lang="en">Hewitt, John Harold, 1907-</schema:keywords>
+    <schema:knows rdf:resource="http://viaf.org/viaf/24613408/"/>
+    <schema:keywords xml:lang="en">Honest ulsterman.</schema:keywords>
+    <schema:about rdf:resource="http://viaf.org/viaf/222714533/"/>
+    <schema:description xml:lang="en">Personal and literary papers of Irish poet
+        Frank Ormsby.
+            </schema:description>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/222714533/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.3/"/>
+    <schema:keywords xml:lang="en">English poetry--Irish authors--20th century.</schema:keywords>
+    <schema:about rdf:resource="http://viaf.org/viaf/199252297/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.2/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/50609413/"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/110228045/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/222714533/"/>
+    <schema:homeLocation rdf:resource="http://sws.geonames.org/2641364/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.2/"/>
+    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zkmf"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/85621766/"/>
+    <schema:keywords xml:lang="en">Longley, Edna.</schema:keywords>
+    <schema:knows rdf:resource="http://viaf.org/viaf/64022963/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1a/"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/64048541/"/>
+    <schema:keywords xml:lang="en">Heaney, Seamus, 1939-</schema:keywords>
+    <schema:about rdf:resource="http://viaf.org/viaf/24613408/"/>
+    <schema:jobTitle xml:lang="en">Poet.</schema:jobTitle>
+    <schema:jobTitle xml:lang="en">Editor.</schema:jobTitle>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/"/>
+    <schema:creator rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.2/"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/131195240/">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">University of St Thomas at St Paul, Minnesota</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/110228045/">
+    <schema:name xml:lang="en">Derek Mahon</schema:name>
+    <schema:name xml:lang="en">Mahon, Derek,
+			 1941-</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/95151565/">
+    <schema:name xml:lang="en">Bernard MacLaverty</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2649984/">
     <schema:name xml:lang="en">Enniskillen,  County Fermanagh, Northern Ireland</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/8zqq8">
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series6/"/>
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
-    <schema:author xml:lang="en">Manuscript, Archives, and Rare Book     Library, Emory University</schema:author>
-    <schema:dateCreated xml:lang="en">2003-08-15</schema:dateCreated>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series8/"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:about rdf:nodeID="N6c9be86361d74f90851c843d0771cf91"/>
-    <owl:sameAs rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series7/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series4/"/>
-    <schema:datePublished xml:lang="en">2003-08-15</schema:datePublished>
-    <schema:publisher rdf:nodeID="N3ad877ab0e0b43a887907b67c35de6dc"/>
-    <schema:dateModified xml:lang="en">2013-06-18</schema:dateModified>
-    <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004</schema:name>
-    <schema:url xml:lang="en">http://pid.emory.edu/ark:/25593/8zqq8</schema:url>
-    <schema:about xml:lang="en">http://viaf.org/viaf/49280158/</schema:about>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series1/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/24613408/">
+    <schema:name xml:lang="en">Fallon, Peter,
+          1951-</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Peter Fallon</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/50609413/">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Norman Dugdale</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/131195240/">
+    <schema:name xml:lang="en">University of St Thomas at St Paul, Minnesota</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/64048541/">
+    <schema:name xml:lang="en">Paul Muldoon</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Muldoon, Paul.</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2655984/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">Belfast</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/123393054/">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Belfast Group</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/173298995/">
+    <schema:name xml:lang="en">Queen's University Belfast</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108291535/">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Paulin, Tom.</schema:name>
+    <schema:name xml:lang="en">Tom Paulin</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/33362880/">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Robert Johnstone</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/55394043/">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Michael Foley</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2963597/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">Ireland</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/199252297/">
+    <schema:name xml:lang="en">Kathleen Jamie</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Jamie, Kathleen,
+			 1962-</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/222714533/">
+    <schema:name xml:lang="en">Seamus Heaney</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Heaney,
+			 Seamus, 1939-</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/92591927/">
     <rdf:type rdf:resource="http://schema.org/Person"/>
@@ -306,10 +293,17 @@
 			 1933-</schema:name>
     <schema:name xml:lang="en">James Simmons</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/120096893/">
-    <schema:name xml:lang="en">McGuckian, Medbh,
-			 1950-</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/147893360/">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Gallery Press</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/85621766/">
+    <schema:name xml:lang="en">Carson, Ciaran, 1948-</schema:name>
+    <schema:name xml:lang="en">Ciaran Carson</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Medbh McGuckian</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na0dcbc29810c4001b8cf49c37635c8ad">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Emory University</schema:name>
   </rdf:Description>
 </rdf:RDF>

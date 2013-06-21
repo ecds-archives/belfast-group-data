@@ -3,21 +3,21 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="N3aad86d58df2432c92bd1d39176d1fcb">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Enniskillen Integrated Primary School</schema:name>
-  </rdf:Description>
   <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series7/">
-    <schema:dateModified xml:lang="en">2013-06-18</schema:dateModified>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:mentions rdf:nodeID="Nb6a01626d14b48458e432b9b3f52d99c"/>
+    <schema:mentions rdf:nodeID="Ne9bc1f468fad4e9fa8cfbe22f416c963"/>
     <schema:about rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateModified xml:lang="en">2013-06-19</schema:dateModified>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/49280158/">
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nb6a01626d14b48458e432b9b3f52d99c">
-    <schema:mentions rdf:nodeID="N3aad86d58df2432c92bd1d39176d1fcb"/>
+  <rdf:Description rdf:nodeID="Ne9bc1f468fad4e9fa8cfbe22f416c963">
+    <schema:mentions rdf:nodeID="Nd8de317377da4ec6967f351f2b373dcd"/>
     <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd8de317377da4ec6967f351f2b373dcd">
+    <schema:name xml:lang="en">Enniskillen Integrated Primary School</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
   </rdf:Description>
 </rdf:RDF>

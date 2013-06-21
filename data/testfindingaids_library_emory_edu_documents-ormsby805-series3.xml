@@ -4,22 +4,21 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/49280158/">
-    <schema:name xml:lang="en">Ormsby's</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Ormsby</schema:name>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/">
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1a/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.4/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.3/"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:dateModified xml:lang="en">2013-06-18</schema:dateModified>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1c/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.2/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/"/>
     <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1b/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.2/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.4/"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
     <schema:about rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1c/"/>
+    <schema:dateModified xml:lang="en">2013-06-19</schema:dateModified>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1a/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.3/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/49280158/">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Ormsby's</schema:name>
   </rdf:Description>
 </rdf:RDF>
