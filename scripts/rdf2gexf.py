@@ -39,7 +39,8 @@ for infile in glob.iglob('data/*.xml'):
 
 print '%d triples in %d files' % (len(g), files)
 
-nxg = nx.Graph()
+nxg = nx.MultiDiGraph()
+
 
 # iterate through rdf triples and add to the graph
 for subj, pred, obj in g:
@@ -51,7 +52,6 @@ for subj, pred, obj in g:
         if label is not None:
             add_opts['label'] = label
             nxg.add_node(subj, **add_opts)
-
 
     if pred is not rdflib.RDF.type and \
             (isinstance(obj, rdflib.URIRef) or isinstance(obj, rdflib.BNode)) \
@@ -66,7 +66,7 @@ for subj, pred, obj in g:
     ns, name = rdflib.namespace.split_uri(pred)
 
     # if the object is a literal, add it to the node as a property of the subject
-    if isinstance(obj, rdflib.Literal) or pred == rdflib.RDF.type:
+    if subj in nxg and isinstance(obj, rdflib.Literal) or pred == rdflib.RDF.type:
         if pred == rdflib.RDF.type:
             ns, val = rdflib.namespace.split_uri(obj)
         else:
