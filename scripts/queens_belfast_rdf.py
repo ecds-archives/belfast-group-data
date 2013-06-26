@@ -202,7 +202,8 @@ def generate_rdf(file):
         if len(titles) == 1:
             title = rdflib.Literal(titles[0])
             g.add((msnode, DC.title, title))
-        # multiple titles; use document parts to describe
+
+        # multiple titles; use rdf sequence to preserve order
         else:
             title_node = rdflib.BNode()
             title_coll = RdfCollection(g, title_node,
