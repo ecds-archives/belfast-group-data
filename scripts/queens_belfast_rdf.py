@@ -8,6 +8,7 @@ import re
 import os.path
 try:
     import rdflib
+    from rdflib.collection import Collection as RdfCollection
 except ImportError:
     print '''Please install rdflib (pip install or easy_install rdflib)'''
     exit(-1)
@@ -69,7 +70,6 @@ QUB_BELFAST_COLLECTION = 'http://www.qub.ac.uk/directorates/InformationServices/
 #   Gallagher, Maurice
 #   Harvey, W.J.
 #   Johnston, J. K.
-
 
 
 def generate_rdf(file):
@@ -201,16 +201,13 @@ def generate_rdf(file):
         # if only one title, no parts
         if len(titles) == 1:
             title = rdflib.Literal(titles[0])
-            g.add((msnode, SCHEMA_ORG.name, title))
+            g.add((msnode, DC.title, title))
         # multiple titles; use document parts to describe
         else:
-            for title in titles:
-                docpart = rdflib.BNode()
-                # this item is a document part with a title, related to ms by dc:hasPart
-                g.add((docpart, rdflib.RDF.type, BIBO.DocumentPart))
-                g.add((docpart, SCHEMA_ORG.name, rdflib.Literal(title)))
-                g.add((docpart, DC.title, rdflib.Literal(title)))
-                g.add((msnode, DC.hasPart, docpart))
+            title_node = rdflib.BNode()
+            title_coll = RdfCollection(g, title_node,
+                                       [rdflib.Literal(t) for t in titles])
+            g.add((msnode, DC.title, title_node))
 
 
     # use input filename as base, but generate as .xml in current directory
