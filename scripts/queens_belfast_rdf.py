@@ -48,6 +48,10 @@ NAME_URIS = {
     'Belfast Group': 'http://viaf.org/viaf/123393054/',
 }
 
+# URI to PDF for Queen's description of their Belfast Group collection
+# FIXME: doesn't seem like the most stable of URIs...
+QUB_BELFAST_COLLECTION = 'http://www.qub.ac.uk/directorates/InformationServices/TheLibrary/FileStore/Filetoupload,312673,en.pdf'
+
 # URIs not found for:
 #   Croskery, Lynette
 #   Stronge, Marilyn
@@ -67,6 +71,7 @@ NAME_URIS = {
 #   Johnston, J. K.
 
 
+
 def generate_rdf(file):
     htmlfile = open(file)
     doc = BeautifulSoup(htmlfile)
@@ -77,7 +82,8 @@ def generate_rdf(file):
     g.bind('dc', DC)
 
     # create a blank node for the archival collection at Queen's Belfast (no URI)
-    coll = rdflib.BNode()
+#    coll = rdflib.BNode()
+    coll = rdflib.URIRef(QUB_BELFAST_COLLECTION)
     for t in [ARCH.Collection, SCHEMA_ORG.CreativeWork, DCMITYPE.Collection]:
         g.add((coll, rdflib.RDF.type, t))
     g.add((coll, SCHEMA_ORG.name, rdflib.Literal(doc.body.h1.text)))
