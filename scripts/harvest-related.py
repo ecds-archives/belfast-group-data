@@ -59,7 +59,7 @@ def process_files(files, basedir):
         if len(res) == 0:
             continue
 
-        uris = [str(r['uri']) for r in res]
+        uris = [unicode(r['uri']) for r in res]
 
         datadir = os.path.join(basedir, name)
         if not os.path.isdir(datadir):
