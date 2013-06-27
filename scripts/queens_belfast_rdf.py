@@ -34,19 +34,19 @@ PAREN_REGEX = re.compile(' ?\([^())]+\)')
 
 
 NAME_URIS = {
-    'Terry, Arthur': 'http://viaf.org/viaf/2490119/',
-    'Hobsbaum, Philip': 'http://viaf.org/viaf/91907300/',
-    'Heaney, Seamus': 'http://viaf.org/viaf/109557338/',
-    'Pakenham, John': 'http://viaf.org/viaf/40930958/',
+    'Terry, Arthur': 'http://viaf.org/viaf/2490119',
+    'Hobsbaum, Philip': 'http://viaf.org/viaf/91907300',
+    'Heaney, Seamus': 'http://viaf.org/viaf/109557338',
+    'Pakenham, John': 'http://viaf.org/viaf/40930958',
     'Bredin, Hugh': 'http://viaf.org/viaf/94376522',   # seems likely (lecturer at Queen's Univ. Belfast)
     'Buller, Norman': 'http://viaf.org/viaf/29058137',
     'McEldowney, Eugene': 'http://viaf.org/viaf/18143404',
-    'Longley, Michael': 'http://viaf.org/viaf/39398205/',
+    'Longley, Michael': 'http://viaf.org/viaf/39398205',
     'Dugdale, Norman': 'http://viaf.org/viaf/50609413',
-    'Simmons, James': 'http://viaf.org/viaf/92591927/',
-    'Parker, Stewart': 'http://viaf.org/viaf/7497547/',
+    'Simmons, James': 'http://viaf.org/viaf/92591927',
+    'Parker, Stewart': 'http://viaf.org/viaf/7497547',
     'MacLaverty, Bernard': 'http://viaf.org/viaf/95151565',
-    'Belfast Group': 'http://viaf.org/viaf/123393054/',
+    'Belfast Group': 'http://viaf.org/viaf/123393054',
 }
 
 # URI to PDF for Queen's description of their Belfast Group collection
