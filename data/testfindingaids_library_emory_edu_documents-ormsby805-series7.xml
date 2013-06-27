@@ -3,21 +3,22 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series7/">
-    <schema:mentions rdf:nodeID="Ne9bc1f468fad4e9fa8cfbe22f416c963"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:dateModified xml:lang="en">2013-06-19</schema:dateModified>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/49280158/">
+  <rdf:Description rdf:about="http://viaf.org/viaf/49280158">
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Ne9bc1f468fad4e9fa8cfbe22f416c963">
-    <schema:mentions rdf:nodeID="Nd8de317377da4ec6967f351f2b373dcd"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series7/">
+    <schema:dateModified xml:lang="en">2013-06-27</schema:dateModified>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:mentions rdf:nodeID="N9c20ed26c5d3457b82c0155c8e90d6de"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/49280158"/>
+    <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004; Series 7: Personal materials</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nd8de317377da4ec6967f351f2b373dcd">
-    <schema:name xml:lang="en">Enniskillen Integrated Primary School</schema:name>
+  <rdf:Description rdf:nodeID="N6040c6ce6045446bb0f8c9aea4794550">
     <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Enniskillen Integrated Primary School</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9c20ed26c5d3457b82c0155c8e90d6de">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:nodeID="N6040c6ce6045446bb0f8c9aea4794550"/>
   </rdf:Description>
 </rdf:RDF>

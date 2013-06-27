@@ -3,88 +3,89 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.3/">
-    <schema:mentions rdf:nodeID="Ne28bbbe84de74134bbf732a04e38dde9"/>
-    <schema:mentions rdf:nodeID="N21435b9775c74408b584751857f93c68"/>
-    <schema:mentions rdf:nodeID="Na206f5b43a324ff5ac61f23ac2f66251"/>
-    <schema:dateModified xml:lang="en">2013-06-19</schema:dateModified>
-    <schema:mentions rdf:nodeID="N8118d22a3ca843bdb026c77eadf3c49b"/>
-    <schema:mentions rdf:nodeID="Nccc3327421ff407da873799887345c7b"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <schema:mentions rdf:nodeID="Ne1847f8154024523bcd8a94838c463f1"/>
-    <schema:mentions rdf:nodeID="Ncb493c1a8c1f453394e683cd7574771d"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:mentions rdf:nodeID="N80fa7fca3519445995431811434ad1b9"/>
-    <schema:mentions rdf:nodeID="N5ccf9718307141ea8bda51a48292e9d1"/>
-    <schema:mentions rdf:nodeID="N97e1c0b4cace499aae0c4d2e7ce60c31"/>
-    <schema:mentions rdf:nodeID="Nc1b9ac60f08a47c1a51c15e6cd8ffb27"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N8118d22a3ca843bdb026c77eadf3c49b">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387/"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Na206f5b43a324ff5ac61f23ac2f66251">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387/"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Ne1847f8154024523bcd8a94838c463f1">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N97e1c0b4cace499aae0c4d2e7ce60c31">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387/"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N21435b9775c74408b584751857f93c68">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387/"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nccc3327421ff407da873799887345c7b">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/49280158/">
-    <schema:name xml:lang="en">Frank Ormsby</schema:name>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387/"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Ormsby</schema:name>
+    <schema:name xml:lang="en">Michael Longley</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/147030387/">
+  <rdf:Description rdf:about="http://viaf.org/viaf/147030387">
+    <schema:name xml:lang="en">BBC Northern
+				    Ireland</schema:name>
     <schema:name xml:lang="en">BBC Northern
                 Ireland</schema:name>
     <schema:name xml:lang="en">BBC Northern
                   Ireland</schema:name>
-    <schema:name xml:lang="en">BBC Northern
-				    Ireland</schema:name>
     <rdf:type rdf:resource="http://schema.org/Organization"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Ne28bbbe84de74134bbf732a04e38dde9">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387/"/>
+  <rdf:Description rdf:nodeID="Ne4729c2a01e949c3bd355cdeaf6f8221">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N12ad4fc3e84b4dd38d4ed6f26ccb962b">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387"/>
     <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N80fa7fca3519445995431811434ad1b9">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387/"/>
+  <rdf:Description rdf:nodeID="N937a512ee6724e6a9631f8d5eb004591">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387"/>
     <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/39398205/">
+  <rdf:Description rdf:nodeID="N816cdcf34cf14c66817f270cc849d88f">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na1b5e763ebc5452381b3f35ee0d35133">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5684dd7c216f48258786d8df1b2d6f1c">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1fdc9684e367454a8e77d16020be935c">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb03726f2fdf34efb8e23cb41aaed674e">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/49280158">
+    <schema:name xml:lang="en">Ormsby</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Michael Longley</schema:name>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387"/>
+    <schema:name xml:lang="en">Frank Ormsby</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N5ccf9718307141ea8bda51a48292e9d1">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/39398205/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+  <rdf:Description rdf:nodeID="N47c65933235045c1aebbc5b6354f6283">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387"/>
     <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc1b9ac60f08a47c1a51c15e6cd8ffb27">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+  <rdf:Description rdf:nodeID="Ndc01c07d40334e9abac7ee15028a9f18">
     <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Ncb493c1a8c1f453394e683cd7574771d">
+  <rdf:Description rdf:nodeID="N4c2da433a785484984eb9d4d0f782b6e">
     <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/147030387"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.3/">
+    <schema:mentions rdf:nodeID="Ndc01c07d40334e9abac7ee15028a9f18"/>
+    <schema:mentions rdf:nodeID="N816cdcf34cf14c66817f270cc849d88f"/>
+    <schema:mentions rdf:nodeID="N5684dd7c216f48258786d8df1b2d6f1c"/>
+    <schema:mentions rdf:nodeID="N12ad4fc3e84b4dd38d4ed6f26ccb962b"/>
+    <schema:mentions rdf:nodeID="N1fdc9684e367454a8e77d16020be935c"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:mentions rdf:nodeID="Na1b5e763ebc5452381b3f35ee0d35133"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/49280158"/>
+    <schema:mentions rdf:nodeID="N4c2da433a785484984eb9d4d0f782b6e"/>
+    <schema:mentions rdf:nodeID="N937a512ee6724e6a9631f8d5eb004591"/>
+    <schema:mentions rdf:nodeID="N47c65933235045c1aebbc5b6354f6283"/>
+    <schema:mentions rdf:nodeID="Ne4729c2a01e949c3bd355cdeaf6f8221"/>
+    <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004; Subseries 3.3: Scripts by Frank Ormsby, 1970-1989</schema:name>
+    <schema:dateModified xml:lang="en">2013-06-27</schema:dateModified>
+    <schema:mentions rdf:nodeID="Nb03726f2fdf34efb8e23cb41aaed674e"/>
   </rdf:Description>
 </rdf:RDF>

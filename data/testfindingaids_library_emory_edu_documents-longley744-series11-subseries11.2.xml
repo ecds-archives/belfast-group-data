@@ -5,8 +5,9 @@
    xmlns:schema="http://schema.org/"
 >
   <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/longley744/series11/subseries11.2/">
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
     <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/longley744/index1/"/>
+    <schema:name xml:lang="en">Michael Longley papers, 1960-2000; Subseries 11.2: John Hewitt Summer School records, circa 1966-1996</schema:name>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
     <schema:dateModified xml:lang="en">2013-06-18</schema:dateModified>
   </rdf:Description>
 </rdf:RDF>

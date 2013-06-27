@@ -3,20 +3,21 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/39398205/">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
     <schema:name xml:lang="en">Michael Longley</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series8/">
-    <schema:about rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <schema:dateModified xml:lang="en">2013-06-19</schema:dateModified>
     <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateModified xml:lang="en">2013-06-27</schema:dateModified>
+    <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004; Series 8: Unprocessed additions,</schema:name>
+    <schema:about rdf:resource="http://viaf.org/viaf/49280158"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/49280158/">
+  <rdf:Description rdf:about="http://viaf.org/viaf/49280158">
     <schema:name xml:lang="en">Ormsby's</schema:name>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/39398205/"/>
-    <schema:name xml:lang="en">Ormsby</schema:name>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/39398205"/>
     <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Ormsby</schema:name>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
   </rdf:Description>
 </rdf:RDF>

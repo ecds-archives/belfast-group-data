@@ -5,12 +5,13 @@
    xmlns:schema="http://schema.org/"
 >
   <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/longley744/series5/">
-    <schema:dateModified xml:lang="en">2013-06-18</schema:dateModified>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/39398205/"/>
     <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/longley744/index1/"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:name xml:lang="en">Michael Longley papers, 1960-2000; Series 5: Photographs</schema:name>
+    <schema:dateModified xml:lang="en">2013-06-18</schema:dateModified>
+    <schema:about rdf:resource="http://viaf.org/viaf/39398205"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/39398205/">
+  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
 </rdf:RDF>
