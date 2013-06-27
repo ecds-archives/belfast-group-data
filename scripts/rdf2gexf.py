@@ -59,8 +59,8 @@ def process_files(files, outfile):
             add_opts = {}
             label = get_best_label(obj, g)
             if label is not None:
-             add_opts['label'] = label
-             nxg.add_node(obj, **add_opts)
+                add_opts['label'] = label
+                nxg.add_node(obj, **add_opts)
 
         # get the short-hand name for property or edge label
         ns, name = rdflib.namespace.split_uri(pred)
