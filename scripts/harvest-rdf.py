@@ -22,7 +22,7 @@ PROCESSED_URLS = []
 def harvest_rdf(url, find_related=False):
     g = rdflib.Graph()
     try:
-        response = requests.get(url)
+        response = requests.get(url, headers={'cache-control': 'no-cache'})
         data = g.parse(data=response.content, location=url, format='rdfa')
         # NOTE: this was working previously, and should be fine,
         # but now generates an RDFa parsing error / ascii codec error
