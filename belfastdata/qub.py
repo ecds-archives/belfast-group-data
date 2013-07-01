@@ -29,7 +29,7 @@ class QUB(object):
         'Simmons, James': 'http://viaf.org/viaf/92591927',
         'Parker, Stewart': 'http://viaf.org/viaf/7497547',
         'MacLaverty, Bernard': 'http://viaf.org/viaf/95151565',
-        'Belfast Group': 'http://viaf.org/viaf/123393054',
+        'Belfast Group': rdfns.BELFAST_GROUP_URI,
     }
 
     # URI to PDF for Queen's description of their Belfast Group collection
