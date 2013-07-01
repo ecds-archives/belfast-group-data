@@ -52,10 +52,13 @@ if __name__ == '__main__':
                        help='Smush groupsheet URIs')
     steps.add_argument('-g', '--gexf', action='store_true',
                        help='Generate GEXF network graph data')
-    # TODO: verbosity setting?
+    # TODO: configurable verbosity ?
     # parser.add_argument('-v', '--verbosity', metavar='VERBOSITY', type=int,
     #                     choices=[0, 1, 2], default=1,
     #                     help='Verbosity level; 0=minimal, 1=normal, 2=verbose')
+
+    # TODO: add an option to specify where the output should be generated
+
     args = parser.parse_args()
     # if specific steps are specified, run only those
     # otherwise, run all steps
@@ -63,12 +66,12 @@ if __name__ == '__main__':
                          args.gexf])
 
     if all_steps or args.harvest:
-        print 'Harvesting RDF from EmoryFindingAids related to the Belfast Group'
+        print '-- Harvesting RDF from EmoryFindingAids related to the Belfast Group'
         HarvestRdf(harvest_urls, output_dir=output_dir,
                    find_related=True, verbosity=0)
 
     if all_steps or args.queens:
-        print 'Convert Queens University Belfast Group collection description to RDF'
+        print '-- Converting Queens University Belfast Group collection description to RDF'
         QUB(QUB_input, output_dir, verbosity=0)
 
     # files needed for harvest related, smushing, and gexf
@@ -78,15 +81,17 @@ if __name__ == '__main__':
     # for each step individually
 
     if all_steps or args.related:
-        print 'Harvesting related RDF from VIAF, GeoNames, and DBpedia'
+        print '-- Harvesting related RDF from VIAF, GeoNames, and DBpedia'
+        # TODO: add logic so unchanged content isn't re-downloaded
+        # (use last-modified http header & file date)
         HarvestRelated(files, output_dir)
 
     if all_steps or args.smush:
         # smush any groupsheets in the data
-        print 'Smushing group sheet URIs'
+        print '-- Smushing groupsheet URIs'
         SmushGroupSheets(files)
 
     if all_steps or args.gexf:
         # generate gexf
-        print 'Generating network graph and saving as GEXF'
+        print '-- Generating network graph and saving as GEXF'
         Rdf2Gexf(files, gexf_file)
