@@ -27,6 +27,9 @@ if __name__ == '__main__':
                         help='directory where harvested content should be saved',
                         required=True)
     # TODO: verbosity setting?
+    parser.add_argument('-v', '--verbosity', metavar='VERBOSITY', type=int,
+                        choices=[0, 1, 2], default=1,
+                        help='Verbosity level; 0=minimal, 1=normal, 2=verbose')
     args = parser.parse_args()
     HarvestRdf(args.url, output_dir=args.output,
-               find_related=args.related)
+               find_related=args.related, verbosity=args.verbosity)

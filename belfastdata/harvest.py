@@ -11,10 +11,7 @@ try:
 except ImportError:
     ProgressBar = None
 
-
-# todo: move to common location
-DCTERMS = rdflib.Namespace('http://purl.org/dc/terms/')
-SCHEMA_ORG = rdflib.Namespace('http://schema.org/')
+from belfastdata.rdfns import DC, SCHEMA_ORG
 
 
 class HarvestRdf(object):
@@ -22,27 +19,46 @@ class HarvestRdf(object):
     URL_QUEUE = []
     PROCESSED_URLS = []
     total = 0
+    harvested = 0
     errors = 0
 
-    def __init__(self, urls, output_dir, find_related=False):
+    def __init__(self, urls, output_dir, find_related=False, verbosity=1):
         self.URL_QUEUE.extend(urls)
         self.find_related = find_related
         self.base_dir = output_dir
+        self.verbosity = verbosity
 
         self.process_urls()
 
     def process_urls(self):
+        if (len(self.URL_QUEUE) >= 5 or self.find_related) \
+           and ProgressBar and os.isatty(sys.stderr.fileno()):
+            widgets = [Percentage(), ' (', SimpleProgress(), ')',
+                       Bar(), ETA()]
+            progress = ProgressBar(widgets=widgets,
+                                   maxval=len(self.URL_QUEUE)).start()
+            processed = 0
+        else:
+            progress = None
+
         while self.URL_QUEUE:
             url = self.URL_QUEUE.pop(0)
             self.harvest_rdf(url)
+            self.total += 1
             self.PROCESSED_URLS.append(url)
+            if progress:
+                progress.maxval = self.total + len(self.URL_QUEUE)
+                progress.update(len(self.PROCESSED_URLS))
+
+        if progress:
+            progress.finish()
 
         # report if sufficient numbers:
-        if (self.total > 5 or self.errors):
+        if self.verbosity >= 1 and (self.harvested > 5 or self.errors):
             print 'Processed %d url%s: %d harvested, %d error%s' % \
                   (len(self.PROCESSED_URLS),
                    '' if len(self.PROCESSED_URLS) == 1 else 's',
-                   self.total, self.errors,
+                   self.harvested, self.errors,
                    '' if self.errors == 1 else 's')
 
     def harvest_rdf(self, url):
@@ -54,7 +70,6 @@ class HarvestRdf(object):
             # but now generates an RDFa parsing error / ascii codec error
             # data = g.parse(location=url, format='rdfa')
         except Exception as err:
-            # FIXME: don't exit here!
             print 'Error attempting to load %s - %s' % (url, err)
             self.errors += 1
             return
@@ -62,16 +77,19 @@ class HarvestRdf(object):
         triple_count = len(data)
         # if no rdf data was found, report and return
         if triple_count == 0:
-            print 'No RDFa data found in %s' % url
+            if self.verbosity >= 1:
+                print 'No RDFa data found in %s' % url
             return
         else:
-            print 'Parsed %d triples from %s' % (triple_count, url)
+            if self.verbosity > 1:
+                print 'Parsed %d triples from %s' % (triple_count, url)
 
         filename = self.filename_from_url(url)
-        print 'Saving as %s' % filename
+        if self.verbosity > 1:
+            print 'Saving as %s' % filename
         with open(filename, 'w') as datafile:
             data.serialize(datafile)
-        self.total += 1
+        self.harvested += 1
 
         # if find related is true, look for urls related to this one
         # via either schema.org relatedLink or dcterms:hasPart
@@ -80,7 +98,7 @@ class HarvestRdf(object):
             orig_url = rdflib.URIRef(url)
 
             # find all sub parts of the current url (e.g., series and indexes)
-            for subj, obj in data.subject_objects(predicate=DCTERMS.hasPart):
+            for subj, obj in data.subject_objects(predicate=DC.hasPart):
                 if subj == orig_url or \
                    (subj, rdflib.OWL.sameAs, rdflib.URIRef(url)) in data:
                     related_url = unicode(obj)
@@ -103,7 +121,7 @@ class HarvestRdf(object):
                     self.URL_QUEUE.append(related_url)
                     queued += 1
 
-        if queued:
+        if queued and self.verbosity > 1:
             print 'Queued %d related URL%s to be harvested' % \
                   (queued, 's' if queued != 1 else '')
 
