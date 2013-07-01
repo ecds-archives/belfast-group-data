@@ -8,6 +8,7 @@ import os
 
 from belfastdata.harvest import HarvestRdf, HarvestRelated
 from belfastdata.qub import QUB
+from belfastdata.clean import SmushGroupSheets
 
 # settings
 
@@ -32,22 +33,49 @@ output_dir = 'data'
 QUB_input = os.path.join(BASE_DIR, '..', 'belfastdata', 'QUB_ms1204.html')
 
 
-def harvest_related():
-    files = glob.iglob(os.path.join(output_dir, '*.xml'))
-    HarvestRelated(files, output_dir)
-
-
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Harvest and prep Belfast Group RDF dataset')
     # TODO: options to specify which steps to do / not do
+    steps = parser.add_argument_group(
+        'steps',
+        'Data processing steps to run.  Specify one or more to only run those ' +
+        'steps.  If not are specified, all steps will be run in order.')
+    steps.add_argument('-v', '--harvest', action='store_true',
+                       help='Harvest RDFa')
+    steps.add_argument('-q', '--queens', action='store_true',
+                       help='Convert Queens University Belfast collection to RDF')
+    steps.add_argument('-r', '--related', action='store_true',
+                       help='Harvest related RDF from VIAF, GeoNames, and DBpedia')
+    steps.add_argument('-s', '--smush', action='store_true',
+                       help='Smush groupsheet URIs')
+    # TODO: verbosity setting?
+    # parser.add_argument('-v', '--verbosity', metavar='VERBOSITY', type=int,
+    #                     choices=[0, 1, 2], default=1,
+    #                     help='Verbosity level; 0=minimal, 1=normal, 2=verbose')
+    args = parser.parse_args()
+    # if specific steps are specified, run only those
+    # otherwise, run all steps
+    all_steps = not any([args.harvest, args.queens, args.related, args.smush])
 
-    print 'Harvesting RDF from EmoryFindingAids related to the Belfast Group'
-    HarvestRdf(harvest_urls, output_dir=output_dir,
-               find_related=True, verbosity=0)
-    print 'Convert Queens University Belfast Group collection description to RDF'
-    QUB(QUB_input, output_dir, verbosity=0)
-    print 'Harvesting related RDF from VIAF, GeoNames, and DBpedia'
-    harvest_related()
+    if all_steps or args.harvest:
+        print 'Harvesting RDF from EmoryFindingAids related to the Belfast Group'
+        HarvestRdf(harvest_urls, output_dir=output_dir,
+                   find_related=True, verbosity=0)
 
-    # smush
+    if all_steps or args.queens:
+        print 'Convert Queens University Belfast Group collection description to RDF'
+        QUB(QUB_input, output_dir, verbosity=0)
+
+    # files needed for both harvest related and smushing
+    files = glob.iglob(os.path.join(output_dir, '*.xml'))
+
+    if all_steps or args.related:
+        print 'Harvesting related RDF from VIAF, GeoNames, and DBpedia'
+        HarvestRelated(files, output_dir)
+
+    if all_steps or args.smush:
+        # smush any groupsheets in the data
+        print 'Smushing group sheet URIs'
+        SmushGroupSheets(files)
+
     # generate gexf
