@@ -6,6 +6,7 @@ import json
 import networkx as nx
 from networkx.readwrite import gexf
 import rdflib
+from rdflib.collection import Collection as RdfCollection
 
 # simple script to load rdf data and convert into a networkx graph,
 # then exported as GEXF for manual interaction with tools like Gephi
@@ -15,70 +16,115 @@ SCHEMA_ORG = rdflib.Namespace('http://schema.org/')
 DC = rdflib.Namespace('http://purl.org/dc/terms/')
 
 
-def get_best_label(res, graph):
-    # NOTE: we should consider adding/calculating a preferredlabel
-    # for important nodes in our data
-    title = graph.value(res, DC.title)
-    if title:
-        return title
-    name = graph.value(res, SCHEMA_ORG.name)
-    if name:
-        return name
+class Rdf2Gexf(object):
 
-    # as a fall-back, use type for a label
-    type = graph.value(res, rdflib.RDF.type)
-    if type:
-        ns, short_type = rdflib.namespace.split_uri(type)
-        return short_type
+    def __init__(self, files, outfile):
+        self.outfile = outfile
 
+        self.graph = rdflib.Graph()
+        for infile in files:
+            self.graph.parse(infile)
+        print '%d triples in %d files' % (len(self.graph), len(files))
 
-def process_files(files, outfile):
-    # load all the data into a single rdf graph
-    g = rdflib.Graph()
-    for infile in files:
-        g.parse(infile)
+        self.network = nx.MultiDiGraph()
 
-    print '%d triples in %d files' % (len(g), len(files))
+        # iterate through rdf triples and add to the graph
+        for triple in self.graph:
+            subj, pred, obj = triple
 
-    nxg = nx.MultiDiGraph()
+            if pred == rdflib.RDF.first or pred == rdflib.RDF.rest:
+                continue
+            # FIXME: iterating through all triples results in
+            # rdf sequences (first/rest) being handled weirdly...
 
-    # iterate through rdf triples and add to the graph
-    for subj, pred, obj in g:
-        # make sure subject and object (if a resource) are added to the graph as nodes
-        if isinstance(subj, rdflib.URIRef) or isinstance(subj, rdflib.BNode) \
-           and subj not in nxg:
-            add_opts = {}
-            label = get_best_label(subj, g)
-            if label is not None:
-                add_opts['label'] = label
-                nxg.add_node(subj, **add_opts)
+            # make sure subject and object are added to the graph as nodes,
+            # if appropriate
+            self._add_nodes(triple)
 
-        if pred is not rdflib.RDF.type and \
-           (isinstance(obj, rdflib.URIRef) or isinstance(obj, rdflib.BNode)) \
-           and obj not in nxg:
-            add_opts = {}
-            label = get_best_label(obj, g)
-            if label is not None:
-                add_opts['label'] = label
-                nxg.add_node(obj, **add_opts)
+            # get the short-hand name for property or edge label
+            name = self._edge_label(pred)
 
+            # if the object is a literal, add it to the node as a property of the subject
+            if subj in self.network and isinstance(obj, rdflib.Literal) \
+               or pred == rdflib.RDF.type:
+                if pred == rdflib.RDF.type:
+                    ns, val = rdflib.namespace.split_uri(obj)
+                    # special case (for now)
+                    if val == 'Manuscript':
+                        if isinstance(self.graph.value(subj, DC.title), rdflib.BNode):
+                            val = 'BelfastGroupSheet'
+
+                else:
+                    val = unicode(obj)
+                self.network.node[subj][name] = val
+
+            # otherwise, add an edge between the two resource nodes
+            else:
+                self.network.add_edge(subj, obj, label=name)
+
+        print '%d nodes, %d edges' % (self.network.number_of_nodes(),
+                                      self.network.number_of_edges())
+        gexf.write_gexf(self.network, self.outfile)
+
+    def _node_label(self, res):
+        # NOTE: consider adding/calculating a preferredlabel
+        # for important nodes in our data
+        title = self.graph.value(res, DC.title)
+        if title:
+            # if title is a bnode, convert from list/collection
+            if isinstance(title, rdflib.BNode):
+                title_list = RdfCollection(self.graph, title)
+                title = 'group sheet: ' + '; '.join(title_list)
+                # truncate list if too long
+                if len(title) > 50:
+                    title = title[:50] + ' ...'
+
+            # otherwise, title should be a literal (no conversion needed)
+
+            return title
+
+        name = self.graph.value(res, SCHEMA_ORG.name)
+        if name:
+            return name
+
+        # as a fall-back, use type for a label
+        type = self.graph.value(res, rdflib.RDF.type)
+        if type:
+            ns, short_type = rdflib.namespace.split_uri(type)
+            return short_type
+
+    def _edge_label(self, pred):
         # get the short-hand name for property or edge label
         ns, name = rdflib.namespace.split_uri(pred)
+        return name
 
-        # if the object is a literal, add it to the node as a property of the subject
-        if subj in nxg and isinstance(obj, rdflib.Literal) or pred == rdflib.RDF.type:
-            if pred == rdflib.RDF.type:
-                ns, val = rdflib.namespace.split_uri(obj)
-            else:
-                val = unicode(obj)
-            nxg.node[subj][name] = val
+    def _add_nodes(self, triple):
+        subj, pred, obj = triple
 
-        # otherwise, add an edge between the two resource nodes
-        else:
-            nxg.add_edge(subj, obj, label=name)
+        if self._include_as_node(subj) and subj not in self.network:
+            self._add_node(subj)
 
-    print '%d nodes, %d edges' % (nxg.number_of_nodes(), nxg.number_of_edges())
-    gexf.write_gexf(nxg, outfile)
+        # special case: don't treat title list as a node in the network
+        if pred == DC.title and isinstance(obj, rdflib.BNode):
+            return
+
+        if pred != rdflib.RDF.type and self._include_as_node(obj) \
+           and obj not in self.network:
+            self._add_node(obj)
+
+    def _include_as_node(self, res):
+        # determine if a URI should be included in the network graph
+        # as a node
+        if isinstance(res, rdflib.URIRef) or isinstance(res, rdflib.BNode):
+            return True
+
+    def _add_node(self, res):
+        # add an rdf term to the network as a node
+        attrs = {}
+        label = self._node_label(res)
+        if label is not None:
+            attrs['label'] = label
+        self.network.add_node(res, **attrs)
 
 
 if __name__ == '__main__':
@@ -91,7 +137,4 @@ if __name__ == '__main__':
                         help='filename for GEXF to be generated',
                         required=True)
     args = parser.parse_args()
-    process_files(args.files, args.output)
-
-
-
+    Rdf2Gexf(args.files, args.output)
