@@ -1,0 +1,53 @@
+#!/usr/bin/env python
+
+# script to harvest and prep entire dataset, start to finish
+
+import argparse
+import glob
+import os
+
+from belfastdata.harvest import HarvestRdf, HarvestRelated
+from belfastdata.qub import QUB
+
+# settings
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+harvest_urls = [
+    # for now, harvest from test FA site, and only harvest
+    # documents with tagged names
+    'http://testfindingaids.library.emory.edu/documents/longley744/',
+    'http://testfindingaids.library.emory.edu/documents/ormsby805/',
+    'http://testfindingaids.library.emory.edu/documents/irishmisc794/',
+    # not quite ready yet
+    #'https://testfindingaids.library.emory.edu/documents/carson746/',
+
+    # NOTE: once in production, related collections links should help
+]
+
+
+# build relative to script or current directory?
+output_dir = 'data'
+
+QUB_input = os.path.join(BASE_DIR, '..', 'belfastdata', 'QUB_ms1204.html')
+
+
+def harvest_related():
+    files = glob.iglob(os.path.join(output_dir, '*.xml'))
+    HarvestRelated(files, output_dir)
+
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='Harvest and prep Belfast Group RDF dataset')
+    # TODO: options to specify which steps to do / not do
+
+    print 'Harvesting RDF from EmoryFindingAids related to the Belfast Group'
+    HarvestRdf(harvest_urls, output_dir=output_dir,
+               find_related=True, verbosity=0)
+    print 'Convert Queens University Belfast Group collection description to RDF'
+    QUB(QUB_input, output_dir, verbosity=0)
+    print 'Harvesting related RDF from VIAF, GeoNames, and DBpedia'
+    harvest_related()
+
+    # smush
+    # generate gexf

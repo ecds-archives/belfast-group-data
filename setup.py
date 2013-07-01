@@ -49,5 +49,7 @@ setup(
     description='Utilities to harvest and process RDF data relating to the Belfast Group',
     long_description=LONG_DESCRIPTION,
     classifiers=CLASSIFIERS,
-    scripts=['scripts/harvest-rdf', 'scripts/harvest-related'],
+    scripts=['scripts/harvest-rdf', 'scripts/harvest-related',
+             'scripts/queens_belfast_rdf',
+             'scripts/belfast_dataset'],
 )
