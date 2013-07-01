@@ -4,6 +4,9 @@ import argparse
 
 from belfastdata.clean import SmushGroupSheets
 
+# NOTE: this one probably doesn't need to be a separate script
+# now that it is part of the combined script
+# (unlikely to be run separately or useful to anyone else)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(

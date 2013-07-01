@@ -9,6 +9,7 @@ import os
 from belfastdata.harvest import HarvestRdf, HarvestRelated
 from belfastdata.qub import QUB
 from belfastdata.clean import SmushGroupSheets
+from belfastdata.nx import Rdf2Gexf
 
 # settings
 
@@ -32,6 +33,7 @@ output_dir = 'data'
 
 QUB_input = os.path.join(BASE_DIR, '..', 'belfastdata', 'QUB_ms1204.html')
 
+gexf_file = os.path.join(output_dir, 'belfastgroup.gexf')
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Harvest and prep Belfast Group RDF dataset')
@@ -48,6 +50,8 @@ if __name__ == '__main__':
                        help='Harvest related RDF from VIAF, GeoNames, and DBpedia')
     steps.add_argument('-s', '--smush', action='store_true',
                        help='Smush groupsheet URIs')
+    steps.add_argument('-g', '--gexf', action='store_true',
+                       help='Generate GEXF network graph data')
     # TODO: verbosity setting?
     # parser.add_argument('-v', '--verbosity', metavar='VERBOSITY', type=int,
     #                     choices=[0, 1, 2], default=1,
@@ -55,7 +59,8 @@ if __name__ == '__main__':
     args = parser.parse_args()
     # if specific steps are specified, run only those
     # otherwise, run all steps
-    all_steps = not any([args.harvest, args.queens, args.related, args.smush])
+    all_steps = not any([args.harvest, args.queens, args.related, args.smush,
+                         args.gexf])
 
     if all_steps or args.harvest:
         print 'Harvesting RDF from EmoryFindingAids related to the Belfast Group'
@@ -66,8 +71,11 @@ if __name__ == '__main__':
         print 'Convert Queens University Belfast Group collection description to RDF'
         QUB(QUB_input, output_dir, verbosity=0)
 
-    # files needed for both harvest related and smushing
-    files = glob.iglob(os.path.join(output_dir, '*.xml'))
+    # files needed for harvest related, smushing, and gexf
+    files = glob.glob(os.path.join(output_dir, '*.xml'))
+    # NOTE: can't use iglob here if we want to use the same list in multiple steps
+    # if we ever get so many files we need that, will have to get the list
+    # for each step individually
 
     if all_steps or args.related:
         print 'Harvesting related RDF from VIAF, GeoNames, and DBpedia'
@@ -78,4 +86,7 @@ if __name__ == '__main__':
         print 'Smushing group sheet URIs'
         SmushGroupSheets(files)
 
-    # generate gexf
+    if all_steps or args.gexf:
+        # generate gexf
+        print 'Generating network graph and saving as GEXF'
+        Rdf2Gexf(files, gexf_file)

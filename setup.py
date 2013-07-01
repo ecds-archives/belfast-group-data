@@ -50,6 +50,7 @@ setup(
     long_description=LONG_DESCRIPTION,
     classifiers=CLASSIFIERS,
     scripts=['scripts/harvest-rdf', 'scripts/harvest-related',
-             'scripts/queens_belfast_rdf', 'scripts/smush-groupsheets'
+             'scripts/queens_belfast_rdf', 'scripts/smush-groupsheets',
+             'scripts/rdf2gexf',
              'scripts/belfast_dataset'],
 )

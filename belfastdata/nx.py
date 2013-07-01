@@ -1,22 +1,16 @@
-#!/usr/bin/env python
 
-import argparse
 import glob
-import json
 import networkx as nx
 from networkx.readwrite import gexf
 import rdflib
 from rdflib.collection import Collection as RdfCollection
 
-# simple script to load rdf data and convert into a networkx graph,
-# then exported as GEXF for manual interaction with tools like Gephi
-
-
-SCHEMA_ORG = rdflib.Namespace('http://schema.org/')
-DC = rdflib.Namespace('http://purl.org/dc/terms/')
+from belfastdata.rdfns import SCHEMA_ORG, DC
 
 
 class Rdf2Gexf(object):
+
+    # TODO: consider splitting out rdf -> nx logic from nx -> gexf
 
     def __init__(self, files, outfile):
         self.outfile = outfile
@@ -126,15 +120,3 @@ class Rdf2Gexf(object):
             attrs['label'] = label
         self.network.add_node(res, **attrs)
 
-
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser(
-        description='Generate a network graph file in GEXF format based on RDF'
-    )
-    parser.add_argument('files', metavar='FILE', nargs='+',
-                        help='files to be processed')
-    parser.add_argument('-o', '--output', metavar='OUTFILE',
-                        help='filename for GEXF to be generated',
-                        required=True)
-    args = parser.parse_args()
-    Rdf2Gexf(args.files, args.output)
