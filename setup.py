@@ -35,6 +35,7 @@ setup(
     install_requires=[
         'rdflib>=3.0',
         'requests>=1.1',
+        'BeautifulSoup4',
         'progressbar',  # make optional?
     ],
 
