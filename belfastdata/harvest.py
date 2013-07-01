@@ -3,7 +3,14 @@
 import os
 import rdflib
 import requests
+import sys
 from urlparse import urlparse
+
+try:
+    from progressbar import ProgressBar, Bar, Percentage, ETA, SimpleProgress, Timer
+except ImportError:
+    ProgressBar = None
+
 
 # todo: move to common location
 DCTERMS = rdflib.Namespace('http://purl.org/dc/terms/')
@@ -21,6 +28,8 @@ class HarvestRdf(object):
         self.URL_QUEUE.extend(urls)
         self.find_related = find_related
         self.base_dir = output_dir
+
+        self.process_urls()
 
     def process_urls(self):
         while self.URL_QUEUE:
@@ -110,3 +119,89 @@ class HarvestRdf(object):
         if path:
             filebase += '_%s' % path
             return os.path.join(self.base_dir, '%s.xml' % filebase)
+
+
+class HarvestRelated(object):
+
+    # sources to be harvested
+    sources = [
+        # NOTE: using tuples to ensure we process in this order,
+        # to allow harvesting dbpedia records referenced in viaf/geonames
+        ('viaf', 'http://viaf.org/'),
+        ('geonames', 'http://sws.geonames.org/'),
+        ('dbpedia', 'http://dbpedia.org/'),
+    ]
+
+    def __init__(self, files, basedir):
+        self.files = files
+        self.basedir = basedir
+
+        self.run()
+
+    def run(self):
+        graph = rdflib.Graph()
+
+        # load all files into a single graph so we can query distinct
+        g = rdflib.Graph()
+        for infile in self.files:
+            try:
+                g.parse(infile)
+            except Exception as err:
+                print "Error parsing '%s' as RDF -- %s" % (infile, err)
+                continue
+
+        for name, url in self.sources:
+            # anything that is a subject or object and has a
+            # viaf, dbpedia, or geoname uri
+            res = g.query('''
+                SELECT DISTINCT ?uri
+                WHERE {
+                    { ?uri ?p ?o }
+                UNION
+                    { ?s ?p ?uri }
+                FILTER regex(str(?uri), "^%s") .
+                }
+            ''' % url)
+            print '%d %s URI%s' % (len(res), name,
+                                   's' if len(res) != 1 else '')
+
+            if len(res) == 0:
+                continue
+
+            uris = [unicode(r['uri']).encode('ascii', 'ignore') for r in res]
+
+            datadir = os.path.join(self.basedir, name)
+            if not os.path.isdir(datadir):
+                os.mkdir(datadir)
+
+            if len(uris) >= 5 and ProgressBar and os.isatty(sys.stderr.fileno()):
+                widgets = [Percentage(), ' (', SimpleProgress(), ')',
+                           Bar(), ETA()]
+                progress = ProgressBar(widgets=widgets, maxval=len(uris)).start()
+                processed = 0
+            else:
+                progress = None
+
+            for u in uris:
+                # build filename based on URI
+                baseid = u.rstrip('/').split('/')[-1]
+                filename = os.path.join(datadir, '%s.rdf' % baseid)
+
+                # Use requests with content negotiation to load the data
+                data = requests.get(u, headers={'accept': 'application/rdf+xml'})
+                if data.status_code == requests.codes.ok:
+                    # also add to master graph so we can download related data
+                    # i.e.  dbpedia records for VIAF persons
+                    g.parse(data=data.content)
+
+                    with open(filename, 'w') as datafile:
+                        datafile.write(data.content)
+                else:
+                    print 'Error loading %s : %s' % (u, data.status_code)
+
+                if progress:
+                    processed += 1
+                    progress.update(processed)
+
+            if progress:
+                progress.finish()
