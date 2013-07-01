@@ -54,7 +54,7 @@ class QUB(object):
     #   Harvey, W.J.
     #   Johnston, J. K.
 
-    def __init__(self, file):
+    def __init__(self, file, output_dir=None, verbosity=1):
         htmlfile = open(file)
         doc = BeautifulSoup(htmlfile)
         g = rdflib.Graph()
@@ -168,6 +168,9 @@ class QUB(object):
         # use input filename as base, but generate as .xml in current directory
         basename, ext = os.path.splitext(os.path.basename(file))
         filename = '%s.xml' % basename
-        print 'Saving as %s' % filename
+        if output_dir is not None:
+            filename = os.path.join(output_dir, filename)
+        if verbosity >= 1:
+            print 'Saving as %s' % filename
         with open(filename, 'w') as datafile:
             g.serialize(datafile)
