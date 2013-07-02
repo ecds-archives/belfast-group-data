@@ -7,6 +7,41 @@ from rdflib.collection import Collection as RdfCollection
 
 from belfastdata.rdfns import SCHEMA_ORG, DC
 
+# first-pass attempt to generate weighted network based on
+# type of rdf relation
+connection_weights = {
+    'sameAs': 10,
+    'spouse': 9,
+    'founder': 7,
+    'founderOf': 7,
+    'colleague': 4,
+    'member': 5,
+    'memberOf': 5,
+    'knows': 2,
+    'correspondedWith': 2,
+    'publisher': 3,
+    'association': 1,
+    'affiliation': 1,
+    'worksFor': 4,
+    'mentions': 1,
+    'alumniOf': 3,
+
+    'about': 6,
+    'creator': 7,
+    'author': 7,
+    'contributor': 6,
+    'relatedLink': 4,
+    'title': 3,
+    'hasPart': 5,
+
+    'birthPlace': 5,
+    'workLocation': 4,
+    'location': 4,
+    'homeLocation': 4,
+
+}
+
+
 
 class Rdf2Gexf(object):
 
@@ -21,6 +56,7 @@ class Rdf2Gexf(object):
         print '%d triples in %d files' % (len(self.graph), len(files))
 
         self.network = nx.MultiDiGraph()
+        edge_labels = set()
 
         # iterate through rdf triples and add to the graph
         for triple in self.graph:
@@ -54,10 +90,16 @@ class Rdf2Gexf(object):
 
             # otherwise, add an edge between the two resource nodes
             else:
-                self.network.add_edge(subj, obj, label=name)
+                edge_labels.add(name)
+                self.network.add_edge(subj, obj, label=name,
+                                      weight=connection_weights.get(name, 1))
 
         print '%d nodes, %d edges' % (self.network.number_of_nodes(),
                                       self.network.number_of_edges())
+
+        # TODO: useful for verbose output? (also report on relations with no weight?)
+        #print 'edge labels: %s' % ', '.join(edge_labels)
+
         gexf.write_gexf(self.network, self.outfile)
 
     def _node_label(self, res):
