@@ -1,6 +1,7 @@
 # harvest rdf
 
 import os
+import glob
 import rdflib
 import requests
 import sys
@@ -169,7 +170,7 @@ class HarvestRelated(object):
                 continue
 
         for name, url in self.sources:
-            # anything that is a subject or object and has a
+            # find anything that is a subject or object and has a
             # viaf, dbpedia, or geoname uri
             res = g.query('''
                 SELECT DISTINCT ?uri
@@ -203,19 +204,29 @@ class HarvestRelated(object):
             for u in uris:
                 # build filename based on URI
                 baseid = u.rstrip('/').split('/')[-1]
+
                 filename = os.path.join(datadir, '%s.rdf' % baseid)
 
-                # Use requests with content negotiation to load the data
-                data = requests.get(u, headers={'accept': 'application/rdf+xml'})
-                if data.status_code == requests.codes.ok:
-                    # also add to master graph so we can download related data
-                    # i.e.  dbpedia records for VIAF persons
-                    g.parse(data=data.content)
+                # if already downloaded, don't re-download but add to graph
+                # for any secondary related content
+                if os.path.exists(filename):
+                    # TODO: better refinement would be to use modification
+                    # time on the file to download if changed
+                    # (do all these sources support if-modified-since headers?)
+                    g.parse(location=filename)
 
-                    with open(filename, 'w') as datafile:
-                        datafile.write(data.content)
                 else:
-                    print 'Error loading %s : %s' % (u, data.status_code)
+                    # Use requests with content negotiation to load the data
+                    data = requests.get(u, headers={'accept': 'application/rdf+xml'})
+                    if data.status_code == requests.codes.ok:
+                        # also add to master graph so we can download related data
+                        # i.e.  dbpedia records for VIAF persons
+                        g.parse(data=data.content)
+
+                        with open(filename, 'w') as datafile:
+                            datafile.write(data.content)
+                    else:
+                        print 'Error loading %s : %s' % (u, data.status_code)
 
                 if progress:
                     processed += 1
