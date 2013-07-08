@@ -152,7 +152,8 @@ class QUB(object):
                     # remove anything in parenthesis, including nested parens
                     while '(' in title:
                         title = self.PAREN_REGEX.sub('', title)
-                        titles.append(title)
+
+                    titles.append(title)
 
             # if only one title, no parts
             if len(titles) == 1:
