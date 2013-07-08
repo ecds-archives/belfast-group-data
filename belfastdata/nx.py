@@ -105,6 +105,12 @@ class Rdf2Gexf(object):
     def _node_label(self, res):
         # NOTE: consider adding/calculating a preferredlabel
         # for important nodes in our data
+
+        # use name first, if we have one
+        name = self.graph.value(res, SCHEMA_ORG.name)
+        if name:
+            return name
+
         title = self.graph.value(res, DC.title)
         if title:
             # if title is a bnode, convert from list/collection
@@ -118,10 +124,6 @@ class Rdf2Gexf(object):
             # otherwise, title should be a literal (no conversion needed)
 
             return title
-
-        name = self.graph.value(res, SCHEMA_ORG.name)
-        if name:
-            return name
 
         # as a fall-back, use type for a label
         type = self.graph.value(res, rdflib.RDF.type)
