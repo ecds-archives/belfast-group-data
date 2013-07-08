@@ -1,5 +1,6 @@
 import hashlib
 import rdflib
+from rdflib import collection as rdfcollection
 from django.utils.text import slugify
 
 from belfastdata.rdfns import BIBO, DC, SCHEMA_ORG, BELFAST_GROUP_URI
@@ -20,8 +21,7 @@ class SmushGroupSheets(object):
         title = graph.value(uri, DC.title)
 
         # title is either a single literal OR an rdf sequence
-        if graph.value(DC.title) is not None:
-            title = graph.value(DC.title)
+        if title:
             # single literal
             if isinstance(title, rdflib.Literal):
                 titles.append(title)
@@ -104,7 +104,7 @@ class SmushGroupSheets(object):
         print 'Found %d possible groupsheets in %s' % (len(res), filename)
 
         for r in res:
-            # FIXME: only do for blank nodes?
+            # FIXME: only calculate a new uri for blank nodes?
             newURI = self.calculate_uri(r['ms'], g)
             if newURI is not None:
                 new_uris[r['ms']] = newURI
