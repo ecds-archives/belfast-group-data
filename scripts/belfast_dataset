@@ -8,7 +8,7 @@ import os
 
 from belfastdata.harvest import HarvestRdf, HarvestRelated
 from belfastdata.qub import QUB
-from belfastdata.clean import SmushGroupSheets
+from belfastdata.clean import SmushGroupSheets, IdentifyGroupSheets
 from belfastdata.nx import Rdf2Gexf
 
 # settings
@@ -36,7 +36,6 @@ gexf_file = os.path.join(output_dir, 'belfastgroup.gexf')
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Harvest and prep Belfast Group RDF dataset')
-    # TODO: options to specify which steps to do / not do
     steps = parser.add_argument_group(
         'steps',
         'Data processing steps to run.  Specify one or more to only run those ' +
@@ -47,6 +46,8 @@ if __name__ == '__main__':
                        help='Convert Queens University Belfast collection to RDF')
     steps.add_argument('-r', '--related', action='store_true',
                        help='Harvest related RDF from VIAF, GeoNames, and DBpedia')
+    steps.add_argument('-i', '--infer', action='store_true',
+                       help='Identify group sheets and infer connections such as owner')
     steps.add_argument('-s', '--smush', action='store_true',
                        help='Smush groupsheet URIs')
     steps.add_argument('-g', '--gexf', action='store_true',
@@ -62,7 +63,7 @@ if __name__ == '__main__':
     # if specific steps are specified, run only those
     # otherwise, run all steps
     all_steps = not any([args.harvest, args.queens, args.related, args.smush,
-                         args.gexf])
+                         args.gexf, args.infer])
 
     if all_steps or args.harvest:
         print '-- Harvesting RDF from EmoryFindingAids related to the Belfast Group'
@@ -84,6 +85,11 @@ if __name__ == '__main__':
         # TODO: add logic so unchanged content isn't re-downloaded
         # (use last-modified http header & file date)
         HarvestRelated(files, output_dir)
+
+    if all_steps or args.infer:
+        # smush any groupsheets in the data
+        print '-- Inferring: identifying groupsheets'
+        IdentifyGroupSheets(files)
 
     if all_steps or args.smush:
         # smush any groupsheets in the data

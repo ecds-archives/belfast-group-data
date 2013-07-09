@@ -3,7 +3,7 @@ import rdflib
 from rdflib import collection as rdfcollection
 from django.utils.text import slugify
 
-from belfastdata.rdfns import BIBO, DC, SCHEMA_ORG, BELFAST_GROUP_URI
+from belfastdata.rdfns import BIBO, DC, SCHEMA_ORG, BG, BELFAST_GROUP_URI
 
 
 class SmushGroupSheets(object):
@@ -76,38 +76,26 @@ class SmushGroupSheets(object):
         g = rdflib.Graph()
         g.parse(filename)
 
-        # Find every manuscript mentioned in a document
-        # that is *about* the belfast group
-        # TODO: will also need to find ms associated with / presented at BG
-        # NOTE: need a way to filter non-belfast group content
-        res = g.query('''
-            PREFIX schema: <%s>
-            PREFIX rdf: <%s>
-            PREFIX bibo: <%s>
-            SELECT ?ms
-            WHERE {
-                ?doc schema:about <%s> .
-                ?doc schema:mentions ?ms .
-                ?ms rdf:type bibo:Manuscript .
-            }
-            ''' % (rdflib.XSD, rdflib.RDF, BIBO, BELFAST_GROUP_URI)
-        )
-        # TODO: how to filter out non-group sheet irish misc content?
-        # FIXME: not finding group sheets in irishmisc! (no titles?)
+        # smushing should be done after infer/identify group sheets
+        # and assign local group sheet type
+        # SO - simply find by our belfast group sheet type
 
+        ms = list(g.subjects(predicate=rdflib.RDF.type, object=BG.GroupSheet))
         # if no manuscripts are found, stop and do not update the file
-        if len(res) == 0:
+        if len(ms) == 0:
             # possibly print out in a verbose mode if we add that
             #print 'No groupsheets found in %s' % filename
             return
 
-        print 'Found %d possible groupsheets in %s' % (len(res), filename)
+        # TEMP / sanity check
+        print 'Found %d groupsheets in %s' % (len(ms), filename)
 
-        for r in res:
+        for m in ms:
             # FIXME: only calculate a new uri for blank nodes?
-            newURI = self.calculate_uri(r['ms'], g)
+            # TODO: handle TEI-based rdf with ARK pid urls
+            newURI = self.calculate_uri(m, g)
             if newURI is not None:
-                new_uris[r['ms']] = newURI
+                new_uris[m] = newURI
 
         output = rdflib.Graph()
         # bind namespace prefixes from the input graph
@@ -123,7 +111,88 @@ class SmushGroupSheets(object):
 
         # NOTE: currently replaces the starting file.  Might not be ideal,
         # but may actually be reasonable for the currently intended use.
-        print 'Replacing %s' % filename
+        # print 'Replacing %s' % filename
         with open(filename, 'w') as datafile:
             output.serialize(datafile)
+
+
+class IdentifyGroupSheets(object):
+
+    def __init__(self, files):
+        for f in files:
+            self.process_file(f)
+
+    def process_file(self, filename):
+        # identify belfast group sheets and label them with our local
+        # belfast group sheet type
+
+        g = rdflib.Graph()
+        g.parse(filename)
+
+        # some collections include group sheets mixed with other content
+        # (irishmisc, ormsby)
+        # first look for a manuscript with an author that directly
+        # references the belfast group
+        res = g.query('''
+            PREFIX schema: <%(schema)s>
+            PREFIX rdf: <%(rdf)s>
+            PREFIX bibo: <%(bibo)s>
+            SELECT ?ms
+            WHERE {
+                ?ms rdf:type bibo:Manuscript .
+                ?ms schema:mentions <%(belfast_group)s> .
+                ?ms schema:author ?auth
+            }
+            ''' % {'schema': SCHEMA_ORG,
+                   'rdf': rdflib.RDF,
+                   'bibo': BIBO,
+                   'belfast_group': BELFAST_GROUP_URI
+                   }
+            )
+            # searching for all manuscript that 'mention' belfast group
+            # NOTE: schema:mentions NOT the right relation here;
+            # needs to be fixed in findingaids and then here
+
+        # if no matches, do a greedier search
+        if len(res) == 0:
+
+            # Find every manuscript mentioned in a document
+            # that is *about* the belfast group
+            # TODO: will also need to find ms associated with / presented at BG
+            # NOTE: need a way to filter non-belfast group content
+            res = g.query('''
+                PREFIX schema: <%(schema)s>
+                PREFIX rdf: <%(rdf)s>
+                PREFIX bibo: <%(bibo)s>
+                SELECT ?ms
+                WHERE {
+                    ?doc schema:about <%(belfast_group)s> .
+                    ?doc schema:mentions ?ms .
+                    ?ms rdf:type bibo:Manuscript .
+                }
+                ''' % {'schema': SCHEMA_ORG,
+                       'rdf': rdflib.RDF,
+                       'bibo': BIBO,
+                       'belfast_group': BELFAST_GROUP_URI
+                       }
+            )
+            # TODO: how to filter out non-group sheet irish misc content?
+            # FIXME: not finding group sheets in irishmisc! (no titles?)
+
+        # if no manuscripts are found, stop and do not update the file
+        if len(res) == 0:
+            # possibly print out in a verbose mode if we add that
+            # print 'No groupsheets found in %s' % filename
+            return
+
+        print 'Found %d groupsheets in %s' % (len(res), filename)
+
+        for r in res:
+            g.add((r['ms'], rdflib.RDF.type, BG.GroupSheet))
+
+        #print 'Replacing %s' % filename
+        with open(filename, 'w') as datafile:
+            g.serialize(datafile)
+
+
 
