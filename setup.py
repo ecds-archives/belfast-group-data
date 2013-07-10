@@ -38,6 +38,7 @@ setup(
         'BeautifulSoup4',
         'progressbar',  # make optional?
         'Django',
+        'networkx',
     ],
 
     # # indexdata utils are optional. They include things like PDF text stripping (pyPdf).
@@ -52,6 +53,6 @@ setup(
     classifiers=CLASSIFIERS,
     scripts=['scripts/harvest-rdf', 'scripts/harvest-related',
              'scripts/queens_belfast_rdf', 'scripts/smush-groupsheets',
-             'scripts/rdf2gexf',
+             'gscripts/rdf2gexf',
              'scripts/belfast_dataset'],
 )
