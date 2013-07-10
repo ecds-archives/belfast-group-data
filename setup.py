@@ -37,6 +37,7 @@ setup(
         'requests>=1.1',
         'BeautifulSoup4',
         'progressbar',  # make optional?
+        'Django',
     ],
 
     # # indexdata utils are optional. They include things like PDF text stripping (pyPdf).
