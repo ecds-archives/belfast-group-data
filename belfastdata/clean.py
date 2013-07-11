@@ -9,7 +9,7 @@ from belfastdata.rdfns import BIBO, DC, SCHEMA_ORG, BG, BELFAST_GROUP_URI
 class SmushGroupSheets(object):
 
     # base identifier for 'smushed' ids
-    BELFASTGROUPSHEET = rdflib.Namespace("http://belfastgroup.org/groupsheets/md5/")
+    BELFASTGROUPSHEET = rdflib.Namespace("http://belfastgroup.library.emory.edu/groupsheets/md5/")
 
     def __init__(self, files):
         for f in files:
@@ -88,7 +88,8 @@ class SmushGroupSheets(object):
             return
 
         # TEMP / sanity check
-        print 'Found %d groupsheets in %s' % (len(ms), filename)
+        print 'Found %d groupsheet%s in %s' % \
+            (len(ms), 's' if len(ms) != 1 else '', filename)
 
         for m in ms:
             # FIXME: only calculate a new uri for blank nodes?
@@ -106,7 +107,9 @@ class SmushGroupSheets(object):
         # any uris in the new_uris dictionary to the smushed identifier
         for s, p, o in g:
             s = new_uris.get(s, s)
-            o = new_uris.get(o, o)
+            # don't convert a smushed URL (e.g., TEI groupsheet URL)
+            if not p == SCHEMA_ORG.URL:
+                o = new_uris.get(o, o)
             output.add((s, p, o))
 
         # NOTE: currently replaces the starting file.  Might not be ideal,
@@ -185,7 +188,8 @@ class IdentifyGroupSheets(object):
             # print 'No groupsheets found in %s' % filename
             return
 
-        print 'Found %d groupsheets in %s' % (len(res), filename)
+        print 'Found %d groupsheet%s in %s' % \
+            (len(res), 's' if len(res) != 1 else '', filename)
 
         for r in res:
             g.add((r['ms'], rdflib.RDF.type, BG.GroupSheet))
