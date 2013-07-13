@@ -8,7 +8,8 @@ import os
 
 from belfastdata.harvest import HarvestRdf, HarvestRelated
 from belfastdata.qub import QUB
-from belfastdata.clean import SmushGroupSheets, IdentifyGroupSheets
+from belfastdata.clean import SmushGroupSheets, IdentifyGroupSheets, \
+    InferConnections
 from belfastdata.nx import Rdf2Gexf
 
 # settings
@@ -22,6 +23,11 @@ harvest_urls = [
     'http://testfindingaids.library.emory.edu/documents/ormsby805/',
     'http://testfindingaids.library.emory.edu/documents/irishmisc794/',
     'http://testfindingaids.library.emory.edu/documents/carson746/',
+    'http://testfindingaids.library.emory.edu/documents/heaney960/',
+    'http://testfindingaids.library.emory.edu/documents/heaney653/',
+    'http://testfindingaids.library.emory.edu/documents/muldoon784/',
+    'http://testfindingaids.library.emory.edu/documents/simmons759/',
+    'http://testfindingaids.library.emory.edu/documents/hobsbaum1013/',
 
     # NOTE: once in production, related collections links should help
 
@@ -79,9 +85,11 @@ if __name__ == '__main__':
     steps.add_argument('-r', '--related', action='store_true',
                        help='Harvest related RDF from VIAF, GeoNames, and DBpedia')
     steps.add_argument('-i', '--infer', action='store_true',
-                       help='Identify group sheets and infer connections such as owner')
+                       help='Identify group sheets')
     steps.add_argument('-s', '--smush', action='store_true',
                        help='Smush groupsheet URIs')
+    steps.add_argument('-c', '--connect', action='store_true',
+                       help='Infer and connections implicit in the data')
     steps.add_argument('-g', '--gexf', action='store_true',
                        help='Generate GEXF network graph data')
     # TODO: configurable verbosity ?
@@ -95,7 +103,7 @@ if __name__ == '__main__':
     # if specific steps are specified, run only those
     # otherwise, run all steps
     all_steps = not any([args.harvest, args.queens, args.related, args.smush,
-                         args.gexf, args.infer])
+                         args.gexf, args.infer, args.connect])
 
     if all_steps or args.harvest:
         print '-- Harvesting RDF from EmoryFindingAids related to the Belfast Group'
@@ -120,13 +128,19 @@ if __name__ == '__main__':
 
     if all_steps or args.infer:
         # smush any groupsheets in the data
-        print '-- Inferring: identifying groupsheets'
+        print '-- Identifying groupsheets'
         IdentifyGroupSheets(files)
 
     if all_steps or args.smush:
         # smush any groupsheets in the data
         print '-- Smushing groupsheet URIs'
         SmushGroupSheets(files)
+
+    if all_steps or args.connect:
+        # infer connections
+        print '-- Inferring connections: groupsheet authors affiliated with group'
+        InferConnections(files)
+        # TODO: groupsheet owner based on source collection
 
     if all_steps or args.gexf:
         # generate gexf

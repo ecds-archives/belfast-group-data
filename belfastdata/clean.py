@@ -199,4 +199,46 @@ class IdentifyGroupSheets(object):
             g.serialize(datafile)
 
 
+class InferConnections(object):
+
+    def __init__(self, files):
+        for f in files:
+            self.process_file(f)
+
+    def process_file(self, filename):
+        # identify belfast group sheets and label them with our local
+        # belfast group sheet type
+
+        g = rdflib.Graph()
+        g.parse(filename)
+
+        ms = list(g.subjects(predicate=rdflib.RDF.type, object=BG.GroupSheet))
+        # if no manuscripts are found, skip
+        if len(ms) == 0:
+            return
+
+        res = g.query('''
+                PREFIX schema: <%(schema)s>
+                PREFIX rdf: <%(rdf)s>
+                PREFIX bg: <%(bg)s>
+                SELECT ?author
+                WHERE {
+                    ?ms schema:author ?author .
+                    ?ms rdf:type bg:GroupSheet
+                }
+                ''' % {'schema': SCHEMA_ORG,
+                       'rdf': rdflib.RDF,
+                       'bg': BG}
+        )
+        modified = False
+        for r in res:
+            # triple to indicate the author is affiliated with BG
+            bg_assoc = (r['author'], SCHEMA_ORG.affiliation, rdflib.URIRef(BELFAST_GROUP_URI))
+            if bg_assoc not in g:
+                modified = True
+                g.add(bg_assoc)
+
+        if modified:
+            with open(filename, 'w') as datafile:
+                g.serialize(datafile)
 
