@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kjg#heaney1_1035">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/87832561"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>
+                            SAINT FRANCIS AND THE BIRDS</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kjg#heaney1_1030">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>BLACKBERRY-PICKING</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kjg#heaney1_1015">
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Marcus_Valerius_Messalla_Corvinus"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>TO A WINE JAR</schema:name>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/100227522"/>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Cato_the_Elder"/>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Marcus_Manlius"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100227522">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Horace</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcus_Valerius_Messalla_Corvinus">
+    <schema:name>Corvinus</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kjg#heaney1_109">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>BOY DRIVING HIS FATHER TO CONFESSION</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/b89be2707f0d3c36d8a2ae1fed4b200f">
+    <schema:name>POEMS BY SEAMUS HEANEY</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17kjg"/>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <dc:title rdf:nodeID="N744f366ad582491393d340421843b32d"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kjg#heaney1_1020">
+    <schema:name>ON HOGARTH'S ENGRAVING "PIT TICKET FOR THE ROYAL SPORT".</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N650194efc8ac4516a59c90b273724127">
+    <rdf:first>Saint Francis and the Birds</rdf:first>
+    <rdf:rest rdf:nodeID="Na58f9e75d0f045dea22de0940e89023e"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb768684042c24c53bfe35e86ddd8b943">
+    <rdf:rest rdf:nodeID="N3ac1e20b3ea6471b871e32fbd3bf3bbe"/>
+    <rdf:first>To a Wine Jar</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N744f366ad582491393d340421843b32d">
+    <rdf:rest rdf:nodeID="Nb768684042c24c53bfe35e86ddd8b943"/>
+    <rdf:first>Boy Driving His Father to Confession</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+    <schema:name>Seamus Heaney</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3ac1e20b3ea6471b871e32fbd3bf3bbe">
+    <rdf:first>On Hogarth's Engraving "Pit Ticket for the Royal Sport"</rdf:first>
+    <rdf:rest rdf:nodeID="Nea6c4ae0413941fca5a2425d98f3a163"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/87832561">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Francis</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcus_Manlius">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Manlius</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cato_the_Elder">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Old Cato</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kjg#heaney1_1025">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>
+                            SYNGE ON THE ARAN
+                        </schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nea6c4ae0413941fca5a2425d98f3a163">
+    <rdf:rest rdf:nodeID="N45ca05da925e4d599b378b00824641a2"/>
+    <rdf:first>Synge on the Aran</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N45ca05da925e4d599b378b00824641a2">
+    <rdf:first>Blackberry-Picking</rdf:first>
+    <rdf:rest rdf:nodeID="N650194efc8ac4516a59c90b273724127"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na58f9e75d0f045dea22de0940e89023e">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first>At a Potato Digging</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kjg#heaney1_1040">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>AT A POTATO DIGGING</schema:name>
+  </rdf:Description>
+</rdf:RDF>

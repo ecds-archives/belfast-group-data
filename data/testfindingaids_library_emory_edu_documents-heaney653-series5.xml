@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/46768718">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Yeats</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/61545326">
+    <schema:name xml:lang="en">Richard Ellmann</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/44300643">
+    <schema:name xml:lang="en">Joyce</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/heaney653/series5/">
+    <schema:name xml:lang="en">Seamus Heaney collection, 1972-1997; Series 5: Audiovisual material</schema:name>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
+    <schema:mentions rdf:nodeID="N19db2c9b24e74afeb2e9e28671123491"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N19db2c9b24e74afeb2e9e28671123491">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/34464414"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/61545326"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/46768718"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/44300643"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/34464414">
+    <schema:name xml:lang="en">Wilde</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+</rdf:RDF>

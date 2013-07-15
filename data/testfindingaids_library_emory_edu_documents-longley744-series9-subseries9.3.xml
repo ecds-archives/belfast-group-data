@@ -5,31 +5,12 @@
    xmlns:schema="http://schema.org/"
 >
   <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/longley744/series9/subseries9.3/">
-    <schema:dateModified xml:lang="en">2013-06-18</schema:dateModified>
     <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
     <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/longley744/index1/"/>
     <schema:name xml:lang="en">Michael Longley papers, 1960-2000; Subseries 9.3: Correspondence, 1969-1991</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N1edde584ee334260b4543e196c95d2b9">
-    <rdf:first xml:lang="en">Review</rdf:first>
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N187b4eb18c464daf8e5e98e65f6be1bd">
-    <rdf:rest rdf:nodeID="N1edde584ee334260b4543e196c95d2b9"/>
-    <rdf:first xml:lang="en">Belfast Review</rdf:first>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
-    <dc:title rdf:nodeID="N187b4eb18c464daf8e5e98e65f6be1bd"/>
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <dc:title xml:lang="en">Gown Literary Supplement and Gown Independant
-						Newspaper</dc:title>
-    <dc:title xml:lang="en">North</dc:title>
-    <dc:title xml:lang="en">Poetry Ireland</dc:title>
-    <dc:title xml:lang="en">2 Plus 2</dc:title>
-    <dc:title xml:lang="en">Fortnight</dc:title>
-    <dc:title xml:lang="en">Extro</dc:title>
-    <dc:title xml:lang="en">Audio Arts</dc:title>
-    <dc:title xml:lang="en">Theatre Ireland</dc:title>
-    <dc:title xml:lang="en">Honest Ulsterman</dc:title>
   </rdf:Description>
 </rdf:RDF>

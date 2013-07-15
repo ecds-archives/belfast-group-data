@@ -4,215 +4,215 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="N8b8661afdd984e0e91ed6042f4e04be3">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/92591927"/>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen%27s_University_Belfast">
+    <schema:name xml:lang="en">Queens University Belfast</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/33362880">
-    <schema:name xml:lang="en">Johnstone</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/49280158">
+    <schema:name xml:lang="en">Ormsby</schema:name>
+    <schema:name xml:lang="en">Ormsby's</schema:name>
+    <schema:name xml:lang="en">Frank Ormsby</schema:name>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
+  <rdf:Description rdf:nodeID="N548f77da7b1a47789d406519c2a08ed6">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/92591927"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/29580646">
+    <schema:name xml:lang="en">Fleur Adcock</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc97606d592ef43279c7427177192ff5b">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/143917318">
-    <schema:name xml:lang="en">Ulster Museum</schema:name>
     <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Ulster Museum</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N74ccaeb6785f4bc2a7b190b8f6aaa650">
+    <dc:title xml:lang="en">Poets from the North of Ireland</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Queen%27s_University_Belfast"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncaf8e50d10f447a2926992aa41a5f872">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/110228045"/>
+    <dc:title xml:lang="en">Hibernia</dc:title>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/64048541"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8acf139561024b94b491169f22523c54">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/33362880">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Johnstone</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108291535">
+    <schema:name xml:lang="en">Paulin</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc9fbc378d25a4bfe8be486fd02c65521">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/92591927"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5dc23eee93074b0080763ad4fbd87574">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:nodeID="N44d96bb27458485ba475a691e4e2c38b"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/120096893"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
+    <schema:name xml:lang="en">Heaney</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/110228045">
     <schema:name xml:lang="en">Derek Mahon</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">Mahon</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N770b44f78b484ad3a930757fe4dc6169">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/120096893"/>
-    <schema:mentions rdf:nodeID="N411e528044904a48a4c96050996cc614"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Ne06736daa3064421afd0b2583283dde7">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N6634d235a88e400f87bd0988f8ce94a6">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/85621766"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/173298995"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/33362880"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/84228596"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/111397155"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/85621766">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Carson</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/55394043">
     <schema:name xml:lang="en">Foley</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/85621766">
-    <schema:name xml:lang="en">Carson</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/92591927">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">James Simmons</schema:name>
-    <schema:name xml:lang="en">Simmons</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/98548196">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Montague</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N901e96d464af497f8f9f173bc32a8f0c">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <dc:title xml:lang="en">The Honest Ulsterman</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N0b61485303364344bfc3cad72ea1b5ba">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/110228045"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/173298995"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Ne5a55ec2a8e344b9a6d71d87afcf0a25">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/143917318"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Na3a2ceca667345a6bd8eb5385d6e54a1">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <dc:title xml:lang="en">Business as Usual</dc:title>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nb2ef32eb731a4ede9c7e0fc4e68a6eb0">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
-    <dc:title xml:lang="en">A Store of Candles</dc:title>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N8dfc9e1b31a541bb9794b6841794e4c7">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  <rdf:Description rdf:nodeID="Nf8d9d82e838f433cae77a70c78a3c6a6">
     <schema:mentions rdf:resource="http://viaf.org/viaf/29580646"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N76ece23212fd4390855cb32b373df369">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/92591927"/>
     <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc0bafbc3d9834a9081a8b79086e397c9">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N79bed55cc49b4d33ad2636988f6e1a70">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <dc:title xml:lang="en">Panoramic Britanic</dc:title>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/94401473">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Hewitt</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/173298995">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Queens University Belfast</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N2f00d1f210714955bac43cdd65e0111a">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N972f34bedf83490e9fb57c31030d653e">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/64048541"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/55394043"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/29580646">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Fleur Adcock</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N647029762d1848e9964b31a654156722">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/92591927"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/64048541"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/84228596">
-    <schema:name xml:lang="en">Greacen</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Ncada5b80c8b64a46b94e9e252ca912a0">
-    <dc:title xml:lang="en">Hibernia</dc:title>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/110228045"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/64048541"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/49280158">
-    <schema:name xml:lang="en">Frank Ormsby</schema:name>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Ormsby's</schema:name>
-    <schema:name xml:lang="en">Ormsby</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc5be0dd7593748d28a5dee829b114f69">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/92591927"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/64048541"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/111397155">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Dawe</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N411e528044904a48a4c96050996cc614">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">Northern Ireland</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Naf2e1807963844f18ce948fe52fc97d4">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <dc:title xml:lang="en">Poets from the North of Ireland</dc:title>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/173298995"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/64048541">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Muldoon</schema:name>
-    <schema:name xml:lang="en">Paul Muldoon</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/222714533">
-    <schema:name xml:lang="en">Heaney</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.2/">
-    <schema:mentions rdf:nodeID="Nc0bafbc3d9834a9081a8b79086e397c9"/>
-    <schema:mentions rdf:nodeID="N0b61485303364344bfc3cad72ea1b5ba"/>
-    <schema:mentions rdf:nodeID="N770b44f78b484ad3a930757fe4dc6169"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/49280158"/>
-    <schema:mentions rdf:nodeID="Nb2ef32eb731a4ede9c7e0fc4e68a6eb0"/>
-    <schema:mentions rdf:nodeID="Ncada5b80c8b64a46b94e9e252ca912a0"/>
-    <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004; Subseries 5.2: Printed material about Frank Ormsby</schema:name>
-    <schema:mentions rdf:nodeID="N901e96d464af497f8f9f173bc32a8f0c"/>
-    <schema:mentions rdf:nodeID="Na3a2ceca667345a6bd8eb5385d6e54a1"/>
-    <schema:mentions rdf:nodeID="Ne06736daa3064421afd0b2583283dde7"/>
-    <schema:mentions rdf:nodeID="N2f00d1f210714955bac43cdd65e0111a"/>
-    <schema:mentions rdf:nodeID="N6634d235a88e400f87bd0988f8ce94a6"/>
-    <schema:mentions rdf:nodeID="N76ece23212fd4390855cb32b373df369"/>
-    <schema:mentions rdf:nodeID="N8b8661afdd984e0e91ed6042f4e04be3"/>
-    <schema:mentions rdf:nodeID="N972f34bedf83490e9fb57c31030d653e"/>
-    <schema:mentions rdf:nodeID="N8dfc9e1b31a541bb9794b6841794e4c7"/>
-    <schema:mentions rdf:nodeID="Nc5be0dd7593748d28a5dee829b114f69"/>
-    <schema:mentions rdf:nodeID="N647029762d1848e9964b31a654156722"/>
-    <schema:mentions rdf:nodeID="N79bed55cc49b4d33ad2636988f6e1a70"/>
-    <schema:mentions rdf:nodeID="Nd876ed36795844f0bcd364c0094ae101"/>
-    <schema:mentions rdf:nodeID="Naf2e1807963844f18ce948fe52fc97d4"/>
-    <schema:dateModified xml:lang="en">2013-06-27</schema:dateModified>
+    <schema:mentions rdf:nodeID="Ncaf8e50d10f447a2926992aa41a5f872"/>
+    <schema:mentions rdf:nodeID="Nc0d401da9c3a4922b69765059e793b05"/>
     <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:mentions rdf:nodeID="Ne5a55ec2a8e344b9a6d71d87afcf0a25"/>
+    <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004; Subseries 5.2: Printed material about Frank Ormsby</schema:name>
+    <schema:mentions rdf:nodeID="N7406b517268144c68d9f5f7d98ef6929"/>
+    <schema:mentions rdf:nodeID="Nc97606d592ef43279c7427177192ff5b"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/49280158"/>
+    <schema:mentions rdf:nodeID="Nbe95e7f1098745509a7f6cdffafafde4"/>
+    <schema:mentions rdf:nodeID="N74ccaeb6785f4bc2a7b190b8f6aaa650"/>
+    <schema:mentions rdf:nodeID="Ncbf176dbc8ff4710ab35f5150d1e2177"/>
+    <schema:mentions rdf:nodeID="N548f77da7b1a47789d406519c2a08ed6"/>
+    <schema:mentions rdf:nodeID="N5dc23eee93074b0080763ad4fbd87574"/>
+    <schema:mentions rdf:nodeID="N7aa1b0d0a46444caae4458e2724e4a5e"/>
+    <schema:mentions rdf:nodeID="N88cd78ccb6fe4d808cbc6b4f144c3ce4"/>
+    <schema:mentions rdf:nodeID="N2a313c1d1a964e359b2106752c2b661e"/>
+    <schema:mentions rdf:nodeID="N2f7160b461bc45fdba6b91714583cf6f"/>
+    <schema:mentions rdf:nodeID="Nd23eb73658514edc95f202de12e2830f"/>
+    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
+    <schema:mentions rdf:nodeID="Nf8d9d82e838f433cae77a70c78a3c6a6"/>
+    <schema:mentions rdf:nodeID="N69c3252cd5cd489dbee0cbacdaed529a"/>
+    <schema:mentions rdf:nodeID="Nad13b3862c23424b9c4d4fc0d0f8bbd5"/>
+    <schema:mentions rdf:nodeID="Nf0a74ae767f94cb5aece143660358c68"/>
+    <schema:mentions rdf:nodeID="N8acf139561024b94b491169f22523c54"/>
+    <schema:mentions rdf:nodeID="Nc9fbc378d25a4bfe8be486fd02c65521"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/108291535">
-    <schema:name xml:lang="en">Paulin</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
+  <rdf:Description rdf:nodeID="Ncbf176dbc8ff4710ab35f5150d1e2177">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/111397155"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/33362880"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/85621766"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/84228596"/>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Queen%27s_University_Belfast"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N88cd78ccb6fe4d808cbc6b4f144c3ce4">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/92591927"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/64048541"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/120096893">
     <schema:name xml:lang="en">McGuckian</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nd876ed36795844f0bcd364c0094ae101">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/108291535"/>
+  <rdf:Description rdf:nodeID="N2a313c1d1a964e359b2106752c2b661e">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+    <dc:title xml:lang="en">The Honest Ulsterman</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf0a74ae767f94cb5aece143660358c68">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+    <dc:title xml:lang="en">Business as Usual</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/98548196">
+    <schema:name xml:lang="en">Montague</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N69c3252cd5cd489dbee0cbacdaed529a">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/110228045"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Queen%27s_University_Belfast"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd23eb73658514edc95f202de12e2830f">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/92591927"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/64048541"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/98548196"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/222714533"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/111397155">
+    <schema:name xml:lang="en">Dawe</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/92591927">
+    <schema:name xml:lang="en">James Simmons</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Simmons</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7406b517268144c68d9f5f7d98ef6929">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/143917318"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc0d401da9c3a4922b69765059e793b05">
     <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+    <dc:title xml:lang="en">A Store of Candles</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2f7160b461bc45fdba6b91714583cf6f">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+    <dc:title xml:lang="en">Panoramic Britanic</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N44d96bb27458485ba475a691e4e2c38b">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">Northern Ireland</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbe95e7f1098745509a7f6cdffafafde4">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nad13b3862c23424b9c4d4fc0d0f8bbd5">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/55394043"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/64048541"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/64048541">
+    <schema:name xml:lang="en">Paul Muldoon</schema:name>
+    <schema:name xml:lang="en">Muldoon</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7aa1b0d0a46444caae4458e2724e4a5e">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94401473"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/49280158"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/98548196"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/108291535"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/64048541"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/94401473">
+    <schema:name xml:lang="en">Hewitt</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/84228596">
+    <schema:name xml:lang="en">Greacen</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
 </rdf:RDF>
