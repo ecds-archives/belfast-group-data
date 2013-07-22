@@ -16,5 +16,8 @@ if __name__ == '__main__':
     parser.add_argument('-o', '--output', metavar='DIR',
                         help='base directory for harvested content',
                         required=True)
+    parser.add_argument('-f', '--format', metavar='FORMAT', default='xml',
+                        help='output format (one of: %(choices)s; default is %(default)s)',
+                        choices=['xml', 'n3', 'turtle'])
     args = parser.parse_args()
-    HarvestRelated(args.files, args.output)
+    HarvestRelated(args.files, args.output, format=args.format)

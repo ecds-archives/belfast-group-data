@@ -23,11 +23,18 @@ class HarvestRdf(object):
     harvested = 0
     errors = 0
 
-    def __init__(self, urls, output_dir, find_related=False, verbosity=1):
+    _serialize_opts = {}
+
+    def __init__(self, urls, output_dir, find_related=False, verbosity=1,
+                 format=None):
         self.URL_QUEUE.extend(urls)
         self.find_related = find_related
         self.base_dir = output_dir
         self.verbosity = verbosity
+
+        self.format = format
+        if format is not None:
+            self._serialize_opts['format'] = format
 
         self.process_urls()
 
@@ -89,7 +96,7 @@ class HarvestRdf(object):
         if self.verbosity > 1:
             print 'Saving as %s' % filename
         with open(filename, 'w') as datafile:
-            data.serialize(datafile)
+            data.serialize(datafile, **self._serialize_opts)
         self.harvested += 1
 
         # if find related is true, look for urls related to this one
@@ -137,7 +144,8 @@ class HarvestRdf(object):
         filebase = host
         if path:
             filebase += '_%s' % path
-            return os.path.join(self.base_dir, '%s.xml' % filebase)
+            #  NOTE: save as .rdf since it may or may not be rdf xml
+            return os.path.join(self.base_dir, '%s.%s' % (filebase, self.format))
 
 
 class HarvestRelated(object):
@@ -151,9 +159,14 @@ class HarvestRelated(object):
         ('dbpedia', 'http://dbpedia.org/'),
     ]
 
-    def __init__(self, files, basedir):
+    _serialize_opts = {}
+
+    def __init__(self, files, basedir, format=None):
         self.files = files
         self.basedir = basedir
+
+        if format is not None:
+            self._serialize_opts['format'] = format
 
         self.run()
 
@@ -163,8 +176,10 @@ class HarvestRelated(object):
         # load all files into a single graph so we can query distinct
         g = rdflib.Graph()
         for infile in self.files:
+            basename, ext = os.path.splitext(infile)
+            fmt = ext.strip('.')
             try:
-                g.parse(infile)
+                g.parse(infile, format=fmt)
             except Exception as err:
                 print "Error parsing '%s' as RDF -- %s" % (infile, err)
                 continue
@@ -223,8 +238,15 @@ class HarvestRelated(object):
                         # i.e.  dbpedia records for VIAF persons
                         g.parse(data=data.content)
 
+                        tmp_graph = rdflib.Graph()
+                        tmp_graph.parse(data=data.content)
+
                         with open(filename, 'w') as datafile:
-                            datafile.write(data.content)
+#                            datafile.write(data.content)
+                            tmp_graph.serialize(datafile, **self._serialize_opts)
+
+            #                         with open(filename, 'w') as datafile:
+            # data.serialize(datafile, **self._serialize_opts)
                     else:
                         print 'Error loading %s : %s' % (u, data.status_code)
 
