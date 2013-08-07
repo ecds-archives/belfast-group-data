@@ -220,14 +220,18 @@ class HarvestRelated(object):
                 # if already downloaded, don't re-download but add to graph
                 # for any secondary related content
 
-                # FIXME: dbpedia downloads includes lots of extra data
-                # we don't care about (data where uri is object instead of subject)
-
                 if os.path.exists(filename):
                     # TODO: better refinement would be to use modification
                     # time on the file to download if changed
                     # (do all these sources support if-modified-since headers?)
-                    g.parse(location=filename)
+
+                    # determine rdf format by file extension
+                    basename, ext = os.path.splitext(infile)
+                    fmt = ext.strip('.')
+                    try:
+                        g.parse(location=filename, format=fmt)
+                    except Exception as err:
+                        print 'Error loading file %s : %s' % (filename, err)
 
                 else:
                     # Use requests with content negotiation to load the data
@@ -239,9 +243,21 @@ class HarvestRelated(object):
 
                         tmp_graph = rdflib.Graph()
                         tmp_graph.parse(data=data.content)
+                        # NOTE: dbpedia downloads includes lots of extra data
+                        # we don't need (data where uri is object instead of subject)
+                        # filter that out
+                        if name == 'dbpedia':
+                            for s, p, o in tmp_graph:
+                                if s != rdflib.URIRef(u):
+                                    tmp_graph.remove((s, p, o))
 
                         with open(filename, 'w') as datafile:
-                            tmp_graph.serialize(datafile, format=self.format)
+                            try:
+                                tmp_graph.serialize(datafile, format=self.format)
+                            except Exception as err:
+                                print 'Error serializing %s : %s' % (u, err)
+
+
 
                     else:
                         print 'Error loading %s : %s' % (u, data.status_code)
