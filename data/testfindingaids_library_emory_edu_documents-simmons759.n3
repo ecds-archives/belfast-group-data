@@ -1,0 +1,257 @@
+@prefix arch: <http://purl.org/archival/vocab/arch#> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dbp: <http://dbpedia.org/ontology/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xlink: <http://www.w3.org/1999/xlink> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix xsi: <http://www.w3.org/2001/XMLSchema-instance> .
+
+<http://pid.emory.edu/ark:/25593/8zw5k> a dcmitype:Text,
+        schema:WebPage ;
+    dc:hasPart <http://testfindingaids.library.emory.edu/documents/simmons759/series1/>,
+        <http://testfindingaids.library.emory.edu/documents/simmons759/series2/>,
+        <http://testfindingaids.library.emory.edu/documents/simmons759/series3/>,
+        <http://testfindingaids.library.emory.edu/documents/simmons759/series4/>,
+        <http://testfindingaids.library.emory.edu/documents/simmons759/series5/>,
+        <http://testfindingaids.library.emory.edu/documents/simmons759/series6/>,
+        <http://testfindingaids.library.emory.edu/documents/simmons759/series7/> ;
+    schema:about [ a arch:Collection,
+                dcmitype:Collection,
+                schema:CreativeWork ;
+            dc:hasPart <http://testfindingaids.library.emory.edu/documents/simmons759/series1/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series1/subseries1.1/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series1/subseries1.2/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series1/subseries1.3/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series1/subseries1.4/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series1/subseries1.5/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series2/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series3/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series3/subseries3.1/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series3/subseries3.2/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series3/subseries3.3/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series3/subseries3.4/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series3/subseries3.5/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series3/subseries3.6/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series4/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series4/subseries4.1/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series4/subseries4.2/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series5/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series5/subseries5.1/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series5/subseries5.2/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series6/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series6/subseries6.1/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series6/subseries6.2/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series6/subseries6.3/>,
+                <http://testfindingaids.library.emory.edu/documents/simmons759/series7/> ;
+            schema:about [ a schema:Organization ;
+                    schema:name "Poets House (Firm)"@en ],
+                <http://dbpedia.org/resource/Ahmadu_Bello_University>,
+                <http://dbpedia.org/resource/University_of_Leeds>,
+                <http://viaf.org/viaf/105939176>,
+                <http://viaf.org/viaf/108905075>,
+                <http://viaf.org/viaf/109297940>,
+                <http://viaf.org/viaf/109557338>,
+                <http://viaf.org/viaf/110228045>,
+                <http://viaf.org/viaf/120096893>,
+                <http://viaf.org/viaf/39398205>,
+                <http://viaf.org/viaf/64048541>,
+                <http://viaf.org/viaf/68946198>,
+                <http://viaf.org/viaf/94401473> ;
+            schema:creator <http://viaf.org/viaf/92591927> ;
+            schema:description """Personal and literary papers of Irish poet and editor James
+        Simmons including drafts of Simmons's own writings, personal and literary correspondence,
+        printed material, and photographs.
+            """@en ;
+            schema:jobTitle "Author."@en,
+                "Critic."@en,
+                "Poet."@en,
+                "Teacher."@en ;
+            schema:keywords "Ahmadu Bello University."@en,
+                "Author."@en,
+                "Belfast Group."@en,
+                "College teachers--Nigeria."@en,
+                "Critic."@en,
+                "Diaries."@en,
+                "Dramatic criticism--Ireland."@en,
+                "English literature--Irish authors--20th century."@en,
+                "English poetry--Irish authors--20th century."@en,
+                "Foley, Michael, 1947-"@en,
+                "Harrison, Tony, 1937-"@en,
+                "Heaney, Seamus."@en,
+                "Hewitt, John Harold, 1907-"@en,
+                "Honest ulsterman."@en,
+                "Irish poetry--History and criticism--20th century."@en,
+                "Larkin, Philip."@en,
+                "Longley, Michael, 1939-"@en,
+                "Mahon, Derek, 1941-"@en,
+                "Manuscripts."@en,
+                "McGuckian, Medbh, 1950-"@en,
+                "Muldoon, Paul."@en,
+                "Photographs."@en,
+                "Poems."@en,
+                "Poet."@en,
+                "Poetry--Studying and teaching--Ireland."@en,
+                "Poets House (Firm)"@en,
+                "Poets, Irish--20th century."@en,
+                "Popular music--Writing and publishing--Ireland."@en,
+                "Scores."@en,
+                "Songs, Irish--20th century."@en,
+                "Songs."@en,
+                "Soyinka, Wole."@en,
+                "Teacher."@en,
+                "University of Leeds."@en ;
+            schema:mentions <http://viaf.org/viaf/105939176>,
+                <http://viaf.org/viaf/109297940>,
+                <http://viaf.org/viaf/109557338>,
+                <http://viaf.org/viaf/110228045>,
+                <http://viaf.org/viaf/39398205>,
+                <http://viaf.org/viaf/64048541> ;
+            schema:name """ James Simmons papers, 1945-1996
+            
+             """@en ],
+        "http://viaf.org/viaf/92591927"@en ;
+    schema:author "Manuscript, Archives, and Rare Book Library, Emory           University"@en ;
+    schema:dateCreated "2003-07-23"@en ;
+    schema:dateModified "2013-07-15"@en ;
+    schema:datePublished "2003-07-23"@en ;
+    schema:name "James Simmons papers, 1945-1996"@en ;
+    schema:publisher [ a schema:Organization ;
+            schema:name "Emory University"@en ] ;
+    schema:url "http://pid.emory.edu/ark:/25593/8zw5k"@en ;
+    = <http://testfindingaids.library.emory.edu/documents/simmons759/> .
+
+<http://dbpedia.org/resource/Coleraine> a schema:Place ;
+    schema:name "Coleraine"@en .
+
+<http://dbpedia.org/resource/Queen%27s_University_Belfast> a schema:Organization ;
+    schema:name "Queens University of Belfast"@en .
+
+<http://dbpedia.org/resource/The_Honest_Ulsterman> a schema:Organization ;
+    schema:name """
+                    The Honest Ulsterman
+                """@en .
+
+<http://dbpedia.org/resource/Ulster> a schema:Place ;
+    schema:name "Ulster"@en .
+
+<http://dbpedia.org/resource/University_of_Leeds> a schema:Organization ;
+    schema:name "University of Leeds."@en .
+
+<http://sws.geonames.org/2328926/> a schema:Place ;
+    schema:name "Nigeria"@en .
+
+<http://sws.geonames.org/2643736/> a schema:Place ;
+    schema:name "Derry, Northern Ireland"@en .
+
+<http://sws.geonames.org/2644411/> a schema:Place ;
+    schema:name "Lisburn"@en .
+
+<http://viaf.org/viaf/108905075> a schema:Person ;
+    schema:name "Foley, Michael, 1947-"@en .
+
+<http://viaf.org/viaf/120096893> a schema:Person ;
+    schema:name "McGuckian, Medbh, 1950-"@en .
+
+<http://viaf.org/viaf/128469846> a schema:Organization ;
+    schema:name "New University of Ulster"@en .
+
+<http://viaf.org/viaf/135669116> a schema:Organization ;
+    schema:name """University of
+        Leeds"""@en .
+
+<http://viaf.org/viaf/1717723> a schema:Person ;
+    schema:name """Janice
+        Fitzpatrick Simmons"""@en .
+
+<http://viaf.org/viaf/68946198> a schema:Person ;
+    schema:name "Larkin, Philip."@en .
+
+<http://viaf.org/viaf/92591927> a schema:Person ;
+    dbp:birthPlace <http://sws.geonames.org/2643736/> ;
+    schema:alumniOf <http://viaf.org/viaf/135669116> ;
+    schema:birthDate "1933"@en ;
+    schema:deathDate "2001-06-21"@en ;
+    schema:description """
+      
+        James Simmons was born in 1933 in Derry, Northern Ireland. He attended the University of Leeds as a mature student in the late 1950's where he met lifelong friends Tony Harrison and Wole Soyinka. Simmons went on to teach English at Ahamadu Bello University in Nigeria, Friends School, Lisburn, and the New University of Ulster, Coleraine, and in 1989 was named Writer in Residence at Queens University of Belfast. In 1968, Simmons founded and edited The Honest Ulsterman , a prominent literary magazine in Ulster. He founded The Poets' House, which was a series of summer poetry conferences with wife, Janice Fitzpatrick Simmons in 1990. In 1994, The Poets' House began offering Ireland's first M.A. in Creative Writing. Simmons had seven children, five with first wife, Laura Stinson, one with Imelda Foley, and one with Janice Fitzpatrick. His published collections of poems include: Ten Poems, Ballad of a Marriage, Late but in Earnest, In the Wilderness and Other Poems, No Ties, No Land is Waste, Dr. Eliot, Energy to Burn, The Long Summer Still to Come, West Strand Visions, Memorials of a Tour in Yorkshire, Judy Garland and the Cold War, Constantly Singing, From the Irish, Sex, Rectitude and Loneliness, Mainstream, and The Company of Children. Simmons passed away June 21st, 2001.
+      
+    """@en ;
+    schema:founderOf <http://dbpedia.org/resource/The_Honest_Ulsterman> ;
+    schema:jobTitle "Author"@en,
+        "Critic"@en,
+        "Poet"@en,
+        "Teacher"@en ;
+    schema:knows <http://viaf.org/viaf/105939176>,
+        <http://viaf.org/viaf/109297940> ;
+    schema:mentions <http://dbpedia.org/resource/Ulster> ;
+    schema:name "Simmons, James, 1933-"@en ;
+    schema:spouse <http://viaf.org/viaf/1717723> ;
+    schema:workLocation <http://dbpedia.org/resource/Coleraine>,
+        <http://sws.geonames.org/2328926/>,
+        <http://sws.geonames.org/2644411/> ;
+    schema:worksFor <http://dbpedia.org/resource/Ahmadu_Bello_University>,
+        <http://dbpedia.org/resource/Queen%27s_University_Belfast>,
+        <http://viaf.org/viaf/128469846> .
+
+<http://viaf.org/viaf/94401473> a schema:Person ;
+    schema:name "Hewitt, John Harold, 1907-"@en .
+
+<http://dbpedia.org/resource/Ahmadu_Bello_University> a schema:Organization ;
+    schema:name "Ahamadu Bello University"@en,
+        "Ahmadu Bello University."@en .
+
+<http://viaf.org/viaf/109557338> a schema:Person ;
+    schema:name "Heaney, Seamus."@en,
+        "Seamus Heaney"@en .
+
+<http://viaf.org/viaf/110228045> a schema:Person ;
+    schema:name "Derek Mahon"@en,
+        "Mahon, Derek, 1941-"@en .
+
+<http://viaf.org/viaf/39398205> a schema:Person ;
+    schema:name "Longley, Michael, 1939-"@en,
+        "Michael Longley"@en .
+
+<http://viaf.org/viaf/64048541> a schema:Person ;
+    schema:name "Muldoon, Paul."@en,
+        "Paul Muldoon"@en .
+
+<http://viaf.org/viaf/105939176> a schema:Person ;
+    schema:name "Soyinka, Wole."@en,
+        "Wole Soyinka"@en .
+
+<http://viaf.org/viaf/109297940> a schema:Person ;
+    schema:name "Harrison, Tony, 1937-"@en,
+        "Tony Harrison"@en .
+

@@ -1,0 +1,213 @@
+@prefix arch: <http://purl.org/archival/vocab/arch#> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix e: <urn:isbn:1-931666-22-9> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://testfindingaids.library.emory.edu/documents/carson746/index1/> a schema:WebPage ;
+    schema:dateModified "2013-07-15"@en ;
+    schema:name "Ciaran Carson papers, circa 1970-2010; Index of Selected Correspondents"@en .
+
+<http://viaf.org/viaf/85621766> a schema:Person ;
+    arch:correspondedWith <http://viaf.org/viaf/10100>,
+        <http://viaf.org/viaf/101760846>,
+        <http://viaf.org/viaf/108417923>,
+        <http://viaf.org/viaf/109557338>,
+        <http://viaf.org/viaf/109956735>,
+        <http://viaf.org/viaf/112404721>,
+        <http://viaf.org/viaf/113258025>,
+        <http://viaf.org/viaf/113957087>,
+        <http://viaf.org/viaf/115219098>,
+        <http://viaf.org/viaf/118144828>,
+        <http://viaf.org/viaf/120096893>,
+        <http://viaf.org/viaf/12402723>,
+        <http://viaf.org/viaf/13382047>,
+        <http://viaf.org/viaf/17437836>,
+        <http://viaf.org/viaf/187690273>,
+        <http://viaf.org/viaf/22044>,
+        <http://viaf.org/viaf/23488067>,
+        <http://viaf.org/viaf/24613408>,
+        <http://viaf.org/viaf/2656064>,
+        <http://viaf.org/viaf/30405426>,
+        <http://viaf.org/viaf/32215143>,
+        <http://viaf.org/viaf/34553683>,
+        <http://viaf.org/viaf/38545317>,
+        <http://viaf.org/viaf/39398205>,
+        <http://viaf.org/viaf/49280158>,
+        <http://viaf.org/viaf/5082602>,
+        <http://viaf.org/viaf/64048541>,
+        <http://viaf.org/viaf/64128892>,
+        <http://viaf.org/viaf/68554626>,
+        <http://viaf.org/viaf/79088985>,
+        <http://viaf.org/viaf/85453832>,
+        <http://viaf.org/viaf/93167797>,
+        <http://viaf.org/viaf/94779115>,
+        <http://viaf.org/viaf/98548196> ;
+    schema:knows <http://viaf.org/viaf/10100>,
+        <http://viaf.org/viaf/101760846>,
+        <http://viaf.org/viaf/108417923>,
+        <http://viaf.org/viaf/109557338>,
+        <http://viaf.org/viaf/109956735>,
+        <http://viaf.org/viaf/112404721>,
+        <http://viaf.org/viaf/113258025>,
+        <http://viaf.org/viaf/113957087>,
+        <http://viaf.org/viaf/115219098>,
+        <http://viaf.org/viaf/118144828>,
+        <http://viaf.org/viaf/120096893>,
+        <http://viaf.org/viaf/12402723>,
+        <http://viaf.org/viaf/13382047>,
+        <http://viaf.org/viaf/17437836>,
+        <http://viaf.org/viaf/187690273>,
+        <http://viaf.org/viaf/22044>,
+        <http://viaf.org/viaf/23488067>,
+        <http://viaf.org/viaf/24613408>,
+        <http://viaf.org/viaf/2656064>,
+        <http://viaf.org/viaf/30405426>,
+        <http://viaf.org/viaf/32215143>,
+        <http://viaf.org/viaf/34553683>,
+        <http://viaf.org/viaf/38545317>,
+        <http://viaf.org/viaf/39398205>,
+        <http://viaf.org/viaf/49280158>,
+        <http://viaf.org/viaf/5082602>,
+        <http://viaf.org/viaf/64048541>,
+        <http://viaf.org/viaf/64128892>,
+        <http://viaf.org/viaf/68554626>,
+        <http://viaf.org/viaf/79088985>,
+        <http://viaf.org/viaf/85453832>,
+        <http://viaf.org/viaf/93167797>,
+        <http://viaf.org/viaf/94779115>,
+        <http://viaf.org/viaf/98548196> .
+
+<http://viaf.org/viaf/10100> a schema:Person ;
+    schema:name "Drabble, Margaret"@en .
+
+<http://viaf.org/viaf/101760846> a schema:Person ;
+    schema:name "Sommer, Piotr"@en .
+
+<http://viaf.org/viaf/108417923> a schema:Person ;
+    schema:name "Ginsberg, Allen"@en .
+
+<http://viaf.org/viaf/109557338> a schema:Person ;
+    schema:name "Heaney, Seamus [RESTRICTED]"@en .
+
+<http://viaf.org/viaf/109956735> a schema:Person ;
+    schema:name "Longley, Edna"@en .
+
+<http://viaf.org/viaf/112404721> a schema:Person ;
+    schema:name "Robinson, Tim"@en .
+
+<http://viaf.org/viaf/113258025> a schema:Person ;
+    schema:name "Durcan, Paul"@en .
+
+<http://viaf.org/viaf/113957087> a schema:Person ;
+    schema:name "Proulx, Annie"@en .
+
+<http://viaf.org/viaf/115219098> a schema:Person ;
+    schema:name "Dunne, Seán"@en .
+
+<http://viaf.org/viaf/118144828> a schema:Person ;
+    schema:name "Robertson, Robin"@en .
+
+<http://viaf.org/viaf/120096893> a schema:Person ;
+    schema:name "McGuckian, Medbh"@en .
+
+<http://viaf.org/viaf/12402723> a schema:Person ;
+    schema:name "Dorgan, Theo"@en .
+
+<http://viaf.org/viaf/13382047> a schema:Person ;
+    schema:name "Olds, Sharon"@en .
+
+<http://viaf.org/viaf/17437836> a schema:Person ;
+    schema:name "Batten, Guinn"@en .
+
+<http://viaf.org/viaf/187690273> a schema:Person ;
+    schema:name "Byatt, Antonia S."@en .
+
+<http://viaf.org/viaf/22044> a schema:Person ;
+    schema:name "Simic, Charles"@en .
+
+<http://viaf.org/viaf/23488067> a schema:Person ;
+    schema:name "Coady, Michael "@en .
+
+<http://viaf.org/viaf/24613408> a schema:Person ;
+    schema:name "Fallon, Peter"@en .
+
+<http://viaf.org/viaf/2656064> a schema:Person ;
+    schema:name "Flanagan, Tom"@en .
+
+<http://viaf.org/viaf/30405426> a schema:Person ;
+    schema:name "Belton, Neil"@en .
+
+<http://viaf.org/viaf/32215143> a schema:Person ;
+    schema:name "O'Faoláin, Nuala"@en .
+
+<http://viaf.org/viaf/34553683> a schema:Person ;
+    schema:name "O'Donoghue, Bernard"@en .
+
+<http://viaf.org/viaf/38545317> a schema:Person ;
+    schema:name "Hammond, David"@en .
+
+<http://viaf.org/viaf/39398205> a schema:Person ;
+    schema:name "Longley, Michael"@en .
+
+<http://viaf.org/viaf/49280158> a schema:Person ;
+    schema:name "Ormsby, Frank"@en .
+
+<http://viaf.org/viaf/5082602> a schema:Person ;
+    schema:name "Brandes, Rand"@en .
+
+<http://viaf.org/viaf/64048541> a schema:Person ;
+    schema:name "Muldoon, Paul"@en .
+
+<http://viaf.org/viaf/64128892> a schema:Person ;
+    schema:name "Johnston, Dillon"@en .
+
+<http://viaf.org/viaf/68554626> a schema:Person ;
+    schema:name "Tansey, Seamus"@en .
+
+<http://viaf.org/viaf/79088985> a schema:Person ;
+    schema:name "Gallagher, Tess"@en .
+
+<http://viaf.org/viaf/85453832> a schema:Person ;
+    schema:name "Groarke, Vona"@en .
+
+<http://viaf.org/viaf/93167797> a schema:Person ;
+    schema:name "Meehan, Paula"@en .
+
+<http://viaf.org/viaf/94779115> a schema:Person ;
+    schema:name "Ní Dhomhnaill, Nuala"@en .
+
+<http://viaf.org/viaf/98548196> a schema:Person ;
+    schema:name "Montague, John"@en .
+

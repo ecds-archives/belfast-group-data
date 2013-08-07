@@ -1,0 +1,97 @@
+@prefix bg: <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/e3379b05f4d5d5b65dfd0d057570b6a3> a bg:GroupSheet ;
+    dc:title ( "                     Emily Dickinson                 " "The Osprey" "In Memoriam" "Christopher at Birth" "Gathering Mushrooms" "Persephone" "Dr. Johnson on the Hebrides" "Remembrance Day" "Man Friday" ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17m3s> ;
+    schema:name "POEMS BY MICHAEL LONGLEY" .
+
+<http://pid.emory.edu/ark:/25593/17m3s#longley1_10125> a schema:CreativeWork ;
+    schema:mentions <http://sws.geonames.org/4929022/>,
+        <http://viaf.org/viaf/31995584> ;
+    schema:name """
+                            EMILY DICKINSON
+                        """ .
+
+<http://pid.emory.edu/ark:/25593/17m3s#longley1_10129> a schema:CreativeWork ;
+    schema:name "THE OSPREY" .
+
+<http://pid.emory.edu/ark:/25593/17m3s#longley1_10133> a schema:CreativeWork ;
+    schema:mentions <http://sws.geonames.org/2802361/>,
+        <http://sws.geonames.org/3017382/>,
+        <http://viaf.org/viaf/141903176> ;
+    schema:name "IN MEMORIAM" .
+
+<http://pid.emory.edu/ark:/25593/17m3s#longley1_10137> a schema:CreativeWork ;
+    schema:name "CHRISTOPHER AT BIRTH" .
+
+<http://pid.emory.edu/ark:/25593/17m3s#longley1_10141> a schema:CreativeWork ;
+    schema:name "GATHERING MUSHROOMS" .
+
+<http://pid.emory.edu/ark:/25593/17m3s#longley1_10145> a schema:CreativeWork ;
+    schema:name "PERSEPHONE" .
+
+<http://pid.emory.edu/ark:/25593/17m3s#longley1_10149> a schema:CreativeWork ;
+    schema:mentions <http://sws.geonames.org/2643743/>,
+        <http://sws.geonames.org/2647204/> ;
+    schema:name """DR. JOHNSON ON THE HEBRIDES
+                        """ .
+
+<http://pid.emory.edu/ark:/25593/17m3s#longley1_10153> a schema:CreativeWork ;
+    schema:name "REMEMBRANCE DAY" .
+
+<http://pid.emory.edu/ark:/25593/17m3s#longley1_10157> a schema:CreativeWork ;
+    schema:name "MAN FRIDAY" .
+
+<http://sws.geonames.org/2643743/> a schema:Place ;
+    schema:name "London" .
+
+<http://sws.geonames.org/2647204/> a schema:Place ;
+    schema:name "Hebridean" .
+
+<http://sws.geonames.org/2802361/> a schema:Place ;
+    schema:name "Belgium" .
+
+<http://sws.geonames.org/3017382/> a schema:Place ;
+    schema:name "France" .
+
+<http://sws.geonames.org/4929022/> a schema:Place ;
+    schema:name "Amherst Massachusetts" .
+
+<http://viaf.org/viaf/141903176> a schema:Organization ;
+    schema:name "London Scottish" .
+
+<http://viaf.org/viaf/31995584> a schema:Person ;
+    schema:name "Emily Dickinson" .
+

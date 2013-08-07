@@ -1,0 +1,140 @@
+@prefix arch: <http://purl.org/archival/vocab/arch#> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix e: <urn:isbn:1-931666-22-9> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://testfindingaids.library.emory.edu/documents/carson746/series5/> a schema:WebPage ;
+    dc:hasPart <http://testfindingaids.library.emory.edu/documents/carson746/index1/> ;
+    schema:about <http://viaf.org/viaf/123393054> ;
+    schema:dateModified "2013-07-15"@en ;
+    schema:mentions <http://belfastgroup.library.emory.edu/groupsheets/md5/66d1e3ee911642a0d8f6aa9244ac7cca>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/70d5d1966fa57c3c613bf55396f292d3>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/753edb521b177c3061791d205ac3af28>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/9c5c40b1452b36de00dfec724fe16082>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/c49f0facd344aa619eca695e98628eaf>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/ed50af8083dbf4d9861035e73388acac> ;
+    schema:name "Ciaran Carson papers, circa 1970-2010; Series 5: Belfast Group worksheets, [1971-1972]"@en .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/66d1e3ee911642a0d8f6aa9244ac7cca> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/85621766> ;
+    dc:title ( "Letter from Alaska"@en "Aranmore Island"@en "The Island Revisited"@en "Wheel"@en "Post Mortem on a Mass Grave"@en "The Clockwork Pigeon"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/1bc0v> ;
+    schema:author <http://viaf.org/viaf/85621766> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/70d5d1966fa57c3c613bf55396f292d3> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:date "1972-02-14"@en ;
+    dc:title "The Deep End"@en ;
+    schema:mentions <http://viaf.org/viaf/95151565> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/753edb521b177c3061791d205ac3af28> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/39398205> ;
+    dc:date "1972-01-31"@en ;
+    dc:title ( "Altera Cithera"@en "Three Posthumous Pieces"@en "The Island"@en "Casualty"@en "Badger"@en "Hedgehog"@en "Kingfisher"@en "Robin"@en "The Adulterer"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17m0c> ;
+    schema:author <http://viaf.org/viaf/39398205> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/9c5c40b1452b36de00dfec724fe16082> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator _:f4511544336b16 ;
+    dc:date "1971-11-22"@en ;
+    dc:title ( "Moth"@en "Worm"@en "The Planter Speaks"@en "Old Man"@en "To Those Involved in Rigid Disciplines"@en "Rat Song"@en "The Fool's Soliloquy"@en "Poem as Mammoth"@en ) ;
+    schema:author _:f4511544336b16 .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/c49f0facd344aa619eca695e98628eaf> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/109557338> ;
+    dc:date "1971-11-08"@en ;
+    dc:title ( "Servant Boy"@en "The Last Mummer"@en "Gifts of Rain"@en "The Tollund Man"@en "Westering"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17kwv> ;
+    schema:author <http://viaf.org/viaf/109557338> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/ed50af8083dbf4d9861035e73388acac> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/64048541> ;
+    dc:date "1971-11-25"@en ;
+    dc:title ( "Blowing Eggs"@en "The Radio Horse"@en "The Field Hospital"@en "On a Dog of Unlike Eyes"@en "The Lost Tribe"@en "The Upriver Incident"@en "Party Piece"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17m9m> ;
+    schema:author <http://viaf.org/viaf/64048541> .
+
+<http://viaf.org/viaf/110228045> a schema:Person ;
+    schema:name "Mahon"@en .
+
+<http://viaf.org/viaf/7497547> a schema:Person ;
+    schema:name "Stewart Parker"@en .
+
+<http://viaf.org/viaf/91907300> a schema:Person ;
+    schema:name "Philip Hobsbaum"@en .
+
+<http://viaf.org/viaf/92591927> a schema:Person ;
+    schema:name "James Simmons"@en .
+
+<http://viaf.org/viaf/95151565> a schema:Person ;
+    schema:name "MacLaverty, Bernard"@en .
+
+<http://viaf.org/viaf/85621766> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "Carson, Ciaran"@en .
+
+<http://viaf.org/viaf/109557338> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "Heaney, Seamus"@en,
+        "Seamus Heaney"@en .
+
+<http://viaf.org/viaf/39398205> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "Longley"@en,
+        "Longley, Michael"@en .
+
+<http://viaf.org/viaf/64048541> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "Muldoon, Paul"@en,
+        "Paul Muldoon"@en .
+
+<http://viaf.org/viaf/123393054> a schema:Organization ;
+    schema:mentions <http://viaf.org/viaf/109557338>,
+        <http://viaf.org/viaf/110228045>,
+        <http://viaf.org/viaf/39398205>,
+        <http://viaf.org/viaf/64048541>,
+        <http://viaf.org/viaf/7497547>,
+        <http://viaf.org/viaf/91907300>,
+        <http://viaf.org/viaf/92591927> .
+
+_:f4511544336b16 a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "McMahon, Trevor"@en .
+

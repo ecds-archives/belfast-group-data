@@ -1,0 +1,212 @@
+@prefix arch: <http://purl.org/archival/vocab/arch#> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dbp: <http://dbpedia.org/ontology/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xlink: <http://www.w3.org/1999/xlink> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix xsi: <http://www.w3.org/2001/XMLSchema-instance> .
+
+<http://pid.emory.edu/ark:/25593/8zf2t> a dcmitype:Text,
+        schema:WebPage ;
+    dc:hasPart <http://testfindingaids.library.emory.edu/documents/heaney653/series1/>,
+        <http://testfindingaids.library.emory.edu/documents/heaney653/series2/>,
+        <http://testfindingaids.library.emory.edu/documents/heaney653/series3/>,
+        <http://testfindingaids.library.emory.edu/documents/heaney653/series4/>,
+        <http://testfindingaids.library.emory.edu/documents/heaney653/series5/> ;
+    schema:about [ a arch:Collection,
+                dcmitype:Collection,
+                schema:CreativeWork ;
+            dc:hasPart <http://testfindingaids.library.emory.edu/documents/heaney653/series1/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney653/series2/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney653/series3/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney653/series4/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney653/series5/> ;
+            schema:about <http://sws.geonames.org/2963597/>,
+                <http://viaf.org/viaf/108497368>,
+                <http://viaf.org/viaf/12366017>,
+                <http://viaf.org/viaf/35723133>,
+                <http://viaf.org/viaf/94933541> ;
+            schema:creator <http://viaf.org/viaf/109557338> ;
+            schema:description """Collection of materials relating to Irish poet Seamus Heaney
+		  including correspondence, writings by Heaney, printed materials, and
+		  photographs.
+            """@en ;
+            schema:jobTitle "Poet."@en ;
+            schema:keywords "Barker, Sebastian."@en,
+                "English poetry--Irish authors--20th century."@en,
+                "Ireland."@en,
+                "Irish literature--20th century."@en,
+                "Kavanagh, P. J. (Patrick Joseph), 1931-"@en,
+                "Manuscripts."@en,
+                "McLaverty, Michael."@en,
+                "Poet."@en,
+                "Poets, Irish--20th century."@en,
+                "Video recordings."@en,
+                "Wordsworth, William, 1770-1850."@en ;
+            schema:mentions <http://dbpedia.org/resource/Emory_University>,
+                <http://viaf.org/viaf/108232871>,
+                <http://viaf.org/viaf/12366017>,
+                <http://viaf.org/viaf/35723133>,
+                <http://viaf.org/viaf/66495112>,
+                <http://viaf.org/viaf/92914532>,
+                <http://viaf.org/viaf/94933541> ;
+            schema:name """ Seamus Heaney collection,
+		  1972-2005
+            
+             """@en ],
+        "http://viaf.org/viaf/109557338"@en ;
+    schema:author "Manuscript, Archives, and Rare Book     Library, Emory University"@en ;
+    schema:dateCreated "2005-05-05"@en ;
+    schema:dateModified "2013-07-15"@en ;
+    schema:datePublished "2005-05-05"@en ;
+    schema:name "Seamus Heaney collection, 1972-1997"@en ;
+    schema:publisher [ a schema:Organization ;
+            schema:name "Emory University"@en ] ;
+    schema:url "http://pid.emory.edu/ark:/25593/8zf2t"@en ;
+    = <http://testfindingaids.library.emory.edu/documents/heaney653/> .
+
+<http://dbpedia.org/resource/County_Londonderry> a schema:Place ;
+    schema:name "County Derry"@en .
+
+<http://dbpedia.org/resource/County_Wicklow> a schema:Place ;
+    schema:name "County Wicklow"@en .
+
+<http://dbpedia.org/resource/Harvard_University> a schema:Organization ;
+    schema:name "Harvard"@en .
+
+<http://dbpedia.org/resource/Sandymount> a schema:Place ;
+    schema:name "Sandymount"@en .
+
+<http://sws.geonames.org/2641364/> a schema:Place ;
+    schema:name "Northern Ireland"@en .
+
+<http://sws.geonames.org/2655984/> a schema:Place ;
+    schema:name "Belfast"@en .
+
+<http://sws.geonames.org/2963597/> a schema:Place ;
+    schema:name "Ireland."@en .
+
+<http://sws.geonames.org/2964574/> a schema:Place ;
+    schema:name "Dublin"@en .
+
+<http://sws.geonames.org/3292681/> a schema:Place ;
+    schema:name "Glanmore"@en .
+
+<http://sws.geonames.org/6252001/> a schema:Place ;
+    schema:name """United
+          States"""@en .
+
+<http://sws.geonames.org/6269131/> a schema:Place ;
+    schema:name "England"@en .
+
+<http://viaf.org/viaf/108232871> a schema:Person ;
+    schema:name """Ted
+        Hughes"""@en .
+
+<http://viaf.org/viaf/108497368> a schema:Person ;
+    schema:name """Kavanagh, P.
+          J. (Patrick Joseph), 1931-"""@en .
+
+<http://viaf.org/viaf/109557338> a schema:Person ;
+    dbp:birthPlace <http://dbpedia.org/resource/County_Londonderry>,
+        <http://sws.geonames.org/2655984/> ;
+    schema:birthDate "1939-04-13"@en ;
+    schema:colleague <http://viaf.org/viaf/76315726> ;
+    schema:description """
+      
+        Seamus Heaney was born on April 13, 1939, the eldest of nine children, to Margaret and Patrick Heaney, at the family farm, Mossbawn, northwest of Belfast in County Derry. He attended the local school at Anahorish until 1957 when he enrolled at Queens College, Belfast, where he studied English. After graduation he taught English at St. Joseph's College in Belfast.
+      
+        While at St. Joseph's he began to write, publishing work in university magazines under the pseudonym Incertus. During that time, he joined a poetry workshop organized by Philip Hobsbaum. In 1965, in connection with the Belfast Festival, he published Eleven Poems, and in August of that year he married Marie Devlin. The following year he became a lecturer in modern English literature at Queens College; his first son, Michael, was born; and Faber and Faber published Death of a Naturalist. This collection earned him the Eric Gregory Award, the Cholmondeley Award, the Somerset Maugham Award, and the Geoffrey Faber Memorial Prize. Marie and Seamus Heaney's second son, Christopher, was born in 1968.
+      
+        Door Into the Dark, published in 1969, was a Poetry Book Society Choice for the year. In 1970-1971, Heaney was guest lecturer at the University of California, Berkeley. He returned to Northern Ireland in 1971, and in 1972 he resigned his lectureship at Queens College, moved his family to Glanmore, in County Wicklow, and published Wintering Out. In 1973 his daughter Catherine Ann was born. During this year he also received the Denis Devlin Award and the Writer in Residence Award from the American Irish Foundation. In 1975 North was published, winning the E.M. Forster Award and the Duff Cooper Memorial Prize. During these years at Glanmore, Heaney also gave many readings in the United States and England and edited two poetry anthologies.
+      
+        In 1975 Heaney began teaching at Carysfort College in Dublin, and in 1976 he and his family moved to Sandymount in the city. In 1979 Heaney published Field Work and in 1980 Selected Poems and Preoccupations. In 1981 he gave up his position at Carysfort to become visiting professor at Harvard. In 1982 he won the Bennett Award and Queens University awarded him an honorary Doctor of Letters. He co-founded Field Day company with the playwright Brian Friel and others in 1983. Station Island, his first collection in five years, was published in 1984. During that year he was elected Boylston Professor of Rhetoric and Oratory at Harvard. That same year his mother died.
+      
+        In 1988 Seamus Heaney visited Emory University where he inaugurated the Richard Ellmann Lectures in Modern Literature. These lectures were collected and published as The Place of Writing in 1989. In 1991 Heaney published a new collection Seeing Things, followed by the Redress of Poetry in 1995. In the fall of that year, Heaney was awarded the Nobel Prize in Literature.
+      
+    """@en ;
+    schema:founder <http://viaf.org/viaf/157168776> ;
+    schema:homeLocation <http://dbpedia.org/resource/County_Wicklow>,
+        <http://dbpedia.org/resource/Sandymount>,
+        <http://sws.geonames.org/2641364/>,
+        <http://sws.geonames.org/3292681/> ;
+    schema:jobTitle "Poet"@en ;
+    schema:knows <http://viaf.org/viaf/91907300> ;
+    schema:name "Heaney, Seamus, 1939-"@en ;
+    schema:spouse <http://viaf.org/viaf/39260346> ;
+    schema:workLocation <http://dbpedia.org/resource/Emory_University>,
+        <http://dbpedia.org/resource/Harvard_University>,
+        <http://sws.geonames.org/2964574/>,
+        <http://sws.geonames.org/6252001/>,
+        <http://sws.geonames.org/6269131/> .
+
+<http://viaf.org/viaf/157168776> a schema:Organization ;
+    schema:name "Field Day company"@en .
+
+<http://viaf.org/viaf/39260346> a schema:Person ;
+    schema:name "Marie Devlin"@en .
+
+<http://viaf.org/viaf/66495112> a schema:Person ;
+    schema:name "Patrick Kavanagh"@en .
+
+<http://viaf.org/viaf/76315726> a schema:Person ;
+    schema:name "Brian Friel"@en .
+
+<http://viaf.org/viaf/91907300> a schema:Person ;
+    schema:name "Philip Hobsbaum"@en .
+
+<http://viaf.org/viaf/92914532> a schema:Person ;
+    schema:name """J. Howard
+          Woolmer"""@en .
+
+<http://dbpedia.org/resource/Emory_University> a schema:Organization ;
+    schema:name """Emory
+		University"""@en,
+        "Emory University"@en .
+
+<http://viaf.org/viaf/12366017> a schema:Person ;
+    schema:name """McLaverty,
+          Michael."""@en,
+        "Michael McLaverty"@en .
+
+<http://viaf.org/viaf/35723133> a schema:Person ;
+    schema:name "Wordsworth"@en,
+        """Wordsworth,
+          William, 1770-1850."""@en .
+
+<http://viaf.org/viaf/94933541> a schema:Person ;
+    schema:name """Barker,
+          Sebastian."""@en,
+        "Sebastian Barker"@en .
+

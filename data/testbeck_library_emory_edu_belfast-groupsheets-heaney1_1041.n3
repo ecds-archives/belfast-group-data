@@ -1,0 +1,95 @@
+@prefix bg: <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/b89be2707f0d3c36d8a2ae1fed4b200f> a bg:GroupSheet ;
+    dc:title ( "Boy Driving His Father to Confession" "To a Wine Jar" "On Hogarth's Engraving \"Pit Ticket for the Royal Sport\"" "Synge on the Aran" "Blackberry-Picking" "Saint Francis and the Birds" "At a Potato Digging" ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17kjg> ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name "POEMS BY SEAMUS HEANEY" .
+
+<http://pid.emory.edu/ark:/25593/17kjg#heaney1_1015> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:mentions <http://dbpedia.org/resource/Cato_the_Elder>,
+        <http://dbpedia.org/resource/Marcus_Manlius>,
+        <http://dbpedia.org/resource/Marcus_Valerius_Messalla_Corvinus>,
+        <http://viaf.org/viaf/100227522> ;
+    schema:name "TO A WINE JAR" .
+
+<http://pid.emory.edu/ark:/25593/17kjg#heaney1_1020> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name "ON HOGARTH'S ENGRAVING \"PIT TICKET FOR THE ROYAL SPORT\"." .
+
+<http://pid.emory.edu/ark:/25593/17kjg#heaney1_1025> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name """
+                            SYNGE ON THE ARAN
+                        """ .
+
+<http://pid.emory.edu/ark:/25593/17kjg#heaney1_1030> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name "BLACKBERRY-PICKING" .
+
+<http://pid.emory.edu/ark:/25593/17kjg#heaney1_1035> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:mentions <http://viaf.org/viaf/87832561> ;
+    schema:name """
+                            SAINT FRANCIS AND THE BIRDS""" .
+
+<http://pid.emory.edu/ark:/25593/17kjg#heaney1_1040> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name "AT A POTATO DIGGING" .
+
+<http://pid.emory.edu/ark:/25593/17kjg#heaney1_109> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name "BOY DRIVING HIS FATHER TO CONFESSION" .
+
+<http://dbpedia.org/resource/Cato_the_Elder> a schema:Person ;
+    schema:name "Old Cato" .
+
+<http://dbpedia.org/resource/Marcus_Manlius> a schema:Person ;
+    schema:name "Manlius" .
+
+<http://dbpedia.org/resource/Marcus_Valerius_Messalla_Corvinus> a schema:Person ;
+    schema:name "Corvinus" .
+
+<http://viaf.org/viaf/100227522> a schema:Person ;
+    schema:name "Horace" .
+
+<http://viaf.org/viaf/87832561> a schema:Person ;
+    schema:name "Francis" .
+
+<http://viaf.org/viaf/109557338> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "Seamus Heaney" .
+

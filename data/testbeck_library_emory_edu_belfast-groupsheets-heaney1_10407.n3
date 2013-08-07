@@ -1,0 +1,96 @@
+@prefix bg: <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/c5e42dc1bbfc6286fd303c0ef8af4cb4> a bg:GroupSheet ;
+    dc:title ( "Icon" "Limbo" "Wedding Day" "The Last Mummer" "High Street, Belfast, 1786" "Tweed" "Dawn" "Bye-Child" ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17ktk> ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name "POEMS BY SEAMUS HEANEY" .
+
+<http://pid.emory.edu/ark:/25593/17ktk#heaney1_10371> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:mentions <http://dbpedia.org/resource/Saint_Patrick> ;
+    schema:name "ICON" .
+
+<http://pid.emory.edu/ark:/25593/17ktk#heaney1_10376> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:mentions <http://sws.geonames.org/2966406/> ;
+    schema:name "LIMBO" .
+
+<http://pid.emory.edu/ark:/25593/17ktk#heaney1_10381> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name "WEDDING DAY" .
+
+<http://pid.emory.edu/ark:/25593/17ktk#heaney1_10386> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name "THE LAST MUMMER" .
+
+<http://pid.emory.edu/ark:/25593/17ktk#heaney1_10391> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name "HIGH STREET, BELFAST, 1786" .
+
+<http://pid.emory.edu/ark:/25593/17ktk#heaney1_10396> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:mentions <http://sws.geonames.org/2750405/>,
+        <http://sws.geonames.org/2800931/> ;
+    schema:name "TWEED" .
+
+<http://pid.emory.edu/ark:/25593/17ktk#heaney1_10401> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:mentions <http://sws.geonames.org/3170336/> ;
+    schema:name "DAWN" .
+
+<http://pid.emory.edu/ark:/25593/17ktk#heaney1_10406> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name "BYE-CHILD" .
+
+<http://dbpedia.org/resource/Saint_Patrick> a schema:Person ;
+    schema:name "Patrick" .
+
+<http://sws.geonames.org/2750405/> a schema:Place ;
+    schema:name "Netherlands" .
+
+<http://sws.geonames.org/2800931/> a schema:Place ;
+    schema:name "Bruges" .
+
+<http://sws.geonames.org/2966406/> a schema:Place ;
+    schema:name "Ballyshannon" .
+
+<http://sws.geonames.org/3170336/> a schema:Place ;
+    schema:name "Pompei" .
+
+<http://viaf.org/viaf/109557338> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "Seamus Heaney" .
+

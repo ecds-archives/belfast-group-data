@@ -1,0 +1,317 @@
+@prefix arch: <http://purl.org/archival/vocab/arch#> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dbp: <http://dbpedia.org/ontology/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xlink: <http://www.w3.org/1999/xlink> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix xsi: <http://www.w3.org/2001/XMLSchema-instance> .
+
+<http://pid.emory.edu/ark:/25593/8zf3z> a dcmitype:Text,
+        schema:WebPage ;
+    dc:hasPart <http://testfindingaids.library.emory.edu/documents/heaney960/series1/>,
+        <http://testfindingaids.library.emory.edu/documents/heaney960/series2/>,
+        <http://testfindingaids.library.emory.edu/documents/heaney960/series3/>,
+        <http://testfindingaids.library.emory.edu/documents/heaney960/series4/>,
+        <http://testfindingaids.library.emory.edu/documents/heaney960/series5/>,
+        <http://testfindingaids.library.emory.edu/documents/heaney960/series6/>,
+        <http://testfindingaids.library.emory.edu/documents/heaney960/series7/>,
+        <http://testfindingaids.library.emory.edu/documents/heaney960/series8/> ;
+    schema:about [ a arch:Collection,
+                dcmitype:Collection,
+                schema:CreativeWork ;
+            dc:hasPart <http://testfindingaids.library.emory.edu/documents/heaney960/series1/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series1/subseries1.1/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series1/subseries1.2/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series1/subseries1.3/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series1/subseries1.4/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series2/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series2/subseries2.1/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series2/subseries2.2/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series3/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series3/subseries3.1/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series3/subseries3.2/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series3/subseries3.3/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series3/subseries3.4/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series4/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series5/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series6/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series7/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series8/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series8/subseries8.1/>,
+                <http://testfindingaids.library.emory.edu/documents/heaney960/series8/subseries8.2/> ;
+            schema:about <http://viaf.org/viaf/107572951>,
+                <http://viaf.org/viaf/108232871>,
+                <http://viaf.org/viaf/108344790>,
+                <http://viaf.org/viaf/111397155>,
+                <http://viaf.org/viaf/120096893>,
+                <http://viaf.org/viaf/24613408>,
+                <http://viaf.org/viaf/2601174>,
+                <http://viaf.org/viaf/31993687>,
+                <http://viaf.org/viaf/39398205>,
+                <http://viaf.org/viaf/46805211>,
+                <http://viaf.org/viaf/64048541>,
+                <http://viaf.org/viaf/76315726>,
+                <http://viaf.org/viaf/76363549> ;
+            schema:creator <http://viaf.org/viaf/109557338> ;
+            schema:description """Personal papers of Irish poet Seamus Heaney consisting mostly of correspondence, as
+        well as some literary manuscripts, printed material, subject files, photographs,
+        audio-visual material, and personal papers from 1951-2004.
+            """@en ;
+            schema:jobTitle "Poet."@en ;
+            schema:keywords "Banville, John"@en,
+                "Brodsky, Joseph, 1940-"@en,
+                "Dawe, Gerald, 1952-"@en,
+                "Deane, Seamus, 1940-"@en,
+                "Dunn, Douglas."@en,
+                "English poetry--Irish authors."@en,
+                "Fallon, Peter, 1951-"@en,
+                "Friel, Brian."@en,
+                "Hecht, Anthony, 1923-"@en,
+                "Hughes, Ted, 1930-1998."@en,
+                "Longley, Michael, 1939-"@en,
+                "Manuscripts."@en,
+                "McGuckian, Medbh, 1950-"@en,
+                "Muldoon, Paul."@en,
+                "Photographs."@en,
+                "Poems."@en,
+                "Poet."@en,
+                "Poets, Irish."@en,
+                "Simmons, James, 1933-"@en,
+                "Sound recordings."@en,
+                "Video recordings."@en ;
+            schema:mentions <http://viaf.org/viaf/107572951>,
+                <http://viaf.org/viaf/108232871>,
+                <http://viaf.org/viaf/108291746>,
+                <http://viaf.org/viaf/108344790>,
+                <http://viaf.org/viaf/120096893>,
+                <http://viaf.org/viaf/24613408>,
+                <http://viaf.org/viaf/31993687>,
+                <http://viaf.org/viaf/39398205>,
+                <http://viaf.org/viaf/64048541>,
+                <http://viaf.org/viaf/76315726>,
+                <http://viaf.org/viaf/76363549>,
+                <http://viaf.org/viaf/92591927> ;
+            schema:name """ Seamus Heaney papers, 1951-2004
+            
+             """@en ;
+            schema:relatedLink <http://pid.emory.edu/ark:/25593/8z3n4>,
+                <http://pid.emory.edu/ark:/25593/8z8zw>,
+                <http://pid.emory.edu/ark:/25593/8zf2t>,
+                <http://pid.emory.edu/ark:/25593/8zgd9>,
+                <http://pid.emory.edu/ark:/25593/8zkmf>,
+                <http://pid.emory.edu/ark:/25593/8zm5r>,
+                <http://pid.emory.edu/ark:/25593/8zn19>,
+                <http://pid.emory.edu/ark:/25593/8zp63>,
+                <http://pid.emory.edu/ark:/25593/8zqq8>,
+                <http://pid.emory.edu/ark:/25593/8zrf8>,
+                <http://pid.emory.edu/ark:/25593/8zvnd>,
+                <http://pid.emory.edu/ark:/25593/8zw5k>,
+                <http://pid.emory.edu/ark:/25593/bn402> ],
+        "http://viaf.org/viaf/109557338"@en ;
+    schema:author "None"@en ;
+    schema:dateCreated ""@en ;
+    schema:dateModified "2013-08-07"@en ;
+    schema:datePublished "2005-08-24"@en ;
+    schema:name "Seamus Heaney papers, 1951-2004"@en ;
+    schema:publisher [ a schema:Organization ;
+            schema:name "Emory University"@en ] ;
+    schema:url "http://pid.emory.edu/ark:/25593/8zf3z"@en ;
+    = <http://testfindingaids.library.emory.edu/documents/heaney960/> .
+
+<http://dbpedia.org/resource/Belfast_Festival_at_Queen's> a schema:Organization ;
+    schema:name "Belfast Festival"@en .
+
+<http://dbpedia.org/resource/Carysfort_College> a schema:Organization ;
+    schema:name "Carysfort College"@en .
+
+<http://dbpedia.org/resource/Emory_University> a schema:Organization ;
+    schema:name "Emory University"@en .
+
+<http://dbpedia.org/resource/Harvard_University> a schema:Organization ;
+    schema:name "Harvard."@en .
+
+<http://dbpedia.org/resource/Queen%27s_University_Belfast> a schema:Organization ;
+    schema:name "Queens College, Belfast"@en .
+
+<http://dbpedia.org/resource/Sandymount> a schema:Place ;
+    schema:name "Sandymount"@en .
+
+<http://dbpedia.org/resource/University_of_California_Berkeley> a schema:Organization ;
+    schema:name "University of California, Berkeley"@en .
+
+<http://sws.geonames.org/2641364/> a schema:Place ;
+    schema:name """Northern
+          Ireland"""@en .
+
+<http://sws.geonames.org/2643735/> a schema:Place ;
+    schema:name "County Derry"@en .
+
+<http://sws.geonames.org/2655984/> a schema:Place ;
+    schema:name "Belfast"@en .
+
+<http://sws.geonames.org/2964574/> a schema:Place ;
+    schema:name "Dublin"@en .
+
+<http://sws.geonames.org/3292681/> a schema:Place ;
+    schema:name "Glanmore"@en .
+
+<http://sws.geonames.org/6252001/> a schema:Place ;
+    schema:name "United States"@en .
+
+<http://sws.geonames.org/6269131/> a schema:Place ;
+    schema:name "England"@en .
+
+<http://viaf.org/viaf/108291746> a schema:Person ;
+    schema:name "Donald Davie"@en .
+
+<http://viaf.org/viaf/109557338> a schema:Person ;
+    dbp:birthPlace <http://sws.geonames.org/2643735/>,
+        <http://sws.geonames.org/2655984/> ;
+    schema:affiliation <http://dbpedia.org/resource/Belfast_Festival_at_Queen's>,
+        <http://dbpedia.org/resource/University_of_California_Berkeley>,
+        <http://viaf.org/viaf/166810937> ;
+    schema:alumniOf <http://dbpedia.org/resource/Queen%27s_University_Belfast> ;
+    schema:birthDate "1939-04-13"@en ;
+    schema:colleague <http://viaf.org/viaf/76315726> ;
+    schema:description """
+      
+        Seamus Heaney was born on April 13, 1939, to Margaret and Patrick Heaney. The eldest of nine children, he was born at the family farm, Mossbawn, northwest of Belfast in County Derry. He attended the local school at Anahorish until 1957 when he enrolled at Queens College, Belfast, where he studied English. After graduation he taught English at St. Joseph's College in Belfast.
+      
+        While at St. Joseph's he began to write, publishing work in university magazines under the pseudonym Incertus. During that time, he joined a poetry workshop organized by Philip Hobsbaum. In 1965, in connection with the Belfast Festival, he published Eleven Poems, and in August of that year he married Marie Devlin. The following year he became a lecturer in modern English literature at Queens College; his first son, Michael, was born; and Faber and Faber published Death of a Naturalist. This collection earned him the Eric Gregory Award, the Cholmondeley Award, the Somerset Maugham Award, and the Geoffrey Faber Memorial Prize. Marie and Seamus Heaney's second son, Christopher, was born in 1968.
+      
+        Door Into the Dark, published in 1969, was a Poetry Book Society Choice for the year. In 1970-1971, Heaney was guest lecturer at the University of California, Berkeley. He returned to Northern Ireland in 1971, and in 1972 he resigned his lectureship at Queens College, moved his family to Glanmore, in County Wicklow, and published Wintering Out. In 1973 his daughter Catherine Ann was born. During this year he also received the Denis Devlin Award and the Writer in Residence Award from the American Irish Foundation. In 1975 North was published, winning the E.M. Forster Award and the Duff Cooper Memorial Prize. During these years at Glanmore, Heaney also gave many readings in the United States and England and edited two poetry anthologies.
+      
+        In 1975 Heaney began teaching at Carysfort Collegein Dublin, and in 1976 he and his family moved to Sandymount in the city. In 1979 Heaney published Field Work and in 1980 Selected Poems and Preoccupations. In 1981 he gave up his position at Carysfort to become visiting professor at Harvard. In 1982 he won the Bennett Award and Queens University awarded him an honorary Doctor of Letters. He co-founded Field Day Company with the playwright Brian Friel and others in 1983. Station Island, his first collection in five years, was published in 1984. During that year he was elected Boylston Professor of Rhetoric and Oratory at Harvard. That same year his mother died.
+      
+        In 1988 Seamus Heaney visited Emory University where he inaugurated the Richard Ellmann Lectures in Modern Literature. These lectures were collected and published as The Place of Writing in 1989. In 1991 Heaney published a new collection Seeing Things, followed by the Redress of Poetry in 1995. In the fall of that year, Heaney was awarded the Nobel Prize in Literature.
+      
+        In recent years Heaney has been recipient of numerous awards and prizes. His translation of Beowulf (1999) won the Whitbread Award for best book of the year, and his Finders Keepers (2002) won the Truman Capote Award for Literary Criticism. He also has been awarded a number of honorary degrees; he is a member of Aosdana, the Irish Academy of Artist and Writers, and is a Foreign Member of the American Academy of Arts and Letters. In addition, he has been made a Comandeur de L’Ordre des Arts et Lettres by the French Ministry of Culture.
+      
+    """@en ;
+    schema:founderOf [ a schema:Organization ;
+            schema:name "Field Day Company"@en ] ;
+    schema:homeLocation [ a schema:Place ;
+            schema:name "County Wicklow"@en ],
+        <http://dbpedia.org/resource/Sandymount>,
+        <http://sws.geonames.org/2641364/>,
+        <http://sws.geonames.org/3292681/> ;
+    schema:jobTitle "Poet"@en ;
+    schema:knows <http://viaf.org/viaf/91907300> ;
+    schema:memberOf <http://viaf.org/viaf/136293942>,
+        <http://viaf.org/viaf/158560852> ;
+    schema:mentions <http://dbpedia.org/resource/Emory_University>,
+        <http://viaf.org/viaf/191373100> ;
+    schema:name """Heaney, Seamus,
+          1939-"""@en ;
+    schema:spouse <http://viaf.org/viaf/39260346> ;
+    schema:workLocation <http://sws.geonames.org/2964574/>,
+        <http://sws.geonames.org/6252001/>,
+        <http://sws.geonames.org/6269131/> ;
+    schema:worksFor <http://dbpedia.org/resource/Carysfort_College>,
+        <http://dbpedia.org/resource/Harvard_University> .
+
+<http://viaf.org/viaf/111397155> a schema:Person ;
+    schema:name "Dawe, Gerald, 1952-"@en .
+
+<http://viaf.org/viaf/136293942> a schema:Organization ;
+    schema:name "Aosdana"@en .
+
+<http://viaf.org/viaf/158560852> a schema:Organization ;
+    schema:name """American Academy of Arts
+          and Letters"""@en .
+
+<http://viaf.org/viaf/166810937> a schema:Organization ;
+    schema:name "Faber and Faber"@en .
+
+<http://viaf.org/viaf/191373100> a schema:Person ;
+    schema:name """Patrick
+          Heaney"""@en .
+
+<http://viaf.org/viaf/2601174> a schema:Person ;
+    schema:name "Simmons, James, 1933-"@en .
+
+<http://viaf.org/viaf/39260346> a schema:Person ;
+    schema:name "Marie Devlin"@en .
+
+<http://viaf.org/viaf/46805211> a schema:Person ;
+    schema:name "Banville, John"@en .
+
+<http://viaf.org/viaf/91907300> a schema:Person ;
+    schema:name "Philip Hobsbaum"@en .
+
+<http://viaf.org/viaf/92591927> a schema:Person ;
+    schema:name "James Simmons"@en .
+
+<http://viaf.org/viaf/107572951> a schema:Person ;
+    schema:name "Douglas Dunn"@en,
+        "Dunn, Douglas."@en .
+
+<http://viaf.org/viaf/108232871> a schema:Person ;
+    schema:name "Hughes, Ted, 1930-1998."@en,
+        "Ted Hughes"@en .
+
+<http://viaf.org/viaf/108344790> a schema:Person ;
+    schema:name "Deane, Seamus, 1940-"@en,
+        "Seamus Deane"@en .
+
+<http://viaf.org/viaf/120096893> a schema:Person ;
+    schema:name "McGuckian, Medbh, 1950-"@en,
+        "Medbh McGuckian"@en .
+
+<http://viaf.org/viaf/24613408> a schema:Person ;
+    schema:name "Fallon, Peter, 1951-"@en,
+        "Peter Fallon"@en .
+
+<http://viaf.org/viaf/31993687> a schema:Person ;
+    schema:name "Brodsky, Joseph, 1940-"@en,
+        "Joseph Brodsky"@en .
+
+<http://viaf.org/viaf/39398205> a schema:Person ;
+    schema:name "Longley, Michael, 1939-"@en,
+        "Michael Longley"@en .
+
+<http://viaf.org/viaf/64048541> a schema:Person ;
+    schema:name "Muldoon, Paul."@en,
+        "Paul Muldoon"@en .
+
+<http://viaf.org/viaf/76363549> a schema:Person ;
+    schema:name "Anthony Hecht"@en,
+        "Hecht, Anthony, 1923-"@en .
+
+<http://viaf.org/viaf/76315726> a schema:Person ;
+    schema:name """Brian
+          Friel"""@en,
+        "Brian Friel"@en,
+        "Friel, Brian."@en .
+

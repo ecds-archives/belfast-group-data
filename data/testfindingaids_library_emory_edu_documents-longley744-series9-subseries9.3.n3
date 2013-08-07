@@ -1,0 +1,200 @@
+@prefix arch: <http://purl.org/archival/vocab/arch#> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix e: <urn:isbn:1-931666-22-9> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://testfindingaids.library.emory.edu/documents/longley744/series9/subseries9.3/> a schema:WebPage ;
+    dc:hasPart <http://testfindingaids.library.emory.edu/documents/longley744/index1/> ;
+    schema:dateModified "2013-08-07"@en ;
+    schema:name "Michael Longley papers, 1960-2000; Subseries 9.3: Correspondence, 1969-1991"@en .
+
+<http://viaf.org/viaf/39398205> a schema:Person ;
+    arch:correspondedWith _:N4d3b235a5a89468c84e8544f4ab363fe,
+        <http://dbpedia.org/resource/Arts_Council_of_Great_Britain>,
+        <http://dbpedia.org/resource/Arts_Council_of_Ireland>,
+        <http://dbpedia.org/resource/Association_of_Little_Presses>,
+        <http://dbpedia.org/resource/Bloodaxe_Books>,
+        <http://dbpedia.org/resource/British_Council>,
+        <http://dbpedia.org/resource/Cabin_Hill>,
+        <http://dbpedia.org/resource/Chatto_%26_Windus>,
+        <http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)>,
+        <http://dbpedia.org/resource/Faber_and_Faber>,
+        <http://dbpedia.org/resource/Fortnight_Magazine>,
+        <http://dbpedia.org/resource/Institute_of_Contemporary_Arts>,
+        <http://dbpedia.org/resource/Lyric_Theatre_(Belfast)>,
+        <http://dbpedia.org/resource/Northern_Ireland_Tourist_Board>,
+        <http://dbpedia.org/resource/O%27Brien_Press>,
+        <http://dbpedia.org/resource/Poetry_Ireland_Review>,
+        <http://dbpedia.org/resource/Poetry_Society>,
+        <http://dbpedia.org/resource/Public_Record_Office_of_Northern_Ireland>,
+        <http://dbpedia.org/resource/Queen%27s_University_of_Belfast>,
+        <http://dbpedia.org/resource/Royal_Court_Theatre>,
+        <http://dbpedia.org/resource/Scottish_Arts_Council>,
+        <http://dbpedia.org/resource/St._Patrick%27s_Grammar_School,_Armagh>,
+        <http://dbpedia.org/resource/The_Lilliput_Press>,
+        <http://dbpedia.org/resource/Ulster_Polytechnic>,
+        <http://dbpedia.org/resource/University_College_Dublin>,
+        <http://dbpedia.org/resource/University_of_Keele>,
+        <http://dbpedia.org/resource/Welsh_Arts_Council>,
+        <http://dbpedia.org/resource/Š>,
+        <http://viaf.org/viaf/125997026>,
+        <http://viaf.org/viaf/130247428>,
+        <http://viaf.org/viaf/138529390> ;
+    schema:knows _:N4d3b235a5a89468c84e8544f4ab363fe,
+        <http://dbpedia.org/resource/Arts_Council_of_Great_Britain>,
+        <http://dbpedia.org/resource/Arts_Council_of_Ireland>,
+        <http://dbpedia.org/resource/Association_of_Little_Presses>,
+        <http://dbpedia.org/resource/Bloodaxe_Books>,
+        <http://dbpedia.org/resource/British_Council>,
+        <http://dbpedia.org/resource/Cabin_Hill>,
+        <http://dbpedia.org/resource/Chatto_%26_Windus>,
+        <http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)>,
+        <http://dbpedia.org/resource/Faber_and_Faber>,
+        <http://dbpedia.org/resource/Fortnight_Magazine>,
+        <http://dbpedia.org/resource/Institute_of_Contemporary_Arts>,
+        <http://dbpedia.org/resource/Lyric_Theatre_(Belfast)>,
+        <http://dbpedia.org/resource/Northern_Ireland_Tourist_Board>,
+        <http://dbpedia.org/resource/O%27Brien_Press>,
+        <http://dbpedia.org/resource/Poetry_Ireland_Review>,
+        <http://dbpedia.org/resource/Poetry_Society>,
+        <http://dbpedia.org/resource/Public_Record_Office_of_Northern_Ireland>,
+        <http://dbpedia.org/resource/Queen%27s_University_of_Belfast>,
+        <http://dbpedia.org/resource/Royal_Court_Theatre>,
+        <http://dbpedia.org/resource/Scottish_Arts_Council>,
+        <http://dbpedia.org/resource/St._Patrick%27s_Grammar_School,_Armagh>,
+        <http://dbpedia.org/resource/The_Lilliput_Press>,
+        <http://dbpedia.org/resource/Ulster_Polytechnic>,
+        <http://dbpedia.org/resource/University_College_Dublin>,
+        <http://dbpedia.org/resource/University_of_Keele>,
+        <http://dbpedia.org/resource/Welsh_Arts_Council>,
+        <http://dbpedia.org/resource/Š>,
+        <http://viaf.org/viaf/125997026>,
+        <http://viaf.org/viaf/130247428>,
+        <http://viaf.org/viaf/138529390> .
+
+<http://dbpedia.org/resource/Arts_Council_of_Great_Britain> a schema:Organization ;
+    schema:name "Arts Council of Great Britain"@en .
+
+<http://dbpedia.org/resource/Arts_Council_of_Ireland> a schema:Organization ;
+    schema:name "The Arts Council"@en .
+
+<http://dbpedia.org/resource/Association_of_Little_Presses> a schema:Organization ;
+    schema:name "Association of Little Presses"@en .
+
+<http://dbpedia.org/resource/Bloodaxe_Books> a schema:Organization ;
+    schema:name "Bloodaxe Books"@en .
+
+<http://dbpedia.org/resource/British_Council> a schema:Organization ;
+    schema:name "The British Council"@en .
+
+<http://dbpedia.org/resource/Cabin_Hill> a schema:Organization ;
+    schema:name "Cabin Hill School"@en .
+
+<http://dbpedia.org/resource/Chatto_%26_Windus> a schema:Organization ;
+    schema:name "Chatto & Windus Ltd."@en .
+
+<http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)> a schema:Organization ;
+    schema:name "Department of Foreign Affairs"@en .
+
+<http://dbpedia.org/resource/Faber_and_Faber> a schema:Organization ;
+    schema:name "Faber & Faber Ltd."@en .
+
+<http://dbpedia.org/resource/Fortnight_Magazine> a schema:Organization ;
+    schema:name "Fortnight"@en .
+
+<http://dbpedia.org/resource/Institute_of_Contemporary_Arts> a schema:Organization ;
+    schema:name "Institute of Contemporary Arts"@en .
+
+<http://dbpedia.org/resource/Lyric_Theatre_(Belfast)> a schema:Organization ;
+    schema:name "Lyric Players Theatre"@en .
+
+<http://dbpedia.org/resource/Northern_Ireland_Tourist_Board> a schema:Organization ;
+    schema:name "Northern Ireland Tourist Board"@en .
+
+<http://dbpedia.org/resource/O%27Brien_Press> a schema:Organization ;
+    schema:name "The O'Brien Press"@en .
+
+<http://dbpedia.org/resource/Poetry_Ireland_Review> a schema:Organization ;
+    schema:name "Poetry Ireland"@en .
+
+<http://dbpedia.org/resource/Poetry_Society> a schema:Organization ;
+    schema:name "The Poetry Society"@en .
+
+<http://dbpedia.org/resource/Public_Record_Office_of_Northern_Ireland> a schema:Organization ;
+    schema:name """Public Record Office of Northern
+                                Ireland"""@en .
+
+<http://dbpedia.org/resource/Queen%27s_University_of_Belfast> a schema:Organization ;
+    schema:name "Queen's University of Belfast"@en .
+
+<http://dbpedia.org/resource/Royal_Court_Theatre> a schema:Organization ;
+    schema:name "Royal Court Theatre"@en .
+
+<http://dbpedia.org/resource/Scottish_Arts_Council> a schema:Organization ;
+    schema:name "The Scottish Arts Council"@en .
+
+<http://dbpedia.org/resource/St._Patrick%27s_Grammar_School,_Armagh> a schema:Organization ;
+    schema:name "Saint Patrick's Grammar School"@en .
+
+<http://dbpedia.org/resource/The_Lilliput_Press> a schema:Organization ;
+    schema:name "The Lilliput Press Ltd."@en .
+
+<http://dbpedia.org/resource/Ulster_Polytechnic> a schema:Organization ;
+    schema:name "Ulster Polytechnic"@en .
+
+<http://dbpedia.org/resource/University_College_Dublin> a schema:Organization ;
+    schema:name "University College"@en .
+
+<http://dbpedia.org/resource/University_of_Keele> a schema:Organization ;
+    schema:name "University of Keele"@en .
+
+<http://dbpedia.org/resource/Welsh_Arts_Council> a schema:Organization ;
+    schema:name "Welsh Arts Council"@en .
+
+<http://dbpedia.org/resource/Š> a schema:Organization ;
+    schema:name "The Honest Ulsterman"@en .
+
+<http://viaf.org/viaf/125997026> a schema:Organization ;
+    schema:name "Charabanc Theatre Company"@en .
+
+<http://viaf.org/viaf/130247428> a schema:Organization ;
+    schema:name "Blackstaff Press"@en .
+
+<http://viaf.org/viaf/138529390> a schema:Organization ;
+    schema:name "Appletree Press"@en .
+
+_:N4d3b235a5a89468c84e8544f4ab363fe a schema:Organization ;
+    schema:name "Workers Educational Association"@en .
+

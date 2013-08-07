@@ -1,0 +1,110 @@
+@prefix bg: <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/41ec662cf6cd6fde871fd2acd65cdeb8> a bg:GroupSheet ;
+    dc:title ( "Drinker's Blues" "                     Fahan Strand" "Old Lady's Song" "Ramble Away" "The Young Airforce Men" "The Ulster Soldier Boy" ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17md1> ;
+    schema:author <http://viaf.org/viaf/92591927> ;
+    schema:name """POEMS BY JAMES SIMMONS
+        """ .
+
+<http://pid.emory.edu/ark:/25593/17md1#simmons1_1014> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/92591927> ;
+    schema:mentions <http://sws.geonames.org/2961301/>,
+        <http://sws.geonames.org/2963597/>,
+        <http://sws.geonames.org/2964376/>,
+        <http://sws.geonames.org/2965905/>,
+        <http://sws.geonames.org/2966001/> ;
+    schema:name """
+                            FAHAN STRAND""" .
+
+<http://pid.emory.edu/ark:/25593/17md1#simmons1_1019> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/92591927> ;
+    schema:name "OLD LADY'S SONG" .
+
+<http://pid.emory.edu/ark:/25593/17md1#simmons1_1024> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/92591927> ;
+    schema:mentions <http://www.geonames.org/2964574/dublin.html> ;
+    schema:name "RAMBLE AWAY" .
+
+<http://pid.emory.edu/ark:/25593/17md1#simmons1_1029> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/92591927> ;
+    schema:mentions <http://sws.geonames.org/2651048/>,
+        <http://viaf.org/viaf/94507588> ;
+    schema:name "THE YOUNG AIRFORCE MEN" .
+
+<http://pid.emory.edu/ark:/25593/17md1#simmons1_1034> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/92591927> ;
+    schema:mentions <http://sws.geonames.org/2921044/>,
+        <http://sws.geonames.org/6269131/> ;
+    schema:name "THE ULSTER SOLDIER BOY" .
+
+<http://pid.emory.edu/ark:/25593/17md1#simmons1_109> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/92591927> ;
+    schema:name "DRINKER'S BLUES" .
+
+<http://sws.geonames.org/2651048/> a schema:Place ;
+    schema:name "Dover" .
+
+<http://sws.geonames.org/2921044/> a schema:Place ;
+    schema:name "Germany" .
+
+<http://sws.geonames.org/2961301/> a schema:Place ;
+    schema:name "Lough Swilly " .
+
+<http://sws.geonames.org/2963597/> a schema:Place ;
+    schema:name "Free State" .
+
+<http://sws.geonames.org/2964376/> a schema:Place ;
+    schema:name "Fahan" .
+
+<http://sws.geonames.org/2965905/> a schema:Place ;
+    schema:name "Burnfoot" .
+
+<http://sws.geonames.org/2966001/> a schema:Place ;
+    schema:name "Bridge End" .
+
+<http://sws.geonames.org/6269131/> a schema:Place ;
+    schema:name "England" .
+
+<http://viaf.org/viaf/94507588> a schema:Person ;
+    schema:name "Churchill" .
+
+<http://www.geonames.org/2964574/dublin.html> a schema:Place ;
+    schema:name "Bachelor's Walk" .
+
+<http://viaf.org/viaf/92591927> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "James Simmons" .
+

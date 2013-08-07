@@ -1,0 +1,125 @@
+@prefix arch: <http://purl.org/archival/vocab/arch#> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dbp: <http://dbpedia.org/ontology/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xlink: <http://www.w3.org/1999/xlink> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix xsi: <http://www.w3.org/2001/XMLSchema-instance> .
+
+<http://pid.emory.edu/ark:/25593/8zfm1> a dcmitype:Text,
+        schema:WebPage ;
+    schema:about [ a arch:Collection,
+                dcmitype:Collection,
+                schema:CreativeWork ;
+            schema:creator <http://viaf.org/viaf/91907300> ;
+            schema:description """Papers relating to Philip Hobsbaum, English poet, critic, and
+        teacher, including correspondence, typescripts, and proof sheets.
+            """@en ;
+            schema:jobTitle "Poet."@en ;
+            schema:keywords "English poetry--20th century."@en,
+                "Poet."@en,
+                "Poetry."@en,
+                "Poets, English--20th century."@en ;
+            schema:mentions [ a bibo:Manuscript ;
+                    schema:mentions <http://viaf.org/viaf/31061217> ] ;
+            schema:name """ Philip Hobsbaum collection,
+        1962-1971
+            
+             """@en ],
+        "http://viaf.org/viaf/91907300"@en ;
+    schema:author "Manuscript, Archives, and Rare Book           Library, Emory University"@en ;
+    schema:dateCreated "2005-11-29"@en ;
+    schema:dateModified "2013-07-15"@en ;
+    schema:datePublished "2005-11-29"@en ;
+    schema:name "Philip Hobsbaum collection, 1962-1971"@en ;
+    schema:publisher [ a schema:Organization ;
+            schema:name "Emory University"@en ] ;
+    schema:url "http://pid.emory.edu/ark:/25593/8zfm1"@en ;
+    = <http://testfindingaids.library.emory.edu/documents/hobsbaum1013/> .
+
+<http://dbpedia.org/resource/Downing_College,_Cambridge> a schema:Organization ;
+    schema:name "Downing College"@en .
+
+<http://dbpedia.org/resource/Queen%27s_University_Belfast> a schema:Organization ;
+    schema:name "Queens University"@en .
+
+<http://dbpedia.org/resource/University_of_Glasgow> a schema:Organization ;
+    schema:name "University of Glasgow"@en .
+
+<http://dbpedia.org/resource/University_of_Sheffield> a schema:Organization ;
+    schema:name "Sheffield University"@en .
+
+<http://sws.geonames.org/2641364/> a schema:Place ;
+    schema:name "North Ireland"@en .
+
+<http://sws.geonames.org/2643741/> a schema:Place ;
+    schema:name "London"@en .
+
+<http://sws.geonames.org/2653941/> a schema:Place ;
+    schema:name "Cambridge"@en .
+
+<http://sws.geonames.org/2655984/> a schema:Place ;
+    schema:name "Belfast"@en .
+
+<http://viaf.org/viaf/108224907> a schema:Person ;
+    schema:name "F.R. Leavis"@en .
+
+<http://viaf.org/viaf/31061217> a schema:Person ;
+    schema:name "David W. Lindsay"@en .
+
+<http://viaf.org/viaf/34474006> a schema:Person ;
+    schema:name "William Empson"@en .
+
+<http://viaf.org/viaf/91907300> a schema:Person ;
+    dbp:birthPlace <http://sws.geonames.org/2643741/> ;
+    schema:alumniOf <http://dbpedia.org/resource/Downing_College,_Cambridge>,
+        <http://sws.geonames.org/2653941/> ;
+    schema:birthDate "1932-06-29"@en ;
+    schema:colleague <http://viaf.org/viaf/108224907>,
+        <http://viaf.org/viaf/34474006> ;
+    schema:description """
+      
+        Philip Hobsbaum, poet, critic, and teacher, was born in London June 29, 1932. He attended Downing College at Cambridge, studying with F.R. Leavis. Around 1955 he began a series of writing workshops, later known as "The Group," that met in Cambridge, London, Belfast, and Glasgow. In 1959 Hobsbaum began work on a graduate degree at Sheffield University under the direction of William Empson. From 1962 to 1966 he taught at Queens University in Belfast, resigning due to the rising violence in North Ireland and the breakup of his marriage to Hannah Kelly.
+      
+        Hobsbaum spent the remainder of his teaching career at the University of Glasgow. From 1966 to 1985 he was a lecturer and reader before being promoted to Professor of English Literature in 1985. He married his second wife Rosemary Philips in 1976. In addition to his teaching and writing duties, Hobsbaum began the masters program in creative writing at the University of Glasgow. He retired from teaching in 1997. He has four published collections of poetry: The Place's Fault (1964), In Retreat (1966), Coming Out Fighting (1969), and Women and Animals (1972). Hobsbaum has also published two works of literary criticism.
+      
+    """@en ;
+    schema:homeLocation <http://sws.geonames.org/2641364/> ;
+    schema:jobTitle "Poet"@en ;
+    schema:name "Hobsbaum, Philip."@en ;
+    schema:workLocation <http://sws.geonames.org/2655984/> ;
+    schema:worksFor <http://dbpedia.org/resource/Queen%27s_University_Belfast>,
+        <http://dbpedia.org/resource/University_of_Glasgow>,
+        <http://dbpedia.org/resource/University_of_Sheffield> .
+

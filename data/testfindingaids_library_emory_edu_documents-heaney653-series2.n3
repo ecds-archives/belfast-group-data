@@ -1,0 +1,86 @@
+@prefix arch: <http://purl.org/archival/vocab/arch#> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix e: <urn:isbn:1-931666-22-9> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://testfindingaids.library.emory.edu/documents/heaney653/series2/> a schema:WebPage ;
+    schema:dateModified "2013-07-15"@en ;
+    schema:mentions [ a bibo:Manuscript ;
+            dc:title "The Cure at Troy"@en ;
+            schema:mentions <http://dbpedia.org/resource/Abbey_Theatre> ],
+        [ a bibo:Manuscript ;
+            schema:mentions <http://dbpedia.org/resource/Waterfront_Hall>,
+                <http://viaf.org/viaf/14966454>,
+                <http://viaf.org/viaf/31795628> ],
+        [ a bibo:Manuscript ;
+            dc:title """The
+              Guardian"""@en ;
+            schema:mentions <http://viaf.org/viaf/108232871> ],
+        [ a bibo:Manuscript ;
+            dc:title "The Burial at Thebes"@en ;
+            schema:mentions <http://dbpedia.org/resource/Nottingham_Playhouse> ],
+        [ a bibo:Manuscript ;
+            dc:title "Sweeney's Flight"@en ;
+            schema:mentions <http://viaf.org/viaf/12392958> ],
+        [ a bibo:Manuscript ;
+            dc:title ( "Stations"@en "Station Island"@en ) ;
+            schema:mentions <http://sws.geonames.org/7521316/> ] ;
+    schema:name "Seamus Heaney collection, 1972-1997; Series 2: Printed material"@en .
+
+<http://dbpedia.org/resource/Abbey_Theatre> a schema:Place ;
+    schema:name "Abbey Theatre"@en .
+
+<http://dbpedia.org/resource/Nottingham_Playhouse> a schema:Place ;
+    schema:name "Nottingham Playhouse"@en .
+
+<http://dbpedia.org/resource/Waterfront_Hall> a schema:Place ;
+    schema:name "Belfast Waterfront Hall"@en .
+
+<http://sws.geonames.org/7521316/> a schema:Place ;
+    schema:name "Ulster"@en .
+
+<http://viaf.org/viaf/108232871> a schema:Person ;
+    schema:name "Hughes"@en .
+
+<http://viaf.org/viaf/12392958> a schema:Person ;
+    schema:name "Rachel Giese"@en .
+
+<http://viaf.org/viaf/14966454> a schema:Person ;
+    schema:name "Liam O'Flynn"@en .
+
+<http://viaf.org/viaf/31795628> a schema:Person ;
+    schema:name """John B.
+              Vallely"""@en .
+

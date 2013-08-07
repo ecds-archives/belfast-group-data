@@ -1,0 +1,322 @@
+@prefix arch: <http://purl.org/archival/vocab/arch#> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dbp: <http://dbpedia.org/ontology/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xlink: <http://www.w3.org/1999/xlink> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix xsi: <http://www.w3.org/2001/XMLSchema-instance> .
+
+<http://pid.emory.edu/ark:/25593/8zqq8> a dcmitype:Text,
+        schema:WebPage ;
+    dc:hasPart <http://testfindingaids.library.emory.edu/documents/ormsby805/series1/>,
+        <http://testfindingaids.library.emory.edu/documents/ormsby805/series2/>,
+        <http://testfindingaids.library.emory.edu/documents/ormsby805/series3/>,
+        <http://testfindingaids.library.emory.edu/documents/ormsby805/series4/>,
+        <http://testfindingaids.library.emory.edu/documents/ormsby805/series5/>,
+        <http://testfindingaids.library.emory.edu/documents/ormsby805/series6/>,
+        <http://testfindingaids.library.emory.edu/documents/ormsby805/series7/>,
+        <http://testfindingaids.library.emory.edu/documents/ormsby805/series8/> ;
+    schema:about [ a arch:Collection,
+                dcmitype:Collection,
+                schema:CreativeWork ;
+            arch:correspondedWith <http://viaf.org/viaf/108291535>,
+                <http://viaf.org/viaf/109557338>,
+                <http://viaf.org/viaf/109956735>,
+                <http://viaf.org/viaf/110228045>,
+                <http://viaf.org/viaf/120096893>,
+                <http://viaf.org/viaf/199252297>,
+                <http://viaf.org/viaf/24613408>,
+                <http://viaf.org/viaf/39398205>,
+                <http://viaf.org/viaf/64022963>,
+                <http://viaf.org/viaf/64048541>,
+                <http://viaf.org/viaf/85621766>,
+                <http://viaf.org/viaf/92591927>,
+                <http://viaf.org/viaf/94401473> ;
+            dc:hasPart <http://testfindingaids.library.emory.edu/documents/ormsby805/series1/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series1/subseries1.1/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series1/subseries1.2/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series2/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.1/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.2/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.3/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.4/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.5/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series3/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1a/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1b/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1c/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.2/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.3/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.4/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series4/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series5/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.1/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.2/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.3/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series6/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series7/>,
+                <http://testfindingaids.library.emory.edu/documents/ormsby805/series8/> ;
+            schema:about <http://viaf.org/viaf/108291535>,
+                <http://viaf.org/viaf/109557338>,
+                <http://viaf.org/viaf/109956735>,
+                <http://viaf.org/viaf/110228045>,
+                <http://viaf.org/viaf/120096893>,
+                <http://viaf.org/viaf/199252297>,
+                <http://viaf.org/viaf/24613408>,
+                <http://viaf.org/viaf/39398205>,
+                <http://viaf.org/viaf/64022963>,
+                <http://viaf.org/viaf/64048541>,
+                <http://viaf.org/viaf/85621766>,
+                <http://viaf.org/viaf/92591927>,
+                <http://viaf.org/viaf/94401473> ;
+            schema:creator <http://viaf.org/viaf/49280158> ;
+            schema:description """Personal and literary papers of Irish poet Frank
+                Ormsby.
+            """@en ;
+            schema:homeLocation <http://sws.geonames.org/2641364/>,
+                <http://sws.geonames.org/2963597/> ;
+            schema:jobTitle "Editor."@en,
+                "Poet."@en ;
+            schema:keywords "Carson, Ciaran, 1948-"@en,
+                "Editor."@en,
+                "English poetry--Irish authors--20th century."@en,
+                "Fallon, Peter, 1951-"@en,
+                "Heaney, Seamus, 1939-"@en,
+                "Hewitt, John Harold, 1907-"@en,
+                "Honest ulsterman."@en,
+                "Irish poetry--20th century."@en,
+                "Jamie, Kathleen, 1962-"@en,
+                "Longley, Edna."@en,
+                "Longley, Michael, 1939-"@en,
+                "Mahon, Derek, 1941-"@en,
+                "Manuscripts."@en,
+                "McGuckian, Medbh, 1950-"@en,
+                "Muldoon, Paul."@en,
+                "Paulin, Tom."@en,
+                "Photographs."@en,
+                "Poems."@en,
+                "Poet."@en,
+                "Poets, Irish--20th century."@en,
+                "Publishers and publishing--Ireland."@en,
+                "Rumens, Carol."@en,
+                "Simmons, James, 1933-"@en ;
+            schema:knows <http://viaf.org/viaf/108291535>,
+                <http://viaf.org/viaf/109557338>,
+                <http://viaf.org/viaf/109956735>,
+                <http://viaf.org/viaf/110228045>,
+                <http://viaf.org/viaf/120096893>,
+                <http://viaf.org/viaf/199252297>,
+                <http://viaf.org/viaf/24613408>,
+                <http://viaf.org/viaf/39398205>,
+                <http://viaf.org/viaf/64022963>,
+                <http://viaf.org/viaf/64048541>,
+                <http://viaf.org/viaf/85621766>,
+                <http://viaf.org/viaf/92591927>,
+                <http://viaf.org/viaf/94401473> ;
+            schema:mentions <http://viaf.org/viaf/123393054>,
+                <http://viaf.org/viaf/50609413>,
+                <http://viaf.org/viaf/92591927>,
+                <http://viaf.org/viaf/95151565> ;
+            schema:name """ Frank Ormsby papers, circa
+                    1967-2004
+            
+             """@en ;
+            schema:relatedLink <http://pid.emory.edu/ark:/25593/8z8zw>,
+                <http://pid.emory.edu/ark:/25593/8zf2t>,
+                <http://pid.emory.edu/ark:/25593/8zkmf>,
+                <http://pid.emory.edu/ark:/25593/8zm5r>,
+                <http://pid.emory.edu/ark:/25593/8zn19>,
+                <http://pid.emory.edu/ark:/25593/8zrf8> ],
+        "http://viaf.org/viaf/49280158"@en ;
+    schema:author "Manuscript, Archives, and Rare Book Library, Emory                     University"@en ;
+    schema:dateCreated "2003-08-15"@en ;
+    schema:dateModified "2013-08-07"@en ;
+    schema:datePublished "2003-08-15"@en ;
+    schema:name "Frank Ormsby papers, circa 1967-2004"@en ;
+    schema:publisher [ a schema:Organization ;
+            schema:name "Emory University"@en ] ;
+    schema:url "http://pid.emory.edu/ark:/25593/8zqq8"@en ;
+    = <http://testfindingaids.library.emory.edu/documents/ormsby805/> .
+
+<http://dbpedia.org/resource/Queen%27s_University_Belfast> a schema:Organization ;
+    schema:name "Queen's University Belfast"@en .
+
+<http://sws.geonames.org/2641364/> a schema:Place ;
+    schema:name "Northern Ireland"@en .
+
+<http://sws.geonames.org/2649984/> a schema:Place ;
+    schema:name """Enniskillen, County Fermanagh, Northern
+                    Ireland"""@en .
+
+<http://sws.geonames.org/2655984/> a schema:Place ;
+    schema:name "Belfast"@en .
+
+<http://sws.geonames.org/2963597/> a schema:Place ;
+    schema:name "Ireland"@en .
+
+<http://sws.geonames.org/7521316/> a schema:Place ;
+    schema:name "Ulster"@en .
+
+<http://viaf.org/viaf/126719206> a schema:Organization ;
+    schema:name """Royal
+                    Belfast Academical Institution"""@en .
+
+<http://viaf.org/viaf/131195240> a schema:Organization ;
+    schema:name """University of
+                    St Thomas at St Paul, Minnesota"""@en .
+
+<http://viaf.org/viaf/147893360> a schema:Organization ;
+    schema:name "Gallery Press"@en .
+
+<http://viaf.org/viaf/33362880> a schema:Person ;
+    schema:name """Robert
+                    Johnstone"""@en .
+
+<http://viaf.org/viaf/49280158> a schema:Person ;
+    dbp:birthPlace <http://sws.geonames.org/2649984/> ;
+    schema:alumniOf <http://dbpedia.org/resource/Queen%27s_University_Belfast> ;
+    schema:association <http://viaf.org/viaf/131195240>,
+        <http://viaf.org/viaf/147893360> ;
+    schema:birthDate "1947"@en ;
+    schema:colleague <http://viaf.org/viaf/33362880>,
+        <http://viaf.org/viaf/55394043> ;
+    schema:description """
+      
+        A central figure in Ulster's literary culture since the late 1960's, Frank Ormsby has led a lively and multifarious writing life as a poet, book and magazine editor, and teacher based in Belfast. Born in Enniskillen, County Fermanagh, Northern Ireland in 1947, Ormsby studied English at Queen's University Belfast, where he received an MA. In 1971, he began teaching at the Royal Belfast Academical Institution, and he has been Head of English there for many years.
+      
+        As a poet, Ormsby established himself in the early seventies with two chapbooks, Ripe for Company (1971) and Business as Usual (1973). During the 1971-1972 academic year, Ormsby also participated in the Belfast Group meetings organized by Seamus Heaney and Michael Allen. He won the Eric Gregory Award in 1974, and his 1977 volume of poems, A Store of Candles, was a Poetry Book Society Choice. Ormsby's other collections of poems, A Northern Spring (1986) and The Ghost Train (1995) have been published with the Gallery Press. In 1992, Ormsby won a Cultural Traditions Award given in memory of John Hewitt, and in 2002 he was honored with the Lawrence O'Shaughnessy Award for Poetry from the University of St Thomas at St Paul, Minnesota.
+      
+        Ormsby began his editorial career in 1969, when he and Michael Foley succeeded James Simmons as co-editors of The Honest Ulsterman. From 1972 to 1984, Ormsby was the sole editor of this small but important literary magazine that offered both younger and established Northern Irish writers invaluable access to a wider public. After editing The Honest Ulsterman with Robert Johnstone from 1984 until 1989, Ormsby left to dedicate himself both to his own poetry and various other editorial projects.
+      
+        Ormsby's other editorial projects including several very important anthologies produced since the late 1970's. Poets From Northern Ireland was first published in 1979 and then revised in 1990. Similarly, The Long Embrace: Twentieth Century Irish Love Poems was published in 1987 and also reprinted in 1990. In 1987, Ormsby produced Northern Windows: An Anthology of Ulster Autobiography. Another anthology of mostly prose, Thine in Storm and Calm: An Amanda McKittrick Ros Reader, was released in 1988. Published in 1991, The Collected Poems of John Hewitt is a definitive and extensively annotated collection of this major Belfast poet's work. Ormsby's A Rage for Order: Poetry of the Northern Ireland Troubles (1992) is a much heralded and widely used anthology of "Troubles poetry." His most recent anthology is The Hip Flask: Short Poems from Ireland (2001). In addition to these individual volumes, he edited the Poetry Ireland Review (Numbers 53-56).
+      
+    """@en ;
+    schema:homeLocation <http://sws.geonames.org/2655984/> ;
+    schema:jobTitle "Editor"@en,
+        "Poet"@en ;
+    schema:knows <http://viaf.org/viaf/109557338>,
+        <http://viaf.org/viaf/76349747> ;
+    schema:memberOf <http://viaf.org/viaf/123393054> ;
+    schema:mentions <http://sws.geonames.org/7521316/>,
+        <http://viaf.org/viaf/92591927>,
+        <http://viaf.org/viaf/94401473> ;
+    schema:name "Ormsby, Frank, 1947-"@en ;
+    schema:workLocation <http://viaf.org/viaf/126719206> .
+
+<http://viaf.org/viaf/50609413> a schema:Person ;
+    schema:name "Norman Dugdale"@en .
+
+<http://viaf.org/viaf/55394043> a schema:Person ;
+    schema:name """Michael
+                    Foley"""@en .
+
+<http://viaf.org/viaf/76349747> a schema:Person ;
+    schema:name "Michael Allen"@en .
+
+<http://viaf.org/viaf/95151565> a schema:Person ;
+    schema:name """Bernard
+                    MacLaverty"""@en .
+
+<http://viaf.org/viaf/123393054> a schema:Organization ;
+    schema:name "Belfast Group"@en .
+
+<http://viaf.org/viaf/108291535> a schema:Person ;
+    schema:name """Paulin,
+                    Tom."""@en,
+        "Tom Paulin"@en .
+
+<http://viaf.org/viaf/109956735> a schema:Person ;
+    schema:name "Edna"@en,
+        """Longley,
+                    Edna."""@en .
+
+<http://viaf.org/viaf/110228045> a schema:Person ;
+    schema:name "Derek Mahon"@en,
+        """Mahon,
+                    Derek, 1941-"""@en .
+
+<http://viaf.org/viaf/120096893> a schema:Person ;
+    schema:name """McGuckian,
+                    Medbh, 1950-"""@en,
+        "Medbh McGuckian"@en .
+
+<http://viaf.org/viaf/199252297> a schema:Person ;
+    schema:name """Jamie,
+                    Kathleen, 1962-"""@en,
+        "Kathleen Jamie"@en .
+
+<http://viaf.org/viaf/24613408> a schema:Person ;
+    schema:name """Fallon,
+                    Peter, 1951-"""@en,
+        "Peter Fallon"@en .
+
+<http://viaf.org/viaf/39398205> a schema:Person ;
+    schema:name """Longley,
+                    Michael, 1939-"""@en,
+        "Michael Longley"@en .
+
+<http://viaf.org/viaf/64022963> a schema:Person ;
+    schema:name "Carol Rumens"@en,
+        """Rumens,
+                    Carol."""@en .
+
+<http://viaf.org/viaf/64048541> a schema:Person ;
+    schema:name """Muldoon,
+                    Paul."""@en,
+        "Paul Muldoon"@en .
+
+<http://viaf.org/viaf/85621766> a schema:Person ;
+    schema:name """Carson,
+                    Ciaran, 1948-"""@en,
+        """Ciaran
+                Carson"""@en .
+
+<http://viaf.org/viaf/109557338> a schema:Person ;
+    schema:name """Heaney,
+                    Seamus, 1939-"""@en,
+        """Seamus
+                    Heaney"""@en,
+        "Seamus Heaney"@en .
+
+<http://viaf.org/viaf/94401473> a schema:Person ;
+    schema:name """Hewitt, John
+                    Harold, 1907-"""@en,
+        "John Hewitt"@en .
+
+<http://viaf.org/viaf/92591927> a schema:Person ;
+    schema:name "James Simmons"@en,
+        """Simmons,
+                    James, 1933-"""@en .
+

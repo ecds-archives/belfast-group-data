@@ -1,0 +1,185 @@
+@prefix arch: <http://purl.org/archival/vocab/arch#> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dbp: <http://dbpedia.org/ontology/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xlink: <http://www.w3.org/1999/xlink> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix xsi: <http://www.w3.org/2001/XMLSchema-instance> .
+
+<http://pid.emory.edu/ark:/25593/bn402> a dcmitype:Text,
+        schema:WebPage ;
+    dc:hasPart <http://testfindingaids.library.emory.edu/documents/muldoon784/series1/>,
+        <http://testfindingaids.library.emory.edu/documents/muldoon784/series2/>,
+        <http://testfindingaids.library.emory.edu/documents/muldoon784/series3/>,
+        <http://testfindingaids.library.emory.edu/documents/muldoon784/series4/>,
+        <http://testfindingaids.library.emory.edu/documents/muldoon784/series5/>,
+        <http://testfindingaids.library.emory.edu/documents/muldoon784/series6/>,
+        <http://testfindingaids.library.emory.edu/documents/muldoon784/series7/>,
+        <http://testfindingaids.library.emory.edu/documents/muldoon784/series8/> ;
+    schema:about [ a arch:Collection,
+                dcmitype:Collection,
+                schema:CreativeWork ;
+            dc:hasPart <http://testfindingaids.library.emory.edu/documents/muldoon784/series1/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series1/subseries1.1/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series1/subseries1.2/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series2/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series2/subseries2.1/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series2/subseries2.2/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series2/subseries2.3/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series2/subseries2.4/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series2/subseries2.5/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series2/subseries2.6/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series2/subseries2.7/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series3/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series3/subseries3.1/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series3/subseries3.2/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series4/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series4/subseries4.1/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series4/subseries4.2/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series4/subseries4.3/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series4/subseries4.4/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series5/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series5/subseries5.1/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series5/subseries5.2/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series5/subseries5.3/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series6/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series6/subseries6.1/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series6/subseries6.2/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series7/>,
+                <http://testfindingaids.library.emory.edu/documents/muldoon784/series8/> ;
+            schema:about <http://viaf.org/viaf/109557338>,
+                <http://viaf.org/viaf/110228045>,
+                <http://viaf.org/viaf/120096893>,
+                <http://viaf.org/viaf/24613408>,
+                <http://viaf.org/viaf/39398205>,
+                <http://viaf.org/viaf/85621766> ;
+            schema:creator <http://viaf.org/viaf/64048541> ;
+            schema:description """Papers of Irish poet Paul Muldoon, including correspondence, writings by Muldoon and others, printed material, business and personal papers, photographs and audiovisual material.
+            """@en ;
+            schema:keywords "Belfast Group."@en,
+                "Carson, Ciaran, 1948-"@en,
+                "English literature--Irish authors--20th century."@en,
+                "English poetry--Irish authors."@en,
+                "Fallon, Peter, 1951-"@en,
+                "Heaney, Seamus."@en,
+                "Irish poetry--20th century."@en,
+                "Longley, Michael, 1939-"@en,
+                "Mahon, Derek, 1941-"@en,
+                "Manuscripts."@en,
+                "McGuckian, Medbh, 1950-"@en,
+                "Photographs."@en,
+                "Poems."@en,
+                "Poets, Irish--20th century."@en,
+                "Scripts."@en,
+                "Sound recordings."@en,
+                "Translations."@en,
+                "Video recordings."@en ;
+            schema:mentions <http://viaf.org/viaf/109557338>,
+                <http://viaf.org/viaf/110228045>,
+                <http://viaf.org/viaf/39398205>,
+                <http://viaf.org/viaf/85621766> ;
+            schema:name """ Paul Muldoon papers, 1939-2010
+            
+             """@en ],
+        "http://viaf.org/viaf/64048541"@en ;
+    schema:author "Manuscript, Archives, and Rare Book           Library, Emory University"@en ;
+    schema:dateCreated "2012-02-01"@en ;
+    schema:dateModified "2013-07-15"@en ;
+    schema:datePublished "2012-02-01"@en ;
+    schema:name "Paul Muldoon papers, 1939-2010"@en ;
+    schema:publisher [ a schema:Organization ;
+            schema:name "Emory University"@en ] ;
+    schema:url "http://pid.emory.edu/ark:/25593/bn402"@en ;
+    = <http://testfindingaids.library.emory.edu/documents/muldoon784/> .
+
+<http://dbpedia.org/resource/Princeton_University> a schema:Organization ;
+    schema:name "Princeton University"@en .
+
+<http://dbpedia.org/resource/Queen%27s_University_Belfast> a schema:Organization ;
+    schema:name "Queen's University in Belfast"@en .
+
+<http://sws.geonames.org/2657059/> a schema:Place ;
+    schema:name "County Armagh"@en .
+
+<http://sws.geonames.org/5101760/> a schema:Place ;
+    schema:name "New Jersey"@en .
+
+<http://sws.geonames.org/6252001/> a schema:Place ;
+    schema:name "United States"@en .
+
+<http://viaf.org/viaf/120096893> a schema:Person ;
+    schema:name "McGuckian, Medbh, 1950-"@en .
+
+<http://viaf.org/viaf/147030387> a schema:Organization ;
+    schema:name "BBC Northern Ireland"@en .
+
+<http://viaf.org/viaf/24613408> a schema:Person ;
+    schema:name "Fallon, Peter, 1951-"@en .
+
+<http://viaf.org/viaf/3189068> a schema:Person ;
+    schema:name "Jean Hanff Korelitz"@en .
+
+<http://viaf.org/viaf/64048541> a schema:Person ;
+    dbp:birthPlace <http://sws.geonames.org/2657059/> ;
+    schema:alumniOf <http://dbpedia.org/resource/Queen%27s_University_Belfast> ;
+    schema:birthDate "1951"@en ;
+    schema:colleague <http://viaf.org/viaf/109557338> ;
+    schema:description """
+      
+        Paul Muldoon was born in County Armagh in 1951. He attended Queen's University in Belfast where he studied English literature under Seamus Heaney. In 1973, the year he graduated from Queen's, Faber and Faber published his first collection of poems. From 1973 to 1986 he worked as a radio and television producer for BBC Northern Ireland. He moved to the United States in 1987 and has held various university teaching posts. He currently lives in New Jersey and is the Howard G. B. Clark '21 Professor at Princeton University and Chair of the Peter B. Lewis Center for the Arts. Muldoon is married to novelist Jean Hanff Korelitz, with whom he has two children.
+      
+    """@en ;
+    schema:homeLocation <http://sws.geonames.org/5101760/>,
+        <http://sws.geonames.org/6252001/> ;
+    schema:name "Muldoon, Paul"@en ;
+    schema:spouse <http://viaf.org/viaf/3189068> ;
+    schema:worksFor <http://dbpedia.org/resource/Princeton_University>,
+        <http://viaf.org/viaf/147030387> .
+
+<http://viaf.org/viaf/110228045> a schema:Person ;
+    schema:name "Derek Mahon"@en,
+        "Mahon, Derek, 1941-"@en .
+
+<http://viaf.org/viaf/39398205> a schema:Person ;
+    schema:name "Longley, Michael, 1939-"@en,
+        "Michael Longley"@en .
+
+<http://viaf.org/viaf/85621766> a schema:Person ;
+    schema:name "Carson, Ciaran, 1948-"@en,
+        "Ciaran Carson"@en .
+
+<http://viaf.org/viaf/109557338> a schema:Person ;
+    schema:name "Heaney, Seamus."@en,
+        "Seamus Heaney"@en .
+

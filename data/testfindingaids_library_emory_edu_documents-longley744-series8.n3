@@ -1,0 +1,362 @@
+@prefix arch: <http://purl.org/archival/vocab/arch#> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix e: <urn:isbn:1-931666-22-9> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://testfindingaids.library.emory.edu/documents/longley744/series8/> a schema:WebPage ;
+    dc:hasPart <http://testfindingaids.library.emory.edu/documents/longley744/index1/> ;
+    schema:about <http://viaf.org/viaf/123393054> ;
+    schema:dateModified "2013-08-07"@en ;
+    schema:mentions <http://belfastgroup.library.emory.edu/groupsheets/md5/00f102fed585f6ae1f0ec7cc3f621864>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/01b3f4f19f7c89298cce6ba5f94cff78>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/068134326c1749c8e5d990d300059de4>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/0bd2eb766b19ed1fbdc706217e305902>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/2013a1ce8e42f843308b5e77e0cc73aa>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/227ae0aec82ab0f65cfbac61f4f2e5cb>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/3243df5e5f44e71493447c3db0cd2f9f>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/43e46ff1e4c9c37334734cf523e9d364>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/4954a352842eb91f230267c1caeadff3>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/5afb1fe293e38f8f806c0c8d3aa463d4>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/5eca4dd972ebc0893c53b1d997635850>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/6402a6ce1b71527f68a57a2fec39dd6a>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/6a737caa21790f6b0ab9daae73bf09c2>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/753edb521b177c3061791d205ac3af28>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/79045d2e1976a47d3bbc111d561e684c>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/7d7f17f6db91b6149f65b8cb315c9129>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/84c9b5a34d0d21a4ef796f6468ccc297>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/a3a4bf4f9543decc9be1771722fc66a0>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/a42cf86927c310a5724552ad499d8707>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/b2bea8b138ea1ae8cfcef2009ff37737>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/c5e42dc1bbfc6286fd303c0ef8af4cb4>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/d3444f88d6b5f24aaa5b96f7db0488f1>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/d4e213dc2a023235f7c2d694f47f23dd>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/eac1a0f7a6265915b167047f868027e7>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/eb0d9cbce682351da2cf1db7a5f3e888>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/f38defbd0d6fb4b87506429dd0e89709>,
+        <http://belfastgroup.library.emory.edu/groupsheets/md5/f7bc24c708f7ff3f691b763c3b95c39e> ;
+    schema:name "Michael Longley papers, 1960-2000; Series 8: Belfast Group sheets"@en ;
+    schema:relatedLink <http://pid.emory.edu/ark:/25593/8zgst> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/00f102fed585f6ae1f0ec7cc3f621864> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator _:f4511766416b1 ;
+    dc:date "1965-12-01"@en ;
+    dc:title ( "The Magi"@en "A.D. 1969"@en "A Tribute to Patrick Kavanagh"@en "Going Up"@en ) ;
+    schema:author _:f4511766416b1 .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/01b3f4f19f7c89298cce6ba5f94cff78> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/39398205> ;
+    dc:title ( "In Memoriam"@en "Christopher at Birth"@en "Freeze-Up"@en "Saint Francis to the Birds"@en "Elegy for Fats Waller"@en "Epitathalamion"@en """En
+                                Route"""@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17m66> ;
+    schema:author <http://viaf.org/viaf/39398205> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/068134326c1749c8e5d990d300059de4> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/109557338>,
+        <http://viaf.org/viaf/267971098>,
+        <http://viaf.org/viaf/39398205> ;
+    dc:title ( "Death of a Naturalist"@en "Lovers on Aran"@en "Follower"@en "Elegy for a Still-Born Child"@en "Personal Helicon"@en "Antaeus"@en """The
+                                After-Child"""@en """The Blind
+                                Man"""@en "Marlowe"@en "The Good"@en "Light Dying"@en """The
+                                Dummies"""@en "The Osprey"@en "The Hebrides"@en "Elegy for Fats Waller"@en "Dr Johnson Dying"@en "Gathering Mushrooms"@en "Persephone"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17ksf> ;
+    schema:author <http://viaf.org/viaf/109557338>,
+        <http://viaf.org/viaf/267971098>,
+        <http://viaf.org/viaf/39398205> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/0bd2eb766b19ed1fbdc706217e305902> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/2490119> ;
+    dc:title ( "A Small War"@en "The Appointment"@en "The Sisters"@en "Told After Breughel"@en "Caesar"@en ) ;
+    schema:author <http://viaf.org/viaf/2490119> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/2013a1ce8e42f843308b5e77e0cc73aa> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/109557338> ;
+    dc:title ( "Digging"@en """Death of a
+                                Naturalist"""@en """Storm on the
+                                Island"""@en """Soliloquy for an Old
+                                Resident"""@en """Writer and
+                                Teacher"""@en "Young Bachelor"@en "Scaffolding"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17kkm> ;
+    schema:author <http://viaf.org/viaf/109557338> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/227ae0aec82ab0f65cfbac61f4f2e5cb> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/110228045> ;
+    dc:title ( """Poem in
+                                Belfast"""@en """In Carrowdore
+                                Churchyard"""@en """My Wicked
+                                Uncle"""@en "Canadian Pacific"@en "Famous Last Words"@en "As God Is My Judge"@en "The Poets Lie Where They Fell"@en ) ;
+    schema:author <http://viaf.org/viaf/110228045> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/3243df5e5f44e71493447c3db0cd2f9f> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/39398205> ;
+    dc:title ( """Emily
+                                Dickinson"""@en "The Osprey"@en "In Memoriam"@en "Christopher at Birth"@en "Gathering Mushrooms"@en "Persephone"@en "Dr. Johnson on the Hebrides"@en "Remembrance Day"@en """Man
+                                Friday"""@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17m3s> ;
+    schema:author <http://viaf.org/viaf/39398205> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/43e46ff1e4c9c37334734cf523e9d364> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/39398205> ;
+    dc:title ( """Dr. Johnson on the
+                                Hebrides"""@en """Leaving
+                                Inishmore"""@en "Camouflage"@en "Persephone"@en "To Derek Mahon"@en "A Working Holiday"@en "Words for Jazz Perhaps"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17m2n> ;
+    schema:author <http://viaf.org/viaf/39398205> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/4954a352842eb91f230267c1caeadff3> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/50609413> ;
+    dc:title ( "Terminus"@en "A Question of Identity"@en "A Self-Portrait"@en "Salmon-Leap: Mayo"@en "On a Recent Happy Event"@en "Saturday"@en "N.W.S"@en "Autopsy on the Fifth Decade"@en ) ;
+    schema:author <http://viaf.org/viaf/50609413> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/5afb1fe293e38f8f806c0c8d3aa463d4> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator _:f4511766416b74 ;
+    dc:title ( "First-Born"@en "Kavanagh's Arrival"@en "Heartman - still beating strong!"@en "Big Ned"@en "A Parable of Stoney Ground"@en "Myxomatosis 1955"@en "The Empty Pages"@en "Henry IX"@en ) ;
+    schema:author _:f4511766416b74 .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/5eca4dd972ebc0893c53b1d997635850> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/64048541> ;
+    dc:title ( "Wind and Tree"@en "Hedges in Winter"@en "Cuckoo Corn"@en "Siesta"@en "Vampire"@en "Grass Widow"@en "The Indians on Alcatraz"@en "The Electric Orchard"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17mcw> ;
+    schema:author <http://viaf.org/viaf/64048541> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/6402a6ce1b71527f68a57a2fec39dd6a> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/109557338> ;
+    dc:title ( "At Ardboe Point"@en "Good-Night"@en """The Crowing
+                                Man"""@en "Shore Woman"@en "Yank"@en """A
+                                Winter's Tale"""@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17kr9> ;
+    schema:author <http://viaf.org/viaf/109557338> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/6a737caa21790f6b0ab9daae73bf09c2> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/39398205> ;
+    dc:title ( "Circe"@en """The
+                                Ornithological Section"""@en "Orpheus"@en """A Personal
+                                Statement"""@en "The Centaurs"@en "The Housewife's Testament"@en "Christopher at Birth"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17m1h> ;
+    schema:author <http://viaf.org/viaf/39398205> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/753edb521b177c3061791d205ac3af28> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/39398205> ;
+    dc:title ( "Altera Cithera"@en "Three Posthumous Pieces"@en "The Island"@en "Casualty"@en "Badger"@en "Hedgehog"@en "Kingfisher"@en "Robin"@en "The Adulterer"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17m0c> ;
+    schema:author <http://viaf.org/viaf/39398205> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/79045d2e1976a47d3bbc111d561e684c> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/64048541> ;
+    dc:title ( "Stillborn"@en "Snail"@en "January"@en "Poem at Eighteen"@en "Hawk"@en "Hedgehog"@en "Seanchas"@en "Unborn"@en """Leaving the
+                                Island"""@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17mbr> ;
+    schema:author <http://viaf.org/viaf/64048541> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/7d7f17f6db91b6149f65b8cb315c9129> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/109557338> ;
+    dc:title ( "The Diviner"@en "Gravities"@en "Ancestral Photograph"@en "For the Commander of 'The Eliza'"@en "Personal Helicon"@en "Girls Bathing, Galway, 1965"@en "The Salmon Fisher to the Salmon"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17kmr> ;
+    schema:author <http://viaf.org/viaf/109557338> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/84c9b5a34d0d21a4ef796f6468ccc297> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/109557338> ;
+    dc:title ( "Elegy for an Unborn Child"@en "Triptych for the Easter Battlers"@en "Homage to Pieter Breughel"@en "Persephone"@en "Rookery"@en """Requiem for the Irish
+                                Rebels"""@en "The Peninsula"@en "Orange Drums, Tyrone 1966"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17knw> ;
+    schema:author <http://viaf.org/viaf/109557338> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/a3a4bf4f9543decc9be1771722fc66a0> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/2490119> ;
+    dc:title ( "Beginnings"@en """Untitled ["On Sunday evenings in the
+                                poor quarter"]"""@en """Time
+                            Was"""@en "My Skeleton"@en ) ;
+    schema:author <http://viaf.org/viaf/2490119> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/a42cf86927c310a5724552ad499d8707> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/109557338> ;
+    dc:date "1965-04-27"@en ;
+    dc:title ( """Boy Driving his
+                                Father to Confession"""@en """To A Wine
+                                Jar"""@en """On Hogarth's Engraving 'Pit
+                                Ticket for the Royal Sport'"""@en "Synge on Aran"@en "Blackberry-Picking"@en """Saint
+                                Francis and the Birds"""@en """At a
+                                Potato Digging"""@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17kjg> ;
+    schema:author <http://viaf.org/viaf/109557338> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/b2bea8b138ea1ae8cfcef2009ff37737> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator _:f4511766416b148 ;
+    dc:title ( """The Poem in
+                            October"""@en """Reading Drayton in
+                                October"""@en "Hart Crane"@en "Sea-Side Song"@en "Leni Riefenstahl's Olympiad: 1936"@en "The Sorcerer's Apprentice"@en """Arriving at Larne:
+                            Seasick"""@en ) ;
+    schema:author _:f4511766416b148 .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/c5e42dc1bbfc6286fd303c0ef8af4cb4> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/109557338> ;
+    dc:title ( "Icon"@en "Limbo"@en "Wedding Day"@en "The Last Mummer"@en "High Street, Belfast, 1786"@en "Tweed"@en "Dawn"@en "Bye-Child"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17ktk> ;
+    schema:author <http://viaf.org/viaf/109557338> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/d3444f88d6b5f24aaa5b96f7db0488f1> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/39398205> ;
+    dc:title ( "A Headstone"@en "Man Friday"@en "Out of the Sea"@en """Homage to Buster
+                                Keaton"""@en "Fanny Hill"@en "Klondike"@en "Journey out of Essex"@en "Barracuda"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17m4x> ;
+    schema:author <http://viaf.org/viaf/39398205> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/d4e213dc2a023235f7c2d694f47f23dd> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/39398205> ;
+    dc:title ( """Gathering
+                                Mushrooms"""@en """To Bix
+                                Beiderbecke"""@en "Nausicaa"@en "The Freemartin"@en "Narcissus"@en "Dr. Johnson Dying"@en """In a Convent
+                                Cemetery"""@en """Remembrance
+                                Day"""@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17m52> ;
+    schema:author <http://viaf.org/viaf/39398205> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/eac1a0f7a6265915b167047f868027e7> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/39398205> ;
+    dc:title ( """No Continuing
+                                City"""@en "A Slight Adultery"@en "The Journey"@en "To Edna"@en "Her Mime of the Lame Seagull"@en "The Hebrides"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17m7b> ;
+    schema:author <http://viaf.org/viaf/39398205> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/eb0d9cbce682351da2cf1db7a5f3e888> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/2490119> ;
+    dc:title """By Natural
+                                Piety"""@en ;
+    schema:author <http://viaf.org/viaf/2490119> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/f38defbd0d6fb4b87506429dd0e89709> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/39398205> ;
+    dc:title ( """To the
+                            Poets"""@en "Mountain Swim"@en "A Nativity"@en "Miscarriage"@en "The North"@en "Lares"@en "Caravan"@en ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17m8g> ;
+    schema:author <http://viaf.org/viaf/39398205> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/f7bc24c708f7ff3f691b763c3b95c39e> a <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet>,
+        bibo:Manuscript ;
+    dc:creator <http://viaf.org/viaf/109557338> ;
+    dc:title "A Lough Neagh Sequence"@en ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17kvq> ;
+    schema:author <http://viaf.org/viaf/109557338> .
+
+<http://sws.geonames.org/2655984/> a schema:Place ;
+    schema:name "Belfast"@en .
+
+<http://viaf.org/viaf/91907300> a schema:Person ;
+    schema:name "Philip Hobsbaum"@en .
+
+<http://viaf.org/viaf/267971098> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "Brendan Kennelly"@en .
+
+<http://viaf.org/viaf/50609413> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "Dugdale, Norman"@en .
+
+<http://viaf.org/viaf/110228045> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "Derek Mahon"@en,
+        """Mahon,
+                                Derek"""@en .
+
+<http://viaf.org/viaf/64048541> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name """Muldoon,
+                                Paul"""@en,
+        "Paul Muldoon"@en .
+
+<http://viaf.org/viaf/2490119> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name """Terry,
+                                Arthur"""@en .
+
+<http://viaf.org/viaf/123393054> a schema:Organization ;
+    schema:affiliation <http://viaf.org/viaf/109557338>,
+        <http://viaf.org/viaf/110228045>,
+        <http://viaf.org/viaf/39398205>,
+        <http://viaf.org/viaf/64048541> ;
+    schema:founder <http://viaf.org/viaf/91907300> ;
+    schema:foundingDate "1960"@en ;
+    schema:location <http://sws.geonames.org/2655984/> .
+
+<http://viaf.org/viaf/109557338> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "Heaney, Seamus"@en,
+        "Seamus Heaney"@en .
+
+<http://viaf.org/viaf/39398205> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name """Longley,
+                                Michael"""@en,
+        "Longley, Michael"@en,
+        "Michael Longley"@en .
+
+_:f4511766416b1 a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "McGurk, Tom"@en .
+
+_:f4511766416b148 a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name """Harvey,
+                            W.J."""@en .
+
+_:f4511766416b74 a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "McGurk, Tom"@en .
+

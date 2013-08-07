@@ -1,0 +1,113 @@
+@prefix bg: <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/7d7f17f6db91b6149f65b8cb315c9129> a bg:GroupSheet ;
+    dc:title ( "The Diviner" "Gravities" "Ancestral Photograph" "For the Commander of \"The Eliza\"" "Personal Helicon" "Girls Bathing, Galway 1965" "The Salmon Fisher to the Salmon" ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17kmr> ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name "POEMS BY SEAMUS HEANEY" .
+
+<http://pid.emory.edu/ark:/25593/17kmr#heaney1_10105> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:mentions <http://viaf.org/viaf/39398205> ;
+    schema:name "PERSONAL HELICON" .
+
+<http://pid.emory.edu/ark:/25593/17kmr#heaney1_10110> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name "GIRLS BATHING, GALWAY 1965" .
+
+<http://pid.emory.edu/ark:/25593/17kmr#heaney1_10115> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name "THE SALMON FISHER TO THE SALMON" .
+
+<http://pid.emory.edu/ark:/25593/17kmr#heaney1_1084> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name "THE DIVINER" .
+
+<http://pid.emory.edu/ark:/25593/17kmr#heaney1_1089> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:mentions <http://dbpedia.org/resource/Columba>,
+        <http://dbpedia.org/resource/O%27Connell_Street>,
+        <http://sws.geonames.org/2646069/>,
+        <http://sws.geonames.org/2988507/>,
+        <http://viaf.org/viaf/44300643> ;
+    schema:name "GRAVITIES" .
+
+<http://pid.emory.edu/ark:/25593/17kmr#heaney1_1094> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:name "ANCESTRAL PHOTOGRAPH" .
+
+<http://pid.emory.edu/ark:/25593/17kmr#heaney1_1099> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/109557338> ;
+    schema:mentions <http://dbpedia.org/resource/Whitehall/>,
+        <http://sws.geonames.org/2960970/>,
+        <http://sws.geonames.org/2962666/>,
+        <http://viaf.org/viaf/22180353> ;
+    schema:name "FOR THE COMMANDER OF \"THE ELIZA\"" .
+
+<http://dbpedia.org/resource/Columba> a schema:Person ;
+    schema:name "Colmcille" .
+
+<http://dbpedia.org/resource/O%27Connell_Street> a schema:Place ;
+    schema:name "O'Connell Street" .
+
+<http://dbpedia.org/resource/Whitehall/> a schema:Place ;
+    schema:name "Whitehall" .
+
+<http://sws.geonames.org/2646069/> a schema:Place ;
+    schema:name "Iona" .
+
+<http://sws.geonames.org/2960970/> a schema:Place ;
+    schema:name "Westport" .
+
+<http://sws.geonames.org/2962666/> a schema:Place ;
+    schema:name "Mayo",
+        "Westport" .
+
+<http://sws.geonames.org/2988507/> a schema:Place ;
+    schema:name "Paris" .
+
+<http://viaf.org/viaf/22180353> a schema:Person ;
+    schema:name "Cecil Woodham-Smith" .
+
+<http://viaf.org/viaf/39398205> a schema:Person ;
+    schema:name "Michael Longley" .
+
+<http://viaf.org/viaf/44300643> a schema:Person ;
+    schema:name "Joyce" .
+
+<http://viaf.org/viaf/109557338> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "Seamus Heaney" .
+

@@ -1,0 +1,77 @@
+@prefix bg: <http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://belfastgroup.library.emory.edu/groupsheets/md5/d4e213dc2a023235f7c2d694f47f23dd> a bg:GroupSheet ;
+    dc:title ( "Gathering Mushrooms" "To Bix Beiderbecke                 " "Nausicaa" "The Freemartin" "Narcissus" "Dr Johnson Dying" "In a Convent Cemetery" "Remembrance Day" ) ;
+    schema:URL <http://pid.emory.edu/ark:/25593/17m52> ;
+    schema:author <http://viaf.org/viaf/39398205> ;
+    schema:name "POEMS BY MICHAEL LONGLEY" .
+
+<http://pid.emory.edu/ark:/25593/17m52#longley1_10208> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/39398205> ;
+    schema:name "GATHERING MUSHROOMS" .
+
+<http://pid.emory.edu/ark:/25593/17m52#longley1_10213> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/39398205> ;
+    schema:name """TO BIX BEIDERBECKE
+                        """ .
+
+<http://pid.emory.edu/ark:/25593/17m52#longley1_10218> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/39398205> ;
+    schema:name "NAUSICAA" .
+
+<http://pid.emory.edu/ark:/25593/17m52#longley1_10223> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/39398205> ;
+    schema:name "THE FREEMARTIN" .
+
+<http://pid.emory.edu/ark:/25593/17m52#longley1_10228> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/39398205> ;
+    schema:name "NARCISSUS" .
+
+<http://pid.emory.edu/ark:/25593/17m52#longley1_10233> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/39398205> ;
+    schema:name "DR JOHNSON DYING" .
+
+<http://pid.emory.edu/ark:/25593/17m52#longley1_10238> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/39398205> ;
+    schema:name "IN A CONVENT CEMETERY" .
+
+<http://pid.emory.edu/ark:/25593/17m52#longley1_10243> a schema:CreativeWork ;
+    schema:author <http://viaf.org/viaf/39398205> ;
+    schema:name "REMEMBRANCE DAY" .
+
+<http://viaf.org/viaf/39398205> a schema:Person ;
+    schema:affiliation <http://viaf.org/viaf/123393054> ;
+    schema:name "MICHAEL LONGLEY" .
+
