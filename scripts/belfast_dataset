@@ -68,6 +68,8 @@ harvest_urls = [
 
 # build relative to script or current directory?
 output_dir = 'data'
+# using n3 because it is smaller and more efficient to serialize & load
+output_format = 'n3'
 
 QUB_input = os.path.join(BASE_DIR, '..', 'belfastdata', 'QUB_ms1204.html')
 
@@ -109,14 +111,14 @@ if __name__ == '__main__':
     if all_steps or args.harvest:
         print '-- Harvesting RDF from EmoryFindingAids related to the Belfast Group'
         HarvestRdf(harvest_urls, output_dir=output_dir,
-                   find_related=True, verbosity=0)
+                   find_related=True, verbosity=0, format=output_format)
 
     if all_steps or args.queens:
         print '-- Converting Queens University Belfast Group collection description to RDF'
-        QUB(QUB_input, output_dir, verbosity=0)
+        QUB(QUB_input, output_dir, verbosity=0, output_format=output_format)
 
     # files needed for harvest related, smushing, and gexf
-    files = glob.glob(os.path.join(output_dir, '*.xml'))
+    files = glob.glob(os.path.join(output_dir, '*.%s' % output_format))
     # NOTE: can't use iglob here if we want to use the same list in multiple steps
     # if we ever get so many files we need that, will have to get the list
     # for each step individually
@@ -125,7 +127,7 @@ if __name__ == '__main__':
         print '-- Harvesting related RDF from VIAF, GeoNames, and DBpedia'
         # TODO: add logic so unchanged content isn't re-downloaded
         # (use last-modified http header & file date)
-        HarvestRelated(files, output_dir)
+        HarvestRelated(files, output_dir, format=output_format)
 
     if all_steps or args.infer:
         # smush any groupsheets in the data
@@ -146,4 +148,4 @@ if __name__ == '__main__':
     if all_steps or args.gexf:
         # generate gexf
         print '-- Generating network graph and saving as GEXF'
-        Rdf2Gexf(files, gexf_file)
+        Rdf2Gexf(files, gexf_file, format=output_format)

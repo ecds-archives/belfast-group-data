@@ -26,10 +26,13 @@ if __name__ == '__main__':
     parser.add_argument('-o', '--output', metavar='DIR',
                         help='directory where harvested content should be saved',
                         required=True)
+    parser.add_argument('-f', '--format', metavar='FORMAT', default='xml',
+                        help='output format (one of: %(choices)s; default is %(default)s)',
+                        choices=['xml', 'n3', 'turtle'])
     # TODO: verbosity setting?
     parser.add_argument('-v', '--verbosity', metavar='VERBOSITY', type=int,
                         choices=[0, 1, 2], default=1,
                         help='Verbosity level; 0=minimal, 1=normal, 2=verbose')
     args = parser.parse_args()
-    HarvestRdf(args.url, output_dir=args.output,
+    HarvestRdf(args.url, output_dir=args.output, format=args.format,
                find_related=args.related, verbosity=args.verbosity)

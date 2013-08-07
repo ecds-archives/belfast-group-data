@@ -47,12 +47,13 @@ class Rdf2Gexf(object):
 
     # TODO: consider splitting out rdf -> nx logic from nx -> gexf
 
-    def __init__(self, files, outfile):
+    def __init__(self, files, outfile, format='xml'):
+        # format should be the rdf format to be loaded when parsing
         self.outfile = outfile
 
         self.graph = rdflib.Graph()
         for infile in files:
-            self.graph.parse(infile)
+            self.graph.parse(infile, format=format)
         print '%d triples in %d files' % (len(self.graph), len(files))
 
         self.network = nx.MultiDiGraph()
