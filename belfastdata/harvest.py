@@ -159,15 +159,10 @@ class HarvestRelated(object):
         ('dbpedia', 'http://dbpedia.org/'),
     ]
 
-    _serialize_opts = {}
-
     def __init__(self, files, basedir, format=None):
         self.files = files
         self.basedir = basedir
-
-        if format is not None:
-            self._serialize_opts['format'] = format
-
+        self.format = format or 'xml'
         self.run()
 
     def run(self):
@@ -220,10 +215,14 @@ class HarvestRelated(object):
                 # build filename based on URI
                 baseid = u.rstrip('/').split('/')[-1]
 
-                filename = os.path.join(datadir, '%s.rdf' % baseid)
+                filename = os.path.join(datadir, '%s.%s' % (baseid, self.format))
 
                 # if already downloaded, don't re-download but add to graph
                 # for any secondary related content
+
+                # FIXME: dbpedia downloads includes lots of extra data
+                # we don't care about (data where uri is object instead of subject)
+
                 if os.path.exists(filename):
                     # TODO: better refinement would be to use modification
                     # time on the file to download if changed
@@ -242,11 +241,8 @@ class HarvestRelated(object):
                         tmp_graph.parse(data=data.content)
 
                         with open(filename, 'w') as datafile:
-#                            datafile.write(data.content)
-                            tmp_graph.serialize(datafile, **self._serialize_opts)
+                            tmp_graph.serialize(datafile, format=self.format)
 
-            #                         with open(filename, 'w') as datafile:
-            # data.serialize(datafile, **self._serialize_opts)
                     else:
                         print 'Error loading %s : %s' % (u, data.status_code)
 

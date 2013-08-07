@@ -1,3 +1,4 @@
+import os
 import hashlib
 import rdflib
 from rdflib import collection as rdfcollection
@@ -73,8 +74,12 @@ class SmushGroupSheets(object):
         # for this document
         new_uris = {}
 
+        # infer rdf format from file extension
+        filebase, rdf_format = os.path.splitext(filename)
+        rdf_format = rdf_format.strip('.')
+
         g = rdflib.Graph()
-        g.parse(filename)
+        g.parse(filename, format=rdf_format)
 
         # smushing should be done after infer/identify group sheets
         # and assign local group sheet type
@@ -116,7 +121,7 @@ class SmushGroupSheets(object):
         # but may actually be reasonable for the currently intended use.
         # print 'Replacing %s' % filename
         with open(filename, 'w') as datafile:
-            output.serialize(datafile)
+            output.serialize(datafile, format=rdf_format)
 
 
 class IdentifyGroupSheets(object):
@@ -129,8 +134,12 @@ class IdentifyGroupSheets(object):
         # identify belfast group sheets and label them with our local
         # belfast group sheet type
 
+        # infer rdf format from file extension
+        filebase, rdf_format = os.path.splitext(filename)
+        rdf_format = rdf_format.strip('.')
+
         g = rdflib.Graph()
-        g.parse(filename)
+        g.parse(filename, format=rdf_format)
 
         # some collections include group sheets mixed with other content
         # (irishmisc, ormsby)
@@ -196,7 +205,7 @@ class IdentifyGroupSheets(object):
 
         #print 'Replacing %s' % filename
         with open(filename, 'w') as datafile:
-            g.serialize(datafile)
+            g.serialize(datafile, format=rdf_format)
 
 
 class InferConnections(object):
@@ -209,8 +218,12 @@ class InferConnections(object):
         # identify belfast group sheets and label them with our local
         # belfast group sheet type
 
+        # infer rdf format from file extension
+        filebase, rdf_format = os.path.splitext(filename)
+        rdf_format = rdf_format.strip('.')
+
         g = rdflib.Graph()
-        g.parse(filename)
+        g.parse(filename, format=rdf_format)
 
         ms = list(g.subjects(predicate=rdflib.RDF.type, object=BG.GroupSheet))
         # if no manuscripts are found, skip
@@ -240,5 +253,5 @@ class InferConnections(object):
 
         if modified:
             with open(filename, 'w') as datafile:
-                g.serialize(datafile)
+                g.serialize(datafile, format=rdf_format)
 
