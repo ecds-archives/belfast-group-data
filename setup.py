@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 from setuptools import setup, find_packages
+import sys
 import belfastdata
 
 LONG_DESCRIPTION = None
@@ -23,6 +24,22 @@ CLASSIFIERS = [
     'Topic :: Utilities',
 ]
 
+requirements = [
+    'rdflib>=3.0',
+    'requests>=1.1',
+    'BeautifulSoup4',
+    'progressbar',  # make optional?
+    'Django',
+    'networkx',
+    'SPARQLWrapper',
+]
+
+
+if sys.version_info < (2, 7):
+    requirements.append('argparse')
+
+
+
 setup(
     name='belfastdata',
     version=belfastdata.__version__,
@@ -31,17 +48,7 @@ setup(
     url='https://github.com/emory-libraries-disc/belfast-group-data',
     license='Apache License, Version 2.0',
     packages=find_packages(),
-
-    install_requires=[
-        'rdflib>=3.0',
-        'requests>=1.1',
-        'BeautifulSoup4',
-        'progressbar',  # make optional?
-        'Django',
-        'networkx',
-        'SPARQLWrapper',
-    ],
-
+    install_requires=requirements,
     # # indexdata utils are optional. They include things like PDF text stripping (pyPdf).
     # # Be sure to include the below in your own pip dependencies file if you need to use
     # # the built in indexer utility support.
