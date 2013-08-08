@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/66495112">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Kavanagh</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4c2cf02b9dca41eebc08c27afb089e55">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/12366017"/>
+    <dc:title xml:lang="en">Collected Stories</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nce907064e53b49ebb277dd0a461b9902">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94933541"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/66495112"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb3b2b8e64fc444f3b30b4938e9309cc1">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/35723133"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/12366017">
+    <schema:name xml:lang="en">Michael McLaverty</schema:name>
+    <schema:name xml:lang="en">Michael
+				  McLaverty</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Pennsylvania">
+    <schema:name xml:lang="en">University of Pennsylvania</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8742f2b4106b42f9b59a9b405089a28d">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Emory_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb058c9ad6a4141eeb0211d22ff4d37da">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/25893594">
+    <schema:name xml:lang="en">Polly
+                Devlin</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6a49d78dc1d54a958375b6a03ce1174e">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/12366017"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/35723133">
+    <schema:name xml:lang="en">William
+                Wordsworth</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/heaney653/series1/">
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:mentions rdf:nodeID="N6a49d78dc1d54a958375b6a03ce1174e"/>
+    <schema:mentions rdf:nodeID="N8742f2b4106b42f9b59a9b405089a28d"/>
+    <schema:mentions rdf:nodeID="Nce907064e53b49ebb277dd0a461b9902"/>
+    <schema:mentions rdf:nodeID="Nf03ac9ea63b64ffb9fc7672e06c51289"/>
+    <schema:mentions rdf:nodeID="Nb3b2b8e64fc444f3b30b4938e9309cc1"/>
+    <schema:mentions rdf:nodeID="N4c2cf02b9dca41eebc08c27afb089e55"/>
+    <schema:mentions rdf:nodeID="Nfcaf4d60e82c4893b608089004a91a6b"/>
+    <schema:mentions rdf:nodeID="Nb058c9ad6a4141eeb0211d22ff4d37da"/>
+    <schema:name xml:lang="en">Seamus Heaney collection, 1972-1997; Series 1: Writings by Seamus Heaney</schema:name>
+    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Heaney</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf03ac9ea63b64ffb9fc7672e06c51289">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/25893594"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfcaf4d60e82c4893b608089004a91a6b">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">University of Pennsylvania Almanac</dc:title>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/University_of_Pennsylvania"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emory_University">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Emory University</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/94933541">
+    <schema:name xml:lang="en">Sebastian Barker</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+</rdf:RDF>

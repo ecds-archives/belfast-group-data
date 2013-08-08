@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2643743/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>London</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/d4776b750e3c2926472c8938c8d7ed4b">
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m66"/>
+    <dc:title rdf:nodeID="Neec536cb185346f79e37151bde97935b"/>
+    <schema:name>POEMS BY MICHAEL LONGLEY
+        </schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.geonames.org/2638360/">
+    <schema:name>Scottish</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m66#longley1_10255">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>CHRISTOPHER AT BIRTH</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m66#longley1_10276">
+    <schema:name>EPITHALAMION</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3212736c86044d5db22b0aa308e0aa1d">
+    <rdf:rest rdf:nodeID="N95f9ad258cfa41788640e24f2a936084"/>
+    <rdf:first>Christopher at Birth</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8b17f9de92d94cada986c460fbb4cf3f">
+    <rdf:first>Saint Francis to the Birds</rdf:first>
+    <rdf:rest rdf:nodeID="N3502aebeeedc4939b953a7a08494696a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+    <schema:name>Michael Longley</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1cd751e69806483694f7c3cbdb1f7e9c">
+    <rdf:first>En Route</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Neec536cb185346f79e37151bde97935b">
+    <rdf:rest rdf:nodeID="N3212736c86044d5db22b0aa308e0aa1d"/>
+    <rdf:first>In Memoriam</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m66#longley1_10266">
+    <schema:name>
+                            SAINT FRANCIS TO THE BIRDS
+                        </schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3502aebeeedc4939b953a7a08494696a">
+    <rdf:rest rdf:nodeID="Nd0ffa6574c324fedbb5d7d63bee66094"/>
+    <rdf:first>Elegy for Fats Waller                 </rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m66#longley1_10281">
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>
+                            EN ROUTE
+                        </schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m66#longley1_10250">
+    <schema:mentions rdf:resource="http://sws.geonames.org/2643743/"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/3017382/"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>IN MEMORIAM</schema:name>
+    <schema:mentions rdf:resource="http://www.geonames.org/2638360/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/3017382/">
+    <schema:name>France</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m66#longley1_10260">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>FREEZE-UP</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd0ffa6574c324fedbb5d7d63bee66094">
+    <rdf:rest rdf:nodeID="N1cd751e69806483694f7c3cbdb1f7e9c"/>
+    <rdf:first>Epithalamion</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>S. Heaney</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N95f9ad258cfa41788640e24f2a936084">
+    <rdf:first>Freeze-Up</rdf:first>
+    <rdf:rest rdf:nodeID="N8b17f9de92d94cada986c460fbb4cf3f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m66#longley1_10271">
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>ELEGY FOR FATS WALLER
+                        </schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:nodeID="N68a1fc93cd4544b096a149a466c6f16e">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/1279685/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/muldoon784/series2/subseries2.1/">
+    <schema:about rdf:resource="http://viaf.org/viaf/64048541"/>
+    <schema:mentions rdf:nodeID="N68a1fc93cd4544b096a149a466c6f16e"/>
+    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:name xml:lang="en">Paul Muldoon papers, 1939-2010; Subseries 2.1: Poetry, circa 1960s-2003</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/64048541">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/1279685/">
+    <schema:name xml:lang="en">Tibet</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+</rdf:RDF>

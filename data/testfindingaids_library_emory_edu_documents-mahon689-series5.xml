@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/110228045">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/mahon689/series5/">
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series5/subseries5.2/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/110228045"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series5/subseries5.1/"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:name xml:lang="en">Derek Mahon papers, circa 1948-2008; Series 5: Photographs and audiovisual materials</schema:name>
+    <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
+  </rdf:Description>
+</rdf:RDF>

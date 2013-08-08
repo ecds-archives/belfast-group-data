@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:nodeID="N75078646687c4cbf824a3e7afb66b49e">
+    <rdf:rest rdf:nodeID="Nd632cb59e7264519be15f5d039cb51c4"/>
+    <rdf:first>Dr. Johnson on the Hebrides</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N501e910edf904073898d5beda48461ad">
+    <rdf:first>In Memoriam</rdf:first>
+    <rdf:rest rdf:nodeID="N6af2122dcc9d41a9911c1df4f8f5f4b9"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6af2122dcc9d41a9911c1df4f8f5f4b9">
+    <rdf:first>Christopher at Birth</rdf:first>
+    <rdf:rest rdf:nodeID="N86180968fc3840f1b480b61e064cc9f5"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N953653ccb33047a1b053ae42f1d13774">
+    <rdf:rest rdf:nodeID="N501e910edf904073898d5beda48461ad"/>
+    <rdf:first>The Osprey</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m3s#longley1_10157">
+    <schema:name>MAN FRIDAY</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m3s#longley1_10137">
+    <schema:name>CHRISTOPHER AT BIRTH</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2802361/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Belgium</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m3s#longley1_10141">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>GATHERING MUSHROOMS</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2643743/">
+    <schema:name>London</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/4929022/">
+    <schema:name>Amherst Massachusetts</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/31995584">
+    <schema:name>Emily Dickinson</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd632cb59e7264519be15f5d039cb51c4">
+    <rdf:first>Remembrance Day</rdf:first>
+    <rdf:rest rdf:nodeID="Na075c1aaa88f418b8365d0d41579ba6e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/e3379b05f4d5d5b65dfd0d057570b6a3">
+    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m3s"/>
+    <dc:title rdf:nodeID="N9da581e408db450095c4875ae41438a6"/>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m3s#longley1_10129">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>THE OSPREY</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na075c1aaa88f418b8365d0d41579ba6e">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first>Man Friday</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m3s#longley1_10133">
+    <schema:mentions rdf:resource="http://sws.geonames.org/2802361/"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/3017382/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/141903176"/>
+    <schema:name>IN MEMORIAM</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/141903176">
+    <schema:name>London Scottish</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m3s#longley1_10153">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>REMEMBRANCE DAY</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m3s#longley1_10125">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/31995584"/>
+    <schema:name>
+                            EMILY DICKINSON
+                        </schema:name>
+    <schema:mentions rdf:resource="http://sws.geonames.org/4929022/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4f0396b5ec724d079ada134927564f18">
+    <rdf:rest rdf:nodeID="N75078646687c4cbf824a3e7afb66b49e"/>
+    <rdf:first>Persephone</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m3s#longley1_10149">
+    <schema:name>DR. JOHNSON ON THE HEBRIDES
+                        </schema:name>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2643743/"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2647204/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9da581e408db450095c4875ae41438a6">
+    <rdf:first>                     Emily Dickinson                 </rdf:first>
+    <rdf:rest rdf:nodeID="N953653ccb33047a1b053ae42f1d13774"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m3s#longley1_10145">
+    <schema:name>PERSEPHONE</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N86180968fc3840f1b480b61e064cc9f5">
+    <rdf:rest rdf:nodeID="N4f0396b5ec724d079ada134927564f18"/>
+    <rdf:first>Gathering Mushrooms</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2647204/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Hebridean</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/3017382/">
+    <schema:name>France</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+</rdf:RDF>

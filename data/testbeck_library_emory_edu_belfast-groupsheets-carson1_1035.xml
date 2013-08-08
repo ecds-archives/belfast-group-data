@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:nodeID="Nc26166b8ddb04a7ebec17c871083c19c">
+    <rdf:first>Letter from Alaska                 </rdf:first>
+    <rdf:rest rdf:nodeID="Nfac4c648381c4bc8a57c53acb31e57bb"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7468cdd3f7e44bfcaa379f032aa553c0">
+    <rdf:first>The Clockwork Pigeon</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/1bc0v#carson1_1034">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
+    <schema:name>THE CLOCKWORK PIGEON</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfac4c648381c4bc8a57c53acb31e57bb">
+    <rdf:rest rdf:nodeID="Ndd658c1283214df3a8b672c198097b48"/>
+    <rdf:first>                     Aranmore Island                 </rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N36972e33df534d9394130b181ffb8e60">
+    <rdf:first>Wheel</rdf:first>
+    <rdf:rest rdf:nodeID="N9ed66577ba3740609eb38c3748334f86"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9ed66577ba3740609eb38c3748334f86">
+    <rdf:first>Post Mortem on a Mass Grave</rdf:first>
+    <rdf:rest rdf:nodeID="N7468cdd3f7e44bfcaa379f032aa553c0"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndd658c1283214df3a8b672c198097b48">
+    <rdf:first>The Island Revisited</rdf:first>
+    <rdf:rest rdf:nodeID="N36972e33df534d9394130b181ffb8e60"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/1bc0v#carson1_109">
+    <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
+    <schema:name>LETTER FROM ALASKA
+                        </schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/1bc0v#carson1_1019">
+    <schema:name>THE ISLAND REVISITED</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/1bc0v#carson1_1024">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>WHEEL</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/66d1e3ee911642a0d8f6aa9244ac7cca">
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/1bc0v"/>
+    <dc:title rdf:nodeID="Nc26166b8ddb04a7ebec17c871083c19c"/>
+    <schema:name>POEMS BY CIARAN CARSON</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/1bc0v#carson1_1029">
+    <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
+    <schema:name>POST MORTEM ON A MASS GRAVE</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/1bc0v#carson1_1014">
+    <schema:name>
+                            ARANMORE ISLAND
+                        </schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/85621766">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Ciaran Carson</schema:name>
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+  </rdf:Description>
+</rdf:RDF>

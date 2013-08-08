@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbp="http://dbpedia.org/ontology/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108224907">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">F.R. Leavis</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Sheffield">
+    <schema:name xml:lang="en">Sheffield University</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Glasgow">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">University of Glasgow</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2641364/">
+    <schema:name xml:lang="en">North Ireland</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/91907300">
+    <schema:colleague rdf:resource="http://viaf.org/viaf/108224907"/>
+    <schema:colleague rdf:resource="http://viaf.org/viaf/34474006"/>
+    <schema:description xml:lang="en">
+      
+        Philip Hobsbaum, poet, critic, and teacher, was born in London June 29, 1932. He attended Downing College at Cambridge, studying with F.R. Leavis. Around 1955 he began a series of writing workshops, later known as "The Group," that met in Cambridge, London, Belfast, and Glasgow. In 1959 Hobsbaum began work on a graduate degree at Sheffield University under the direction of William Empson. From 1962 to 1966 he taught at Queens University in Belfast, resigning due to the rising violence in North Ireland and the breakup of his marriage to Hannah Kelly.
+      
+        Hobsbaum spent the remainder of his teaching career at the University of Glasgow. From 1966 to 1985 he was a lecturer and reader before being promoted to Professor of English Literature in 1985. He married his second wife Rosemary Philips in 1976. In addition to his teaching and writing duties, Hobsbaum began the masters program in creative writing at the University of Glasgow. He retired from teaching in 1997. He has four published collections of poetry: The Place's Fault (1964), In Retreat (1966), Coming Out Fighting (1969), and Women and Animals (1972). Hobsbaum has also published two works of literary criticism.
+      
+    </schema:description>
+    <schema:homeLocation rdf:resource="http://sws.geonames.org/2641364/"/>
+    <dbp:birthPlace rdf:resource="http://sws.geonames.org/2643741/"/>
+    <schema:worksFor rdf:resource="http://dbpedia.org/resource/University_of_Glasgow"/>
+    <schema:birthDate xml:lang="en">1932-06-29</schema:birthDate>
+    <schema:worksFor rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
+    <schema:workLocation rdf:resource="http://sws.geonames.org/2655984/"/>
+    <schema:alumniOf rdf:resource="http://dbpedia.org/resource/Downing_College,_Cambridge"/>
+    <schema:alumniOf rdf:resource="http://sws.geonames.org/2653941/"/>
+    <schema:jobTitle xml:lang="en">Poet</schema:jobTitle>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:worksFor rdf:resource="http://dbpedia.org/resource/Queen%27s_University_Belfast"/>
+    <schema:name xml:lang="en">Hobsbaum, Philip.</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2653941/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">Cambridge</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf3e90279c0dc4f6bae4c24a8217826f6">
+    <schema:name xml:lang="en">Emory University</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N179e9e8262434acdbd4653cffa1a9f11">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/31061217"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/8zfm1">
+    <schema:about xml:lang="en">http://viaf.org/viaf/91907300</schema:about>
+    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <schema:url xml:lang="en">http://pid.emory.edu/ark:/25593/8zfm1</schema:url>
+    <schema:author xml:lang="en">Manuscript, Archives, and Rare Book           Library, Emory University</schema:author>
+    <owl:sameAs rdf:resource="http://testfindingaids.library.emory.edu/documents/hobsbaum1013/"/>
+    <schema:name xml:lang="en">Philip Hobsbaum collection, 1962-1971</schema:name>
+    <schema:datePublished xml:lang="en">2005-11-29</schema:datePublished>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateCreated xml:lang="en">2005-11-29</schema:dateCreated>
+    <schema:publisher rdf:nodeID="Nf3e90279c0dc4f6bae4c24a8217826f6"/>
+    <schema:about rdf:nodeID="Nda444232a6314dd39783249261aae17b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2655984/">
+    <schema:name xml:lang="en">Belfast</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2643741/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">London</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nda444232a6314dd39783249261aae17b">
+    <schema:keywords xml:lang="en">Poet.</schema:keywords>
+    <schema:creator rdf:resource="http://viaf.org/viaf/91907300"/>
+    <schema:name xml:lang="en"> Philip Hobsbaum collection,
+        1962-1971
+            
+             </schema:name>
+    <schema:jobTitle xml:lang="en">Poet.</schema:jobTitle>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+    <schema:keywords xml:lang="en">English poetry--20th century.</schema:keywords>
+    <schema:keywords xml:lang="en">Poetry.</schema:keywords>
+    <schema:keywords xml:lang="en">Poets, English--20th century.</schema:keywords>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:mentions rdf:nodeID="N179e9e8262434acdbd4653cffa1a9f11"/>
+    <rdf:type rdf:resource="http://purl.org/archival/vocab/arch#Collection"/>
+    <schema:description xml:lang="en">Papers relating to Philip Hobsbaum, English poet, critic, and
+        teacher, including correspondence, typescripts, and proof sheets.
+            </schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/34474006">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">William Empson</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Downing_College,_Cambridge">
+    <schema:name xml:lang="en">Downing College</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/31061217">
+    <schema:name xml:lang="en">David W. Lindsay</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen%27s_University_Belfast">
+    <schema:name xml:lang="en">Queens University</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+</rdf:RDF>

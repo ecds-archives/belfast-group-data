@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mcw#muldoon2_1090">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
+    <schema:name>HEDGES IN WINTER</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8fb1c19a194f4e0e8c1c82ca93050098">
+    <rdf:rest rdf:nodeID="Ne53c5a32d4f1498cbef1266e150eba84"/>
+    <rdf:first>Grass Widow</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mcw#muldoon2_1085">
+    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
+    <schema:name>WIND AND TREE</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mcw#muldoon2_10120">
+    <schema:name>THE ELECTRIC ORCHARD</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2660928/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3f63b1cce4d94943b8cef3f6043bd826">
+    <rdf:first>Vampire</rdf:first>
+    <rdf:rest rdf:nodeID="N8fb1c19a194f4e0e8c1c82ca93050098"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/64048541">
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+    <schema:name>Paul Muldoon</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mcw#muldoon2_10115">
+    <schema:name>THE INDIANS ON ALCATRAZ
+                        </schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne53c5a32d4f1498cbef1266e150eba84">
+    <rdf:first>The Indians on Alcatraz                 </rdf:first>
+    <rdf:rest rdf:nodeID="N86a7bdce96da41b1a8a3dbb0d7487719"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mcw#muldoon2_1095">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>CUCKOO CORN</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3c125751a51440a8a3ba3b19ba87b34c">
+    <rdf:first>Siesta</rdf:first>
+    <rdf:rest rdf:nodeID="N3f63b1cce4d94943b8cef3f6043bd826"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8dae50d084dd4a7eb3ab822f4957c977">
+    <rdf:rest rdf:nodeID="Nbc5f0d924b624d65ae046c4167c0fedc"/>
+    <rdf:first>Hedges in Winter</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2660928/">
+    <schema:name>Eiger</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mcw#muldoon2_10100">
+    <schema:name>SIESTA</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbc5f0d924b624d65ae046c4167c0fedc">
+    <rdf:first>Cuckoo Corn</rdf:first>
+    <rdf:rest rdf:nodeID="N3c125751a51440a8a3ba3b19ba87b34c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mcw#muldoon2_10105">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>VAMPIRE</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/5eca4dd972ebc0893c53b1d997635850">
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <dc:title rdf:nodeID="N40778f81feb84ffcadb9cf172fbe3857"/>
+    <schema:name>POEMS BY PAUL MULDOON</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17mcw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.geonames.org/6252001/">
+    <schema:name>America</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N86a7bdce96da41b1a8a3dbb0d7487719">
+    <rdf:first>The Electric Orchard</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N40778f81feb84ffcadb9cf172fbe3857">
+    <rdf:first>Wind and Tree</rdf:first>
+    <rdf:rest rdf:nodeID="N8dae50d084dd4a7eb3ab822f4957c977"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mcw#muldoon2_10110">
+    <schema:mentions rdf:resource="http://www.geonames.org/6252001/"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
+    <schema:name>GRASS WIDOW</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:nodeID="N302c6670b91c4d9c896d4c20c2801995">
+    <rdf:rest rdf:nodeID="Nebf19f1f857648aa9ccbc1785e8c22bc"/>
+    <rdf:first>Yank</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10242">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>AT ARDBOE POINT</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10268">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>A WINTER'S TALE</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N24a7edf911e1416085c7a68d33a214be">
+    <rdf:first>Shore Woman</rdf:first>
+    <rdf:rest rdf:nodeID="N302c6670b91c4d9c896d4c20c2801995"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10258">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>SHORE WOMAN</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/6402a6ce1b71527f68a57a2fec39dd6a">
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17kr9"/>
+    <schema:name>POEMS BY SEAMUS HEANEY</schema:name>
+    <dc:title rdf:nodeID="Naaae63b586744c8fb96a62b532c254c7"/>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Naaae63b586744c8fb96a62b532c254c7">
+    <rdf:rest rdf:nodeID="Ne649333f1ae649f593d3a897c69a2408"/>
+    <rdf:first>At Ardboe Point</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne649333f1ae649f593d3a897c69a2408">
+    <rdf:first>Good-Night</rdf:first>
+    <rdf:rest rdf:nodeID="Nb9e8d33f1dab4b13b9cc17fac993219d"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10263">
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>YANK</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10252">
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>THE CROWING MAN</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nebf19f1f857648aa9ccbc1785e8c22bc">
+    <rdf:first>A Winter's Tale</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb9e8d33f1dab4b13b9cc17fac993219d">
+    <rdf:first>The Crowing Man</rdf:first>
+    <rdf:rest rdf:nodeID="N24a7edf911e1416085c7a68d33a214be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10247">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>GOOD-NIGHT</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
+    <schema:name>Seamus Heaney</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+  </rdf:Description>
+</rdf:RDF>

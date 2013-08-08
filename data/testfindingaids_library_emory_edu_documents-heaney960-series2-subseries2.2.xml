@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:nodeID="Ncb337cd370234fd6b8a6e3cefe383866">
+    <rdf:first xml:lang="en">Remembrance Day</rdf:first>
+    <rdf:rest rdf:nodeID="N08bd9e32278e4f68b0b374e39543de62"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6d2b469126734f73ac2168f977bbe8fe">
+    <rdf:rest rdf:nodeID="N0f99f763d77e4f19bc380442e07469ce"/>
+    <rdf:first xml:lang="en">Narcissus</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/123393054">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Belfast Poets Group</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
+    <schema:name xml:lang="en">Longley, Michael</schema:name>
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0f99f763d77e4f19bc380442e07469ce">
+    <rdf:rest rdf:nodeID="Nc4e27df3405349c6b02b3fc0240cfecc"/>
+    <rdf:first xml:lang="en">Dr
+                  Johnson Dying</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N08bd9e32278e4f68b0b374e39543de62">
+    <rdf:rest rdf:nodeID="N1821df4186f3458a9531cd31f5fabd30"/>
+    <rdf:first xml:lang="en">Gathering Mushrooms</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc4e27df3405349c6b02b3fc0240cfecc">
+    <rdf:first xml:lang="en">In a Convent Cemetery</rdf:first>
+    <rdf:rest rdf:nodeID="Ncb337cd370234fd6b8a6e3cefe383866"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/d4e213dc2a023235f7c2d694f47f23dd">
+    <dc:creator rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/123393054"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m52"/>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <dc:title rdf:nodeID="N6d2b469126734f73ac2168f977bbe8fe"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7631ee1e27f54a52996ff0d0a075d6ad">
+    <rdf:first xml:lang="en">The Freemartin</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/heaney960/series2/subseries2.2/">
+    <schema:mentions rdf:resource="http://belfastgroup.library.emory.edu/groupsheets/md5/d4e213dc2a023235f7c2d694f47f23dd"/>
+    <schema:name xml:lang="en">Seamus Heaney papers, 1951-2004; Subseries 2.2: Other writings, 1964-2004</schema:name>
+    <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1821df4186f3458a9531cd31f5fabd30">
+    <rdf:first xml:lang="en">To Bix
+                  Beiderbecke</rdf:first>
+    <rdf:rest rdf:nodeID="Ne103c559c75d473488e803ec0ea17efc"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne103c559c75d473488e803ec0ea17efc">
+    <rdf:rest rdf:nodeID="N7631ee1e27f54a52996ff0d0a075d6ad"/>
+    <rdf:first xml:lang="en">Nausicaa</rdf:first>
+  </rdf:Description>
+</rdf:RDF>

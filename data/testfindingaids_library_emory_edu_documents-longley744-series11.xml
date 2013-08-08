@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen%27s_University_Belfast">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Queen's University, Belfast</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/longley744/series11/">
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/longley744/series11/subseries11.2/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/109956735"/>
+    <schema:name xml:lang="en">Michael Longley papers, 1960-2000; Series 11: Edna Longley papers, 1962-2000</schema:name>
+    <schema:dateModified xml:lang="en">2013-08-08</schema:dateModified>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/longley744/series11/subseries11.1/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/longley744/index1/"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109956735">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:worksFor rdf:resource="http://dbpedia.org/resource/Queen%27s_University_Belfast"/>
+    <schema:jobTitle xml:lang="en">academic</schema:jobTitle>
+    <schema:jobTitle xml:lang="en">critic</schema:jobTitle>
+  </rdf:Description>
+</rdf:RDF>

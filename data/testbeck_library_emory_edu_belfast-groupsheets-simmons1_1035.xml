@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:nodeID="Naefbcce399c0497cb4eb813a8dd2f7bc">
+    <rdf:first>The Young Airforce Men</rdf:first>
+    <rdf:rest rdf:nodeID="Nfa3fbc0adb114a89ada6f92998822b27"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na281aa1960824dc3b36e87e277b0577e">
+    <rdf:rest rdf:nodeID="N5f41ba85a10143e4b873ad41ee004450"/>
+    <rdf:first>Old Lady's Song</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0a3b0c39b3fb41a89ff57a1bfbc9db78">
+    <rdf:rest rdf:nodeID="Na281aa1960824dc3b36e87e277b0577e"/>
+    <rdf:first>                     Fahan Strand</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2964376/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Fahan</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17md1#simmons1_1034">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/6269131/"/>
+    <schema:name>THE ULSTER SOLDIER BOY</schema:name>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2921044/"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2963597/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Free State</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/92591927">
+    <schema:name>James Simmons</schema:name>
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc2ee089b7ee5485aa87b1c536f98fb11">
+    <rdf:rest rdf:nodeID="N0a3b0c39b3fb41a89ff57a1bfbc9db78"/>
+    <rdf:first>Drinker's Blues</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2961301/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Lough Swilly </schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2965905/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Burnfoot</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/6269131/">
+    <schema:name>England</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/41ec662cf6cd6fde871fd2acd65cdeb8">
+    <dc:title rdf:nodeID="Nc2ee089b7ee5485aa87b1c536f98fb11"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17md1"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <schema:name>POEMS BY JAMES SIMMONS
+        </schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2921044/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Germany</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2966001/">
+    <schema:name>Bridge End</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5f41ba85a10143e4b873ad41ee004450">
+    <rdf:rest rdf:nodeID="Naefbcce399c0497cb4eb813a8dd2f7bc"/>
+    <rdf:first>Ramble Away</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17md1#simmons1_1024">
+    <schema:name>RAMBLE AWAY</schema:name>
+    <schema:mentions rdf:resource="http://www.geonames.org/2964574/dublin.html"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17md1#simmons1_1014">
+    <schema:mentions rdf:resource="http://sws.geonames.org/2963597/"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
+    <schema:name>
+                            FAHAN STRAND</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2966001/"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2965905/"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2961301/"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2964376/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17md1#simmons1_109">
+    <schema:name>DRINKER'S BLUES</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17md1#simmons1_1029">
+    <schema:name>THE YOUNG AIRFORCE MEN</schema:name>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/94507588"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2651048/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfa3fbc0adb114a89ada6f92998822b27">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first>The Ulster Soldier Boy</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.geonames.org/2964574/dublin.html">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Bachelor's Walk</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17md1#simmons1_1019">
+    <schema:name>OLD LADY'S SONG</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/94507588">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Churchill</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2651048/">
+    <schema:name>Dover</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+</rdf:RDF>

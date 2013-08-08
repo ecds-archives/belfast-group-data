@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1058">
+    <schema:name>ORPHEUS</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1073">
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>THE HOUSEWIFE'S TESTAMENT</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N34890eea641f4b74b0ae79b645fa4cb4">
+    <rdf:rest rdf:nodeID="Nea794a2be5454fdab47e2dd2179c5cf4"/>
+    <rdf:first>The Ornithological Section</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1063">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>A PERSONAL STATEMENT</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
+    <schema:name>MICHAEL LONGLEY</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1048">
+    <schema:name>CIRCE</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb9cbb519767c4b6e9a975634d2f07e62">
+    <rdf:first>A Personal Statement</rdf:first>
+    <rdf:rest rdf:nodeID="N1ee17b70ee99413e84570f4a4d0d710e"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1ad7c26a7e994653b5dffcbb5067ecd7">
+    <rdf:rest rdf:nodeID="N34890eea641f4b74b0ae79b645fa4cb4"/>
+    <rdf:first>Circe</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1068">
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>THE CENTAURS</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1078">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>CHRISTOPHER AT BIRTH</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1053">
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>THE ORNITHOLOGICAL SECTION</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1ee17b70ee99413e84570f4a4d0d710e">
+    <rdf:rest rdf:nodeID="Nb31a7b46af42405983a42c0ee1600a9c"/>
+    <rdf:first>The Centaurs</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb31a7b46af42405983a42c0ee1600a9c">
+    <rdf:first>The Housewife's Testament</rdf:first>
+    <rdf:rest rdf:nodeID="N18c450ed14a74370b98b77865adcbec0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/6a737caa21790f6b0ab9daae73bf09c2">
+    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m1h"/>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <dc:title rdf:nodeID="N1ad7c26a7e994653b5dffcbb5067ecd7"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N18c450ed14a74370b98b77865adcbec0">
+    <rdf:first>Christopher at Birth</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nea794a2be5454fdab47e2dd2179c5cf4">
+    <rdf:rest rdf:nodeID="Nb9cbb519767c4b6e9a975634d2f07e62"/>
+    <rdf:first>Orpheus</rdf:first>
+  </rdf:Description>
+</rdf:RDF>

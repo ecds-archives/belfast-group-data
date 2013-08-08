@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kkm#heaney1_1047">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>DIGGING</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kkm#heaney1_1077">
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>SCAFFOLDING</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kkm#heaney1_1072">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>YOUNG BACHELOR</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2d0626a9ce114a6ba79a27da0199f1e3">
+    <rdf:first>Soliloquy for an Old Resident</rdf:first>
+    <rdf:rest rdf:nodeID="Ned73082bdeb94ac297b10e01725fb312"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N82c63c149e0e46959433381e79a71eb1">
+    <rdf:rest rdf:nodeID="N4f0644c7a0f24ae6a5317a7ac26d05c3"/>
+    <rdf:first>Digging</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kkm#heaney1_1052">
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>DEATH OF A NATURALIST</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N03c810e9c61440dd8b2eef6f091d14a6">
+    <rdf:rest rdf:nodeID="N8a33f4aedfb3483baebed3d116fab558"/>
+    <rdf:first>Young Bachelor</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kkm#heaney1_1067">
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>WRITER AND TEACHER</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9af53321804348a4890300dc0141daac">
+    <rdf:rest rdf:nodeID="N2d0626a9ce114a6ba79a27da0199f1e3"/>
+    <rdf:first>Storm on the Island</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kkm#heaney1_1062">
+    <schema:name>SOLILOQUY FOR AN OLD RESIDENT</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Seamus Heaney</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4f0644c7a0f24ae6a5317a7ac26d05c3">
+    <rdf:rest rdf:nodeID="N9af53321804348a4890300dc0141daac"/>
+    <rdf:first>Death of a Naturalist</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8a33f4aedfb3483baebed3d116fab558">
+    <rdf:first>Scaffolding</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/2013a1ce8e42f843308b5e77e0cc73aa">
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17kkm"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>POEMS BY SEAMUS HEANEY</schema:name>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <dc:title rdf:nodeID="N82c63c149e0e46959433381e79a71eb1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kkm#heaney1_1057">
+    <schema:name>STORM ON THE ISLAND</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ned73082bdeb94ac297b10e01725fb312">
+    <rdf:rest rdf:nodeID="N03c810e9c61440dd8b2eef6f091d14a6"/>
+    <rdf:first>Writer and Teacher</rdf:first>
+  </rdf:Description>
+</rdf:RDF>
