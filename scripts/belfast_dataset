@@ -69,7 +69,7 @@ harvest_urls = [
 # build relative to script or current directory?
 output_dir = 'data'
 # using n3 because it is smaller and more efficient to serialize & load
-output_format = 'n3'
+output_format = 'xml'
 
 QUB_input = os.path.join(BASE_DIR, '..', 'belfastdata', 'QUB_ms1204.html')
 
