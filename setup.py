@@ -39,6 +39,7 @@ setup(
         'progressbar',  # make optional?
         'Django',
         'networkx',
+        'SPARQLWrapper',
     ],
 
     # # indexdata utils are optional. They include things like PDF text stripping (pyPdf).

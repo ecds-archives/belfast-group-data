@@ -4,7 +4,9 @@ import os
 import glob
 import rdflib
 import requests
+import SPARQLWrapper
 import sys
+import time
 from urlparse import urlparse
 
 try:
@@ -166,7 +168,8 @@ class HarvestRelated(object):
         self.run()
 
     def run(self):
-        graph = rdflib.Graph()
+        dbpedia_sparql = SPARQLWrapper.SPARQLWrapper("http://dbpedia.org/sparql")
+
 
         # load all files into a single graph so we can query distinct
         g = rdflib.Graph()
@@ -234,33 +237,38 @@ class HarvestRelated(object):
                         print 'Error loading file %s : %s' % (filename, err)
 
                 else:
-                    # Use requests with content negotiation to load the data
-                    data = requests.get(u, headers={'accept': 'application/rdf+xml'})
-                    if data.status_code == requests.codes.ok:
-                        # also add to master graph so we can download related data
-                        # i.e.  dbpedia records for VIAF persons
-                        g.parse(data=data.content)
+                    tmp_graph = None
 
-                        tmp_graph = rdflib.Graph()
-                        tmp_graph.parse(data=data.content)
-                        # NOTE: dbpedia downloads includes lots of extra data
-                        # we don't need (data where uri is object instead of subject)
-                        # filter that out
-                        if name == 'dbpedia':
-                            for s, p, o in tmp_graph:
-                                if s != rdflib.URIRef(u):
-                                    tmp_graph.remove((s, p, o))
+                    if name == 'dbpedia':
+                        # for dbpedia, use sparql query to get data we care about
+                        # (request with content negotation returns extra data where
+                        # uri is the subject and is also slower)
+                        dbpedia_sparql.setQuery('DESCRIBE <%s>' % u)
+                        dbpedia_sparql.setReturnFormat(SPARQLWrapper.XML)
+                        tmp_graph = dbpedia_sparql.query().convert()
 
+                    else:
+                        # Use requests with content negotiation to load the data
+                        data = requests.get(u, headers={'accept': 'application/rdf+xml'})
+
+                        if data.status_code == requests.codes.ok:
+                            # also add to master graph so we can download related data
+                            # i.e.  dbpedia records for VIAF persons
+                            g.parse(data=data.content)
+
+                            tmp_graph = rdflib.Graph()
+                            tmp_graph.parse(data=data.content)
+
+                        else:
+                            print 'Error loading %s : %s' % (u, data.status_code)
+
+                    if tmp_graph:
                         with open(filename, 'w') as datafile:
                             try:
                                 tmp_graph.serialize(datafile, format=self.format)
                             except Exception as err:
                                 print 'Error serializing %s : %s' % (u, err)
 
-
-
-                    else:
-                        print 'Error loading %s : %s' % (u, data.status_code)
 
                 if progress:
                     processed += 1
