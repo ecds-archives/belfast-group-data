@@ -54,6 +54,6 @@ setup(
     classifiers=CLASSIFIERS,
     scripts=['scripts/harvest-rdf', 'scripts/harvest-related',
              'scripts/queens_belfast_rdf', 'scripts/smush-groupsheets',
-             'gscripts/rdf2gexf',
+             'scripts/rdf2gexf',
              'scripts/belfast_dataset'],
 )
