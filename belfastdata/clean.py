@@ -2,9 +2,14 @@ import os
 import hashlib
 import rdflib
 from rdflib import collection as rdfcollection
+import re
 from django.utils.text import slugify
 
 from belfastdata.rdfns import BIBO, DC, SCHEMA_ORG, BG, BELFAST_GROUP_URI
+
+
+def normalize_whitespace(str):
+    return re.sub(r'\s+', ' ', str.strip())
 
 
 class SmushGroupSheets(object):
@@ -25,15 +30,15 @@ class SmushGroupSheets(object):
         if title:
             # single literal
             if isinstance(title, rdflib.Literal):
-                titles.append(title)
+                titles.append(normalize_whitespace(title))
 
             # otherwise, assuming node is an rdf sequence
             else:
                 # convert from resource to standard blank node
                 # since collection doesn't seem to handle resource
                 # create a collection to allow treating as a list
-                titles.extend(rdfcollection.Collection(graph,
-                                                       title))
+                titles.extend([normalize_whitespace(t) for t in
+                              rdfcollection.Collection(graph, title)])
 
         # ignore title order for the purposes of de-duping
         # - sort titles so we can get a consistent MD5
