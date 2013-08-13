@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Laird">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_Muldoon"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Paul_Muldoon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seamus_Heaney">
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Paul_Muldoon"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Paul_Muldoon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muldoon">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Paul_Muldoon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_B._Muldoon">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Paul_Muldoon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Muldoon">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poets_from_Northern_Ireland"/>
+    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">64048541</dbpprop:viaf>
+    <dbpedia-owl:abstract xml:lang="pl">Paul Muldoon – północnoirlandzki poeta. Studiował literaturę angielską na Queen's University w Belfaście, gdzie jednym z jego wykładowców był Seamus Heaney. Będąc jeszcze studentem, debiutował w roku 1973 tomikiem New Weather. Uczestniczył w spotkaniach grupy lokalnych poetów z Belfastu zorganizowanej przez Philipa Hobsbauma, do której należeli m. in. Heaney, Derek Mahon i Michael Longley. Pracował również przez pewien czas dla BBC w Belfaście. Od 1987 roku przebywa w Stanach Zjednoczonych, gdzie wykłada na Uniwersytecie w Princeton. W latach 1999-2004 piastował stanowisko profesora poezji (Professor of Poetry) na Uniwersytecie Oksfordzkim. Jest członkiem Aosdána, irlandzkiego stowarzyszenia wybitnych artystów. W 2003 roku został laureatem Nagrody Pulitzera w dziedzinie poezji za Moy Sand and Gravel. Zdobywał również licznie inne nagrody literackie, m. in. T. S. Eliot Prize w 1994, The Irish Times Poetry Prize w 1997, oraz Griffin International Prize for Excellence in Poetry w 2003 roku. Żona Pula Muldoona – Jean Hanff Korelitz – jest powieściopisarką. Mają dwoje dzieci.</dbpedia-owl:abstract>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Paul_Muldoon"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <dbpedia-owl:abstract xml:lang="ru">Пол Малдун — ирландский поэт, пишет на английском языке.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Armagh"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GuggenheimFellows"/>
+    <dbpedia-owl:abstract xml:lang="de">Paul Muldoon ist ein nordirischer Dichter. Er war von 1999 bis 2004 Oxford Professor of Poetry und gewann 2003 den Pulitzer-Preis für Poesie.</dbpedia-owl:abstract>
+    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfQuEEn'sUniversityBelfast"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Paul_Muldoon?oldid=493851715"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.griffinpoetryprize.com/awards-and-poets/shortlists/2003-shortlist/paul-muldoon/"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Portadown"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.paulmuldoon.net/"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AcademicsOfTheUniversityOfStAndrews"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.kwls.org/podcasts/paul_muldoon_the_borderline/"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromSomersetCounty,NewJersey"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetrysociety.org.uk/lib/tmp/cmsfiles/File/review/Volume%2097/971%20Muldoon.pdf"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Fellows_of_Hertford_College,_Oxford"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://poemsoutloud.net/audio/archive/muldoon_reads_wulf_and_eadwacer/"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Paul_Muldoon"/>
+    <dbpprop:placeOfBirth xml:lang="en">Portadown, Northern Ireland</dbpprop:placeOfBirth>
+    <foaf:homepage rdf:resource="http://www.paulmuldoon.net/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdfs:comment xml:lang="en">Paul Muldoon is an Irish poet. He has published over thirty collections and won a Pulitzer Prize for Poetry and the T. S. Eliot Prize. He held the post of Oxford Professor of Poetry from 1999 - 2004. At Princeton University he is both the Howard G. B. Clark ’21 Professor in the Humanities and chair of the Lewis Center for the Arts. He is also the president of the Poetry Society (U.K. )and Poetry Editor at The New Yorker.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyArmagh"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Formalist_poets"/>
+    <rdfs:label xml:lang="en">Paul Muldoon</rdfs:label>
+    <rdfs:comment xml:lang="ru">Пол Малдун — ирландский поэт, пишет на английском языке.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryarchive.org/poetryarchive/singlePoet.do?poetId=12003"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:The_New_Yorker_people"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1951_births"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://wunderkammermag.com/arts-and-culture/interview-paul-muldoon"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfLiterature"/>
+    <foaf:surname xml:lang="en">Muldoon</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Paul_Muldoon"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_the_University_of_St_Andrews"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1951</dbpprop:dateOfBirth>
+    <dbpedia-owl:individualisedPnd xml:lang="de">119049872</dbpedia-owl:individualisedPnd>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Малдун,_Пол"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://warwickpress.com/inner/hopewell.htm"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Paul_Muldoon"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.abc.net.au/rn/bookshow/stories/2008/2183300.htm"/>
+    <dbpprop:name xml:lang="en">Muldoon, Paul</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Guggenheim_Fellows"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/books/2001/may/12/poetry.artsandhumanities"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01tnch"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nytimes.com/2006/11/19/magazine/19muldoon.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Pulitzer_Prize_for_Poetry_winners"/>
+    <dbpedia-owl:abstract xml:lang="en">Paul Muldoon is an Irish poet. He has published over thirty collections and won a Pulitzer Prize for Poetry and the T. S. Eliot Prize. He held the post of Oxford Professor of Poetry from 1999 - 2004. At Princeton University he is both the Howard G. B. Clark ’21 Professor in the Humanities and chair of the Lewis Center for the Arts. He is also the president of the Poetry Society (U.K. )and Poetry Editor at The New Yorker.</dbpedia-owl:abstract>
+    <foaf:name xml:lang="en">Paul Muldoon</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PoetsFromNorthernIreland"/>
+    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">119049872</dbpprop:pnd>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryfoundation.org/archive/poet.html?id=4884"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_St._Patrick's_Grammar_School,_Armagh"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Somerset_County,_New_Jersey"/>
+    <rdfs:comment xml:lang="de">Paul Muldoon ist ein nordirischer Dichter. Er war von 1999 bis 2004 Oxford Professor of Poetry und gewann 2003 den Pulitzer-Preis für Poesie.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Princeton_University_faculty"/>
+    <dbpprop:lccn xml:lang="en">n/81/98944</dbpprop:lccn>
+    <rdfs:seeAlso rdf:resource="http://it.dbpedia.org/resource/Paul_Muldoon"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Queen's_University_Belfast"/>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwH4tJJwpEbGdrcN5Y29ycA"/>
+    <rdfs:comment xml:lang="pl">Paul Muldoon – północnoirlandzki poeta. Studiował literaturę angielską na Queen's University w Belfaście, gdzie jednym z jego wykładowców był Seamus Heaney. Będąc jeszcze studentem, debiutował w roku 1973 tomikiem New Weather. Uczestniczył w spotkaniach grupy lokalnych poetów z Belfastu zorganizowanej przez Philipa Hobsbauma, do której należeli m. in. Heaney, Derek Mahon i Michael Longley. Pracował również przez pewien czas dla BBC w Belfaście.</rdfs:comment>
+    <dc:description xml:lang="en">Poet</dc:description>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poets.org/poet.php/prmPID/208"/>
+    <foaf:givenName xml:lang="en">Paul</foaf:givenName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdfs:label xml:lang="de">Paul Muldoon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Montague_(poet)">
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Paul_Muldoon"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Paul_Muldoon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Paul_Muldoon">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Paul_Muldoon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_The_Colbert_Report_episodes_(2009)">
+    <dbpprop:guest rdf:resource="http://dbpedia.org/resource/Paul_Muldoon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Paul_Muldoon">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Paul_Muldoon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bandanna_(opera)">
+    <dbpedia-owl:lyrics rdf:resource="http://dbpedia.org/resource/Paul_Muldoon"/>
+    <dbpprop:lyrics rdf:resource="http://dbpedia.org/resource/Paul_Muldoon"/>
+  </rdf:Description>
+</rdf:RDF>

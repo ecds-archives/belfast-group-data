@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls000184058#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/143917318"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Ulster Museum.</skos:prefLabel>
+    <skos:altLabel>Ulster Museum, Belfast</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/143917318/#foaf:Organization">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/143917318"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/143917318/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/143917318"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C055973817#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Ulster Museum.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/143917318"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027472124#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Belfast (GB) Ulster museum</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/143917318"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Ulster museum Belfast, GB</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12061106#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb120611068"/>
+    <skos:altLabel>Belfast (GB) Ulster museum</skos:altLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb120611068"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:prefLabel>Ulster museum Belfast, GB</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/143917318"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2007031039#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Ulster Museum.</skos:prefLabel>
+    <skos:altLabel>Ulster Museum in Belfast.</skos:altLabel>
+    <skos:altLabel>Muzeum Ulsteru w Belfaście.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/143917318"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0009H4040E#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Ulster Museum (Belfast, Northern Ireland)</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/143917318"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++81009420#skos:Concept">
+    <skos:altLabel>Ulster Museum, Belfast</skos:altLabel>
+    <skos:prefLabel>Ulster Museum.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/143917318"/>
+    <skos:altLabel>Belfast (Northern Ireland). Art Gallery and Museum</skos:altLabel>
+    <skos:altLabel>Belfast (Northern Ireland). Museum and Art Gallery</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n81009420"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Belfast (Northern Ireland). Committee of Belfast Museum and Art Gallery</skos:altLabel>
+    <skos:altLabel>Belfast (Northern Ireland). Ulster Museum</skos:altLabel>
+    <skos:altLabel>Belfast (Northern Ireland). Municipal Museum and Art Gallery</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036120036#skos:Concept">
+    <skos:prefLabel>Ulster Museum.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:altLabel>Ulster Museum, Belfast</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Belfast (Northern Ireland). Ulster Museum</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/143917318"/>
+    <skos:altLabel>Belfast (Northern Ireland). Committee of Belfast Museum and Art Gallery</skos:altLabel>
+    <skos:altLabel>Belfast (Northern Ireland). Municipal Museum and Art Gallery</skos:altLabel>
+    <skos:altLabel>Belfast (Northern Ireland). Art Gallery and Museum</skos:altLabel>
+    <skos:altLabel>Belfast (Northern Ireland). Museum and Art Gallery</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/143917318/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/143917318"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/143917318/#rdaEnt:CorporateBody">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/143917318"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/143917318">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
+    <foaf:name>Belfast (Northern Ireland). Municipal Museum and Art Gallery</foaf:name>
+    <foaf:name>Belfast (GB) Ulster museum</foaf:name>
+    <foaf:name>Belfast (Northern Ireland). Art Gallery and Museum</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb120611068#foaf:Person"/>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/129760300"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/16277929-X"/>
+    <foaf:name>Muzeum Ulsteru w Belfaście.</foaf:name>
+    <foaf:name>Ulster museum Belfast, GB</foaf:name>
+    <foaf:name>Ulster Museum in Belfast.</foaf:name>
+    <foaf:name>Ulster Museum (Belfast, Irlande du Nord)</foaf:name>
+    <foaf:name>Belfast (Northern Ireland). Committee of Belfast Museum and Art Gallery</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/129760300"/>
+    <foaf:name>Belfast (Northern Ireland). Museum and Art Gallery</foaf:name>
+    <foaf:name>Ulster Museum.</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/027472124/id"/>
+    <foaf:name>Ulster Museum, Belfast</foaf:name>
+    <foaf:name>Ulster Museum (Belfast, Northern Ireland)</foaf:name>
+    <foaf:name>Belfast (Northern Ireland). Ulster Museum</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0009H4040F#skos:Concept">
+    <skos:prefLabel>Ulster Museum (Belfast, Northern Ireland)</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/143917318"/>
+  </rdf:Description>
+</rdf:RDF>

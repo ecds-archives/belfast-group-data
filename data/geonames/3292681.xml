@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/3292681/about.rdf">
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-08-14</dcterms:modified>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/3292681/"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/3292681/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/3292681/">
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2965139/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521315/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.EST"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3292681/about.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2965139/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
+    <gn:name>Glanmore</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3292681/glanmore.html"/>
+    <gn:countryCode>IE</gn:countryCode>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <wgs84_pos:lat>52.31583</wgs84_pos:lat>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3292681/nearby.rdf"/>
+    <wgs84_pos:long>-8.63667</wgs84_pos:long>
+  </rdf:Description>
+</rdf:RDF>

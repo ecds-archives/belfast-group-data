@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Poetry_Society">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Poetry_Society"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poetry_Society">
+    <rdfs:label xml:lang="en">Poetry Society</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poetry_organizations"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Poetry_Society"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/OrganisationsBasedInTheUnitedKingdom"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Arts_organisations_based_in_the_United_Kingdom"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PoetryOrganizations"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetrysociety.org.uk/"/>
+    <rdfs:comment xml:lang="en">The Poetry Society is a membership organisation, open to all, whose stated aim is "to promote the study, use and enjoyment of poetry". The Society was founded in London in February 1909 as the Poetry Recital Society, becoming the Poetry Society in 1912. Its first President was Lady Margaret Sackville. The Poetry Society publishes Poetry Review, Britain's leading poetry magazine, which provides a forum for poems from both new and established poets. Its editor from 2005 to 2012 was Fiona Sampson.</rdfs:comment>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Poetry_Society"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.09rjfd"/>
+    <dbpedia-owl:abstract xml:lang="en">The Poetry Society is a membership organisation, open to all, whose stated aim is "to promote the study, use and enjoyment of poetry". The Society was founded in London in February 1909 as the Poetry Recital Society, becoming the Poetry Society in 1912. Its first President was Lady Margaret Sackville. The Poetry Society publishes Poetry Review, Britain's leading poetry magazine, which provides a forum for poems from both new and established poets. Its editor from 2005 to 2012 was Fiona Sampson. The Society also organises several competitions, including the British National Poetry Competition, the Foyle Young Poets of the Year Award and the Geoffrey Dearmer Award. The society also ran the Alice Hunt Bartlett Prize from 1986 to 1997. Previous winners of the National Poetry Competition include in 2009 Helen Dunmore: 'The Malarkey' and most recent winner, Paul Adrian for his poem: 'Robin in Flight'.</dbpedia-owl:abstract>
+    <ns6:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Poetry_Society?oldid=491190733"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Poetry_Society">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Poetry_Society"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Poetry_Society">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Poetry_Society"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poetry_Review">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Poetry_Society"/>
+  </rdf:Description>
+</rdf:RDF>

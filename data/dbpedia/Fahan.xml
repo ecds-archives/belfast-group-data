@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+   xmlns:grs="http://www.georss.org/georss/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Fahan">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Fahan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fahan">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Town"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Фон_(Ирландия)"/>
+    <dbpprop:coordinatesRegion xml:lang="en">IE</dbpprop:coordinatesRegion>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-7.47846</geo:long>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Donegal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:subdivisionType rdf:resource="http://dbpedia.org/resource/Provinces_of_Ireland"/>
+    <dbpedia-owl:utcOffset xml:lang="en">+0</dbpedia-owl:utcOffset>
+    <dbpedia-owl:abstract xml:lang="pl">Fahan – miejscowość w Irlandii, w hrabstwie Donegal, na zachodnim wybrzeżu półwyspu Inishowen nad zatoką Lough Swilly. W 2002 roku mieszkało tu 338 osób.</dbpedia-owl:abstract>
+    <dbpprop:subdivisionType rdf:resource="http://dbpedia.org/resource/Counties_of_Ireland"/>
+    <dbpedia-owl:populationUrban rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338</dbpedia-owl:populationUrban>
+    <dbpprop:pushpinMapCaption xml:lang="en">Location in Ireland</dbpprop:pushpinMapCaption>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Fahan"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.089</geo:lat>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-location-noun-1"/>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-7.47846 55.089)</geo:geometry>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionType xml:lang="en">Country</dbpprop:subdivisionType>
+    <dbpprop:coordinatesDisplay xml:lang="en">inline,title</dbpprop:coordinatesDisplay>
+    <dbpprop:name xml:lang="en">Fahan</dbpprop:name>
+    <rdfs:comment xml:lang="pl">Fahan – miejscowość w Irlandii, w hrabstwie Donegal, na zachodnim wybrzeżu półwyspu Inishowen nad zatoką Lough Swilly. W 2002 roku mieszkało tu 338 osób.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="nl">Fahan is een plaats in het Ierse graafschap County Donegal. De plaats telt 338 (2002 census) inwoners.</dbpedia-owl:abstract>
+    <dbpprop:utcOffset xml:lang="en">+0</dbpprop:utcOffset>
+    <dbpprop:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">-7</dbpprop:longd>
+    <dbpprop:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2002</dbpprop:populationAsOf>
+    <dbpprop:coordinatesFormat xml:lang="en">dms</dbpprop:coordinatesFormat>
+    <rdfs:comment xml:lang="ru">Фон — деревня в Ирландии, находится в графстве Донегол.</rdfs:comment>
+    <grs:point xml:lang="en">55.089008 -7.478457</grs:point>
+    <dbpprop:utcOffset1Dst rdf:datatype="http://www.w3.org/2001/XMLSchema#int">-1</dbpprop:utcOffset1Dst>
+    <foaf:name xml:lang="en">Fahan</foaf:name>
+    <dbpprop:coordinatesType xml:lang="en">dim:100000_region:IE</dbpprop:coordinatesType>
+    <rdfs:comment xml:lang="en">Fahan (Irish: Fathain, meaning "little green/field") (pronounced fawn) is a district of Inishowen, in County Donegal, Ireland, located five kilometres south of Buncrana. In Irish, Fahan is named after its patron saint, St. Mura, first abbot and patron saint of Fahan, an early Christian monastery.</rdfs:comment>
+    <dbpprop:timezone1Dst xml:lang="en">IST</dbpprop:timezone1Dst>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement"/>
+    <dbpprop:pushpinMap xml:lang="en">Ireland</dbpprop:pushpinMap>
+    <dbpedia-owl:abstract xml:lang="ru">Фон — деревня в Ирландии, находится в графстве Донегол.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <dbpprop:timezone rdf:resource="http://dbpedia.org/resource/Western_European_Time"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Donegal"/>
+    <dbpedia-owl:timeZone rdf:resource="http://dbpedia.org/resource/Western_European_Summer_Time"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Towns_and_villages_in_County_Donegal"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_settlement"/>
+    <dbpedia-owl:abstract xml:lang="en">Fahan (Irish: Fathain, meaning "little green/field") (pronounced fawn) is a district of Inishowen, in County Donegal, Ireland, located five kilometres south of Buncrana. In Irish, Fahan is named after its patron saint, St. Mura, first abbot and patron saint of Fahan, an early Christian monastery.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="en">Fahan</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeoclassPopulatedLocality"/>
+    <dbpprop:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">55</dbpprop:latd>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0g21qr"/>
+    <dbpprop:populationUrban rdf:datatype="http://www.w3.org/2001/XMLSchema#int">338</dbpprop:populationUrban>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Fahan?oldid=486997559"/>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <dbpedia-owl:utcOffset xml:lang="en">-1</dbpedia-owl:utcOffset>
+    <dbpprop:blankName rdf:resource="http://dbpedia.org/resource/Irish_grid_reference_system"/>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Fahan"/>
+    <dbpprop:pushpinLabelPosition xml:lang="en">right</dbpprop:pushpinLabelPosition>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TownsAndVillagesInCountyDonegal"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Fahan"/>
+    <dbpedia-owl:timeZone rdf:resource="http://dbpedia.org/resource/Western_European_Time"/>
+    <dbpprop:settlementType xml:lang="en">Town</dbpprop:settlementType>
+    <dbpprop:unitPref xml:lang="en">Metric</dbpprop:unitPref>
+    <rdfs:comment xml:lang="nl">Fahan is een plaats in het Ierse graafschap County Donegal. De plaats telt 338 (2002 census) inwoners.</rdfs:comment>
+    <dbpprop:populationDensityKm xml:lang="en">auto</dbpprop:populationDensityKm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Fahan">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Fahan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fahan_railway_station">
+    <dbpprop:locale rdf:resource="http://dbpedia.org/resource/Fahan"/>
+  </rdf:Description>
+</rdf:RDF>

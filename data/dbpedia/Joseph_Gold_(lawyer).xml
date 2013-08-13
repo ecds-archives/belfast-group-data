@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Joseph_Gold_(lawyer)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Joseph_Gold_(lawyer)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Gold">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Joseph_Gold_(lawyer)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Gold_(lawyer)">
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Joseph_Gold_(lawyer)"/>
+    <foaf:name xml:lang="en">Joseph Gold</foaf:name>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0j45np1"/>
+    <foaf:givenName xml:lang="en">Joseph</foaf:givenName>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Joseph_Gold_(lawyer)?oldid=485853510"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:abstract xml:lang="en">Joseph Gold was a scholar in public international law, known most prominently as a long-time official of the International Monetary Fund. Gold held undergraduate and master's degrees in law from the University of London and an SJD from Harvard University. He joined the International Monetary Fund, which had been established in the Bretton Woods conference of 1944, in 1946. In 1960, he became General Counsel of the IMF and Director of its Legal Department. He retired in 1979. In 1980 he was awarded a knighthood by Queen Elizabeth II, entitling him to the style of Sir Joseph Gold. Gold published numerous articles and books on international law, especially relating to the IMF. He has been called "a leading authority on international monetary law" and a "key legal architect of the IMF's development in the post-World War II period".</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Year_of_birth_missing"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-02-22</dbpedia-owl:deathDate>
+    <dbpprop:name xml:lang="en">Gold, Joseph</dbpprop:name>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Joseph_Gold_(lawyer)"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</dbpprop:dateOfDeath>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2000_deaths"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_legal_scholars"/>
+    <rdfs:comment xml:lang="en">Joseph Gold was a scholar in public international law, known most prominently as a long-time official of the International Monetary Fund. Gold held undergraduate and master's degrees in law from the University of London and an SJD from Harvard University. He joined the International Monetary Fund, which had been established in the Bretton Woods conference of 1944, in 1946. In 1960, he became General Counsel of the IMF and Director of its Legal Department. He retired in 1979.</rdfs:comment>
+    <foaf:surname xml:lang="en">Gold</foaf:surname>
+  </rdf:Description>
+</rdf:RDF>

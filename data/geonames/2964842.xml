@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2964842/about.rdf">
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-05-05</dcterms:modified>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2964842/"/>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2964842/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2964842/">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521316/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Lough_Derg_%28Ulster%29"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2964751/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.LK"/>
+    <gn:name>Lough Derg</gn:name>
+    <gn:countryCode>IE</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
+    <wgs84_pos:lat>54.61944</wgs84_pos:lat>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2964842/nearby.rdf"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2964751/"/>
+    <gn:alternateName>Lough Derg</gn:alternateName>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2964842/lough-derg.html"/>
+    <wgs84_pos:long>-7.87139</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Lough_Derg_%28Ulster%29"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2964842/about.rdf"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C01141646#skos:Concept">
+    <skos:altLabel>オコナー, フランク</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+    <skos:prefLabel>O'Connor, Frank, 1903-1966</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca17197326#skos:Concept">
+    <skos:altLabel>O'Donovan, Michael, 1903-1966</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <skos:prefLabel>O'Connor, Frank, 1903-1966</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028766482#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>O'Connor, Frank, 1903-1966</skos:prefLabel>
+    <skos:altLabel>O'Donovan, Michael Francis</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/VLACC%7C000001859#skos:Concept">
+    <skos:altLabel>O'Donovan, M.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+    <skos:prefLabel>O'connor, Frank</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/VLACC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CFrank_O'Connor#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>O'connor, Frank</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV11057656#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <skos:prefLabel>O'Connor, Frank, 1903-1966</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39396585/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/39396585"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39396585">
+    <foaf:name>O'Donovan Michael Francis 1903-1966</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>O'Donovan, M.</foaf:name>
+    <foaf:name>O'Donovan, Michael, 1903-1966</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>O'Donovan, Michael 1903-1966 Wirklicher Name</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/218997"/>
+    <foaf:name>أوكونور، فرانك، 1903-1966</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118641395"/>
+    <foaf:name>فرانك أوكونور، 1903-1966</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb120534756#foaf:Person"/>
+    <foaf:name>أوكونور، فرانك</foaf:name>
+    <foaf:name>O'Donnavan, Michael Francis.</foaf:name>
+    <foaf:name>オコナー, フランク</foaf:name>
+    <foaf:name>O'Donovan, Michael Francis</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Frank_O'Connor"/>
+    <rdaGr2:dateOfBirth>1903-09-17</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://www.idref.fr/028766482/id"/>
+    <foaf:name>O'connor, Frank</foaf:name>
+    <foaf:name>O'Connor, Frank, 1903-1966</foaf:name>
+    <rdaGr2:dateOfDeath>1966-03-10</rdaGr2:dateOfDeath>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12053475#skos:Concept">
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb120534756"/>
+    <skos:altLabel>O'Donovan Michael Francis 1903-1966</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:prefLabel>O'Connor, Frank, 1903-1966</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb120534756"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001783913#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>أوكونور، فرانك، 1903-1966</skos:prefLabel>
+    <skos:altLabel>فرانك أوكونور، 1903-1966</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000100735#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+    <skos:prefLabel>O'Connor, Frank, 1903-1966</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>O'Donovan, Michael, 1903-1966</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990006216#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+    <skos:prefLabel>O'Connor, Frank, 1903-1966</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:altLabel>O'Donovan, Michael, 1903-1966</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39396585/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80010451#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80010451"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+    <skos:altLabel>أوكونور، فرانك</skos:altLabel>
+    <skos:altLabel>O'Donovan, Michael, 1903-1966</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>O'Connor, Frank, 1903-1966</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118641395#skos:Concept">
+    <skos:altLabel>O'Donovan, Michael 1903-1966 Wirklicher Name</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>O'Connor, Frank, 1903-1966</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C218997#skos:Concept">
+    <skos:prefLabel>O'Connor, Frank, 1903-1966</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/218997#concept"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>O'Donovan, Michael, 1903-1966</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++94201291#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>O'Connor, Frank, 1903-1966</skos:prefLabel>
+    <skos:altLabel>O'Donnavan, Michael Francis.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39396585/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/39396585"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069377464#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+    <skos:prefLabel>O'Connor, Frank, 1903-1966</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036268493#skos:Concept">
+    <skos:altLabel>O'Donovan, Michael, 1903-1966</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/39396585"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:prefLabel>O'Connor, Frank, 1903-1966</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

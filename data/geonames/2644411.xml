@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2644411/about.rdf">
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-10-16</dcterms:modified>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2644411/"/>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2644411/"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2644411/">
+    <gn:alternateName xml:lang="lt">Lisbernas</gn:alternateName>
+    <gn:alternateName xml:lang="zh">利斯本</gn:alternateName>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Lisburn"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2644411/lisburn.html"/>
+    <gn:alternateName xml:lang="it">Lisburn</gn:alternateName>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2644411/nearby.rdf"/>
+    <gn:alternateName xml:lang="bg">Лисбърн</gn:alternateName>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLA2"/>
+    <gn:alternateName xml:lang="pnb">لسبرن</gn:alternateName>
+    <gn:alternateName>Lios na gCearrbhach</gn:alternateName>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2644412/"/>
+    <gn:countryCode>GB</gn:countryCode>
+    <gn:alternateName xml:lang="sr">Лизберн</gn:alternateName>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:name>Lisburn</gn:name>
+    <gn:alternateName xml:lang="de">Lisburn</gn:alternateName>
+    <gn:alternateName xml:lang="ko">리즈번</gn:alternateName>
+    <gn:alternateName xml:lang="en">Lisburn</gn:alternateName>
+    <gn:alternateName xml:lang="fa">لیسبورن</gn:alternateName>
+    <wgs84_pos:long>-6.03527</wgs84_pos:long>
+    <wgs84_pos:lat>54.52337</wgs84_pos:lat>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2644412/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2635167/"/>
+    <gn:population>77506</gn:population>
+    <gn:alternateName xml:lang="fr">Lisburn</gn:alternateName>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/2641364/"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2644411/about.rdf"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Lisburn"/>
+    <gn:alternateName xml:lang="ru">Лисберн</gn:alternateName>
+  </rdf:Description>
+</rdf:RDF>

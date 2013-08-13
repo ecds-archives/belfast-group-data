@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+   xmlns:grs="http://www.georss.org/georss/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peacock_Theatre,_Dublin">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irish_National_Theatre_Society">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abbey_Theater">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abbey_Theatre,_Dublin">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miss_Universe_Ireland_2011">
+    <dbpprop:venue rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Freedom_of_the_City">
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dancing_at_Lughnasa">
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Plough_and_the_Stars">
+    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Borstal_Boy_(play)">
+    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abbey_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Abbey_Theater">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Theatre_of_Ireland">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Abbey_Theatre">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Kelly_(actor)">
+    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miss_Universe_Ireland_2009">
+    <dbpprop:venue rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miss_Universe_Ireland_2010">
+    <dbpprop:venue rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abbey_Theatre">
+    <dbpedia-owl:abstract xml:lang="es">El Teatro Abbey (The Abbey Theatre en inglés), también conocido como el Teatro Nacional de Irlanda, está ubicado en Dublín, Irlanda. El Abbey abrió por primera vez sus puertas al público el 27 de diciembre de 1904 y a pesar de perder su edificio original tras un incendio en 1951, continuó presentando obras más o menos continuamente hasta el presente. El Abbey fue el primer teatro subsidiado por el estado en el mundo angloparlante; desde el año 1925 recibe un subsidio anual del Estado Libre de Irlanda. En sus primeros años, el teatro estaba fuertemente asociado a los escritores del renacimiento celta, muchos de los cuales se involucraron en su fundación y la mayoría de los cuales presentaron sus obras allí. El Abbey fue la escuela de muchos de los escritores irlandeses destacados del siglo XX. Además, a través de su extensivo programa de giras y su gran visibilidad en el extranjero, particularmente de audiencias norteamericanas, se convirtió en una parte importante de la industria turística de Irlanda.</dbpedia-owl:abstract>
+    <dbpprop:opened rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1904</dbpprop:opened>
+    <rdfs:label xml:lang="de">Abbey Theatre</rdfs:label>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01djlz"/>
+    <dbpprop:designation xml:lang="en">National Theatre of Ireland</dbpprop:designation>
+    <rdfs:comment xml:lang="nl">Het Abbey Theatre, ook bekend als het Nationaal Theater van Ierland, is een theater in Dublin. Het theater werd geopend op 27 december 1904 en is tot op de dag van vandaag open gebleven, ondanks dat het originele gebouw in 1951 door brand werd verwoest. Het Abbey Theatre was het eerste door de overheid gesubsidieerde theater in de Engelssprekende wereld; sinds 1925 krijgt het jaarlijks subsidie van de Ierse Vrijstaat. Het huidige gebouw bevindt zich aan 26 Lower Abbey Street, Dublin 1.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アベイ座"/>
+    <rdfs:comment xml:lang="en">The Abbey Theatre (Irish: Amharclann na Mainistreach), also known as the National Theatre of Ireland (Irish: Amharclann Náisiúnta na hÉireann), is a theatre located in Dublin, Ireland. The Abbey first opened its doors to the public on 27 December 1904. Despite losing its original building to a fire in 1951, it has remained active to the present day.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="pl">Abbey Theatre, znany także jako National Theatre of Ireland, irl. Amharclann na Mainistreach – teatr w Dublinie, działający od 27 grudnia 1904 do czasów obecnych, z przerwą spowodowaną pożarem oryginalnego budynku w 1951 roku. The Abbey był pierwszym dotowanym ze środków publicznych teatrem w anglojęzycznym świecie; od 1925 roku był subsydiowany przez Wolne Państwo Irlandzkie. W Abbey Theatre swoją karierę rozpoczęło też wielu irlandzkich aktorów i pisarzy. Co więcej, przez liczne podróże zagraniczne i wystawianie sztuk poza granicami kraju, szczególnie w Ameryce Północnej, stał się ważną atrakcją turystyczną, ze względu na swoją wysoką rozpoznawalność.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeoclassTheater"/>
+    <rdfs:comment xml:lang="it">L'Abbey Theatre è un gruppo teatrale irlandese. Esso è anche noto come National Theatre of Ireland, ed è situato a Dublino, Irlanda. L'Abbey aprì per la prima volta le porte al pubblico il 27 dicembre 1904 e, nonostante la sua sede originaria venisse distrutta da un incendio nel 1951, esso continuò a rappresentare allestimenti teatrali fino ai giorni nostri con una cadenza più o meno costante.</rdfs:comment>
+    <grs:point xml:lang="en">53.348333333333336 -6.2572222222222225</grs:point>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-6.25722 53.3483)</geo:geometry>
+    <dbpedia-owl:abstract xml:lang="fr">L’Abbey Theatre (« Théâtre de l’Abbaye » en français, parfois surnommé « l’Abbaye ») et également désigné sous le nom de National Theatre of Ireland (Théâtre national d’Irlande), est une salle de théâtre située à Dublin, en Irlande. L’institution a ouvert ses portes au public le 27 décembre 1904 et a pu poursuivre ses activités jusqu’à aujourd’hui sans interruption majeure, malgré la destruction de ses locaux historiques par un incendie en 1951. L’Abbey Theatre est le premier théâtre du monde anglo-saxon à avoir été financé par des aides publiques : la subvention annuelle nécessaire à son fonctionnement est versée depuis 1925 par la République d'Irlande. À l’origine, l’endroit était étroitement associé au mouvement littéraire de la Renaissance irlandaise, dont de nombreux représentants participèrent à la fondation de l’institution en y faisant jouer leurs pièces de théâtre. L’Abbaye fut ainsi le berceau de la plupart des grands dramaturges ou acteurs irlandais du XX siècle. Depuis, l’Abbaye a engagé une politique active en matière de tournées à l’étranger, en particulier auprès du public nord-américain, ce qui a contribué à renforcer sa visibilité internationale et à en faire une véritable attraction touristique en Irlande.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fi">Abbey Theatre on Irlannin kansallisteatteri, joka toimii Dublinissa. Se avattiin vuonna 1904, ja on toiminut siitä alkaen jokseenkin yhtäjaksoisesti, vaikka sen alkuperäinen rakennus tuhoutui tulipalossa vuonna 1951. Abbety Theatre oli englanninkielisen maailman ensimmäinen julkisella rahoituksella tuettu teatteri. Monet irlantilaisen kirjallisuuden tärkeimmistä nimistä ovat tuoneet teoksiaan julkisuuteen Abbey Theatressa.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Θέατρο_Άμπι"/>
+    <dbpedia-owl:abstract xml:lang="de">Das Abbey Theatre (irisch Amharclann na Mainistreach) ist das irische Nationaltheater in Dublin, Irland. Es wurde 1898 gegründet, um Werke irischer Autoren und irischer Thematik zu zeigen und zu einer kulturellen Identität Irlands beizutragen. Es erhält seit 1925 Subventionen der irischen Regierung und ist somit das erste staatlich subventionierte Theater der englischsprachigen Welt. Nach einem Brand 1951 nutzte das Ensemble das Queen’s Theatre, bis 1966 das Abbey Theatre wieder aufgebaut werden konnte und heute Platz für 628 Zuschauer bietet. Der Dichter William Butler Yeats und die Schriftstellerin Isabella Augusta Gregory waren Gründer und Direktoren des Theaters, in dem am 27. Dezember 1904 das erste Stück aufgeführt wurde. In den Anfangsjahren war das Theater eng mit den Schriftstellern der irischen Renaissance (auch Celtic Revival) verbunden und diente als Bühne für viele irische Dramatiker und Schauspieler des 20. Jahrhunderts. Zusätzlich haben die vielen Gastspiele im Ausland, insbesondere in Nordamerika dazu beigetragen, dass das Theater ein wichtiger Träger des irischen Tourismus ist. Im Abbey Theatre wurden Stücke irischer Schriftsteller uraufgeführt, darunter Werke von Yeats und Gregory sowie von John Millington Synge, George William Russell und Sean O’Casey. Es ist bekannt für seine Produktionen von Werken aus dem frühen 20. Jahrhundert. Aber in den letzten Jahren werden auch junge Künstler und Schauspielschüler gefördert, im Abbey Theatre befindet sich eine eigene Experimentierbühne, das Peacock Theatre, wo Stücke der Abbey School of Acting aufgeführt werden. Das Abbey Theatre zeigt zudem Stücke in irischer Sprache.</dbpedia-owl:abstract>
+    <dbpedia-owl:address xml:lang="en">26 Lower Abbey Street</dbpedia-owl:address>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.irishdemocrat.co.uk/features/irish-theatre/"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/6/6c/Abbey_Theatre_exterior.jpg"/>
+    <rdfs:comment xml:lang="sv">Abbey Theatre, teater i Dublin, invigd 1904. Den blev ett centrum för den irländska dramatikens förnyelse under 1900-talet. Från 1925 är den statsunderstödd med status av irländsk nationalscen.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/애비_극장"/>
+    <rdfs:comment xml:lang="ja">アベイ座 （The Abbey Theatre、アイルランド語：Amharclann na Mainistreach）は、アイルランド国立劇場（Amharclann Náisiúnta na hÉireann）として知られる、アイルランド・ダブリンの劇場。 1904年12月27日に第一回公演が行われた。1951年7月の火事で原型の建物を焼失したが、再建して現在も上演を続けている。アベイ座は、英語圏の劇場で初めて国の補助金を受けた劇場である。 当初、劇場は創設に関わり上演作品を生み出したアイルランド文芸復興運動の作家たちと密接に結びついていた。アベイ座はアイルランド演劇と20世紀の俳優たちの養成所であった。ウィリアム・バトラー・イェイツ、オーガスタ・グレゴリー、ショーン・オケイシー、ジョン・ミリントン・シングら詩人・劇作家が作品を提供した。加えて、外国公演も行い北米からの観客も呼び込むことから、アイルランド観光産業の牽引役ともなっている。 1902年にイェイツを会長として創立されたアイルランド国民演劇協会が母体である。翌1903年にロンドン公演を行った際、紅茶商として成功したホーニマン家の一員であるアニー・ホーニマンが、『もしこの劇団が今後一年以上存続するならば』という条件で、本拠地のない彼らに劇場を一つ提供しようと申し出た。1903年、ホーニマンが提供した1,300ポンドの資金を元に、イェイツ、グレゴリー夫人、ジョージ・ウィリアム・ラッセル、エドワード・マーティン、シングらが集まりアイルランド国立演劇協会を設立。ローワー・アベイ街にあった寄席劇場と、その隣にあった空いた建物とを買い取って改装し、アベイ座と名付けられた。1904年12月27日の初演では、イェイツの『バレの磯』、グレゴリー夫人の『うわさのひろまり』が上演された。次第に大成功を収めるようになっていったアベイ座は、劇作家のための劇場という名声も獲得した。 1951年の失火で劇場を焼失後、本拠地を古いクイーン座へ移して1966年まで活動。1961年にかつてのアベイ座の焼け跡が取り壊され、1963年から再建を開始。当時の大統領エイモン・デ・ヴァレラが劇場の基礎石を置いた。1966年に新劇場完成。 　焼失前の旧アベイ座の姿はキングス・カレッジ・ロンドン、ダブリンのトリニティ・カレッジ、及びダブリンのデジタルグラフィック企業NOHOの協働作業による学術プロジェクトAbbey Theatre, 1904によってデジタル復元されており、3D画像で内装を見ることができる。</rdfs:comment>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-6.25722</geo:long>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:National_theatres"/>
+    <dbpprop:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#int">600</dbpprop:capacity>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.3483</geo:lat>
+    <rdfs:comment xml:lang="de">Das Abbey Theatre (irisch Amharclann na Mainistreach) ist das irische Nationaltheater in Dublin, Irland. Es wurde 1898 gegründet, um Werke irischer Autoren und irischer Thematik zu zeigen und zu einer kulturellen Identität Irlands beizutragen. Es erhält seit 1925 Subventionen der irischen Regierung und ist somit das erste staatlich subventionierte Theater der englischsprachigen Welt.</rdfs:comment>
+    <rdfs:comment xml:lang="ko">애비 극장(Abbey Theatre)은 아일랜드 더블린에 위치한 극장이다.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="pt">O Abbey Theatre, também conhecido como National Theatre of Ireland (Teatro Nacional da Irlanda), está localizado em Dublin. O teatro Abbey teve a sua inauguração a 27 de Dezembro de 1904 e, apesar de o edifício original ter sido destruído num incêndio em 1951, continuou a apresentar espectáculos de forma mais ou menos continuada até aos dias de hoje. Foi o primeiro teatro subsidiado pelo estado no mundo anglófono - de facto, desde 1925 que recebe um subsídio anual do Estado Livre Irlandês.</dbpedia-owl:abstract>
+    <dbpprop:architect rdf:resource="http://dbpedia.org/resource/Michael_Scott_(architect)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Abbey_Theatre"/>
+    <rdfs:comment xml:lang="pl">Abbey Theatre, znany także jako National Theatre of Ireland, irl. Amharclann na Mainistreach – teatr w Dublinie, działający od 27 grudnia 1904 do czasów obecnych, z przerwą spowodowaną pożarem oryginalnego budynku w 1951 roku. The Abbey był pierwszym dotowanym ze środków publicznych teatrem w anglojęzycznym świecie; od 1925 roku był subsydiowany przez Wolne Państwo Irlandzkie. W Abbey Theatre swoją karierę rozpoczęło też wielu irlandzkich aktorów i pisarzy.</rdfs:comment>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Abbey_Theatre?oldid=494985582"/>
+    <rdfs:comment xml:lang="pt">O Abbey Theatre, também conhecido como National Theatre of Ireland (Teatro Nacional da Irlanda), está localizado em Dublin. O teatro Abbey teve a sua inauguração a 27 de Dezembro de 1904 e, apesar de o edifício original ter sido destruído num incêndio em 1951, continuou a apresentar espectáculos de forma mais ou menos continuada até aos dias de hoje. Foi o primeiro teatro subsidiado pelo estado no mundo anglófono - de facto, desde 1925 que recebe um subsídio anual do Estado Livre Irlandês.</rdfs:comment>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdfs:comment xml:lang="ca">L'Amharclann na Mainistreach (en irlandès) o Abbey Theatre (en anglès), (Teatre de l'Abadia); també anomenat National Theatre of Ireland (Teatre Nacional d'Irlanda) és una sala teatral situada a Dublín,. Va obrir les seves portes al públic el 27 de desembre de 1904 i ha continuat la seva activitat fins els nostres dies, malgrat l'incendi que va patir l'any 1951 en la seva seu històrica. Aquest teatre és el primer teatre del món anglosaxó que va ser financiat amb ajuts públics.</rdfs:comment>
+    <dbpedia-owl:architect rdf:resource="http://dbpedia.org/resource/Michael_Scott_(architect)"/>
+    <dbpedia-owl:abstract xml:lang="en">The Abbey Theatre (Irish: Amharclann na Mainistreach), also known as the National Theatre of Ireland (Irish: Amharclann Náisiúnta na hÉireann), is a theatre located in Dublin, Ireland. The Abbey first opened its doors to the public on 27 December 1904. Despite losing its original building to a fire in 1951, it has remained active to the present day. The Abbey was the first state-subsidized theatre in the English-speaking world; from 1925 onwards it received an annual subsidy from the Irish Free State. Since July 1966, the Abbey has been located at 26 Lower Abbey Street, Dublin 1. A theatre or circus has stood on this site on Lower Abbey Street since at least the early 19th century. In the mid-19th century, at the urging of Dublin's gentry, John Classon, an upper-class merchant, acquired the buildings then on the site, one of which had housed a circus, in order to establish a joint concert hall and civic institution for the lower classes. The Music Hall, which could seat 4000 persons, in addition to hosting concerts, frequently hosted popular variety entertainments like Pablo Fanque's Circus Royal. In the late 19th Century the Music Hall was renamed the Mechanics' Theatre, after the adjacent Mechanics' Institute. The theatre was also known during this time as the Hibernian Theatre of Varieties, a name it retained until the building was acquired for Abbey Theatre at the beginning of the 20th Century. In its early years, the theatre was closely associated with the writers of the Irish Literary Revival, many of whom were involved in its founding and most of whom had plays staged there. The Abbey served as a nursery for many of the leading Irish playwrights and actors of the 20th century, including William Butler Yeats, Augusta, Lady Gregory, Sean O'Casey and John Millington Synge. In addition, through its extensive programme of touring abroad and its high visibility to foreign, particularly American, audiences, it has become an important part of the Irish tourist industry.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="en">Abbey Theatre</rdfs:label>
+    <dbpprop:othernames xml:lang="en">Ireland's National Theatre</dbpprop:othernames>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://archives.lib.siu.edu/index.php?p=collections/controlcard&amp;id=487"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Abbey_Theatre"/>
+    <dbpprop:website xml:lang="en">abbeytheatre.ie</dbpprop:website>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_theatre"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Abbey_Theatre"/>
+    <dbpedia-owl:abstract xml:lang="ca">L'Amharclann na Mainistreach (en irlandès) o Abbey Theatre (en anglès), (Teatre de l'Abadia); també anomenat National Theatre of Ireland (Teatre Nacional d'Irlanda) és una sala teatral situada a Dublín,. Va obrir les seves portes al públic el 27 de desembre de 1904 i ha continuat la seva activitat fins els nostres dies, malgrat l'incendi que va patir l'any 1951 en la seva seu històrica. Aquest teatre és el primer teatre del món anglosaxó que va ser financiat amb ajuts públics.</dbpedia-owl:abstract>
+    <dbpprop:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.rte.ie/news/2004/0914/abbey.html"/>
+    <dbpedia-owl:abstract xml:lang="it">L'Abbey Theatre è un gruppo teatrale irlandese. Esso è anche noto come National Theatre of Ireland, ed è situato a Dublino, Irlanda. L'Abbey aprì per la prima volta le porte al pubblico il 27 dicembre 1904 e, nonostante la sua sede originaria venisse distrutta da un incendio nel 1951, esso continuò a rappresentare allestimenti teatrali fino ai giorni nostri con una cadenza più o meno costante. L'Abbey fu il primo teatro sovvenzionato con fondi statali nel mondo di lingua anglosassone e dal 1925 in poi esso riceve una sussidio annuale dalla Repubblica d'Irlanda. Nei suoi primi anni di attività, il teatro ebbe stretti legami con gli autori del Celtic revival, e molti di essi furono coinvolti nella sua fondazione e nella rappresentazione delle loro opere sui palcoscenici del teatro. L'Abbey funse da palestra per molti importanti attori teatrali irlandesi del XX secolo. Oltre a ciò, grazie al suo ampio programma di tournée di spettacoli all'estero, soprattutto in Nord America, esso è diventato un'importante attrazione turistica dell'industria del turismo irlandese.</dbpedia-owl:abstract>
+    <dbpprop:rebuilt rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1965</dbpprop:rebuilt>
+    <dbpedia-owl:abstract xml:lang="zh">艾比剧院，又名爱尔兰国立剧院，位于爱尔兰的首都都柏林。艾比剧院在1904年12月27日开门，虽然1951年大火烧毁原来得建筑，修建时也继续进行演出。艾比剧院是英语世界中第一个由国家补贴的剧院，从1925年开始。 早期的艾比剧院与“爱尔兰文艺复兴”运动的作家们联系密切，他们参与了剧院的成立，提供了剧本。剧院培育了许多二十世纪的爱尔兰戏剧作家和演员。此外，由于广泛的国外演出，特别是对北美观众，剧院成了爱尔兰旅游的重要部分。</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://web.archive.org/web/20041028001906/http:/www.rte.ie/culture/millennia/people/johnstondenis.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Theatre"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Theatres_in_Dublin_(city)"/>
+    <dbpedia-owl:abstract xml:lang="ko">애비 극장(Abbey Theatre)은 아일랜드 더블린에 위치한 극장이다.</dbpedia-owl:abstract>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Abbey_Theatre"/>
+    <dbpprop:caption xml:lang="en">Front facade</dbpprop:caption>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Abbey_Theatre_exterior.jpg/200px-Abbey_Theatre_exterior.jpg"/>
+    <dbpedia-owl:openingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1904-01-01T00:00:00+02:00</dbpedia-owl:openingYear>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Abbey_Theatre"/>
+    <rdfs:comment xml:lang="ru">Театр Аббатства — национальный ирландский театр, основан в 1904 году, находится в Дублине. Театр впервые открыл свои двери 27 декабря 1904 года. Он является одним из первых театров, финансируемых из средств государственного бюджета. Начиная с 1925 года Театр Аббатства существует за счёт Ирландского Свободного государства. Основное здание театра сгорело при пожаре 1951 года. С июля 1966 года театр располагается по адресу 26 Lower Abbey Street, Dublin.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Building"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Abbey_Theatre"/>
+    <dbpedia-owl:locationCity rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure"/>
+    <dbpedia-owl:seatingCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">600</dbpedia-owl:seatingCapacity>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Abbey_Theatre"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.abbeytheatre.ie/"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Abbey_Theatre"/>
+    <rdfs:label xml:lang="ca">Amharclann na Mainistreach</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NationalTheatres"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Abbey_Theatre"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.rte.ie/news/2004/0907/abbey.html"/>
+    <foaf:name xml:lang="en">Abbey Theatre</foaf:name>
+    <dbpprop:address rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26</dbpprop:address>
+    <rdfs:comment xml:lang="fr">L’Abbey Theatre (« Théâtre de l’Abbaye » en français, parfois surnommé « l’Abbaye ») et également désigné sous le nom de National Theatre of Ireland (Théâtre national d’Irlande), est une salle de théâtre située à Dublin, en Irlande. L’institution a ouvert ses portes au public le 27 décembre 1904 et a pu poursuivre ses activités jusqu’à aujourd’hui sans interruption majeure, malgré la destruction de ses locaux historiques par un incendie en 1951.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="ja">アベイ座 （The Abbey Theatre、アイルランド語：Amharclann na Mainistreach）は、アイルランド国立劇場（Amharclann Náisiúnta na hÉireann）として知られる、アイルランド・ダブリンの劇場。 1904年12月27日に第一回公演が行われた。1951年7月の火事で原型の建物を焼失したが、再建して現在も上演を続けている。アベイ座は、英語圏の劇場で初めて国の補助金を受けた劇場である。 当初、劇場は創設に関わり上演作品を生み出したアイルランド文芸復興運動の作家たちと密接に結びついていた。アベイ座はアイルランド演劇と20世紀の俳優たちの養成所であった。ウィリアム・バトラー・イェイツ、オーガスタ・グレゴリー、ショーン・オケイシー、ジョン・ミリントン・シングら詩人・劇作家が作品を提供した。加えて、外国公演も行い北米からの観客も呼び込むことから、アイルランド観光産業の牽引役ともなっている。 1902年にイェイツを会長として創立されたアイルランド国民演劇協会が母体である。翌1903年にロンドン公演を行った際、紅茶商として成功したホーニマン家の一員であるアニー・ホーニマンが、『もしこの劇団が今後一年以上存続するならば』という条件で、本拠地のない彼らに劇場を一つ提供しようと申し出た。1903年、ホーニマンが提供した1,300ポンドの資金を元に、イェイツ、グレゴリー夫人、ジョージ・ウィリアム・ラッセル、エドワード・マーティン、シングらが集まりアイルランド国立演劇協会を設立。ローワー・アベイ街にあった寄席劇場と、その隣にあった空いた建物とを買い取って改装し、アベイ座と名付けられた。1904年12月27日の初演では、イェイツの『バレの磯』、グレゴリー夫人の『うわさのひろまり』が上演された。次第に大成功を収めるようになっていったアベイ座は、劇作家のための劇場という名声も獲得した。 1951年の失火で劇場を焼失後、本拠地を古いクイーン座へ移して1966年まで活動。1961年にかつてのアベイ座の焼け跡が取り壊され、1963年から再建を開始。当時の大統領エイモン・デ・ヴァレラが劇場の基礎石を置いた。1966年に新劇場完成。 　焼失前の旧アベイ座の姿はキングス・カレッジ・ロンドン、ダブリンのトリニティ・カレッジ、及びダブリンのデジタルグラフィック企業NOHOの協働作業による学術プロジェクトAbbey Theatre, 1904によってデジタル復元されており、3D画像で内装を見ることができる。</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="fi">Abbey Theatre on Irlannin kansallisteatteri, joka toimii Dublinissa. Se avattiin vuonna 1904, ja on toiminut siitä alkaen jokseenkin yhtäjaksoisesti, vaikka sen alkuperäinen rakennus tuhoutui tulipalossa vuonna 1951. Abbety Theatre oli englanninkielisen maailman ensimmäinen julkisella rahoituksella tuettu teatteri. Monet irlantilaisen kirjallisuuden tärkeimmistä nimistä ovat tuoneet teoksiaan julkisuuteen Abbey Theatressa.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/uk_news/story/0,3604,1299214,00.html"/>
+    <rdfs:comment xml:lang="zh">艾比剧院，又名爱尔兰国立剧院，位于爱尔兰的首都都柏林。艾比剧院在1904年12月27日开门，虽然1951年大火烧毁原来得建筑，修建时也继续进行演出。艾比剧院是英语世界中第一个由国家补贴的剧院，从1925年开始。 早期的艾比剧院与“爱尔兰文艺复兴”运动的作家们联系密切，他们参与了剧院的成立，提供了剧本。剧院培育了许多二十世纪的爱尔兰戏剧作家和演员。此外，由于广泛的国外演出，特别是对北美观众，剧院成了爱尔兰旅游的重要部分。</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.rte.ie/news/2005/0513/abbey.html"/>
+    <dbpedia-owl:abstract xml:lang="ru">Театр Аббатства — национальный ирландский театр, основан в 1904 году, находится в Дублине. Театр впервые открыл свои двери 27 декабря 1904 года. Он является одним из первых театров, финансируемых из средств государственного бюджета. Начиная с 1925 года Театр Аббатства существует за счёт Ирландского Свободного государства. Основное здание театра сгорело при пожаре 1951 года. С июля 1966 года театр располагается по адресу 26 Lower Abbey Street, Dublin. У истоков театра стояли Уильям Батлер Йейтс и леди Огаста Грегори.</dbpedia-owl:abstract>
+    <dbpedia-owl:rebuildingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1965-01-01T00:00:00+02:00</dbpedia-owl:rebuildingYear>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <dbpprop:owner xml:lang="en">Abbey Theatre Limited</dbpprop:owner>
+    <dbpedia-owl:formerName xml:lang="en">Ireland's National Theatre</dbpedia-owl:formerName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TheatresInTheRepuBlicOfIreland"/>
+    <dbpedia-owl:abstract xml:lang="nl">Het Abbey Theatre, ook bekend als het Nationaal Theater van Ierland, is een theater in Dublin. Het theater werd geopend op 27 december 1904 en is tot op de dag van vandaag open gebleven, ondanks dat het originele gebouw in 1951 door brand werd verwoest. Het Abbey Theatre was het eerste door de overheid gesubsidieerde theater in de Engelssprekende wereld; sinds 1925 krijgt het jaarlijks subsidie van de Ierse Vrijstaat. Het huidige gebouw bevindt zich aan 26 Lower Abbey Street, Dublin 1. Het Abbey Theatre kwam voort uit het Irish Literary Theatre, opgericht door Lady Gregory, Edward Martyn en William Butler Yeats in 1899—met hulp van George Augustus Moore. In de beginjaren was het theater nauw verbonden met de schrijvers van de Ierse literaire heropleving. Het theater speelde een belangrijke rol in de carrière van veel bekende Ierse toneelschrijvers en acteurs uit de 20e eeuw, waaronder William Butler Yeats en Sean O'Casey. Het kreeg tevens de reputatie van “schrijverstheater”; een theater waar nieuwe toneelschrijvers hun stukken konden presenteren. Het theater was in de beginjaren reeds een groot succes, maar kreeg ook veel kritiek te verwerken van met name Ierse nationalisten. Vooral het toneelstuk The Playboy of the Western World werd door hen gezien als bewijs dat het theater een slechte invloed had op de Ierse cultuur. In 1924 boden Yeats en Lady Gregory het theater aan de overheid van de Ierse Vrijstaat aan, als een soort geschenk voor het Ierse volk. De overheid weigerde eerst, maar startte het jaar erop wel met de jaarlijkse subsidie. Tevens heeft het theater tegenwoordig een belangrijke toeristische functie.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="es">El Teatro Abbey (The Abbey Theatre en inglés), también conocido como el Teatro Nacional de Irlanda, está ubicado en Dublín, Irlanda. El Abbey abrió por primera vez sus puertas al público el 27 de diciembre de 1904 y a pesar de perder su edificio original tras un incendio en 1951, continuó presentando obras más o menos continuamente hasta el presente.</rdfs:comment>
+    <dbpedia-owl:locationCountry rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <dbpedia-owl:abstract xml:lang="sv">Abbey Theatre, teater i Dublin, invigd 1904. Den blev ett centrum för den irländska dramatikens förnyelse under 1900-talet. Från 1925 är den statsunderstödd med status av irländsk nationalscen.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Театр_Аббатства"/>
+    <dbpprop:name xml:lang="en">Abbey Theatre</dbpprop:name>
+    <rdfs:label xml:lang="zh">艾比剧院</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Abbey_Theatre">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Abbey_Theatre">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/All_the_King's_Horses_(play)">
+    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irish_National_Theatre">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+  </rdf:Description>
+</rdf:RDF>

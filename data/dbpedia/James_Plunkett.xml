@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/James_Plunkett">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/James_Plunkett"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/James_Plunkett">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/James_Plunkett"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strumpet_City">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/James_Plunkett"/>
+    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Plunkett"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Plunkett">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://archives.tcm.ie/businesspost/2003/06/01/story354929283.asp"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <foaf:surname xml:lang="en">Plunkett</foaf:surname>
+    <foaf:givenName xml:lang="en">James</foaf:givenName>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
+    <dbpedia-owl:birthName xml:lang="en">James Plunkett Kelly</dbpedia-owl:birthName>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</dbpprop:dateOfDeath>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.irishwriters-online.com/plunkett-james/"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromDuBlin(city)"/>
+    <rdfs:label xml:lang="en">James Plunkett</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishNovelists"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://biography.jrank.org/pages/4666/Plunkett-James.html"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.039jbc"/>
+    <dbpprop:birthName xml:lang="en">James Plunkett Kelly</dbpprop:birthName>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/James_Plunkett"/>
+    <foaf:name xml:lang="en">James Plunkett</foaf:name>
+    <dbpprop:nationality rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1920_births"/>
+    <dbpprop:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">150</dbpprop:imagesize>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Dublin_(city)"/>
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Playwright"/>
+    <dbpprop:pseudonym xml:lang="en">James Plunkett</dbpprop:pseudonym>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-05-28</dbpprop:deathDate>
+    <dbpedia-owl:nationality rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_short_story_writers"/>
+    <dbpprop:occupation rdf:resource="http://dbpedia.org/resource/Playwright"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-05-28</dbpedia-owl:deathDate>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2003_deaths"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <dbpprop:name xml:lang="en">James Plunkett</dbpprop:name>
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Writer"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishShortStoryWriters"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/James_Plunkett"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-05-21</dbpprop:birthDate>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpedia-owl:abstract xml:lang="en">James Plunkett Kelly, or James Plunkett (21 May 1920 - 28 May 2003), was an Irish writer. He was educated at Synge Street CBS. Plunkett grew up among the Dublin working class and they, along with the petty bourgeoisie and lower intelligentsia, make up the bulk of the dramatis personae of his oeuvre. His best-known works are the novel Strumpet City, set in Dublin in the years leading up to the lockout of 1913 and during the course of the strike, and the short stories in the collection The Trusting and the Maimed. His other works include a radio play on James Larkin, who figures prominently in his work. During the 1960s, Plunkett worked as a producer at Telefís Éireann. He won two Jacob's Awards, in 1965 and 1969, for his TV productions. He was a member of Aosdana.</dbpedia-owl:abstract>
+    <dbpedia-owl:pseudonym xml:lang="en">James Plunkett</dbpedia-owl:pseudonym>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_novelists"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <dbpprop:name xml:lang="en">Plunkett, James</dbpprop:name>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-05-21</dbpedia-owl:birthDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_dramatists_and_playwrights"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishDramatistsAndPlaywrights"/>
+    <rdfs:comment xml:lang="en">James Plunkett Kelly, or James Plunkett (21 May 1920 - 28 May 2003), was an Irish writer. He was educated at Synge Street CBS. Plunkett grew up among the Dublin working class and they, along with the petty bourgeoisie and lower intelligentsia, make up the bulk of the dramatis personae of his oeuvre.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jacob's_Award_winners"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/James_Plunkett?oldid=485359921"/>
+    <dbpprop:occupation rdf:resource="http://dbpedia.org/resource/Writer"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ireland-writers.com/PlunkettAward.htm"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plunkett">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/James_Plunkett"/>
+  </rdf:Description>
+</rdf:RDF>

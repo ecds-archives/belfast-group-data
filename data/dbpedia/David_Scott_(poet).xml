@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Scott_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/David_Scott_(poet)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Scott_(priest,_poet)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Scott_(poet)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Scott_(poet)">
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/David_Scott_(poet)"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/David_Scott_(poet)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bloodaxebooks.com/personpage.asp?author=David+Scott"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.jrank.org/literature/pages/9993/David-Scott.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Durham_University"/>
+    <dbpedia-owl:abstract xml:lang="en">Reverend Canon Dr David Scott is a Church of England priest, poet, playwright and spiritual writer. David Victor Scott was born in Cambridge, England, in 1947. He was educated at Solihull School, then studied Theology at Durham University and at Cuddesdon College. After ordination he spent two years as curate at Harlow, then was appointed chaplain at Haberdashers' Aske's School. In 1980 he became vicar of Torpenhow and Allhallows in Cumbria, and in 1991 moved to Winchester to become rector of St Lawrence with St Swithun-upon-Kingsgate. Canon Scott retired in September 2010 and now lives in Cumbria. Canon Scott is an Honorary Canon of Winchester Cathedral and an honorary fellow of the University of Winchester. In 2008 the Archbishop of Canterbury conferred on David Scott a Lambeth Degree Doctorate of Letters (DLitt).</dbpedia-owl:abstract>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1947</dbpprop:dateOfBirth>
+    <foaf:givenName xml:lang="en">David</foaf:givenName>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfDurhamUniversity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
+    <foaf:name xml:lang="en">David Scott</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HoldersOfALambethDegree"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.getnoticedonline.co.uk/news/general-news/award-winning-vicar-poet-to-retire-to-cumbria.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.facultyoffice.org.uk/degrees.html"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0cn_cmx"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1947_births"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Holders_of_a_Lambeth_degree"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://portal.winchester.ac.uk/Pages/Print.aspx?page=5779&amp;module=7295"/>
+    <rdfs:comment xml:lang="en">Reverend Canon Dr David Scott is a Church of England priest, poet, playwright and spiritual writer. David Victor Scott was born in Cambridge, England, in 1947. He was educated at Solihull School, then studied Theology at Durham University and at Cuddesdon College. After ordination he spent two years as curate at Harlow, then was appointed chaplain at Haberdashers' Aske's School.</rdfs:comment>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/David_Scott_(poet)?oldid=491672181"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:surname xml:lang="en">Scott</foaf:surname>
+    <dbpprop:name xml:lang="en">Scott, David</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPoets"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/David_Scott_(poet)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/David_Scott_(poet)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/David_Scott_%28poet%29">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/David_Scott_(poet)"/>
+  </rdf:Description>
+</rdf:RDF>

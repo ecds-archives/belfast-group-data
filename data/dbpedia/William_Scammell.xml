@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Scammell">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AcademicsOfNottinghamTrentUniversity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/William_Scammell?oldid=491701468"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_Newcastle_University"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06w8ycv"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1939_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AcademicsOfNewcastleUniversity"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_Nottingham_Trent_University"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1939-01-02</dbpedia-owl:birthDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_poets"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Southampton"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTheUniversityOfBristol"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromSouthampton"/>
+    <dbpprop:name xml:lang="en">Scammell, William</dbpprop:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.enotes.com/contemporary-literary-criticism/pinter-harold-vol-188/william-scammell-review-date-31-october-1998"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Bristol"/>
+    <rdfs:comment xml:lang="en">William Scammell (2 January 1939 Southampton – 29 November 2000) was a British poet.</rdfs:comment>
+    <foaf:surname xml:lang="en">Scammell</foaf:surname>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-11-29</dbpedia-owl:deathDate>
+    <dbpedia-owl:abstract xml:lang="en">William Scammell (2 January 1939 Southampton – 29 November 2000) was a British poet.</dbpedia-owl:abstract>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/William_Scammell"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2000_deaths"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishPoets"/>
+    <foaf:givenName xml:lang="en">William</foaf:givenName>
+    <foaf:name xml:lang="en">William Scammell</foaf:name>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">29</dbpprop:dateOfDeath>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/William_Scammell"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/William_Scammell">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/William_Scammell"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/William_Scammell">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/William_Scammell"/>
+  </rdf:Description>
+</rdf:RDF>

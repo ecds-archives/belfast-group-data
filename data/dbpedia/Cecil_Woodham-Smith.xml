@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Cecil_Woodham-Smith">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cecil_Woodham-Smith"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Cecil_Woodham-Smith">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Cecil_Woodham-Smith"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecil">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Cecil_Woodham-Smith"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecil_Woodham-Smith">
+    <foaf:givenName xml:lang="en">Cecil</foaf:givenName>
+    <dbpedia-owl:abstract xml:lang="en">Cecil Blanche Woodham-Smith (née Fitzgerald) (29 April 1896 – 16 March 1977) was a British historian and biographer. She wrote four popular history books, each dealing with a different aspect of the Victorian era.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfStHilda'sCollege,Oxford"/>
+    <dbpprop:shortDescription xml:lang="en">British historian</dbpprop:shortDescription>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishHistorians"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1896-04-29</dbpedia-owl:birthDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1896_births"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Cecil_Woodham-Smith"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Cecil_Woodham-Smith"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_Irish_descent"/>
+    <foaf:surname xml:lang="en">Woodham-Smith</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_the_Royal_High_School,_Bath"/>
+    <dbpprop:name xml:lang="en">Woodham-Smith, Cecil</dbpprop:name>
+    <rdfs:label xml:lang="en">Cecil Woodham-Smith</rdfs:label>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1977-03-16</dbpedia-owl:deathDate>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">29</dbpprop:dateOfBirth>
+    <dc:description xml:lang="en">British historian</dc:description>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0698qm"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.users.drew.edu/wrogers/famine.html/Reference"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_biographers"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Tenby"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_historians"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1977_deaths"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Great_Famine_(Ireland)"/>
+    <foaf:name xml:lang="en">Cecil Woodham-Smith</foaf:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.librarything.com/author/woodhamsmithcecil"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Cecil_Woodham-Smith?oldid=494385804"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishBiographers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_biographers"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</dbpprop:dateOfDeath>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_St_Hilda's_College,_Oxford"/>
+    <rdfs:comment xml:lang="en">Cecil Blanche Woodham-Smith (née Fitzgerald) (29 April 1896 – 16 March 1977) was a British historian and biographer. She wrote four popular history books, each dealing with a different aspect of the Victorian era.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Great_Hunger:_Ireland_1845-1849">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Cecil_Woodham-Smith"/>
+    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Cecil_Woodham-Smith"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woodham">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Cecil_Woodham-Smith"/>
+  </rdf:Description>
+</rdf:RDF>

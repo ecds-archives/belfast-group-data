@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Cabin_Hill">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cabin_Hill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cabin_Hill">
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Belfast"/>
+    <dbpedia-owl:motto xml:lang="en">To strive, to seek, to find and not to yield</dbpedia-owl:motto>
+    <dbpprop:motto xml:lang="en">To strive, to seek, to find and not to yield</dbpprop:motto>
+    <dbpedia-owl:type rdf:resource="http://dbpedia.org/resource/Primary_school"/>
+    <dbpprop:enrollment rdf:datatype="http://www.w3.org/2001/XMLSchema#int">358</dbpprop:enrollment>
+    <dbpprop:lea rdf:resource="http://dbpedia.org/resource/Education_in_Northern_Ireland"/>
+    <dbpedia-owl:closingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2006-01-01T00:00:00+02:00</dbpedia-owl:closingYear>
+    <rdfs:comment xml:lang="en">Cabin Hill was a private primary school in Belfast, Northern Ireland, which closed in 2006. Its pupils transferred to the new preparatory department at Campbell College. Cabin Hill was acquired as the junior school of Campbell College in 1924, and was situated in the Knock area of east Belfast, close to Stormont. The main administrative part of the school dates from 1850 and has been a listed building since 2002.</rdfs:comment>
+    <dbpprop:closed rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2006</dbpprop:closed>
+    <dbpedia-owl:officialSchoolColour xml:lang="en">Black, green &amp; white</dbpedia-owl:officialSchoolColour>
+    <dbpedia-owl:numberOfStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">358</dbpedia-owl:numberOfStudents>
+    <dbpedia-owl:localAuthority rdf:resource="http://dbpedia.org/resource/Education_in_Northern_Ireland"/>
+    <dbpprop:name xml:lang="en">Cabin Hill</dbpprop:name>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_UK_school"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Belfast"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Cabin_Hill"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution"/>
+    <dbpedia-owl:foundingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1924-01-01T00:00:00+02:00</dbpedia-owl:foundingYear>
+    <dbpedia-owl:abstract xml:lang="en">Cabin Hill was a private primary school in Belfast, Northern Ireland, which closed in 2006. Its pupils transferred to the new preparatory department at Campbell College. Cabin Hill was acquired as the junior school of Campbell College in 1924, and was situated in the Knock area of east Belfast, close to Stormont. The main administrative part of the school dates from 1850 and has been a listed building since 2002. It served as the residence of the first Prime Minister of Northern Ireland, James Craig, from 1920 to 1922 and also contained the Cabinet Room. In 2001 plans to sell Cabin Hill's site to property developers were initially put on hold after protests from local residents and the Ulster Architectural Heritage Society. However, the site was sold for £4m and the prep department moved to a new purpose built facility within the grounds of Campbell. In the early 1990s the school educated pupils (only boys) from the ages of 4-13. The vast majority of pupils went on to the senior school, Campbell College, however the school was officially a preparatory school and some school leavers attended other public schools. In its final years the school shrunk in size considerably as many pupils and teachers transferred to the new junior department of Campbell. Following complaints made by past pupils, an inquiry was launched into alleged sexual abuse at Cabin Hill. The allegations stated that a 13 year old boarding pupil abused younger boys in the 1990s. The boy, who was a prefect at the time, was formally cautioned by the Police Service of Northern Ireland in 2002. A 2005 report into the abuse heavily criticized the school, as it was found that the headmaster at the time was aware of the abuse, but failed to take proper action. The boarding department of Cabin Hill closed in 2004.</dbpedia-owl:abstract>
+    <dbpprop:type rdf:resource="http://dbpedia.org/resource/Primary_school"/>
+    <dbpprop:colours xml:lang="en">Black, green &amp; white</dbpprop:colours>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/School"/>
+    <dbpprop:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">100</dbpprop:size>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Cabin_Hill"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Cabin_Hill?oldid=492423693"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PrimarySchoolsInBelfast"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Primary_schools_in_Belfast"/>
+    <dbpprop:country rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/5/55/Cabin_Hill_Crest.jpg"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Defunct_schools_in_Northern_Ireland"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0fs7s_"/>
+    <dbpprop:established rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1924</dbpprop:established>
+    <dbpprop:head xml:lang="en">Ms Hazel Rowan</dbpprop:head>
+    <rdf:type rdf:resource="http://schema.org/School"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.campbellcollege.co.uk/"/>
+    <foaf:name xml:lang="en">Cabin Hill</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/School_AcademicOrganization"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Cabin_Hill_Crest.jpg/200px-Cabin_Hill_Crest.jpg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DefunctSchoolsInNorthernIreland"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <rdfs:label xml:lang="en">Cabin Hill</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ballyhack.co.uk/"/>
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization"/>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Cabin_Hill">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Cabin_Hill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cabin">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Cabin_Hill"/>
+  </rdf:Description>
+</rdf:RDF>

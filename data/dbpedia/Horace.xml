@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quintus_Horatius_Flaccus">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philodemus">
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Horace"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Horace">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Perpessicius">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Horace"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_Fondane">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Horace"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Horace">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilfred_Owen">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Horatius_Flaccus">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antoni_Malczewski">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Horace"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Horatian">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Smart">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Horace"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quintus_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/4294_Horatius">
+    <dbpprop:namedAfter rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Q_Horatius_Flaccus">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quintus_Horace">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leconte_de_Lisle">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Horace"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_de_Montaigne">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Horace"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Horace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Horace">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Venosa"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Roman_Republic"/>
+    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Lyric_poetry"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Horacio"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Torquato_Tasso"/>
+    <dc:description xml:lang="en">Roman lyric poet</dc:description>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Satires_(Horace)"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Luis_de_Le%C3%B3n"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Latin-languAgeWriters"/>
+    <dbpedia-owl:abstract xml:lang="nl">Quintus Horatius Flaccus was een Romeins dichter.</dbpedia-owl:abstract>
+    <dbpprop:id xml:lang="en">Horace_</dbpprop:id>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Golden_Age_Latin_writers"/>
+    <dbpedia-owl:abstract xml:lang="ru">Квинт Гораций Флакк — древнеримский поэт «золотого века» римской литературы. Его творчество приходится на эпоху гражданских войн конца республики и первые десятилетия нового режима Октавиана Августа.</dbpedia-owl:abstract>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">-008-11-27</dbpprop:dateOfDeath>
+    <rdfs:comment xml:lang="no">Quintus Horatius Flaccus, som regel bare kalt Horats, var blant de aller fremste romerske diktere og en betydelig litteraturteoretiker.</rdfs:comment>
+    <dbpprop:notableworks rdf:resource="http://dbpedia.org/resource/Satires_(Horace)"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_IV/Carmen_XI"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_I/Carmen_XXXVIII"/>
+    <dbpedia-owl:abstract xml:lang="it">Considerato uno dei maggiori poeti dell'età antica, nonché maestro di eleganza stilistica e dotato di inusuale ironia, seppe affrontare le vicissitudini politiche e civili del suo tempo da placido epicureo amante dei piaceri della vita, dettando quelli che per molti sono ancora i canoni dell'ars vivendi.</dbpedia-owl:abstract>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Roman_Republic"/>
+    <dbpprop:shortDescription rdf:resource="http://dbpedia.org/resource/Roman_Empire"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_era_satirists"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_III/Carmen_V"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118553569</dbpedia-owl:individualisedPnd>
+    <dbpedia-owl:birthName xml:lang="en">Quintus Horatius Flaccus</dbpedia-owl:birthName>
+    <rdfs:comment xml:lang="ja">クィントゥス・ホラティウス・フラックス（ラテン語: Quintus Horatius Flaccus、, 紀元前65年12月8日 - 紀元前8年11月27日）は、古代ローマ時代の南イタリアの詩人。一般には単にホラティウスと呼ばれる。アウグストゥスと同時代に生きたラテン文学黄金期の詩人で、ウェルギリウスと並んで評価される。作品に『風刺詩』、『詩集』、『エポーデス』など。 書簡詩『詩について』（Ars poetica）はアリストテレスの『詩学』と並んで、古典主義詩論で重要視された。このなかの一節「詩は絵のように」（ut pictura poesis）は、のちに絵画にも拡大され、近世詩論および絵画論に影響を与えた。 「征服されたギリシア人は、猛きローマを征服した」という、有名な言葉を残した。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Quintus Horatius Flaccus was een Romeins dichter.</rdfs:comment>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1st-centuryBCWriters"/>
+    <rdfs:comment xml:lang="pl">Quintus Horatius Flaccus – rzymski poeta liryczny. Był synem wyzwoleńca z Wenuzji w Apulii. Ojciec dał mu staranne i wszechstronne wykształcenie. Wysłał go między innymi do Rzymu i Grecji, by studiował tam grekę i filozofię. Po śmierci Juliusza Cezara, Horacy wstąpił do armii i służył pod dowództwem Brutusa. Jako trybun wojskowy brał udział w bitwie pod Filippi w 42 roku p.n.e. , z której musiał ratować się ucieczką.</rdfs:comment>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">-065-12-08</dbpprop:dateOfBirth>
+    <rdfs:comment xml:lang="en">Quintus Horatius Flaccus (8 December 65 BC – 27 November 8 BC), known in the English-speaking world as Horace, was the leading Roman lyric poet during the time of Augustus. The rhetorician Quintillian regarded his Odes as almost the only Latin lyrics worth reading, justifying his estimate with the words: "He can be lofty sometimes, yet he is also full of charm and grace, versatile in his figures, and felicitously daring in his choice of words.</rdfs:comment>
+    <dbpprop:language rdf:resource="http://dbpedia.org/resource/Latin"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_era_poets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1st-century_BC_writers"/>
+    <dbpedia-owl:abstract xml:lang="uk">Квінт Горацій Флакк — поет «золотого віку» римської літератури, разом з Вергілієм і Овідієм, один з найуславленіших авторів у всій світовій літературі. Горацій народився 8 грудня 65 р. до н. е. у Венузії в області Апулія на півдні Італії. Батько, про якого сам поет згадував із захватом і преклонінням (про матір він не згадує), був вільновідпущеником. Ремеслом помічника розпорядника аукціонів він заробив на невеликий маєток. Бажаючи, щоб здібний юнак дістав гарну освіту, батько привіз Горація до Риму і довірив його виховання відомому граматику і наставнику Орбілію Пупіллу. Сам батько взяв на себе роль «педагога», тобто людини, яка супроводжує дитину до школи (зазвичай цей обов'язок покладався на раба). У 20 років Горацій вирушив до Афін, щоб завершити свою освіту. У 44 р. до н. е. Марк Юній Брут, один із заколотників, що вбили Цезаря, також прибув до Афін нібито для занять філософією, насправді ж — щоб завербувати серед молодих римлян, які навчалися у Греції, офіцерів своєї майбутньої армії. Коли Марк Антоній і Октавіан відкрили проти «визволителів» воєнні дії, Горацій встав на бік Брута. У 22 роки він одержав чин військового трибуна і супроводжував Брута в Малу Азію. Але переконаним республіканцем Горацій не був; після фатальної для Брута битви при Філіппах, він повернувся до Риму, де його маєток був вже конфіскований на користь демобілізованих ветеранів. По загальній амністії Горацію вдалося отримати посаду переписувача-скарбника. Вірші, написані Горацієм у цей час, привернули увагу Вергілія і Варія Руфа. Вони познайомили молоду людину з Меценатом, і в 38 до н. е. останній прийняв Горація в коло своїх друзів. Меценат був не тільки другом, а й заступником поетів. Він удостоївся вічної вдячності Горація, коли увів його до літературних і політичних кіл Риму, а в 33 до н. е. Горацій одержав від Мецената невелику садибу в Сабінських горах, завдяки чому йому більше не треба було турбуватися про гроші. У цей період політика усе ще турбувала поета. Природно, він приєднався до партії свого заступника, хоча ніколи не зрекався стародавніх друзів-республіканців. Горацій став діяльним прихильником Октавіана Авґуста лише в результаті військового конфлікту між ним і його колишнім союзником Марком Антонієм, що завершився перемогою при Акції і взяттям Олександрії. Після цих подій Горацій зробив чималий внесок у кампанію, що проводилася Авґустом, по політичному і моральному відродженню Риму, оскільки був вихідцем із середовища вільновідпущеників, — з тієї соціальної групи, що, збагачувалась від торгівлі і витісняла родову аристократію, стаючи надійною опорою нового режиму. Звернувшись до поезії в пору розчарування після поразки при Філіппах, Горацій обрав за зразок двох дотепних і уїдливих авторів: у грека Архілоха він запозичив ямб, у італійця Луцілія — сатиру. Перша книга Сатир Горація (сам він називав їх Sermones, тобто Бесіди), що складалася з десяти віршів, написаних гекзаметром, вийшла бл. 35 до н. е. Після перемоги Октавіана Авґуста, бл. 30 до н. е. , Горацій зібрав ще 8 сатир у другій книзі, приєднавши до неї 17 коротких ямбічних творів, названих Еподи. Після цього у творчості Горація відбувся рішучий поворот. Він відшукав розміри, що відповідають своєму нині позитивному умонастроєві, у еолійській ліричній (тобто для виконання під акомпанемент) поезії початку VI ст. до н.  е. , в Алкея й Сапфо, у них же він черпав і натхнення. Звертався він і до більш легковажної лірики Анакреонта, і до більш розумової й ученої елліністичної поезії. Горацій мистецьки пристосував ці розміри до латинської мови, з легкістю справжнього майстра використовував він і шляхетний алкеїв вірш, і витончену сапфічну строфу, і текучі асклепіади. У 23 до н. е. він випустив у світло Оди, 88 різноманітних по метриці, розміру (від 8 до 80 рядків) і інтонації віршів, ретельно розподілених по трьох книгах (лат. Carmina, тобто Пісні, Одами їх назвали вже після античності). У наступні шість років Горацій перестав складати ліричні (в античному значенні слова) вірші. У 20 до н. е. вийшла перша книга написаних гекзаметром Послань, куди ввійшли 20 листів переважно філософського змісту, більш строгих за формою, ніж Сатири, але цілком індивідуальних і щирих. В ці роки Горацій у силу ряду причин значною мірою втрачає колишнє легкодумство. Він гостро відчуває, що молодість із усіма її відрадами його залишає. У 23 до н. е. Меценат не догодив Октавіану Авґусту і був відлучений з позиції найбільш наближеної до нього особи. У 19 до н. е. померли шанований Горацієм Вергілій, а також Тібулл. Однак у 17 до н. е. Авґуст доручає Горацію укладання гімну на честь великих Столітніх ігор. Це нарешті принесло Горацію широку популярність, і він повернувся до лірики. При створенні написаних у кілька наступних років 15 од, зібраних в IV книзі, Горацієм рухало відчуття того, що поезія здатна дарувати людині безсмертя. Тут ми знаходимо замилування імператором, а часом і лестощі. Такий саме натхненний, блискучій 1-і вірш з ІІ книги Послань, звернений до Октавіана Авґуста на пряме його прохання. У ньому обговорюється стан римської поезії, причому Горацій захищає сучасних йому авторів від нападок з боку прихильників старовини. Час написання знаменитого Послання до Пісонів (названого в пізній традиції Ars Poetica, тобто Поетичне мистецтво) не встановлений, як невідомо і те, коли саме Горацій відповів відмовою на пропозицію Октавіана Авґуста зайняти місце його особистого секретаря. Светоній розповідає, що на вигляд Горацій був невисокий і гладкий: таким він описується в його власних сатирах. У справах любовних, судячи з розповідей, був він непомірний, і кажуть, що зі своїми коханками він розташовувався в спальні, прибраній дзеркалами, з таким розрахунком, щоб скрізь, куди ні глянути, відбивалося б їхнє злягання. Жив він, головним чином, на самоті, у своєму сабінскому або тибуртинському маєтку. У 8 до н. е. Меценат помер, і Горацій пережив його лише на два місяці. Його поховали на Есквіліні поруч з Меценатом. &lt;/big&gt;&lt;/small&gt;'</dbpedia-owl:abstract>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Odes_(Horace)"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Juan_Bosc%C3%A1n_Almog%C3%A1ver"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ホラティウス"/>
+    <dbpedia-owl:language rdf:resource="http://dbpedia.org/resource/Latin"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Torquato_Tasso"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_I/Carmen_XIX"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Horácio"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-27</dbpedia-owl:deathDate>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Horace"/>
+    <dbpedia-owl:abstract xml:lang="cs">Quintus Horatius Flaccus byl římský básník. Horatius byl synem propuštěnce z Venussie, kde získal první vzdělání. Později se přestěhoval do Říma, protože mu otec chtěl umožnit vzdělání lepší. Roku 45 př. n. l. odešel studovat filosofii do Athén. V roce 44 př. n. l. vstoupil do Brutovy armády, kde se stal tribunem, roku 42 př. n. l. se účastnil bitvy u Filipp, kde byl Brutus poražen (Horatius se zachránil útěkem). Po amnestii se vrátil do Itálie, kde byl nucen živit se jako písař. V této době vznikly jeho první básně, především satiry. Roku 38 př. n. l. se seznámil s Gaiem Cilniem Maecenatem, který mu pomohl s vydáním prvních knih a který Horatiovi věnoval statek, aby se básník mohl věnovat pouze psaní. Později se jeho prostřednictvím seznámil s Octavianem a přestože byl bývalý bojovník proti němu, stal se z něj jeho stoupenec. V některých básních hlásal jeho slávu (dělal to dobrovolně). Nepřijal úřad jeho tajemníka, protože chtěl mít čas a svobodu na psaní. Horatius byl pohřben vedle Maecenata na Esquilinu.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:abstract xml:lang="pl">Quintus Horatius Flaccus – rzymski poeta liryczny. Był synem wyzwoleńca z Wenuzji w Apulii. Ojciec dał mu staranne i wszechstronne wykształcenie. Wysłał go między innymi do Rzymu i Grecji, by studiował tam grekę i filozofię. Po śmierci Juliusza Cezara, Horacy wstąpił do armii i służył pod dowództwem Brutusa. Jako trybun wojskowy brał udział w bitwie pod Filippi w 42 roku p.n.e. , z której musiał ratować się ucieczką. Kiedy ogłoszono amnestię dla tych, którzy walczyli przeciw zwycięskiemu Augustowi, powrócił do Italii. Okazało się, że jego ojciec nie żyje, a majątek został skonfiskowany. Mimo że był prawie bankrutem, udało mu się kupić posadę sekretarza u kwestora, co zapewniło mu utrzymanie i pozwoliło na zajmowanie się poezją. Utworami Horacego zainteresował się Wergiliusz i wprowadził go do domu Mecenasa. Wkrótce Horacy zaprzyjaźnił się z Mecenasem i należał do jego kręgu literackiego. Po pewnym czasie Mecenas wprowadził go na dwór Augusta, a także podarował mu posiadłość w Sabinum, co umożliwiło mu swobodną twórczość literacką. Twórczość Horacego, która przetrwała do naszych czasów to: Epody krótkie utwory o treści politycznej; napisał je pod wrażeniem wojny peruzyńskiej – groza wojen domowych wyraża się radą dla Rzymian, by idąc za przykładem Fokejczyków opuścili Rzym i wywędrowali na Wyspy Szczęśliwe – gdzieś poza Słupy Herkulesa. "Satyry" ośmieszające wady i słabości ludzkie, nie krytykuje w nich jednostek wybitniejszych, nie jest surowym sędzią lecz „śmiejąc się mówi prawdę” "Pieśni" (Carmina, znane także jako "Ody" - Odes) to największe osiągnięcie Horacego o bardzo bogatej tematyce – utwory religijne, biesiadne, wiersze do przyjaciół, wiersze do kochanek, motywy klasyczne i hellenistyczne, refleksje na temat śmierci i wybuchy radości życia; posiadały doskonałą konstrukcję metryczną "Listy" (Epistulae) zawierają dużo pierwiastków filozoficznych, poruszają także problemy z zakresu poetyki, zwłaszcza listy z 2 księgi: "List do Pizonów" znany również jako Sztuka poetycka Twórczość Horacego uważana jest za szczytowe osiągnięcie klasycyzmu epoki Augusta i wywarła ona znaczący wpływ na poezję europejską. Dawniejsze polskie przekłady różnych autorów: Wybór poezji, opr. J. Zawirowski, Biblioteka Narodowa, wyd. 1923 (kolejne opr. J. Krókowski, 2-4 wyd. Wrocław 1967, 1971, 1973) [zestawienie dwujęzyczne] Dzieła wszystkie, t. 1-2, opr. O. Jurewicz, Wrocław 1986, 2 wyd. Warszawa 2000. Przekłady współczesne: [zestawienie dwujęzyczne] Q. Horatii Flacci Opera. Horacy. Dzieła, przeł. i wstępem opatrzył S. Gołębiowski, t. I-II, wyd. Biblioteka Klasyki Polskiej i Obcej Ludowa Spółdzielnia Wydawnicza, Warszawa 1980 Dzieła wszystkie, przeł. i opr. A. Lam, 2 wyd. Verum, Warszawa 1996; toż: Wydanie nowe z dodatkiem Emblematów horacjańskich Ottona Vaeniusa (103 miedzioryty), Aspra-JR i Akademia Humanistyczna, Pułtusk-Warszawa 2010.</dbpedia-owl:abstract>
+    <dbpprop:alternativeNames xml:lang="en">Quintus Horatius Flaccus</dbpprop:alternativeNames>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Garcilaso_de_la_Vega"/>
+    <dbpprop:caption xml:lang="en">Horace, as imagined by Anton von Werner</dbpprop:caption>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RomanEraPoets"/>
+    <dbpedia-owl:abstract xml:lang="vi">Horace – là nhà thơ của thế kỷ vàng trong văn học La Mã. Ông sáng tác vào thời Nội chiến và những thập niên đầu của chính quyền Octavian Augustus.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="vi">Horace – là nhà thơ của thế kỷ vàng trong văn học La Mã. Ông sáng tác vào thời Nội chiến và những thập niên đầu của chính quyền Octavian Augustus.</rdfs:comment>
+    <rdfs:label xml:lang="ca">Horaci</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="sv">Horatius, egentligen Quintus Horatius Flaccus, född 8 december 65 f. Kr. i Venusia, död 27 november 8 f. Kr. , romersk poet. "Libertino patre natus", det vill säga son till en frigiven slav, flyttade som pojke till Rom, och fick studera tillsammans med söner från de rikaste adelsfamiljerna. Han hade vidare Gaius Cilnius Maecenas som beskyddare, och blev en av de mest kända diktarna i Rom under Augustus tid. Han skrev Epoderna, Epistlarna, Sermonerna, Oderna, Carmen Seculare och Ars Poetica.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1st-century_BC_Romans"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetseers.org/the_great_poets/the_classics/horace/"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1st-centuryBCPoets"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Гораций"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Latin-language_writers"/>
+    <dbpedia-owl:abstract xml:lang="ca">Quint Horaci Flac (Quintus Horatius Flaccus) conegut simplement com Horaci fou poeta líric i satíric llatí. Fill d'un esclau alliberat, va tenir l'oportunitat de seguir estudis a Roma, i posteriorment a Atenes, on es va traslladar per a estudiar filosofia. Una vegada allà, va ser acollit per Brutus, l'assassí de Cèsar, qui li va donar un alt càrrec al seu exèrcit. No obstant això, a la batalla de Filipos es va evidenciar la seva falta d'aptitud per a l'art militar i va decidir tornar a Roma. Va començar a treballar com escriba, càrrec que li deixava temps lliure per a dedicar-se a escriure versos. En aquells dies va conèixer a Virgili, qui el va introduir en el cercle de Mecenes, on a poc a poc va guanyar rellevància i va afermar l'amistat amb aquest, qui el va presentar a August. Va aconseguir també la protecció de l'emperador, que fins i tot li va oferir el càrrec de secretari personal seu, que va rebutjar per no adequar-se als principis de la seva moral epicúria. Fou molt respectat en els alts cercles romans, tant literaris com polítics, es va mantenir sempre sota la protecció de Mecenes, juntament amb qui està enterrat. La poesia horaciana, amb la seva varietat de temes nacionals i, sobretot, la seva perfecció formal, signe d'equilibri i serenitat, va ser identificada al Renaixement com la màxima i més excelsa expressió literària de les virtuts clàssiques.</dbpedia-owl:abstract>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+    <dbpedia-owl:abstract xml:lang="ja">クィントゥス・ホラティウス・フラックス（ラテン語: Quintus Horatius Flaccus、, 紀元前65年12月8日 - 紀元前8年11月27日）は、古代ローマ時代の南イタリアの詩人。一般には単にホラティウスと呼ばれる。アウグストゥスと同時代に生きたラテン文学黄金期の詩人で、ウェルギリウスと並んで評価される。作品に『風刺詩』、『詩集』、『エポーデス』など。 書簡詩『詩について』（Ars poetica）はアリストテレスの『詩学』と並んで、古典主義詩論で重要視された。このなかの一節「詩は絵のように」（ut pictura poesis）は、のちに絵画にも拡大され、近世詩論および絵画論に影響を与えた。 「征服されたギリシア人は、猛きローマを征服した」という、有名な言葉を残した。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="no">Quintus Horatius Flaccus, som regel bare kalt Horats, var blant de aller fremste romerske diktere og en betydelig litteraturteoretiker.</dbpedia-owl:abstract>
+    <dbpprop:restingPlace xml:lang="en">Rome</dbpprop:restingPlace>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-08</dbpedia-owl:birthDate>
+    <rdfs:label xml:lang="cs">Quintus Horatius Flaccus</rdfs:label>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Horaz"/>
+    <dbpprop:notableworks rdf:resource="http://dbpedia.org/resource/Ars_Poetica"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Juan_Bosc%C3%A1n_Almog%C3%A1ver"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_IV/Carmen_VII"/>
+    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Lyric_poetry"/>
+    <dbpedia-owl:abstract xml:lang="pt">Quinto Horácio Flaco, em latim Quintus Horatius Flaccus, foi um poeta lírico e satírico romano, além de filósofo. É conhecido por ser um dos maiores poetas da Roma Antiga.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">Quintus Horatius Flaccus (8 December 65 BC – 27 November 8 BC), known in the English-speaking world as Horace, was the leading Roman lyric poet during the time of Augustus. The rhetorician Quintillian regarded his Odes as almost the only Latin lyrics worth reading, justifying his estimate with the words: "He can be lofty sometimes, yet he is also full of charm and grace, versatile in his figures, and felicitously daring in his choice of words. " Horace also crafted elegant hexameter verses and scurrilous iambic poetry. The hexameters are playful and yet serious works, leading the ancient satirist Persius to comment: "as his friend laughs, Horace slyly puts his finger on his every fault; once let in, he plays about the heartstrings". Some of his iambic poetry, however, can seem wantonly repulsive to modern audiences. His career coincided with Rome's momentous change from Republic to Empire. An officer in the republican army that was crushed at the Battle of Philippi in 42 BC, he was befriended by Octavian's right-hand man in civil affairs, Maecenas, and became something of a spokesman for the new regime. For some commentators, his association with the regime was a delicate balance in which he maintained a strong measure of independence (he was "a master of the graceful sidestep") but for others he was, in John Dryden's phrase, "a well-mannered court slave". His poetry became "the common currency of civilization", and he still retains a devoted following, despite some stigmatization after World War I (perhaps due to popular mistrust of old-fashioned patriotism and imperial glory, with which he was identified, fairly or unfairly). Horatian studies have become so diverse and intensive in recent years that it is probably no longer possible for any one scholar to command the whole range of arguments and issues.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="de">Horaz, eigentlich Quintus Horatius Flaccus, ist neben Vergil einer der bedeutendsten römischen Dichter der „Augusteischen Zeit“, das heißt der Zeit zwischen 43 v. Chr. und 14 n. Chr. , also vom Tod Ciceros bis zum Tod des Augustus. Das cognomen Flaccus bedeutet so viel wie ‚Schlappohr‘.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.rhapsodes.fll.vt.edu/horace_ode_1.htm"/>
+    <rdfs:label xml:lang="vi">Horace</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:65_BC_births"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Quintus_Horatius_Flaccus"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thelatinlibrary.com/hor.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpedia-owl:nationality rdf:resource="http://dbpedia.org/resource/Roman_Republic"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://toutcoule.blogspot.com/search/label/horace"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thethepoetry.com/2011/02/some-notes-on-translations-of-horace/"/>
+    <rdfs:comment xml:lang="de">Horaz, eigentlich Quintus Horatius Flaccus, ist neben Vergil einer der bedeutendsten römischen Dichter der „Augusteischen Zeit“, das heißt der Zeit zwischen 43 v. Chr. und 14 n. Chr. , also vom Tod Ciceros bis zum Tod des Augustus. Das cognomen Flaccus bedeutet so viel wie ‚Schlappohr‘.</rdfs:comment>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</dbpprop:birthDate>
+    <rdfs:comment xml:lang="es">Quinto Horacio Flaco (en latín Quintus Horatius Flaccus), fue el principal poeta lírico y satírico en lengua latina. Fue un poeta reflexivo, que expresa aquello que desea con una perfección casi absoluta. Los principales temas que trata en su poesía son el elogio de una vida retirada y la invitación de gozar de la juventud, temas retomados posteriormente por poetas españoles como Garcilaso de la Vega y Fray Luis de León.</rdfs:comment>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Venosa"/>
+    <rdfs:comment xml:lang="sv">Horatius, egentligen Quintus Horatius Flaccus, född 8 december 65 f. Kr. i Venusia, död 27 november 8 f. Kr. , romersk poet. "Libertino patre natus", det vill säga son till en frigiven slav, flyttade som pojke till Rom, och fick studera tillsammans med söner från de rikaste adelsfamiljerna. Han hade vidare Gaius Cilnius Maecenas som beskyddare, och blev en av de mest kända diktarna i Rom under Augustus tid. Han skrev Epoderna, Epistlarna, Sermonerna, Oderna, Carmen Seculare och Ars Poetica.</rdfs:comment>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int">27</dbpprop:deathDate>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Horacy_(poeta)"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_IV/Carmen_X"/>
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Horace_65_BC-8_BC"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_IV/Carmen_I"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/cache/epub/6399/pg6399.html"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/9/95/Quintus_Horatius_Flaccus.jpg"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpprop:birthName xml:lang="en">Quintus Horatius Flaccus</dbpprop:birthName>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03kgs"/>
+    <dbpedia-owl:restingPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+    <rdfs:label xml:lang="de">Horaz</rdfs:label>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Horace"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Pierre_de_Ronsard"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Pierre_de_Ronsard"/>
+    <rdfs:comment xml:lang="pt">Quinto Horácio Flaco, em latim Quintus Horatius Flaccus, foi um poeta lírico e satírico romano, além de filósofo. É conhecido por ser um dos maiores poetas da Roma Antiga.</rdfs:comment>
+    <rdfs:comment xml:lang="ca">Quint Horaci Flac (Quintus Horatius Flaccus) conegut simplement com Horaci fou poeta líric i satíric llatí. Fill d'un esclau alliberat, va tenir l'oportunitat de seguir estudis a Roma, i posteriorment a Atenes, on es va traslladar per a estudiar filosofia. Una vegada allà, va ser acollit per Brutus, l'assassí de Cèsar, qui li va donar un alt càrrec al seu exèrcit. No obstant això, a la batalla de Filipos es va evidenciar la seva falta d'aptitud per a l'art militar i va decidir tornar a Roma.</rdfs:comment>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Luis_de_Le%C3%B3n"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Lucania"/>
+    <dbpedia-owl:abstract xml:lang="zh">昆图斯·贺拉斯·弗拉库斯（拉丁语：Quintus Horatius Flaccus、希腊语：Οράτιος，前65年12月8日意大利韦诺萨 - 前8年11月27日意大利罗马），罗马帝国奥古斯都统治时期著名的诗人、批评家、翻译家，代表作有《诗艺》等。 作为翻译家，受西塞罗的文学批评和理论的影响，用相当的篇幅谈了创作中语言的使用和翻译问题。综合起来，主要有以下两点： （一）翻译必须坚持活译，摒弃直译。 （二）本族语可通过译借外来词加以丰富。 他在《诗艺》中说过：“忠实原作的译者不会逐词死译” File:Commons-logo. svg 维基共享资源中相关的多媒体资源： [/mediawiki/index. php/Commons:Quintus_Horatius_Flaccus?uselang=&lt;Conversionname&gt; Title=贺拉斯;ns=0/Main/;language:wiki=zh,locale=zh] 30px Title=贺拉斯;ns=0/Main/;language:wiki=zh,locale=zh是一個與古羅馬人物相關的小作品。你可以通过編輯或修訂擴充其內容。 。</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://latin.topword.net/?Horace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GoldenAgeLatinWriters"/>
+    <dbpedia-owl:abstract xml:lang="fr">Horace (en latin Quintus Horatius Flaccus) est un poète romain né à Vénose dans le sud de l'actuelle Italie, le 8 décembre -65 et mort à Tibur le 27 novembre -8.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="es">Quinto Horacio Flaco (en latín Quintus Horatius Flaccus), fue el principal poeta lírico y satírico en lengua latina. Fue un poeta reflexivo, que expresa aquello que desea con una perfección casi absoluta. Los principales temas que trata en su poesía son el elogio de una vida retirada y la invitación de gozar de la juventud, temas retomados posteriormente por poetas españoles como Garcilaso de la Vega y Fray Luis de León. Escribió, además, epístolas (cartas), la últimas de las cuales, dirigida «A los Pisones», es conocida como Arte poética.</dbpedia-owl:abstract>
+    <dbpprop:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">200</dbpprop:imageSize>
+    <dbpprop:occupation xml:lang="en">Soldier, scriba quaestorius, poet</dbpprop:occupation>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Iambic_poets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ancient_Roman_soldiers"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_I/Carmen_XXV"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AncientRomanSoldiers"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.intratext.com/Catalogo/Autori/Aut186.HTM"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+    <dbpedia-owl:abstract xml:lang="ko">퀸투스 호라티우스 플라쿠스, 고대 로마 로마 공화정 말기의 으뜸가는 시인이다.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Οράτιος"/>
+    <dbpedia-owl:abstract xml:lang="hu">Quintus Horatius Flaccus római költő.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="en">Horace</rdfs:label>
+    <rdfs:comment xml:lang="ko">퀸투스 호라티우스 플라쿠스, 고대 로마 로마 공화정 말기의 으뜸가는 시인이다.</rdfs:comment>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Roman_Empire"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Rome"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://la.wikisource.org/wiki/Epodi#VIII"/>
+    <rdfs:comment xml:lang="hu">Quintus Horatius Flaccus római költő.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_II/Carmen_XI"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Horace"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1st-century_BC_poets"/>
+    <rdfs:label xml:lang="uk">Горацій</rdfs:label>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Garcilaso_de_la_Vega"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Venosa"/>
+    <rdfs:label xml:lang="zh">贺拉斯</rdfs:label>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Quinto_Orazio_Flacco"/>
+    <rdfs:comment xml:lang="uk">Квінт Горацій Флакк — поет «золотого віку» римської літератури, разом з Вергілієм і Овідієм, один з найуславленіших авторів у всій світовій літературі. Горацій народився 8 грудня 65 р. до н. е. у Венузії в області Апулія на півдні Італії. Батько, про якого сам поет згадував із захватом і преклонінням (про матір він не згадує), був вільновідпущеником. Ремеслом помічника розпорядника аукціонів він заробив на невеликий маєток.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Horace (en latin Quintus Horatius Flaccus) est un poète romain né à Vénose dans le sud de l'actuelle Italie, le 8 décembre -65 et mort à Tibur le 27 novembre -8.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.archive.org/stream/eclogaehoratiana02horauoft/eclogaehoratiana02horauoft_djvu.txt"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Horace?oldid=494330636"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RomanEraSatirists"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_I/Carmen_XXXVII"/>
+    <rdfs:comment xml:lang="ru">Квинт Гораций Флакк — древнеримский поэт «золотого века» римской литературы. Его творчество приходится на эпоху гражданских войн конца республики и первые десятилетия нового режима Октавиана Августа.</rdfs:comment>
+    <dbpprop:shortDescription rdf:resource="http://dbpedia.org/resource/Lyric_poetry"/>
+    <dbpprop:nationality rdf:resource="http://dbpedia.org/resource/Roman_Republic"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Quintus_Horatius_Flaccus.jpg/200px-Quintus_Horatius_Flaccus.jpg"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Roman_Empire"/>
+    <dbpprop:notableworks rdf:resource="http://dbpedia.org/resource/Odes_(Horace)"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_III/Carmen_XIII"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:8_BC_deaths"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBasilicata"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <rdfs:comment xml:lang="cs">Quintus Horatius Flaccus byl římský básník. Horatius byl synem propuštěnce z Venussie, kde získal první vzdělání. Později se přestěhoval do Říma, protože mu otec chtěl umožnit vzdělání lepší. Roku 45 př. n. l. odešel studovat filosofii do Athén. V roce 44 př. n. l. vstoupil do Brutovy armády, kde se stal tribunem, roku 42 př. n. l. se účastnil bitvy u Filipp, kde byl Brutus poražen (Horatius se zachránil útěkem). Po amnestii se vrátil do Itálie, kde byl nucen živit se jako písař.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Considerato uno dei maggiori poeti dell'età antica, nonché maestro di eleganza stilistica e dotato di inusuale ironia, seppe affrontare le vicissitudini politiche e civili del suo tempo da placido epicureo amante dei piaceri della vita, dettando quelli che per molti sono ancora i canoni dell'ars vivendi.</rdfs:comment>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Lucania"/>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Ars_Poetica"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_IV/Carmen_XV"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.stoa.org/diotima/anthology/horawillbio.shtml"/>
+    <dbpprop:name xml:lang="en">Horace</dbpprop:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://la.wikisource.org/wiki/Epodi#XII"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/호라티우스"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.perseus.tufts.edu/cache/perscoll_Greco-Roman.html"/>
+    <foaf:name xml:lang="en">Horace</foaf:name>
+    <rdfs:comment xml:lang="fi">Tämä artikkeli kertoo runoilijasta. Horatius Cocles oli roomalainen sotasankari. &lt;tr&gt;&lt;th class="" colspan="2" style="border-radius:4px; border-bottom: 1px solid #AAAAAA; background-color: #E6E6FA;"&gt;Quintus Horatius Flaccus&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;&lt;td class="" colspan="2" style="text-align: center; line-height:1.4; border-top: 1px solid #AAAAAA; border-bottom: 1px solid #AAAAAA;"&gt;Horatius Anton von Wernerin maalauksessa.</rdfs:comment>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Venosa"/>
+    <rdfs:comment xml:lang="zh">昆图斯·贺拉斯·弗拉库斯（拉丁语：Quintus Horatius Flaccus、希腊语：Οράτιος，前65年12月8日意大利韦诺萨 - 前8年11月27日意大利罗马），罗马帝国奥古斯都统治时期著名的诗人、批评家、翻译家，代表作有《诗艺》等。 作为翻译家，受西塞罗的文学批评和理论的影响，用相当的篇幅谈了创作中语言的使用和翻译问题。综合起来，主要有以下两点： （一）翻译必须坚持活译，摒弃直译。 （二）本族语可通过译借外来词加以丰富。 他在《诗艺》中说过：“忠实原作的译者不会逐词死译” File:Commons-logo. svg 维基共享资源中相关的多媒体资源： [/mediawiki/index.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.virgilmurder.org/images/pdf/arsengl.pdf"/>
+    <dbpedia-owl:abstract xml:lang="fi">Tämä artikkeli kertoo runoilijasta. Horatius Cocles oli roomalainen sotasankari. &lt;tr&gt;&lt;th class="" colspan="2" style="border-radius:4px; border-bottom: 1px solid #AAAAAA; background-color: #E6E6FA;"&gt;Quintus Horatius Flaccus&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;&lt;td class="" colspan="2" style="text-align: center; line-height:1.4; border-top: 1px solid #AAAAAA; border-bottom: 1px solid #AAAAAA;"&gt;Horatius Anton von Wernerin maalauksessa. &lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;&lt;td class="" colspan="1" style="vertical-align: top;"&gt;Syntynyt&lt;/td&gt; &lt;td class="" colspan="1" style="vertical-align: top;"&gt; 8. joulukuuta 65 eaa. Venusia nyk. Venosa, Rooman valtakunta&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;&lt;td class="" colspan="1" style="vertical-align: top;"&gt;Kuollut&lt;/td&gt; &lt;td class="" colspan="1" style="vertical-align: top;"&gt; 27. marraskuuta 8 eaa. Rooma, Rooman valtakunta&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;&lt;td class="" colspan="1" style="vertical-align: top;"&gt;Ammatit&lt;/td&gt; &lt;td class="" colspan="1" style="vertical-align: top;"&gt; runoilija&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;&lt;td class="" colspan="1" style="vertical-align: top;"&gt;Kansallisuus&lt;/td&gt; &lt;td class="" colspan="1" style="vertical-align: top;"&gt; Rooman valtakunta&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;&lt;th class="" colspan="2" style="border-radius:4px; border-top: 1px solid #AAAAAA; border-bottom: 1px solid #AAAAAA; background-color: #E6E6FA;"&gt;x34pxKirjallisuuden teemasivulta&lt;/td&gt; &lt;/tr&gt; Quintus Horatius Flaccus oli roomalainen runoilija. Häntä pidetään yhtenä merkittävimmistä latinaksi kirjoittaneista runoilijoista. Horatius oli vapautetun orjan poika. Hän kuului Vergiliuksen tavoin Maecenaksen ylläpitämään kirjailijapiiriin. Parhaiten Horatiukselta tunnetaan nykypäivän yleinen lausahdus carpe diem eli tartu hetkeen tai kirjaimellisesti poimi päivä.</dbpedia-owl:abstract>
+  </rdf:Description>
+</rdf:RDF>

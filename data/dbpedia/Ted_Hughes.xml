@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Jones">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Iron_Man_(novel)">
+    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birthday_Letters">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Forrester">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Betjeman">
+    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_James_Hughes">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seamus_Heaney">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assia_Wevill">
+    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Ted_Hughes">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/T._S._Eliot">
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Hughes">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <rdfs:label xml:lang="en">Ted Hughes</rdfs:label>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ted_Hughes"/>
+    <dbpprop:deathcause rdf:resource="http://dbpedia.org/resource/Myocardial_infarction"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Carol_Ann_Duffy"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Blake"/>
+    <dbpprop:name xml:lang="en">Hughes, Ted</dbpprop:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/テッド・ヒューズ"/>
+    <dbpprop:birthName xml:lang="en">Edward James Hughes</dbpprop:birthName>
+    <dbpprop:alternativeNames xml:lang="en">Hughes, Edward James</dbpprop:alternativeNames>
+    <rdfs:label xml:lang="vi">Ted Hughes</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="no">Ted Hughes var en britisk dikter. Han ble utnevnt til britisk hoffskald ("poeta lauretus") i 1984. Blant hans verker kan nevnes The Hawk in the Rain (1957), Lupercal (1960), Wodwo (1967), Cave Birds (1978) og River (1983). Han skrev også barnebøker. Ted Hughes var gift med dikteren og forfatteren Sylvia Plath 1956-1963 frem til hennes død (selvmord). Også hans andre kone tok livet av seg. Hun tok samtidig livet av deres felles barn. Filmen Sylvia fra 2003 handler om deres liv sammen; i filmen er det Daniel Craig som spiller Ted Hughes.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="no">Ted Hughes var en britisk dikter. Han ble utnevnt til britisk hoffskald ("poeta lauretus") i 1984. Blant hans verker kan nevnes The Hawk in the Rain (1957), Lupercal (1960), Wodwo (1967), Cave Birds (1978) og River (1983). Han skrev også barnebøker. Ted Hughes var gift med dikteren og forfatteren Sylvia Plath 1956-1963 frem til hennes død (selvmord). Også hans andre kone tok livet av seg. Hun tok samtidig livet av deres felles barn.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishChildren'sWriters"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.theelmettrust.com/"/>
+    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Sylvia_Plath"/>
+    <dbpprop:placeOfBirth xml:lang="en">Mytholmroyd, West Riding of Yorkshire, England</dbpprop:placeOfBirth>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://ann.skea.com/timeline.htm"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Succession_box"/>
+    <dbpprop:occupation xml:lang="en">Poet, playwright, writer</dbpprop:occupation>
+    <rdfs:label xml:lang="de">Ted Hughes</rdfs:label>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Sylvia_Plath"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfPembrokeCollege,Cambridge"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Wilfred_Owen"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1930-08-17</dbpprop:birthDate>
+    <dbpprop:deathPlace xml:lang="en">London, England</dbpprop:deathPlace>
+    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
+    <dbpedia-owl:abstract xml:lang="zh">埃德華·詹姆斯·休斯，OM（Edward James Hughes，1930年8月17日－1998年10月28日），常稱特德·休斯（Ted Hughes），是英國詩人和兒童文學作家。有人認爲他是同代人中最好的詩人。1984年被授予英國桂冠詩人稱號。他與美國著名女詩人西爾維亞·普拉斯的婚姻曾經非常轟動，但是卻以悲劇結束，普拉斯的自殺使他備受指責，他銷毀了妻子的最後三年日記，更使自殺事件撲朔迷離。 生於西約克郡一商人家庭。</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Ted_Hughes"/>
+    <dbpedia-owl:partner rdf:resource="http://dbpedia.org/resource/Assia_Wevill"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Simon_Armitage"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/4/44/Ted-Hughes-March1993.jpg"/>
+    <rdfs:comment xml:lang="pt">Edward James Hughes, mais conhecido como Ted Hughes foi um poeta e escritor de livros infantis britânico, comumente considerado pela crítica como um dos melhores poetas de sua geração.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ted Hughes OBE war ein englischer Dichter und Schriftsteller.</rdfs:comment>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Emily_Dickinson"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</dbpprop:dateOfDeath>
+    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Andrew_Motion"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryfoundation.org/archive/poet.html?id=3344"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
+    <dbpedia-owl:abstract xml:lang="fi">Edward James Hughes, tunnetummin Ted Hughes, oli englantilainen runoilija ja lastenkirjailija. Hughes kirjoitti myös kuunnelmia ja teatterille. Britanniassa Hughesia pidetään yhtenä merkittävimmistä 1960-luvun uuden polven runoilijoista. Omaäänisen Hughesin arvostus nousi uudestaan uran loppupuolella hänen kahden viimeisen kirjansa myötä.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Sylvia_Plath"/>
+    <dbpprop:spouse xml:lang="en">Carol Orchard</dbpprop:spouse>
+    <dbpedia-owl:abstract xml:lang="it">Considerato uno dei maggiori poeti della sua generazione, Hughes fu Poet Laureate in Inghilterra dal 1984 fino alla sua morte nel 1998. Nota e tragica la storia del suo matrimonio con la poetessa statunitense Sylvia Plath, durato dal 1956 al 1963, fino al suicidio di lei nel 1963, per il quale il poeta subì molte accuse, in quanto ritenuto responsabile anche di quello della sua amante, Assia Wevill. Hughes raccontò infine in versi la sua complessa relazione con Sylvia Plath nel suo ultimo libro di poesie, Birthday Letters.</dbpedia-owl:abstract>
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">350</dbpprop:width>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07mnx"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Ted_Hughes"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
+    <dbpedia-owl:abstract xml:lang="es">Edward James Hughes OM, más conocido como Ted Hughes,fue un poeta inglés y escritor de libros infantiles. La crítica usualmente lo ubica como uno de los mejores poetas de su generación. Hughes fue un Poeta Laureado británico en 1984 hasta su muerte. Hughes contrajo matrimonio con la poetisa estadounidense Sylvia Plath, desde 1956 hasta su muerte por suicidio en 1963 a la edad de 30 años. Su relación se volvió polémica por algunas disputas con feministas y, especialmente, con admiradoras estadounidense de Plath. Su último trabajo poético, Cartas de cumpleaños (1998), explora sus complejas relaciones matrimoniales. Los poemas hacen referencia al suicidio de Plath, pero de ninguna manera se dirige de forma directa a las circunstancias de su muerte. Un poema descubierto en octubre del 2010, Última carta, describe qué pasó durante los tres días que condujeron al suicidio de su esposa Sylvia. En el 2008 la revista The Times clasificó a Hughes como cuarto en su lista de "Los 50 mejores escritores británicos desde 1945". El 22 de marzo de 2010, se anunció que Hughes sería conmemorado con un monumento en el Rincón de los Poetas en la Abadía de Westminster, a instalarse a principios del 2011.</dbpedia-owl:abstract>
+    <dc:description xml:lang="en">Poet</dc:description>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Emily_Dickinson"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1930-08-17</dbpedia-owl:birthDate>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Simon_Armitage"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Guardian_award_winners"/>
+    <dbpedia-owl:abstract xml:lang="nl">Edward James (Ted) Hughes was een Engels dichter en schrijver van kinderboeken.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ted_Hughes"/>
+    <rdfs:comment xml:lang="sv">Edward James "Ted" Hughes, född 17 augusti 1930 i Mytholmroyd, West Yorkshire, död 28 oktober 1998 i London, var en brittisk författare och poet. Hughes studerade antropologi vid universitetet i Cambridge. Han var gift med den amerikanska poeten och författaren Sylvia Plath 1956-1963 fram till hennes död (självmord). Under 1950-talet flyttade de till USA där han undervisade vid Amherst College. Hughes utnämndes till brittisk hovskald ("poeta lauretus") 1984.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">埃德華·詹姆斯·休斯，OM（Edward James Hughes，1930年8月17日－1998年10月28日），常稱特德·休斯（Ted Hughes），是英國詩人和兒童文學作家。有人認爲他是同代人中最好的詩人。1984年被授予英國桂冠詩人稱號。他與美國著名女詩人西爾維亞·普拉斯的婚姻曾經非常轟動，但是卻以悲劇結束，普拉斯的自殺使他備受指責，他銷毀了妻子的最後三年日記，更使自殺事件撲朔迷離。 生於西約克郡一商人家庭。</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Order_of_Merit"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_astrologers"/>
+    <dbpprop:placeOfDeath xml:lang="en">London, England</dbpprop:placeOfDeath>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Sylvia_Plath"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ted_Hughes"/>
+    <dbpprop:align xml:lang="en">right</dbpprop:align>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Mytholmroyd"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Τεντ_Χιούζ"/>
+    <foaf:homepage rdf:resource="http://www.theelmettrust.com/"/>
+    <foaf:givenName xml:lang="en">Ted</foaf:givenName>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Ted_Hughes"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdfs:comment xml:lang="ja">テッド・ヒューズ （Ted Hughes, OM, 本名：Edward James Hughes,1930年8月17日 - 1998年10月28日）は、イギリスの詩人、児童文学者。1984年から死亡するときまでイギリスの桂冠詩人であった。</rdfs:comment>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <rdfs:comment xml:lang="ca">Edward “Ted” James Hughes OM (17 d'agost de 1930 – 28 d'octubre de 1998) va ser un poeta i escriptor infantil anglès. Els crítics el solen anomenar un dels millors poetes de la seva generació. Hughes va ser el poeta laureat del Regne Unit des de 1984 fins a la seva mort. Hughes va estar casat amb l'escriptora nord-americana Sylvia Plath de 1956 fins el 1963, quan ella es va suïcidar a l'edat de 30 anys.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="sv">Edward James "Ted" Hughes, född 17 augusti 1930 i Mytholmroyd, West Yorkshire, död 28 oktober 1998 i London, var en brittisk författare och poet. Hughes studerade antropologi vid universitetet i Cambridge. Han var gift med den amerikanska poeten och författaren Sylvia Plath 1956-1963 fram till hennes död (självmord). Under 1950-talet flyttade de till USA där han undervisade vid Amherst College. Hughes utnämndes till brittisk hovskald ("poeta lauretus") 1984. Bland hans verk kan nämnas The Hawk in the Rain (1957), Lupercal (1960), Wodwo (1967), Cave Birds (1978) och River (1983). Han skrev även barnböcker. Filmen Sylvia från 2003 handlar om Hughes och Plaths liv tillsammans. I filmen spelas Hughes av Daniel Craig.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.uvic.ca/site/spcoll/guides/sc060.html"/>
+    <dbpprop:quote xml:lang="en">This house has been far out at sea all night,
+The woods crashing through darkness, the booming hills,
+Winds stampeding the fields under the window
+Floundering black astride and blinding wet
+
+Till day rose; then under an orange sky
+The hills had new places, and wind wielded
+Blade-light, luminous black and emerald,
+Flexing like the lens of a mad eye.</dbpprop:quote>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1998_deaths"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPoets"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</dbpprop:dateOfBirth>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Carol_Ann_Duffy"/>
+    <dbpprop:salign xml:lang="en">right</dbpprop:salign>
+    <dbpprop:quoted xml:lang="en">true</dbpprop:quoted>
+    <rdfs:comment xml:lang="hu">Ted Hughes, született Edward James Hughes, angol költő és meseíró, a huszadik század második felének kiemelkedő jelentőségű irodalmi alakja, Sylvia Plath férje, Pilinszky János egyik fordítója.</rdfs:comment>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <dbpedia-owl:abstract xml:lang="hu">Ted Hughes, született Edward James Hughes, angol költő és meseíró, a huszadik század második felének kiemelkedő jelentőségű irodalmi alakja, Sylvia Plath férje, Pilinszky János egyik fordítója.</dbpedia-owl:abstract>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Taylor_Coleridge"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ted-Hughes-March1993.jpg/200px-Ted-Hughes-March1993.jpg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Poet110444194"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Sylvia_Plath"/>
+    <dbpedia-owl:abstract xml:lang="de">Ted Hughes OBE war ein englischer Dichter und Schriftsteller.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">Edward James Hughes, mais conhecido como Ted Hughes foi um poeta e escritor de livros infantis britânico, comumente considerado pela crítica como um dos melhores poetas de sua geração.</dbpedia-owl:abstract>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1998-10-28</dbpedia-owl:deathDate>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Quote_box"/>
+    <rdfs:comment xml:lang="ru">Тед Хьюз — английский поэт и детский писатель. Критики обычно оценивают его как одного из лучших поэтов его поколения. Хьюз был британским поэтом-лауреатом с 1984 года до смерти. Хьюз был женат на американской поэтессе Сильвии Плат в 1956—1962 годах. Его роль в их отношениях критически оценивалась некоторыми феминистками и особенно американскими почитателями творчества Плат после её самоубийства.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cancer_deaths_in_England"/>
+    <dbpprop:name xml:lang="en">Ted Hughes</dbpprop:name>
+    <rdfs:comment xml:lang="vi">Ted Hughes (tên thật là Edward James Hughes, 17 tháng 8 năm 1930 – 28 tháng 10 năm 1998) – nhà thơ, nhà văn Anh. Các nhà phê bình coi Ted Hughes là một trong những nhà thơ xuất sắc nhất của thời đại ông. Năm 1984 ông được bầu là Thi sĩ Hoàng gia (Poet Laureate) trước khi chết. Năm 2008 tạp chí Time xếp Hughes ở vị trí thứ 4 trong danh sách “50 nhà văn Anh vĩ đại nhất kể từ năm 1945”.</rdfs:comment>
+    <dbpprop:nationality xml:lang="en">English</dbpprop:nationality>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Mexborough"/>
+    <dbpedia-owl:abstract xml:lang="en">Edward James "Ted" Hughes, OM (17 August 1930 – 28 October 1998) was an English poet and children's writer. Critics routinely rank him as one of the best poets of his generation. Hughes was British Poet Laureate from 1984 until his death. Hughes was married to American poet Sylvia Plath, from 1956 until her death by suicide in 1963 at the age of 30. His part in the relationship became controversial to some feminists and (particularly) American admirers of Plath. His last poetic work, Birthday Letters (1998), explored their complex relationship. These poems make reference to Plath's suicide, but none of them addresses directly the circumstances of her death. A poem discovered in October 2010, Last letter, describes what happened during the three days leading up to Plath's suicide. In 2008 The Times ranked Hughes fourth on their list of "The 50 greatest British writers since 1945".</dbpedia-owl:abstract>
+    <dbpprop:birthPlace xml:lang="en">Mytholmroyd, Yorkshire, England</dbpprop:birthPlace>
+    <dbpprop:bgcolor xml:lang="en">#FFFFF0</dbpprop:bgcolor>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1930_births"/>
+    <foaf:name xml:lang="en">Ted Hughes</foaf:name>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/West_Riding_of_Yorkshire"/>
+    <dbpprop:before rdf:resource="http://dbpedia.org/resource/John_Betjeman"/>
+    <rdfs:comment xml:lang="fr">Ted Hughes, est un poète et écrivain anglais, unanimement reconnu comme l'un des plus grands poètes de sa génération. Au Royaume-Uni, Ted Hughes a été Poet Laureate (c'est-à-dire poète officiel de la Reine) de 1984 jusqu'à sa mort en 1998. Il est aussi connu du fait de son mariage avec la poétesse américaine Sylvia Plath, au sens où il a souvent été accusé, par les critiques, d'être à l'origine du suicide de son épouse en 1963 (ainsi que du suicide de sa maîtresse Assia Wevill en 1969).</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryarchive.org/poetryarchive/singlePoet.do?poetId=7078"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Blake"/>
+    <foaf:surname xml:lang="en">Hughes</foaf:surname>
+    <dbpprop:children xml:lang="en">Alexandra Wevill</dbpprop:children>
+    <dbpedia-owl:abstract xml:lang="fr">Ted Hughes, est un poète et écrivain anglais, unanimement reconnu comme l'un des plus grands poètes de sa génération. Au Royaume-Uni, Ted Hughes a été Poet Laureate (c'est-à-dire poète officiel de la Reine) de 1984 jusqu'à sa mort en 1998. Il est aussi connu du fait de son mariage avec la poétesse américaine Sylvia Plath, au sens où il a souvent été accusé, par les critiques, d'être à l'origine du suicide de son épouse en 1963 (ainsi que du suicide de sa maîtresse Assia Wevill en 1969). Il a exploré sa relation complexe avec Sylvia Plath dans son dernier recueil de poèmes, Birthday Letters, paru en 1998, quelques mois avant sa mort.</dbpedia-owl:abstract>
+    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Sylvia_Plath"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://ragazine.cc/2011/08/nick-hughes/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_Poets_Laureate"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ted_Hughes?oldid=495393623"/>
+    <rdfs:comment xml:lang="es">Edward James Hughes OM, más conocido como Ted Hughes,fue un poeta inglés y escritor de libros infantiles. La crítica usualmente lo ubica como uno de los mejores poetas de su generación. Hughes fue un Poeta Laureado británico en 1984 hasta su muerte. Hughes contrajo matrimonio con la poetisa estadounidense Sylvia Plath, desde 1956 hasta su muerte por suicidio en 1963 a la edad de 30 años.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="ja">テッド・ヒューズ （Ted Hughes, OM, 本名：Edward James Hughes,1930年8月17日 - 1998年10月28日）は、イギリスの詩人、児童文学者。1984年から死亡するときまでイギリスの桂冠詩人であった。</dbpedia-owl:abstract>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1984</dbpprop:years>
+    <dbpprop:quote xml:lang="en">Cold, delicately as the dark snow,
+A fox’s nose touches twig, leaf;
+Two eyes serve a movement, that now
+And again now, and now, and now
+
+Sets neat prints into the snow
+Between trees, and warily a lame
+Shadow lags by stump and in hollow
+Of a body that is bold to come
+
+Across clearings, an eye,
+A widening deepening greenness,
+Brilliantly, concentratedly,
+Coming about its own business
+
+Till, with a sudden sharp hot stink of fox
+It enters the dark hole of the head.
+The window is starless still; the clock ticks,
+The page is printed.</dbpprop:quote>
+    <dbpprop:title xml:lang="en">British Poet Laureate</dbpprop:title>
+    <rdfs:label xml:lang="ca">Ted Hughes</rdfs:label>
+    <dbpedia-owl:birthName xml:lang="en">Edward James Hughes</dbpedia-owl:birthName>
+    <dbpedia-owl:abstract xml:lang="ru">Тед Хьюз — английский поэт и детский писатель. Критики обычно оценивают его как одного из лучших поэтов его поколения. Хьюз был британским поэтом-лауреатом с 1984 года до смерти. Хьюз был женат на американской поэтессе Сильвии Плат в 1956—1962 годах. Его роль в их отношениях критически оценивалась некоторыми феминистками и особенно американскими почитателями творчества Плат после её самоубийства. Одной из причин самоубийства называется роман Хьюза с Асей Вевилл, женой и музой другого британского поэта, Дэвида Вевилла. Хьюз никогда публично не отвечал на обвинения, но его последняя поэтическая работа, «Birthday Letters» (1998), исследовала их сложные отношения. Одним она открывала его в значительно лучшем свете, тогда как другим это казалась неудавшейся попыткой отвести вину от себя. В 2008 году газета The Times поставила Хьюза на 4 место в списке «50 лучших британских писателей послевоенной эпохи». 22 марта 2010 года было объявлено, что в 2011 году поэт будет увековечен в Уголке поэтов Вестминстерского аббатства.</dbpedia-owl:abstract>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Seamus_Heaney"/>
+    <dbpedia-owl:abstract xml:lang="ca">Edward “Ted” James Hughes OM (17 d'agost de 1930 – 28 d'octubre de 1998) va ser un poeta i escriptor infantil anglès. Els crítics el solen anomenar un dels millors poetes de la seva generació. Hughes va ser el poeta laureat del Regne Unit des de 1984 fins a la seva mort. Hughes va estar casat amb l'escriptora nord-americana Sylvia Plath de 1956 fins el 1963, quan ella es va suïcidar a l'edat de 30 anys. El seu rol en aquesta relació ha estat polèmic des d'aleshores, sobretot en cercles feministes dels Estats Units i els seus admiradors. La darrera obra de Hughes, Birthday Letters, explora la complexa relació entre tots dos autors, tot i que mai parla de les circumstàncies de la seva mort. Un poema descobert l'octobre de 2010, Last letter', descriu els fets dels tres dies que dugueren a la mort del suïcidi de Plath. El 2008 The Times va anomenar Hughes el quart dels 50 escriptors britànics més importants des de 1945.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="fi">Edward James Hughes, tunnetummin Ted Hughes, oli englantilainen runoilija ja lastenkirjailija. Hughes kirjoitti myös kuunnelmia ja teatterille. Britanniassa Hughesia pidetään yhtenä merkittävimmistä 1960-luvun uuden polven runoilijoista. Omaäänisen Hughesin arvostus nousi uudestaan uran loppupuolella hänen kahden viimeisen kirjansa myötä.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Mytholmroyd"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cardiovascular_disease_deaths_in_England"/>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rhkudvdH8Tmy4sWiu0bcFSg"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Ted_Hughes"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poets.org/poet.php/prmPID/113"/>
+    <dbpprop:source xml:lang="en">The last four stanzas of "The Thought Fox"</dbpprop:source>
+    <rdfs:comment xml:lang="it">Considerato uno dei maggiori poeti della sua generazione, Hughes fu Poet Laureate in Inghilterra dal 1984 fino alla sua morte nel 1998. Nota e tragica la storia del suo matrimonio con la poetessa statunitense Sylvia Plath, durato dal 1956 al 1963, fino al suicidio di lei nel 1963, per il quale il poeta subì molte accuse, in quanto ritenuto responsabile anche di quello della sua amante, Assia Wevill.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_myocardial_infarction"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Yorkshire"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_colorectal_cancer"/>
+    <dbpedia-owl:child rdf:resource="http://dbpedia.org/resource/Frieda_Hughes"/>
+    <rdfs:comment xml:lang="nl">Edward James (Ted) Hughes was een Engels dichter en schrijver van kinderboeken.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="pl">Edward James Hughes – angielski poeta nazywany przez krytyków jednym z najlepszych poetów swojego pokolenia. W latach 1956-1963 mąż amerykańskiej poetki Sylvii Plath, która popełniła samobójstwo w roku 1963 w wieku 31 lat. Jego udział w śmierci żony był często komentowany jako kontrowersyjny, w szczególności przez niektóre feministki i wielbicielki Sylvii Plath, które oskarżały go o sprowokowanie żony do odebrania sobie życia. Sam Hughes oficjalnie nigdy nie wziął udziału w tej debacie, jednak w swojej ostatniej książce Birthday Letters opisał swój skomplikowany związek z Plath, co dla wielu osób ukazało go w kontekście małżeństwa w zdecydowanie lepszym świetle. W roku 2003 jego rolę w biograficznym filmie o Sylvii Plath pod tytułem Sylvia zagrał brytyjski aktor Daniel Craig.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="vi">Ted Hughes (tên thật là Edward James Hughes, 17 tháng 8 năm 1930 – 28 tháng 10 năm 1998) – nhà thơ, nhà văn Anh. Các nhà phê bình coi Ted Hughes là một trong những nhà thơ xuất sắc nhất của thời đại ông. Năm 1984 ông được bầu là Thi sĩ Hoàng gia (Poet Laureate) trước khi chết. Năm 2008 tạp chí Time xếp Hughes ở vị trí thứ 4 trong danh sách “50 nhà văn Anh vĩ đại nhất kể từ năm 1945”. Ngày 22 tháng 3 năm 2010 có tuyên bố chính thức rằng năm 2011 nhà thơ sẽ được mai táng tại Góc Thi sĩ (Poets’ Corner) của Tu viện Westminster danh tiếng.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="pl">Edward James Hughes – angielski poeta nazywany przez krytyków jednym z najlepszych poetów swojego pokolenia. W latach 1956-1963 mąż amerykańskiej poetki Sylvii Plath, która popełniła samobójstwo w roku 1963 w wieku 31 lat. Jego udział w śmierci żony był często komentowany jako kontrowersyjny, w szczególności przez niektóre feministki i wielbicielki Sylvii Plath, które oskarżały go o sprowokowanie żony do odebrania sobie życia.</rdfs:comment>
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">280</dbpprop:width>
+    <dbpprop:source xml:lang="en">from The Hawk in the Rain, 1957</dbpprop:source>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bl.uk/reshelp/findhelpsubject/literature/authors/tedhughes/tedhughes.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_poets"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Wilfred_Owen"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_children's_writers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Хьюз,_Тед"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishAstrologers"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.npg.org.uk/collections/search/person.php?search=ss&amp;firstRun=true&amp;sText=ted+hughes&amp;LinkID=mp06453"/>
+    <dbpprop:partner rdf:resource="http://dbpedia.org/resource/Assia_Wevill"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Seamus_Heaney"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromMytholmroyd"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Pembroke_College,_Cambridge"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">11855459X</dbpedia-owl:individualisedPnd>
+    <rdfs:label xml:lang="zh">泰德·休斯</rdfs:label>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Ted_Hughes"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1998-10-28</dbpprop:deathDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writer110794014"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpprop:source xml:lang="en">The Hawk in the Rain, 1957</dbpprop:source>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://marbl.library.emory.edu/collection-overview/featured-collections/ted-hughes-papers-and-related-collections"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <dbpedia-owl:child rdf:resource="http://dbpedia.org/resource/Nicholas_Hughes"/>
+    <dbpprop:children rdf:resource="http://dbpedia.org/resource/Frieda_Hughes"/>
+    <dbpprop:children rdf:resource="http://dbpedia.org/resource/Nicholas_Hughes"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Sylvia_Plath"/>
+    <rdfs:comment xml:lang="en">Edward James "Ted" Hughes, OM (17 August 1930 – 28 October 1998) was an English poet and children's writer. Critics routinely rank him as one of the best poets of his generation. Hughes was British Poet Laureate from 1984 until his death. Hughes was married to American poet Sylvia Plath, from 1956 until her death by suicide in 1963 at the age of 30. His part in the relationship became controversial to some feminists and (particularly) American admirers of Plath.</rdfs:comment>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Taylor_Coleridge"/>
+    <dbpprop:source xml:lang="en">From "Wind"</dbpprop:source>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thetedhughessociety.org/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.nytimes.com/N3018163617076640893">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sylvia_Plath">
+    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_James_%22Ted%22_Hughes">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Motion">
+    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ted_Hughes">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_hughes">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hughes,_Ted">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Hughes_(Hughes)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+  </rdf:Description>
+</rdf:RDF>

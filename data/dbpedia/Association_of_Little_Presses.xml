@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Association_of_Little_Presses">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Association_of_Little_Presses"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Association_of_Little_Presses">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Organizations_established_in_1966"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Association_of_Little_Presses"/>
+    <rdfs:comment xml:lang="en">The Association of Little Presses (ALP) was an organisation dedicated to promoting small press publishing activity in Britain and Ireland. ALP was founded at a meeting held at Arlington Mill, Bibury, Gloucestershire on July 23, 1966. The meeting had been called by Bob Cobbing of Writers Forum and Stuart Montgomery of Fulcrum Press and was attended by representatives of a number of other small press publishers.</rdfs:comment>
+    <ns6:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Association_of_Little_Presses?oldid=451323429"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Small_press_publishers"/>
+    <dbpedia-owl:abstract xml:lang="en">The Association of Little Presses (ALP) was an organisation dedicated to promoting small press publishing activity in Britain and Ireland. ALP was founded at a meeting held at Arlington Mill, Bibury, Gloucestershire on July 23, 1966. The meeting had been called by Bob Cobbing of Writers Forum and Stuart Montgomery of Fulcrum Press and was attended by representatives of a number of other small press publishers. Over the years, ALP published a regular newsletter, Poetry and Small Press Information (PALPI). This featured listings of publications by member presses as well as information on printers, suppliers and bookshops likely to be of interest. The association also ran regular bookfairs at which members could sell their books and published an annual catalogue of publications that was available to the public, libraries and academic institutions. By the late 1990s, ALP was coming under pressure from the growth of new publishing methods and technologies and the last known catalogue appeared in 1997.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0286mm"/>
+    <rdfs:label xml:lang="en">Association of Little Presses</rdfs:label>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Association_of_Little_Presses"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SmallPressPuBlishers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www4.wiwiss.fu-berlin.de/wikicompany/resource/Association_of_Little_Presses">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Association_of_Little_Presses"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Association_of_little_presses">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Association_of_Little_Presses"/>
+  </rdf:Description>
+</rdf:RDF>

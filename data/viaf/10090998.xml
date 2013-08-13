@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C073368946#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10090998"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Markham, E.A. (Edward Archibald), 1939-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/10090998/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10090998"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C074522949#skos:Concept">
+    <skos:prefLabel>Markham, Edward Archibald, 1939-2008</skos:prefLabel>
+    <skos:altLabel>Goodman, Sally</skos:altLabel>
+    <skos:altLabel>Markham, E. A.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10090998"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Paul St Vincent, 1944-2008</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/10090998/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/10090998"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C122368797#skos:Concept">
+    <skos:altLabel>St. Vincent, Paul 1939-2008</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10090998"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Markham, E. A. 1939-2008</skos:altLabel>
+    <skos:altLabel>Markham, Archie, 1939-2008</skos:altLabel>
+    <skos:altLabel>Markham, Edward Archibald, 1939-2008</skos:altLabel>
+    <skos:prefLabel>Markham, Edward A. 1939-2008</skos:prefLabel>
+    <skos:altLabel>Goodman, Sally 1939-2008</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036534720#skos:Concept">
+    <skos:prefLabel>Markham, E.A. (Edward Archibald), 1939-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10090998"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2002065476#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Markham, Edward Archibald.</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Markhan E. A.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10090998"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CE._A._Markham#skos:Concept">
+    <skos:prefLabel>Markham, E. A.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10090998"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/10090998/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/10090998"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/10090998">
+    <foaf:name>Goodman, Sally</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/26151609"/>
+    <foaf:name>Markhan E. A.</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/76107905"/>
+    <foaf:name>Paul St Vincent, 1944-2008</foaf:name>
+    <rdaGr2:dateOfDeath>2008-03-23</rdaGr2:dateOfDeath>
+    <foaf:name>e St. Vincent Paul 1939-2008</foaf:name>
+    <foaf:name>Markham, Archie, 1939-2008</foaf:name>
+    <foaf:name>Goodman, Sally 1939-2008</foaf:name>
+    <foaf:name>Markham, E. A.</foaf:name>
+    <foaf:name>Markham, E.A. (Edward Archibald), 1939-</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/76107905"/>
+    <foaf:name>e Goodman Sally 1939-2008</foaf:name>
+    <foaf:name>Markham, Edward Archibald.</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/074522949/id"/>
+    <rdaGr2:dateOfBirth>1939-10-01</rdaGr2:dateOfBirth>
+    <foaf:name>Markham, E. A. (Edward Archibald), 1939-2008</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Markham, Edward A. 1939-2008</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/E._A._Markham"/>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/26151609"/>
+    <foaf:name>St. Vincent, Paul 1939-2008</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb14560636g#foaf:Person"/>
+    <foaf:name>Markham, Edward Archibald, 1939-2008</foaf:name>
+    <foaf:name>Markham, E. A. 1939-2008</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/122368797"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50040717#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50040717"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10090998"/>
+    <skos:altLabel>Markham, Edward Archibald, 1939-2008</skos:altLabel>
+    <skos:prefLabel>Markham, E. A. (Edward Archibald), 1939-2008</skos:prefLabel>
+    <skos:altLabel>Markham, Archie, 1939-2008</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C14560636#skos:Concept">
+    <skos:altLabel>e St. Vincent Paul 1939-2008</skos:altLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb14560636g"/>
+    <skos:altLabel>Markham, Archie, 1939-2008</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10090998"/>
+    <skos:prefLabel>Markham, Edward Archibald, 1939-2008</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:altLabel>e Goodman Sally 1939-2008</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb14560636g"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+</rdf:RDF>

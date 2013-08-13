@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/101362857">
+    <foaf:name>ストッパード, トム</foaf:name>
+    <foaf:name>Straussler, Tomáš</foaf:name>
+    <foaf:name>Straussler, Tomá̌s 1937- Wirklicher Name</foaf:name>
+    <foaf:name>Boot, William.</foaf:name>
+    <foaf:name>Stoppard, Tom, 1937-</foaf:name>
+    <foaf:name>Boot, William, 1937-</foaf:name>
+    <foaf:name>Straussler, Tomáš, 1937-</foaf:name>
+    <rdaGr2:dateOfBirth>1937-07-03</rdaGr2:dateOfBirth>
+    <foaf:name>Stoppard, Tom</foaf:name>
+    <foaf:name>ستوبارد، توم، 1937-</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118618695"/>
+    <foaf:name>توم ستوبارد، 1937-</foaf:name>
+    <foaf:name>Stoppard, Tom, 1937-....</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/027149706/id"/>
+    <foaf:name>e Boot William 1937-....</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11925604h#foaf:Person"/>
+    <foaf:name>Stūbārd, Tūm, 1937-</foaf:name>
+    <foaf:name>Стоппард, Том</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/303514"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tom_Stoppard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/101362857/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/101362857"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00457845#skos:Concept">
+    <skos:altLabel>ストッパード, トム</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Stoppard, Tom, 1937-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79034816#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Стоппард, Том</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79034816"/>
+    <skos:altLabel>Straussler, Tomáš</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+    <skos:prefLabel>Stoppard, Tom</skos:prefLabel>
+    <skos:altLabel>Boot, William, 1937-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000127485#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Boot, William.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>Straussler, Tomáš</skos:altLabel>
+    <skos:prefLabel>Stoppard, Tom</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027149706#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Boot, William.</skos:altLabel>
+    <skos:prefLabel>Stoppard, Tom, 1937-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+    <skos:altLabel>Straussler, Tomáš</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118618695#skos:Concept">
+    <skos:prefLabel>Stoppard, Tom, 1937-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Straussler, Tomá̌s 1937- Wirklicher Name</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035527145#skos:Concept">
+    <skos:prefLabel>Stoppard, Tom</skos:prefLabel>
+    <skos:altLabel>Straussler, Tomáš, 1937-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Stoppard, Tom, 1937-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:altLabel>Boot, William, 1937-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/101362857/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX875122#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+    <skos:prefLabel>Stoppard, Tom, 1937-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069056951#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:altLabel>Stūbārd, Tūm, 1937-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+    <skos:prefLabel>Stoppard, Tom, 1937-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/101362857/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/101362857"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11098466#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Stoppard, Tom, 1937-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CTom_Stoppard#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+    <skos:prefLabel>Stoppard, Tom</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11925604#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11925604h"/>
+    <skos:altLabel>e Boot William 1937-....</skos:altLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11925604h"/>
+    <skos:prefLabel>Stoppard, Tom, 1937-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjk01121270#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Straussler, Tomáš, 1937-</skos:altLabel>
+    <skos:prefLabel>Stoppard, Tom, 1937-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C303514#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Stoppard, Tom, 1937-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+    <skos:altLabel>Straussler, Tomáš, 1937-</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/303514#concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001086214#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>توم ستوبارد، 1937-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+    <skos:prefLabel>ستوبارد، توم، 1937-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0007J1074#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Stoppard, Tom</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97029700#skos:Concept">
+    <skos:altLabel>Boot, William.</skos:altLabel>
+    <skos:prefLabel>Stoppard, Tom, 1937-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Straussler, Tomáš</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101362857"/>
+  </rdf:Description>
+</rdf:RDF>

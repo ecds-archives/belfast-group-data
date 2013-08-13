@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Donald_Davie">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Donald_Davie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Davie">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Donald_Davie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_McGuinness_(writer)">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Donald_Davie"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Donald_Davie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Alfred_Davie">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Donald_Davie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Donald_Davie">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Donald_Davie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Alfred">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Donald_Davie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Davie">
+    <foaf:name xml:lang="en">Donald Davie</foaf:name>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Donald_Davie"/>
+    <rdfs:label xml:lang="en">Donald Davie</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="en">Donald Alfred Davie (17 July 1922 – 18 September 1995) was an English Movement poet, and literary critic. His poems in general are philosophical and abstract, but often evoke various landscapes.</dbpedia-owl:abstract>
+    <foaf:surname xml:lang="en">Davie</foaf:surname>
+    <dbpedia-owl:abstract xml:lang="es">Donald Alfred Davie fue un poeta y crítico literario inglés. Sus poemas en general son filosóficos y abstractos, pero evocan diferentes entornos.</dbpedia-owl:abstract>
+    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</dbpprop:dateOfDeath>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</dbpprop:dateOfBirth>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Donald_Davie"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1922_births"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
+    <rdfs:comment xml:lang="es">Donald Alfred Davie fue un poeta y crítico literario inglés. Sus poemas en general son filosóficos y abstractos, pero evocan diferentes entornos.</rdfs:comment>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1922-07-17</dbpedia-owl:birthDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1995_deaths"/>
+    <rdfs:comment xml:lang="pl">Donald Alfred Davie - angielski poeta i badacz literatury. Był głównym teoretykiem działającej w latach pięćdziesiątych XX wieku grupy The Movement, która przeciwstawiałą się skostniałej stylistyce romantyczno-wojennego epignizmu, zalecając dystans wobec wielkich tematów oraz dyscyplinę formalną i intelektualną autora. Tworzył prace krytyczne, takie jak Purity of Diction in English Verse (1952) i Articiulate Energy (1955); studia o twórczości Waltera Scotta, Thomasa Hardy'ego, Czesława Miłosza.</rdfs:comment>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Barnsley"/>
+    <foaf:givenName xml:lang="en">Donald</foaf:givenName>
+    <dbpedia-owl:abstract xml:lang="pl">Donald Alfred Davie - angielski poeta i badacz literatury. Był głównym teoretykiem działającej w latach pięćdziesiątych XX wieku grupy The Movement, która przeciwstawiałą się skostniałej stylistyce romantyczno-wojennego epignizmu, zalecając dystans wobec wielkich tematów oraz dyscyplinę formalną i intelektualną autora. Tworzył prace krytyczne, takie jak Purity of Diction in English Verse (1952) i Articiulate Energy (1955); studia o twórczości Waltera Scotta, Thomasa Hardy'ego, Czesława Miłosza. Był też autorem poezji flozoficzno-refleksyjnej.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AcademicsOfTheUniversityOfEssex"/>
+    <dc:description xml:lang="en">Poet</dc:description>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_the_University_of_Essex"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfStCatharine'sCollege,Cambridge"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.017cz2"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-09-18</dbpedia-owl:deathDate>
+    <rdfs:comment xml:lang="en">Donald Alfred Davie (17 July 1922 – 18 September 1995) was an English Movement poet, and literary critic. His poems in general are philosophical and abstract, but often evoke various landscapes.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_St_Catharine's_College,_Cambridge"/>
+    <dbpprop:name xml:lang="en">Davie, Donald</dbpprop:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Donald_Davie"/>
+    <dbpprop:placeOfBirth xml:lang="en">Barnsley, Yorkshire</dbpprop:placeOfBirth>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.hr/books?id=zlSfAA6-OOUC"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Donald_Davie"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Donald_Davie?oldid=483304481"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPoets"/>
+  </rdf:Description>
+</rdf:RDF>

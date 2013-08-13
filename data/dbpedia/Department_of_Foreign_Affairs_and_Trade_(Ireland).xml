@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+   xmlns:grs="http://www.georss.org/georss/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irish_Department_of_Foreign_Affairs">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Department_of_Foreign_Affairs_and_Trade_(Ireland)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Andrews_(Irish_politician)">
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)"/>
+    <dbpprop:office rdf:resource="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)">
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Department_of_Foreign_Affairs_and_Trade_(Ireland)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Foreign_affairs_ministries"/>
+    <dbpedia-owl:leader rdf:resource="http://dbpedia.org/resource/Eamon_Gilmore"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.3367</geo:lat>
+    <dbpedia-owl:formationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1919-01-01T00:00:00+02:00</dbpedia-owl:formationYear>
+    <dbpedia-owl:type rdf:resource="http://dbpedia.org/resource/Department_of_State_(Ireland)"/>
+    <dbpedia-owl:abstract xml:lang="en">The Department of Foreign Affairs and Trade (Irish: An Roinn Gnóthaí Eachtracha agus Trádála) is a department of the Government of Ireland that is responsible for promoting the interests of Ireland in the European Union and the wider world. The head of the Department is the Minister for Foreign Affairs and Trade who is assisted by two Ministers of State. The position of Minister for Foreign Affairs and Trade is traditionally regarded as one of the most prestigious appointments in the Government of Ireland, below that of Taoiseach and Minister for Finance.</dbpedia-owl:abstract>
+    <dbpprop:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">53</dbpprop:latd>
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Iveagh_House"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_government_agency"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/0/03/Iveagh_House_morning.jpg"/>
+    <rdfs:label xml:lang="en">Department of Foreign Affairs and Trade (Ireland)</rdfs:label>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <dbpedia-owl:abstract xml:lang="de">Das irische Außenministerium ist eines der Ressorts der Irischen Regierung. Es ist für die Beziehungen zwischen der Republik Irland und anderen Staaten sowie für die Vertretung der Interessen Irlands in der Europäischen Union zuständig. Geleitet wird es vom Außenminister, dem zwei Staatsminister unterstehen. Das Amt des Außenministers ist traditionell eines der angesehensten in der irischen Regierung. Das Ministerium hat seinen Sitz am Park St. Stephen’s Green am Rande des Zentrums der Hauptstadt Dublin. Außenminister ist derzeit Micheál Martin von der konservativen Partei Fianna Fáil; die Staatsminister sind Peter Power (zuständig für Entwicklungshilfe) und Dick Roche (Europaangelegenheiten).</dbpedia-owl:abstract>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-6.25944</geo:long>
+    <rdfs:comment xml:lang="fr">Le département des Affaires étrangères et du commerce est le ministère des Affaires étrangères et du Commerce extérieur du gouvernement de la République irlandaise et est responsable de la préparation et la mise en œuvre de la politique étrangère du pays.</rdfs:comment>
+    <dbpedia-owl:headquarter rdf:resource="http://dbpedia.org/resource/Iveagh_House"/>
+    <dbpprop:sealWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">80</dbpprop:sealWidth>
+    <dbpprop:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dbpprop:longm>
+    <rdfs:label xml:lang="de">Irisches Außenministerium</rdfs:label>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Министерство_иностранных_дел_и_торговли_Ирландии"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.dfa.ie/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Foreign_relations_of_the_Republic_of_Ireland"/>
+    <dbpedia-owl:formationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1919-01-22</dbpedia-owl:formationDate>
+    <dbpprop:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</dbpprop:latm>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <grs:point xml:lang="en">53.336666666666666 -6.259444444444444</grs:point>
+    <dbpprop:headquarters xml:lang="en">Dublin 2</dbpprop:headquarters>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Departments_of_State_(Ireland)"/>
+    <foaf:homepage rdf:resource="http://www.dfa.ie"/>
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/St_Stephen's_Green"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Department_of_Foreign_Affairs_and_Trade_(Ireland)?oldid=490985834"/>
+    <dbpprop:longs rdf:datatype="http://www.w3.org/2001/XMLSchema#int">34</dbpprop:longs>
+    <dbpprop:longew xml:lang="en">W</dbpprop:longew>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <dbpprop:minister1Pfo rdf:resource="http://dbpedia.org/resource/Minister_for_Foreign_Affairs_and_Trade"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.08z86f"/>
+    <dbpprop:agencyName xml:lang="en">Department of Foreign Affairs</dbpprop:agencyName>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Département_des_Affaires_étrangères_et_du_Commerce_(Irlande)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_Ministers_for_Foreign_Affairs"/>
+    <rdfs:comment xml:lang="ru">Министерство иностранных дел и торговли Ирландии отвечает за продвижение интересов Ирландии в Европейском Союзе и во всем мире.</rdfs:comment>
+    <dbpprop:latns xml:lang="en">N</dbpprop:latns>
+    <dbpedia-owl:headquarter rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Iveagh_House_morning.jpg/200px-Iveagh_House_morning.jpg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/GovernmentAgency"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Department_of_Foreign_Affairs_and_Trade_(Ireland)"/>
+    <dbpprop:headquarters rdf:resource="http://dbpedia.org/resource/Iveagh_House"/>
+    <dbpedia-owl:jurisdiction rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.dfa.ie"/>
+    <dbpprop:lats rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</dbpprop:lats>
+    <rdf:type rdf:resource="http://schema.org/GovernmentOrganization"/>
+    <dbpedia-owl:abstract xml:lang="fr">Le département des Affaires étrangères et du commerce est le ministère des Affaires étrangères et du Commerce extérieur du gouvernement de la République irlandaise et est responsable de la préparation et la mise en œuvre de la politique étrangère du pays.</dbpedia-owl:abstract>
+    <dbpprop:chief1Name xml:lang="en">David Cooney</dbpprop:chief1Name>
+    <foaf:name xml:lang="en">and Trade</foaf:name>
+    <rdfs:comment xml:lang="de">Das irische Außenministerium ist eines der Ressorts der Irischen Regierung. Es ist für die Beziehungen zwischen der Republik Irland und anderen Staaten sowie für die Vertretung der Interessen Irlands in der Europäischen Union zuständig. Geleitet wird es vom Außenminister, dem zwei Staatsminister unterstehen. Das Amt des Außenministers ist traditionell eines der angesehensten in der irischen Regierung. Das Ministerium hat seinen Sitz am Park St.</rdfs:comment>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-6.25944 53.3367)</geo:geometry>
+    <dbpedia-owl:headquarter rdf:resource="http://dbpedia.org/resource/St_Stephen's_Green"/>
+    <dbpprop:headquarters rdf:datatype="http://www.w3.org/2001/XMLSchema#int">80</dbpprop:headquarters>
+    <dbpprop:formed rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</dbpprop:formed>
+    <dbpprop:jurisdiction rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Irisches_Außenministerium"/>
+    <dbpprop:type xml:lang="en">Department</dbpprop:type>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
+    <dbpprop:minister1Name rdf:resource="http://dbpedia.org/resource/Eamon_Gilmore"/>
+    <dbpprop:chief1Position rdf:resource="http://dbpedia.org/resource/Civil_service_of_the_Republic_of_Ireland"/>
+    <foaf:name xml:lang="en">Department of Foreign Affairs</foaf:name>
+    <dbpprop:agencyName xml:lang="en">and Trade</dbpprop:agencyName>
+    <rdfs:comment xml:lang="en">The Department of Foreign Affairs and Trade (Irish: An Roinn Gnóthaí Eachtracha agus Trádála) is a department of the Government of Ireland that is responsible for promoting the interests of Ireland in the European Union and the wider world. The head of the Department is the Minister for Foreign Affairs and Trade who is assisted by two Ministers of State.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dbpprop:longd>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ministries_established_in_1919"/>
+    <dbpedia-owl:abstract xml:lang="ru">Министерство иностранных дел и торговли Ирландии отвечает за продвижение интересов Ирландии в Европейском Союзе и во всем мире.</dbpedia-owl:abstract>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Walshe">
+    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Department_of_Foreign_Affairs_(Ireland)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Department_of_External_Affairs_(Ireland)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)"/>
+  </rdf:Description>
+</rdf:RDF>

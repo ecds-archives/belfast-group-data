@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robin_Robertson">
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryarchive.org/poetryarchive/singlePoet.do?poetId=7610"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dbpprop:source xml:lang="en">"Selkie"  from Swithering</dbpprop:source>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poets.org/viewmedia.php/prmMID/19119"/>
+    <dbpprop:bgcolor xml:lang="en">#FFFFF0</dbpprop:bgcolor>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1955_births"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.griffinpoetryprize.com/trustees.php?t=6#a6"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Robin_Robertson?oldid=490896208"/>
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">250</dbpprop:width>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.contemporarywriters.com/authors/?p=auth519D193A0f10922310PmV1BB2F7F"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_poets"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/books/2010/feb/20/wrecking-light-robin-robertson-review?INTCMP=SRCH"/>
+    <foaf:givenName xml:lang="en">Robin</foaf:givenName>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Quote_box"/>
+    <rdfs:comment xml:lang="en">Robin Robertson, FRSL is a Scottish poet.</rdfs:comment>
+    <rdfs:label xml:lang="en">Robin Robertson</rdfs:label>
+    <dbpprop:quoted xml:lang="en">true</dbpprop:quoted>
+    <dbpprop:name xml:lang="en">Robertson, Robin</dbpprop:name>
+    <dbpprop:align xml:lang="en">right</dbpprop:align>
+    <dbpprop:quote xml:lang="en">Selkie
+
+
+"I'm not stopping,"
+he said, shrugging off his skin
+like a wet-suit, then stretching it
+on the bodhran's frame,
+"let's play."
+And he played till dawn:
+all the jigs and reels
+he knew, before he stood
+and drained the last
+from his glass, slipped back in
+to the seal-skin,
+into a new day, saluting us
+with that famous grin:
+"That's me away."</dbpprop:quote>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0fcwp5"/>
+    <foaf:name xml:lang="en">Robin Robertson</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishPoets"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <foaf:surname xml:lang="en">Robertson</foaf:surname>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1955</dbpprop:dateOfBirth>
+    <dbpedia-owl:abstract xml:lang="en">Robin Robertson, FRSL is a Scottish poet.</dbpedia-owl:abstract>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Robin_Robertson"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryfoundation.org/bio/robin-robertson"/>
+    <dbpprop:salign xml:lang="en">right</dbpprop:salign>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Robin_Robertson"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.openlettersmonthly.com/interview-with-poet-robin-robertson/"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfLiterature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Robin_Robertson">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Robin_Robertson"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Robin_Robertson">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Robin_Robertson"/>
+  </rdf:Description>
+</rdf:RDF>

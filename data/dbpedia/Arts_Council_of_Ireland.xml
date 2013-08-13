@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Arts_Council_of_Ireland">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Ireland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Arts_Council_of_Ireland">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Ireland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/An_Chomhairle_Eala%C3%ADon">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Ireland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Proinsias_Mac_Aonghusa">
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Ireland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/An_Chomhairle_Ealaion">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Ireland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arts_council_of_ireland">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Ireland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arts_Council_of_Ireland">
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/e/e3/ArtsCouncilIreland.png"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_culture"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Arts_Council_of_Ireland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ArtsCouncils"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artscouncil-ni.org/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://events.artscouncil.ie/"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ArtsCouncilIreland.png/200px-ArtsCouncilIreland.png"/>
+    <rdfs:label xml:lang="en">Arts Council of Ireland</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1951_establishments_in_Ireland"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Arts_Council_of_Ireland"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.051947"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Organisations_based_in_the_Republic_of_Ireland"/>
+    <ns6:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Arts_Council_of_Ireland?oldid=492949421"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Arts_councils"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://visualartists.ie/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ifacca.org/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artscouncil.ie/"/>
+    <dbpedia-owl:abstract xml:lang="en">The Arts Council of Ireland (Irish: An Chomhairle Ealaíon) was founded in 1951 by the Government of Ireland to encourage interest in Irish art and channel to funding from the state to Irish artists and arts organisations. This includes encouragement of traditional Irish arts, support for contemporary Irish arts, and finance for international arts events in Ireland. It was modelled on the Arts Council of Great Britain, founded in 1946, and works closely with the Arts Council of Northern Ireland, formed by the British government in Northern Ireland in 1962 to fulfil a similar role. Pat Moylan was appointed chairman in January 2009. The CEO is Mary Cloake. The 2010 budget was €69 million.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="en">The Arts Council of Ireland (Irish: An Chomhairle Ealaíon) was founded in 1951 by the Government of Ireland to encourage interest in Irish art and channel to funding from the state to Irish artists and arts organisations. This includes encouragement of traditional Irish arts, support for contemporary Irish arts, and finance for international arts events in Ireland.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ccp.ie/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Arts_in_Ireland"/>
+  </rdf:Description>
+</rdf:RDF>

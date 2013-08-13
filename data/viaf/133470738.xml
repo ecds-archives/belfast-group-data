@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C000258229#skos:Concept">
+    <skos:altLabel>Emory University Ehemalige Vorzugsbenennung SWD</skos:altLabel>
+    <skos:prefLabel>Emory University.</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/133470738"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/133470738/#rdaEnt:CorporateBody">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/133470738"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79091860#skos:Concept">
+    <skos:altLabel>Universitet Ėmori</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/133470738"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79091860"/>
+    <skos:prefLabel>Emory University.</skos:prefLabel>
+    <skos:altLabel>Atlanta (Ga.). Emory University</skos:altLabel>
+    <skos:altLabel>Emory University, Atlanta.</skos:altLabel>
+    <skos:altLabel>Aimolei da xue</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C03107829X#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Emory college Atlanta, Ga.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/133470738"/>
+    <skos:prefLabel>Emory university Atlanta, Ga.</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/133470738/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/133470738"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls000186935#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/133470738"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+    <skos:prefLabel>Emory University (Atlanta)</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Ckn20071023006#skos:Concept">
+    <skos:altLabel>Atlanta (Georgia). Emory University</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/133470738"/>
+    <skos:prefLabel>Emory University.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:altLabel>Emory University, Atlanta.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/133470738/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/133470738"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2008030382#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Universitet Ėmori</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Emory University.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/133470738"/>
+    <skos:altLabel>Uniwersytet Emory.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/133470738/#foaf:Organization">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/133470738"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/133470738">
+    <foaf:name>Aimolei da xue</foaf:name>
+    <foaf:name>Emory college Atlanta, Ga.</foaf:name>
+    <foaf:name>Emory university Atlanta, Ga.</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/123144718"/>
+    <foaf:name>Emory University, Atlanta.</foaf:name>
+    <foaf:name>Emory University Ehemalige Vorzugsbenennung SWD</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/03107829X/id"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <foaf:name>Emory University.</foaf:name>
+    <foaf:name>Universitet Ėmori</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12236522j#foaf:Person"/>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/123144718"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/25822-2"/>
+    <foaf:name>Emory University (Atlanta)</foaf:name>
+    <foaf:name>Uniwersytet Emory.</foaf:name>
+    <foaf:name>Atlanta. Emory University</foaf:name>
+    <foaf:name>Atlanta (Georgia). Emory University</foaf:name>
+    <foaf:name>Atlanta (Ga.). Emory University</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000043554#skos:Concept">
+    <skos:altLabel>Atlanta. Emory University</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/133470738"/>
+    <skos:prefLabel>Emory University.</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035064342#skos:Concept">
+    <skos:prefLabel>Emory University.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/133470738"/>
+    <skos:altLabel>Atlanta (Ga.). Emory University</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12236522#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12236522j"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/133470738"/>
+    <skos:altLabel>Emory college Atlanta, Ga.</skos:altLabel>
+    <skos:prefLabel>Emory university Atlanta, Ga.</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12236522j"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M%C3%A1rio_de_S%C3%A1-Carneiro">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emma_Goldman">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mystery_and_Imagination">
+    <dbpprop:aux rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_Pike_Barney">
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andr%C3%A9_Gide">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amanda_Filipacchi">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cyril_Wilde">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Good_Woman_(film)">
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O_Wilde">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jorge_Luis_Borges">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erico_Verissimo">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Wilde/Biblio">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cyril_Holland">
+    <dbpprop:parents rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:parent rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flesh_and_Fantasy">
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Template:Oscar_Wilde/Biblio">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emil_Isac">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Canterville_Ghost_(1995_film)">
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Importance_of_Being_Earnest_(1952_film)">
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/An_Ideal_Husband_(1947_film)">
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Picture_of_Dorian_Gray">
+    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teleny,_or_The_Reverse_of_the_Medal">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theocritus:_a_villanelle">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O'Flahertie">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Importance_of_Being_Earnest">
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Hugo">
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salome_(1986_film)">
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Wild">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilde">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/12258_Oscarwilde">
+    <dbpprop:namedAfter rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/El_abanico_de_Lady_Windermere">
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_K._Morrow">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jamie_O'Neill">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilhelm_von_Gloeden">
+    <dbpprop:patrons rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Oscar_Wilde">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_O'Flahertie_Wills_Wilde">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alejandro_Dolina">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ir%C3%A8ne_N%C3%A9mirovsky">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Windermere's_Fan_(1925_film)">
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Picture_of_Dorian_Gray_(1976_TV)">
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luigi_Malerba">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camille_Paglia">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Wilde_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Arthur_Savile's_Crime_(film)">
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_Comp%C3%A1s_de_tu_Mentira">
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_Fry">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Importance_of_Being_Earnest_(2011_film)">
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fumiko_Enchi">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sebastian_Melmoth">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Windermere's_Fan_(1916_film)">
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Wilde">
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Max_Beerbohm"/>
+    <dbpprop:caption xml:lang="en">Photograph taken in 1882 by Napoleon Sarony</dbpprop:caption>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Stephen_Fry"/>
+    <rdfs:label xml:lang="vi">Oscar Wilde</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTrinityCollege,DuBlin"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Oscar_Wilde?oldid=495395951"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Dave_Sim"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Victorian_poets"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/John_Ruskin"/>
+    <foaf:name xml:lang="en">Oscar Wilde</foaf:name>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Trinity_College,_Dublin"/>
+    <foaf:surname xml:lang="en">Wilde</foaf:surname>
+    <dbpprop:placeOfDeath xml:lang="en">Paris, France</dbpprop:placeOfDeath>
+    <rdfs:comment xml:lang="zh">奧斯卡·王尔德（Oscar Wilde，1854年10月16日－1900年11月30日），爱尔兰作家、诗人、剧作家，英国唯美主义艺术运动的倡导者。</rdfs:comment>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/W._H._Pugmire"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_dramatists_and_playwrights"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Aristotle"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Ir%C3%A8ne_N%C3%A9mirovsky"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Abbott_McNeill_Whistler"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Уайльд,_Оскар"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1900-11-30</dbpprop:deathDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aphorists"/>
+    <rdfs:comment xml:lang="nl">Oscar Fingal O'Flahertie Wills Wilde was een toneelschrijver, schrijver, dichter en estheet van Ierse afkomst die een groot deel van zijn leven in Engeland heeft gewoond.</rdfs:comment>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Morrissey"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Victor_Hugo"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/John_Pentland_Mahaffy"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Camille_Paglia"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/John_Keats"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.oldbaileyonline.org/browse.jsp?path=sessionsPapers%2F18950520.xml"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Th%C3%A9ophile_Gautier"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Renzo_Novatore"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishDramatistsAndPlaywrights"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Victorian_pederasty"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Anglo-IrishArtists"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Ronald_Firbank"/>
+    <rdfs:label xml:lang="de">Oscar Wilde</rdfs:label>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Max_Beerbohm"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.newyorker.com/arts/critics/atlarge/2011/08/08/110808crat_atlarge_ross"/>
+    <dbpedia-owl:abstract xml:lang="vi">Oscar Wilde, tên đầy đủ là Oscar Fingal O'Flahertie Wills Wilde, là một nhà văn nổi tiếng của Ireland. Ông ra đời tại Dublin, Ireland, ngày 16 tháng 10 năm 1854 và mất tại Paris vì viêm não, ngày 30 tháng 11 năm 1900. Nguyên nhân cái chết của ông vẫn còn là một nghi vấn đối với các nhà khoa học. Cha Oscar Wilde là Sir William Robert Wills Wilde, một bác sĩ phẫu thuật Ireland được phong tước Hiệp sĩ (Knight). Mẹ ông là bà Jane Francesca Elgee, nhà thơ theo chủ nghĩa dân tộc. Cả hai đều là người Irish. Oscar Wilde tốt nghiệp trường Trinity College tại Dublin với kết quả học tập xuất sắc. Sau đó, ông tiếp tục học tại trường Magdalen Oxford. Ở đây, ông nổi tiếng về tài tranh luận và phong cách ăn mặc lịch lãm. Điều này khiến ông bị các bạn học trêu chọc và ông đã không ngần ngại tự vệ bằng... nắm đấm, cách phản ứng phần nào trái ngược với hình ảnh công tử bảnh bao mà ông để lại.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/French_literature"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118632779</dbpedia-owl:individualisedPnd>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BisexuAlWriters"/>
+    <dbpprop:placeOfBirth xml:lang="en">Dublin, Ireland</dbpprop:placeOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_journalists"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpprop:notableworks xml:lang="en">The Importance of Being Earnest, The Picture of Dorian Gray</dbpprop:notableworks>
+    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Aestheticism"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.law.umkc.edu/faculty/projects/fTrials/Wilde/wilde.htm"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Plato"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Lawrence_Durrell"/>
+    <dbpprop:almaMater xml:lang="en">Trinity College, Dublin</dbpprop:almaMater>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleProsecutedUnderAnti-homosexuAlityLaws"/>
+    <dbpprop:id xml:lang="en">Oscar+Wilde</dbpprop:id>
+    <dbpedia-owl:abstract xml:lang="en">Oscar Fingal O'Flahertie Wills Wilde (16 October 1854 – 30 November 1900) was an Irish writer and poet. After writing in different forms throughout the 1880s, he became one of London's most popular playwrights in the early 1890s. Today he is remembered for his epigrams, plays and the circumstances of his imprisonment, followed by his early death. Wilde's parents were successful Dublin intellectuals. Their son became fluent in French and German early in life. At university Wilde read Greats; he proved himself to be an outstanding classicist, first at Dublin, then at Oxford. He became known for his involvement in the rising philosophy of aestheticism, led by two of his tutors, Walter Pater and John Ruskin. After university, Wilde moved to London into fashionable cultural and social circles. As a spokesman for aestheticism, he tried his hand at various literary activities: he published a book of poems, lectured in the United States of America and Canada on the new "English Renaissance in Art", and then returned to London where he worked prolifically as a journalist. Known for his biting wit, flamboyant dress, and glittering conversation, Wilde had become one of the most well-known personalities of his day. At the turn of the 1890s, he refined his ideas about the supremacy of art in a series of dialogues and essays, and incorporated themes of decadence, duplicity, and beauty into his only novel, The Picture of Dorian Gray (1890). The opportunity to construct aesthetic details precisely, and combine them with larger social themes, drew Wilde to write drama. He wrote Salome (1891) in French in Paris but it was refused a licence. Unperturbed, Wilde produced four society comedies in the early 1890s, which made him one of the most successful playwrights of late Victorian London. At the height of his fame and success, while his masterpiece, The Importance of Being Earnest (1895), was still on stage in London, Wilde had the Marquess of Queensberry, the father of his lover, Lord Alfred Douglas, prosecuted for libel, a charge carrying a penalty of up to two years in prison. The trial unearthed evidence that caused Wilde to drop his charges and led to his own arrest and trial for gross indecency with other men. After two more trials he was convicted and imprisoned for two years' hard labour. In prison he wrote De Profundis (written in 1897 &amp; published in 1905), a long letter which discusses his spiritual journey through his trials, forming a dark counterpoint to his earlier philosophy of pleasure. Upon his release he left immediately for France, never to return to Ireland or Britain. There he wrote his last work, The Ballad of Reading Gaol (1898), a long poem commemorating the harsh rhythms of prison life. He died destitute in Paris at the age of forty-six.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Victorian_novelists"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Oscar_Wilde"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.oscarwildesociety.co.uk"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Paul_Merton"/>
+    <rdfs:comment xml:lang="ru">О́скар Фи́нгал О’Фла́эрти Уи́ллс Уа́йльд — английский философ, эстет, писатель, поэт, драматург, публицист, эссеист, журналист ирландского происхождения. Один из самых известных драматургов позднего Викторианского периода, яркая знаменитость своего времени. Лондонский денди, позднее осуждённый за «непристойное поведение» и после двух лет тюрьмы и исправительных работ уехавший во Францию, где жил в нищете и забвении под изменёнными именем и фамилией.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LGBTPeopleFromIreland"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Tom_Stoppard"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Freemasons"/>
+    <rdfs:comment xml:lang="ja">オスカー・フィンガル・オフラハティ・ウィルス・ワイルド（Oscar Fingal O'Flahertie Wills Wilde、1854年10月16日 - 1900年11月30日）は、アイルランド出身の詩人、作家、劇作家。耽美的・退廃的・懐疑的だった19世紀末の、旗手のように語られる。多彩な文筆活動をしたが、男色を咎められて収監され、出獄後、失意から回復しないままに没した。</rdfs:comment>
+    <dbpprop:b xml:lang="en">no</dbpprop:b>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Trinity_College,_Dublin"/>
+    <dbpedia-owl:abstract xml:lang="es">Oscar Fingal O'Flahertie Wills Wilde fue un escritor, poeta y dramaturgo irlandés. Wilde es considerado uno de los dramaturgos más destacados del Londres victoriano tardío; además, fue una celebridad de la época debido a su gran y aguzado ingenio. Hoy en día, es recordado por sus epigramas, obras de teatro y la tragedia de su encarcelamiento, seguida de su temprana muerte. Hijo de exitosos intelectuales de Dublín, mostró su inteligencia desde edad temprana al adquirir fluidez en el francés y el alemán. En Oxford estudió en el curso de clásicos, llamado Greats; dio pruebas de ser un prominente clasicista, primero en Dublín y luego en Oxford; guiado por dos de sus tutores, Walter Pater y John Ruskin, se dio a conocer por su implicación en la creciente filosofía del esteticismo. También exploró profundamente el catolicismo −religión a la que se convirtió en su lecho de muerte−. Tras su paso por la universidad se trasladó a Londres, donde se movió en los círculos culturales y sociales de moda. Como un portavoz del esteticismo realizó varias actividades literarias; publicó un libro de poemas, dio conferencias en Estados Unidos y Canadá sobre el Renacimiento inglés y después regresó a Londres, donde trabajó prolíficamente como periodista. Conocido por su ingenio mordaz, su vestir extravagante y su brillante conversación, Wilde se convirtió en una de las mayores personalidades de su tiempo. En la década de 1890 refinó sus ideas sobre la supremacía del arte en una serie de diálogos y ensayos; e incorporó temas de decadencia, duplicidad y belleza en su única novela, El retrato de Dorian Gray. La oportunidad para desarrollar con precisión detalles estéticos y combinarlos con temas sociales le indujo a escribir teatro. En París, escribió Salomé en francés, pero su representación fue prohibida debido a que en la obra aparecían personajes bíblicos. Imperturbable, produjo cuatro comedias de sociedad a principios de la década de 1890, convirtiéndose en uno de los más exitosos dramaturgos del Londres victoriano tardío. En el apogeo de su fama y éxito, mientras su obra maestra, La importancia de llamarse Ernesto, seguía representándose en el escenario, Wilde demandó al padre de su amante por difamación. Después de una serie de juicios fue declarado culpable de indecencia grave y encarcelado por dos años, obligado a realizar trabajos forzados. En prisión, escribió De Profundis, una larga carta que describe el viaje espiritual que experimentó luego de sus juicios, un contrapunto oscuro a su anterior filosofía hedonista. Tras su liberación partió inmediatamente a Francia, donde escribió su última obra, La balada de la cárcel de Reading, un poema en conmemoración a los duros ritmos de la vida carcelaria. Murió indigente en París, a la edad de cuarenta y seis años. «Escribí cuando no conocía la vida. Ahora que entiendo su significado, ya no tengo que escribir. La vida no puede escribirse; sólo puede vivirse. »Oscar Wilde</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Walter_Pater"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Greek_literature"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Joris-Karl_Huysmans"/>
+    <dbpprop:occupation xml:lang="en">Writer</dbpprop:occupation>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Renzo_Novatore"/>
+    <dbpedia-owl:abstract xml:lang="no">Oscar Fingal O’Flahertie Wills Wilde var en irsk forfatter, dramatiker, dikter og novellist. Han var en av de mest vellykkede dramatikere i det senviktorianske London, og en av de mest kjente personer i sin samtid. Han var kjent for sitt vidd og sine skarpe kommentarer, men hans karriere ble ødelagt da han ble dømt til fengsel for «homoseksuelle forbrytelser».</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Symbolist_dramatists_and_playwrights"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Όσκαρ_Ουάιλντ"/>
+    <dbpprop:children rdf:resource="http://dbpedia.org/resource/Vyvyan_Holland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/19th-centuryIrishPeople"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Oscar_Wilde"/>
+    <dbpprop:alternativeNames xml:lang="en">Wilde, Oscar Fingal O'Flahertie Wills</dbpprop:alternativeNames>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishJournalists"/>
+    <dbpprop:name xml:lang="en">Oscar Wilde</dbpprop:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://ebooks.adelaide.edu.au/w/wilde/oscar/harris/"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishFantasyWriters"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Saki"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_people_of_Italian_descent"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishNovelists"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Mateiu_Caragiale"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Walter_Pater"/>
+    <dbpprop:birthPlace xml:lang="en">Dublin, Ireland</dbpprop:birthPlace>
+    <rdfs:comment xml:lang="cs">Oscar Fingal O’Flahertie Wills Wilde byl v Anglii působící dramatik, prozaik, básník a esejista irského původu.</rdfs:comment>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Oscar_Wilde_portrait.jpg/200px-Oscar_Wilde_portrait.jpg"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Christopher_Hitchens"/>
+    <dbpedia-owl:abstract xml:lang="hu">Oscar Wilde (eredeti nevén Fingal O'Flahertie Wills) Dublin, 1854. október 16. – Párizs, 1900. november 30. ) ír költő, író, drámaíró. A 19. századi viktoriánus hagyományoktól dohos Anglia irodalmába friss levegőt hozó szellő volt Oscar Wilde, akit művei alapján embertestbe zárt angyalnak, magánéleti eseményei kapcsán pedig emberbőrbe bújt démonnak hihetünk. Ő volt az első író, aki azon erkölcsök – vagy inkább erkölcstelenségek – szerint élt, amelyek saját költeményeiben is megjelentek. Ő volt az első művész, aki megnyitotta azokat a kapukat, amelyeken addig más még csak bekopogtatni sem mert. Kivételes egyéniség volt, egy igazi zseni. Azok közé a művészek közé tartozott, akik életüket könyveiknél fontosabb alkotásnak tartották. Élete tele volt pompával, dicsőséggel, tündökléssel; gazdag volt, befolyásos és sikeres, ám éppen legnagyobb sikerei közepette érte a végzetes csapás, amely egész addigi életét felforgatta. A csillogás után a kegyetlen börtönvilág sötétje következett. Olyan magasról zuhant olyan mélyre, hogy egész Európa beleborzongott.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.oscarwildecollection.com/"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Dave_Sim"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Tom_Stoppard"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleAssociatedWithTrinityCollege,DuBlin"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Benjamin_Tucker"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Peter_Kropotkin"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishExpatriatesInFrance"/>
+    <rdfs:comment xml:lang="de">Oscar Fingal O' Flahertie Wills Wilde war ein irischer Schriftsteller.</rdfs:comment>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Oscar_Wilde"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.owsoa.org/"/>
+    <rdfs:comment xml:lang="sv">Oscar Fingal O’Flahertie Wills Wilde, född 16 oktober 1854 i Dublin, Irland, död 30 november 1900 på Hôtel d’Alsace (heter nu L’Hôtel) i Paris, Frankrike, var en irländsk författare, dramatiker och samhällssatiriker.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <dbpedia-owl:abstract xml:lang="cs">Oscar Fingal O’Flahertie Wills Wilde byl v Anglii působící dramatik, prozaik, básník a esejista irského původu.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromDuBlin(city)"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Peter_Kropotkin"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/W._H._Pugmire"/>
+    <rdfs:comment xml:lang="it">Autore dalla scrittura apparentemente semplice e spontanea, ma sostanzialmente molto ricercata ed incline alla ricerca del bon mot, con uno stile talora sferzante e impertinente egli voleva risvegliare l'attenzione dei suoi lettori e invitarli alla riflessione. È noto soprattutto per l'uso frequente di aforismi e paradossi, per i quali è tuttora spesso citato.</rdfs:comment>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/John_Pentland_Mahaffy"/>
+    <foaf:homepage rdf:resource="http://www.oldbaileyonline.org/browse.jsp?path=sessionsPapers%2F18950520.xml"/>
+    <rdfs:label xml:lang="en">Oscar Wilde</rdfs:label>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Victor_Hugo"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Joris-Karl_Huysmans"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Ir%C3%A8ne_N%C3%A9mirovsky"/>
+    <dbpprop:relatives xml:lang="en">Sir William Wilde, Jane, Lady Wilde</dbpprop:relatives>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_K._Morrow"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Magdalen_College,_Oxford"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/John_Keats"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Mateiu_Caragiale"/>
+    <dbpedia-owl:abstract xml:lang="ja">オスカー・フィンガル・オフラハティ・ウィルス・ワイルド（Oscar Fingal O'Flahertie Wills Wilde、1854年10月16日 - 1900年11月30日）は、アイルランド出身の詩人、作家、劇作家。耽美的・退廃的・懐疑的だった19世紀末の、旗手のように語られる。多彩な文筆活動をしたが、男色を咎められて収監され、出獄後、失意から回復しないままに没した。</dbpedia-owl:abstract>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Abbott_McNeill_Whistler"/>
+    <rdfs:comment xml:lang="pl">Oscar Fingal O'Flahertie Wills Wilde – irlandzki poeta, prozaik, dramatopisarz i filolog klasyczny. Przedstawiciel modernistycznego estetyzmu.</rdfs:comment>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Saki"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Amanda_Filipacchi"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPeopleOfItalianDescent"/>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/The_Picture_of_Dorian_Gray"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Fumiko_Enchi"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/French_literature"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Anglo-IrishPeople"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_fantasy_writers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_socialists"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishSocialists"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Christopher_Hitchens"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/9/9c/Oscar_Wilde_portrait.jpg"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wilde-online.info/the-rise-of-historical-criticism.html"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Th%C3%A9ophile_Gautier"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_France"/>
+    <dbpprop:signature xml:lang="en">Oscar Wilde Signature.svg</dbpprop:signature>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:abstract xml:lang="sv">Oscar Fingal O’Flahertie Wills Wilde, född 16 oktober 1854 i Dublin, Irland, död 30 november 1900 på Hôtel d’Alsace (heter nu L’Hôtel) i Paris, Frankrike, var en irländsk författare, dramatiker och samhällssatiriker.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_horror_writers"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1854-10-16</dbpprop:birthDate>
+    <rdfs:comment xml:lang="vi">Oscar Wilde, tên đầy đủ là Oscar Fingal O'Flahertie Wills Wilde, là một nhà văn nổi tiếng của Ireland. Ông ra đời tại Dublin, Ireland, ngày 16 tháng 10 năm 1854 và mất tại Paris vì viêm não, ngày 30 tháng 11 năm 1900. Nguyên nhân cái chết của ông vẫn còn là một nghi vấn đối với các nhà khoa học. Cha Oscar Wilde là Sir William Robert Wills Wilde, một bác sĩ phẫu thuật Ireland được phong tước Hiệp sĩ (Knight). Mẹ ông là bà Jane Francesca Elgee, nhà thơ theo chủ nghĩa dân tộc.</rdfs:comment>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1900-11-30</dbpedia-owl:deathDate>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</dbpprop:dateOfBirth>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Jorge_Luis_Borges"/>
+    <rdfs:comment xml:lang="pt">Oscar Fingal O'Flahertie Wills Wilde foi um escritor irlandês .</rdfs:comment>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Andr%C3%A9_Gide"/>
+    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Constance_Lloyd"/>
+    <foaf:givenName xml:lang="en">Oscar</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1900_deaths"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Honor%C3%A9_de_Balzac"/>
+    <dbpedia-owl:abstract xml:lang="ca">Oscar Wilde va ser un escriptor i dramaturg irlandès, de nom complet Oscar Fingal O'Flahertie Wills Wilde. Va tenir forts problemes legals a causa de la seva homosexualitat, que el van dur a la presó durant una temporada. Destaca per les seves obres, sobretot en teatre, on retrata la veritable cara de la societat noble de la seva època. Demostra en cadascuna de les seves obres ser un gran coneixedor del comportament i pensament humà, i en les seves millor obres, fa ús de l'humor més anglès i més pur per descriure el món tal com ell el veia.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Gay_writers"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Sister_project_links"/>
+    <rdfs:comment xml:lang="en">Oscar Fingal O'Flahertie Wills Wilde (16 October 1854 – 30 November 1900) was an Irish writer and poet. After writing in different forms throughout the 1880s, he became one of London's most popular playwrights in the early 1890s. Today he is remembered for his epigrams, plays and the circumstances of his imprisonment, followed by his early death. Wilde's parents were successful Dublin intellectuals. Their son became fluent in French and German early in life.</rdfs:comment>
+    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Constance_Lloyd"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Igor_Severyanin"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1854-10-16</dbpedia-owl:birthDate>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_K._Morrow"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Pete_Doherty"/>
+    <dbpprop:children rdf:resource="http://dbpedia.org/resource/Cyril_Holland"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:comment xml:lang="no">Oscar Fingal O’Flahertie Wills Wilde var en irsk forfatter, dramatiker, dikter og novellist. Han var en av de mest vellykkede dramatikere i det senviktorianske London, og en av de mest kjente personer i sin samtid. Han var kjent for sitt vidd og sine skarpe kommentarer, men hans karriere ble ødelagt da han ble dømt til fengsel for «homoseksuelle forbrytelser».</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ConvertsToRomanCatholicism"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPacifists"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Oscar_Wilde"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_anarchists"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.legislation.gov.uk/ukpga/Vict/6-7/96/section/IV/enacted"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishHorrorWriters"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Jorge_Luis_Borges"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_P%C3%A8re_Lachaise_Cemetery"/>
+    <dbpprop:genre xml:lang="en">Drama, short story, dialogue, journalism</dbpprop:genre>
+    <dbpedia-owl:abstract xml:lang="ru">О́скар Фи́нгал О’Фла́эрти Уи́ллс Уа́йльд — английский философ, эстет, писатель, поэт, драматург, публицист, эссеист, журналист ирландского происхождения. Один из самых известных драматургов позднего Викторианского периода, яркая знаменитость своего времени. Лондонский денди, позднее осуждённый за «непристойное поведение» и после двух лет тюрьмы и исправительных работ уехавший во Францию, где жил в нищете и забвении под изменёнными именем и фамилией. Наиболее известен своими пьесами, полными парадоксов, крылатых фраз и афоризмов, а также романом «Портрет Дориана Грея» (1891).</dbpedia-owl:abstract>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
+    <dbpedia-owl:abstract xml:lang="it">Autore dalla scrittura apparentemente semplice e spontanea, ma sostanzialmente molto ricercata ed incline alla ricerca del bon mot, con uno stile talora sferzante e impertinente egli voleva risvegliare l'attenzione dei suoi lettori e invitarli alla riflessione. È noto soprattutto per l'uso frequente di aforismi e paradossi, per i quali è tuttora spesso citato. L'episodio più notevole della sua vita, di cui si trova ampia traccia nelle cronache del tempo, fu il processo e la condanna a due anni di prigione per avere violato la legge penale che codificava le regole morali in materia sessuale della sua stessa classe sociale. Molti i libri scritti sulle sue vicende e sulle sue opere, tra le quali, in particolare, i suoi testi teatrali, considerati dai critici dei capolavori del teatro dell'800.</dbpedia-owl:abstract>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Greek_literature"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05np2"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/VictorianPoets"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ucc.ie/celt/publishd.html#wilde"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IndividuAlistAnarchists"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Paul_Merton"/>
+    <dbpedia-owl:abstract xml:lang="pt">Oscar Fingal O'Flahertie Wills Wilde foi um escritor irlandês .</dbpedia-owl:abstract>
+    <dbpedia-owl:child rdf:resource="http://dbpedia.org/resource/Vyvyan_Holland"/>
+    <dbpedia-owl:abstract xml:lang="nl">Oscar Fingal O'Flahertie Wills Wilde was een toneelschrijver, schrijver, dichter en estheet van Ierse afkomst die een groot deel van zijn leven in Engeland heeft gewoond.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="fr">Oscar Wilde, de son nom complet Oscar Fingal O'Flahertie Wills Wilde, est un écrivain irlandais, né à Dublin en Irlande le 16 octobre 1854 au 21 Westland Row (en), et mort à Paris le 30 novembre 1900 à l'âge de 46 ans. Né dans la bourgeoisie irlandaise et protestante de Dublin, d’un père oculiste renommé et d’une mère poétesse, Oscar Wilde se distingua par un parcours scolaire brillant.</rdfs:comment>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Morrissey"/>
+    <dbpedia-owl:abstract xml:lang="fi">Oscar Fingal O'Flahertie Wills Wilde oli irlantilaissyntyinen näytelmä- ja romaanikirjailija ja runoilija. Hän oli viktoriaanisen Lontoon menestyneimpiä ja kuuluisimpia näytelmäkirjailijoita.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1854_births"/>
+    <dbpedia-owl:relative rdf:resource="http://dbpedia.org/resource/William_Wilde"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
+    <dbpprop:nationality xml:lang="en">Irish</dbpprop:nationality>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Dante_Alighieri"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Benjamin_Tucker"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_Irish_people"/>
+    <dbpedia-owl:relative rdf:resource="http://dbpedia.org/resource/Jane_Wilde"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aphorists"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Pete_Doherty"/>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/The_Importance_of_Being_Earnest"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rv_2-05wpEbGdrcN5Y29ycA"/>
+    <dbpprop:n xml:lang="en">no</dbpprop:n>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anglo-Irish_people"/>
+    <dbpprop:shortDescription xml:lang="en">Irish writer</dbpprop:shortDescription>
+    <rdfs:comment xml:lang="ko">오스카 핑걸 오플래허티 일즈 와일드는 아일랜드의 극작가, 소설가, 시인, 단편 작가이자 프리메이슨 회원이었다. 날카롭고 약삭빠른 재치로 유명하며, 런던의 후기 빅토리아 시대 사람으로 가장 성공한 극작가일 뿐만 아니라, 그 시대의 가장 알려진 유명인 중 하나로 평가된다. 와일드는 퀸즈베리 사건이라는 유명한 재판으로 인해 극적인 몰락을 겪게 되고, “막중한 풍기문란”으로 감옥에 수감된다. 학자인 H. 몽고메리 하이드는 이 용어가 영국 법정에서 “비역죄”에까지 이르지 않은 동성애를 의미한다고 주장한다. 그는 이 일 때문에 영국에서 영원히 추방되어 평생 돌아가지 못했다. 그는 1900년 파리에서 죽었다.</rdfs:comment>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_Trinity_College,_Dublin"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Igor_Severyanin"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anglo-Irish_artists"/>
+    <rdfs:comment xml:lang="uk">О́скар Уа́йльд (також Вайльд), повне ім'я Оскар Фінгал О'Флаерті Віллс Уайльд — англо-ірландський поет, драматург, письменник, есеїст.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="uk">О́скар Уа́йльд (також Вайльд), повне ім'я Оскар Фінгал О'Флаерті Віллс Уайльд — англо-ірландський поет, драматург, письменник, есеїст.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Bisexual_writers"/>
+    <dbpprop:name xml:lang="en">Wilde, Oscar</dbpprop:name>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Oscar_Wilde"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfMagdalenCollege,Oxford"/>
+    <rdfs:label xml:lang="uk">Оскар Уайльд</rdfs:label>
+    <dbpprop:language xml:lang="en">English, French</dbpprop:language>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Camille_Paglia"/>
+    <rdfs:label xml:lang="cs">Oscar Wilde</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Lawrence_Durrell"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Erico_Verissimo"/>
+    <dbpedia-owl:abstract xml:lang="fr">Oscar Wilde, de son nom complet Oscar Fingal O'Flahertie Wills Wilde, est un écrivain irlandais, né à Dublin en Irlande le 16 octobre 1854 au 21 Westland Row (en), et mort à Paris le 30 novembre 1900 à l'âge de 46 ans. Né dans la bourgeoisie irlandaise et protestante de Dublin, d’un père oculiste renommé et d’une mère poétesse, Oscar Wilde se distingua par un parcours scolaire brillant. Nourri de culture classique, couronné de prix au sein du Trinity College de Dublin, il intégra le Magdalene College de l'université d’Oxford, où il se construisit un personnage d’esthète et de dandy, sous l’influence des préraphaélites et des théories de l’art pour l’art de Walter Pater, John Ruskin ou Whistler. À l’issue de ses études, Wilde s’installa à Londres où il parvint à pénétrer la bonne société et les cercles cultivés, s’illustrant dans plusieurs genres littéraires. S’il publia, conformément aux exigences de l’esthétisme le plus pur, un volume de poésie, il ne négligea pas des activités moins considérées des cercles littéraires mais plus lucratives : il se fit le porte-parole de la nouvelle « Renaissance anglaise dans les arts » dans une série de conférences aux États-Unis et au Canada, puis exerça une prolifique activité de journaliste. Au tournant des années 1890, il précisa sa théorie esthétique dans une série de dialogues et d’essais, et explora dans son unique roman, Le Portrait de Dorian Gray (1890), les liens entretenus par la beauté, la décadence et la duplicité. Sa première pièce, Salomé (1891), rédigée en français à Paris l’année suivante, ne put être jouée en Angleterre, faute d’avoir obtenu la licence d’autorisation, au motif qu’elle mettait en scène des personnages bibliques. Confronté une première fois aux rigueurs de la morale victorienne, Wilde enchaîna cependant avec quatre comédies de mœurs qui firent de lui l’un des dramaturges les plus en vue de Londres. Indissociables de son talent littéraire, sa personnalité hors du commun, le mordant de son esprit, le brillant de sa conversation et de ses costumes assuraient sa renommée. Au faîte de sa gloire, alors que sa pièce maîtresse, L’Importance d’être Constant (1895), triomphait à Londres, Wilde poursuivit le père de son amant Alfred Bruce Douglas pour diffamation après que celui-ci eut entrepris de faire scandale de son homosexualité. Après une série de trois procès retentissants, Wilde fut condamné pour « grave immoralité » à deux ans de travaux forcés. Ruiné par ses différents procès, condamné à la banqueroute, il écrivit en prison De Profundis, une longue lettre adressée à son amant dont la noirceur forme un contraste saisissant avec sa première philosophie du plaisir. Dès sa libération en mai 1897, il quitta définitivement la Grande-Bretagne pour la France. C’est dans son pays d’accueil qu’il mit un point final à son œuvre avec La Ballade de la geôle de Reading (1898), un long poème commémorant l’expérience éprouvante de la vie en prison. Il mourut dans le dénuement à Paris à l'âge de quarante-six ans.</dbpedia-owl:abstract>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Amanda_Filipacchi"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://viewfinder.english-heritage.org.uk/search/reference.aspx?uid=51395&amp;index=0&amp;mainQuery=Oscar%20Wilde&amp;searchType=all&amp;form=home"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Fumiko_Enchi"/>
+    <rdfs:comment xml:lang="es">Oscar Fingal O'Flahertie Wills Wilde fue un escritor, poeta y dramaturgo irlandés. Wilde es considerado uno de los dramaturgos más destacados del Londres victoriano tardío; además, fue una celebridad de la época debido a su gran y aguzado ingenio. Hoy en día, es recordado por sus epigramas, obras de teatro y la tragedia de su encarcelamiento, seguida de su temprana muerte.</rdfs:comment>
+    <rdfs:comment xml:lang="fi">Oscar Fingal O'Flahertie Wills Wilde oli irlantilaissyntyinen näytelmä- ja romaanikirjailija ja runoilija. Hän oli viktoriaanisen Lontoon menestyneimpiä ja kuuluisimpia näytelmäkirjailijoita.</rdfs:comment>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Plato"/>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Trinity_College,_Dublin"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://onlinebooks.library.upenn.edu/webbin/book/search?amode=start&amp;author=Wilde%2c%20Oscar"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30</dbpprop:dateOfDeath>
+    <rdfs:label xml:lang="ca">Oscar Wilde</rdfs:label>
+    <dbpprop:v xml:lang="en">no</dbpprop:v>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_prosecuted_under_anti-homosexuality_laws"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_novelists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Converts_to_Roman_Catholicism_from_Anglicanism"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Stephen_Fry"/>
+    <dbpprop:movement rdf:resource="http://dbpedia.org/resource/Aestheticism"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Dublin_(city)"/>
+    <rdfs:comment xml:lang="hu">Oscar Wilde (eredeti nevén Fingal O'Flahertie Wills) Dublin, 1854. október 16. – Párizs, 1900. november 30. ) ír költő, író, drámaíró. A 19. századi viktoriánus hagyományoktól dohos Anglia irodalmába friss levegőt hozó szellő volt Oscar Wilde, akit művei alapján embertestbe zárt angyalnak, magánéleti eseményei kapcsán pedig emberbőrbe bújt démonnak hihetünk. Ő volt az első író, aki azon erkölcsök – vagy inkább erkölcstelenségek – szerint élt, amelyek saját költeményeiben is megjelentek.</rdfs:comment>
+    <dc:description xml:lang="en">Irish writer</dc:description>
+    <dbpprop:deathPlace xml:lang="en">Paris, France</dbpprop:deathPlace>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Oscar_Wilde"/>
+    <rdfs:label xml:lang="zh">王尔德</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="zh">奧斯卡·王尔德（Oscar Wilde，1854年10月16日－1900年11月30日），爱尔兰作家、诗人、剧作家，英国唯美主义艺术运动的倡导者。</dbpedia-owl:abstract>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Dante_Alighieri"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_pacifists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_theatre"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Andr%C3%A9_Gide"/>
+    <dbpedia-owl:abstract xml:lang="de">Oscar Fingal O' Flahertie Wills Wilde war ein irischer Schriftsteller.</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/オスカー・ワイルド"/>
+    <dbpprop:s xml:lang="en">Author:Oscar Wilde</dbpprop:s>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/John_Ruskin"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
+    <dbpedia-owl:abstract xml:lang="pl">Oscar Fingal O'Flahertie Wills Wilde – irlandzki poeta, prozaik, dramatopisarz i filolog klasyczny. Przedstawiciel modernistycznego estetyzmu.</dbpedia-owl:abstract>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Erico_Verissimo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <rdfs:comment xml:lang="ca">Oscar Wilde va ser un escriptor i dramaturg irlandès, de nom complet Oscar Fingal O'Flahertie Wills Wilde. Va tenir forts problemes legals a causa de la seva homosexualitat, que el van dur a la presó durant una temporada. Destaca per les seves obres, sobretot en teatre, on retrata la veritable cara de la societat noble de la seva època.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishAnarchists"/>
+    <dbpedia-owl:abstract xml:lang="ko">오스카 핑걸 오플래허티 일즈 와일드는 아일랜드의 극작가, 소설가, 시인, 단편 작가이자 프리메이슨 회원이었다. 날카롭고 약삭빠른 재치로 유명하며, 런던의 후기 빅토리아 시대 사람으로 가장 성공한 극작가일 뿐만 아니라, 그 시대의 가장 알려진 유명인 중 하나로 평가된다. 와일드는 퀸즈베리 사건이라는 유명한 재판으로 인해 극적인 몰락을 겪게 되고, “막중한 풍기문란”으로 감옥에 수감된다. 학자인 H. 몽고메리 하이드는 이 용어가 영국 법정에서 “비역죄”에까지 이르지 않은 동성애를 의미한다고 주장한다. 그는 이 일 때문에 영국에서 영원히 추방되어 평생 돌아가지 못했다. 그는 1900년 파리에서 죽었다.</dbpedia-owl:abstract>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Aristotle"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/오스카_와일드"/>
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Wilde_Oscar_1854-1900"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
+    <dbpedia-owl:child rdf:resource="http://dbpedia.org/resource/Cyril_Holland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Portora_Royal_School"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.oscholars.com"/>
+    <dbpprop:period rdf:resource="http://dbpedia.org/resource/Victorian_era"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Honor%C3%A9_de_Balzac"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Ronald_Firbank"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Merton">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/W._H._Pugmire">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Sainte_Courtisane">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungry_Joe">
+    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Canterville_Ghost_(1944_film)">
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Woman_of_No_Importance_(film)">
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_in_Love">
+    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flahertie">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salome's_Last_Dance">
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Fingal_O'Flaherty_Wills_Wilde">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Hitchens">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Picture_of_Dorian_Gray_(1945_film)">
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yukio_Mishima">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun_Tsuji">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Fingal_O'Flahertie_Wills_Wilde">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_O'flaherty_Wilde">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mateiu_Caragiale">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Oscar_Wilde">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Picture_of_Dorian_Gray_(1918_film)">
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawrence_Durrell">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.nytimes.com/92034646808790459173">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Godwin">
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eriks_%C4%80damsons">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_wilde">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun'ichir%C5%8D_Tanizaki">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Duchess_of_Padua">
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Invention_of_Love">
+    <dbpprop:characters rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dave_Sim">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renzo_Novatore">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dorian_Gray_(1970_film)">
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salom%C3%A9_(1923_film)">
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/De_bannelingen">
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constance_Lloyd">
+    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Canterville_Ghost_(1985_film)">
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+  </rdf:Description>
+</rdf:RDF>

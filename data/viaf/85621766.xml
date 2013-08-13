@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12401401#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85621766"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12401401t"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12401401t"/>
+    <skos:prefLabel>Carson, Ciarán (1948- ).</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C033114889#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Carson, Ciarán (1948- ).</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85621766"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11731424#skos:Concept">
+    <skos:prefLabel>Carson, Ciarán (1948- ).</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85621766"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035673256#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:prefLabel>Carson, Ciarán (1948- ).</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85621766"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/85621766/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/85621766"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/85621766/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85621766"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CCiaran_Carson#skos:Concept">
+    <skos:prefLabel>Carson, Ciaran</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85621766"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C073902233#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Carson, Ciarán (1948- ).</skos:prefLabel>
+    <skos:altLabel>Carson, Ciaran, 1948-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85621766"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0050386#skos:Concept">
+    <skos:prefLabel>Carson, Ciarán (1948- ).</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85621766"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C259663#skos:Concept">
+    <skos:prefLabel>Carson, Ciarán (1948- ).</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85621766"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/259663#concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++86118646#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n86118646"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85621766"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Carson, Ciarán (1948- ).</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/85621766">
+    <foaf:name>Ciaran Carson</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/259663"/>
+    <foaf:name>Carson, Ciaran Irish poet and novelist, born 1948</foaf:name>
+    <foaf:name>Carson, Ciarán (1948- ).</foaf:name>
+    <foaf:name>カーソン, キアラン</foaf:name>
+    <foaf:name>Carson, Ciaran, 1948-</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12401401t#foaf:Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Carson, Ciaran.</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/033114889/id"/>
+    <rdaGr2:dateOfBirth>1948-10-09</rdaGr2:dateOfBirth>
+    <foaf:name>Carson, Ciaran</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ciaran_Carson"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/128387807"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500283730#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Ciaran Carson</skos:altLabel>
+    <skos:prefLabel>Carson, Ciaran Irish poet and novelist, born 1948</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85621766"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++98070491#skos:Concept">
+    <skos:altLabel>Carson, Ciaran.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85621766"/>
+    <skos:prefLabel>Carson, Ciarán (1948- ).</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C128387807#skos:Concept">
+    <skos:prefLabel>Carson, Ciarán (1948- ).</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85621766"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/85621766/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/85621766"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00708559#skos:Concept">
+    <skos:prefLabel>Carson, Ciarán (1948- ).</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85621766"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:altLabel>カーソン, キアラン</skos:altLabel>
+  </rdf:Description>
+</rdf:RDF>

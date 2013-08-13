@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Listener_(magazine)">
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Listener_(magazine)"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06hlgt"/>
+    <dbpedia-owl:abstract xml:lang="en">The Listener was a weekly magazine established by the BBC in January 1929 which ceased publication in 1991. The entire digitised catalogue was made available online to libraries, educational and research institutions in 2011. It was first published on 16 January 1929, under the editorship of Richard S. Lambert, and was developed as a medium of record for the reproduction of broadcast talks. It also previewed major literary and musical broadcasts, reviewed new books, and printed a selected list of the more intellectual broadcasts for the coming week. Its published aim was to be "a medium for intelligent reception of broadcast programmes by way of amplification and explanation of those features which cannot now be dealt with in the editorial columns of the Radio Times". The title reflected the fact that at the time the BBC broadcast via radio only.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PuBlicationsDisestablishedIn1991"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Publications_disestablished_in_1991"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:BBC_publications"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.listenercrossword.com/"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DefunctMagazinesOfTheUnitedKingdom"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Publications_established_in_1929"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/The_Listener_(magazine)"/>
+    <rdfs:comment xml:lang="en">The Listener was a weekly magazine established by the BBC in January 1929 which ceased publication in 1991. The entire digitised catalogue was made available online to libraries, educational and research institutions in 2011. It was first published on 16 January 1929, under the editorship of Richard S. Lambert, and was developed as a medium of record for the reproduction of broadcast talks.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Defunct_magazines_of_the_United_Kingdom"/>
+    <foaf:homepage rdf:resource="http://www.listenercrossword.com/"/>
+    <rdfs:label xml:lang="en">The Listener (magazine)</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:BBC_history"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BBCPuBlications"/>
+    <ns6:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/The_Listener_(magazine)?oldid=490506281"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PuBlicationsEstablishedIn1929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/The_Listener_(magazine)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/The_Listener_(magazine)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Listener">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/The_Listener_(magazine)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Listener_(British_magazine)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Listener_(magazine)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/The_Listener_%28magazine%29">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Listener_(magazine)"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Geoffrey_Squires">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Geoffrey_Squires"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Squires">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PoetsFromNorthernIreland"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1942</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_modernist_poets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <foaf:name xml:lang="en">Geoffrey Squires</foaf:name>
+    <dbpedia-owl:abstract xml:lang="en">Geoffrey Squires is an Irish poet who works in what might loosely be termed the modernist tradition.</dbpedia-owl:abstract>
+    <foaf:surname xml:lang="en">Squires</foaf:surname>
+    <rdfs:label xml:lang="en">Geoffrey Squires</rdfs:label>
+    <foaf:givenName xml:lang="en">Geoffrey</foaf:givenName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poets_from_Northern_Ireland"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nd.edu/~ndr/issues/ndr5/reviews/ireland1.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromDerry"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Geoffrey_Squires"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Geoffrey_Squires"/>
+    <dbpprop:name xml:lang="en">Squires, Geoffrey</dbpprop:name>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Geoffrey_Squires?oldid=404361911"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.026zzx"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Derry"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishModernistPoets"/>
+    <rdfs:comment xml:lang="en">Geoffrey Squires is an Irish poet who works in what might loosely be termed the modernist tradition.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1942_births"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Squires_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Geoffrey_Squires"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Geoffrey_Squires">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Geoffrey_Squires"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Vona_Groarke">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Vona_Groarke"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vona_Groarke">
+    <rdfs:comment xml:lang="en">Vona Groarke is an Irish poet. Groarke was born in Edgeworthstown in the Irish midlands in 1964, and attended Trinity College, Dublin, and University College, Cork. She has published five collections of poetry with the Gallery Press (and by Wake Forest University Press in the United States): Shale (1994), Other People's Houses (1999), Flight (2002), Juniper Street (2006) and Spindrift (2009).</rdfs:comment>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wfu.edu/wfupress"/>
+    <foaf:givenName xml:lang="en">Vona</foaf:givenName>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02qyj8x"/>
+    <dbpedia-owl:abstract xml:lang="en">Vona Groarke is an Irish poet. Groarke was born in Edgeworthstown in the Irish midlands in 1964, and attended Trinity College, Dublin, and University College, Cork. She has published five collections of poetry with the Gallery Press (and by Wake Forest University Press in the United States): Shale (1994), Other People's Houses (1999), Flight (2002), Juniper Street (2006) and Spindrift (2009). She is also the author of a translation of the eighteenth-century Irish poem Lament for Art O'Leary (Gallery Books, 2008). Her work has been recognized with awards including the Brendan Behan Memorial Award, the Hennessy Award, the Michael Hartnett Award, the Forward Prize, and the Strokestown International Poetry Award. Her 2009 volume Spindrift has been nominated for the 2010 Irish Times Poetry Now Award. She has been a co-holder of the Heimbold Chair of Irish Studies at Villanova University and has taught at Wake Forest University in North Carolina; she now teaches at the Centre for New Writing at the University of Manchester, and in 2010 was elected a member of Aosdána, the Irish academy of the arts.</dbpedia-owl:abstract>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Vona_Groarke"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_writers"/>
+    <foaf:name xml:lang="en">Vona Groarke</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wake_Forest_University_faculty"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:surname xml:lang="en">Groarke</foaf:surname>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Vona_Groarke"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Longford"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_women_poets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <rdfs:label xml:lang="en">Vona Groarke</rdfs:label>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Vona_Groarke?oldid=491297510"/>
+    <dbpprop:name xml:lang="en">Groarke, Vona</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Vona_Groarke">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Vona_Groarke"/>
+  </rdf:Description>
+</rdf:RDF>

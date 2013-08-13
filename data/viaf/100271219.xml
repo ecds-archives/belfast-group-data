@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12018892#skos:Concept">
+    <skos:prefLabel>O'Brien, Edna, 1932-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100271219"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb120188928"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb120188928"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000416647#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100271219"/>
+    <skos:prefLabel>Obrien, Edna</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>Gebler, Edna O'Brien</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100271219/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/100271219"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CEdna_O'Brien#skos:Concept">
+    <skos:prefLabel>Obrien, Edna</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100271219"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00451558#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:altLabel>オブライエン, エドナ</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>O'Brien, Edna, 1932-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100271219"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100271219/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/100271219"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990006213#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>O'Brien, Edna, 1932-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100271219"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C218899#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/218899#concept"/>
+    <skos:prefLabel>O'Brien, Edna, 1932-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100271219"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028331249#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100271219"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>O'Brien, Edna, 1930-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100271219/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100271219"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118803212#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Gébler, Edna O’Brien 1930-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>O’Braian, Entna 1930-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100271219"/>
+    <skos:prefLabel>O'Brien, Edna, 1930-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100271219">
+    <foaf:name>Gébler, Edna O’Brien 1930-</foaf:name>
+    <foaf:name>O'Brien, Edna, 1930-....</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/218899"/>
+    <rdaGr2:dateOfBirth>1932-12-15</rdaGr2:dateOfBirth>
+    <foaf:name>O’Braian, Entna 1930-</foaf:name>
+    <foaf:name>Gebler, Edna O'Brien</foaf:name>
+    <foaf:name>O'Brien, Edna, 1932-</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>オブライエン, エドナ</foaf:name>
+    <foaf:name>Obrien, Edna</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Edna_O'Brien"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb120188928#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/028331249/id"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118803212"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0067E6263#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:prefLabel>Obrien, Edna</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100271219"/>
+  </rdf:Description>
+</rdf:RDF>

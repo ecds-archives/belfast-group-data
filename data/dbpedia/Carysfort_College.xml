@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+   xmlns:grs="http://www.georss.org/georss/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carysfort">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Carysfort_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Our_Lady_of_Mercy_College_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Carysfort_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fidelma_Healy_Eames">
+    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Carysfort_College"/>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Carysfort_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carysfort_College">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Sisters_of_Mercy"/>
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/c/cc/Our_Lady_of_Mercy_College,_Carysfort.JPG"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_university"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Blackrock,_Dublin"/>
+    <dbpedia-owl:abstract xml:lang="en">Our Lady of Mercy College, Carysfort (commonly known as Carysfort College) was an important College of Education in Dublin, Ireland from its foundation in 1877 until its closure in 1988. Educating primary school teachers, and located in a parkland campus in Blackrock, it was a recognised college of the National University of Ireland from April 1975. The site is now the premises of the Michael Smurfit Graduate Business School.</dbpedia-owl:abstract>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Sisters_of_Mercy"/>
+    <foaf:name xml:lang="en">Our Lady of Mercy College, Carysfort.</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Carysfort_College"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05bylv"/>
+    <rdfs:comment xml:lang="en">Our Lady of Mercy College, Carysfort (commonly known as Carysfort College) was an important College of Education in Dublin, Ireland from its foundation in 1877 until its closure in 1988. Educating primary school teachers, and located in a parkland campus in Blackrock, it was a recognised college of the National University of Ireland from April 1975. The site is now the premises of the Michael Smurfit Graduate Business School.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_College_Dublin"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution"/>
+    <dbpprop:closed rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1988</dbpprop:closed>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-6.18464</geo:long>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Carysfort_College?oldid=485560467"/>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <dbpprop:campus xml:lang="en">Suburban</dbpprop:campus>
+    <foaf:nick xml:lang="en">Carysfort College</foaf:nick>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Sisters_of_Mercy"/>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/National_University_of_Ireland"/>
+    <dbpprop:type rdf:resource="http://dbpedia.org/resource/Catholic_Church"/>
+    <dbpprop:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">200</dbpprop:imageSize>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Carysfort_College"/>
+    <grs:point xml:lang="en">53.296171 -6.184644</grs:point>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Our_Lady_of_Mercy_College,_Carysfort.JPG/200px-Our_Lady_of_Mercy_College,_Carysfort.JPG"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Education_schools_in_Ireland"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.2962</geo:lat>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/National_University_of_Ireland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Defunct_universities_and_colleges_in_Ireland"/>
+    <dbpprop:established rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1877</dbpprop:established>
+    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <dbpprop:nickname xml:lang="en">Carysfort College</dbpprop:nickname>
+    <dbpprop:name xml:lang="en">Our Lady of Mercy College, Carysfort.</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Universities_and_colleges_in_the_Republic_of_Ireland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Blackrock,_Dublin"/>
+    <dbpedia-owl:type rdf:resource="http://dbpedia.org/resource/Catholic_Church"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1877"/>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Blackrock,_Dublin"/>
+    <dbpprop:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <dbpprop:imageName xml:lang="en">Our_Lady_of_Mercy_College,_Carysfort.JPG</dbpprop:imageName>
+    <rdfs:label xml:lang="en">Carysfort College</rdfs:label>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-6.18464 53.2962)</geo:geometry>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M%C3%A1ire_Geoghegan-Quinn">
+    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Carysfort_College"/>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Carysfort_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/D%C3%A9irdre_de_B%C3%BArca">
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Carysfort_College"/>
+    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Carysfort_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Our_Lady_of_Mercy_College,_Carysfort">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Carysfort_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Carysfort_College">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Carysfort_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Mitchell_O'Connor">
+    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Carysfort_College"/>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Carysfort_College"/>
+  </rdf:Description>
+</rdf:RDF>

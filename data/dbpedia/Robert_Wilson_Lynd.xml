@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lynd">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Robert_Wilson_Lynd"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Robert_Wilson_Lynd">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Robert_Wilson_Lynd"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Wilson_Lynd">
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Lynd_Robert_1879-1949"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.findarticles.com/p/articles/mi_m2242/is_1606_275/ai_58055875"/>
+    <dbpprop:name xml:lang="en">Robert Lynd</dbpprop:name>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dbpprop:dateOfDeath>
+    <dbpprop:id xml:lang="en">Robert+Lynd</dbpprop:id>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishSocialists"/>
+    <rdfs:comment xml:lang="en">Robert Wilson Lynd (20 April 1879 – 6 October 1949) was an Irish writer, an urbane literary essayist and strong Irish nationalist.</rdfs:comment>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1949-10-06</dbpedia-owl:deathDate>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03_zf4"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</dbpprop:dateOfBirth>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bookrags.com/biography/robert-lynd-dlb/"/>
+    <rdfs:label xml:lang="en">Robert Wilson Lynd</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpprop:name xml:lang="en">Lynd, Robert Wilson</dbpprop:name>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:abstract xml:lang="en">Robert Wilson Lynd (20 April 1879 – 6 October 1949) was an Irish writer, an urbane literary essayist and strong Irish nationalist.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_socialists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_Nationalists"/>
+    <foaf:surname xml:lang="en">Lynd</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EssayistsFromNorthernIreland"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Robert_Wilson_Lynd"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Robert_Wilson_Lynd?oldid=486247678"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ulsterhistory.co.uk/robertlynd.htm"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1949_deaths"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Presbyterians_from_Northern_Ireland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Essayists_from_Northern_Ireland"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1879-04-20</dbpedia-owl:birthDate>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.concertinaworks.com/TW/filmstars.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belfast"/>
+    <foaf:givenName xml:lang="en">Robert Wilson</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1879_births"/>
+    <foaf:name xml:lang="en">Robert Wilson Lynd</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ProtestantNationalists"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Robert_Wilson_Lynd"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Robert_Wilson_Lynd">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Robert_Wilson_Lynd"/>
+  </rdf:Description>
+</rdf:RDF>

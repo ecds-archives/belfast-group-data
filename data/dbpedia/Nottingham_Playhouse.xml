@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+   xmlns:grs="http://www.georss.org/georss/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Nottingham_Playhouse">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Nottingham_Playhouse"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nottingham_Playhouse">
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-1.1577 52.9537)</geo:geometry>
+    <dbpprop:address xml:lang="en">Wellington Circus</dbpprop:address>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06b2jv"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nottingham_Playhouse_at_night.JPG/200px-Nottingham_Playhouse_at_night.JPG"/>
+    <dbpedia-owl:locationCity rdf:resource="http://dbpedia.org/resource/Nottingham_City_Centre"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:architect xml:lang="en">Peter Moro</dbpprop:architect>
+    <dbpprop:type xml:lang="en">Proscenium</dbpprop:type>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Theatre"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Theatres_in_Nottingham"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Nottingham_Playhouse"/>
+    <dbpprop:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#int">53</dbpprop:latitude>
+    <dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">0036-01-01T00:00:00+02:00</dbpedia-owl:activeYearsStartYear>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Nottingham"/>
+    <rdfs:comment xml:lang="en">The Nottingham Playhouse is a theatre in Nottingham, Nottinghamshire, England. It was first established as a repertory theatre in the 1950s when it operated from a former cinema. Directors during this period included Val May and Frank Dunlop.</rdfs:comment>
+    <dbpprop:caption xml:lang="en">Nottingham Playhouse &amp; Sky Mirror at night</dbpprop:caption>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/local/nottingham/hi/people_and_places/arts_and_culture/newsid_8405000/8405330.stm"/>
+    <foaf:homepage rdf:resource="http://www.nottinghamplayhouse.co.uk"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/local/nottingham/hi/people_and_places/arts_and_culture/newsid_8408000/8408315.stm"/>
+    <grs:point xml:lang="en">52.9537 -1.1577</grs:point>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Grade_II*_listed_buildings_in_Nottinghamshire"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure"/>
+    <dbpprop:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#int">770</dbpprop:capacity>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.castrestaurant.co.uk"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_theatre"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GradeII*ListedBuildingsInNottinghamshire"/>
+    <dbpedia-owl:openingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1963-01-01T00:00:00+02:00</dbpedia-owl:openingYear>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Nottingham_City_Centre"/>
+    <dbpedia-owl:seatingCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">770</dbpedia-owl:seatingCapacity>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/0/0c/Nottingham_Playhouse_at_night.JPG"/>
+    <dbpprop:designation xml:lang="en">Grade II* Listed Building</dbpprop:designation>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <dbpedia-owl:abstract xml:lang="en">The Nottingham Playhouse is a theatre in Nottingham, Nottinghamshire, England. It was first established as a repertory theatre in the 1950s when it operated from a former cinema. Directors during this period included Val May and Frank Dunlop.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://maps.google.co.uk/maps?hl=en&amp;ie=UTF8&amp;ll=52.953706,-1.156912&amp;spn=0,359.975538&amp;z=16&amp;layer=c&amp;cbll=52.953775,-1.156667&amp;panoid=2rew_0i27hTawoMnQoZmAQ&amp;cbp=12,46.09,,0,-7.71"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <dbpprop:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#int">-1</dbpprop:longitude>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TheatresInNottingham"/>
+    <dbpedia-owl:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">0036-01-01T00:00:00+02:00</dbpedia-owl:activeYearsEndYear>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.9537</geo:lat>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nottinghamplayhouse.co.uk/skymirror/index.htm"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.1577</geo:long>
+    <dbpprop:name xml:lang="en">Nottingham Playhouse</dbpprop:name>
+    <dbpedia-owl:address xml:lang="en">Wellington Circus</dbpedia-owl:address>
+    <foaf:name xml:lang="en">Nottingham Playhouse</foaf:name>
+    <dbpprop:opened rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1963</dbpprop:opened>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Nottingham_Playhouse?oldid=489126780"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Building"/>
+    <rdfs:label xml:lang="en">Nottingham Playhouse</rdfs:label>
+    <dbpedia-owl:type rdf:resource="http://dbpedia.org/resource/Proscenium"/>
+    <dbpprop:yearsactive rdf:datatype="http://dbpedia.org/datatype/second">1.1360736E9</dbpprop:yearsactive>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Nottingham_Playhouse"/>
+    <dbpprop:website xml:lang="en">www.nottinghamplayhouse.co.uk/</dbpprop:website>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nottinghamplayhouse.co.uk"/>
+    <dbpedia-owl:locationCity rdf:resource="http://dbpedia.org/resource/Nottingham"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://ml2000.org.uk/clients/dunlop_frank.htm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Playhouse">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Nottingham_Playhouse"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Popcorn_(play)">
+    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Nottingham_Playhouse"/>
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Nottingham_Playhouse"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Nottingham_Playhouse">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Nottingham_Playhouse"/>
+  </rdf:Description>
+</rdf:RDF>

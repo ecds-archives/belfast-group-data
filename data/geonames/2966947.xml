@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2966947/about.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2966947/"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-18</dcterms:modified>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2966947/"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2966947/">
+    <gn:alternateName xml:lang="fi">Aransaaret</gn:alternateName>
+    <gn:alternateName>Aran Islands</gn:alternateName>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2964179/"/>
+    <gn:alternateName xml:lang="ga">Oileáin Árann</gn:alternateName>
+    <gn:alternateName xml:lang="pt">Ilhas de Aran</gn:alternateName>
+    <gn:alternateName xml:lang="mt">Gżejjer Aran</gn:alternateName>
+    <gn:alternateName xml:lang="ja">アラン諸島</gn:alternateName>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2966947/nearby.rdf"/>
+    <gn:alternateName xml:lang="nl">Araneilanden</gn:alternateName>
+    <gn:name>Aran Islands</gn:name>
+    <gn:alternateName>Aran</gn:alternateName>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2964179/"/>
+    <gn:alternateName xml:lang="cy">Ynysoedd Arann</gn:alternateName>
+    <gn:alternateName xml:lang="de">Aran-Inseln</gn:alternateName>
+    <gn:alternateName xml:lang="hu">Aran-szigetek</gn:alternateName>
+    <gn:alternateName xml:lang="no">Aranøyene</gn:alternateName>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#T.ISLS"/>
+    <gn:alternateName xml:lang="he">איי אראן</gn:alternateName>
+    <gn:alternateName xml:lang="br">Inizi Árainn</gn:alternateName>
+    <gn:alternateName xml:lang="ko">아란 제도</gn:alternateName>
+    <gn:alternateName xml:lang="pl">Arany</gn:alternateName>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#T"/>
+    <gn:alternateName xml:lang="fr">Îles d'Aran</gn:alternateName>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:alternateName xml:lang="lt">Arano salos</gn:alternateName>
+    <gn:alternateName xml:lang="gl">Illas de Aran</gn:alternateName>
+    <gn:alternateName xml:lang="ru">Аран</gn:alternateName>
+    <gn:alternateName xml:lang="sv">Aranöarna</gn:alternateName>
+    <gn:alternateName xml:lang="it">Isole Aran</gn:alternateName>
+    <gn:alternateName xml:lang="eu">Aran uharteak</gn:alternateName>
+    <gn:alternateName xml:lang="be">Архіпелаг Аран</gn:alternateName>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521313/"/>
+    <gn:alternateName xml:lang="ml">അരാൻ ദ്വീപുകൾ</gn:alternateName>
+    <wgs84_pos:long>-9.62861</wgs84_pos:long>
+    <gn:alternateName xml:lang="et">Arani saared</gn:alternateName>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Aran_Islands"/>
+    <wgs84_pos:lat>53.09806</wgs84_pos:lat>
+    <gn:alternateName xml:lang="nn">Aranøyane</gn:alternateName>
+    <gn:wikipediaArticle rdf:resource="http://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%BD_%28%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%29"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2966947/about.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2966947/aran-islands.html"/>
+    <gn:alternateName xml:lang="ca">Illes Aran</gn:alternateName>
+    <gn:alternateName xml:lang="zh">阿倫群島</gn:alternateName>
+    <gn:alternateName xml:lang="da">Aranøerne</gn:alternateName>
+    <gn:countryCode>IE</gn:countryCode>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Aran_Islands"/>
+    <gn:alternateName>South Aran</gn:alternateName>
+    <gn:alternateName xml:lang="cs">Aranské ostrovy</gn:alternateName>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
+    <gn:alternateName xml:lang="es">Islas Aran</gn:alternateName>
+    <gn:alternateName xml:lang="en">Aran Islands</gn:alternateName>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2619218/about.rdf">
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2619218/"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-17</dcterms:modified>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2619218/"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2619218/">
+    <gn:alternateName>Gylland</gn:alternateName>
+    <wgs84_pos:lat>56</wgs84_pos:lat>
+    <gn:alternateName xml:lang="en">Jutland</gn:alternateName>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2619218/nearby.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+    <gn:countryCode>DK</gn:countryCode>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <wgs84_pos:long>9.25</wgs84_pos:long>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2619218/about.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2623032/"/>
+    <gn:name>Jutland</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2619218/jutland.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2623032/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.RGN"/>
+    <gn:alternateName>Chersonesus</gn:alternateName>
+    <gn:alternateName xml:lang="da">Jylland</gn:alternateName>
+    <gn:alternateName>Cimbrica</gn:alternateName>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Waterman">
+    <foaf:homepage rdf:resource="http://www.andrewwaterman.co.uk/"/>
+    <rdfs:label xml:lang="en">Andrew Waterman</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1940_births"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Worcester_College,_Oxford"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_the_University_of_Ulster"/>
+    <dbpedia-owl:abstract xml:lang="en">Andrew Waterman is a poet. Born in London in 1940, Waterman grew up in Woodside and Croydon, and at the age of eleven won a scholarship to the Trinity School of John Whitgift. He left before sitting his A levels, and after six years of clerical and manual jobs in London and Jersey, Waterman studied at the University of Leicester (graduating with First Class Honours in 1966) and Worcester College, University of Oxford. From 1968 to 1997 he lectured in English Literature at the University of Ulster, Coleraine, and in 1998 retired to Norfolk. He is a recipient of the Cholmondeley Award for Poets. Since 1990 he has been registered blind, though in practice is partially sighted. Waterman's poetry is often noted for its wit, humility and stoicism. Reviewing his Collected Poems in Ambit, Marita Over writes: "The “story” that emerges through these poems is moving and inspiring and the craftsmanship in its telling is superb. Even as it explores the darkest themes of the arbitrariness of human existence and the innate violence of the human species, brims with a vitality and an in-spite-of-itself optimism born of a keen eye and ear for what is beautiful. " Waterman is a recipient of the Cholmondeley Award to Poets. http://www. andrewwaterman. co. uk/about. shtml</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <foaf:givenName xml:lang="en">Andrew</foaf:givenName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPoets"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.andrewwaterman.co.uk/about.shtml"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1940</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <foaf:surname xml:lang="en">Waterman</foaf:surname>
+    <rdfs:comment xml:lang="en">Andrew Waterman is a poet. Born in London in 1940, Waterman grew up in Woodside and Croydon, and at the age of eleven won a scholarship to the Trinity School of John Whitgift. He left before sitting his A levels, and after six years of clerical and manual jobs in London and Jersey, Waterman studied at the University of Leicester (graduating with First Class Honours in 1966) and Worcester College, University of Oxford.</rdfs:comment>
+    <foaf:name xml:lang="en">Andrew Waterman</foaf:name>
+    <dbpprop:name xml:lang="en">Waterman, Andrew</dbpprop:name>
+    <dc:description xml:lang="en">English poet</dc:description>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Andrew_Waterman"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://poetsquarterly.yolasite.com/fall09_waterman.php"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfWorcesterCollege,Oxford"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AcademicsOfTheUniversityOfUlster"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0c992n"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTheUniversityOfLeicester"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Leicester"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Andrew_Waterman"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.andrewwaterman.co.uk/"/>
+    <dbpprop:shortDescription xml:lang="en">English poet</dbpprop:shortDescription>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Andrew_Waterman?oldid=492281551"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Andrew_Waterman">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Andrew_Waterman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Andrew_Waterman">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Andrew_Waterman"/>
+  </rdf:Description>
+</rdf:RDF>

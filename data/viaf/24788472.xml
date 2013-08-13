@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118748548#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24788472"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Smith, Elizabeth, 1894-1937</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Smith, Bessie, 1894-1937</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/24788472/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/24788472"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C256279#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Smith, Elizabeth, 1894-1937</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24788472"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:prefLabel>Smith, Bessie, 1894-1937</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/256279#concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2003044666#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24788472"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Smith, Bessie, 1894-1937</skos:prefLabel>
+    <skos:altLabel>Smith, Elizabeth.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C03314933X#skos:Concept">
+    <skos:prefLabel>Smith, Bessie, 1894-1937</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24788472"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/24788472/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24788472"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/24788472">
+    <foaf:name>Smith, Elizabeth.</foaf:name>
+    <foaf:name>Smith, Elizabeth, 1894-1937</foaf:name>
+    <foaf:name>Smith, Bessie</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Smith, Bessie, ca 1894-1937</foaf:name>
+    <foaf:name>Smith, Elizabeth, ca 1894-1937</foaf:name>
+    <foaf:name>Smith, Bessie, 1894-1937</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118748548"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/03314933X/id"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdaGr2:dateOfBirth>1894-04-15</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bessie_Smith"/>
+    <rdaGr2:dateOfDeath>1937-09-26</rdaGr2:dateOfDeath>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb13899855g#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/256279"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cola2002158361#skos:Concept">
+    <skos:prefLabel>Smith, Bessie, ca 1894-1937</skos:prefLabel>
+    <skos:altLabel>Smith, Elizabeth, ca 1894-1937</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24788472"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C07262390X#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Smith, Bessie, 1894-1937</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24788472"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C13899855#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb13899855g"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Smith, Bessie, 1894-1937</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24788472"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb13899855g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca1956546x#skos:Concept">
+    <skos:prefLabel>Smith, Bessie, 1894-1937</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24788472"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CBessie_Smith#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24788472"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Smith, Bessie</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/24788472/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/24788472"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/VLACC%7C000023739#skos:Concept">
+    <skos:altLabel>Smith, Bessie</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24788472"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Smith, Bessie, 1894-1937</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/VLACC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++83071529#skos:Concept">
+    <skos:prefLabel>Smith, Bessie, 1894-1937</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24788472"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n83071529"/>
+    <skos:altLabel>Smith, Elizabeth, 1894-1937</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+</rdf:RDF>

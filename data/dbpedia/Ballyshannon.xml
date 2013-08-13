@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+   xmlns:grs="http://www.georss.org/georss/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Ballyshannon">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Carney">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Ballyshannon_(1247)">
+    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Allingham">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballyshannon">
+    <dbpprop:leaderTitle rdf:resource="http://dbpedia.org/resource/D%C3%A1il_%C3%89ireann"/>
+    <grs:point xml:lang="en">54.5015 -8.1901</grs:point>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeoclassLocality"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-8.1901</geo:long>
+    <dbpprop:subdivisionType rdf:resource="http://dbpedia.org/resource/Counties_of_Ireland"/>
+    <dbpedia-owl:leaderTitle xml:lang="en">Dáil Éireann</dbpedia-owl:leaderTitle>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdfs:comment xml:lang="de">Ballyshannon ist ein Ort im äußersten Süden des County Donegal im Nordwesten Irlands mit 3.486 Einwohnern (2011). Jüngst wurde dort eine futuristisch anmutende Brücke über den Erne eingeweiht. Die neue Umgehungsstraße entlastet die Innenstadt sehr. Vor dem Ort liegen die Assaroe Wasserfälle. Der Name geht auf den altirischen Feuer- und Sonnengott Áed zurück.</rdfs:comment>
+    <dbpedia-owl:populationUrban rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</dbpedia-owl:populationUrban>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-8.1901 54.5015)</geo:geometry>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03x9pq"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.irishrail.ie"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ballyshannon.ie"/>
+    <foaf:name xml:lang="en">Ballyshannon</foaf:name>
+    <dbpprop:populationUrban rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2004</dbpprop:populationUrban>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-location-noun-1"/>
+    <dbpedia-owl:abstract xml:lang="nl">Ballyshannon is een plaats in het Ierse graafschap Donegal. De plaats telt 2.200 inwoners.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement"/>
+    <rdfs:comment xml:lang="pl">Ballyshannon (irl. Béal Atha Seanaidh) jest miastem w hrabstwie Donegal w Irlandii. Znajduje się w miejscu, gdzie drogi N3 i N15 przecinają rzekę Erne. Ballyshannon przyciąga wielu turystów poprzez atrakcyjną lokalizację – w pobliżu nadmorskiej miejscowości wypoczynkowej Bundoran. Urodził się tutaj poeta William Allingham, jak też bluesman – Rory Gallagher.</rdfs:comment>
+    <dbpprop:leaderName rdf:resource="http://dbpedia.org/resource/North-West_(European_Parliament_constituency)"/>
+    <rdfs:comment xml:lang="nl">Ballyshannon is een plaats in het Ierse graafschap Donegal. De plaats telt 2.200 inwoners.</rdfs:comment>
+    <dbpprop:coordinatesType xml:lang="en">dim:100000_region:IE</dbpprop:coordinatesType>
+    <dbpedia-owl:timeZone rdf:resource="http://dbpedia.org/resource/Western_European_Time"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.BallyshannonOnline.com"/>
+    <dbpedia-owl:abstract xml:lang="de">Ballyshannon ist ein Ort im äußersten Süden des County Donegal im Nordwesten Irlands mit 3.486 Einwohnern (2011). Jüngst wurde dort eine futuristisch anmutende Brücke über den Erne eingeweiht. Die neue Umgehungsstraße entlastet die Innenstadt sehr. Vor dem Ort liegen die Assaroe Wasserfälle. Der Name geht auf den altirischen Feuer- und Sonnengott Áed zurück. Über Irland hinaus ist Ballyshannon als Veranstaltungsort des Ballyshannon Folk &amp; Traditional Music Festivals, eines der drei wichtigsten Irish-Folk-Festivals des Landes, bekannt. Es findet seit 1977 jährlich statt. Rory Gallagher ist in Ballyshannon geboren.</dbpedia-owl:abstract>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Donegal"/>
+    <dbpedia-owl:abstract xml:lang="ru">Баллишаннон — (малый) город в Ирландии, находится в графстве Донегол.</dbpedia-owl:abstract>
+    <dbpprop:leaderName rdf:resource="http://dbpedia.org/resource/South_Donegal_(UK_Parliament_constituency)"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ballyshannon"/>
+    <dbpprop:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2006</dbpprop:populationAsOf>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Ballyshannon"/>
+    <dbpprop:imageSeal xml:lang="en">HerbBallyshannon3.gif</dbpprop:imageSeal>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/HerbBallyshannon3.gif/200px-HerbBallyshannon3.gif"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ballyshannon"/>
+    <dbpedia-owl:utcOffset xml:lang="en">+0</dbpedia-owl:utcOffset>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <dbpedia-owl:leaderName rdf:resource="http://dbpedia.org/resource/South_Donegal_(UK_Parliament_constituency)"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.ie/books?id=ujpIAAAAMAAJ"/>
+    <dbpprop:pushpinMap xml:lang="en">Ireland</dbpprop:pushpinMap>
+    <dbpprop:coordinatesFormat xml:lang="en">dms</dbpprop:coordinatesFormat>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.aodhruadh.org"/>
+    <dbpprop:subdivisionType rdf:resource="http://dbpedia.org/resource/Provinces_of_Ireland"/>
+    <rdfs:label xml:lang="en">Ballyshannon</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.buseireann.ie"/>
+    <dbpedia-owl:abstract xml:lang="pl">Ballyshannon (irl. Béal Atha Seanaidh) jest miastem w hrabstwie Donegal w Irlandii. Znajduje się w miejscu, gdzie drogi N3 i N15 przecinają rzekę Erne. Ballyshannon przyciąga wielu turystów poprzez atrakcyjną lokalizację – w pobliżu nadmorskiej miejscowości wypoczynkowej Bundoran. Urodził się tutaj poeta William Allingham, jak też bluesman – Rory Gallagher.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="fr">Ballyshannon (Béal Átha Seanaidh en irlandais) est une ville du comté de Donegal en République d'Irlande. Elle est située à l'embouchure de l'Erne. La ville de Ballyshannon compte habitants.</rdfs:comment>
+    <dbpprop:coordinatesDisplay xml:lang="en">inline,title</dbpprop:coordinatesDisplay>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Баллишаннон"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.fedaodonnell.com/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ulsterbus.co.uk"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <rdfs:comment xml:lang="en">Ballyshannon (Irish: Béal Átha Seanaidh, meaning "The Mouth of Seannachs ford") is a town in County Donegal, Ireland. It is located at the southern end of the county where the N3 and N15 cross the River Erne, and claims to be the oldest town in Ireland.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Ballyshannon (in gaelico irlandese Béal Átha Seanaidh) è una cittadina costiera del Donegal meridionale, nella Repubblica d'Irlanda. È attraversata dal fiume Erne e si trova poco lontana dal confine con l'Irlanda del Nord. Famosa per un festival di musica folk che si svolge ogni anno tra la fine di luglio e l'inizio di agosto e per aver dato i natali a Rory Gallagher.</rdfs:comment>
+    <dbpprop:timezone rdf:resource="http://dbpedia.org/resource/Western_European_Time"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ballyshannonfolkfestival.com"/>
+    <dbpedia-owl:timeZone rdf:resource="http://dbpedia.org/resource/Western_European_Summer_Time"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/9/93/HerbBallyshannon3.gif"/>
+    <dbpedia-owl:leaderName rdf:resource="http://dbpedia.org/resource/North-West_(European_Parliament_constituency)"/>
+    <rdfs:comment xml:lang="no">Ballyshannon (Béal Átha Seanaidh på er en by med 2232 innbyggere i grevskapet Donegal i provinsen Ulster på nordvestkysten av Irland.</rdfs:comment>
+    <dbpprop:utcOffset xml:lang="en">+0</dbpprop:utcOffset>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_settlement"/>
+    <dbpprop:utcOffset1Dst rdf:datatype="http://www.w3.org/2001/XMLSchema#int">-1</dbpprop:utcOffset1Dst>
+    <dbpprop:unitPref xml:lang="en">Metric</dbpprop:unitPref>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://web.archive.org/web/20091027070927/http:/www.geocities.com/johngall_99"/>
+    <dbpprop:blankName rdf:resource="http://dbpedia.org/resource/Irish_grid_reference_system"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Town"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Ballyshannon"/>
+    <rdfs:label xml:lang="de">Ballyshannon</rdfs:label>
+    <dbpprop:populationDensityKm xml:lang="en">auto</dbpprop:populationDensityKm>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Donegal"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.5015</geo:lat>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Ballyshannon"/>
+    <dbpprop:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">55</dbpprop:latd>
+    <dbpedia-owl:leaderTitle xml:lang="en">EU Parliament</dbpedia-owl:leaderTitle>
+    <dbpprop:timezone1Dst xml:lang="en">IST</dbpprop:timezone1Dst>
+    <dbpprop:name xml:lang="en">Ballyshannon</dbpprop:name>
+    <dbpprop:settlementType xml:lang="en">Town</dbpprop:settlementType>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <dbpprop:pushpinLabelPosition xml:lang="en">right</dbpprop:pushpinLabelPosition>
+    <dbpedia-owl:utcOffset xml:lang="en">-1</dbpedia-owl:utcOffset>
+    <dbpedia-owl:abstract xml:lang="it">Ballyshannon (in gaelico irlandese Béal Átha Seanaidh) è una cittadina costiera del Donegal meridionale, nella Repubblica d'Irlanda. È attraversata dal fiume Erne e si trova poco lontana dal confine con l'Irlanda del Nord. Famosa per un festival di musica folk che si svolge ogni anno tra la fine di luglio e l'inizio di agosto e per aver dato i natali a Rory Gallagher.</dbpedia-owl:abstract>
+    <dbpprop:subdivisionType xml:lang="en">Country</dbpprop:subdivisionType>
+    <dbpprop:areaCode xml:lang="en">+353 71 98 5</dbpprop:areaCode>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ballyshannon?oldid=494435635"/>
+    <dbpedia-owl:areaCode xml:lang="en">+353 71 98 5</dbpedia-owl:areaCode>
+    <dbpprop:leaderTitle rdf:resource="http://dbpedia.org/resource/European_Parliament_constituency"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ballyshannon"/>
+    <dbpprop:populationRural rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2686</dbpprop:populationRural>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.donegalvec.ie/vtos"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Towns_and_villages_in_County_Donegal"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:pushpinMapCaption xml:lang="en">Location in Ireland</dbpprop:pushpinMapCaption>
+    <dbpedia-owl:abstract xml:lang="en">Ballyshannon (Irish: Béal Átha Seanaidh, meaning "The Mouth of Seannachs ford") is a town in County Donegal, Ireland. It is located at the southern end of the county where the N3 and N15 cross the River Erne, and claims to be the oldest town in Ireland.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">Ballyshannon (Béal Átha Seanaidh en irlandais) est une ville du comté de Donegal en République d'Irlande. Elle est située à l'embouchure de l'Erne. La ville de Ballyshannon compte habitants.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="ru">Баллишаннон — (малый) город в Ирландии, находится в графстве Донегол.</rdfs:comment>
+    <dbpprop:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">-8</dbpprop:longd>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TownsAndVillagesInCountyDonegal"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.goingtomyhometown.com"/>
+    <dbpedia-owl:populationRural rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2686</dbpedia-owl:populationRural>
+    <dbpedia-owl:abstract xml:lang="no">Ballyshannon (Béal Átha Seanaidh på er en by med 2232 innbyggere i grevskapet Donegal i provinsen Ulster på nordvestkysten av Irland.</dbpedia-owl:abstract>
+    <dbpprop:coordinatesRegion xml:lang="en">IE</dbpprop:coordinatesRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballyshannon_(CDJ)_railway_station">
+    <dbpprop:locale rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A46_road_(Northern_Ireland)">
+    <dbpprop:destinations rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Football_League_(Ireland)_2012">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballyshannon_railway_station">
+    <dbpprop:locale rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rory_Gallagher">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Kelly">
+    <dbpedia-owl:restingPlace rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+    <dbpprop:restingPlace rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tommy_Gallagher_(politician)">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Football_League_(Ireland)_2011">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruaidhri_mac_Raghnaill">
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Boyle_(Moneyless_Man)">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A47_road_(Northern_Ireland)">
+    <dbpprop:destinations rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Hurling_League_2002">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Joseph_Keane">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Reade">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ballyshannon">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/All-Ireland_Senior_Ladies'_Football_Championship_2009">
+    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+  </rdf:Description>
+</rdf:RDF>

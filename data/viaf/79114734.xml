@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/79114734/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79114734"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12511382#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>MacGuinness, Frank, 1953-</skos:altLabel>
+    <skos:prefLabel>McGuinness, Frank, 1953-....</skos:prefLabel>
+    <skos:altLabel>Mc Guinness, Frank 1953-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:altLabel>Mac Guinness Frank 1953-....</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12511382r"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79114734"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12511382r"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++01203784#skos:Concept">
+    <skos:prefLabel>McGuinness, Frank, 1953-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79114734"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/79114734">
+    <foaf:name>McGuinness, Frank, 1953-....</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/034349537/id"/>
+    <foaf:name>Mc Guinness, Frank</foaf:name>
+    <foaf:name>フランク・マクギネス</foaf:name>
+    <foaf:name>Mc Guinness, Frank 1953-</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12511382r#foaf:Person"/>
+    <foaf:name>Mac Guinness Frank 1953-....</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11921086X"/>
+    <foaf:name>マクギネス, フランク</foaf:name>
+    <foaf:name>MacGuiness, Frank 1953-</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Mac Guinness, Frank</foaf:name>
+    <foaf:name>MacGuinness, Frank, 1953-</foaf:name>
+    <rdaGr2:dateOfBirth>1953-07-29</rdaGr2:dateOfBirth>
+    <foaf:name>McGuinness, Frank</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Frank_McGuinness"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>MacGuinness, Frank</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/195465"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++83219787#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79114734"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n83219787"/>
+    <skos:altLabel>フランク・マクギネス</skos:altLabel>
+    <skos:prefLabel>McGuinness, Frank</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca12555885#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79114734"/>
+    <skos:prefLabel>McGuinness, Frank, 1953-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cpna2007370840#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:prefLabel>McGuinness, Frank, 1953-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79114734"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/79114734/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/79114734"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C145553876#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79114734"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>MacGuinness, Frank, 1953-</skos:altLabel>
+    <skos:prefLabel>McGuinness, Frank, 1953-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CFrank_McGuinness#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>McGuinness, Frank</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79114734"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C11921086X#skos:Concept">
+    <skos:prefLabel>McGuinness, Frank, 1953-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>MacGuinness, Frank, 1953-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>MacGuiness, Frank 1953-</skos:altLabel>
+    <skos:altLabel>Mc Guinness, Frank 1953-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79114734"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/79114734/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/79114734"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C034349537#skos:Concept">
+    <skos:altLabel>MacGuinness, Frank</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Mac Guinness, Frank</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79114734"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Mc Guinness, Frank</skos:altLabel>
+    <skos:prefLabel>McGuinness, Frank, 1953-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00864893#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79114734"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>マクギネス, フランク</skos:altLabel>
+    <skos:prefLabel>McGuinness, Frank, 1953-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C195465#skos:Concept">
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/195465#concept"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79114734"/>
+    <skos:prefLabel>McGuinness, Frank, 1953-....</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

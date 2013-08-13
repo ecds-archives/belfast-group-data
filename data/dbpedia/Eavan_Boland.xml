@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Eavan_Boland">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Eavan_Boland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seamus_Heaney">
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Eavan_Boland"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Eavan_Boland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Eavan_Boland">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Eavan_Boland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Montague_(poet)">
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Eavan_Boland"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Eavan_Boland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/River_Liffey">
+    <dbpprop:source rdf:resource="http://dbpedia.org/resource/Eavan_Boland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Mahon">
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Eavan_Boland"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Eavan_Boland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eavan_Boland">
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Poet"/>
+    <dbpprop:name xml:lang="en">Eavan Boland</dbpprop:name>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Eavan_Boland"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/John_Montague_(poet)"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyDuBlin"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wisdomportal.com/Stanford/EavanBoland.html"/>
+    <dbpprop:caption xml:lang="en">Boland in 1996</dbpprop:caption>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Eavan_Boland"/>
+    <dbpprop:birthPlace xml:lang="en">In Dublin, Ireland</dbpprop:birthPlace>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryfoundation.org/archive/poet.html?id=670"/>
+    <foaf:surname xml:lang="en">Boland</foaf:surname>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.carcanet.co.uk/cgi-bin/reframe.cgi?app=scribe&amp;book=1857546830"/>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwVHe6JwpEbGdrcN5Y29ycA"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.taoiseach.gov.ie/index.asp?locID=582&amp;docID=3867"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishWomenWriters"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Eavan_Boland"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Seamus_Heaney"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eavan_Boland_in_1996.jpg/200px-Eavan_Boland_in_1996.jpg"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/8/8e/Eavan_Boland_in_1996.jpg"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_writers"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:abstract xml:lang="pl">Eavan Boland – irlandzka poetka.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="en">Eavan Boland</rdfs:label>
+    <dbpprop:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">250</dbpprop:imagesize>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1944-09-24</dbpprop:birthDate>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.carcanet.co.uk/cgi-bin/reframe.cgi?app=scribe&amp;author=bolande&amp;file=interview1.txt"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://findarticles.com/p/articles/mi_qa3692/is_199705/ai_n8772774"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Women_poets"/>
+    <dbpprop:occupation rdf:resource="http://dbpedia.org/resource/Poet"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WomenPoets"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.024dpx"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.writinguniversity.org/index.php/main/entry/eavan_boland_in_iowa/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.irishwriters-online.com/eavanboland.html"/>
+    <rdfs:comment xml:lang="pl">Eavan Boland – irlandzka poetka.</rdfs:comment>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1944-09-24</dbpedia-owl:birthDate>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poets.org/viewmedia.php/prmMID/15939"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Dublin_(city)"/>
+    <dbpprop:name xml:lang="en">Boland, Eavan</dbpprop:name>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Seamus_Heaney"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_women_writers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+    <dbpprop:placeOfBirth xml:lang="en">In Dublin, Ireland</dbpprop:placeOfBirth>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Eavan_Boland?oldid=489537138"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1944_births"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Derek_Mahon"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://theliteraryreview.org/poems/bolandessay.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://poem-of-the-week.blogspot.com/2008/05/quarantine-by-eavan-boland.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:givenName xml:lang="en">Eavan</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Radio_personalities_from_the_Republic_of_Ireland"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poemhunter.com/eavan-boland/poet-12097/"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24</dbpprop:dateOfBirth>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.podfeed.net/episode/Eavan+Bolands+Journey/2917165"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jacob's_Award_winners"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.caffeinedestiny.com/boland.html"/>
+    <foaf:name xml:lang="en">Eavan Boland</foaf:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nortonpoets.com/ex/bolandeinatime.htm"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poets.org/poet.php/prmPID/153"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://poemsoutloud.net/audio/archive/eavan_boland_reads_atlantis/"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/John_Montague_(poet)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://poemsoutloud.net/audio/archive/boland_reads_the_wifes_lament/"/>
+    <rdfs:comment xml:lang="en">Eavan Boland (born 24 September 1944 in Dublin) is an Irish poet.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="en">Eavan Boland (born 24 September 1944 in Dublin) is an Irish poet.</dbpedia-owl:abstract>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Derek_Mahon"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetrymagazine.org/magazine/0508/comment_181502.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1962-01-01T00:00:00+02:00</dbpedia-owl:activeYearsStartYear>
+    <dbpprop:period rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1962</dbpprop:period>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boland">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Eavan_Boland"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Sam_Hanna_Bell">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Sam_Hanna_Bell"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sam_Hanna_Bell">
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sam_Hanna_Bell"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Glasgow"/>
+    <dbpedia-owl:abstract xml:lang="en">Sam Hanna Bell (1909 – 1990) was a novelist, short story writer, playwright, and broadcaster who lived in Northern Ireland. He was born in Glasgow to Ulster Scots parents. Following the death of his father he was brought at the age of seven to be reared in the Strangford Lough area of County Down, where his acclaimed novel of Ulster rural life, December Bride (1951), would be set. He moved to Belfast in 1921, where he worked at a variety of manual jobs before securing a post with the BBC in 1945. He was a co-founder of the left-leaning literary journal Lagan in 1943. His first collection of short stories, Summer Loanen, was published in 1943. His novels include December Bride (1951), The Hollow Ball (1961), A Man Flourishing (1973) and Across the Narrow Sea (1987). In 1977 he was honoured with an MBE in recognition of his contribution to the cultural life of Northern Ireland. December Bride was made into an acclaimed film in 1990. Reviewing the film, Irish Times columnist and literary critic Fintan O'Toole said it was "not just a remarkable artistic achievement, but also a remarkable political one... restoring a richness and complexity to a history that has been deliberately narrowed". In April 1999 December Bride was selected by award-winning novelist and critic Colm Tóibín and publisher, writer and critic Carmen Callil for inclusion in The Modern Library: The 200 Best Novels in English Since 1950 (Picador). Sam Hanna Bell died in 1990 just before the premiere of the film of December Bride. On 15 October 2009, a blue plaque was unveiled by Northern Ireland Culture Minister Nelson McCausland on the Belfast house where Sam Hanna Bell wrote December Bride. (Such plaques are erected to commemorate and honour notable people.)</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="en">Sam Hanna Bell (1909 – 1990) was a novelist, short story writer, playwright, and broadcaster who lived in Northern Ireland. He was born in Glasgow to Ulster Scots parents. Following the death of his father he was brought at the age of seven to be reared in the Strangford Lough area of County Down, where his acclaimed novel of Ulster rural life, December Bride (1951), would be set.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0j3cvrj"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1990_deaths"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Sam_Hanna_Bell"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/blogs/ni/2009/10/sam_hanna_bell.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Northern_Ireland"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sam_Hanna_Bell?oldid=485745947"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1909_births"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1990</dbpprop:dateOfDeath>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1909</dbpprop:dateOfBirth>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/December_Bride_(film)">
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Sam_Hanna_Bell"/>
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Sam_Hanna_Bell"/>
+  </rdf:Description>
+</rdf:RDF>

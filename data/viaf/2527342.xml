@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12243835#skos:Concept">
+    <skos:altLabel>Powell, John Enoch, 1912-1998</skos:altLabel>
+    <skos:prefLabel>Powell, Enoch, 1912-1998</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2527342"/>
+    <skos:altLabel>Powell, Johannes Enoch, 1912-1998</skos:altLabel>
+    <skos:altLabel>Powell, J. Enoch, 1912-1998</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb122438356"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb122438356"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C092592430#skos:Concept">
+    <skos:prefLabel>Powell, John Enoch, 1912-1998</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Powell, John Enoch</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2527342"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C84703#skos:Concept">
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/84703#concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:altLabel>Powell, John Enoch, 1912-1998</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Powell, J. E., 1912-1998</skos:altLabel>
+    <skos:prefLabel>Powell, Enoch, 1912-1998</skos:prefLabel>
+    <skos:altLabel>Powell, J. Enoch, 1912-1998</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2527342"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80038451#skos:Concept">
+    <skos:prefLabel>Powell, J. Enoch (John Enoch), 1912-1998</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Powell, Enoch, 1912-1998</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80038451"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2527342"/>
+    <skos:altLabel>Powell, John Enoch, 1912-1998</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035255244#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2527342"/>
+    <skos:prefLabel>Powell, J. Enoch (John Enoch), 1912-1998</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Powell, John Enoch, 1912-1998</skos:altLabel>
+    <skos:altLabel>Powell, Enoch, 1912-1998</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cvse2011637247#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Powell, J. Enoch (John Enoch), 1912-1998</skos:prefLabel>
+    <skos:altLabel>Powell, Enoch, 1912-1998</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2527342"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:altLabel>Powell, John Enoch, 1912-1998</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/2527342/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2527342"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10237606#skos:Concept">
+    <skos:prefLabel>Powell, J. Enoch (John Enoch), 1912-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2527342"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C031171664#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2527342"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Powell, John Enoch, 1912-1998</skos:prefLabel>
+    <skos:altLabel>Powell, John Enoch</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000107416#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:prefLabel>Powell, John Enoch</skos:prefLabel>
+    <skos:altLabel>Powell, Enoch.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2527342"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/2527342/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/2527342"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/2527342">
+    <foaf:name>Powell, Enoch, 1912-1998</foaf:name>
+    <foaf:name>Powell, Johannes Enoch, 1912-1998</foaf:name>
+    <foaf:name>Powell, J. Enoch (John Enoch), 1912-</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/84703"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Enoch_Powell"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb122438356#foaf:Person"/>
+    <foaf:name>Powell, Enoch.</foaf:name>
+    <foaf:name>Powell, J. Enoch (John Enoch), 1912-1998</foaf:name>
+    <foaf:name>Powell, J. E., 1912-1998</foaf:name>
+    <foaf:name>Powell, John Enoch, 1912-1998</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/092592430/id"/>
+    <foaf:name>Powell, Enoch</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdaGr2:dateOfBirth>1912-06-16</rdaGr2:dateOfBirth>
+    <rdaGr2:dateOfDeath>1998-02-08</rdaGr2:dateOfDeath>
+    <foaf:name>Powell, J. E.</foaf:name>
+    <foaf:name>Powell, J. Enoch</foaf:name>
+    <foaf:name>Powell, J. Enoch, 1912-1998</foaf:name>
+    <foaf:name>Powell, Johannes Enoch.</foaf:name>
+    <foaf:name>Enoch Powell, John 1912-1998</foaf:name>
+    <foaf:name>Powell, Enoch (John Enoch), 1912-1998</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118793152"/>
+    <foaf:name>Powell, John Enoch</foaf:name>
+    <foaf:name>Powell, J. Enoch.</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/2527342/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/2527342"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CEnoch_Powell#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2527342"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Powell, Enoch</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C070118876#skos:Concept">
+    <skos:prefLabel>Powell, Enoch (John Enoch), 1912-1998</skos:prefLabel>
+    <skos:altLabel>Powell, Johannes Enoch, 1912-1998</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2527342"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1154438#skos:Concept">
+    <skos:altLabel>Powell, John Enoch</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Powell, J. Enoch</skos:prefLabel>
+    <skos:altLabel>Powell, J. E.</skos:altLabel>
+    <skos:altLabel>Powell, Enoch.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2527342"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118793152#skos:Concept">
+    <skos:altLabel>Powell, Enoch, 1912-1998</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Powell, J. Enoch, 1912-1998</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2527342"/>
+    <skos:prefLabel>Powell, John Enoch, 1912-1998</skos:prefLabel>
+    <skos:altLabel>Enoch Powell, John 1912-1998</skos:altLabel>
+    <skos:altLabel>Powell, J. E., 1912-1998</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2006114670#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Powell, J. Enoch.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2527342"/>
+    <skos:altLabel>Powell, Johannes Enoch.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Powell, John Enoch, 1912-1998</skos:prefLabel>
+    <skos:altLabel>Powell, Enoch.</skos:altLabel>
+  </rdf:Description>
+</rdf:RDF>

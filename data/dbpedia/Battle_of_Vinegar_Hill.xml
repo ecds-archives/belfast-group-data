@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+   xmlns:grs="http://www.georss.org/georss/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vinegar_Hill">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Battle_of_Vinegar_Hill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Loftus_William_Otway">
+    <dbpedia-owl:battle rdf:resource="http://dbpedia.org/resource/Battle_of_Vinegar_Hill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Battle_of_Vinegar_Hill">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Battle_of_Vinegar_Hill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Battle_of_Vinegar_Hill">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Battle_of_Vinegar_Hill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Vinegar_Hill">
+    <dbpedia-owl:isPartOfMilitaryConflict rdf:resource="http://dbpedia.org/resource/Irish_Rebellion_of_1798"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Battles_of_the_Irish_Rebellion_of_1798"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Massacres_in_Ireland"/>
+    <dbpedia-owl:strength xml:lang="en">~20,000</dbpedia-owl:strength>
+    <foaf:name xml:lang="en">Battle of Vinegar Hill</foaf:name>
+    <rdfs:label xml:lang="en">Battle of Vinegar Hill</rdfs:label>
+    <dbpprop:strength xml:lang="en">~20,000</dbpprop:strength>
+    <dbpedia-owl:result xml:lang="en">British victory, British re-gain control of County Wexford</dbpedia-owl:result>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vinhill.gif/200px-Vinhill.gif"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Myles_Byrne"/>
+    <rdfs:comment xml:lang="en">The Battle of Vinegar Hill was an engagement during the Irish Rebellion of 1798 on 21 June 1798 when over 15,000 British soldiers launched an attack on Vinegar Hill outside Enniscorthy, County Wexford, the largest camp and headquarters of the Wexford United Irish rebels. It marked a turning point in the Irish Rebellion of 1798, as it was the last attempt by the rebels to hold and defend ground against the British military.</rdfs:comment>
+    <dbpedia-owl:causalties xml:lang="en">~500–1,000 dead (including camp followers)</dbpedia-owl:causalties>
+    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Sir_David_Dundas,_1st_Baronet"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.ie/books?id=6wcHAAAAQAAJ"/>
+    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/Enniscorthy"/>
+    <dbpprop:partof xml:lang="en">the United Irishmen Rebellion</dbpprop:partof>
+    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/John_Murphy_(priest)"/>
+    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Gerard_Lake,_1st_Viscount_Lake"/>
+    <dbpedia-owl:combatant xml:lang="en">United Irishmen</dbpedia-owl:combatant>
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/County_Wexford"/>
+    <dbpprop:conflict xml:lang="en">Battle of Vinegar Hill</dbpprop:conflict>
+    <dbpprop:commander xml:lang="en">William Loftus</dbpprop:commander>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.5014</geo:lat>
+    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/John_Murphy_(priest)"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Event"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-6.56972</geo:long>
+    <dbpprop:commander xml:lang="en">Gen. Wilford</dbpprop:commander>
+    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Sir_David_Dundas,_1st_Baronet"/>
+    <rdfs:comment xml:lang="fr">La Bataille de Vinegar Hill se déroula le 21 juin 1798, et vit la victoire des troupes britanniques face aux rebelles irlandais.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <dbpprop:caption xml:lang="en">"Charge of the 5th Dragoon Guards on the insurgents – a recreant yeoman having deserted to them in uniform is being cut down"</dbpprop:caption>
+    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Myles_Byrne"/>
+    <dbpedia-owl:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1798-06-21</dbpedia-owl:date>
+    <dbpprop:combatant xml:lang="en">United Irishmen</dbpprop:combatant>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MassacresInIreland"/>
+    <dbpedia-owl:combatant xml:lang="en">British Army</dbpedia-owl:combatant>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/ConflictEvent"/>
+    <dbpprop:combatant xml:lang="en">Hessian mercenaries</dbpprop:combatant>
+    <dbpedia-owl:combatant xml:lang="en">Hessian mercenaries</dbpedia-owl:combatant>
+    <dbpprop:casualties xml:lang="en">~100</dbpprop:casualties>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.ie/books?id=eEkTAAAAYAAJ"/>
+    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/County_Wexford"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Battle_of_Vinegar_Hill?oldid=495287504"/>
+    <dbpedia-owl:strength xml:lang="en">~18,000</dbpedia-owl:strength>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Event"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/MilitaryConflict"/>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-6.56972 52.5014)</geo:geometry>
+    <dbpprop:commander xml:lang="en">William Barker</dbpprop:commander>
+    <dbpprop:strength xml:lang="en">~18,000</dbpprop:strength>
+    <dbpprop:result xml:lang="en">British victory, British re-gain control of County Wexford</dbpprop:result>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_County_Wexford"/>
+    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Anthony_Perry"/>
+    <dbpprop:casualties xml:lang="en">~500–1,000 dead</dbpprop:casualties>
+    <rdf:type rdf:resource="http://schema.org/Event"/>
+    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Mogue_Kearns"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Bataille_de_Vinegar_Hill"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_military_conflict"/>
+    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Anthony_Perry"/>
+    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Gerard_Lake,_1st_Viscount_Lake"/>
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Enniscorthy"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.067mmd"/>
+    <dbpedia-owl:abstract xml:lang="fr">La Bataille de Vinegar Hill se déroula le 21 juin 1798, et vit la victoire des troupes britanniques face aux rebelles irlandais.</dbpedia-owl:abstract>
+    <grs:point xml:lang="en">52.50138888888889 -6.5697222222222225</grs:point>
+    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Mogue_Kearns"/>
+    <dbpprop:combatant xml:lang="en">British Army</dbpprop:combatant>
+    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Francis_Needham,_1st_Earl_of_Kilmorey"/>
+    <dbpedia-owl:abstract xml:lang="en">The Battle of Vinegar Hill was an engagement during the Irish Rebellion of 1798 on 21 June 1798 when over 15,000 British soldiers launched an attack on Vinegar Hill outside Enniscorthy, County Wexford, the largest camp and headquarters of the Wexford United Irish rebels. It marked a turning point in the Irish Rebellion of 1798, as it was the last attempt by the rebels to hold and defend ground against the British military. The battle was actually fought in two locations: on Vinegar Hill itself and in the streets of nearby Enniscorthy.</dbpedia-owl:abstract>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Battle_of_Vinegar_Hill"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Battle_of_Vinegar_Hill"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/e/e3/Vinhill.gif"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BattlesOfThe1798Rebellion"/>
+    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Francis_Needham,_1st_Earl_of_Kilmorey"/>
+    <dbpprop:commander xml:lang="en">James Duff</dbpprop:commander>
+    <dbpprop:date rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</dbpprop:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_vinegar_hill">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Battle_of_Vinegar_Hill"/>
+  </rdf:Description>
+</rdf:RDF>

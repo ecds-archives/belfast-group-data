@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/The_Honest_Ulsterman">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/The_Honest_Ulsterman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/The_Honest_Ulsterman">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Honest_Ulsterman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Honest_Ulsterman">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LiteraryMagazinesOfIreland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_literary_magazines"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Defunct_British_literary_magazines"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Publications_disestablished_in_2003"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PuBlicationsDisestablishedIn2003"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Honest_Ulsterman"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/The_Honest_Ulsterman"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DefunctLiteraryMagazinesOfTheUnitedKingdom"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0crlsm"/>
+    <dbpedia-owl:abstract xml:lang="en">The Honest Ulsterman was a long running Northern Ireland literary magazine that was established by James Simmons in 1968. It was then edited for twenty years by Frank Ormsby. Editors of The Honest Ulsterman were: issues 1-11 and 14-19: James Simmons; issue 12 was guest-edited by Michael Stephens; Michael Foley guest-edited issue 13, and co-edited with Frank Ormsby issues 20-34: Ormsby edited 35-74 on his own, and 75-86 with Robert Johnstone; Johnstone edited 87-95, with co-editors Ruth Hooley up to 93, and Tom Clyde for issues 94 and 95: Tom Clyde edited 96-110 with associate editors Ruth Carr and, from 99-110, Frankie Sewell. The final issue, 111, was edited by Ruth Carr and Tom Clyde. The magazine was published, with decreasing frequency, from May 1968 until Summer 2003 and so was one of the longest-lived and most widely-read little magazines of its type in Ireland, and probably in the English-speaking world. From the start it presented Northern Irish writers alongside poets, prose-writers and critics from around the world. (Early issues included work by Stevie Smith and Tony Harrison, as well as by Gavin Ewart, who continued to contribute until his death. It went on to include work from all parts of Ireland and Britain, the USA and Canada, Australia and many other places. ) Its beginning coincided with the emergence of a remarkable generation of poets, including Seamus Heaney, Michael Longley and Derek Mahon, but it also provided an early, often the first, platform for subsequent waves of writers such as Paul Muldoon, Ciaran Carson, Medbh McGuckian,[Si Law] and numerous others. A distinctive part of every issue from number 29 (July/August 1971) until the end was the "Business Section" by "Jude the Obscure", a free-ranging look at culture high and low, Irish, French and American. The "Business Section" was also used to serialise Jude the Obscure's novella "Farset and Gomorrah" and other prose pieces. Another notable contributor was John Morrow, whose comic prose pieces developed into satirical novels and short-story collections. Another aspect was literature in translation, particularly from Russian, Spanish, French and Chinese. Issues 82-86 included a section edited by John Wilson Foster, "Critical Forum". Frankie Sewell (associate editor, issues 99-110) oversaw a section in the Irish language. A number of leading artists designed covers and provided artwork. These included Colin Middleton, John Middleton, Jeff Morgan and Ross Wilson. A series of over 30 poetry pamphlets were published along with the magazine itself, including work by Heaney, Mahon, Muldoon, McGuckian, Foley, Ormsby, Carson, Johnstone, Ewart, Tom Paulin, Carol Rumens, Iain Crichton Smith, Sean O'Brien, Geoffrey Squires, Harry Clifton, Tom Matthews and others. Leading libraries, particularly in Ireland, should have complete runs of the magazine. These would include the British Library, the National Library of Ireland, the Linenhall Library, Belfast, Belfast Central Library, the New York Public Library, and numerous university libraries which maintain an Irish section.</dbpedia-owl:abstract>
+    <ns6:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/The_Honest_Ulsterman?oldid=467526744"/>
+    <rdfs:label xml:lang="en">The Honest Ulsterman</rdfs:label>
+    <rdfs:comment xml:lang="en">The Honest Ulsterman was a long running Northern Ireland literary magazine that was established by James Simmons in 1968. It was then edited for twenty years by Frank Ormsby.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Publications_established_in_1968"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PuBlicationsEstablishedIn1968"/>
+  </rdf:Description>
+</rdf:RDF>

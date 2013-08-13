@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Michael_MacLaverty">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Michael_MacLaverty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seamus_Heaney">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Michael_MacLaverty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_MacLaverty">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <foaf:surname xml:lang="en">Maclaverty</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishNovelists"/>
+    <dbpedia-owl:abstract xml:lang="en">Michael McLaverty (1904 – 1992) was an Irish writer of novels and short stories.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_novelists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1992_deaths"/>
+    <dbpedia-owl:abstract xml:lang="fr">Michael MacLaverty est un écrivain irlandais, auteur de romans et de nouvelles. Il naquit dans le comté de Monaghan puis s'installa à Belfast où il enseigna. Il vécut brièvement sur l'île de Rathlin, au large de la côte du Comté d'Antrim. Dans les années 1960, il fut directeur de l'école secondaire St. Thomas dans le quartier de Falls Road à Belfast. Seamus Heaney faisait alors partie du personnel de l'école. Heaney se souvient de l'entousiasme de MacLaverty pour l'enseignement mais aussi pour la littérature. Il fit connaître l'œuvre de Patrick Kavanagh à Heaney. Heaney a résumé ainsi sa contribution : « Sa voix était modeste, il ne rechercha jamais la célébrité, mais malgré cela sa place dans notre littérature est assurée.  »</dbpedia-owl:abstract>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1904</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:givenName xml:lang="en">Michael</foaf:givenName>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Michael_MacLaverty"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Michael_MacLaverty"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_St_Malachy's_College"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0ckfmk"/>
+    <dbpprop:name xml:lang="en">Maclaverty, Michael</dbpprop:name>
+    <rdfs:comment xml:lang="en">Michael McLaverty (1904 – 1992) was an Irish writer of novels and short stories.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Monaghan"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1904_births"/>
+    <foaf:name xml:lang="en">Michael Maclaverty</foaf:name>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Michael_MacLaverty"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1992</dbpprop:dateOfDeath>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyMonaghan"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdfs:comment xml:lang="fr">Michael MacLaverty est un écrivain irlandais, auteur de romans et de nouvelles. Il naquit dans le comté de Monaghan puis s'installa à Belfast où il enseigna. Il vécut brièvement sur l'île de Rathlin, au large de la côte du Comté d'Antrim. Dans les années 1960, il fut directeur de l'école secondaire St. Thomas dans le quartier de Falls Road à Belfast. Seamus Heaney faisait alors partie du personnel de l'école.</rdfs:comment>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Michael_MacLaverty?oldid=491016597"/>
+    <rdfs:label xml:lang="en">Michael MacLaverty</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Michael_MacLaverty">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Michael_MacLaverty"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Alan_Jenkins_(poet)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Alan_Jenkins_(poet)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Alan_Jenkins_%28poet%29">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alan_Jenkins_(poet)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Jenkins_(poet)">
+    <dbpedia-owl:abstract xml:lang="en">Alan Jenkins is a British poet.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromKingstonUponThames"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <foaf:name xml:lang="en">Alan Jenkins</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Kingston_upon_Thames"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1955</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTheUniversityOfSussex"/>
+    <foaf:surname xml:lang="en">Jenkins</foaf:surname>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Alan_Jenkins_(poet)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1955_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishPoets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_poets"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.parametermagazine.org/Jenkins.htm"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <foaf:givenName xml:lang="en">Alan</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Sussex"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.064nrpc"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Alan_Jenkins_(poet)?oldid=488779817"/>
+    <rdfs:comment xml:lang="en">Alan Jenkins is a British poet.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.contemporarywriters.com/authors/?p=auth568927F918d4920B83iSt4084CFC"/>
+    <dbpprop:name xml:lang="en">Jenkins, Alan</dbpprop:name>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Alan_Jenkins_(poet)"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

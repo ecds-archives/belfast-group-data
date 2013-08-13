@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2621252/about.rdf">
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2621252/"/>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2621252/"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-17</dcterms:modified>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2621252/">
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2614029/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/6418539/"/>
+    <gn:alternateName>Grauballe</gn:alternateName>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:lat>56.22604</wgs84_pos:lat>
+    <gn:name>Grauballe</gn:name>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2621252/about.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <wgs84_pos:long>9.62976</wgs84_pos:long>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2621252/nearby.rdf"/>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2614029/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2623032/"/>
+    <gn:alternateName>Gravballe</gn:alternateName>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2621252/grauballe.html"/>
+    <gn:countryCode>DK</gn:countryCode>
+  </rdf:Description>
+</rdf:RDF>

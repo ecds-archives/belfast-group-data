@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/102333412/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SWNL%7Cvtls001779598#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SWNL"/>
+    <skos:prefLabel>Austen, Jane</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500249665#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
+    <skos:altLabel>Jane Austen</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+    <skos:prefLabel>Austen, Jane English writer, 1775-1817</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0041E6520#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C02669719X#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C207420#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/207420#concept"/>
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+    <skos:altLabel>Osten, Dzjejn, 1775-1817</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11889603#skos:Concept">
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb118896036"/>
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb118896036"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C8531#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Austen, Jane</skos:altLabel>
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls000823272#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+    <skos:prefLabel>أوستن، جين، 1775-1817.</skos:prefLabel>
+    <skos:altLabel>أوستين، جين، 1775-1817</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/102333412">
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118505173"/>
+    <foaf:name>אוסטן, ג'ין, 1775-1817</foaf:name>
+    <foaf:name>Austen, Jane, 1775-1817</foaf:name>
+    <foaf:name>أوستن، جين، 1775-1817.</foaf:name>
+    <foaf:name>Ostin, Dzhein, 1775-1817</foaf:name>
+    <foaf:name>奥斯丁, 1775-1817</foaf:name>
+    <foaf:name>Ostin, Ğin.</foaf:name>
+    <foaf:name>אוסטין, ג'ין</foaf:name>
+    <foaf:name>オースティン, ジェイン</foaf:name>
+    <foaf:name>Austenova̋ Jane 1775-1817</foaf:name>
+    <foaf:name>Austenová, Jane, 1775-1817 czecze</foaf:name>
+    <foaf:name>Āsṭin̲, Jēn̲, 1775-1817</foaf:name>
+    <foaf:name>Ostin, Dž.</foaf:name>
+    <foaf:name>Jane Austen</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/240803881"/>
+    <foaf:name>Остен, Джейм, 1775-1817</foaf:name>
+    <foaf:name>أوستين، جين، 1775-1817</foaf:name>
+    <foaf:name>Ao-ssu-ting, 1775-1817</foaf:name>
+    <foaf:name>أوستن، جين، 1775-1817</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/207420"/>
+    <foaf:name>Ostin, Džejn.</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/240803881"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Aosiding, 1775-1817</foaf:name>
+    <foaf:name>Osten, Dzjejn, 1775-1817</foaf:name>
+    <foaf:name>Остен, Джейн, 1775-1817</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb118896036#foaf:Person"/>
+    <foaf:name>Ostin, ǅejn 1775-1817</foaf:name>
+    <rdaGr2:dateOfBirth>1775-12-16</rdaGr2:dateOfBirth>
+    <foaf:name>Aosiding, Jian, 1775-1817</foaf:name>
+    <foaf:name>Ao-ssu-ting, Chien, 1775-1817</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/286910822"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/02669719X/id"/>
+    <foaf:name>אוסטן, ג׳יין, 1775־1817</foaf:name>
+    <foaf:name>Osten, Dzheĭn, 1775-1817</foaf:name>
+    <foaf:name>Osten, Džejn, 1775-1817</foaf:name>
+    <foaf:name>Austen, Jane</foaf:name>
+    <rdaGr2:dateOfDeath>1817-07-18</rdaGr2:dateOfDeath>
+    <foaf:name>オースティン, ジェーン</foaf:name>
+    <foaf:name>אוסטן, ג׳יין</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/286910822"/>
+    <foaf:name>Austen, Jane English writer, 1775-1817</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035010277#skos:Concept">
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+    <skos:altLabel>Aosiding, 1775-1817</skos:altLabel>
+    <skos:altLabel>Osten, Dzheĭn, 1775-1817</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+    <skos:altLabel>Ostin, Dzhein, 1775-1817</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Aosiding, Jian, 1775-1817</skos:altLabel>
+    <skos:altLabel>Ao-ssu-ting, Chien, 1775-1817</skos:altLabel>
+    <skos:altLabel>Ao-ssu-ting, 1775-1817</skos:altLabel>
+    <skos:altLabel>Austenova̋ Jane 1775-1817</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++93080119#skos:Concept">
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+    <skos:altLabel>Ostin, Džejn.</skos:altLabel>
+    <skos:altLabel>Ostin, Dž.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:altLabel>Ostin, Ğin.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1124986#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/102333412/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/102333412"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10179859#skos:Concept">
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118505173#skos:Concept">
+    <skos:altLabel>Ostin, ǅejn 1775-1817</skos:altLabel>
+    <skos:altLabel>Osten, Dzheĭn, 1775-1817</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+    <skos:altLabel>Ostin, Dzhein, 1775-1817</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Aosiding, Jian, 1775-1817</skos:altLabel>
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+    <skos:altLabel>Ao-ssu-ting, 1775-1817</skos:altLabel>
+    <skos:altLabel>Ao-ssu-ting, Chien, 1775-1817</skos:altLabel>
+    <skos:altLabel>Austenova̋ Jane 1775-1817</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79032879#skos:Concept">
+    <skos:altLabel>Ao-ssu-ting, Chien, 1775-1817</skos:altLabel>
+    <skos:altLabel>أوستن، جين، 1775-1817</skos:altLabel>
+    <skos:altLabel>Aosiding, Jian, 1775-1817</skos:altLabel>
+    <skos:altLabel>Ostin, Dzhein, 1775-1817</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+    <skos:altLabel>Osten, Dzheĭn, 1775-1817</skos:altLabel>
+    <skos:altLabel>אוסטן, ג׳יין, 1775־1817</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Austenova̋ Jane 1775-1817</skos:altLabel>
+    <skos:altLabel>אוסטן, ג׳יין</skos:altLabel>
+    <skos:altLabel>Остен, Джейм, 1775-1817</skos:altLabel>
+    <skos:altLabel>Ao-ssu-ting, 1775-1817</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Остен, Джейн, 1775-1817</skos:altLabel>
+    <skos:altLabel>Āsṭin̲, Jēn̲, 1775-1817</skos:altLabel>
+    <skos:altLabel>Aosiding, 1775-1817</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79032879"/>
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00431922#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:altLabel>オースティン, ジェイン</skos:altLabel>
+    <skos:altLabel>オースティン, ジェーン</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068721722#skos:Concept">
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+    <skos:altLabel>Aosiding, 1775-1817</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:altLabel>奥斯丁, 1775-1817</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990000321#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+    <skos:altLabel>Austenová, Jane, 1775-1817 czecze</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:altLabel>Osten, Džejn, 1775-1817</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJane_Austen#skos:Concept">
+    <skos:prefLabel>Austen, Jane</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000013239#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>אוסטין, ג'ין</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/102333412/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/102333412"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11563254#skos:Concept">
+    <skos:altLabel>Ostin, Ğin.</skos:altLabel>
+    <skos:prefLabel>Austen, Jane, 1775-1817</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/102333412"/>
+    <skos:altLabel>Ostin, Džejn.</skos:altLabel>
+    <skos:altLabel>Ostin, Dž.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+</rdf:RDF>

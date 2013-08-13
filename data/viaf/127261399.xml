@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/127261399/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/127261399"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C000378461#skos:Concept">
+    <skos:altLabel>RSL</skos:altLabel>
+    <skos:prefLabel>Royal Society of Literature of the United Kingdom</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Society of Literature of the United Kingdom</skos:altLabel>
+    <skos:altLabel>Royal Society of Literature</skos:altLabel>
+    <skos:altLabel>RSL Abkuerzung</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Society of Literature</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127261399"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50069687#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127261399"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Royal Society of Literature of the United Kingdom</skos:altLabel>
+    <skos:altLabel>Royal Society of Literature of the United Kingdom, London</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50069687"/>
+    <skos:prefLabel>Royal Society of Literature (Great Britain)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/127261399/#rdaEnt:CorporateBody">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/127261399"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000114252#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>Royal Society of Literature of the United Kingdom</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127261399"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Royal Society of Literature (Great Britain)</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/127261399">
+    <foaf:name>RSL Abkuerzung</foaf:name>
+    <foaf:name>Royal Society of Literature of the United Kingdom</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <foaf:name>Royal society of literature (GB)</foaf:name>
+    <foaf:name>Royal Society of Literature of the United Kingdom, London</foaf:name>
+    <foaf:name>Society of Literature</foaf:name>
+    <foaf:name>RSL</foaf:name>
+    <foaf:name>Royal Society of Literature (Great Britain)</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/137371608/id"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/37846-X"/>
+    <foaf:name>Royal Society of Literature</foaf:name>
+    <foaf:name>Society of Literature of the United Kingdom</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036509335#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:altLabel>Royal Society of Literature of the United Kingdom, London</skos:altLabel>
+    <skos:prefLabel>Royal Society of Literature (Great Britain)</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127261399"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10168131#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <skos:prefLabel>Royal Society of Literature (Great Britain)</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127261399"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/127261399/#foaf:Organization">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/127261399"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/127261399/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127261399"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0042D4702#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Royal Society of Literature of the United Kingdom, London</skos:altLabel>
+    <skos:prefLabel>Royal Society of Literature (Great Britain)</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127261399"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C137371608#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127261399"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Royal society of literature (GB)</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

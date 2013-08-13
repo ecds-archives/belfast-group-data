@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+   xmlns:grs="http://www.georss.org/georss/"
+   xmlns:ns4="http://dbpedia.org/ontology/PopulatedPlace/"
+   xmlns:ns9="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kilmore,_County_Cavan">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bailieborough">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Ulster">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulster_(Northern_Ireland_and_Ireland)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Killygordon">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Culdaff">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballyraine">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inniskeen">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Fermanagh">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulaidh_(province)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gweedore">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cochran">
+    <dbpprop:region rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burt,_County_Donegal">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kilcogy">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Comgall">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulster_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rossnowlagh">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundoran">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Drumcarban">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kincasslagh">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teelin">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MacTaggart">
+    <dbpprop:region rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulster_Scots_dialects">
+    <dbpedia-owl:spokenIn rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:region rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavan">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lettermacaward">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belturbet">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glenties">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dunree">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Falcarragh">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Moira">
+    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Monaghan">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blacklion">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kerrykeel">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Castlefin">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carrigart">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kilcar">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Farsetmore">
+    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newtown_Cunningham">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Milltown,_County_Cavan">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Antrim">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ramelton">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gola_Island">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Downings">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Acheson_(surname)">
+    <dbpprop:region rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laghy">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corlat">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newbliss">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fintown">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cootehill">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Porthall">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tydavnet">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inishtrahull_Island">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulst%C3%A8r">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballyshannon">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bruckless">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cruit_Island">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Killanny">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Redhills,_County_Cavan">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adair_(name)">
+    <dbpprop:region rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Province_of_Ulster">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Cavan">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballyliffin">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canningstown">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Tyrone">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muff,_County_Donegal">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kilmacrenan">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glencolmcille">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Bates_(cricketer)">
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dunkineely">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lifford">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballymagauran">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Killea,_County_Donegal">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dunfanaghy">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Threemilehouse">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dowra">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fahan">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Castleblayney">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doochary">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McPhillips_(surname)">
+    <dbpprop:region rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ultonian">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clones">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballyhaise">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carrickabraghy_Castle">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inver">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Termon">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Davison_(surname)">
+    <dbpprop:region rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ardara">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Loch_an_I%C3%BAir">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Magnus_III_of_Norway">
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Drumardagh">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballintra">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballybay">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Ballance">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portsalon">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mountcharles">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulster_(Ireland)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tory_Island">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crolly">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Knockatallon">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tour_of_Ulster">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stranorlar">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulster_Man">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingscourt">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raphoe">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Narin,_County_Donegal">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballymacnab">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_McKinly">
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Annagry">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manorcunningham">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quigley's_Point">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Letterkenny">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donegal">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Down">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rathmullan">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frosses">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glangevlin">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moville">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Convoy,_County_Donegal">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cochrane_(surname)">
+    <dbpprop:region rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Machaire_Rabhartaigh">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andy_Maxwell">
+    <dbpprop:ruProvince rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulster">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement"/>
+    <dbpedia-owl:abstract xml:lang="ja">アルスターはアイルランド島北東部に位置する地方。イギリス（北アイルランド）領のアーマー州、アントリム州、ダウン州、ティロン州、デリー州、ファーマナ州およびアイルランド共和国領のキャバン州、ドニゴール州、モナハン州で構成される。</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Cavan"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Fermanagh"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Ulster"/>
+    <rdfs:label xml:lang="en">Ulster</rdfs:label>
+    <dbpedia-owl:leaderName rdf:resource="http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland"/>
+    <dbpedia-owl:abstract xml:lang="fr">L'Ulster est l'une des quatre provinces historiques de l'île d'Irlande. La « capitale » de l'Ulster est Belfast.</dbpedia-owl:abstract>
+    <dbpprop:leaderTitle rdf:resource="http://dbpedia.org/resource/Teachta_D%C3%A1la"/>
+    <dbpprop:areaTotalKm rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21552</dbpprop:areaTotalKm>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/얼스터"/>
+    <rdfs:comment xml:lang="pl">Ulster – jedna z 4 prowincji Irlandii (powszechne, choć nieprecyzyjne, jest używanie tego określenia jako synonimu Irlandii Północnej).</rdfs:comment>
+    <rdfs:label xml:lang="vi">Ulster</rdfs:label>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/7/7e/Flag_of_Ulster.svg"/>
+    <rdfs:comment xml:lang="es">Úlster es una de las "provincias históricas" de la isla de Irlanda. Hay nueve condados en la provincia, pero seis de sus condados, con una población (2001) de 1.685.267 habitantes, forman Irlanda del Norte, bajo control administrativo del Reino Unido: Condado de Derry Condado de Tyrone Condado de Fermanagh Condado de Down Condado de Antrim Condado de Armagh Los tres restantes son Cavan, Donegal y Monaghan, y tenían 246.571 habitantes (2002).</rdfs:comment>
+    <dbpprop:leaderName rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:leaderName>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <dbpedia-owl:abstract xml:lang="ru">О́льстер — одна из четырёх исторических провинций Ирландии, объединяющая в настоящее время девять графств на севере острова. Шесть из этих графств — Антрим, Арма, Даун, Фермана, Лондондерри и Тирон — входят в состав Северной Ирландии, остальные — Каван, Донегол и Монахан — являются частью Республики Ирландия. Население Ольстера составляет порядка 2 млн человек. Площадь провинции — 24 481 км². Крупнейший город Ольстера — Белфаст. Основным языком является английский, второй по распространённости — ирландский. Около 10 % населения Северной Ирландии имеют определённые познания в ирландском языке, хотя язык преподают во всех графствах, являющихся частью республики. Часто Ольстером ошибочно называют Северную Ирландию.</dbpedia-owl:abstract>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_settlement"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.4</geo:lat>
+    <dbpprop:leaderTitle rdf:resource="http://dbpedia.org/resource/Member_of_Parliament"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Fermanagh"/>
+    <rdfs:comment xml:lang="cs">Ulster je historická provincie (irské království) na severovýchodě Irska. Větší část Ulsteru je jako takzvané Severní Irsko součástí Spojeného království, menší část náleží k Irské republice. Toto rozdělení Ulsteru pochází z roku 1920 a od roku 1922 je mezinárodní hranicí. Přesto většina lidí říká Severnímu Irsku Ulster.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="es">Úlster es una de las "provincias históricas" de la isla de Irlanda. Hay nueve condados en la provincia, pero seis de sus condados, con una población (2001) de 1.685.267 habitantes, forman Irlanda del Norte, bajo control administrativo del Reino Unido: Condado de Derry Condado de Tyrone Condado de Fermanagh Condado de Down Condado de Antrim Condado de Armagh Los tres restantes son Cavan, Donegal y Monaghan, y tenían 246.571 habitantes (2002).</dbpedia-owl:abstract>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Armagh"/>
+    <dbpprop:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2011</dbpprop:populationAsOf>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Provinces_of_Ireland"/>
+    <dbpprop:mapsize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">192</dbpprop:mapsize>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:leaderName rdf:resource="http://dbpedia.org/resource/Fine_Gael"/>
+    <dbpedia-owl:abstract xml:lang="vi">Bài này giải thích về tỉnh Ulster của Bắc Ireland Ulster là tên gọi truyền thống của một trong bốn tỉnh trên đảo Ireland. Biểu tượng của tỉnh này là "Red Hand" (bàn tay đỏ)</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Ольстер"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Úlster"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アルスター"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Down"/>
+    <rdfs:comment xml:lang="uk">Не слід плутати з Північною Ірландією, яка включає 6 з 9 графств Ольстеру. Ольстер — одна з чотирьох історичних провінцій Ірландії, що поєднує дев'ять графств на півночі острова. Шість з цих графств - Антрім, Арма, Даун, Лондондеррі, Тайрон і Фермана - входять до складу Північної Ірландії, інші - Каван, Донегол і Монахан - є частиною Республіки Ірландія. Населення Ольстеру складає близько 2 млн чоловік. Площа провінції - 24 481 км². Найбільше місто Ольстеру - Белфаст.</rdfs:comment>
+    <dbpedia-owl:leaderName rdf:resource="http://dbpedia.org/resource/Democratic_Unionist_Party"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/history/state/nations/"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <ns9:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ulster?oldid=494464662"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Antrim"/>
+    <dbpedia-owl:abstract xml:lang="ko">얼스터는 아일랜드 섬의 전통적인 네 지방 중 하나이다. 면적은 24,481 km²이고, 인구는 2백만명에 약간 못 미친다. 이 지방의 가장 큰 도시는 벨파스트로 약 50만명이 벨파스트와 그 인근에 거주한다. 얼스터는 영국이 아일랜드에 대한 식민정책을 수행할 때 신교도들을 다수 이주시켰던 지역으로, 전통적으로 신교도가 절대 다수를 차지해 왔다. 19세기에는 산업혁명으로 발전하는 영국과 함께 경제적 호황을 누렸는데, 이는 아일랜드의 다른 지역에서 농업과 목축업이 지배적이었던 것과는 대조적이다. 아일랜드 민족주의자들은 1912년에 아일랜드 자치법을 통과시키는 데 성공했는데, 얼스터 지역의 대다수는 이 법을 반대하면서 영국으로부터 직접 통치를 받고자 했다. 이들은 1919년에 아일랜드 독립전쟁이 시작된 후에도 영국에 속하고자 하는 합방주의(Unionism)를 고수하였으며, 1920년 아일랜드 정부법을 통해 북아일랜드 자치의회를 얻어내었다. 이후 1922년에는 남아일랜드에서 아일랜드 자유국이 수립되면서 아일랜드 섬은 분단되었다. 현재는 전체 아홉 주 중 여섯 주는 영국 내의 북아일랜드에 속한다. 종종 이 여섯 주만을 "얼스터"라 부르기도 한다. 나머지 도니골 주, 모니건 주, 캐번 주는 아일랜드에 속한다. 주민 대부분이 영어를 사용한다. 도니골 주의 일부 주민과 외부에서 온 사람들이 아일랜드어를 쓴다. 세번째로 많이 쓰이는 언어는 광둥어이다. 벨파스트에 사는 중국인 공동체 때문이다. 벨파스트는 인구 대비 가장 많은 중국 레스토랑이 있는 유럽 도시이다. 브리튼 제도에서 가장 큰 호수인 네이 호가 얼스터 동쪽에 위치하고 있다. 또한 제도에서 가장 긴 섀넌 강이 캐번 주에서 발원한다.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="it">L'Ulster è una delle quattro province d'Irlanda, situata nella parte nordorientale dell'isola. Talora, e impropriamente, viene chiamato Ulster ciò che in realtà è l'Irlanda del Nord, ovvero quella parte amministrativa del territorio dell'Isola di Irlanda facente capo alla sovranità del Regno Unito. In realtà, quest'ultimo ha sovranità solo su 6 contee delle 9 che compongono l'Ulster propriamente detto. Le rimanenti tre contee sono sotto la sovranità della Repubblica d'Irlanda.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="fi">Ulster on (iiriksi Ulaidh ja Ulsterin skotiksi Ulstèr tai Ulster) yksi Irlannin saaren historiallisista provinsseista. Ulsterin yhdeksästä kreivikunnasta kuusi kuuluu Yhdistyneelle kuningaskunnalle ja muodostaa Pohjois-Irlannin. Alueella asuu hieman alle 2 miljoonaa ihmistä ja sen maapinta-ala on 24 481 km². Katolilaisia on hieman enemmän kuin protestantteja (49 %-4 8%). Useimmat Ulsterin asukkaat puhuvat englantia ja iiri on toiseksi puhutuin kieli. Englantilaisten ja iiriläisten lisäksi Ulsterissa asuu skotteja. Yhdistyneen kuningaskunnan suurin järvi Lough Neagh sijaitsee Ulsterin itä-osassa.</dbpedia-owl:abstract>
+    <ns4:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">21552.0</ns4:areaTotal>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Londonderry"/>
+    <dbpedia-owl:abstract xml:lang="de">Ulster (irisch Cúige Uladh) ist neben Connacht, Leinster und Munster eine Region und frühere Provinz im Norden Irlands, deren Einwohner Ulter genannt wurden. Es bestand aus neun historischen Grafschaften. Drei der Grafschaften − Donegal im hohen Nordwesten sowie Cavan und Monaghan im Innern der Insel – gehören heute zur Republik Irland. Die anderen sechs Grafschaften Antrim, Armagh, Derry/Londonderry, Down, Fermanagh und Tyrone gehören heute zu Nordirland (und damit zum Vereinigten Königreich). Seit 1972 ist Nordirland jedoch verwaltungstechnisch nicht mehr in diese Grafschaften, sondern in 26 Landkreise (engl. districts) mit durchschnittlich 60.000 Einwohnern gegliedert. Häufig wird Ulster fälschlich als Synonym für Nordirland verwendet. Ulster hat eine Fläche von 21.532 km² und ungefähr zwei Millionen Einwohner. Es spielte in der Geschichte des Nordirlandkonflikts eine wichtige Rolle. 		 			Ulster in Ireland. svg 			 Provinz Ulster in Irland 			 		 		 			Northern Ireland in United Kingdom. svg 			 Britischer Teil der Provinz Ulster bzw. Nordirland 			 		 		 			Flag of Ulster. svg 			 Flagge der Provinz Ulster</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DividedRegions"/>
+    <dbpedia-owl:abstract xml:lang="no">Ulster er en provins på øya Irland. Den dekker ni grevskap. Tre av disse, Cavan, Donegal og Monaghan, ligger i Republikken Irland. De resterende seks, Antrim, Armagh, Down, Fermanagh, Londonderry og Tyrone ligger i Nord-Irland. Navnet Ulster brukes av nord-irske unionister (tilhengere av Nord-Irlands tilknytning til Storbritannia) oftest kun om de seks grevskapene i Nord-Irland; et alternativt navn som brukes av unionister og av mange i Storbritannia er The Province. Av befolkningen på drøyt 1,9 millioner bor nesten 1,7 millioner i Nord-Irland, og bare omkring 250 000 i Republikken.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="pt">Ulster é o nome dado a uma das quatro províncias históricas ou tradicionais da Irlanda, dividida em nove condados, dos quais seis, atualmente, localizam-se na Irlanda do Norte e três na República da Irlanda. A província não possui funções administrativas. A Irlanda do Norte é frequentemente mencionada como Ulster ou província do Reino Unido, estes termos podem causar confusão, uma vez que uma parte da província histórica do Ulster faz parte da República da Irlanda.</rdfs:comment>
+    <dbpprop:subdivisionType rdf:resource="http://dbpedia.org/resource/Counties_of_Ireland"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-7.0</geo:long>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:leaderName rdf:resource="http://dbpedia.org/resource/Independent_(politician)"/>
+    <rdfs:comment xml:lang="ca">Ulster és una de les "províncies històriques" d'Irlanda. Sis dels nou comtats, amb una població (2001) de 1.685.267 habitants, formen Irlanda del Nord, una regió administrativa del Regne Unit: Comtat de Derry Comtat de Tyrone Comtat de Fermanagh Comtat de Down Comtat d'Antrim Comtat d'Armagh A més, els tres comtats de Cavan, Donegal i Monaghan són a la República d'Irlanda, i tenien 246.571 habitants (2002).</rdfs:comment>
+    <dbpedia-owl:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21432200000.0</dbpedia-owl:areaTotal>
+    <dbpedia-owl:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21552000000.0</dbpedia-owl:areaTotal>
+    <dbpprop:footnotes xml:lang="en">a.  The Northern Ireland Statistics and Research Agency estimate for 2011 combined with the preliminary results of Census of Ireland 2011 for Ulster .</dbpprop:footnotes>
+    <dbpedia-owl:leaderName rdf:resource="http://dbpedia.org/resource/Social_Democratic_and_Labour_Party"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Donegal"/>
+    <ns4:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">21432.1516130304</ns4:areaTotal>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Londonderry"/>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <dbpprop:leaderName rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</dbpprop:leaderName>
+    <rdfs:comment xml:lang="ru">О́льстер — одна из четырёх исторических провинций Ирландии, объединяющая в настоящее время девять графств на севере острова. Шесть из этих графств — Антрим, Арма, Даун, Фермана, Лондондерри и Тирон — входят в состав Северной Ирландии, остальные — Каван, Донегол и Монахан — являются частью Республики Ирландия. Население Ольстера составляет порядка 2 млн человек. Площадь провинции — 24 481 км². Крупнейший город Ольстера — Белфаст.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="zh">阿尔斯特 （Ulster；愛爾蘭語：Cúige Uladh / Ulaidh），是愛爾蘭四個歷史省份之一，位於愛爾蘭島東北部。當中六郡目前組成了北愛爾蘭，是英國的一部份，其餘三郡屬愛爾蘭共和國。</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="zh">阿尔斯特 （Ulster；愛爾蘭語：Cúige Uladh / Ulaidh），是愛爾蘭四個歷史省份之一，位於愛爾蘭島東北部。當中六郡目前組成了北愛爾蘭，是英國的一部份，其餘三郡屬愛爾蘭共和國。</rdfs:comment>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Tyrone"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Provinz_Ulster"/>
+    <rdfs:comment xml:lang="fi">Ulster on (iiriksi Ulaidh ja Ulsterin skotiksi Ulstèr tai Ulster) yksi Irlannin saaren historiallisista provinsseista. Ulsterin yhdeksästä kreivikunnasta kuusi kuuluu Yhdistyneelle kuningaskunnalle ja muodostaa Pohjois-Irlannin. Alueella asuu hieman alle 2 miljoonaa ihmistä ja sen maapinta-ala on 24 481 km². Katolilaisia on hieman enemmän kuin protestantteja (49 %-4 8%). Useimmat Ulsterin asukkaat puhuvat englantia ja iiri on toiseksi puhutuin kieli.</rdfs:comment>
+    <rdfs:label xml:lang="zh">阿爾斯特省</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ProvincesOfIreland"/>
+    <dbpprop:flagSize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">180</dbpprop:flagSize>
+    <dbpprop:areaTotalSqMi rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8275</dbpprop:areaTotalSqMi>
+    <dbpedia-owl:abstract xml:lang="ca">Ulster és una de les "províncies històriques" d'Irlanda. Sis dels nou comtats, amb una població (2001) de 1.685.267 habitants, formen Irlanda del Nord, una regió administrativa del Regne Unit: Comtat de Derry Comtat de Tyrone Comtat de Fermanagh Comtat de Down Comtat d'Antrim Comtat d'Armagh A més, els tres comtats de Cavan, Donegal i Monaghan són a la República d'Irlanda, i tenien 246.571 habitants (2002). El fet de què gran part de l'Ulster formi part d'Irlanda del Nord ha propiciat que de vegades s'utilitzi el terme Ulster com a sinònim d'Irlanda del Nord, tot i que aquesta denominació no té base històrica. Ulster és també el nom del dialecte del gaèlic irlandès originari d'aquesta part de l'illa.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="ca">Ulster</rdfs:label>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Down"/>
+    <rdfs:comment xml:lang="ko">얼스터는 아일랜드 섬의 전통적인 네 지방 중 하나이다. 면적은 24,481 km²이고, 인구는 2백만명에 약간 못 미친다. 이 지방의 가장 큰 도시는 벨파스트로 약 50만명이 벨파스트와 그 인근에 거주한다. 얼스터는 영국이 아일랜드에 대한 식민정책을 수행할 때 신교도들을 다수 이주시켰던 지역으로, 전통적으로 신교도가 절대 다수를 차지해 왔다. 19세기에는 산업혁명으로 발전하는 영국과 함께 경제적 호황을 누렸는데, 이는 아일랜드의 다른 지역에서 농업과 목축업이 지배적이었던 것과는 대조적이다. 아일랜드 민족주의자들은 1912년에 아일랜드 자치법을 통과시키는 데 성공했는데, 얼스터 지역의 대다수는 이 법을 반대하면서 영국으로부터 직접 통치를 받고자 했다. 이들은 1919년에 아일랜드 독립전쟁이 시작된 후에도 영국에 속하고자 하는 합방주의(Unionism)를 고수하였으며, 1920년 아일랜드 정부법을 통해 북아일랜드 자치의회를 얻어내었다.</rdfs:comment>
+    <dbpedia-owl:leaderName rdf:resource="http://dbpedia.org/resource/Sinn_F%C3%A9in"/>
+    <dbpprop:imageFlag xml:lang="en">Flag of Ulster.svg</dbpprop:imageFlag>
+    <rdfs:label xml:lang="cs">Ulster</rdfs:label>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Cavan"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.walkingtree.com/mapsireland.html"/>
+    <rdfs:label xml:lang="de">Provinz Ulster</rdfs:label>
+    <dbpprop:officialName xml:lang="en">Ulster</dbpprop:officialName>
+    <rdfs:comment xml:lang="fr">L'Ulster est l'une des quatre provinces historiques de l'île d'Irlande. La « capitale » de l'Ulster est Belfast.</rdfs:comment>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ulster"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07w9n"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flag_of_Ulster.svg/200px-Flag_of_Ulster.svg.png"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.logainm.ie/?uiLang=en"/>
+    <dbpedia-owl:abstract xml:lang="pl">Ulster – jedna z 4 prowincji Irlandii (powszechne, choć nieprecyzyjne, jest używanie tego określenia jako synonimu Irlandii Północnej).</dbpedia-owl:abstract>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-location-noun-1"/>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-7 54.4)</geo:geometry>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Monaghan"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Ulster"/>
+    <dbpedia-owl:abstract xml:lang="en">Ulster is one of the four provinces of Ireland, located in the north of the island. In ancient Ireland, it was one of the fifths ruled by a "king of over-kings" Irish: rí ruirech. In modern times, clusters of counties have been attributed to certain provinces but these clusters have no legal status. The province itself, while enjoying common usage and forming a strong part of local identity, has no official function for local government purposes. Ulster is composed of nine counties. Six of these (almost 57% of the land area) make up Northern Ireland: Antrim, Armagh, Down, Fermanagh, Londonderry and Tyrone. The three remaining counties (about 43% of the land area) are in the Republic of Ireland: Cavan, Donegal and Monaghan.</dbpedia-owl:abstract>
+    <foaf:name xml:lang="en">Ulster</foaf:name>
+    <grs:point xml:lang="en">54.4 -7.0</grs:point>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <dbpedia-owl:abstract xml:lang="it">L'Ulster è una delle quattro province d'Irlanda, situata nella parte nordorientale dell'isola. Talora, e impropriamente, viene chiamato Ulster ciò che in realtà è l'Irlanda del Nord, ovvero quella parte amministrativa del territorio dell'Isola di Irlanda facente capo alla sovranità del Regno Unito. In realtà, quest'ultimo ha sovranità solo su 6 contee delle 9 che compongono l'Ulster propriamente detto. Le rimanenti tre contee sono sotto la sovranità della Repubblica d'Irlanda.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ahg.gov.ie/ie/Straiteis20BliaindonGhaeilge/Foilseachain/Staid%C3%A9ar%20Cuimsitheach%20Teangeola%C3%ADoch%20ar%20%C3%9As%C3%A1id%20na%20Gaeilge%20sa%20Ghaeltacht%20%28achoimre%29.pdf"/>
+    <dbpedia-owl:abstract xml:lang="sv">Den här artikeln handlar om den irländska provinsen. För begreppet i textila sammanhang se Ulster (textil). Ulster är en av Irlands historiska provinser. Ulster är den nordligaste av de fyra provinserna. De övriga är Leinster, Munster och Connacht. Ulster omfattar följande grevskap: Antrim Armagh Derry Down Fermanagh Tyrone i provinsen Nordirland samt: Cavan Donegal Monaghan i Republiken Irland. En del av den protestantiska befolkningen i Nordirland föredrar benämningen Ulster på sitt hemland framför Nordirland, detta trots att Ulster även omfattar tre grevskap som tillhör republiken Irland.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ulster"/>
+    <dbpprop:leaderName rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</dbpprop:leaderName>
+    <dbpprop:leaderName rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</dbpprop:leaderName>
+    <dbpedia-owl:abstract xml:lang="cs">Ulster je historická provincie (irské království) na severovýchodě Irska. Větší část Ulsteru je jako takzvané Severní Irsko součástí Spojeného království, menší část náleží k Irské republice. Toto rozdělení Ulsteru pochází z roku 1920 a od roku 1922 je mezinárodní hranicí. Přesto většina lidí říká Severnímu Irsku Ulster. Z devíti historických ulsterských hrabství jich k Severnímu Irsku náleží šest, Antrim (Aontroim), Armagh (Ard Mhacha), Down (An Dún), Fermanagh (Fear Manach), Londonderry (Doire) a Tyrone (Tír Eoghain). Irští nacionalisté na obou stranách hranice o nich často hovoří jako o Šesti hrabstvích (Na Sé Condaetha), zatímco probritští unionisté dávají přednost výrazům Ulster nebo Provincie (the Province). Zbývající tři hrabství, Cavan (An Cabhán), Donegal (Dún na nGall/Tír Chonaill) a Monaghan (Muineachán) jsou částí Irské republiky. Nejhustější osídlení je na východě; polovina obyvatel provincie žije v hrabstvích Antrim a Down. Největším městem Ulsteru je Belfast (Béal Feirste). Téměř výhradním jazykem běžné komunikace v Ulsteru je angličtina, pouze v odlehlých částech hrabství Donegal se stále ještě hovoří irsky. K přírodním pozoruhodnostem Ulsteru patří Lough Neagh, největší jezero Irska a celých Britských ostrovů, mořské útesy Slieve League, druhé nejvyšší v Evropě nebo sloupovité čedičové útvary Giant's Causeway, které jsou zapsány na seznam světového dědictví UNESCO. Severní Irsko (Ulster) má dvě university. Starší, založená pod jménem „Queen’s College“ v roce 1845, se stala universitou v 1908. To znamená, že QUB (Queen's University Belfast) je druhou nejstarší universitou Irského ostrova (po Trinity College v Dublinu, která byla založena roku 1592). Ulster má také jednu z nejmladších universit „University of Ulster“, tedy Ulsterskou universitu. Její založení a umístění v blízkosti protestanského města Coleraine údajně přispělo k občanským nepokojům od roku 1968. Katolická menšina ji chtěla umístit v druhém největším městě provincie - Derry, kde již existovala Magee College, která se stala jen malou částí této nové university.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="vi">Bài này giải thích về tỉnh Ulster của Bắc Ireland Ulster là tên gọi truyền thống của một trong bốn tỉnh trên đảo Ireland. Biểu tượng của tỉnh này là "Red Hand" (bàn tay đỏ)</rdfs:comment>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Monaghan"/>
+    <dbpedia-owl:abstract xml:lang="uk">Не слід плутати з Північною Ірландією, яка включає 6 з 9 графств Ольстеру. Ольстер — одна з чотирьох історичних провінцій Ірландії, що поєднує дев'ять графств на півночі острова. Шість з цих графств - Антрім, Арма, Даун, Лондондеррі, Тайрон і Фермана - входять до складу Північної Ірландії, інші - Каван, Донегол і Монахан - є частиною Республіки Ірландія. Населення Ольстеру складає близько 2 млн чоловік. Площа провінції - 24 481 км². Найбільше місто Ольстеру - Белфаст. Часто Ольстером помилково називають Північну Ірландію.</dbpedia-owl:abstract>
+    <dbpedia-owl:leaderName rdf:resource="http://dbpedia.org/resource/Fianna_F%C3%A1il"/>
+    <rdfs:comment xml:lang="de">Ulster (irisch Cúige Uladh) ist neben Connacht, Leinster und Munster eine Region und frühere Provinz im Norden Irlands, deren Einwohner Ulter genannt wurden. Es bestand aus neun historischen Grafschaften. Drei der Grafschaften − Donegal im hohen Nordwesten sowie Cavan und Monaghan im Innern der Insel – gehören heute zur Republik Irland. Die anderen sechs Grafschaften Antrim, Armagh, Derry/Londonderry, Down, Fermanagh und Tyrone gehören heute zu Nordirland (und damit zum Vereinigten Königreich).</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.psa.ac.uk/journals/pdf/5/1996/payt.pdf"/>
+    <rdfs:comment xml:lang="nl">Ulster is een van de vier oorspronkelijke provincies van Ierland. Het gebied is genoemd naar de Ulaid, de túath die het rond het begin van onze jaartelling beheerste. Tegenwoordig ligt deze provincie voor twee derde deel (the six counties) in Noord-Ierland als onderdeel van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland. Het andere gedeelte ligt in de Ierse Republiek, en omvat de graafschappen Cavan, Donegal en Monaghan.</rdfs:comment>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Antrim"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Armagh"/>
+    <dbpprop:subdivisionType xml:lang="en">Sovereign states</dbpprop:subdivisionType>
+    <dbpedia-owl:abstract xml:lang="pt">Ulster é o nome dado a uma das quatro províncias históricas ou tradicionais da Irlanda, dividida em nove condados, dos quais seis, atualmente, localizam-se na Irlanda do Norte e três na República da Irlanda. A província não possui funções administrativas. A Irlanda do Norte é frequentemente mencionada como Ulster ou província do Reino Unido, estes termos podem causar confusão, uma vez que uma parte da província histórica do Ulster faz parte da República da Irlanda. A população de 1 993 918 habitantes é a soma do resultado do censo de 2006 para os condados do Ulster localizados na República da Irlanda (266 733 habitantes) com a população estimada para 2006 da Irlanda do Norte (1 727 185 habitantes). A área total de 22 227 km² é a soma de 8 088 km² pertencentes à República da Irlanda com 14 139 km² na Irlanda do Norte.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ulster"/>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gaelscoileanna.ie/assets/Staitistic%C3%AD-2010-2011_Gaeilge.pdf"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Tyrone"/>
+    <dbpedia-owl:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2106296</dbpedia-owl:populationTotal>
+    <rdfs:comment xml:lang="no">Ulster er en provins på øya Irland. Den dekker ni grevskap. Tre av disse, Cavan, Donegal og Monaghan, ligger i Republikken Irland. De resterende seks, Antrim, Armagh, Down, Fermanagh, Londonderry og Tyrone ligger i Nord-Irland. Navnet Ulster brukes av nord-irske unionister (tilhengere av Nord-Irlands tilknytning til Storbritannia) oftest kun om de seks grevskapene i Nord-Irland; et alternativt navn som brukes av unionister og av mange i Storbritannia er The Province.</rdfs:comment>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdfs:comment xml:lang="en">Ulster is one of the four provinces of Ireland, located in the north of the island. In ancient Ireland, it was one of the fifths ruled by a "king of over-kings" Irish: rí ruirech. In modern times, clusters of counties have been attributed to certain provinces but these clusters have no legal status. The province itself, while enjoying common usage and forming a strong part of local identity, has no official function for local government purposes. Ulster is composed of nine counties.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Divided_regions"/>
+    <rdfs:comment xml:lang="ja">アルスターはアイルランド島北東部に位置する地方。イギリス（北アイルランド）領のアーマー州、アントリム州、ダウン州、ティロン州、デリー州、ファーマナ州およびアイルランド共和国領のキャバン州、ドニゴール州、モナハン州で構成される。</rdfs:comment>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Donegal"/>
+    <dbpedia-owl:leaderTitle xml:lang="en">Teachtaí Dála &amp; MPs</dbpedia-owl:leaderTitle>
+    <dbpprop:leaderName rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dbpprop:leaderName>
+    <rdfs:comment xml:lang="sv">Den här artikeln handlar om den irländska provinsen. För begreppet i textila sammanhang se Ulster (textil). Ulster är en av Irlands historiska provinser. Ulster är den nordligaste av de fyra provinserna. De övriga är Leinster, Munster och Connacht. Ulster omfattar följande grevskap: Antrim Armagh Derry Down Fermanagh Tyrone i provinsen Nordirland samt: Cavan Donegal Monaghan i Republiken Irland.</rdfs:comment>
+    <dbpprop:imageMap xml:lang="en">Ulster locator map.svg</dbpprop:imageMap>
+    <dbpedia-owl:abstract xml:lang="nl">Ulster is een van de vier oorspronkelijke provincies van Ierland. Het gebied is genoemd naar de Ulaid, de túath die het rond het begin van onze jaartelling beheerste. Tegenwoordig ligt deze provincie voor twee derde deel (the six counties) in Noord-Ierland als onderdeel van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland. Het andere gedeelte ligt in de Ierse Republiek, en omvat de graafschappen Cavan, Donegal en Monaghan. De termen 'Noord-Ierland' en 'Ulster' worden soms door elkaar gebruikt. De hele provincie Ulster had in 2006 naar schatting 1 993 918 inwoners. Grote steden die in Ulster liggen: Belfast (Noord-Ierland) Derry (Noord-Ierland)</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="uk">Ольстер</rdfs:label>
+    <dbpedia-owl:leaderName rdf:resource="http://dbpedia.org/resource/Member_of_Parliament"/>
+    <dbpprop:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2106296</dbpprop:populationTotal>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greencastle,_County_Donegal">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Urris">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monaghan">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scotstown">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia,_County_Cavan">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchill,_County_Donegal">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oldtown,_Letterkenny">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mullagh,_County_Cavan">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gartan">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulster_Woman">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Creeslough">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clontibret">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bridgend,_County_Donegal">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portnablagh">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carrigans">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Hacket_Pain">
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:allegiance rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buncrana">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ranafast">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taughboyne">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gortnavern">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/City_of_Derry_R.F.C.">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Killinkere">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aughanduff">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Magheracloone">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Knockmoyle">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pettigo">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burtonport">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Killybegs">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Munterconnaught">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clonmany">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballinode">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tirnaneill">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Smith_(delegate)">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scotshouse">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ulster">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Donegal">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eric_Dorman-Smith">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulster_Scots_people">
+    <dbpedia-owl:populationPlace rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donegal_Corridor">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swanlinbar">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballyjamesduff">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malin,_County_Donegal">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Londonderry">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dungloe">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Armagh">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McCown">
+    <dbpprop:region rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ultonia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ultonians">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McCaul">
+    <dbpprop:region rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Milford,_County_Donegal">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Finternagh">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Drumcalpin">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emyvale">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheskin">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belfast_Metropolitan_Area">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kilnaleck">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Johnston">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arranmore">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballybofey">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Jones_(Northern_Irish_footballer)">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Mellon">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballinagh">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Humphreys_(rugby_union)">
+    <dbpprop:province rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carrickmacross">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carndonagh">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gortahork">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shercock">
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballyconnell">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Ulster"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Ulster"/>
+  </rdf:Description>
+</rdf:RDF>

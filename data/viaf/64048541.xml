@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/64048541/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/64048541"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0015165#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/64048541"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Muldoon, Paul, 1951-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++81098944#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n81098944"/>
+    <skos:altLabel>Muldoon, Paul, 1951-</skos:altLabel>
+    <skos:prefLabel>Muldoon, Paul</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/64048541"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/64048541/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/64048541"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CPaul_Muldoon#skos:Concept">
+    <skos:prefLabel>Muldoon, Paul</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/64048541"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/64048541">
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119049872"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/030307236/id"/>
+    <foaf:name>マルドゥーン</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Paul_Muldoon"/>
+    <rdaGr2:dateOfDeath>1951-06-20</rdaGr2:dateOfDeath>
+    <foaf:name>Muldoon, Paul, 1951-</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Muldoon, Paul, 1951-....</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12175014z#foaf:Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdaGr2:dateOfBirth>1951-06-20</rdaGr2:dateOfBirth>
+    <foaf:name>Muldoon, Paul</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/249350"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00018562#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Muldoon, Paul, 1951-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/64048541"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/64048541/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/64048541"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C119049872#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/64048541"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Muldoon, Paul, 1951-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068589034#skos:Concept">
+    <skos:prefLabel>Muldoon, Paul, 1951-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/64048541"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00534255#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/64048541"/>
+    <skos:altLabel>マルドゥーン</skos:altLabel>
+    <skos:prefLabel>Muldoon, Paul, 1951-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C030307236#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/64048541"/>
+    <skos:prefLabel>Muldoon, Paul, 1951-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C249350#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Muldoon, Paul, 1951-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/64048541"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/249350#concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12175014#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/64048541"/>
+    <skos:prefLabel>Muldoon, Paul, 1951-....</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12175014z"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12175014z"/>
+  </rdf:Description>
+</rdf:RDF>

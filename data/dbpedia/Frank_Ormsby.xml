@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Frank_Ormsby">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Frank_Ormsby"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ormsby">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Frank_Ormsby"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Frank_Ormsby">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Frank_Ormsby"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Ormsby">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1947_births"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Frank_Ormsby?oldid=465878670"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_St._Michael's_College_Enniskillen"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Frank_Ormsby"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Article_Feedback_5"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PoetsFromNorthernIreland"/>
+    <foaf:surname xml:lang="en">Ormsby</foaf:surname>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0532j9"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poets_from_Northern_Ireland"/>
+    <foaf:givenName xml:lang="en">Frank</foaf:givenName>
+    <foaf:name xml:lang="en">Frank Ormsby</foaf:name>
+    <rdfs:label xml:lang="en">Frank Ormsby</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromEnniskillen"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Fermanagh"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Frank_Ormsby"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Enniskillen"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1947</dbpprop:dateOfBirth>
+    <dbpprop:name xml:lang="en">Ormsby, Frank</dbpprop:name>
+    <rdfs:comment xml:lang="en">Francis Arthur Ormsby is a Northern Irish poet. He was educated at St Michael's College, Enniskillen and Queen's University Belfast. He was editor of The Honest Ulsterman from 1969 to 1989, and has also edited the Poetry Ireland Review. Since 1976 he has been Head of English at the Royal Belfast Academical Institution. The man has been an inspiration for everyone who has been lucky enough to have him as a teacher or a friend.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="en">Francis Arthur Ormsby is a Northern Irish poet. He was educated at St Michael's College, Enniskillen and Queen's University Belfast. He was editor of The Honest Ulsterman from 1969 to 1989, and has also edited the Poetry Ireland Review. Since 1976 he has been Head of English at the Royal Belfast Academical Institution. The man has been an inspiration for everyone who has been lucky enough to have him as a teacher or a friend. In 2010, after 34 years in the post, he announced his decision to retire from the role of 'Head of English' at the Royal Belfast Academical Institution. In 1992 he received the Cultural Traditions Award, given in memory of John Hewitt, and in 2002 the Lawrence O'Shaughnessy Award for Poetry from the University of St. Thomas at St Paul, Minnesota. Recently he has returned to writing with a new collection Fireflies, published by Carcanet in 2009. The work features poems set in rural Fermanagh, Belfast and America.</dbpedia-owl:abstract>
+  </rdf:Description>
+</rdf:RDF>

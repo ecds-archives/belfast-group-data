@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Foley">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Michael_Foley_(academic)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Michael_Foley_(academic)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Michael_Foley_(academic)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Foley_(academic)">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Keele_University"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <foaf:givenName xml:lang="en">Michael</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_Aberystwyth_University"/>
+    <dbpedia-owl:abstract xml:lang="en">Professor Michael Foley is an international relations scholar and current head of the Department of International Politics at Aberystwyth University in Wales, United Kingdom. Foley holds a BA from Keele University and a MA and PhD from the University of Essex. He is currently Associate Editor of the journal International Relations.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Essex"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Michael_Foley_(academic)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_academics"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0h98r34"/>
+    <rdfs:comment xml:lang="en">Professor Michael Foley is an international relations scholar and current head of the Department of International Politics at Aberystwyth University in Wales, United Kingdom. Foley holds a BA from Keele University and a MA and PhD from the University of Essex. He is currently Associate Editor of the journal International Relations.</rdfs:comment>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Michael_Foley_(academic)?oldid=479978205"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Michael_Foley_(academic)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:International_relations_scholars"/>
+    <foaf:name xml:lang="en">Michael Foley</foaf:name>
+    <dbpprop:name xml:lang="en">Foley, Michael</dbpprop:name>
+    <foaf:surname xml:lang="en">Foley</foaf:surname>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.aber.ac.uk/en/interpol/staff/academic/mof/"/>
+  </rdf:Description>
+</rdf:RDF>

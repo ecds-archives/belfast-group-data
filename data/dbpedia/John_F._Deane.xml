@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/John_F._Deane">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/John_F._Deane"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/John_F._Deane">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/John_F._Deane"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_F._Deane">
+    <dbpprop:name xml:lang="en">Deane, John F.</dbpprop:name>
+    <rdfs:comment xml:lang="en">John F. Deane (born 1943 on Achill Island) is an Irish poet and novelist. He founded Poetry Ireland and The Poetry Ireland Review in 1979.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/John_F._Deane"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/John_F._Deane?oldid=452273474"/>
+    <rdfs:label xml:lang="en">John F. Deane</rdfs:label>
+    <foaf:givenName xml:lang="en">John F.</foaf:givenName>
+    <foaf:name xml:lang="en">John F. Deane</foaf:name>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.026t6gf"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_writers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <foaf:surname xml:lang="en">Deane</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1943_births"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:abstract xml:lang="en">John F. Deane (born 1943 on Achill Island) is an Irish poet and novelist. He founded Poetry Ireland and The Poetry Ireland Review in 1979.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/John_F._Deane"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Mayo"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1943</dbpprop:dateOfBirth>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.johnfdeane.com/"/>
+    <foaf:homepage rdf:resource="http://www.johnfdeane.com/"/>
+  </rdf:Description>
+</rdf:RDF>

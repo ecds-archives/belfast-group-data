@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+   xmlns:grs="http://www.georss.org/georss/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osama_(film)">
+    <dbpedia-owl:distributor rdf:resource="http://dbpedia.org/resource/Institute_of_Contemporary_Arts"/>
+    <dbpprop:distributor rdf:resource="http://dbpedia.org/resource/Institute_of_Contemporary_Arts"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ICA">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Institute_of_Contemporary_Arts"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Institute_of_Contemporary_Art">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Institute_of_Contemporary_Arts"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Institute_of_Contemporary_Arts">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Institute_of_Contemporary_Arts"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Institute_of_Contemporary_Arts">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Institute_of_Contemporary_Arts"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Institute_of_Contemporary_Arts">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/London"/>
+    <rdf:type rdf:resource="http://schema.org/Museum"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/8/87/The_ica_1.jpg"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.13061</geo:long>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Building"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02k9vk"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MuseumsEstablishedIn1947"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Institute_of_Contemporary_Arts"/>
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/Gregor_Muir"/>
+    <rdfs:label xml:lang="de">Institute of Contemporary Arts</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cinemas_in_London"/>
+    <grs:point xml:lang="en">51.506608 -0.13061</grs:point>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ica.org.uk/"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure"/>
+    <dbpedia-owl:abstract xml:lang="de">Das Institute of Contemporary Arts (ICA) ist ein seit 1947 in London ansässiges bedeutendes Zentrum mit einer Kunsthalle zur Präsentation von Wechselausstellungen. Bei der Programmplanung werden besonders zeitgenössische Werke britischer Künstler berücksichtigt. Seit 2011 ist der Kurator Gregor Muir Direktor des ICA.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MuseumsInWestminster"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Theatres_in_Westminster"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Art_museums_established_in_1947"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/The_ica_1.jpg/200px-The_ica_1.jpg"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Institute_of_Contemporary_Arts?oldid=487803119"/>
+    <dbpedia-owl:abstract xml:lang="fr">L'Institute of Contemporary Art ou ICA est un centre d'art moderne situé sur l'avenue The Mall à Londres. Il fut fondé en 1947 par Peter Watson, Herbert Read, Geoffrey Grigson et Roland Penrose. Il contient des galeries, deux salles de cinéma et un bar. En 1950, Jane Drew a décoré l'intérieur, mais le musée connue aussi divers collaboration d'artistes comme Maxwell Fry, Eduardo Paolozzi, Nigel Henderson, Neil Morris &amp; Terence Conran.</dbpedia-owl:abstract>
+    <dbpprop:location xml:lang="en">Main  entrance on The Mall, London, England is shown above. 
+Offices and postal address are situated at 12 Carlton House Terrace.</dbpprop:location>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Visitor_attractions_in_Westminster"/>
+    <rdfs:comment xml:lang="en">The Institute of Contemporary Arts (ICA) is an artistic and cultural centre on The Mall in London, just off Trafalgar Square. It is located within Nash House, part of Carlton House Terrace, near the Duke of York Steps and Admiralty Arch. It contains galleries, a theatre, two cinemas, a bookshop and a bar. Since 2011, the director is Gregor Muir.</rdfs:comment>
+    <dbpprop:publictransit rdf:resource="http://dbpedia.org/resource/Charing_Cross_tube_station"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Contemporary_art_galleries_in_the_United_Kingdom"/>
+    <foaf:homepage rdf:resource="http://www.ica.org.uk/"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_museum"/>
+    <dbpprop:coordinatesType xml:lang="en">type:landmark_region:GB</dbpprop:coordinatesType>
+    <dbpprop:established rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1947</dbpprop:established>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Performing_arts_in_London"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TheatresInWestminster"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Art_museums_and_galleries_in_London"/>
+    <dbpprop:website rdf:resource="http://www.ica.org.uk/"/>
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Carlton_House_Terrace"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/Gregor_Muir"/>
+    <dbpedia-owl:abstract xml:lang="en">The Institute of Contemporary Arts (ICA) is an artistic and cultural centre on The Mall in London, just off Trafalgar Square. It is located within Nash House, part of Carlton House Terrace, near the Duke of York Steps and Admiralty Arch. It contains galleries, a theatre, two cinemas, a bookshop and a bar. Since 2011, the director is Gregor Muir.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="fr">L'Institute of Contemporary Art ou ICA est un centre d'art moderne situé sur l'avenue The Mall à Londres. Il fut fondé en 1947 par Peter Watson, Herbert Read, Geoffrey Grigson et Roland Penrose. Il contient des galeries, deux salles de cinéma et un bar. En 1950, Jane Drew a décoré l'intérieur, mais le musée connue aussi divers collaboration d'artistes comme Maxwell Fry, Eduardo Paolozzi, Nigel Henderson, Neil Morris &amp; Terence Conran.</rdfs:comment>
+    <dbpprop:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#int">52</dbpprop:latitude>
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/The_Mall,_London"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Institute_of_Contemporary_Arts"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ArtMuseumsAndGalleriesInLondon"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Museums_in_Westminster"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Museum"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CinemasInLondon"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Institute_of_Contemporary_Arts"/>
+    <dbpprop:publictransit rdf:resource="http://dbpedia.org/resource/Piccadilly_Circus_tube_station"/>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-0.13061 51.5066)</geo:geometry>
+    <dbpprop:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</dbpprop:longitude>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Institute_of_Contemporary_Arts"/>
+    <rdfs:comment xml:lang="de">Das Institute of Contemporary Arts (ICA) ist ein seit 1947 in London ansässiges bedeutendes Zentrum mit einer Kunsthalle zur Präsentation von Wechselausstellungen. Bei der Programmplanung werden besonders zeitgenössische Werke britischer Künstler berücksichtigt. Seit 2011 ist der Kurator Gregor Muir Direktor des ICA.</rdfs:comment>
+    <foaf:name xml:lang="en">Institute of Contemporary Arts</foaf:name>
+    <dbpprop:name xml:lang="en">Institute of Contemporary Arts</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1947_establishments_in_England"/>
+    <rdfs:label xml:lang="en">Institute of Contemporary Arts</rdfs:label>
+    <dbpprop:pushpinMap xml:lang="en">Central London</dbpprop:pushpinMap>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PerformingArtsInLondon"/>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.tate.org.uk/research/researchservices/archive/icaarchive"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.5066</geo:lat>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Arts_centres_in_London"/>
+    <dbpprop:mapType xml:lang="en">central London</dbpprop:mapType>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ITunes_Festival:_London">
+    <dbpedia-owl:recordedIn rdf:resource="http://dbpedia.org/resource/Institute_of_Contemporary_Arts"/>
+  </rdf:Description>
+</rdf:RDF>

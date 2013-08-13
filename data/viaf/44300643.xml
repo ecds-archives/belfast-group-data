@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJames_Joyce#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Joyce, James</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX901696#skos:Concept">
+    <skos:altLabel>Dzhoĭs, Dzheĭms Avgustin Aloiziĭ, 1882-1941</skos:altLabel>
+    <skos:altLabel>Joyce, James Agustine Aloysius 1882-1941</skos:altLabel>
+    <skos:altLabel>Tzoys, Tzaiēms, 1882-1941</skos:altLabel>
+    <skos:altLabel>Gʻois, Gʻaims, 1882-1941</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Jūyis, Jīms, 1882-1941</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <skos:altLabel>Joyce, Giacomo, 1882-1941</skos:altLabel>
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500255877#skos:Concept">
+    <skos:altLabel>James Joyce</skos:altLabel>
+    <skos:prefLabel>Joyce, James Irish author, 1882-1941</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C166583936#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+    <skos:altLabel>Qiaoyisi, Zhanmusi, 1882-1941</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:altLabel>乔伊斯, 詹姆斯, 1882-1941</skos:altLabel>
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C191988#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/191988#concept"/>
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/44300643/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10179719#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/44300643">
+    <foaf:name>Zhanmusi Qiaoyisi 1882-1941</foaf:name>
+    <foaf:name>Tzoys, Tzaiēms, 1882-1941</foaf:name>
+    <foaf:name>Tzoy͏̈s, Tzeēms 1882-1941</foaf:name>
+    <foaf:name>喬伊斯 1882-1941</foaf:name>
+    <foaf:name>ジョイス, ジェイムズ</foaf:name>
+    <foaf:name>Zhoĭs, Zheĭms, 1882-1941</foaf:name>
+    <foaf:name>乔伊斯, 詹姆斯, 1882-1941</foaf:name>
+    <foaf:name>ジェームスジョイス, 1882-1941</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Jūyis, Jīms, 1882-1941</foaf:name>
+    <foaf:name>Joyce, Giacomo</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/026942232/id"/>
+    <foaf:name>Gʻois, Gʻaims, 1882-1941</foaf:name>
+    <foaf:name>Joyce, James, 1882-1941</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/191988"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118558501"/>
+    <foaf:name>جيمس جويس، 1882-1941</foaf:name>
+    <foaf:name>ג'ויס, ג'יימס, 1882-1941</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>詹姆斯 喬伊斯 1882-1941</foaf:name>
+    <foaf:name>Džojs, Džejms. [t]</foaf:name>
+    <foaf:name>Qiaoyisi, Zhanmusi, 1882-1941</foaf:name>
+    <foaf:name>Scheuß, Schämes 1882-1941</foaf:name>
+    <foaf:name>Dzhoĭs, Dzheĭms Avgustin Aloiziĭ, 1882-1941</foaf:name>
+    <foaf:name>ג׳ויס, ג׳ײמס, 1941־1882</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11909158m#foaf:Person"/>
+    <foaf:name>Džoiss, Džeimss, 1882-1941</foaf:name>
+    <foaf:name>Joyce, James A. 1882-1941</foaf:name>
+    <rdaGr2:dateOfDeath>1941-01-13</rdaGr2:dateOfDeath>
+    <foaf:name>جويس، جيمس، 1882-1941</foaf:name>
+    <foaf:name>Joyce, Giacomo, 1882-1941</foaf:name>
+    <foaf:name>Joyce, James Augustine Aloysus</foaf:name>
+    <foaf:name>Dixon, Vladimir 1882-1941 Pseudonym</foaf:name>
+    <foaf:name>Joyce, James</foaf:name>
+    <foaf:name>Joyce James Augustine Aloysus 1882-1941</foaf:name>
+    <foaf:name>ג׳ויס, ג׳יימס, 1882־1941</foaf:name>
+    <foaf:name>ג'ויס, ג'מס, 1882-1941</foaf:name>
+    <foaf:name>جويس، جميس، 1882-1941</foaf:name>
+    <foaf:name>Joyce, James Irish author, 1882-1941</foaf:name>
+    <foaf:name>Джойс, Джеймс Августин Алоїсуїс, 1882-1941</foaf:name>
+    <foaf:name>Džojs, Džems.</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
+    <rdaGr2:dateOfBirth>1882-02-02</rdaGr2:dateOfBirth>
+    <foaf:name>G'ois, G'ems 1882-1941</foaf:name>
+    <foaf:name>Joyce, James Augustine Aloysius, 1882-1941</foaf:name>
+    <foaf:name>Qiaoyisi 1882-1941</foaf:name>
+    <foaf:name>Joyce, James Agustine Aloysius 1882-1941</foaf:name>
+    <foaf:name>Joyce, James Augustine Aloysius 1882-1941 Vollstaendiger Name</foaf:name>
+    <foaf:name>James Joyce</foaf:name>
+    <foaf:name>Joyce, James Augustine Aloysius.</foaf:name>
+    <foaf:name>Джойс, Джеймс, 1882-1941</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++93081113#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+    <skos:altLabel>Džojs, Džems.</skos:altLabel>
+    <skos:altLabel>Joyce, James Augustine Aloysius.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Džojs, Džejms. [t]</skos:altLabel>
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/44300643/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/44300643"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00444960#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:altLabel>ジョイス, ジェイムズ</skos:altLabel>
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79056824#skos:Concept">
+    <skos:altLabel>Джойс, Джеймс, 1882-1941</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+    <skos:altLabel>ג׳ויס, ג׳יימס, 1882־1941</skos:altLabel>
+    <skos:altLabel>Tzoy͏̈s, Tzeēms 1882-1941</skos:altLabel>
+    <skos:altLabel>Jūyis, Jīms, 1882-1941</skos:altLabel>
+    <skos:altLabel>Džoiss, Džeimss, 1882-1941</skos:altLabel>
+    <skos:altLabel>ג׳ויס, ג׳ײמס, 1941־1882</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Dzhoĭs, Dzheĭms Avgustin Aloiziĭ, 1882-1941</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79056824"/>
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+    <skos:altLabel>Joyce, Giacomo, 1882-1941</skos:altLabel>
+    <skos:altLabel>Gʻois, Gʻaims, 1882-1941</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Tzoys, Tzaiēms, 1882-1941</skos:altLabel>
+    <skos:altLabel>Джойс, Джеймс Августин Алоїсуїс, 1882-1941</skos:altLabel>
+    <skos:altLabel>Zhoĭs, Zheĭms, 1882-1941</skos:altLabel>
+    <skos:altLabel>ジェームスジョイス, 1882-1941</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001655401#skos:Concept">
+    <skos:altLabel>جيمس جويس، 1882-1941</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+    <skos:prefLabel>جويس، جيمس، 1882-1941</skos:prefLabel>
+    <skos:altLabel>جويس، جميس، 1882-1941</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0009D0375#skos:Concept">
+    <skos:altLabel>Joyce, James Augustine Aloysius.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11541015#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+    <skos:altLabel>Joyce, James Augustine Aloysius.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11909158#skos:Concept">
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11909158m"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11909158m"/>
+    <skos:altLabel>Joyce James Augustine Aloysus 1882-1941</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C23695#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+    <skos:altLabel>Joyce, James</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000072421#skos:Concept">
+    <skos:altLabel>Joyce, James Augustine Aloysius, 1882-1941</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+    <skos:altLabel>Joyce, Giacomo</skos:altLabel>
+    <skos:altLabel>ג'ויס, ג'מס, 1882-1941</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/44300643/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/44300643"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035255340#skos:Concept">
+    <skos:altLabel>Gʻois, Gʻaims, 1882-1941</skos:altLabel>
+    <skos:altLabel>Joyce, Giacomo, 1882-1941</skos:altLabel>
+    <skos:altLabel>Jūyis, Jīms, 1882-1941</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:altLabel>ג׳ויס, ג׳ײמס, 1941־1882</skos:altLabel>
+    <skos:altLabel>Tzoys, Tzaiēms, 1882-1941</skos:altLabel>
+    <skos:altLabel>Джойс, Джеймс, 1882-1941</skos:altLabel>
+    <skos:altLabel>Džoiss, Džeimss, 1882-1941</skos:altLabel>
+    <skos:altLabel>Dzhoĭs, Dzheĭms Avgustin Aloiziĭ, 1882-1941</skos:altLabel>
+    <skos:altLabel>Tzoy͏̈s, Tzeēms 1882-1941</skos:altLabel>
+    <skos:altLabel>ג׳ויס, ג׳יימס, 1882־1941</skos:altLabel>
+    <skos:altLabel>ジェームスジョイス, 1882-1941</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118558501#skos:Concept">
+    <skos:altLabel>Scheuß, Schämes 1882-1941</skos:altLabel>
+    <skos:altLabel>喬伊斯 1882-1941</skos:altLabel>
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+    <skos:altLabel>詹姆斯 喬伊斯 1882-1941</skos:altLabel>
+    <skos:altLabel>Džoiss, Džeimss, 1882-1941</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Joyce, James A. 1882-1941</skos:altLabel>
+    <skos:altLabel>Joyce, James Augustine Aloysius 1882-1941 Vollstaendiger Name</skos:altLabel>
+    <skos:altLabel>Dixon, Vladimir 1882-1941 Pseudonym</skos:altLabel>
+    <skos:altLabel>G'ois, G'ems 1882-1941</skos:altLabel>
+    <skos:altLabel>Qiaoyisi 1882-1941</skos:altLabel>
+    <skos:altLabel>Zhanmusi Qiaoyisi 1882-1941</skos:altLabel>
+    <skos:altLabel>Tzoy͏̈s, Tzeēms 1882-1941</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026942232#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+    <skos:altLabel>Joyce, James Augustine Aloysus</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990004096#skos:Concept">
+    <skos:prefLabel>Joyce, James, 1882-1941</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44300643"/>
+  </rdf:Description>
+</rdf:RDF>

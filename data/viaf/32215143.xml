@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/32215143/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/32215143"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca12521693#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <skos:prefLabel>Ofaolain, Nuala</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32215143"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CNuala_O'Faolain#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32215143"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Ofaolain, Nuala</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C14430237#skos:Concept">
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb14430237x"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb14430237x"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32215143"/>
+    <skos:prefLabel>O'Faolain, Nuala, 1940-2008</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C063240920#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32215143"/>
+    <skos:prefLabel>O'Faolain, Nuala, 1940-2008</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cola2013757688#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32215143"/>
+    <skos:prefLabel>O'Faolain, Nuala, 1940-2008</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C162540248#skos:Concept">
+    <skos:prefLabel>Ofaolain, Nuala</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32215143"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/32215143/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/32215143"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/32215143">
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb14430237x#foaf:Person"/>
+    <rdaGr2:dateOfDeath>2008-05-09</rdaGr2:dateOfDeath>
+    <foaf:name>O'Faolain, Nuala, 1940-</foaf:name>
+    <foaf:name>Ofaolain, Nuala</foaf:name>
+    <rdaGr2:dateOfBirth>1940-03-01</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://www.idref.fr/063240920/id"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/124450393"/>
+    <foaf:name>O'Faolain, Nuala, 1940-2008</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Nuala_O'Faolain"/>
+    <foaf:name>オフェイロン, ヌーラ</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C124450393#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32215143"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>O'Faolain, Nuala, 1940-2008</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cno+97021398#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/no97021398"/>
+    <skos:prefLabel>Ofaolain, Nuala</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32215143"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00903271#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:altLabel>オフェイロン, ヌーラ</skos:altLabel>
+    <skos:prefLabel>O'Faolain, Nuala, 1940-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32215143"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++02064144#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32215143"/>
+    <skos:prefLabel>Ofaolain, Nuala</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/32215143/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32215143"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+</rdf:RDF>

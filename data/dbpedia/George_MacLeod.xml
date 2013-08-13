@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baron_MacLeod_of_Fairy">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_MacLeod"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Reith,_1st_Baron_Reith">
+    <dbpprop:after rdf:resource="http://dbpedia.org/resource/George_MacLeod"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_MacLeod,_Baron_MacLeod_of_Fuinary">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_MacLeod"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/George_MacLeod">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_MacLeod"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/George_MacLeod">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/George_MacLeod"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_MacLeod">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BaronsInThePeerageOfTheUnitedKingdom"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Argyll_and_Sutherland_Highlanders_officers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Leaders_of_the_Iona_Community"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.029hts"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GreenPartyLifePeers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ministers_of_the_Church_of_Scotland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LeadersOfTheIonaCommunity"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Moderators_of_the_General_Assembly_of_the_Church_of_Scotland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RectorsOfTheUniversityOfGlasgow"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromGlasgow"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_personnel_of_World_War_I"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/George_MacLeod?oldid=493705692"/>
+    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Jimmy_Reid"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1895-06-17</dbpedia-owl:birthDate>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Rector_of_the_University_of_Glasgow"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Govan"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishAnti-warActivists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Military_Cross"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TempletonPrizeLaureates"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishPacifists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Glasgow"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1991_deaths"/>
+    <dbpprop:before rdf:resource="http://dbpedia.org/resource/John_Reith,_1st_Baron_Reith"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">27</dbpprop:dateOfDeath>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_socialists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_anti-war_activists"/>
+    <foaf:givenName xml:lang="en">George</foaf:givenName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ModeratorsOfTheGeneralAssemblyOfTheChurchOfScotland"/>
+    <rdfs:comment xml:lang="en">George Fielden MacLeod, Baron MacLeod of Fuinary, MC (17 June 1895 – 27 June 1991) was a Scottish soldier and clergyman; he was one of the best known, most influential and unconventional Church of Scotland ministers of the 20th century. He was the founder of the Iona Community.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Iona_Community_members"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-06-27</dbpedia-owl:deathDate>
+    <dbpprop:name xml:lang="en">Macleod, George</dbpprop:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:abstract xml:lang="en">George Fielden MacLeod, Baron MacLeod of Fuinary, MC (17 June 1895 – 27 June 1991) was a Scottish soldier and clergyman; he was one of the best known, most influential and unconventional Church of Scotland ministers of the 20th century. He was the founder of the Iona Community.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishChristianSocialists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Croix_de_Guerre_(France)"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishSocialists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Winchester_College"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Oriel_College,_Oxford"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Succession_box"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Green_Party_life_peers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTheUniversityOfEdinburgh"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Rectors_of_the_University_of_Glasgow"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_pacifists"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1968</dbpprop:years>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Templeton_Prize_laureates"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1895_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfOrielCollege,Oxford"/>
+    <foaf:name xml:lang="en">George Macleod</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Edinburgh"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/George_MacLeod"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_Christian_socialists"/>
+    <foaf:surname xml:lang="en">Macleod</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/George_MacLeod"/>
+    <rdfs:label xml:lang="en">George MacLeod</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jimmy_Reid">
+    <dbpprop:before rdf:resource="http://dbpedia.org/resource/George_MacLeod"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MacLeod">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/George_MacLeod"/>
+  </rdf:Description>
+</rdf:RDF>

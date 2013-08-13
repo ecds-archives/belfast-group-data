@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990001462#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+    <skos:prefLabel>Collins, William, 1721-1759</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CWilliam_Collins_(poet)#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Collins, William</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035029877#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Collins, William, 1721-1759</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2005002931#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Collins, William, 1721-1759</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/79091605">
+    <owl:sameAs rdf:resource="http://www.idref.fr/03213200X/id"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/182860"/>
+    <foaf:name>Collins, William, 1721-1759</foaf:name>
+    <foaf:name>William I Collins</foaf:name>
+    <rdaGr2:dateOfDeath>1759-06-12</rdaGr2:dateOfDeath>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119068583"/>
+    <foaf:name>Collins, William</foaf:name>
+    <foaf:name>Collins, William, I English sculptor and stuccoist, 1721-1793</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/William_Collins_(poet)"/>
+    <rdaGr2:dateOfBirth>1721-12-25</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12322113g#foaf:Person"/>
+    <foaf:name>William Collins I</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Collins, Mr. (William), 1721-1759</foaf:name>
+    <foaf:name>Collins, William I</foaf:name>
+    <foaf:name>Collins, ... 1721-1759</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/79091605/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/79091605"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12322113#skos:Concept">
+    <skos:prefLabel>Collins, William, 1721-1759</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12322113g"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12322113g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/79091605/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/79091605"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068944993#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Collins, William, 1721-1759</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C182860#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/182860#concept"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Collins, William</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca17611283#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Collins, William, 1721-1759</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C03213200X#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Collins, William, 1721-1759</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000406330#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Collins, William, 1721-1759</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+    <skos:altLabel>Collins, Mr. (William), 1721-1759</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00620514#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+    <skos:prefLabel>Collins, William, 1721-1759</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50026862#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Collins, Mr. (William), 1721-1759</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50026862"/>
+    <skos:prefLabel>Collins, William, 1721-1759</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C119068583#skos:Concept">
+    <skos:altLabel>Collins, ... 1721-1759</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Collins, William, 1721-1759</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/79091605/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500046077#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Collins, William I</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
+    <skos:altLabel>William Collins I</skos:altLabel>
+    <skos:prefLabel>Collins, William, I English sculptor and stuccoist, 1721-1793</skos:prefLabel>
+    <skos:altLabel>William I Collins</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10208115#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Collins, William, 1721-1759</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79091605"/>
+  </rdf:Description>
+</rdf:RDF>

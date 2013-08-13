@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/166810937/#rdaEnt:CorporateBody">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/166810937"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/166810937/#foaf:Organization">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/166810937"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2013060980#skos:Concept">
+    <skos:altLabel>Faber and Faber Ltd.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/166810937"/>
+    <skos:altLabel>FF.</skos:altLabel>
+    <skos:altLabel>Faber and Faber Limited.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Faber and Faber.</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/166810937/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/166810937"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C11395462X#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Faber and Faber Ltd</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/166810937"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/166810937">
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
+    <foaf:name>Faber.</foaf:name>
+    <foaf:name>Faber &amp; Faber Londres</foaf:name>
+    <foaf:name>Faber and Faber Ltd.</foaf:name>
+    <foaf:name>Faber &amp; Faber Ltd.</foaf:name>
+    <foaf:name>Faber and Faber.</foaf:name>
+    <foaf:name>Faber and Faber Limited.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb127397905#foaf:Person"/>
+    <foaf:name>Faber (Firm)</foaf:name>
+    <foaf:name>Faber &amp; Faber</foaf:name>
+    <foaf:name>FF.</foaf:name>
+    <foaf:name>Faber und Faber.</foaf:name>
+    <foaf:name>Faber and Faber Ltd</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/7677476-4"/>
+    <foaf:name>Faber a. Faber.</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/11395462X/id"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/166810937/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/166810937"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12739790#skos:Concept">
+    <skos:altLabel>Faber &amp; Faber Londres</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb127397905"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:prefLabel>Faber and Faber.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/166810937"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb127397905"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++92111500#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Faber (Firm)</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n92111500"/>
+    <skos:altLabel>Faber &amp; Faber Ltd.</skos:altLabel>
+    <skos:prefLabel>Faber and Faber.</skos:prefLabel>
+    <skos:altLabel>Faber and Faber Limited.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/166810937"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca26478262#skos:Concept">
+    <skos:altLabel>Faber und Faber.</skos:altLabel>
+    <skos:altLabel>Faber a. Faber.</skos:altLabel>
+    <skos:altLabel>Faber and Faber Limited.</skos:altLabel>
+    <skos:prefLabel>Faber and Faber.</skos:prefLabel>
+    <skos:altLabel>Faber &amp; Faber Ltd.</skos:altLabel>
+    <skos:altLabel>Faber.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/166810937"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C997476427#skos:Concept">
+    <skos:altLabel>Faber &amp; Faber</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/166810937"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Faber and Faber.</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+</rdf:RDF>

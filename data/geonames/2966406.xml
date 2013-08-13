@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2966406/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521316/"/>
+    <gn:alternateName xml:lang="en">Ballyshannon</gn:alternateName>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Ballyshannon"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2966406/about.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2964751/"/>
+    <wgs84_pos:long>-8.18333</wgs84_pos:long>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2964751/"/>
+    <gn:countryCode>IE</gn:countryCode>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2966406/ballyshannon.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <wgs84_pos:lat>54.5</wgs84_pos:lat>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:name>Ballyshannon</gn:name>
+    <gn:alternateName xml:lang="ga">Béal Átha Seanaidh</gn:alternateName>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Ballyshannon"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2966406/nearby.rdf"/>
+    <gn:population>2683</gn:population>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2966406/about.rdf">
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2966406/"/>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2966406/"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-18</dcterms:modified>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+</rdf:RDF>

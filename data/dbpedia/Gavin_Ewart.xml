@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gavin_Ewart">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1995_deaths"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Gavin_Ewart"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1916-02-04</dbpedia-owl:birthDate>
+    <dbpedia-owl:abstract xml:lang="en">Gavin Buchanan Ewart (4 February 1916 – 25 October 1995) was a British poet who contributed to Geoffrey Grigson's New Verse at the age of seventeen.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPoets"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-10-25</dbpedia-owl:deathDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1916_births"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Artillery_officers"/>
+    <rdfs:label xml:lang="en">Gavin Ewart</rdfs:label>
+    <rdfs:comment xml:lang="pt">Gavin Buchanan Ewart foi um poeta inglês.</rdfs:comment>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.findarticles.com/p/articles/mi_qn4158/is_19951025/ai_n14014094"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.findarticles.com/p/articles/mi_qn4158/is_19951024/ai_n14013926"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Gavin_Ewart"/>
+    <rdfs:comment xml:lang="en">Gavin Buchanan Ewart (4 February 1916 – 25 October 1995) was a British poet who contributed to Geoffrey Grigson's New Verse at the age of seventeen.</rdfs:comment>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Gavin_Ewart"/>
+    <dbpprop:name xml:lang="en">Ewart, Gavin</dbpprop:name>
+    <foaf:givenName xml:lang="en">Gavin</foaf:givenName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <foaf:surname xml:lang="en">Ewart</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RoyalArtilleryOfficers"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Wellington_College,_Berkshire"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Gavin_Ewart?oldid=485366397"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.098n75"/>
+    <foaf:name xml:lang="en">Gavin Ewart</foaf:name>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">25</dbpprop:dateOfDeath>
+    <dbpedia-owl:abstract xml:lang="pt">Gavin Buchanan Ewart foi um poeta inglês.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_personnel_of_World_War_II"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</dbpprop:dateOfBirth>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gavin_Buchanan_Ewart">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gavin_Ewart"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Gavin_Ewart">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Gavin_Ewart"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Gavin_Ewart">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gavin_Ewart"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ewart">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Gavin_Ewart"/>
+  </rdf:Description>
+</rdf:RDF>

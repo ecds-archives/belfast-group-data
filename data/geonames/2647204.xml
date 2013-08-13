@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2647204/about.rdf">
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-17</dcterms:modified>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2647204/"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2647204/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2647204/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#T.ISLS"/>
+    <gn:alternateName xml:lang="ja">ヘブリディーズ諸島</gn:alternateName>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Hebrides"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2647204/hebrides.html"/>
+    <gn:countryCode>GB</gn:countryCode>
+    <gn:alternateName xml:lang="no">Hebridene</gn:alternateName>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/2638360/"/>
+    <gn:alternateName>Hebrides</gn:alternateName>
+    <gn:alternateName xml:lang="he">האיים ההברידיים</gn:alternateName>
+    <gn:alternateName xml:lang="eu">Hebrida uharte</gn:alternateName>
+    <gn:alternateName xml:lang="es">Hébridas</gn:alternateName>
+    <gn:alternateName xml:lang="nn">Hebridane</gn:alternateName>
+    <gn:alternateName xml:lang="it">Isole Ebridi</gn:alternateName>
+    <wgs84_pos:lat>57</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2634428/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2635167/"/>
+    <gn:alternateName xml:lang="gd">Na h-Innse Gall</gn:alternateName>
+    <gn:alternateName>Western Isles</gn:alternateName>
+    <gn:alternateName xml:lang="pt">Hébridas</gn:alternateName>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2647204/about.rdf"/>
+    <gn:alternateName xml:lang="et">Hebriidid</gn:alternateName>
+    <gn:alternateName xml:lang="da">Hebriderne</gn:alternateName>
+    <gn:alternateName xml:lang="eo">Hebridaj Insuloj</gn:alternateName>
+    <gn:alternateName xml:lang="nl">Hebriden</gn:alternateName>
+    <gn:alternateName xml:lang="tr">Hebridler</gn:alternateName>
+    <gn:alternateName xml:lang="ru">Гебридские острова</gn:alternateName>
+    <gn:name>Hebrides</gn:name>
+    <gn:alternateName xml:lang="de">Hebriden</gn:alternateName>
+    <gn:alternateName xml:lang="fr">Hébrides</gn:alternateName>
+    <gn:alternateName xml:lang="pl">Hebrydy</gn:alternateName>
+    <gn:alternateName xml:lang="ko">헤브리디스 제도</gn:alternateName>
+    <gn:alternateName xml:lang="lt">Hebridai</gn:alternateName>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#T"/>
+    <gn:alternateName xml:lang="br">Inizi Gall</gn:alternateName>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Hebrides"/>
+    <gn:alternateName xml:lang="hu">Hebridák</gn:alternateName>
+    <wgs84_pos:long>-7</wgs84_pos:long>
+    <gn:alternateName xml:lang="en">Hebrides</gn:alternateName>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2634428/"/>
+    <gn:alternateName xml:lang="fi">Hebridit</gn:alternateName>
+    <gn:alternateName xml:lang="sv">Hebriderna</gn:alternateName>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2647204/nearby.rdf"/>
+  </rdf:Description>
+</rdf:RDF>

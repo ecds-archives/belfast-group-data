@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Berryman">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Gerard_Manley_Hopkins">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/G._M._Hopkins">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hopkins">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerard_M._Hopkins">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/G.M._Hopkins">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joyce_Kilmer">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seamus_Heaney">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Hughes">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_Fulton">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manley_Hopkins">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Said">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hart_Crane">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spring_and_Fall">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerard_Manley_Hopkins">
+    <dbpprop:source xml:lang="en">"Pied Beauty" written 1877.</dbpprop:source>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpprop:name xml:lang="en">Hopkins, Gerard Manley</dbpprop:name>
+    <dbpprop:salign xml:lang="en">right</dbpprop:salign>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/South_Essex_(UK_Parliament_constituency)"/>
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">350</dbpprop:width>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1889-06-08</dbpprop:deathDate>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poemhunter.com/p/m/poem.asp?poet=3161&amp;poem=28028"/>
+    <dbpprop:restingPlace rdf:resource="http://dbpedia.org/resource/Glasnevin_Cemetery"/>
+    <dbpprop:restingPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Quote_box"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writer110794014"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_Roman_Catholic_priests"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryfoundation.org/archive/poet.html?id=81375"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジェラード・マンリ・ホプキンス"/>
+    <rdfs:comment xml:lang="it"></rdfs:comment>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</dbpprop:dateOfDeath>
+    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleAssociatedWithUniversityCollegeDuBlin"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1844_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WelshCatholicPoets"/>
+    <rdfs:comment xml:lang="hu">Gerard Manley Hopkins jezsuita pap, angol költő volt, akit a 20. században ismertek el igazán a viktoriánus Anglia egyik legtehetségesebb költőjeként. A versmértékkel való bátor kísérletezése (elsősorban a szökellő ritmus) és vibráló képhasználata miatt eredetinek és formabontónak számít a kor főleg hagyományos verselői között. 1864-ben áttért érdekes módon a katolikus hitre az anglikán vallású Egyesült Királyságban.</rdfs:comment>
+    <dbpprop:almaMater xml:lang="en">Highgate School, London</dbpprop:almaMater>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishCatholicPoets"/>
+    <rdfs:comment xml:lang="de">Gerard Manley Hopkins war ein britischer Lyriker und Jesuit, dessen Gedichte vor allem wegen der Lebendigkeit ihres Ausdrucks bewundert werden.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anglo-Welsh_poets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
+    <foaf:givenName xml:lang="en">Gerard Manley</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Balliol_College,_Oxford"/>
+    <dbpedia-owl:abstract xml:lang="es">Gerard Manley Hopkins S.J. fue un sacerdote jesuita y poeta británico. Su obra literaria, de marcado carácter innovador y en la que se aprecian inspiraciones del prerrafaelismo y del Movimiento de Oxford de la época victoriana, introdujo nuevos recursos estilísticos e innovadoras estructuras métricas como el sprung rhythm, el Caudate sonnet (soneto caudado) o el Curtal sonnet (soneto truncado). A pesar de que, durante su vida, ésta fue escasamente publicada y accesible solamente a un público minoritario, influyó posteriormente en un número creciente de autores de literatura inglesa del siglo XX como Ivor Gurney, Wystan Hugh Auden, Arthur Waley y el Premio Nobel de Literatura, Thomas Stearns Eliot. Influyó asimismo también en extranjeros, como por ejemplo el francés Pierre Emmanuel. Su talento y sensibilidad artística le permitieron también abordar la pintura y la música, siendo compositor de varias canciones en base a poemas propios que también han sido empleados en obras de autores como Benjamin Britten, Michael Tippett o Samuel Barber. En su recuerdo, la comunidad The Irish Hopkins Society celebra anualmente cada mes de julio desde su constitución en 1987, el festival de arte The Gerard Manley Hopkins International Summer School, en la localidad irlandesa de Monasterivin.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleWithBipolarDisorder"/>
+    <dbpprop:almaMater xml:lang="en">Balliol College, Oxford</dbpprop:almaMater>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_University_College_Dublin"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sonneteers"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetsgraves.co.uk/Classic%20Poems/Hopkins/spring.htm"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0390l"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPoets"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1889-06-08</dbpedia-owl:deathDate>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/122/34.html"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/7/72/GerardManleyHopkins.jpg"/>
+    <dbpedia-owl:abstract xml:lang="cs">Gerard Manley Hopkins byl anglický jezuitský kněz, teolog, filolog a básník. Narodil se v Londýně ve středostavovské rodině. Studoval Balliolskou kolej v Oxfordu, roku 1866 konvertoval ke katolicismu a později se stal jezuitou a knězem. Působil jako učitel, později jako profesor klasické filologie na University College v Dublinu. Zemřel na tyfus v Dublinu. Za svého života žádné básně nepublikoval, jeho básnické dílo bylo vydáno posmrtně až roku 1918 jeho přítelem Robertem Bridgesem. Skutečně proslulým autorem se stal až po roce 1945. Dnes je Hopkins považován za jednoho z nejvýznamnějších viktoriánských básníků jak pro své prozodické experimenty, tak pro imaginativní sílu svých veršů.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ja">ジェラード・マンリ・ホプキンス（Gerard Manley Hopkins、1844年7月28日・イギリス - 1889年6月8日・アイルランド）はイギリス・ヴィクトリア朝時代の詩人、イエズス会所属の聖職者。</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/122/29.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Stratford,_London"/>
+    <dbpedia-owl:abstract xml:lang="nl">Gerard Manley Hopkins was een Engelse dichter, rooms-katholieke bekeerling en jezuïetenpater die pas in de 20e eeuw echte erkenning kreeg als Victoriaanse dichter voor zijn experimenteel en origineel werk. Zijn exploraties in metrum en ritme en "springritmes" betekenden een opvallende vernieuwing binnen de traditionele Victoriaanse poëzieopvatting.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdfs:comment xml:lang="pl">Gerard Manley Hopkins – angielski poeta, jezuita. Najstarszy z ośmiorga rodzeństwa pochodził z anglikańskiej rodziny bogatego wysokiego urzędnika. Studiował filologię klasyczną na Uniwersytecie Oksfordzkim. W 1866 pod wpływem Johna Henry'ego Newmana wcześniejszy działacz Ruchu Oksfordzkiego przeszedł na katolicyzm. W 1866 konwertyta wstąpił do zakonu Towarzystwa Jezusowego. Święcenia kapłańskie otrzymał w 1877 i podjął działalność duszpasterską w Anglii i Szkocji jako kaznodzieja.</rdfs:comment>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Gerard_Manley_Hopkins"/>
+    <rdfs:comment xml:lang="nl">Gerard Manley Hopkins was een Engelse dichter, rooms-katholieke bekeerling en jezuïetenpater die pas in de 20e eeuw echte erkenning kreeg als Victoriaanse dichter voor zijn experimenteel en origineel werk. Zijn exploraties in metrum en ritme en "springritmes" betekenden een opvallende vernieuwing binnen de traditionele Victoriaanse poëzieopvatting.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="sv">Gerard Manley Hopkins född 28 juli 1844 i Stratford utanför London, död 8 juni 1889 i Dublin, var en brittisk författare som brukar räknas till de viktorianska poeterna men kan egentligen inte inordnas helt i någon skola. Hopkins studerade i Oxford med början 1863 där han blev påverkad av Oxfordrörelsen och konverterade till katolicismen 1866. Två år senare blev han novis, och efter att ha studerat teologi i Wales prästvigdes han 1877. I samband med att han blev jesuit brände han sina ungdomsdikter och slutade skriva poesi. 1875, återupptog han sitt skrivande, efter ett på sin tid omtalat skeppsbrott. Han tjänstgjorde som präst bland annat i Liverpool bland irländska immigranter. Under en tid hade han även en professur i klassisk litteratur vid universitetet i Dublin. Hopkins anses vara en föregångare till experiment med rytmer inom poesin och är en av dem som använder obundna strofer, s.k. fri vers. Hopkins gav aldrig tillstånd till att hans experimentella sonetter och övriga diktning skulle ges ut, och först 30 år efter Gerards död publicerade Bridges hans poesi i samlingen Poems 1918. Bl.a. T.S. Eliot har skrivit dikter i Hopkins sprung rhythm. Hopkins använder mycket allitterationer och musikaliska element i sin diktning och brukar räknas till de absoluta pionjärerna inom modern poesi. Inledningsraderna i The Windhover är typiska för Hopkins språkbruk: I caught this morning morning's minion, king- dom of daylight's dauphin, dapple-dáwn-drawn Falcon, in his riding Gerard Manley Hopkins dog i tyfus 1889. Hans sista ord lär ha varit: - I am so happy, so happy.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_Jesuits"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CatholicPoets"/>
+    <rdfs:label xml:lang="cs">Gerard Manley Hopkins</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="pt">Gerard Manley Hopkins, um padre jesuíta, foi um dos maiores poetas da literatura inglesa. Sua primeira grande obra foi o poema "O naufrágio do Deutschland" (1875), ao qual seguiram-se poemas líricos como "O francelho", "A calhandra enjaulada"", "O Oxford de Duns Scotus", e "Henry Purcell". Em 1877 escreveu seus trágicos "Sonetos Obscuros", o primeiro dos quais é "Carrion Comfort" (c. 1885). Sua obra completa foi publicada em 1930. Os impulsos homoeróticos de Hopkins, dirigidos sobretudo a Digby Mackworth Dolben, um colega de Eton, parecem ter tido uma influência decisiva sobre o tom, qualidade e mesmo com o conteúdo da sua poesia. O autor de uma biografia de Hopkins, Robert Bernard Martin afirma que o encontro com Dolben, por ocasião do 17. º aniversãrio de Hopkins, foi provavelmente o momento mais marcante emocionalmente da vida de Hopkins, sobre o qual escreveu abundantemente nos seus diários e a quem dedicou inúmeros poemas, incluindo muitos de caracter elegíaco, considerados dos melhores de Hopkins, após a morte por afogamento de Dolben em 1867.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="zh">杰拉尔德·曼利·霍普金斯</rdfs:label>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</dbpprop:dateOfBirth>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/poetryseason/poets/gerard_manley_hopkins.shtml"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Gerard_Manley_Hopkins"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/South_Essex_(UK_Parliament_constituency)"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetsgraves.co.uk/Classic%20Poems/Hopkins/hurrahing_in_harvest.htm"/>
+    <dbpedia-owl:abstract xml:lang="hu">Gerard Manley Hopkins jezsuita pap, angol költő volt, akit a 20. században ismertek el igazán a viktoriánus Anglia egyik legtehetségesebb költőjeként. A versmértékkel való bátor kísérletezése (elsősorban a szökellő ritmus) és vibráló képhasználata miatt eredetinek és formabontónak számít a kor főleg hagyományos verselői között. 1864-ben áttért érdekes módon a katolikus hitre az anglikán vallású Egyesült Királyságban.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_Catholic_poets"/>
+    <dc:description xml:lang="en">Poet</dc:description>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Highgate_School"/>
+    <rdfs:comment xml:lang="es">Gerard Manley Hopkins S.J. fue un sacerdote jesuita y poeta británico. Su obra literaria, de marcado carácter innovador y en la que se aprecian inspiraciones del prerrafaelismo y del Movimiento de Oxford de la época victoriana, introdujo nuevos recursos estilísticos e innovadoras estructuras métricas como el sprung rhythm, el Caudate sonnet (soneto caudado) o el Curtal sonnet (soneto truncado).</rdfs:comment>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Highgate_School"/>
+    <rdfs:comment xml:lang="en">Gerard Manley Hopkins, S.J. (28 July 1844 – 8 June 1889) was an English poet, Roman Catholic convert, and Jesuit priest, whose posthumous fame established him among the leading Victorian poets. His experimental explorations in prosody and his use of imagery established him as a daring innovator in a period of largely traditional verse.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Catholic_poets"/>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Oxford"/>
+    <foaf:surname xml:lang="en">Hopkins</foaf:surname>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfBalliolCollege,Oxford"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetsgraves.co.uk/Classic%20Poems/Hopkins/moonrise.htm"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Anglo-WelshPoets"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ConvertsToRomanCatholicismFromAnglicanism"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Converts_to_Roman_Catholicism_from_Anglicanism"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">400</dbpprop:width>
+    <rdfs:label xml:lang="de">Gerard Manley Hopkins</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromStratford"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118553526</dbpedia-owl:individualisedPnd>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishRomanCatholicPriests"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/GerardManleyHopkins.jpg/200px-GerardManleyHopkins.jpg"/>
+    <dbpprop:birthPlace xml:lang="en">near London</dbpprop:birthPlace>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/VictorianPoets"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Хопкинс,_Джерард_Мэнли"/>
+    <dbpprop:occupation xml:lang="en">Poet, Jesuit priest, Professor of Classics</dbpprop:occupation>
+    <dbpedia-owl:restingPlace rdf:resource="http://dbpedia.org/resource/Glasnevin_Cemetery"/>
+    <dbpprop:align xml:lang="en">right</dbpprop:align>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poets.org/poet.php/prmPID/284"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.beunos.com/hopkins.htm"/>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rv98plZwpEbGdrcN5Y29ycA"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Stratford,_London"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:quote xml:lang="en">I CAUGHT this morning morning’s minion, king-
+  dom of daylight’s dauphin, dapple-dawn-drawn Falcon, in his riding
+  Of the rolling level underneath him steady air, and striding
+High there, how he rung upon the rein of a wimpling wing
+In his ecstasy! then off, off forth on swing,
+  As a skate’s heel sweeps smooth on a bow-bend: the hurl and gliding
+  Rebuffed the big wind. My heart in hiding
+Stirred for a bird,—the achieve of, the mastery of the thing!</dbpprop:quote>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RomanCatholicWriters"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <rdfs:comment xml:lang="fr">Gerard Manley Hopkins, né le 28 juillet 1844 à Stratford, Essex et décédé le 8 juin 1889 à Dublin, était un prêtre jésuite et poète anglais de grand renom. Fils d'un agent d'assurance, il étudie les humanités au Balliol College de l'Université d'Oxford, où il est proche du Mouvement d'Oxford de "l'Eglise haute" anglicane. Comme d'autres avant lui, cette réflexion théologique l'amène à demander à être reçu dans l'Église catholique.</rdfs:comment>
+    <dbpprop:quote xml:lang="en">"Pied Beauty"
+
+Glory be to God for dappled things—
+  For skies of couple-colour as a brinded cow;
+    For rose-moles all in stipple upon trout that swim;
+Fresh-firecoal chestnut-falls; finches' wings;
+  Landscape plotted and pieced—fold, fallow, and plough;
+    And áll trádes, their gear and tackle and trim.
+
+All things counter, original, spare, strange;
+  Whatever is fickle, freckled 
+    With swift, slow; sweet, sour; adazzle, dim;
+He fathers-forth whose beauty is past change:
+                Praise him.</dbpprop:quote>
+    <dbpedia-owl:abstract xml:lang="de">Gerard Manley Hopkins war ein britischer Lyriker und Jesuit, dessen Gedichte vor allem wegen der Lebendigkeit ihres Ausdrucks bewundert werden.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://works.bepress.com/cheryl_stiles/12/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/122/40.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/122/7.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_writers"/>
+    <foaf:name xml:lang="en">Gerard Manley Hopkins</foaf:name>
+    <rdfs:comment xml:lang="pt">Gerard Manley Hopkins, um padre jesuíta, foi um dos maiores poetas da literatura inglesa. Sua primeira grande obra foi o poema "O naufrágio do Deutschland" (1875), ao qual seguiram-se poemas líricos como "O francelho", "A calhandra enjaulada"", "O Oxford de Duns Scotus", e "Henry Purcell". Em 1877 escreveu seus trágicos "Sonetos Obscuros", o primeiro dos quais é "Carrion Comfort" (c. 1885). Sua obra completa foi publicada em 1930.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_Roman_Catholics"/>
+    <dbpedia-owl:abstract xml:lang="zh">杰拉尔德·曼利·霍普金斯（Gerard Manley Hopkins，1844年7月28日—1889年6月8日）是一名英国诗人、罗马天主教徒及耶稣会牧师，其故后在二十世纪的声誉，使他成为最负盛名的维多利亚诗人。他探索性地在诗歌的韵律中使用跳韵（sprung rhythm），以及意向的应用使他成为当时传统诗歌中的创新者。</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Infectious_disease_deaths_in_Ireland"/>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Balliol_College,_Oxford"/>
+    <dbpprop:source rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-30</dbpprop:source>
+    <rdfs:comment xml:lang="sv">Gerard Manley Hopkins född 28 juli 1844 i Stratford utanför London, död 8 juni 1889 i Dublin, var en brittisk författare som brukar räknas till de viktorianska poeterna men kan egentligen inte inordnas helt i någon skola. Hopkins studerade i Oxford med början 1863 där han blev påverkad av Oxfordrörelsen och konverterade till katolicismen 1866. Två år senare blev han novis, och efter att ha studerat teologi i Wales prästvigdes han 1877.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Victorian_poets"/>
+    <dbpprop:name xml:lang="en">Gerard Manley Hopkins</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1889_deaths"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/122/31.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/122/33.html"/>
+    <dbpedia-owl:abstract xml:lang="en">Gerard Manley Hopkins, S.J. (28 July 1844 – 8 June 1889) was an English poet, Roman Catholic convert, and Jesuit priest, whose posthumous fame established him among the leading Victorian poets. His experimental explorations in prosody and his use of imagery established him as a daring innovator in a period of largely traditional verse.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_typhoid_fever"/>
+    <dbpedia-owl:abstract xml:lang="ru">Джерард Мэнли Хопкинс – английский поэт и католический священник</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <dbpprop:placeOfDeath xml:lang="en">Dublin</dbpprop:placeOfDeath>
+    <rdfs:comment xml:lang="zh">杰拉尔德·曼利·霍普金斯（Gerard Manley Hopkins，1844年7月28日—1889年6月8日）是一名英国诗人、罗马天主教徒及耶稣会牧师，其故后在二十世纪的声誉，使他成为最负盛名的维多利亚诗人。他探索性地在诗歌的韵律中使用跳韵（sprung rhythm），以及意向的应用使他成为当时传统诗歌中的创新者。</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetsgraves.co.uk/Classic%20Poems/Hopkins/in_the_valley_of_the_elwy.htm"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/122/4.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetsgraves.co.uk/Classic%20Poems/Hopkins/the_caged_skylark.htm"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/browse/authors/h#a25314"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Stratford,_London"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.crossref-it.info/textguide/The-poetry-of-Gerard-Manley-Hopkins/6/0"/>
+    <dbpprop:placeOfBirth xml:lang="en">Stratford, East of London</dbpprop:placeOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Glasnevin_Cemetery"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/122/48.html"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Gerard_Manley_Hopkins?oldid=492675656"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <rdfs:label xml:lang="en">Gerard Manley Hopkins</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/London"/>
+    <rdfs:comment xml:lang="cs">Gerard Manley Hopkins byl anglický jezuitský kněz, teolog, filolog a básník. Narodil se v Londýně ve středostavovské rodině. Studoval Balliolskou kolej v Oxfordu, roku 1866 konvertoval ke katolicismu a později se stal jezuitou a knězem. Působil jako učitel, později jako profesor klasické filologie na University College v Dublinu. Zemřel na tyfus v Dublinu. Za svého života žádné básně nepublikoval, jeho básnické dílo bylo vydáno posmrtně až roku 1918 jeho přítelem Robertem Bridgesem.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetsgraves.co.uk/Classic%20Poems/Hopkins/the_may_magnificat.htm"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/122/11.html"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1844-07-28</dbpprop:birthDate>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1844-07-28</dbpedia-owl:birthDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Sonneteers"/>
+    <dbpedia-owl:restingPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <rdfs:comment xml:lang="ja">ジェラード・マンリ・ホプキンス（Gerard Manley Hopkins、1844年7月28日・イギリス - 1889年6月8日・アイルランド）はイギリス・ヴィクトリア朝時代の詩人、イエズス会所属の聖職者。</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="pl">Gerard Manley Hopkins – angielski poeta, jezuita. Najstarszy z ośmiorga rodzeństwa pochodził z anglikańskiej rodziny bogatego wysokiego urzędnika. Studiował filologię klasyczną na Uniwersytecie Oksfordzkim. W 1866 pod wpływem Johna Henry'ego Newmana wcześniejszy działacz Ruchu Oksfordzkiego przeszedł na katolicyzm. W 1866 konwertyta wstąpił do zakonu Towarzystwa Jezusowego. Święcenia kapłańskie otrzymał w 1877 i podjął działalność duszpasterską w Anglii i Szkocji jako kaznodzieja. W tym czasie spod jego pióra wyszła seria tzw. sonetów natury. W latach 1882–1884 wykładał łacinę i grekę w Blackburn, a później filologię klasyczną w Dublinie. Podupadające zdrowie i wewnętrzne rozterki znajdują odbicie w tzw. ciemnych sonetach. Zmarł w obecności rodziców na gorączkę tyfoidalną, a jego ostatnimi słowami miały być: 20pxJestem taki szczęśliwy.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dbpedia-owl:abstract xml:lang="fr">Gerard Manley Hopkins, né le 28 juillet 1844 à Stratford, Essex et décédé le 8 juin 1889 à Dublin, était un prêtre jésuite et poète anglais de grand renom. Fils d'un agent d'assurance, il étudie les humanités au Balliol College de l'Université d'Oxford, où il est proche du Mouvement d'Oxford de "l'Eglise haute" anglicane. Comme d'autres avant lui, cette réflexion théologique l'amène à demander à être reçu dans l'Église catholique. Deux ans plus tard, le 7 septembre 1868, il entre dans la Compagnie de Jésus. Hopkins est ordonné prêtre en 1877.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="ru">Джерард Мэнли Хопкинс – английский поэт и католический священник</rdfs:comment>
+    <dbpprop:bgcolor xml:lang="en">#FFFFF0</dbpprop:bgcolor>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <dbpprop:quoted xml:lang="en">true</dbpprop:quoted>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hopkins_(poet)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/G.M_Hopkins">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GM_Hopkins">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerard_Hopkins">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerard_Manley">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hopkins,_Gerard_Manley">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manley">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Manley_Hopkins">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_Burgess">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/God's_Grandeur">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/God%E2%80%99s_Grandeur">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerard_Manly_Hopkins">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Gerard_Manley_Hopkins">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gerard_Manley_Hopkins"/>
+  </rdf:Description>
+</rdf:RDF>

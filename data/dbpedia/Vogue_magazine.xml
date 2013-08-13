@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns4="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Vogue_magazine">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Vogue_magazine"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vogue_magazine">
+    <ns4:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Vogue_magazine?oldid=348933773"/>
+    <rdfs:label xml:lang="en">Vogue magazine</rdfs:label>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Vogue_(magazine)"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Vogue_magazine"/>
+  </rdf:Description>
+</rdf:RDF>

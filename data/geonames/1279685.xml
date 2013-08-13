@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/1279685/about.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/1279685/"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-16</dcterms:modified>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/1279685/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/1279685/">
+    <gn:alternateName>Xizang</gn:alternateName>
+    <gn:alternateName>Tibet</gn:alternateName>
+    <gn:alternateName xml:lang="zh">西藏自治区</gn:alternateName>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/1279685/contains.rdf"/>
+    <gn:alternateName xml:lang="no">Den autonome regionen Tibet</gn:alternateName>
+    <wgs84_pos:lat>32</wgs84_pos:lat>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/1279685/about.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/1279685/tibet-autonomous-region.html"/>
+    <gn:alternateName>Bod</gn:alternateName>
+    <gn:alternateName xml:lang="zh">西藏</gn:alternateName>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <gn:alternateName>Tübüt</gn:alternateName>
+    <gn:alternateName>Hsi-tsang Tzu-chih-ch’ü</gn:alternateName>
+    <gn:alternateName xml:lang="sv">Tibet</gn:alternateName>
+    <gn:name>Tibet Autonomous Region</gn:name>
+    <gn:wikipediaArticle rdf:resource="http://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%B1%D0%B5%D1%82"/>
+    <gn:alternateName>Tibetan Autonomous Region</gn:alternateName>
+    <gn:alternateName>Sitsang</gn:alternateName>
+    <gn:shortName xml:lang="no">Tibet</gn:shortName>
+    <gn:alternateName>Tibet-Chamdo</gn:alternateName>
+    <gn:population>2870000</gn:population>
+    <gn:alternateName xml:lang="en">Tibet Autonomous Region</gn:alternateName>
+    <gn:shortName xml:lang="nn">Tibet</gn:shortName>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/1814991/"/>
+    <wgs84_pos:long>90</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/1814991/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Tibet_Autonomous_Region"/>
+    <gn:alternateName xml:lang="nb">Den autonome region Tibet</gn:alternateName>
+    <gn:countryCode>CN</gn:countryCode>
+    <gn:alternateName>Xizang Zizhiqu</gn:alternateName>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:alternateName xml:lang="nn">Den autonome regionen Tibet</gn:alternateName>
+    <gn:alternateName>Thibet</gn:alternateName>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Tibet_Autonomous_Region"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2657059/about.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2657059/"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2657059/"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-17</dcterms:modified>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2657059/">
+    <gn:alternateName>County Armàgh</gn:alternateName>
+    <gn:name>County Armàgh</gn:name>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/2641364/"/>
+    <wgs84_pos:long>-6.5</wgs84_pos:long>
+    <gn:countryCode>GB</gn:countryCode>
+    <gn:alternateName>Armàgh</gn:alternateName>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:alternateName>County of Armagh</gn:alternateName>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2635167/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2641364/"/>
+    <wgs84_pos:lat>54.25</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2657059/nearby.rdf"/>
+    <gn:alternateName>Ard Mhacha</gn:alternateName>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2657059/county-armagh.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.RGN"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2657059/about.rdf"/>
+  </rdf:Description>
+</rdf:RDF>

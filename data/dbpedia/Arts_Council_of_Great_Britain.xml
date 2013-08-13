@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Arts_Council">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Great_Britain"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arts_Council_of_Great_Britain">
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Arts_Council_of_Great_Britain"/>
+    <dbpprop:cleanup xml:lang="en">May 2009</dbpprop:cleanup>
+    <rdfs:comment xml:lang="en">The Arts Council of Great Britain was a non-departmental public body dedicated to the promotion of the fine arts in Great Britain. The Arts Council of Great Britain was divided in 1994 to form the Arts Council of England, the Scottish Arts Council, and the Arts Council of Wales. At the same time the National Lottery was established and these three arts councils, plus the Arts Council of Northern Ireland, became distribution bodies.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/OrganisationsBasedInEngland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ArtsCouncilsOfTheUnitedKingdom"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Performing_arts_in_the_United_Kingdom"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1946_establishments_in_the_United_Kingdom"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Multiple_issues"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Arts_Council_of_Great_Britain"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1994_disestablishments"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Arts_councils_of_the_United_Kingdom"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Organisations_based_in_England"/>
+    <dbpprop:noFootnotes xml:lang="en">May 2009</dbpprop:noFootnotes>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.027bfx"/>
+    <rdfs:label xml:lang="en">Arts Council of Great Britain</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="en">The Arts Council of Great Britain was a non-departmental public body dedicated to the promotion of the fine arts in Great Britain. The Arts Council of Great Britain was divided in 1994 to form the Arts Council of England, the Scottish Arts Council, and the Arts Council of Wales. At the same time the National Lottery was established and these three arts councils, plus the Arts Council of Northern Ireland, became distribution bodies.</dbpedia-owl:abstract>
+    <dbpprop:refimprove xml:lang="en">March 2009</dbpprop:refimprove>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Arts_Council_of_Great_Britain?oldid=492942567"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Arts_Council_of_Great_Britain">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Great_Britain"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Festival_Hall">
+    <dbpprop:owner rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Great_Britain"/>
+    <dbpedia-owl:owner rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Great_Britain"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Arts_Council_of_Great_Britain">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Great_Britain"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Pooley">
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Great_Britain"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Arts_Council_of_Great_Britain">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Great_Britain"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arts_council_of_great_britain">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Great_Britain"/>
+  </rdf:Description>
+</rdf:RDF>

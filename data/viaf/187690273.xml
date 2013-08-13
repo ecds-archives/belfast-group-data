@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/187690273">
+    <foaf:name>B., A. S. 1936-</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Byatt, Antonia Susan 1936-</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Byatt, Antonia Susan Drabble 1936-</foaf:name>
+    <rdaGr2:dateOfBirth>1936</rdaGr2:dateOfBirth>
+    <foaf:name>Byatt, Antonia S. 1936-</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/171998154"/>
+    <foaf:name>Byatt, A. S. 1936-</foaf:name>
+    <foaf:name>Byatt, Antonia 1936-</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C171998154#skos:Concept">
+    <skos:altLabel>Byatt, Antonia Susan 1936-</skos:altLabel>
+    <skos:altLabel>Byatt, Antonia 1936-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/187690273"/>
+    <skos:altLabel>Byatt, A. S. 1936-</skos:altLabel>
+    <skos:prefLabel>Byatt, Antonia S. 1936-</skos:prefLabel>
+    <skos:altLabel>B., A. S. 1936-</skos:altLabel>
+    <skos:altLabel>Byatt, Antonia Susan Drabble 1936-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/187690273/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/187690273"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/187690273/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/187690273"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118946382#skos:Concept">
+    <skos:prefLabel>Byatt, Antonia S. 1936-</skos:prefLabel>
+    <skos:altLabel>Byatt, Antonia 1936-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Byatt, Antonia Susan 1936-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>B., A. S. 1936-</skos:altLabel>
+    <skos:altLabel>Byatt, Antonia Susan Drabble 1936-</skos:altLabel>
+    <skos:altLabel>Byatt, A. S. 1936-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/187690273"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/187690273/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/187690273"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+</rdf:RDF>

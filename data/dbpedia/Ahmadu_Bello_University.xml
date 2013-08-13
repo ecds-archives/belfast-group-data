@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+   xmlns:grs="http://www.georss.org/georss/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emmanuel_Dangana_Ocheja">
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Northern_Nigeria">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmadu_Bello_University">
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.abu.edu.ng"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution"/>
+    <foaf:name xml:lang="en">Ahmadu Bello University</foaf:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">11.0667</geo:lat>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ahmadu_Bello_University?oldid=495286679"/>
+    <dbpedia-owl:abstract xml:lang="en">Ahmadu Bello University (ABU) is the largest university in Nigeria and second largest in Africa, second only to Cairo University, Egypt. It is situated in Zaria. It was founded on October 4, 1962 as the University of Northern Nigeria. Ahmadu Bello University operates two main campuses, Samaru and Kongo campus. The Samaru campus houses the administrative offices, sciences, social-sciences, arts and languages, education and research facilities. The Kongo campus hosts the Faculties of Law and Administration. The Faculty of Administration consists of Accounting, Business Administration, Local Government and Development Studies and Public Administration Departments. Additionally, the university is responsible for a variety of other institutions and programs at a number of other locations. The university is named after the Sardauna of Sokoto, Alhaji Sir Ahmadu Bello, the first premier of Northern Nigeria. The University runs a wide variety of undergraduate and graduate programs (but also offers Associate Degrees and other vocational and remedial programs). The university has a large medical program with its own teaching Hospital, the A.B.U. Teaching Hospital, which is one of the largest hospitals in Nigeria.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpedia-owl:abstract xml:lang="de">Die Ahmadu Bello University (ABU) ist die zweitgrößte Universität in Nigeria. Sie liegt in Zaria und wurde 1962 als University of Northern Nigeria gegründet. Gegenwärtig sind etwa 35.000 Studenten eingeschrieben. Benannt wurde die Universität nach dem Sardauna (Kalif) von Sokoto, Sir Ahmadu Bello, dem ersten Premierminister Nordnigerias. Die ABU unterhält eine Universitätsklinik, die gleichzeitig eine der größten Kliniken Nigerias ist. Sie wurde vornehmlich für sozial Unterprivilegierte eingerichtet, welche die verhältnismäßig hohen Gesundheitskosten nicht bezahlen können. Der gegenwärtige Untergeneralsekretär der Vereinten Nationen für politische Angelegenheiten, Ibrahim Gambari, war früher Vorsitzender des Fachbereichs Politische Wissenschaften an der Ahmadu Bello University.</dbpedia-owl:abstract>
+    <dbpedia-owl:state rdf:resource="http://dbpedia.org/resource/Kaduna_State"/>
+    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:comment xml:lang="de">Die Ahmadu Bello University (ABU) ist die zweitgrößte Universität in Nigeria. Sie liegt in Zaria und wurde 1962 als University of Northern Nigeria gegründet. Gegenwärtig sind etwa 35.000 Studenten eingeschrieben. Benannt wurde die Universität nach dem Sardauna (Kalif) von Sokoto, Sir Ahmadu Bello, dem ersten Premierminister Nordnigerias. Die ABU unterhält eine Universitätsklinik, die gleichzeitig eine der größten Kliniken Nigerias ist.</rdfs:comment>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.7</geo:long>
+    <rdfs:label xml:lang="de">Ahmadu Bello University</rdfs:label>
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Zaria"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/EducationalOrganization"/>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1962"/>
+    <dbpprop:website rdf:resource="http://www.abu.edu.ng/"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/1/1e/Ahmadu_bello_university_senate.jpg"/>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(7.7 11.0667)</geo:geometry>
+    <dbpedia-owl:foundingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1962-10-04</dbpedia-owl:foundingDate>
+    <dbpedia-owl:abstract xml:lang="ja">アフマド・ベロ大学（Ahmadu Bello University, ABU）は、ザリアに位置する、ナイジェリア最大、アフリカではカイロ大学に次いで2番目の規模を持つ大学。 1962年10月4日、北部ナイジェリア大学として北部州政府により設立 1975年、連邦に移管 サマルキャンパスには事務局、理学部、社会学部、芸術学部、言語学部などの教育研究施設があり、コンゴキャンパスには法学部と経営学部、政治学部の施設がある。専門課程も含め4年制から6年制に移行中である。名称はソコトのサルドゥナ（世継王子）で初代北部州首相のアフマド・ベロに因んで改名された。 国際連合事務次長イブラヒム・アッボーラ・ガンバリは元政治学部長である。 ABU研修病院は国内で有数な病院の一つで低所得層、医療保険未加入者でも治療費以外の診察料はかからない。</dbpedia-owl:abstract>
+    <dbpedia-owl:type rdf:resource="http://dbpedia.org/resource/Public_university"/>
+    <rdfs:label xml:lang="en">Ahmadu Bello University</rdfs:label>
+    <dbpprop:established rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1962-10-04</dbpprop:established>
+    <foaf:homepage rdf:resource="http://www.abu.edu.ng/"/>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Zaria"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EduCAtionalInstitutionsEstablishedIn1962"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アフマド・ベロ大学"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UniversitiesAndCollegesInNigeria"/>
+    <dbpprop:name xml:lang="en">Ahmadu Bello University</dbpprop:name>
+    <rdfs:comment xml:lang="fr">L'Université Ahmadu Bello ou Ahmadu Bello University (ABU) est la plus grande université au Nigéria et la deuxième plus grande en Afrique après celle du Caire en Égypte. Elle est située à Zaria et a été fondée le 4 octobre 1962 comme l'Université du Northen Nigeria. L'Université Ahmadu Bello est principalement sur deux campus : Samaru et Kongo.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+    <dbpprop:country rdf:resource="http://dbpedia.org/resource/Nigeria"/>
+    <grs:point xml:lang="en">11.066666666666666 7.7</grs:point>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ahmadu_bello_university_senate.jpg/200px-Ahmadu_bello_university_senate.jpg"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ahmadu_Bello_University"/>
+    <rdfs:comment xml:lang="ja">アフマド・ベロ大学（Ahmadu Bello University, ABU）は、ザリアに位置する、ナイジェリア最大、アフリカではカイロ大学に次いで2番目の規模を持つ大学。 1962年10月4日、北部ナイジェリア大学として北部州政府により設立 1975年、連邦に移管 サマルキャンパスには事務局、理学部、社会学部、芸術学部、言語学部などの教育研究施設があり、コンゴキャンパスには法学部と経営学部、政治学部の施設がある。専門課程も含め4年制から6年制に移行中である。名称はソコトのサルドゥナ（世継王子）で初代北部州首相のアフマド・ベロに因んで改名された。 国際連合事務次長イブラヒム・アッボーラ・ガンバリは元政治学部長である。 ABU研修病院は国内で有数な病院の一つで低所得層、医療保険未加入者でも治療費以外の診察料はかからない。</rdfs:comment>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_university"/>
+    <dbpedia-owl:campus rdf:resource="http://dbpedia.org/resource/Urban_area"/>
+    <rdfs:comment xml:lang="en">Ahmadu Bello University (ABU) is the largest university in Nigeria and second largest in Africa, second only to Cairo University, Egypt. It is situated in Zaria. It was founded on October 4, 1962 as the University of Northern Nigeria. Ahmadu Bello University operates two main campuses, Samaru and Kongo campus. The Samaru campus houses the administrative offices, sciences, social-sciences, arts and languages, education and research facilities.</rdfs:comment>
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization"/>
+    <dbpprop:campus rdf:resource="http://dbpedia.org/resource/Urban_area"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/University"/>
+    <dbpprop:state rdf:resource="http://dbpedia.org/resource/Kaduna_State"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Université_Ahmadu_Bello"/>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Nigeria"/>
+    <dbpedia-owl:abstract xml:lang="fr">L'Université Ahmadu Bello ou Ahmadu Bello University (ABU) est la plus grande université au Nigéria et la deuxième plus grande en Afrique après celle du Caire en Égypte. Elle est située à Zaria et a été fondée le 4 octobre 1962 comme l'Université du Northen Nigeria. L'Université Ahmadu Bello est principalement sur deux campus : Samaru et Kongo. Dans le campus de Samaru, se trouve les bureaux administratifs, les sciences, les sciences sociales, l'art, les langues et les bâtiments de recherche. dans le campus de Kongo, il y a la faculté de droit et d'administration. La faculté d'administration comporte les departements de comptabilité, de gestion, d'administration d'entreprise et d'administration publique. Le nom de l'université vient de Ahmadu Bello, premier dirigeant du Northern Nigeria.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.090fsl"/>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ahmadu_Bello_University"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Ahmadu_Bello_University"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.widernet.org/nigeriaconsult/abu.htm"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ahmadu_Bello_University"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
+    <dbpprop:type rdf:resource="http://dbpedia.org/resource/Public_university"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.abu.edu.ng/"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/University108286163"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ahmadu_Bello_University">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kelsey_Harrison">
+    <dbpprop:workInstitutions rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yayale_Ahmed">
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Umaru_Musa_Yar'Adua">
+    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shamsuddeen_Usman">
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Ahmadu_Bello_University">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turai_Yar'Adua">
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ABU">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ussif_Rashid_Sumaila">
+    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nuhu_Ribadu">
+    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rebecca_Ndjoze-Ojo">
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Namadi_Sambo">
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmadou_Bello_University">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosaline_Bozimo">
+    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Ahmadu_Bello_University"/>
+  </rdf:Description>
+</rdf:RDF>

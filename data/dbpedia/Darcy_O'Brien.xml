@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Darcy_O%27Brien">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Darcy_O'Brien"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Darcy_O'Brien">
+    <foaf:name xml:lang="en">Darcy Obrien</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_academics_of_English_literature"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">121417980</dbpedia-owl:individualisedPnd>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1998-03-02</dbpprop:dateOfDeath>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1939_births"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1998_deaths"/>
+    <rdfs:comment xml:lang="de">Darcy O’Brien war ein mehrfach ausgezeichneter Schriftsteller von fiktiver Literatur und Literaturkritik. Am besten war er für seine Werke über wahre Verbrechen bekannt. Seine erste Kurzgeschichte A Way of Life, Like Any Other, war eine fiktive Geschichte über seine Kindheit in Hollywood.</rdfs:comment>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1939-07-16</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Darcy_O'Brien"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanNon-fictionCrimeWriters"/>
+    <rdfs:label xml:lang="de">Darcy O’Brien</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_novelists"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1998-03-02</dbpedia-owl:deathDate>
+    <dbpprop:name xml:lang="en">Obrien, Darcy</dbpprop:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://query.nytimes.com/gst/fullpage.html?res=9F0DE1DB1231F937A35750C0A96E958260&amp;n=Top/Reference/Times%20Topics/People/L/Lyman,%20Rick/"/>
+    <foaf:surname xml:lang="en">Obrien</foaf:surname>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Darcy_O’Brien"/>
+    <rdfs:comment xml:lang="en">Darcy O'Brien (July 16, 1939, Los Angeles - March 2, 1998, Tulsa) was an award-winning author of fiction and literary criticism, most well-known for his work in the genre of true crime. His first novel, A Way of Life, Like Any Other, was a fictionalized account of his childhood in Hollywood.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanAcademicsOfEnglishLiterature"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanNovelists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_non-fiction_crime_writers"/>
+    <dbpedia-owl:abstract xml:lang="de">Darcy O’Brien war ein mehrfach ausgezeichneter Schriftsteller von fiktiver Literatur und Literaturkritik. Am besten war er für seine Werke über wahre Verbrechen bekannt. Seine erste Kurzgeschichte A Way of Life, Like Any Other, war eine fiktive Geschichte über seine Kindheit in Hollywood. 1985 schrieb er ein Buch über die Hillside Stranglers mit dem Titel Two of a Kind: The Hillside Stranglers, das unter dem Titel The Case of the Hillside Stranglers mit Richard Crenna in einer Hauptrolle für das Fernsehen verfilmt wurde,</dbpedia-owl:abstract>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Darcy_O'Brien"/>
+    <dbpedia-owl:abstract xml:lang="en">Darcy O'Brien (July 16, 1939, Los Angeles - March 2, 1998, Tulsa) was an award-winning author of fiction and literary criticism, most well-known for his work in the genre of true crime. His first novel, A Way of Life, Like Any Other, was a fictionalized account of his childhood in Hollywood. In 1985, he wrote a book about the Hillside Stranglers entitled Two of a Kind: The Hillside Stranglers which was adapted into a made-for-television film called The Case of the Hillside Stranglers starring Richard Crenna.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1939-07-16</dbpedia-owl:birthDate>
+    <foaf:givenName xml:lang="en">Darcy</foaf:givenName>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Darcy_O'Brien?oldid=404540718"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05p9cdp"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Darcy_O'Brien">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Darcy_O'Brien"/>
+  </rdf:Description>
+</rdf:RDF>

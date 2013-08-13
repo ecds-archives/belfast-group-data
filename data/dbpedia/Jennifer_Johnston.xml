@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Dawning">
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Jennifer_Johnston"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/How_Many_Miles_to_Babylon%3F_(novel)">
+    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Jennifer_Johnston"/>
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jennifer_Johnston"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jennifer_Johnstone">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jennifer_Johnston"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jennifer_Johnston">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyDuBlin"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_dramatists_and_playwrights"/>
+    <dbpedia-owl:abstract xml:lang="it">The Old Jest, un romanzo sulla guerra di Indipendenza Iralndese fu poi ridotto nel film The Dawning, con Anthony Hopkins, prodotto da Sarah Lawson e diretto da Robert Knights.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</dbpprop:dateOfBirth>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jennifer_Johnston"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1930-01-12</dbpedia-owl:birthDate>
+    <foaf:givenName xml:lang="en">Jennifer</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Women_dramatists_and_playwrights"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pgil-eirdata.org/html/pgil_datasets/authors/j/Johnston,J/life.htm"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Giles_Cooper_Award_winners"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Dublin"/>
+    <rdfs:comment xml:lang="en">Jennifer Johnston (born 12 January 1930 in Dublin) is an Irish novelist, winner of the Whitbread Book Award for The Old Jest in 1979, and was shortlisted for the Booker Prize in 1977. The Old Jest, a novel about the Irish War of Independence was later made into a film called The Dawning, starring Anthony Hopkins, produced by Sarah Lawson and directed by Robert Knights.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:abstract xml:lang="en">Jennifer Johnston (born 12 January 1930 in Dublin) is an Irish novelist, winner of the Whitbread Book Award for The Old Jest in 1979, and was shortlisted for the Booker Prize in 1977. The Old Jest, a novel about the Irish War of Independence was later made into a film called The Dawning, starring Anthony Hopkins, produced by Sarah Lawson and directed by Robert Knights.</dbpedia-owl:abstract>
+    <dbpprop:name xml:lang="en">Johnston, Jennifer</dbpprop:name>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Jennifer_Johnston?oldid=487438097"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_women_writers"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05pl1p"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Jennifer_Johnston"/>
+    <foaf:name xml:lang="en">Jennifer Johnston</foaf:name>
+    <dbpedia-owl:abstract xml:lang="de">Jennifer Johnston ist eine irische Schriftstellerin.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Jennifer_Johnston"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishDramatistsAndPlaywrights"/>
+    <rdfs:comment xml:lang="it">The Old Jest, un romanzo sulla guerra di Indipendenza Iralndese fu poi ridotto nel film The Dawning, con Anthony Hopkins, prodotto da Sarah Lawson e diretto da Robert Knights.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1930_births"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Jennifer_Johnston"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishWomenWriters"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">123846803</dbpedia-owl:individualisedPnd>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WomenDramatistsAndPlaywrights"/>
+    <foaf:surname xml:lang="en">Johnston</foaf:surname>
+    <rdfs:comment xml:lang="de">Jennifer Johnston ist eine irische Schriftstellerin.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_novelists"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishNovelists"/>
+    <rdfs:label xml:lang="de">Jennifer Johnston</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Old_Jest_(novel)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jennifer_Johnston"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_and_Truth">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jennifer_Johnston"/>
+    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Jennifer_Johnston"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Jennifer_Johnston">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Jennifer_Johnston"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Illusionist_(novel)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jennifer_Johnston"/>
+    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Jennifer_Johnston"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Jennifer_Johnston">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jennifer_Johnston"/>
+  </rdf:Description>
+</rdf:RDF>

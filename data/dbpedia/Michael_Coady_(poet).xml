@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Michael_Coady_(poet)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Michael_Coady_(poet)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Coady">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Michael_Coady_(poet)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Coady_(poet)">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Michael_Coady_(poet)?oldid=432769485"/>
+    <foaf:givenName xml:lang="en">Michael</foaf:givenName>
+    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Tipperary"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Carrick-on-Suir"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.09g6cwq"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Michael_Coady_(poet)"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.munsterlit.ie/Writer%20pages/Coady,%20Michael.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Michael_Coady_(poet)"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1939</dbpprop:dateOfBirth>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.irishwriters-online.com/michaelcoady.html"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpprop:name xml:lang="en">Coady, Michael</dbpprop:name>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Tipperary"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Carrick-on-Suir"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1939_births"/>
+    <rdfs:comment xml:lang="en">Michael Coady (born 1939) is an Irish poet and short story writer a local historian, a photographer, a genealogist, a journalist, and "a lapsed trombone player" (his own description), born in Carrick-on-Suir, County Tipperary, Ireland, where he continues to live.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="en">Michael Coady (born 1939) is an Irish poet and short story writer a local historian, a photographer, a genealogist, a journalist, and "a lapsed trombone player" (his own description), born in Carrick-on-Suir, County Tipperary, Ireland, where he continues to live.</dbpedia-owl:abstract>
+    <foaf:name xml:lang="en">Michael Coady</foaf:name>
+    <foaf:surname xml:lang="en">Coady</foaf:surname>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dc:description xml:lang="en">Poet</dc:description>
+  </rdf:Description>
+</rdf:RDF>

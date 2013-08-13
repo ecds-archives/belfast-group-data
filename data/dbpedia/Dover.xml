@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+   xmlns:grs="http://www.georss.org/georss/"
+   xmlns:ns7="http://dbpedia.org/property/start/"
+   xmlns:ns9="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover_Christ_Church_Academy">
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Booth_Jones">
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeofbirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_McWheeney">
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:restingPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Foxhound_(1806)">
+    <dbpedia-owl:builder rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhys_Lloyd">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_Ferries__Townsend_Thoresen__1">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Arthur_Wright">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Niger_(J73)">
+    <dbpprop:shipHomeport rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:homeport rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Astor_College_for_the_Arts">
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Israel_Pellew">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Dover">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Rhodes">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Barnacle">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingsdown,_Kent">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover_Priory_railway_station">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:locale rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/P&amp;O_Stena_Line">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shane_Taylor">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MS_Spirit_of_France">
+    <dbpprop:shipRoute rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover_(town,_England)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_Ferries">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_weather_in_Dover">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Dover">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MS_SeaFrance_Nord_Pas-de-Calais">
+    <dbpprop:shipRoute rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Tunbridge">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Wilson_(writer_and_spy)">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_William_Gould">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A20_road_(England)">
+    <dbpedia-owl:routeEnd rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Lapwing_(1785)">
+    <dbpedia-owl:builder rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marley,_Deal">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_G._Hobbs">
+    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Mulcaster">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alpha_Phi_Delta">
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Southern_Television">
+    <dbpprop:based rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_D._McGinnis">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Bernard_Traynor">
+    <dbpedia-owl:restingPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buckland,_Kent">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover,_Utah">
+    <dbpprop:namedFor rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen,_King_of_England">
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Chatham_(1788)">
+    <dbpedia-owl:builder rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Wase_Whitfield">
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Langdon">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Docks_Of_Dover">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Worth,_Kent">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Henry_Edwards_(politician)">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Hatley">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Mill">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ripple,_Kent">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elvington,_Kent">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Drake_(1779)">
+    <dbpedia-owl:builder rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MS_Spirit_of_Britain">
+    <dbpprop:shipRoute rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_John_House">
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:restingPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover_RFC">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover_College">
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Evanson">
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlton_by_Dover">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Cherub_(1806)">
+    <dbpprop:shipBuilder rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:builder rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_of_Chichester">
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover_Museum">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover_Grammar_School_for_Boys">
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A256_road">
+    <dbpprop:terminusB rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:routeEnd rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eastry">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover,_England">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Paul_Weston">
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wally_Hammond">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Thomas_(geographer)">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Elleray">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Newton_Parsons">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erik_Chitty">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shepherdswell">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A2_road_(Great_Britain)">
+    <dbpprop:terminusB rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:routeEnd rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SeaFrance">
+    <dbpedia-owl:regionServed rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:areaServed rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/KMFM_Shepway_and_White_Cliffs_Country">
+    <dbpedia-owl:broadcastArea rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:area rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011%E2%80%9312_Eastleigh_F.C._season">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Augustus_Clark">
+    <dbpprop:placeofbirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Docks_of_Dover">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UK_Border_Force_(TV_series)">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Berrian_Vail">
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emma_Ayres">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Stupples">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Pellew,_1st_Viscount_Exmouth">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover_Grammar_School_for_Girls">
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover_Immigration_Removal_Centre">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SpeedFerries">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Langdon">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Kingfisher_(1804)">
+    <dbpedia-owl:builder rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HSC_Condor_Rapide">
+    <dbpprop:shipRegistry rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Yorke,_1st_Earl_of_Hardwicke">
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashley_Miller">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joss_Stone">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Greenland">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Canadian_comics_creators">
+    <dbpprop:birthplace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover_District">
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Simpkins">
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeofbirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnston_Forbes-Robertson">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Terence_Lewin,_Baron_Lewin">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Whitfield,_Kent">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/River,_Kent">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marc_Gascoigne">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Brown_(darts_player)">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:hometown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allan_Ramsay_(artist)">
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tammy_Beaumont">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeofbirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MS_Pride_of_Dover">
+    <dbpprop:shipRoute rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Scorpion_(1803)">
+    <dbpedia-owl:builder rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Llewellyn_(golfer)">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MS_Pride_of_Burgundy">
+    <dbpprop:shipRoute rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Delaware_State_University_shooting">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eythorne">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Speedy_(1782)">
+    <dbpedia-owl:builder rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lydden">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Somerville,_1st_Baron_Athlumney">
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poole_England">
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Forsyte_Saga">
+    <dbpprop:publisher rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:publisher rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Paver">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeofbirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Bazely">
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kearsney,_Kent">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Downs_Way">
+    <ns7:endPoints rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/P&amp;O_Irish_Sea">
+    <dbpprop:locationCity rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:locationCity rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Lynden-Bell">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover,_Kent">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_James_(set_decorator)">
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strawberry_Crest_High_School">
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Penn_(cricketer)">
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeofbirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Page_(cricketer)">
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeofbirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eddie_Crush">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Forester_(1806)">
+    <dbpedia-owl:builder rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simon_Fisher_Turner">
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alkham">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Betts">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doug_Wright_(cartoonist)">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Comparison_of_survey_software">
+    <dbpprop:headquarters rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aylesham">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hoverspeed">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin,_Kent">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maxton,_Kent">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Bellamy">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Verrier_Elwin">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A258_road">
+    <dbpprop:terminusA rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:routeStart rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Redwood">
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Bolder">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Curtis_(footballer_born_1939)">
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:cityofbirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Port_of_Dover">
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Eclipse_(1807)">
+    <dbpedia-owl:builder rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seaspeed">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_F._Mummery">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coombe,_Kent">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MS_Pride_of_Calais">
+    <dbpprop:shipRoute rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Wooden">
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover">
+    <dbpedia-owl:gridReference xml:lang="en">TR315415</dbpedia-owl:gridReference>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/도버"/>
+    <rdfs:comment xml:lang="fi">Dover on 28 000 asukkaan satamakaupunki Englannin etelärannikolla, Kentissä. Se on 34 kilometrin päässä Calaisista eli lähempänä Ranskaa kuin mikään muu kohta Englannin rannikkoa. Kaupunkien välillä on vilkas lauttaliikenne. Dover on tunnettu myös valkoisista kallioistaan.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Дувр — город и порт в Великобритании, в английском графстве Кент, у пролива Па-де-Кале, связан железнодорожным паромом с Дюнкерком.</rdfs:comment>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-location-noun-1"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.doverwarmemorialproject.org.uk/"/>
+    <dbpedia-owl:abstract xml:lang="sv">Dover (Dubris på latin och Douvres på franska) är en hamnstad i grevskapet Kent i södra England i Storbritannien, belägen vid Doverkanalen, där Engelska kanalen är som smalast, 34 kilometer från Calais i Frankrike. År 2001 hade staden 28 156 invånare eller 39 078 om man räknar hela stadsområdet. På grund av närheten till övriga Europa är Dover en av Engelska kanalens mest trafikerade hamnar med 18 miljoner passagerare varje år. Dover är känt för sina vita klippor av kalk, Dovers vita klippor. Andra sevärdheter är Dover Castle med sitt nästan 2000 år gamla fyrtorn och Dover Roman Painted House.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="fr">Douvres est une ville côtière et portuaire du comté du Kent, dans le Sud-Est de l'Angleterre. Elle est située au bord de la Manche, à 35 km des côtes françaises et du cap Gris-Nez. C'est donc la ville du Royaume-Uni la plus proche de la France. Cette situation en fait le port de transit principal entre les deux rives de la Manche, notamment vers les ports de Calais et d'Ostende. Plus de 18 millions de passagers y transitent annuellement.</rdfs:comment>
+    <dbpprop:aprHighF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">52</dbpprop:aprHighF>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_UK_place"/>
+    <dbpedia-owl:region rdf:resource="http://dbpedia.org/resource/South_East_England"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CinquEPorts"/>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Kent"/>
+    <grs:point xml:lang="en">51.1295 1.3089</grs:point>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PortsAndHarboursOfTheEnglishChannel"/>
+    <dbpprop:octPrecipitationInch rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:octPrecipitationInch>
+    <dbpprop:date xml:lang="en">August 2010</dbpprop:date>
+    <dbpprop:singleLine xml:lang="en">Yes</dbpprop:singleLine>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Dover"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:comment xml:lang="pl">Dover – miasto w Wielkiej Brytanii w hrabstwie Kent, brytyjski port nad Kanałem La Manche. Punkt Anglii najbliższy Francji – jest oddalony od francuskiego portu Calais o 34 kilometry, dlatego Dover nazywane jest Bramą Anglii. Słynie z białych kredowych klifów, którym Anglia zawdzięcza swoją poetycką nazwę "Albion", co znaczy biały. Między Dover a Calais i Dunkierką działa regularna żegluga promowa. Trasa Dover-Calais to najczęściej używana morska droga do Wielkiej Brytanii.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.dovertown.co.uk/"/>
+    <dbpedia-owl:abstract xml:lang="pl">Dover – miasto w Wielkiej Brytanii w hrabstwie Kent, brytyjski port nad Kanałem La Manche. Punkt Anglii najbliższy Francji – jest oddalony od francuskiego portu Calais o 34 kilometry, dlatego Dover nazywane jest Bramą Anglii. Słynie z białych kredowych klifów, którym Anglia zawdzięcza swoją poetycką nazwę "Albion", co znaczy biały. Między Dover a Calais i Dunkierką działa regularna żegluga promowa. Trasa Dover-Calais to najczęściej używana morska droga do Wielkiej Brytanii. Dover to miasto w którym Kordian polemizuje na temat życia ludzkiego i zachwyca się pięknem ogrodu św. Jakuba. Miasto jest znane także dzięki fortyfikacjom i zabytkom architektury militarnej; ogromna forteca-zamek z XII w. – Dover Castle, usytuowana na szczycie klifu. Panem tego zamku był Henryk II (1133-1189) – pierwszy z rodu Plantagenetów król Anglii. W mieście znajduje się stacja kolejowa Dover Priory.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Dover,_Kent"/>
+    <rdfs:label xml:lang="cs">Dover (Anglie)</rdfs:label>
+    <dbpprop:populationRef xml:lang="en">Urban area 39,078</dbpprop:populationRef>
+    <dbpedia-owl:abstract xml:lang="it">Dover è un'importante città del Regno Unito, situata nell'estrema parte sud-orientale dell'isola, in corrispondenza dell'omonimo stretto e in prossimità delle famose Bianche Scogliere.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cinque_ports"/>
+    <dbpprop:febLowF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">34</dbpprop:febLowF>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.doversoul.org.uk"/>
+    <dbpprop:augHighF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">69</dbpprop:augHighF>
+    <dbpprop:novPrecipitationInch rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dbpprop:novPrecipitationInch>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TownsInKent"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Dover_(district)"/>
+    <rdfs:comment xml:lang="ca">Dover és el major port del canal de la Mànega a Anglaterra, al comtat de Kent. Segons el cens de l'any 2000, la ciutat de Dover tenia 28.156 habitants, encara si es tenia en compte tot l'espai urbà, la població era de 39.078 habitants.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.dover-online.com/images/dover-map"/>
+    <rdfs:label xml:lang="en">Dover</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.dover-western-heights.org"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Dover"/>
+    <dbpprop:londonDistance xml:lang="en">77.8mi</dbpprop:londonDistance>
+    <dbpedia-owl:abstract xml:lang="ca">Dover és el major port del canal de la Mànega a Anglaterra, al comtat de Kent. Segons el cens de l'any 2000, la ciutat de Dover tenia 28.156 habitants, encara si es tenia en compte tot l'espai urbà, la població era de 39.078 habitants.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement"/>
+    <dbpprop:junHighF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">65</dbpprop:junHighF>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdfs:comment xml:lang="cs">Dover je přístavní město v anglickém hrabství Kent. Je to město nejbližší Francii, od Calais je vzdáleno pouze 34 km. Přístav zajišťuje dopravu trajekty přes kanál La Manche. Tato trasa je také nejvíce používanou mořskou trasou do Velké Británie.</rdfs:comment>
+    <dbpprop:sepLowF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">52</dbpprop:sepLowF>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PopulatedCoastalPlacesInKent"/>
+    <dbpprop:sepHighF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">65</dbpprop:sepHighF>
+    <dbpprop:shireDistrict rdf:resource="http://dbpedia.org/resource/Dover_District"/>
+    <dbpedia-owl:postalCode xml:lang="en">CT16, CT17</dbpedia-owl:postalCode>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvcJMPJwpEbGdrcN5Y29ycA"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Dover_(Inglaterra)"/>
+    <rdfs:label xml:lang="uk">Дувр</rdfs:label>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Douvres"/>
+    <dbpedia-owl:abstract xml:lang="cs">Dover je přístavní město v anglickém hrabství Kent. Je to město nejbližší Francii, od Calais je vzdáleno pouze 34 km. Přístav zajišťuje dopravu trajekty přes kanál La Manche. Tato trasa je také nejvíce používanou mořskou trasou do Velké Británie.</dbpedia-owl:abstract>
+    <dbpprop:mayHighF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">59</dbpprop:mayHighF>
+    <dbpprop:junLowF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">51</dbpprop:junLowF>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/3/3b/Dover_from_air.jpg"/>
+    <dbpprop:mayPrecipitationInch rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:mayPrecipitationInch>
+    <dbpprop:postcodeArea xml:lang="en">CT</dbpprop:postcodeArea>
+    <dbpedia-owl:abstract xml:lang="es">Dover es el mayor puerto del Canal de la Mancha en Inglaterra, en el condado de Kent. Según el censo del año 2000, la ciudad de Dover tiene 28.156 habitantes, aunque si tenemos en cuenta todo el espacio urbano, la población es de 39.078. La ciudad es el centro administrativo del distrito de Dover. Dover tiene tres playas. Dover es famosa por sus acantilados blancos, compuestos de creta. Los británicos pusieron el sobrenombre de Albión a estos acantilados, que significa blanco. El nombre de la ciudad de un idioma de origen celta (Brythonic) Dubrās (Las aguas). Dover es el punto más cercano a la Europa continental, separado a tan sólo 34 km del puerto francés de Calais. Este hecho hace que Dover sea uno de los puertos más ocupados para cruzar el Canal de la Mancha, con más de 18 millones de pasajeros anuales. Los servicios de ferry operan entre Dover, Calais y Dunkerque.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="de">Dover</rdfs:label>
+    <dbpprop:janLowF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">34</dbpprop:janLowF>
+    <dbpprop:julPrecipitationInch rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:julPrecipitationInch>
+    <dbpprop:novHighF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">50</dbpprop:novHighF>
+    <dbpprop:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</dbpprop:longitude>
+    <rdfs:comment xml:lang="uk">Дувр — місто й порт у Великій Британії, в англійському графстві Кент, на березі протоки Па-де-Кале, зв’язаний залізничним поромом з Дюнкерком. Відповідно до перепису 2001 року в місті Дувр проживали 28 156 жителів. Населення з передмістями складало 39 078 жителів . Дувр існував ще до римського вторгнення до Британії. Пам’ятки: середньовічний замок, один з найбільших за площею у Великій Британії.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="uk">Дувр — місто й порт у Великій Британії, в англійському графстві Кент, на березі протоки Па-де-Кале, зв’язаний залізничним поромом з Дюнкерком. Відповідно до перепису 2001 року в місті Дувр проживали 28 156 жителів. Населення з передмістями складало 39 078 жителів . Дувр існував ще до римського вторгнення до Британії. Пам’ятки: середньовічний замок, один з найбільших за площею у Великій Британії.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">Дувр — город и порт в Великобритании, в английском графстве Кент, у пролива Па-де-Кале, связан железнодорожным паромом с Дюнкерком.</dbpedia-owl:abstract>
+    <dbpprop:augPrecipitationInch rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:augPrecipitationInch>
+    <dbpedia-owl:abstract xml:lang="en">Dover is a town and major ferry port in the home county of Kent, in South East England. It faces France across the narrowest part of the English Channel, and lies south-east of Canterbury; east of Kent's administrative capital Maidstone; and north-east along the coastline from Dungeness and Hastings. The town is the administrative centre of the Dover District and home of the Dover Calais ferry through the Port of Dover. The surrounding chalk cliffs have become known as the White Cliffs of Dover, and the narrow sea passage nearby – the Strait of Dover. Its strategic position has been evident throughout its history: archaeological finds have revealed that the area has always been a focus for peoples entering and leaving Britain. The name of the town derives from the name of the river that flows through River Dour. The town has been inhabited since the Stone Age according to archeological finds, and Dover is one of only a few places in Britain – London and Cornwall being other examples – to have a corresponding name in the French language, Douvres. Services related to the Port of Dover provide a great deal of the town’s employment, as does tourism, although many of the former ferry services have declined. There was a military barracks in Dover, which was closed in 2007.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Village"/>
+    <dbpprop:febHighF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">44</dbpprop:febHighF>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0b28g"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <dbpprop:staticImageCaption xml:lang="en">Aerial view of Dover Harbour</dbpprop:staticImageCaption>
+    <dbpedia-owl:distanceToLondon rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">125207</dbpedia-owl:distanceToLondon>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.doverlocals.co.uk"/>
+    <dbpprop:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#int">51</dbpprop:latitude>
+    <dbpprop:shireCounty rdf:resource="http://dbpedia.org/resource/Kent"/>
+    <dbpedia-owl:district rdf:resource="http://dbpedia.org/resource/Dover_District"/>
+    <dbpprop:aprPrecipitationInch rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:aprPrecipitationInch>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(1.3089 51.1295)</geo:geometry>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/England"/>
+    <dbpprop:location xml:lang="en">Dover</dbpprop:location>
+    <dbpprop:mayLowF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">45</dbpprop:mayLowF>
+    <dbpedia-owl:abstract xml:lang="ja">ドーバー（Dover）は英仏海峡に面した英国のケント州の主要な港湾都市である。2001年の統計ではドーバーの正確な住民の人口は28,156人であるが、ドーバー都市圏の人口は39,098人になると英国国民統計事務所は計算している。ドーバー市の行政はドーバー市庁が司っている。ドーヴァーとも表記される。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="zh">多佛尔，香港譯作多佛，是英国肯特郡的一个海港，人口约二十九万。多佛尔港最靠近法国的加来港,两地去只34公里，因此成为英国最繁忙的一个海港，每年旅客多达1800万人次。英法間的海峽也因此得名多佛尔海峡。</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="nl">Dover (Frans Douvres, Nederlands voorheen Daveren) is een belangrijke havenplaats in Engeland, in het graafschap Kent. De stad ligt aan het Nauw van Calais (of Straat van Dover), zoals het oostelijk deel van Het Kanaal wordt genoemd. De stad is van oudsher van maritiem belang geweest. Al voor de Romeinen (die de stad Dubris Portus noemden) was Dover een voor de hand liggende invalsplaats, omdat het op slechts 34 kilometer van de Franse kust ligt.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://linkedgeodata.org/triplify/node21421224"/>
+    <dbpedia-owl:abstract xml:lang="pt">Dover é uma cidade do Reino Unido. Está localizada no Sudeste da Inglaterra, no condado de Kent. É o maior porto britânico do Canal da Mancha. Em 2001, a população da zona urbana de Dover era de 39 878 habitantes.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <dbpprop:octLowF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">47</dbpprop:octLowF>
+    <dbpprop:julHighF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">70</dbpprop:julHighF>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.dover-castle-friends.org/membership/"/>
+    <dbpprop:febPrecipitationInch rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</dbpprop:febPrecipitationInch>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <dbpprop:dialCode xml:lang="en">+44 1304</dbpprop:dialCode>
+    <dbpprop:constituencyWestminster rdf:resource="http://dbpedia.org/resource/Dover_(UK_Parliament_constituency)"/>
+    <dbpprop:yearPrecipitationInch rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</dbpprop:yearPrecipitationInch>
+    <dbpprop:metricFirst xml:lang="en">Yes</dbpprop:metricFirst>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Populated_coastal_places_in_Kent"/>
+    <rdfs:comment xml:lang="hu">Dover város Angliában, Kent grófságban. A 2001-es népszámláláskor a városnak 28 156 lakosa volt. Dover híres a fehér krétaszikláiról; ezekről kapta Anglia az Albion (fehér) nevet.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="ko">도버(Dover)는 영국 잉글랜드 켄트 주의 항구 도시이다. 2001년 조사 시 인구는 28,156명이다. 주변 도시권을 합하면 39,078명이다. 해안의 흰 절벽으로 유명하며, 이곳의 지층에서 백악기의 이름이 유래했다. 영국의 그레이트 브리튼 섬에서 유럽 대륙과 가장 가까운 곳으로 프랑스 칼레와는 34 km 밖에 되지 않는다. 영국에서 가장 분주한 항구로 매년 1800만 명이 도버를 거쳐 이동하고 있다. 도버와 칼레, 됭케르크, 볼로뉴 사이를 잇는 페리 선이 주기적으로 운항하고 있다.</dbpedia-owl:abstract>
+    <foaf:name xml:lang="en">Dover</foaf:name>
+    <dbpedia-owl:abstract xml:lang="fi">Dover on 28 000 asukkaan satamakaupunki Englannin etelärannikolla, Kentissä. Se on 34 kilometrin päässä Calaisista eli lähempänä Ranskaa kuin mikään muu kohta Englannin rannikkoa. Kaupunkien välillä on vilkas lauttaliikenne. Dover on tunnettu myös valkoisista kallioistaan.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="it">Dover è un'importante città del Regno Unito, situata nell'estrema parte sud-orientale dell'isola, in corrispondenza dell'omonimo stretto e in prossimità delle famose Bianche Scogliere.</rdfs:comment>
+    <dbpprop:yearHighF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">56</dbpprop:yearHighF>
+    <dbpprop:decLowF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">36</dbpprop:decLowF>
+    <dbpprop:osGridReference xml:lang="en">TR315415</dbpprop:osGridReference>
+    <foaf:homepage rdf:resource="http://www.dovertown.co.uk/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://en.wikipedia.org/wiki/Strait_of_Dover"/>
+    <dbpprop:julLowF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">57</dbpprop:julLowF>
+    <rdfs:comment xml:lang="es">Dover es el mayor puerto del Canal de la Mancha en Inglaterra, en el condado de Kent. Según el censo del año 2000, la ciudad de Dover tiene 28.156 habitantes, aunque si tenemos en cuenta todo el espacio urbano, la población es de 39.078. La ciudad es el centro administrativo del distrito de Dover. Dover tiene tres playas. Dover es famosa por sus acantilados blancos, compuestos de creta. Los británicos pusieron el sobrenombre de Albión a estos acantilados, que significa blanco.</rdfs:comment>
+    <dbpprop:country xml:lang="en">England</dbpprop:country>
+    <rdfs:comment xml:lang="en">Dover is a town and major ferry port in the home county of Kent, in South East England. It faces France across the narrowest part of the English Channel, and lies south-east of Canterbury; east of Kent's administrative capital Maidstone; and north-east along the coastline from Dungeness and Hastings. The town is the administrative centre of the Dover District and home of the Dover Calais ferry through the Port of Dover.</rdfs:comment>
+    <rdfs:comment xml:lang="ko">도버(Dover)는 영국 잉글랜드 켄트 주의 항구 도시이다. 2001년 조사 시 인구는 28,156명이다. 주변 도시권을 합하면 39,078명이다. 해안의 흰 절벽으로 유명하며, 이곳의 지층에서 백악기의 이름이 유래했다. 영국의 그레이트 브리튼 섬에서 유럽 대륙과 가장 가까운 곳으로 프랑스 칼레와는 34 km 밖에 되지 않는다. 영국에서 가장 분주한 항구로 매년 1800만 명이 도버를 거쳐 이동하고 있다. 도버와 칼레, 됭케르크, 볼로뉴 사이를 잇는 페리 선이 주기적으로 운항하고 있다.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Towns_in_Kent"/>
+    <rdfs:comment xml:lang="sv">Dover (Dubris på latin och Douvres på franska) är en hamnstad i grevskapet Kent i södra England i Storbritannien, belägen vid Doverkanalen, där Engelska kanalen är som smalast, 34 kilometer från Calais i Frankrike. År 2001 hade staden 28 156 invånare eller 39 078 om man räknar hela stadsområdet. På grund av närheten till övriga Europa är Dover en av Engelska kanalens mest trafikerade hamnar med 18 miljoner passagerare varje år. Dover är känt för sina vita klippor av kalk, Dovers vita klippor.</rdfs:comment>
+    <dbpprop:yearLowF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">44</dbpprop:yearLowF>
+    <dbpprop:postTown xml:lang="en">DOVER</dbpprop:postTown>
+    <dbpprop:marPrecipitationInch rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:marPrecipitationInch>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Dover"/>
+    <dbpprop:region xml:lang="en">South East England</dbpprop:region>
+    <dbpedia-owl:abstract xml:lang="hu">Dover város Angliában, Kent grófságban. A 2001-es népszámláláskor a városnak 28 156 lakosa volt. Dover híres a fehér krétaszikláiról; ezekről kapta Anglia az Albion (fehér) nevet.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">Douvres est une ville côtière et portuaire du comté du Kent, dans le Sud-Est de l'Angleterre. Elle est située au bord de la Manche, à 35 km des côtes françaises et du cap Gris-Nez. C'est donc la ville du Royaume-Uni la plus proche de la France. Cette situation en fait le port de transit principal entre les deux rives de la Manche, notamment vers les ports de Calais et d'Ostende. Plus de 18 millions de passagers y transitent annuellement. Un projet d'extension du port est à l'étude, de même qu'à Calais de l'autre côté de la Manche. Celui de Douvres a cherché à diminuer ses impacts en se reconstruisant sur lui-même et a fait l'objet d'une étude d'incidence. Celui de Calais doit s'étendre au sud.</dbpedia-owl:abstract>
+    <dbpprop:officialName xml:lang="en">Dover</dbpprop:officialName>
+    <rdfs:label xml:lang="ca">Dover (Anglaterra)</rdfs:label>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Dover_(Kent)"/>
+    <dbpedia-owl:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28156</dbpedia-owl:populationTotal>
+    <dbpprop:janPrecipitationInch rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:janPrecipitationInch>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.3089</geo:long>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.dovercommunityradio.co.uk"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Weather_box"/>
+    <dbpprop:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28156</dbpprop:population>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <dbpprop:octHighF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">58</dbpprop:octHighF>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Dover"/>
+    <dbpedia-owl:abstract xml:lang="de">Dover [ˈdəʊvə] ist eine englische Stadt mit dem wichtigsten englischen Hafen an der Straße von Dover am Ärmelkanal. Dover liegt in der Grafschaft Kent und ist Verwaltungssitz des gleichnamigen Distrikts.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="de">Dover [ˈdəʊvə] ist eine englische Stadt mit dem wichtigsten englischen Hafen an der Straße von Dover am Ärmelkanal. Dover liegt in der Grafschaft Kent und ist Verwaltungssitz des gleichnamigen Distrikts.</rdfs:comment>
+    <dbpprop:sepPrecipitationInch rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:sepPrecipitationInch>
+    <dbpedia-owl:areaCode xml:lang="en">+44 (0)1304</dbpedia-owl:areaCode>
+    <dbpprop:aprLowF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">40</dbpprop:aprLowF>
+    <dbpprop:junPrecipitationInch rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:junPrecipitationInch>
+    <dbpprop:marLowF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">36</dbpprop:marLowF>
+    <dbpprop:decPrecipitationInch rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:decPrecipitationInch>
+    <dbpprop:janHighF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">43</dbpprop:janHighF>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.dover.uk.com/news/"/>
+    <dbpprop:staticImage rdf:datatype="http://www.w3.org/2001/XMLSchema#int">270</dbpprop:staticImage>
+    <dbpedia-owl:abstract xml:lang="no">Se også Dover (Delaware), Dover (Pennsylvania). Dover er en by i sør-øst England ved den engelske kanal. Byen har 34 000 innbyggere og er det viktigste overfartstedet til Frankrike med henholdsvis båttrafikk og Eurotunnel. Byen er kjent for sine hvite klipper og borgen Dover Castle.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="no">Se også Dover (Delaware), Dover (Pennsylvania). Dover er en by i sør-øst England ved den engelske kanal. Byen har 34 000 innbyggere og er det viktigste overfartstedet til Frankrike med henholdsvis båttrafikk og Eurotunnel. Byen er kjent for sine hvite klipper og borgen Dover Castle.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:France%E2%80%93United_Kingdom_border_crossings"/>
+    <rdfs:comment xml:lang="zh">多佛尔，香港譯作多佛，是英国肯特郡的一个海港，人口约二十九万。多佛尔港最靠近法国的加来港,两地去只34公里，因此成为英国最繁忙的一个海港，每年旅客多达1800万人次。英法間的海峽也因此得名多佛尔海峡。</rdfs:comment>
+    <ns9:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Dover?oldid=493631166"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dover_from_air.jpg/200px-Dover_from_air.jpg"/>
+    <dbpprop:marHighF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">48</dbpprop:marHighF>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ドーバー_(イギリス)"/>
+    <rdfs:comment xml:lang="pt">Dover é uma cidade do Reino Unido. Está localizada no Sudeste da Inglaterra, no condado de Kent. É o maior porto britânico do Canal da Mancha. Em 2001, a população da zona urbana de Dover era de 39 878 habitantes.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.vistaleisure.com"/>
+    <owl:sameAs rdf:resource="http://sws.geonames.org/2651048/"/>
+    <rdfs:label xml:lang="zh">多佛尔</rdfs:label>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Дувр"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.1295</geo:lat>
+    <dbpprop:labelPosition xml:lang="en">top</dbpprop:labelPosition>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Dover"/>
+    <rdfs:comment xml:lang="ja">ドーバー（Dover）は英仏海峡に面した英国のケント州の主要な港湾都市である。2001年の統計ではドーバーの正確な住民の人口は28,156人であるが、ドーバー都市圏の人口は39,098人になると英国国民統計事務所は計算している。ドーバー市の行政はドーバー市庁が司っている。ドーヴァーとも表記される。</rdfs:comment>
+    <dbpprop:decHighF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">45</dbpprop:decHighF>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PortsAndHarboursOfKent"/>
+    <dbpprop:augLowF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">56</dbpprop:augLowF>
+    <dbpedia-owl:abstract xml:lang="nl">Dover (Frans Douvres, Nederlands voorheen Daveren) is een belangrijke havenplaats in Engeland, in het graafschap Kent. De stad ligt aan het Nauw van Calais (of Straat van Dover), zoals het oostelijk deel van Het Kanaal wordt genoemd. De stad is van oudsher van maritiem belang geweest. Al voor de Romeinen (die de stad Dubris Portus noemden) was Dover een voor de hand liggende invalsplaats, omdat het op slechts 34 kilometer van de Franse kust ligt. Tot 1923 was Dover een marinebasis; daarna werd de haven vooral aangewend voor civiele doeleinden. Er zijn veerverbindingen met verschillende plaatsen op het vasteland van Europa: Calais, Duinkerke, en Boulogne in Frankrijk en Oostende in België. Daarmee heeft de stad de belangrijkste haven voor het verkeer over Het Kanaal. Momenteel heeft agglomeratie Dover zo'n 37.000 inwoners. Visserij, industrie en vooral het toerisme en de havenactiviteiten zijn de belangrijkste bronnen van inkomsten. Dover is befaamd om de witte krijtrotsen van Dover (de white cliffs of Dover). Ook is er een imposant kasteel (Dover Castle), met de resten van een Romeinse vuurtoren uit de 4e eeuw. In de Tweede Wereldoorlog was de stad het mikpunt van zware bombardementen.</dbpedia-owl:abstract>
+    <dbpprop:postcodeDistrict xml:lang="en">CT16, CT17</dbpprop:postcodeDistrict>
+    <dbpprop:novLowF rdf:datatype="http://www.w3.org/2001/XMLSchema#int">40</dbpprop:novLowF>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Dover_(Anglie)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Megger_Group_Limited">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Drellingore">
+    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/P&amp;O_Ferries">
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/White_Kennett">
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dover"/>
+  </rdf:Description>
+</rdf:RDF>

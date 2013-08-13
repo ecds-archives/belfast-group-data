@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2641364/">
+    <gn:alternateName xml:lang="ca">Irlanda del Nord</gn:alternateName>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2635167/"/>
+    <gn:alternateName xml:lang="sv">Nordirland</gn:alternateName>
+    <wgs84_pos:lat>54.5</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2641364/northern-ireland.html"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2635167/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
+    <wgs84_pos:long>-6.5</wgs84_pos:long>
+    <gn:population>1700000</gn:population>
+    <gn:alternateName xml:lang="fr">Irlande du Nord</gn:alternateName>
+    <gn:countryCode>GB</gn:countryCode>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Northern_Ireland"/>
+    <gn:alternateName xml:lang="nl">Noord Ierland</gn:alternateName>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2641364/about.rdf"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/2641364/contains.rdf"/>
+    <gn:shortName xml:lang="en">N Ireland</gn:shortName>
+    <gn:shortName xml:lang="es">Irlanda del Norte</gn:shortName>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:name>N Ireland</gn:name>
+    <gn:officialName xml:lang="en">Northern Ireland</gn:officialName>
+    <gn:alternateName xml:lang="it">Irlanda del Nord</gn:alternateName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2641364/about.rdf">
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2641364/"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-02-02</dcterms:modified>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2641364/"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+  </rdf:Description>
+</rdf:RDF>

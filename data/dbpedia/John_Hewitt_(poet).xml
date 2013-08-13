@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Hewitt">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/John_Hewitt_(poet)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/John_Hewitt_%28poet%29">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/John_Hewitt_(poet)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Hewitt_(poet)">
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.johnhewittsociety.org"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1987_deaths"/>
+    <dbpedia-owl:abstract xml:lang="en">John Harold Hewitt (28 October 1907-22 June 1987), who was born in Belfast, Ireland, was the most significant Irish poet to emerge before the 1960s generation of poets that included Seamus Heaney, Derek Mahon and Michael Longley. He was appointed the first writer-in-residence at Queen's University Belfast in 1976. His collections include The Day of the Corncrake (1969) and Out of My Time: Poems 1969 to 1974 (1974). He was also made a Freeman of the City of Belfast in 1983, and was awarded honorary doctorates the University of Ulster and Queen's University Belfast. From November 1930 to 1957, Hewitt held positions in the Belfast Museum &amp; Art Gallery. His radical socialist ideals proved unacceptable to the Belfast Unionist establishment and he was passed over for promotion in 1953. Instead in 1957 he moved to Coventry, a city still rebuilding following its devastation during the Second world War. Hewitt was appointed Director of the Herbert Art Gallery &amp; Museum where he worked until retirement in 1972. Hewitt had an active political life, describing himself as "a man of the left", and was involved in the British Labour Party, the Fabian Society and the Belfast Peace League. He was attracted to the Ulster dissenting tradition and was drawn to a concept of regional identity within the island of Ireland, describing his identity as Ulster, Irish, British and European. John Hewitt officially opened the Belfast Unemployed Resource Centre (BURC) Offices on Mayday 1985. His life and work are celebrated in two prominent ways - the annual John Hewitt International Summer School - and, less conventionally, a Belfast pub is named after him - the John Hewitt Bar and Restaurant, which is situated on the city's Donegall Street and which opened in 1999. The bar was named after him as he officially opened the Belfast Unemployed Resource Centre, which owns the establishment. It is a popular meeting place for local writers, musicians, journalists, students and artists. Both the Belfast Festival at Queen's and the Belfast Film Festival use the venue to stage events.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Methodist_College_Belfast"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1907</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Culture_in_Belfast"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.antrimhistory.net"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_art"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gytqn"/>
+    <foaf:name xml:lang="en">John Hewitt</foaf:name>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1987</dbpprop:dateOfDeath>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belfast"/>
+    <foaf:surname xml:lang="en">Hewitt</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1907_births"/>
+    <dbpprop:name xml:lang="en">Hewitt, John</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.proni.gov.uk/introduction_hewitt_d3838-2.pdf"/>
+    <foaf:givenName xml:lang="en">John</foaf:givenName>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ulster.ac.uk/library/craine/hewitt/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thejohnhewitt.com"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/2/22/Words_on_the_Cushendun_Stone_-_geograph.org.uk_-_247602.jpg"/>
+    <rdfs:label xml:lang="en">John Hewitt (poet)</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.lagan-press.org.uk"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdfs:comment xml:lang="en">John Harold Hewitt (28 October 1907-22 June 1987), who was born in Belfast, Ireland, was the most significant Irish poet to emerge before the 1960s generation of poets that included Seamus Heaney, Derek Mahon and Michael Longley. He was appointed the first writer-in-residence at Queen's University Belfast in 1976. His collections include The Day of the Corncrake (1969) and Out of My Time: Poems 1969 to 1974 (1974).</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Words_on_the_Cushendun_Stone_-_geograph.org.uk_-_247602.jpg/200px-Words_on_the_Cushendun_Stone_-_geograph.org.uk_-_247602.jpg"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.blackstaffpress.com"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/John_Hewitt_(poet)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/John_Hewitt_(poet)?oldid=475153984"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/John_Hewitt_(poet)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hewitt,_John_Harold">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/John_Hewitt_(poet)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Harold_Hewitt">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/John_Hewitt_(poet)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/John_Hewitt_(poet)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/John_Hewitt_(poet)"/>
+  </rdf:Description>
+</rdf:RDF>

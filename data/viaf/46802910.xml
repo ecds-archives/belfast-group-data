@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C07002202X#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+    <skos:prefLabel>MacNeice, Louis (Frederick Louis), 1907-1963</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C001134392#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:prefLabel>MacNeice, Louis, 1907-1963</skos:prefLabel>
+    <skos:altLabel>マクニース, ルイ</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Ckup19950000060034#skos:Concept">
+    <skos:altLabel>Malone, Louis, 1907-1963</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>MacNeice, Louis, 1907-1963</skos:prefLabel>
+    <skos:altLabel>MacNeice, Frederick Louis, 1907-1963</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/46802910/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/46802910"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79032198#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Malone, Louis, 1907-1963</skos:altLabel>
+    <skos:altLabel>MacNeice, Frederick Louis, 1907-1963</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79032198"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>MacNeice, Louis, 1907-1963</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1011210#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <skos:prefLabel>MacNeice, Louis, 1907-1963</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CLouis_MacNeice#skos:Concept">
+    <skos:prefLabel>Macneice, Louis</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C14807703#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+    <skos:altLabel>e Malone Louis 1907-1963</skos:altLabel>
+    <skos:altLabel>Mac Neice, Louis 1907-1963</skos:altLabel>
+    <skos:altLabel>Mc Neice Louis 1907-1963</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb14807703r"/>
+    <skos:prefLabel>MacNeice, Louis, 1907-1963</skos:prefLabel>
+    <skos:altLabel>McNeice Louis 1907-1963</skos:altLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb14807703r"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118575988#skos:Concept">
+    <skos:altLabel>MacNeice, Frederick Louis, 1907-1963</skos:altLabel>
+    <skos:altLabel>Malone, Louis, 1907-1963</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Mac Neice, Louis 1907-1963</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Mac Neice, Frederick Louis 1907-1963</skos:altLabel>
+    <skos:altLabel>Malone, L. 1907-1963 Pseudonym</skos:altLabel>
+    <skos:prefLabel>MacNeice, Louis, 1907-1963</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000418384#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>MacNeice, Frederick Louis, 1907-1963</skos:altLabel>
+    <skos:prefLabel>MacNeice, Louis, 1907-1963</skos:prefLabel>
+    <skos:altLabel>Malone, Louis, 1907-1963</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/46802910">
+    <foaf:name>Mac Neice, Frederick Louis 1907-1963</foaf:name>
+    <foaf:name>MacNeice, Louis (Frederick Louis), 1907-1963</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb14807703r#foaf:Person"/>
+    <foaf:name>Mac Neice, Louis 1907-1963</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdaGr2:dateOfDeath>1963-09-03</rdaGr2:dateOfDeath>
+    <foaf:name>Malone, Louis, 1907-1963</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/029360102/id"/>
+    <foaf:name>McNeice Louis 1907-1963</foaf:name>
+    <foaf:name>マクニース, ルイ</foaf:name>
+    <foaf:name>Macneice, Louis</foaf:name>
+    <foaf:name>MacNeice, Louis, 1907-1963</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118575988"/>
+    <rdaGr2:dateOfBirth>1907-09-12</rdaGr2:dateOfBirth>
+    <foaf:name>Malone, L. 1907-1963 Pseudonym</foaf:name>
+    <foaf:name>e Malone Louis 1907-1963</foaf:name>
+    <foaf:name>Macneice, Frederick Louis</foaf:name>
+    <foaf:name>McNeice, Louis</foaf:name>
+    <foaf:name>Malone, Louis.</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Louis_MacNeice"/>
+    <foaf:name>Mc Neice, Louis</foaf:name>
+    <foaf:name>MacNeice, Frederick Louis, 1907-1963</foaf:name>
+    <foaf:name>Mac Neice, Louis</foaf:name>
+    <foaf:name>Mc Neice Louis 1907-1963</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/46802910/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/46802910"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls000108830#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+    <skos:prefLabel>Macneice, Louis</skos:prefLabel>
+    <skos:altLabel>Macneice, Frederick Louis</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++98701584#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>MacNeice, Louis, 1907-1963</skos:prefLabel>
+    <skos:altLabel>Malone, Louis.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Macneice, Frederick Louis</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/46802910/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12174977#skos:Concept">
+    <skos:altLabel>McNeice Louis 1907-1963</skos:altLabel>
+    <skos:altLabel>Mc Neice Louis 1907-1963</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb14807703r"/>
+    <skos:prefLabel>MacNeice, Louis, 1907-1963</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb14807703r"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+    <skos:altLabel>e Malone Louis 1907-1963</skos:altLabel>
+    <skos:altLabel>Mac Neice, Louis 1907-1963</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0061B2144#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+    <skos:prefLabel>MacNeice, Louis, 1907-1963</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:altLabel>MacNeice, Frederick Louis, 1907-1963</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Malone, Louis, 1907-1963</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca16934969#skos:Concept">
+    <skos:altLabel>Malone, Louis.</skos:altLabel>
+    <skos:altLabel>Macneice, Frederick Louis</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <skos:prefLabel>MacNeice, Louis, 1907-1963</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C029360102#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Mac Neice, Louis</skos:altLabel>
+    <skos:altLabel>Mc Neice, Louis</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Malone, Louis.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+    <skos:altLabel>McNeice, Louis</skos:altLabel>
+    <skos:prefLabel>MacNeice, Louis, 1907-1963</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035320629#skos:Concept">
+    <skos:prefLabel>MacNeice, Louis, 1907-1963</skos:prefLabel>
+    <skos:altLabel>MacNeice, Frederick Louis, 1907-1963</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46802910"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:altLabel>Malone, Louis, 1907-1963</skos:altLabel>
+  </rdf:Description>
+</rdf:RDF>

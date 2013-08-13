@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belfast_Festival">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Belfast_Festival_at_Queen's"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belfast_Festival_at_Queen's">
+    <foaf:homepage rdf:resource="http://www.belfastfestival.com"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/a/a1/Belfast_Festival_Logo.png"/>
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
+    <dbpprop:ends rdf:datatype="http://www.w3.org/2001/XMLSchema#int">31</dbpprop:ends>
+    <dbpprop:genre xml:lang="en">Arts festival</dbpprop:genre>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Belfast_Festival_Logo.png/200px-Belfast_Festival_Logo.png"/>
+    <rdfs:label xml:lang="en">Belfast Festival at Queen's</rdfs:label>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_recurring_event"/>
+    <dbpprop:website rdf:resource="http://www.belfastfestival.com"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Belfast_Festival_at_Queen's?oldid=480057910"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Queen's_University_Belfast"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.097j46"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Culture_in_Belfast"/>
+    <dbpprop:logo rdf:resource="http://dbpedia.org/resource/File:Belfast_Festival_Logo.png"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Belfast_Festival_at_Queen's"/>
+    <dbpprop:frequency xml:lang="en">Annual</dbpprop:frequency>
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Belfast"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Music_festivals_in_Northern_Ireland"/>
+    <dbpprop:imagesize xml:lang="en">frameless</dbpprop:imagesize>
+    <dbpprop:begins rdf:datatype="http://www.w3.org/2001/XMLSchema#int">14</dbpprop:begins>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Arts_festivals_in_Northern_Ireland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Theatre_in_Northern_Ireland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Music_in_Northern_Ireland"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.belfastfestival.com"/>
+    <dbpprop:patron rdf:resource="http://dbpedia.org/resource/Ulster_Bank"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Belfast_Festival_at_Queen's"/>
+    <dbpprop:yearsActive rdf:datatype="http://www.w3.org/2001/XMLSchema#int">50</dbpprop:yearsActive>
+    <rdfs:comment xml:lang="en">The Ulster Bank Belfast Festival at Queen's is an annual arts festival held in Belfast, Northern Ireland. The 50th Festival will take place from 19th to 3rd November 2012.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.qub.ac.uk/home/savebelfastfestival"/>
+    <dbpprop:logoCaption xml:lang="en">Belfast Festival at Queen's logo</dbpprop:logoCaption>
+    <dbpprop:name xml:lang="en">Ulster Bank Belfast Festival at Queen's</dbpprop:name>
+    <dbpedia-owl:abstract xml:lang="en">The Ulster Bank Belfast Festival at Queen's is an annual arts festival held in Belfast, Northern Ireland. The 50th Festival will take place from 19th to 3rd November 2012.</dbpedia-owl:abstract>
+    <dbpprop:patron rdf:resource="http://dbpedia.org/resource/Queen's_University_Belfast"/>
+    <dbpprop:first rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1962</dbpprop:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Belfast_Festival_at_Queen's">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Belfast_Festival_at_Queen's"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belfast_Festival_at_Queens">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Belfast_Festival_at_Queen's"/>
+  </rdf:Description>
+</rdf:RDF>

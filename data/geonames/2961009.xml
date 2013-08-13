@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2961009/">
+    <gn:alternateName>Vinegar Hill</gn:alternateName>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Battle_of_Vinegar_Hill"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2960963/"/>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521314/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Battle_of_Vinegar_Hill"/>
+    <gn:name>Vinegar Hill</gn:name>
+    <gn:countryCode>IE</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
+    <wgs84_pos:long>-6.54611</wgs84_pos:long>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#T"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#T.HLL"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2961009/about.rdf"/>
+    <wgs84_pos:lat>52.50417</wgs84_pos:lat>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2961009/vinegar-hill.html"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2960963/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2961009/nearby.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2961009/about.rdf">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-02-02</dcterms:modified>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2961009/"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2961009/"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+  </rdf:Description>
+</rdf:RDF>

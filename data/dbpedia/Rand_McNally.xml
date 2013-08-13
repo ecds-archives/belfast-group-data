@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rand-McNally">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rand_McNally"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rand_McNally_&amp;_Company">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rand_McNally"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_of_the_Wind">
+    <dbpedia-owl:publisher rdf:resource="http://dbpedia.org/resource/Rand_McNally"/>
+    <dbpprop:publisher rdf:resource="http://dbpedia.org/resource/Rand_McNally"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rand,_McNally">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rand_McNally"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rand">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Rand_McNally"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rand_McNally">
+    <dbpprop:founder rdf:resource="http://dbpedia.org/resource/William_Rand_(printer)"/>
+    <rdfs:comment xml:lang="nl">Rand McNally is een Amerikaanse uitgeverij voor kaarten, atlassen en globes. In 1856 opende William Rand een drukwinkel in Chicago, waarmee hij de voorloper van Rand McNally oprichtte. In december 1872 verscheen de eerste Rand McNally kaart. Toen het bedrijf in 1952 te groot werd voor zijn kantoren in Chicago verhuisde het zijn hoofdkantoor naar Skokie.</rdfs:comment>
+    <dbpprop:homepage rdf:resource="http://randmcnally.com"/>
+    <dbpedia-owl:abstract xml:lang="de">Rand McNally ist ein US-amerikanischer Verlag für Karten, Atlanten, Globen und Navigationssysteme. Die Firma hat ihre Zentrale in Skokie, Illinois, einem Vorort von Chicago, ein Büro in Irvine, Kalifornien und ein Verteilzentrum in Richmond, Kentucky.</dbpedia-owl:abstract>
+    <dbpedia-owl:product rdf:resource="http://dbpedia.org/resource/Atlas"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-company-noun-1"/>
+    <dbpprop:products xml:lang="en">maps, atlases, software</dbpprop:products>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Organization"/>
+    <dbpedia-owl:abstract xml:lang="nl">Rand McNally is een Amerikaanse uitgeverij voor kaarten, atlassen en globes. In 1856 opende William Rand een drukwinkel in Chicago, waarmee hij de voorloper van Rand McNally oprichtte. In december 1872 verscheen de eerste Rand McNally kaart. Toen het bedrijf in 1952 te groot werd voor zijn kantoren in Chicago verhuisde het zijn hoofdkantoor naar Skokie.</dbpedia-owl:abstract>
+    <dbpprop:founder rdf:resource="http://dbpedia.org/resource/Andrew_McNally"/>
+    <rdfs:comment xml:lang="en">Rand McNally is an American publisher of maps, atlases, textbooks, and globes for travel, reference, commercial, and educational uses. It also provides online consumer street maps and directions, as well as commercial transportation routing software and mileage data. The company is headquartered in the Chicago suburb of Skokie, Illinois with a distribution center in Richmond, Kentucky.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.randmcnally.com"/>
+    <dbpedia-owl:abstract xml:lang="ja">ランドマクナリー（Rand McNally）は、アメリカ合衆国の地図専門出版社。旅行用、参考資料用、商用、教育用など、様々な目的に沿った地図、地図帳、教科書、地球儀などを扱っている。さらに、オンラインでも一般消費者向けの街路地図や案内図、業務用の輸送経路最適化ソフトウェアや距離データなどを提供している。本社は、シカゴ近郊のイリノイ州スコーキーにあるが、カリフォルニア州アーバインにも支社があり、ケンタッキー州リッチモンドには配送センターがある。</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="ja">ランドマクナリー（Rand McNally）は、アメリカ合衆国の地図専門出版社。旅行用、参考資料用、商用、教育用など、様々な目的に沿った地図、地図帳、教科書、地球儀などを扱っている。さらに、オンラインでも一般消費者向けの街路地図や案内図、業務用の輸送経路最適化ソフトウェアや距離データなどを提供している。本社は、シカゴ近郊のイリノイ州スコーキーにあるが、カリフォルニア州アーバインにも支社があり、ケンタッキー州リッチモンドには配送センターがある。</rdfs:comment>
+    <dbpprop:foundation xml:lang="en">Chicago</dbpprop:foundation>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Companies_based_in_Skokie,_Illinois"/>
+    <dbpedia-owl:product rdf:resource="http://dbpedia.org/resource/Map"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MapPuBlishers"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:foundingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1856-01-01T00:00:00+02:00</dbpedia-owl:foundingYear>
+    <rdfs:comment xml:lang="de">Rand McNally ist ein US-amerikanischer Verlag für Karten, Atlanten, Globen und Navigationssysteme. Die Firma hat ihre Zentrale in Skokie, Illinois, einem Vorort von Chicago, ein Büro in Irvine, Kalifornien und ein Verteilzentrum in Richmond, Kentucky.</rdfs:comment>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rand_McNally_logo.png/200px-Rand_McNally_logo.png"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://davidrumsey.com/northamericanatlases.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Publishing_companies_established_in_1856"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MediaCompaniesOfTheUnitedStates"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/f/f5/Rand_McNally_logo.png"/>
+    <dbpprop:companyName xml:lang="en">Rand McNally</dbpprop:companyName>
+    <foaf:homepage rdf:resource="http://randmcnally.com"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://randmcnally.com"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Rand_McNally"/>
+    <rdfs:label xml:lang="de">Rand McNally</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.newberry.org/collections/FindingAids/randmcnally/RandMcNally.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.newberry.org/collections/FindingAids/mcnallyfamily/McNallyfamily.html"/>
+    <dbpedia-owl:owningCompany rdf:resource="http://dbpedia.org/resource/Patriarch_Partners"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MapCompaniesOfTheUnitedStates"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CompaniesEstablishedIn1856"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Business"/>
+    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Skokie,_Illinois"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Map_companies_of_the_United_States"/>
+    <foaf:name xml:lang="en">Rand McNally</foaf:name>
+    <rdfs:label xml:lang="en">Rand McNally</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://davidrumsey.com/worldatlases.html"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Rand_McNally"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://biogwriter.com"/>
+    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Skokie,_Illinois"/>
+    <dbpprop:companyType xml:lang="en">Private company</dbpprop:companyType>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <dbpedia-owl:owner rdf:resource="http://dbpedia.org/resource/Patriarch_Partners"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0223wc"/>
+    <dbpedia-owl:foundedBy rdf:resource="http://dbpedia.org/resource/William_Rand_(printer)"/>
+    <dbpedia-owl:foundedBy rdf:resource="http://dbpedia.org/resource/Andrew_McNally"/>
+    <dbpprop:industry xml:lang="en">publishing, education, travel, transportation</dbpprop:industry>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://davidrumsey.com/index.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CompaniesBasedInSkokie,Illinois"/>
+    <dbpprop:owner rdf:resource="http://dbpedia.org/resource/Patriarch_Partners"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpprop:companyLogo rdf:resource="http://dbpedia.org/resource/File:Rand_McNally_logo.png"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ランドマクナリー"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_company"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Media_companies_of_the_United_States"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Rand_McNally"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Map_publishers"/>
+    <dbpedia-owl:abstract xml:lang="en">Rand McNally is an American publisher of maps, atlases, textbooks, and globes for travel, reference, commercial, and educational uses. It also provides online consumer street maps and directions, as well as commercial transportation routing software and mileage data. The company is headquartered in the Chicago suburb of Skokie, Illinois with a distribution center in Richmond, Kentucky.</dbpedia-owl:abstract>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Rand_McNally?oldid=482990524"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rand_mcnally">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rand_McNally"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rand_McNally_and_Company">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rand_McNally"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Rand_McNally">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Rand_McNally"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Randmcnally">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rand_McNally"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Rand_McNally">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Rand_McNally"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www4.wiwiss.fu-berlin.de/wikicompany/resource/Rand_McNally">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Rand_McNally"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Album_of_Dinosaurs">
+    <dbpprop:publisher rdf:resource="http://dbpedia.org/resource/Rand_McNally"/>
+    <dbpedia-owl:publisher rdf:resource="http://dbpedia.org/resource/Rand_McNally"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rand_McNally_&amp;_Co.">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rand_McNally"/>
+  </rdf:Description>
+</rdf:RDF>

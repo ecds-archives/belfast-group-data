@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2964751/about.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-12-01</dcterms:modified>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2964751/"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2964751/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2964751/">
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/County_Donegal"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/2964751/contains.rdf"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2964751/about.rdf"/>
+    <gn:alternateName>Tirconaill</gn:alternateName>
+    <gn:countryCode>IE</gn:countryCode>
+    <gn:alternateName xml:lang="ga">Dún na nGall</gn:alternateName>
+    <wgs84_pos:lat>54.91667</wgs84_pos:lat>
+    <gn:population>139838</gn:population>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
+    <gn:officialName xml:lang="en">County Donegal</gn:officialName>
+    <gn:alternateName>Contae Dhún na nGall</gn:alternateName>
+    <gn:name>Donegal</gn:name>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2964751/county-donegal.html"/>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <wgs84_pos:long>-8</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/7521316/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521316/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/County_Donegal"/>
+    <gn:shortName xml:lang="en">Donegal</gn:shortName>
+  </rdf:Description>
+</rdf:RDF>

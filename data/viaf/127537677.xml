@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls000193568#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>University of Saskatchewan (Saskatoon, Sask.)</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127537677"/>
+    <skos:altLabel>University of Saskatchewan</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/127537677/#foaf:Organization">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/127537677"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C029699576#skos:Concept">
+    <skos:prefLabel>University of Saskatchewan.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127537677"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/127537677/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127537677"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12126750#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127537677"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12126750z"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12126750z"/>
+    <skos:prefLabel>University of Saskatchewan.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/127537677">
+    <foaf:name>Université de la Saskatchewan</foaf:name>
+    <foaf:name>University of Saskatchewan</foaf:name>
+    <foaf:name>Saskachevansʹkyĭ universytet, Kanada</foaf:name>
+    <foaf:name>University of Saskatchewan.</foaf:name>
+    <foaf:name>University of Saskatchewan (Saskatoon, Sask.)</foaf:name>
+    <foaf:name>University of Saskatchewan Ehemalige Vorzugsbenennung SWD</foaf:name>
+    <foaf:name>Saskatchewan. University</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12126750z#foaf:Person"/>
+    <foaf:name>University of Saskatchewan. Saskatoon Campus</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/029699576/id"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/25782-5"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000135442#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>University of Saskatchewan.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127537677"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0000L2224#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127537677"/>
+    <skos:altLabel>Université de la Saskatchewan</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:prefLabel>University of Saskatchewan.</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C000257826#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>University of Saskatchewan Ehemalige Vorzugsbenennung SWD</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>University of Saskatchewan.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127537677"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79034987#skos:Concept">
+    <skos:altLabel>Saskachevansʹkyĭ universytet, Kanada</skos:altLabel>
+    <skos:prefLabel>University of Saskatchewan.</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79034987"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>University of Saskatchewan. Saskatoon Campus</skos:altLabel>
+    <skos:altLabel>Saskatchewan. University</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127537677"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035652499#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:prefLabel>University of Saskatchewan.</skos:prefLabel>
+    <skos:altLabel>University of Saskatchewan. Saskatoon Campus</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127537677"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500308813#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127537677"/>
+    <skos:prefLabel>University of Saskatchewan.</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/127537677/#rdaEnt:CorporateBody">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/127537677"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/127537677/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/127537677"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++98069635#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>University of Saskatchewan.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127537677"/>
+  </rdf:Description>
+</rdf:RDF>

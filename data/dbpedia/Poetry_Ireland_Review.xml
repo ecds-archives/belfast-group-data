@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Poetry_Ireland_Review">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Poetry_Ireland_Review"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Poetry_Ireland_Review">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Poetry_Ireland_Review"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poetry_Ireland_Review">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LiteraryMagazinesOfIreland"/>
+    <rdfs:label xml:lang="en">Poetry Ireland Review</rdfs:label>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Poetry_Ireland_Review"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0f51p0"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poetry_literary_magazines"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PoetryLiteraryMagazines"/>
+    <rdfs:comment xml:lang="en">Poetry Ireland Review is a journal of Irish poetry published quarterly by Poetry Ireland, the national Irish poetry organization. Poetry Ireland Review publishes the work of both emerging and established Irish and international poets. In line with keeping the journal fresh, vibrant and progressive it appoints a new editor for every four journals. An original Poetry Ireland journal appeared in April 1948, edited by David Marcus.</rdfs:comment>
+    <ns6:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Poetry_Ireland_Review?oldid=490861870"/>
+    <dbpedia-owl:abstract xml:lang="en">Poetry Ireland Review is a journal of Irish poetry published quarterly by Poetry Ireland, the national Irish poetry organization. Poetry Ireland Review publishes the work of both emerging and established Irish and international poets. In line with keeping the journal fresh, vibrant and progressive it appoints a new editor for every four journals. An original Poetry Ireland journal appeared in April 1948, edited by David Marcus. Poetry Ireland reappeared in Autumn 1962, published by Dolmen Press and edited by John Jordan with an editorial board of James Liddy, James J McAuley and Richard Weber. Poetry Ireland Review in its current format appeared in 1981, edited by John Jordan and is administrated by Poetry Ireland.</dbpedia-owl:abstract>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Poetry_Ireland_Review"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_literary_magazines"/>
+  </rdf:Description>
+</rdf:RDF>

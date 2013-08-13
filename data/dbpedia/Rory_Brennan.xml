@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rory_Brennan">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1945_births"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Rory_Brennan?oldid=452913349"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Mayo"/>
+    <dbpedia-owl:abstract xml:lang="en">Rory Brennan (born 1945) is an Irish poet, born in Westport, County Mayo.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyDuBlin"/>
+    <foaf:givenName xml:lang="en">Rory</foaf:givenName>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Rory_Brennan"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <rdfs:comment xml:lang="en">Rory Brennan (born 1945) is an Irish poet, born in Westport, County Mayo.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.irishwriters-online.com/rorybrennan.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.dcu.ie/info/staff_member.php?id_no=180"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1945</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.09g9vld"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Dublin"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pgil-eirdata.org/html/pgil_datasets/authors/b/Brennan,Rory/life.htm"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Rory_Brennan"/>
+    <foaf:surname xml:lang="en">Brennan</foaf:surname>
+    <foaf:name xml:lang="en">Rory Brennan</foaf:name>
+    <dbpprop:name xml:lang="en">Brennan,Rory</dbpprop:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Rory_Brennan">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Rory_Brennan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Rory_Brennan">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Rory_Brennan"/>
+  </rdf:Description>
+</rdf:RDF>

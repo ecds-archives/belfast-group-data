@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Building_the_Great_Pyramid">
+    <dbpedia-owl:narrator rdf:resource="http://dbpedia.org/resource/Michael_Pennington"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Return_of_Sherlock_Holmes_(film)">
+    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/Michael_Pennington"/>
+    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Michael_Pennington"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Michael_Pennington">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Michael_Pennington"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colosseum:_Rome's_Arena_of_Death">
+    <dbpedia-owl:narrator rdf:resource="http://dbpedia.org/resource/Michael_Pennington"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Freud_(mini-series)">
+    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/Michael_Pennington"/>
+    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Michael_Pennington"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Pennington">
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/England"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-actor-noun-1"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1943-06-07</dbpedia-owl:birthDate>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.hunwicks.ndo.co.uk/index.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Marlborough_College"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_person"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:comment xml:lang="de">Michael Vivian Fyfe Pennington ist ein britischer Schauspieler, Theaterregisseur und Schriftsteller.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Shakespeare_Company_members"/>
+    <dbpedia-owl:abstract xml:lang="en">Michael Vivian Fyfe Pennington (born 7 June 1943) is a British director and actor who, together with director Michael Bogdanov, founded the English Shakespeare Company. Although primarily a stage actor, he is best known to wider audiences for his role as Moff Jerjerrod, commanding officer of the Death Star in the film Star Wars Episode VI: Return of the Jedi.</dbpedia-owl:abstract>
+    <dbpedia-owl:birthYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1943-01-01T00:00:00+02:00</dbpedia-owl:birthYear>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/England"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04y8np"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">124879063</dbpedia-owl:individualisedPnd>
+    <dbpedia-owl:abstract xml:lang="de">Michael Vivian Fyfe Pennington ist ein britischer Schauspieler, Theaterregisseur und Schriftsteller.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Michael_Pennington"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Michael_Pennington"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cambridge"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/England"/>
+    <rdfs:label xml:lang="de">Michael Pennington</rdfs:label>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1943-06-07</dbpprop:birthDate>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1943</dbpprop:dateOfBirth>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cambridge"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Michael_Pennington"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1943_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Actor109765278"/>
+    <rdfs:label xml:lang="en">Michael Pennington</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="hu">Michael Pennington, teljes nevén Michael Vivian Fyfe Pennington angol színházi és televíziós rendező, színész.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishActors"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cambridge"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_actors"/>
+    <foaf:surname xml:lang="en">Pennington</foaf:surname>
+    <dbpprop:name xml:lang="en">Pennington, Michael</dbpprop:name>
+    <foaf:name xml:lang="en">Michael Pennington</foaf:name>
+    <rdfs:comment xml:lang="en">Michael Vivian Fyfe Pennington (born 7 June 1943) is a British director and actor who, together with director Michael Bogdanov, founded the English Shakespeare Company. Although primarily a stage actor, he is best known to wider audiences for his role as Moff Jerjerrod, commanding officer of the Death Star in the film Star Wars Episode VI: Return of the Jedi.</rdfs:comment>
+    <dbpprop:name xml:lang="en">Michael Pennington</dbpprop:name>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Michael_Pennington?oldid=493908187"/>
+    <foaf:givenName xml:lang="en">Michael</foaf:givenName>
+    <rdfs:comment xml:lang="hu">Michael Pennington, teljes nevén Michael Vivian Fyfe Pennington angol színházi és televíziós rendező, színész.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/Michael_Pennington">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Michael_Pennington"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2635259/about.rdf">
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2635259/"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-06-18</dcterms:modified>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2635259/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2635259/">
+    <wgs84_pos:long>-7</wgs84_pos:long>
+    <gn:countryCode>GB</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/2635259/contains.rdf"/>
+    <gn:alternateName>Tír Eoghain</gn:alternateName>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2635259/county-tyrone.html"/>
+    <gn:alternateName>County Tyrone</gn:alternateName>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2641364/"/>
+    <gn:alternateName>Tyròne</gn:alternateName>
+    <wgs84_pos:lat>54.58333</wgs84_pos:lat>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2635259/about.rdf"/>
+    <gn:alternateName xml:lang="en">Tyrone</gn:alternateName>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/2641364/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+    <gn:name>Tyrone</gn:name>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2635167/"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Burns">
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/John_Clare"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/John_Clare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/John_Clare">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/John_Clare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Joyce">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/John_Clare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/John_Clare">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/John_Clare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clare,_John">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/John_Clare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Byron">
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/John_Clare"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/John_Clare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Clare">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpprop:birthPlace xml:lang="en">Helpston, Soke of Peterborough, Northamptonshire, England</dbpprop:birthPlace>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/John_Clare?oldid=494938235"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromNorthamptonshire"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sonneteers"/>
+    <dbpedia-owl:abstract xml:lang="de">John Clare war ein englischer Naturdichter und bekannt als einer der besten Beschreiber des Landlebens. John Clare wurde am 13. Juli 1793 in Helpstone als Sohn eines Tagelöhners geboren. Er entwickelte sich trotz sehr geringer Bildungsmittel glücklich und schnell. James Thomsons Seasons weckten sein poetisches Talent und begeisterten den 13-Jährigen zu dem Lied The morning walk und dessen Gegenstück The evening walk. John Turnill in Helpstone nahm sich seiner an und unterrichtete ihn im Schreiben und Rechnen. Seinen Unterhalt erwarb Clare sich durch Handarbeiten und Violinspiel, Gott und die Natur besang er alleine zum eigenen Vergnügen. 1818 kam sein Sonett auf die untergehende Sonne in die Hände des Buchhändlers Drury zu Hamford, und dieser veranlasste die Ausgabe einer Sammlung von Clares Poems descriptive of rural life and scenery, die allgemeine Teilnahme erregte. Eine andere, ebenso erfolgreiche Sammlung seiner Gedichte erschien unter dem Titel The village minstrel, and other poems. Hierdurch in den Besitz eines kleinen Vermögens gelangt, ließ sich Clare in Helpstone häuslich nieder, geriet aber durch unglückliche Landspekulation in Elend. Er starb am 19. Mai 1864 in einer psychiatrischen Klinik.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="en">John Clare (13 July 1793 – 20 May 1864) was an English poet, the son of a farm labourer, who came to be known for his celebratory representations of the English countryside and his lamentation of its disruption. His poetry underwent a major re-evaluation in the late 20th century and he is often now considered to be among the most important 19th-century poets. His biographer Jonathan Bate states that Clare was "the greatest labouring-class poet that England has ever produced.</rdfs:comment>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1793-07-13</dbpprop:birthDate>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/John_Clare.jpg/200px-John_Clare.jpg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/VictorianPoets"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/St_Andrew's_Hospital"/>
+    <dbpedia-owl:abstract xml:lang="en">John Clare (13 July 1793 – 20 May 1864) was an English poet, the son of a farm labourer, who came to be known for his celebratory representations of the English countryside and his lamentation of its disruption. His poetry underwent a major re-evaluation in the late 20th century and he is often now considered to be among the most important 19th-century poets. His biographer Jonathan Bate states that Clare was "the greatest labouring-class poet that England has ever produced. No one has ever written more powerfully of nature, of a rural childhood, and of the alienated and unstable self".</dbpedia-owl:abstract>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1793-07-13</dbpedia-owl:birthDate>
+    <foaf:givenName xml:lang="en">John</foaf:givenName>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">13</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.johnclare.info"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromPeterborough"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</dbpprop:dateOfDeath>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:name xml:lang="en">Clare, John</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Northamptonshire"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Клэр,_Джон"/>
+    <rdfs:comment xml:lang="ru">Джон Клэр — английский поэт-крестьянин.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1864_deaths"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.johnclarepoetry.co.uk"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.johnclare.org/"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <dbpprop:placeOfBirth xml:lang="en">Helpston, Soke of Peterborough, Northamptonshire, England</dbpprop:placeOfBirth>
+    <rdfs:comment xml:lang="sv">John Clare, född 13 juli 1793 och död 19 maj 1864, var en brittisk poet. Clare levde som lantbrukare under fattiga förhållanden, då han 1820 väckte uppmärksamhet med sin första diktsamling. Hans därpå följande diktsamlingar förblev ouppmärksammade. Alkoholmissbruk ledde honom till fördärvet, och han avslutade sitt liv inspärrad på sinnessjukhus. Fil:Quill and ink. svg Denna artikel om en poet är bara påbörjad. Du kan hjälpa till genom att utöka den. Fil:Feather.</rdfs:comment>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
+    <rdfs:label xml:lang="en">John Clare</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Peterborough"/>
+    <dbpedia-owl:abstract xml:lang="sv">John Clare, född 13 juli 1793 och död 19 maj 1864, var en brittisk poet. Clare levde som lantbrukare under fattiga förhållanden, då han 1820 väckte uppmärksamhet med sin första diktsamling. Hans därpå följande diktsamlingar förblev ouppmärksammade. Alkoholmissbruk ledde honom till fördärvet, och han avslutade sitt liv inspärrad på sinnessjukhus. Fil:Quill and ink. svg Denna artikel om en poet är bara påbörjad. Du kan hjälpa till genom att utöka den. Fil:Feather. svg 30px Denna artikel om en brittisk författare är bara påbörjad. Du kan hjälpa till genom att utöka den.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.johnclare.org.uk/"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Edmund_Blunden"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Lord_Byron"/>
+    <dbpedia-owl:abstract xml:lang="pl">John Clare – angielski poeta epoki romantyzmu silnie związany z przyrodą oraz dialektem rodzinnego hrabstwa Northamptonshire. Niezauważony i niedoceniony przez ówczesną krytykę literacką, doczekał się uznania dopiero pod koniec XX wieku. Wielki wpływ na twórczość Johna Clare miała nieszczęśliwa miłość do Mary Joyce, córki zamożnego farmera z Northamptonshire, a także − pośrednio związany z tym − dożywotni pobyt w okolicznych szpitalach psychiatrycznych. I sleep with thee, and wake with thee, And yet thou art not there; I fill my arms with thoughts of thee. Pierwsze próby literackie Johna Clare'a były raczej przeróbkami amatorskich ballad pisanych do szuflady przez ojca, Parkera Clare'a. Poważne wiersze młody poeta zaczął pisać dopiero po lekturze The Seasons szkockiego dramaturga Jamesa Thomsona, której wpływy widać w szczególnej wrażliwości na zienność pór roku, zarówno we wczesnych jak i dojrzałych wierszach barda Northamptonshire. Poezja Johna Clare'a powstawała w okresie rewolucji przemysłowej w Anglii, dlatego też będąc silnie zanurzoną w atmosferze życia wiejskiego, stanowiła romantyczną reakcję na industrializację, pokrewną twórczości Williama Wordswortha i Roberta Southey'a. Clare stale starał się wychwytywać w przyrodzie oznaki "wieczności", elementy duchowej stabilizacji w powszechnym poczuciu przemijania życia ludzkiego oraz zmienności losów. Natura w wierszach angielskiego poety jest ponadto bytem głęboko czującym, podzielającym stany egzystencjalne jednostek szczególnie wrażliwych. All nature has a feeling: woods, fields, brooks Are eternal [... ... ] Współcześnie na nagrobku poety, znajdującym się na cmentarzu w St Botolph’s, widnieje inskrypcja − "A Poet is Born not Mad" (Poeta nie rodzi się szalony).</dbpedia-owl:abstract>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Thomson_(poet)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1793_births"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Soke_of_Peterborough"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <rdfs:comment xml:lang="pl">John Clare – angielski poeta epoki romantyzmu silnie związany z przyrodą oraz dialektem rodzinnego hrabstwa Northamptonshire. Niezauważony i niedoceniony przez ówczesną krytykę literacką, doczekał się uznania dopiero pod koniec XX wieku. Wielki wpływ na twórczość Johna Clare miała nieszczęśliwa miłość do Mary Joyce, córki zamożnego farmera z Northamptonshire, a także − pośrednio związany z tym − dożywotni pobyt w okolicznych szpitalach psychiatrycznych.</rdfs:comment>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Arthur_Symons"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.johnclare.info/birtwhistle.htm"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Sonneteers"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Northampton"/>
+    <rdfs:comment xml:lang="de">John Clare war ein englischer Naturdichter und bekannt als einer der besten Beschreiber des Landlebens. John Clare wurde am 13. Juli 1793 in Helpstone als Sohn eines Tagelöhners geboren. Er entwickelte sich trotz sehr geringer Bildungsmittel glücklich und schnell. James Thomsons Seasons weckten sein poetisches Talent und begeisterten den 13-Jährigen zu dem Lied The morning walk und dessen Gegenstück The evening walk.</rdfs:comment>
+    <dbpprop:placeOfDeath xml:lang="en">St Andrew's Hospital, Northampton, England</dbpprop:placeOfDeath>
+    <foaf:surname xml:lang="en">Clare</foaf:surname>
+    <foaf:name xml:lang="en">John Clare</foaf:name>
+    <dbpprop:signature xml:lang="en">John Clare-signature.jpg</dbpprop:signature>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.leftlion.co.uk/articles.cfm/title/judith-allnatt/id/3747"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/a/ae/John_Clare.jpg"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
+    <rdfs:label xml:lang="de">John Clare</rdfs:label>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
+    <dbpprop:deathPlace xml:lang="en">St Andrew's Hospital, Northampton, England</dbpprop:deathPlace>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118669419</dbpedia-owl:individualisedPnd>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.johnclare.blogspot.com/"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Clare_John_1793-1864"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://theotherpages.org/poems/poem-cd.html#clare"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Lord_Byron"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/John_Clare"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-20</dbpprop:deathDate>
+    <dbpprop:name xml:lang="en">John Clare</dbpprop:name>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01l5yx"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Arthur_Symons"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Helpston"/>
+    <dbpprop:id xml:lang="en">Clare+John+</dbpprop:id>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Thomson_(poet)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Victorian_poets"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.clarecottage.org/"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/John_Clare"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/John_Clare"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/John_Clare"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.archive.org/search.php?query=creator%3A%22John%20Clare%22%20AND%20mediatype%3Aaudio"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Edmund_Blunden"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Northamptonshire"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.botolphsbarn.org.uk/"/>
+    <dbpedia-owl:abstract xml:lang="ru">Джон Клэр — английский поэт-крестьянин.</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Romantic_poets"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/John_Clare"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1864-05-20</dbpedia-owl:deathDate>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:comment xml:lang="it"></rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPoets"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/4929022/about.rdf">
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/4929022/"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/4929022/"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-01-29</dcterms:modified>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/4929022/">
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Amherst%2C_Massachusetts"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+    <gn:alternateName xml:lang="kk">Амхэрст</gn:alternateName>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/4929022/amherst.html"/>
+    <gn:postalCode>01002</gn:postalCode>
+    <gn:alternateName xml:lang="bg">Амхърст</gn:alternateName>
+    <gn:name>Amherst</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/4938757/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Amherst%2C_Massachusetts"/>
+    <wgs84_pos:alt>82</wgs84_pos:alt>
+    <gn:postalCode>01004</gn:postalCode>
+    <gn:alternateName xml:lang="fa">امهرست، ماساچوست</gn:alternateName>
+    <wgs84_pos:long>-72.52314</wgs84_pos:long>
+    <gn:alternateName xml:lang="ka">ამჰერსტი</gn:alternateName>
+    <gn:alternateName xml:lang="nn">Amherst i Massachusetts</gn:alternateName>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/6254926/"/>
+    <gn:alternateName xml:lang="ar">أميرست، ماساتشوستس</gn:alternateName>
+    <wgs84_pos:lat>42.38037</wgs84_pos:lat>
+    <gn:countryCode>US</gn:countryCode>
+    <gn:postalCode>01003</gn:postalCode>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4929022/nearby.rdf"/>
+    <gn:alternateName xml:lang="ru">Амхерст</gn:alternateName>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/4938757/"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4929022/about.rdf"/>
+  </rdf:Description>
+</rdf:RDF>

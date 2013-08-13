@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2011141097#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Terry, Arthur (1927- ).</skos:prefLabel>
+    <skos:altLabel>Terry, Arthur Hubert.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2490119"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/2490119/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/2490119"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C151328587#skos:Concept">
+    <skos:prefLabel>Terry, Arthur</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2490119"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1013236#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <skos:prefLabel>Terry, Arthur</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2490119"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca26175733#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2490119"/>
+    <skos:prefLabel>Terry, Arthur (1927- ).</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/2490119/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2490119"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50007648#skos:Concept">
+    <skos:prefLabel>Terry, Arthur</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2490119"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50007648"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Terry, A. H. (Arthur H.)</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12053494#skos:Concept">
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12053494g"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12053494g"/>
+    <skos:prefLabel>Terry, Arthur H. 1927-....</skos:prefLabel>
+    <skos:altLabel>Terry Arthur 1927-....</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2490119"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/2490119/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/2490119"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV11376375#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <skos:prefLabel>Terry, Arthur</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2490119"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/2490119">
+    <foaf:name>Terry, A. H. (Arthur H.)</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/151328587"/>
+    <rdaGr2:dateOfBirth>1927</rdaGr2:dateOfBirth>
+    <foaf:name>Terry, Arthur, 1927-2004</foaf:name>
+    <rdaGr2:dateOfDeath>2004</rdaGr2:dateOfDeath>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Terry, Arthur (1927- ).</foaf:name>
+    <foaf:name>Terry, Arthur H. 1927-....</foaf:name>
+    <foaf:name>Terry, Arthur H.</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Terry, A. H.</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12053494g#foaf:Person"/>
+    <foaf:name>Terry, Arthur</foaf:name>
+    <foaf:name>Terry, Arthur Hubert.</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/060342056/id"/>
+    <foaf:name>Terry Arthur 1927-....</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C060342056#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2490119"/>
+    <skos:altLabel>Terry, A. H.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Terry, Arthur, 1927-2004</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Terry, Arthur H.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069436851#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2490119"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Terry, Arthur H.</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>
