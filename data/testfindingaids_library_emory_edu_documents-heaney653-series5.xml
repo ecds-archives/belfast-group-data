@@ -3,33 +3,33 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/heaney653/series5/">
+    <schema:name xml:lang="en">Seamus Heaney collection, 1972-1997; Series 5: Audiovisual material</schema:name>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
+    <schema:mentions rdf:nodeID="N37a5f71185dc4f59bc57913ba60a338f"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/46768718">
     <schema:name xml:lang="en">Yeats</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/44300643">
+    <schema:name xml:lang="en">Joyce</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/34464414">
     <schema:name xml:lang="en">Wilde</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/61545326">
-    <schema:name xml:lang="en">Richard Ellmann</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/44300643">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Joyce</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N4218bf2c9a964481baae54f1b6787d4d">
+  <rdf:Description rdf:nodeID="N37a5f71185dc4f59bc57913ba60a338f">
     <schema:mentions rdf:resource="http://viaf.org/viaf/44300643"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/46768718"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/61545326"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/46768718"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/34464414"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/heaney653/series5/">
-    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:mentions rdf:nodeID="N4218bf2c9a964481baae54f1b6787d4d"/>
-    <schema:name xml:lang="en">Seamus Heaney collection, 1972-1997; Series 5: Audiovisual material</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/61545326">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Richard Ellmann</schema:name>
   </rdf:Description>
 </rdf:RDF>

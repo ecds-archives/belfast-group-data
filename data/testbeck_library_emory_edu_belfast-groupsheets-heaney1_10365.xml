@@ -4,192 +4,192 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10323">
-    <schema:name>THE GOOD</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/267971098"/>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10298">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/22253909"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>PERSONAL HELICON</schema:name>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/39398205"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10329">
-    <schema:name>LIGHT DYING</schema:name>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/39396585"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2963597/"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/267971098"/>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Americas">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Americas</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10292">
-    <schema:name>ELEGY FOR A STILL-BORN CHILD</schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>ELEGY FOR A STILL-BORN CHILD</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/32000005">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Marlowe</schema:name>
+    <schema:name>Kit Marlowe</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5ac26b2a71ef47988781ba6c2325feaf">
+    <rdf:rest rdf:nodeID="N3b5d2392fcf448c4896fe4a2a66a29c3"/>
+    <rdf:first>Follower</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/22253909">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Eavan</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2d0b1bc48cfa41ed9443c2e1b622cf74">
+    <rdf:first>Death of a Naturalist</rdf:first>
+    <rdf:rest rdf:nodeID="N19a92f7d732348b987d803c8fb8fb926"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10282">
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Americas"/>
+    <schema:name>LOVERS ON ARAN
+                        </schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2966947/"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10354">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>
+                            DR JOHNSON DYING</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/267971098">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Brendan Kennelly</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
     <schema:name>Michael Longley</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10318">
-    <schema:author rdf:resource="http://viaf.org/viaf/267971098"/>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10277">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>DEATH OF A NATURALIST</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10318">
     <schema:mentions rdf:resource="http://dbpedia.org/resource/Ingram_Frizer"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/32000005"/>
     <schema:name>
                             MARLOWE
                         </schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10282">
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <schema:mentions rdf:resource="http://dbpedia.org/resource/Americas"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/267971098"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/32000005"/>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>LOVERS ON ARAN
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10323">
+    <schema:name>THE GOOD</schema:name>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/22253909"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/267971098"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10359">
+    <schema:name>GATHERING MUSHROOMS</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3b5d2392fcf448c4896fe4a2a66a29c3">
+    <rdf:rest rdf:nodeID="N60aaf2f67f894f9f99af074d0ee41d95"/>
+    <rdf:first>Elegy for a Still-Born Child</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10334">
+    <schema:author rdf:resource="http://viaf.org/viaf/267971098"/>
+    <schema:name>THE DUMMIES</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10329">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/39396585"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2963597/"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/267971098"/>
+    <schema:name>LIGHT DYING</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10344">
+    <schema:mentions rdf:resource="http://sws.geonames.org/3373405/"/>
+    <schema:name>THE HEBRIDES
                         </schema:name>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2966947/"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2647204/"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N19a92f7d732348b987d803c8fb8fb926">
+    <rdf:rest rdf:nodeID="N5ac26b2a71ef47988781ba6c2325feaf"/>
+    <rdf:first>Lovers on Aran</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10364">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>PERSEPHONE</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39396585">
+    <schema:name>Frank O'Connor (Michael O'Donovan)</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10303">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>ANTAEUS</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10313">
     <schema:author rdf:resource="http://viaf.org/viaf/267971098"/>
     <schema:name>THE BLIND MAN</schema:name>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10359">
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10308">
+    <schema:author rdf:resource="http://viaf.org/viaf/267971098"/>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>GATHERING MUSHROOMS</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10339">
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <schema:name>THE OSPREY</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10298">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/39398205"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>PERSONAL HELICON</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ingram_Frizer">
-    <schema:name>Ingram Frazier</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name>Frazier</schema:name>
+    <schema:name>THE AFTER-CHILD</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
     <schema:name>Seamus Heaney</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N03e462af2f404606879f224847290019">
-    <rdf:first>Antaeus</rdf:first>
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Na39b0dfea5fe4080a5b8a7c477b6ff11">
-    <rdf:rest rdf:nodeID="N06250cfdbb7b4144bd8322241f1e1f38"/>
-    <rdf:first>Elegy for a Still-Born Child</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Americas">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name>Americas</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10364">
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>PERSEPHONE</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10308">
-    <schema:author rdf:resource="http://viaf.org/viaf/267971098"/>
-    <schema:name>THE AFTER-CHILD</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/267971098">
-    <schema:name>Brendan Kennelly</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/39396585">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name>Frank O'Connor (Michael O'Donovan)</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nbe545d276ba341c8bc920efb1932b5e8">
-    <rdf:first>Lovers on Aran</rdf:first>
-    <rdf:rest rdf:nodeID="N1362c9a445e94d4796f527c1ffc97be3"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10277">
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <schema:name>DEATH OF A NATURALIST</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10349">
-    <schema:name>ELEGY FOR FATS WALLER
-                        </schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/22253909">
-    <schema:name>Eavan</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
+  <rdf:Description rdf:nodeID="N60aaf2f67f894f9f99af074d0ee41d95">
+    <rdf:rest rdf:nodeID="N5cd6513c3c894d0aa6f83125dbf982c6"/>
+    <rdf:first>Personal Helicon</rdf:first>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/3373405/">
     <rdf:type rdf:resource="http://schema.org/Place"/>
     <schema:name>Atlantic</schema:name>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ingram_Frizer">
+    <schema:name>Ingram Frazier</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Frazier</schema:name>
+  </rdf:Description>
   <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/e8f608aa59bcbeea964e64aed832a1ef">
-    <dc:title rdf:nodeID="N016f946ba23341e88c33a994b13d06c9"/>
+    <dc:title rdf:nodeID="N2d0b1bc48cfa41ed9443c2e1b622cf74"/>
     <schema:name>POEMS BY SEAMUS HEANEY</schema:name>
     <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
     <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17ksf"/>
     <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10303">
-    <schema:name>ANTAEUS</schema:name>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10339">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N1362c9a445e94d4796f527c1ffc97be3">
-    <rdf:rest rdf:nodeID="Na39b0dfea5fe4080a5b8a7c477b6ff11"/>
-    <rdf:first>Follower</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10334">
-    <schema:author rdf:resource="http://viaf.org/viaf/267971098"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>THE DUMMIES</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/32000005">
-    <schema:name>Marlowe</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name>Kit Marlowe</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10354">
+    <schema:name>THE OSPREY</schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>
-                            DR JOHNSON DYING</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10344">
-    <schema:name>THE HEBRIDES
-                        </schema:name>
-    <schema:mentions rdf:resource="http://sws.geonames.org/3373405/"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2647204/"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2966947/">
-    <schema:name>Aran</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Aran</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2963597/">
-    <schema:name>Ireland</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Ireland</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2647204/">
     <rdf:type rdf:resource="http://schema.org/Place"/>
     <schema:name>Hebrides</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N06250cfdbb7b4144bd8322241f1e1f38">
-    <rdf:rest rdf:nodeID="N03e462af2f404606879f224847290019"/>
-    <rdf:first>Personal Helicon</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N016f946ba23341e88c33a994b13d06c9">
-    <rdf:first>Death of a Naturalist</rdf:first>
-    <rdf:rest rdf:nodeID="Nbe545d276ba341c8bc920efb1932b5e8"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10287">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:name>FOLLOWER</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5cd6513c3c894d0aa6f83125dbf982c6">
+    <rdf:first>Antaeus</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ksf#heaney1_10349">
+    <schema:name>ELEGY FOR FATS WALLER
+                        </schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
 </rdf:RDF>

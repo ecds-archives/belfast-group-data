@@ -4,23 +4,23 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/64048541">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/2502462">
     <schema:name xml:lang="en">Sven Birkerts</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/64048541">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7d7431caab6f49bca6f594fbe27c2442">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/2502462"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">Ploughshares</dc:title>
+  </rdf:Description>
   <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/muldoon784/series4/subseries4.2/">
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:mentions rdf:nodeID="N7d7431caab6f49bca6f594fbe27c2442"/>
     <schema:about rdf:resource="http://viaf.org/viaf/64048541"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
     <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
     <schema:name xml:lang="en">Paul Muldoon papers, 1939-2010; Subseries 4.2: Writings by others, 1969-2005</schema:name>
-    <schema:mentions rdf:nodeID="Nbb9999f705ac41c0a6dacefbdbbf342e"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nbb9999f705ac41c0a6dacefbdbbf342e">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/2502462"/>
-    <dc:title xml:lang="en">Ploughshares</dc:title>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
 </rdf:RDF>

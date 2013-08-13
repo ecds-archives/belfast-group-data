@@ -5,14 +5,14 @@
    xmlns:schema="http://schema.org/"
 >
   <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/carson746/series4/">
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/carson746/series4/subseries4.1/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/carson746/series4/subseries4.3/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/carson746/index1/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/85621766"/>
-    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
     <schema:name xml:lang="en">Ciaran Carson papers, circa 1970-2010; Series 4: Printed material, 1975-2008</schema:name>
     <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/carson746/series4/subseries4.2/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/carson746/series4/subseries4.1/"/>
+    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/carson746/series4/subseries4.3/"/>
     <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/carson746/index1/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/85621766"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/85621766">
     <rdf:type rdf:resource="http://schema.org/Person"/>

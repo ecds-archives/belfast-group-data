@@ -4,31 +4,52 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m7b#longley1_10298">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>THE JOURNEY</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+  <rdf:Description rdf:nodeID="Nc55ff5526fcb4469bedc419fa3abd934">
+    <rdf:rest rdf:nodeID="Nac1c6bfaff7a4768bac5f335defc01dc"/>
+    <rdf:first>No Continuing City</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N786070e9acff4474b912ce02748cc92a">
+    <rdf:first>The Hebrides                 </rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N536814cff1ba40599a6a0a3f1b97f482">
+    <rdf:first>The Journey</rdf:first>
+    <rdf:rest rdf:nodeID="Ne161303fe7414f71bb3574b08b0a6120"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m7b#longley1_10315">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:mentions rdf:resource="http://sws.geonames.org/2647204/"/>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
     <schema:name>THE HEBRIDES
                         </schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nac1c6bfaff7a4768bac5f335defc01dc">
+    <rdf:rest rdf:nodeID="N536814cff1ba40599a6a0a3f1b97f482"/>
+    <rdf:first>A Slight Adultery</rdf:first>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
-    <schema:name>MICHAEL LONGLEY</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>MICHAEL LONGLEY</schema:name>
     <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nbb38daad6f2d4dfe96b9734f4216ad7e">
-    <rdf:rest rdf:nodeID="N211b1942b05e45bd899e9568b9a36fa3"/>
-    <rdf:first>No Continuing City</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m7b#longley1_10293">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>A SLIGHT ADULTERY</schema:name>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/eac1a0f7a6265915b167047f868027e7">
+    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <dc:title rdf:nodeID="Nc55ff5526fcb4469bedc419fa3abd934"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m7b"/>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd2207220179b4ae3b3eb5e30c4abc6b4">
+    <rdf:rest rdf:nodeID="N786070e9acff4474b912ce02748cc92a"/>
+    <rdf:first>Her Mime of the Lame Seagull</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2647204/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Hebrides</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne161303fe7414f71bb3574b08b0a6120">
+    <rdf:first>To Edna</rdf:first>
+    <rdf:rest rdf:nodeID="Nd2207220179b4ae3b3eb5e30c4abc6b4"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m7b#longley1_10308">
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
@@ -37,45 +58,24 @@
                             HER MIME OF THE LAME SEAGULL
                         </schema:name>
   </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m7b#longley1_10298">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>THE JOURNEY</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m7b#longley1_10288">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
     <schema:name>NO CONTINUING CITY</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N29079be24ee14cee9314231ff4940942">
-    <rdf:first>The Hebrides                 </rdf:first>
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/eac1a0f7a6265915b167047f868027e7">
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m7b"/>
-    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
-    <dc:title rdf:nodeID="Nbb38daad6f2d4dfe96b9734f4216ad7e"/>
-    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2647204/">
-    <schema:name>Hebrides</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N8bb2c63f2b834d61b02865045a41b04c">
-    <rdf:first>To Edna</rdf:first>
-    <rdf:rest rdf:nodeID="Na4395dd5a41f44c79b26f1389051556e"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m7b#longley1_10303">
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:name>TO EDNA</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N211b1942b05e45bd899e9568b9a36fa3">
-    <rdf:first>A Slight Adultery</rdf:first>
-    <rdf:rest rdf:nodeID="Na46669cd3f7c48f9821f25bc1fa0eb28"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Na46669cd3f7c48f9821f25bc1fa0eb28">
-    <rdf:rest rdf:nodeID="N8bb2c63f2b834d61b02865045a41b04c"/>
-    <rdf:first>The Journey</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Na4395dd5a41f44c79b26f1389051556e">
-    <rdf:rest rdf:nodeID="N29079be24ee14cee9314231ff4940942"/>
-    <rdf:first>Her Mime of the Lame Seagull</rdf:first>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m7b#longley1_10293">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>A SLIGHT ADULTERY</schema:name>
   </rdf:Description>
 </rdf:RDF>

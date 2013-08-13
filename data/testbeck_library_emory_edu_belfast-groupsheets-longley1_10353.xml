@@ -4,37 +4,36 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="Na2d8f0a9f70748e1a5b589c5d3a8b50e">
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/f38defbd0d6fb4b87506429dd0e89709">
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m8g"/>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
+    <dc:title rdf:nodeID="Nb5cc0bccb7014b5091009ddcacb47eca"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb5cc0bccb7014b5091009ddcacb47eca">
     <rdf:first>To the Poets</rdf:first>
-    <rdf:rest rdf:nodeID="N1f24da4ffa35406bb845443902b15766"/>
+    <rdf:rest rdf:nodeID="Na4042cea63164e83a039e6bfa87d827c"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne8c9ac96c8874bd69aeb73301c6366ba">
+    <rdf:rest rdf:nodeID="N65af5c5d074249ca8d28acafaa210bdf"/>
+    <rdf:first>The North</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N65af5c5d074249ca8d28acafaa210bdf">
+    <rdf:rest rdf:nodeID="Nfc465180ed5a4b13a614db3115948fac"/>
+    <rdf:first>Lares</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na4042cea63164e83a039e6bfa87d827c">
+    <rdf:first>Mountain Swim</rdf:first>
+    <rdf:rest rdf:nodeID="N46eeeeb7784d4d7da120ea8971631d06"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m8g#longley1_10322">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
     <schema:name>TO THE POETS</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc8296f85dfed4917b18cac2c9f543578">
-    <rdf:first>A Nativity</rdf:first>
-    <rdf:rest rdf:nodeID="Nc1f3f052e4ec4f6db032ef8388e64b88"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m8g#longley1_10347">
     <schema:name>LARES</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/f38defbd0d6fb4b87506429dd0e89709">
-    <dc:title rdf:nodeID="Na2d8f0a9f70748e1a5b589c5d3a8b50e"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
-    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m8g"/>
-    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nb21f93db612d44fe96371fe4cf73fedf">
-    <rdf:first>The North</rdf:first>
-    <rdf:rest rdf:nodeID="N21234013fa094d2993937fcde0ab0d29"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m8g#longley1_10352">
-    <schema:name>CARAVAN</schema:name>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
   </rdf:Description>
@@ -43,40 +42,41 @@
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
     <schema:name>MISCARRIAGE</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N9711c028102b4e25b7fcc62dc45f5e85">
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m8g#longley1_10352">
+    <schema:name>CARAVAN</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfc465180ed5a4b13a614db3115948fac">
     <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
     <rdf:first>Caravan</rdf:first>
   </rdf:Description>
+  <rdf:Description rdf:nodeID="N65f3f2b7395248c78403401bf25d5843">
+    <rdf:first>Miscarriage</rdf:first>
+    <rdf:rest rdf:nodeID="Ne8c9ac96c8874bd69aeb73301c6366ba"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N46eeeeb7784d4d7da120ea8971631d06">
+    <rdf:first>A Nativity</rdf:first>
+    <rdf:rest rdf:nodeID="N65f3f2b7395248c78403401bf25d5843"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name>MICHAEL LONGLEY</schema:name>
     <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m8g#longley1_10342">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>THE NORTH</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N1f24da4ffa35406bb845443902b15766">
-    <rdf:first>Mountain Swim</rdf:first>
-    <rdf:rest rdf:nodeID="Nc8296f85dfed4917b18cac2c9f543578"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m8g#longley1_10332">
+    <schema:name>A NATIVITY</schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>A NATIVITY</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m8g#longley1_10342">
+    <schema:name>THE NORTH</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m8g#longley1_10327">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
     <schema:name>MOUNTAIN SWIM</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc1f3f052e4ec4f6db032ef8388e64b88">
-    <rdf:rest rdf:nodeID="Nb21f93db612d44fe96371fe4cf73fedf"/>
-    <rdf:first>Miscarriage</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N21234013fa094d2993937fcde0ab0d29">
-    <rdf:rest rdf:nodeID="N9711c028102b4e25b7fcc62dc45f5e85"/>
-    <rdf:first>Lares</rdf:first>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
 </rdf:RDF>

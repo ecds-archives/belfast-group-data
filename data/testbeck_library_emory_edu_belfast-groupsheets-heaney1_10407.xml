@@ -4,113 +4,113 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/c5e42dc1bbfc6286fd303c0ef8af4cb4">
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
-    <schema:name>POEMS BY SEAMUS HEANEY</schema:name>
-    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17ktk"/>
-    <dc:title rdf:nodeID="N1b11a352aeee459594d50440235399cc"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N561b08c91b88450ebaba4c365c636f93">
-    <rdf:first>Limbo</rdf:first>
-    <rdf:rest rdf:nodeID="Nc3e462963a534f52831573ff27543ec5"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N1b11a352aeee459594d50440235399cc">
-    <rdf:first>Icon</rdf:first>
-    <rdf:rest rdf:nodeID="N561b08c91b88450ebaba4c365c636f93"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ktk#heaney1_10406">
     <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
     <schema:name>BYE-CHILD</schema:name>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ktk#heaney1_10391">
-    <schema:name>HIGH STREET, BELFAST, 1786</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Patrick">
+    <schema:name>Patrick</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Ne507753c28174beb95ebee590f6c9e62">
-    <rdf:first>Bye-Child</rdf:first>
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ktk#heaney1_10396">
-    <schema:mentions rdf:resource="http://sws.geonames.org/2800931/"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <schema:name>TWEED</schema:name>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2750405/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2750405/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name>Netherlands</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2966406/">
-    <schema:name>Ballyshannon</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nbfb2293d8e3d4897a2757be3718f69f9">
+  <rdf:Description rdf:nodeID="Ncf4285d954b040d9926fbfbc9d517cd8">
     <rdf:first>High Street, Belfast, 1786</rdf:first>
-    <rdf:rest rdf:nodeID="N6cb501298fec4ba3a8daa8de0b6c9939"/>
+    <rdf:rest rdf:nodeID="N8aa4053228224369a4a40c83e278aaa2"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc3e462963a534f52831573ff27543ec5">
-    <rdf:first>Wedding Day</rdf:first>
-    <rdf:rest rdf:nodeID="N34069a74a4984716a69b3ee6406f0c31"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ktk#heaney1_10376">
-    <schema:mentions rdf:resource="http://sws.geonames.org/2966406/"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <schema:name>LIMBO</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N6cb501298fec4ba3a8daa8de0b6c9939">
-    <rdf:rest rdf:nodeID="Nbae340b53912428788903436ba4977e4"/>
+  <rdf:Description rdf:nodeID="N8aa4053228224369a4a40c83e278aaa2">
+    <rdf:rest rdf:nodeID="Nad6dca15c7564879b273247cbe94698b"/>
     <rdf:first>Tweed</rdf:first>
   </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/3170336/">
-    <schema:name>Pompei</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Patrick">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name>Patrick</schema:name>
+  <rdf:Description rdf:nodeID="N3a94188ab62640d7b31ea27336cc6db9">
+    <rdf:first>The Last Mummer</rdf:first>
+    <rdf:rest rdf:nodeID="Ncf4285d954b040d9926fbfbc9d517cd8"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ktk#heaney1_10386">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
     <schema:name>THE LAST MUMMER</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N34069a74a4984716a69b3ee6406f0c31">
-    <rdf:rest rdf:nodeID="Nbfb2293d8e3d4897a2757be3718f69f9"/>
-    <rdf:first>The Last Mummer</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ktk#heaney1_10381">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>WEDDING DAY</schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ktk#heaney1_10371">
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <schema:name>ICON</schema:name>
-    <schema:mentions rdf:resource="http://dbpedia.org/resource/Saint_Patrick"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
-    <schema:name>Seamus Heaney</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2800931/">
     <rdf:type rdf:resource="http://schema.org/Place"/>
     <schema:name>Bruges</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ktk#heaney1_10401">
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ktk#heaney1_10381">
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>WEDDING DAY</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ktk#heaney1_10396">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/3170336/"/>
-    <schema:name>DAWN</schema:name>
+    <schema:name>TWEED</schema:name>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2800931/"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2750405/"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nbae340b53912428788903436ba4977e4">
-    <rdf:rest rdf:nodeID="Ne507753c28174beb95ebee590f6c9e62"/>
+  <rdf:Description rdf:nodeID="Nb7679744707148f7b7ceb719185ca904">
+    <rdf:first>Limbo</rdf:first>
+    <rdf:rest rdf:nodeID="N7d630836e49e4a5f86789395b9d64b63"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7d630836e49e4a5f86789395b9d64b63">
+    <rdf:first>Wedding Day</rdf:first>
+    <rdf:rest rdf:nodeID="N3a94188ab62640d7b31ea27336cc6db9"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8545a3c914a74b1a8ce6db35e03b5ebb">
+    <rdf:rest rdf:nodeID="Nb7679744707148f7b7ceb719185ca904"/>
+    <rdf:first>Icon</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndc643dd8d83f47d9a6598276fd1ebb5d">
+    <rdf:first>Bye-Child</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
+    <schema:name>Seamus Heaney</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nad6dca15c7564879b273247cbe94698b">
     <rdf:first>Dawn</rdf:first>
+    <rdf:rest rdf:nodeID="Ndc643dd8d83f47d9a6598276fd1ebb5d"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2750405/">
+    <schema:name>Netherlands</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ktk#heaney1_10371">
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Saint_Patrick"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>ICON</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ktk#heaney1_10401">
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>DAWN</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/3170336/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2966406/">
+    <schema:name>Ballyshannon</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/3170336/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Pompei</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/c5e42dc1bbfc6286fd303c0ef8af4cb4">
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <dc:title rdf:nodeID="N8545a3c914a74b1a8ce6db35e03b5ebb"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17ktk"/>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <schema:name>POEMS BY SEAMUS HEANEY</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ktk#heaney1_10376">
+    <schema:mentions rdf:resource="http://sws.geonames.org/2966406/"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>LIMBO</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17ktk#heaney1_10391">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>HIGH STREET, BELFAST, 1786</schema:name>
   </rdf:Description>
 </rdf:RDF>

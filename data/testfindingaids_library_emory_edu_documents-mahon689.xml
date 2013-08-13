@@ -6,204 +6,68 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
+  <rdf:Description rdf:about="http://sws.geonames.org/6252001/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">United States</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Penguin_Books">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Penguin</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N10e018da19a84aaa8219382edc67b2c6">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Emory University</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2643743/">
+    <schema:name xml:lang="en">London</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BBC">
+    <schema:name xml:lang="en">BBC</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/8zm5r">
+    <schema:about xml:lang="en">http://viaf.org/viaf/110228045</schema:about>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateCreated xml:lang="en">2007-11-02</schema:dateCreated>
+    <schema:name xml:lang="en">Derek Mahon papers, circa 1948-2008</schema:name>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series10/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series5/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series6/"/>
+    <owl:sameAs rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series7/"/>
+    <schema:about rdf:nodeID="N4b8cf3f7b9234132be5c953365c0e563"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series8/"/>
+    <schema:publisher rdf:nodeID="N10e018da19a84aaa8219382edc67b2c6"/>
+    <schema:author xml:lang="en">Manuscript, Archives, and Rare Book Library, Emory           University</schema:author>
+    <schema:datePublished xml:lang="en">2007-11-02</schema:datePublished>
+    <schema:url xml:lang="en">http://pid.emory.edu/ark:/25593/8zm5r</schema:url>
+    <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series9/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series1/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series4/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series3/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/24613408">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Peter Fallon</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/3333218/">
+    <schema:name xml:lang="en">England</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vogue_magazine">
     <rdf:type rdf:resource="http://schema.org/Organization"/>
     <schema:name xml:lang="en">
                     Vogue
                 </schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/76315726">
-    <schema:name xml:lang="en">Friel, Brian, 1948-</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Brian Friel</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/92591927">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">James Simmons</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Icarus_(magazine)">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">
-                    Icarus
-                </schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2637761/">
-    <schema:name xml:lang="en">Ireland</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">Northern Ireland</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/98548196">
-    <schema:name xml:lang="en">John Montague</schema:name>
-    <schema:name xml:lang="en">Montague, John.</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/83076151">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Harold Pinter</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nd680d0cdeb9046a29aaff5eb644b1bd2">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/7386737"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series4/subseries4.3/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.1/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series6/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series1/"/>
-    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zm4m"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.7/"/>
-    <schema:mentions rdf:resource="http://dbpedia.org/resource/The_Irish_Times"/>
-    <schema:name xml:lang="en"> Derek Mahon papers, 1948-2008
-            
-             </schema:name>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.2/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/36913224"/>
-    <schema:keywords xml:lang="en">Merwin, W. S. (William Stanley), 1927-</schema:keywords>
-    <schema:keywords xml:lang="en">Poets, Irish-20th century.</schema:keywords>
-    <schema:keywords xml:lang="en">Friel, Brian, 1948-</schema:keywords>
-    <schema:creator rdf:resource="http://viaf.org/viaf/110228045"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/110923132"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series9/"/>
-    <schema:keywords xml:lang="en">Montague, John.</schema:keywords>
-    <schema:keywords xml:lang="en">French literature-Translations into English</schema:keywords>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.3/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/7386737"/>
-    <schema:keywords xml:lang="en">Poems.</schema:keywords>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.1/subseries2.1a/"/>
-    <schema:keywords xml:lang="en">Berkeley, Sara, 1967-</schema:keywords>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/76363549"/>
-    <schema:jobTitle xml:lang="en">Poet.</schema:jobTitle>
-    <schema:about rdf:resource="http://viaf.org/viaf/76363549"/>
-    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8z8zw"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.6/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series10/"/>
-    <schema:description xml:lang="en">Papers of poet Derek Mahon, including correspondence, literary
-        manuscripts, collected printed material, photographs, audiovisual material, legal and
-        financial papers, subject files, and ephemera.
-            </schema:description>
-    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zn19"/>
-    <schema:keywords xml:lang="en">Sreenplays.</schema:keywords>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series3/"/>
-    <schema:keywords xml:lang="en">Simmons, James, 1933-</schema:keywords>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series4/subseries4.1/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/76315726"/>
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.1/subseries2.1b/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.4/"/>
-    <schema:keywords xml:lang="en">Stage adaptations.</schema:keywords>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/"/>
-    <schema:keywords xml:lang="en">Poet.</schema:keywords>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/92591927"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/26912311"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/24613408"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/2601174"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/98548196"/>
-    <schema:keywords xml:lang="en">Hecht, Anthony, 1923-2004</schema:keywords>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/39398205"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/76315726"/>
-    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zkmf"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/110923132"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series5/"/>
-    <rdf:type rdf:resource="http://purl.org/archival/vocab/arch#Collection"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series7/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.5/"/>
-    <schema:keywords xml:lang="en">Manuscripts.</schema:keywords>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/60577"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/109557338"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series4/subseries4.2/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/166981043"/>
-    <schema:keywords xml:lang="en">Heaney, Seamus, 1939-</schema:keywords>
-    <schema:keywords xml:lang="en">Irish poetry-20th century.</schema:keywords>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series5/subseries5.2/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/109557338"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series8/"/>
-    <schema:keywords xml:lang="en">Longley, Michael, 1939-</schema:keywords>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/83076151"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series4/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/26912311"/>
-    <schema:keywords xml:lang="en">English poetry-Irish authors.</schema:keywords>
-    <schema:about rdf:resource="http://viaf.org/viaf/39398205"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/107572951"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/98548196"/>
-    <schema:keywords xml:lang="en">Beckett, Samuel, 1906-1989</schema:keywords>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series5/subseries5.1/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/166981043">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Aidan Higgins</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/3333223/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">Belfast, Northern Ireland</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Ulster">
-    <schema:name xml:lang="en">New
-          University of Ulster</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Listener_(magazine)">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">
-                    Listener
-                </schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2643743/">
-    <schema:name xml:lang="en">London</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Coleraine">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">Coleraine</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/BBC">
-    <schema:name xml:lang="en">BBC</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/76363549">
-    <schema:name xml:lang="en">Anthony Hecht</schema:name>
-    <schema:name xml:lang="en">Hecht, Anthony, 1923-2004</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/60577">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Eamon Grennan</schema:name>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/110923132">
     <schema:name xml:lang="en">W.S. Merwin</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">Merwin, W. S. (William Stanley), 1927-</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/6251999/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">Canada</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/3333218/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">England</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/26912311">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Sara Berkeley</schema:name>
-    <schema:name xml:lang="en">Berkeley, Sara, 1967-</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
-    <schema:name xml:lang="en">Michael Longley</schema:name>
-    <schema:name xml:lang="en">Longley, Michael, 1939-</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Observer">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">
-                    Observer
-                </schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2964574/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">Dublin</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Irish_Times">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">
-                    The Irish Times
-                </schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/New_Statesman">
     <schema:name xml:lang="en">
@@ -211,49 +75,160 @@
                 </schema:name>
     <rdf:type rdf:resource="http://schema.org/Organization"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Oxford_university_press">
+  <rdf:Description rdf:nodeID="N4b8cf3f7b9234132be5c953365c0e563">
+    <schema:jobTitle xml:lang="en">Poet.</schema:jobTitle>
+    <schema:keywords xml:lang="en">Stage adaptations.</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.2/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.6/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.1/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/110923132"/>
+    <schema:keywords xml:lang="en">Sreenplays.</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series4/subseries4.1/"/>
+    <schema:keywords xml:lang="en">French literature-Translations into English</schema:keywords>
+    <schema:keywords xml:lang="en">English poetry-Irish authors.</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.1/subseries2.1a/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/98548196"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/26912311"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series10/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://purl.org/archival/vocab/arch#Collection"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series7/"/>
+    <schema:keywords xml:lang="en">Merwin, W. S. (William Stanley), 1927-</schema:keywords>
+    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zkmf"/>
+    <schema:keywords xml:lang="en">Hecht, Anthony, 1923-2004</schema:keywords>
+    <schema:about rdf:resource="http://viaf.org/viaf/26912311"/>
+    <schema:keywords xml:lang="en">Manuscripts.</schema:keywords>
+    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8z8zw"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/76363549"/>
+    <schema:name xml:lang="en"> Derek Mahon papers, 1948-2008
+            
+             </schema:name>
+    <schema:keywords xml:lang="en">Friel, Brian, 1948-</schema:keywords>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/36913224"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/76315726"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series3/"/>
+    <schema:keywords xml:lang="en">Berkeley, Sara, 1967-</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series5/subseries5.2/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series4/subseries4.2/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/7386737"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.1/subseries2.1b/"/>
+    <schema:keywords xml:lang="en">Beckett, Samuel, 1906-1989</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.3/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series6/"/>
+    <schema:description xml:lang="en">Papers of poet Derek Mahon, including correspondence, literary
+        manuscripts, collected printed material, photographs, audiovisual material, legal and
+        financial papers, subject files, and ephemera.
+            </schema:description>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/The_Irish_Times"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series8/"/>
+    <schema:keywords xml:lang="en">Poems.</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.4/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/98548196"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.5/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series4/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/60577"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/39398205"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:keywords xml:lang="en">Simmons, James, 1933-</schema:keywords>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/110923132"/>
+    <schema:keywords xml:lang="en">Poet.</schema:keywords>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/107572951"/>
+    <schema:keywords xml:lang="en">Heaney, Seamus, 1939-</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series1/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/subseries2.7/"/>
+    <schema:keywords xml:lang="en">Montague, John.</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series5/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series5/subseries5.1/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/76315726"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/7386737"/>
+    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zn19"/>
+    <schema:keywords xml:lang="en">Longley, Michael, 1939-</schema:keywords>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/83076151"/>
+    <schema:creator rdf:resource="http://viaf.org/viaf/110228045"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/76363549"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/166981043"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/2601174"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series9/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/92591927"/>
+    <schema:relatedLink rdf:resource="http://pid.emory.edu/ark:/25593/8zm4m"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:keywords xml:lang="en">Irish poetry-20th century.</schema:keywords>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/24613408"/>
+    <schema:keywords xml:lang="en">Poets, Irish-20th century.</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series4/subseries4.3/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/98548196">
+    <schema:name xml:lang="en">Montague, John.</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">John Montague</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/92591927">
+    <schema:name xml:lang="en">James Simmons</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Times_Literary_Supplement">
     <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Oxford University
-          Press</schema:name>
+    <schema:name xml:lang="en">
+                    Times
+            Literary Supplement
+                </schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/New_York">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">New York</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N41c5614524cd44fe94ec1e6ac5f5532e">
-    <schema:name xml:lang="en">Emory University</schema:name>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Ulster">
     <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">New
+          University of Ulster</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Belfast Royal Academical Institution</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/24613408">
+  <rdf:Description rdf:about="http://viaf.org/viaf/76363549">
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Peter Fallon</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/36913224">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Brian Moore</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/7386737">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Samuel Beckett</schema:name>
-    <schema:name xml:lang="en">Beckett, Samuel, 1906-1989</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/107572951">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Douglas Dunn</schema:name>
+    <schema:name xml:lang="en">Hecht, Anthony, 1923-2004</schema:name>
+    <schema:name xml:lang="en">Anthony Hecht</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/2601174">
     <schema:name xml:lang="en">Simmons, James, 1933-</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/6251999/">
+    <schema:name xml:lang="en">Canada</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2637761/">
+    <schema:name xml:lang="en">Ireland</schema:name>
+    <schema:name xml:lang="en">Northern Ireland</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/24603159">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Jennifer
+          Johnston</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/166981043">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Aidan Higgins</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/107572951">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Douglas Dunn</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
+    <schema:name xml:lang="en">Longley, Michael, 1939-</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Michael Longley</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_York">
+    <schema:name xml:lang="en">New York</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/110228045">
-    <schema:workLocation rdf:resource="http://sws.geonames.org/2637761/"/>
-    <schema:homeLocaton rdf:resource="http://sws.geonames.org/2637761/"/>
-    <schema:colleague rdf:resource="http://viaf.org/viaf/24613408"/>
+    <schema:homeLocation rdf:resource="http://sws.geonames.org/2643743/"/>
+    <schema:workLocation rdf:resource="http://sws.geonames.org/6251999/"/>
     <schema:mentions rdf:resource="http://dbpedia.org/resource/Vogue_magazine"/>
+    <dbp:birthPlace rdf:resource="http://sws.geonames.org/3333223/"/>
+    <schema:workLocation rdf:resource="http://sws.geonames.org/2637761/"/>
+    <schema:workLocation rdf:resource="http://sws.geonames.org/6252001/"/>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/New_Statesman"/>
     <schema:description xml:lang="en">
       
         Derek Mahon was born in Belfast, Northern Ireland, on November 23, 1941. He was educated at the Belfast Royal Academical Institution and at Trinity College, Dublin, where he majored in French (1960-1965). In 1960 he began publishing poems in Icarus , a student literary magazine, and in 1965 he received the Eric Gregory Award for poetry. For the next few years, Mahon held a variety of teaching jobs in Ireland, England, France, Canada, and the United States. His first collection of poems, the chapbook Twelve Poems, was published by Queens University in 1965. His first major collection, Night Crossing, was published by Oxford University Press in 1968.
@@ -267,89 +242,114 @@
         In 1995 Mahon moved from New York to Dublin, where he still lives, and in the fall of 1997 Gallery Press published The Yellow Book. In 1998, he published his translations of Philippe Jacottet's poetry as Words In the Air. His Collected Poems, also published by Gallery, was released in November 1999; this collection represents, according to the publisher, "the poems the author 'wishes to preserve' from the work of forty years." Some months later, Penguin issued a shorter collection of his poems in the U.K., entitled Selected Poems (2000).
       
     </schema:description>
-    <schema:colleague rdf:resource="http://viaf.org/viaf/24603159"/>
     <schema:mentions rdf:resource="http://dbpedia.org/resource/Penguin_Books"/>
-    <schema:homeLocation rdf:resource="http://sws.geonames.org/2643743/"/>
-    <dbp:birthPlace rdf:resource="http://sws.geonames.org/3333223/"/>
-    <schema:alumniOf rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-    <schema:alumniOf rdf:resource="http://dbpedia.org/resource/Trinity_College,_Dublin"/>
-    <schema:workLocation rdf:resource="http://sws.geonames.org/6251999/"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:homeLocation rdf:resource="http://dbpedia.org/resource/New_York"/>
-    <schema:mentions rdf:resource="http://dbpedia.org/resource/Icarus_(magazine)"/>
-    <schema:homeLocation rdf:resource="http://sws.geonames.org/2964574/"/>
-    <schema:mentions rdf:resource="http://dbpedia.org/resource/New_Statesman"/>
-    <schema:birthDate xml:lang="en">1941-11-23</schema:birthDate>
+    <schema:workLocation rdf:resource="http://sws.geonames.org/3017382/"/>
     <schema:mentions rdf:resource="http://dbpedia.org/resource/Times_Literary_Supplement"/>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Oxford_university_press"/>
+    <schema:homeLocation rdf:resource="http://sws.geonames.org/2964574/"/>
+    <schema:alumniOf rdf:resource="http://dbpedia.org/resource/Trinity_College,_Dublin"/>
+    <schema:colleague rdf:resource="http://viaf.org/viaf/24613408"/>
+    <schema:homeLocation rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <schema:colleague rdf:resource="http://viaf.org/viaf/24603159"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:workLocation rdf:resource="http://sws.geonames.org/3333218/"/>
     <schema:name xml:lang="en">Mahon, Derek,
           1941-</schema:name>
-    <schema:workLocation rdf:resource="http://sws.geonames.org/3333218/"/>
-    <schema:mentions rdf:resource="http://dbpedia.org/resource/The_Listener_(magazine)"/>
-    <schema:jobTitle xml:lang="en">Poet</schema:jobTitle>
-    <schema:worksFor rdf:resource="http://dbpedia.org/resource/University_of_Ulster"/>
-    <schema:workLocation rdf:resource="http://dbpedia.org/resource/Coleraine"/>
     <schema:mentions rdf:resource="http://dbpedia.org/resource/The_Observer"/>
-    <schema:workLocation rdf:resource="http://sws.geonames.org/6252001/"/>
+    <schema:jobTitle xml:lang="en">Poet</schema:jobTitle>
+    <schema:workLocation rdf:resource="http://dbpedia.org/resource/Coleraine"/>
     <schema:worksFor rdf:resource="http://dbpedia.org/resource/BBC"/>
-    <schema:workLocation rdf:resource="http://sws.geonames.org/3017382/"/>
-    <schema:mentions rdf:resource="http://dbpedia.org/resource/Oxford_university_press"/>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/The_Listener_(magazine)"/>
+    <schema:worksFor rdf:resource="http://dbpedia.org/resource/University_of_Ulster"/>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Icarus_(magazine)"/>
+    <schema:homeLocaton rdf:resource="http://sws.geonames.org/2637761/"/>
+    <schema:alumniOf rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
+    <schema:birthDate xml:lang="en">1941-11-23</schema:birthDate>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/8zm5r">
-    <schema:about xml:lang="en">http://viaf.org/viaf/110228045</schema:about>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series10/"/>
-    <schema:datePublished xml:lang="en">2007-11-02</schema:datePublished>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series2/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series1/"/>
-    <schema:author xml:lang="en">Manuscript, Archives, and Rare Book Library, Emory           University</schema:author>
-    <schema:publisher rdf:nodeID="N41c5614524cd44fe94ec1e6ac5f5532e"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series3/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series6/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series9/"/>
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
-    <schema:url xml:lang="en">http://pid.emory.edu/ark:/25593/8zm5r</schema:url>
-    <owl:sameAs rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/"/>
-    <schema:name xml:lang="en">Derek Mahon papers, circa 1948-2008</schema:name>
-    <schema:about rdf:nodeID="Nd680d0cdeb9046a29aaff5eb644b1bd2"/>
-    <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series4/"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:dateCreated xml:lang="en">2007-11-02</schema:dateCreated>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series8/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series7/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/mahon689/series5/"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/26912311">
+    <schema:name xml:lang="en">Sara Berkeley</schema:name>
+    <schema:name xml:lang="en">Berkeley, Sara, 1967-</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/3017382/">
-    <schema:name xml:lang="en">France</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/60577">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Eamon Grennan</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2964574/">
+    <schema:name xml:lang="en">Dublin</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Times_Literary_Supplement">
-    <schema:name xml:lang="en">
-                    Times
-            Literary Supplement
-                </schema:name>
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/6252001/">
-    <schema:name xml:lang="en">United States</schema:name>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coleraine">
+    <schema:name xml:lang="en">Coleraine</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/24603159">
+  <rdf:Description rdf:about="http://viaf.org/viaf/83076151">
+    <schema:name xml:lang="en">Harold Pinter</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Jennifer
-          Johnston</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Heaney, Seamus, 1939-</schema:name>
-    <schema:name xml:lang="en">Seamus Heaney</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Penguin_Books">
-    <schema:name xml:lang="en">Penguin</schema:name>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution">
+    <schema:name xml:lang="en">Belfast Royal Academical Institution</schema:name>
     <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/3333223/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">Belfast, Northern Ireland</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Trinity_College,_Dublin">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
     <schema:name xml:lang="en">Trinity
           College, Dublin</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oxford_university_press">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Oxford University
+          Press</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/3017382/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">France</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/36913224">
+    <schema:name xml:lang="en">Brian Moore</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
+    <schema:name xml:lang="en">Seamus Heaney</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Heaney, Seamus, 1939-</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Listener_(magazine)">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">
+                    Listener
+                </schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Observer">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">
+                    Observer
+                </schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Irish_Times">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">
+                    The Irish Times
+                </schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/7386737">
+    <schema:name xml:lang="en">Samuel Beckett</schema:name>
+    <schema:name xml:lang="en">Beckett, Samuel, 1906-1989</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/76315726">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Brian Friel</schema:name>
+    <schema:name xml:lang="en">Friel, Brian, 1948-</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Icarus_(magazine)">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">
+                    Icarus
+                </schema:name>
   </rdf:Description>
 </rdf:RDF>

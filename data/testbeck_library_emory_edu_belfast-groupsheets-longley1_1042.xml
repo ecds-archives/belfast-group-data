@@ -4,87 +4,104 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="N9e6a2a94920648e28ea268cc72c48058">
-    <rdf:first>Badger</rdf:first>
-    <rdf:rest rdf:nodeID="Nb13cd9eb90ec44d796fc4d7d6be1d326"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_1036">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>ROBIN</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N9bbd3078e16f46ad82e39596f071025d">
-    <rdf:rest rdf:nodeID="N9e6a2a94920648e28ea268cc72c48058"/>
-    <rdf:first>Casuality</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_1041">
-    <schema:name>THE ADULTERER</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_108">
-    <schema:name>ALTERA CITHERA</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/100227925"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/100907186"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N4179576b81dc42f3b961fd9fe0821c1b">
-    <rdf:first>The Adulterer</rdf:first>
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/6b2a3f6f55acbf4594ec80146449aa69">
-    <dc:title rdf:nodeID="Ne5ff62e6a90042ceb95539366adfd82b"/>
-    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
-    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m0c"/>
-    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Ne5ff62e6a90042ceb95539366adfd82b">
-    <rdf:rest rdf:nodeID="Nfb6cfa12e1c14cbf97949618086c106f"/>
-    <rdf:first>Altera Cithera</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_1016">
-    <schema:mentions rdf:resource="http://www.geonames.org/2802361/"/>
-    <schema:name>THE ISLAND</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/158900335"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name>MICHAEL LONGLEY</schema:name>
-  </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_1032">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:name>KINGFISHER</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N56237303ea1e4610ad2c34505ac385f8">
-    <rdf:first>Robin</rdf:first>
-    <rdf:rest rdf:nodeID="N4179576b81dc42f3b961fd9fe0821c1b"/>
+  <rdf:Description rdf:nodeID="Nb0e61e786517467ebc4cd4092b363f06">
+    <rdf:first>Hedgehog</rdf:first>
+    <rdf:rest rdf:nodeID="N2559768a12d74999960d1ab2e2a4ef3a"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc3c42dc372cd4a28b12eef706b5ed2c2">
-    <rdf:rest rdf:nodeID="N56237303ea1e4610ad2c34505ac385f8"/>
-    <rdf:first>Kingfisher</rdf:first>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_1020">
+    <schema:name>CASUALITY</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/100227925">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name>Caesar</schema:name>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_108">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/100907186"/>
+    <schema:name>ALTERA CITHERA</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/100227925"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc631e9dd0a2b4dc0ae415b1440d2fe4a">
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_1041">
+    <schema:name>THE ADULTERER</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/158900335">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name>Capuchin</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfcc04451ec494b7b8fa165f2687a8f2d">
+    <rdf:first>Casuality</rdf:first>
+    <rdf:rest rdf:nodeID="N15eb1023c37b4b4592cf55e5b3ee157e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_1024">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>BADGER</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_1012">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name> 
+THREE POSTHUMOUS PIECES</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb63017b393ab407cb4d82655d6fc4a75">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first>The Adulterer</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd7a15a8b869141649f5ed1562592c86e">
+    <rdf:rest rdf:nodeID="Nfcc04451ec494b7b8fa165f2687a8f2d"/>
     <rdf:first>The Island</rdf:first>
-    <rdf:rest rdf:nodeID="N9bbd3078e16f46ad82e39596f071025d"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/51703338">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name>John Clare</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/100907186">
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name>Sextus Propertius</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nb13cd9eb90ec44d796fc4d7d6be1d326">
-    <rdf:rest rdf:nodeID="Nc3c42dc372cd4a28b12eef706b5ed2c2"/>
-    <rdf:first>Hedgehog</rdf:first>
+  <rdf:Description rdf:nodeID="N15eb1023c37b4b4592cf55e5b3ee157e">
+    <rdf:rest rdf:nodeID="Nb0e61e786517467ebc4cd4092b363f06"/>
+    <rdf:first>Badger</rdf:first>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_1024">
-    <schema:name>BADGER</schema:name>
+  <rdf:Description rdf:about="http://www.geonames.org/2802361/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Belgian</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>MICHAEL LONGLEY</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N324146ab615949688e3123054e0830e3">
+    <rdf:first>Robin</rdf:first>
+    <rdf:rest rdf:nodeID="Nb63017b393ab407cb4d82655d6fc4a75"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/6b2a3f6f55acbf4594ec80146449aa69">
+    <dc:title rdf:nodeID="N32d6d711ae324248a72f1462038658f8"/>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m0c"/>
+    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/51703338">
+    <schema:name>John Clare</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100227925">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Caesar</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9562f9fe26b54f39b942de9253b19dee">
+    <rdf:rest rdf:nodeID="Nd7a15a8b869141649f5ed1562592c86e"/>
+    <rdf:first>Three Posthumous Pieces</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_1016">
+    <schema:name>THE ISLAND</schema:name>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/158900335"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:mentions rdf:resource="http://www.geonames.org/2802361/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2559768a12d74999960d1ab2e2a4ef3a">
+    <rdf:rest rdf:nodeID="N324146ab615949688e3123054e0830e3"/>
+    <rdf:first>Kingfisher</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_1036">
+    <schema:name>ROBIN</schema:name>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_1028">
@@ -92,25 +109,8 @@
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:name>HEDGEHOG</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_1012">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name> 
-THREE POSTHUMOUS PIECES</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nfb6cfa12e1c14cbf97949618086c106f">
-    <rdf:rest rdf:nodeID="Nc631e9dd0a2b4dc0ae415b1440d2fe4a"/>
-    <rdf:first>Three Posthumous Pieces</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m0c#longley1_1020">
-    <schema:name>CASUALITY</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/158900335">
-    <schema:name>Capuchin</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.geonames.org/2802361/">
-    <schema:name>Belgian</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
+  <rdf:Description rdf:nodeID="N32d6d711ae324248a72f1462038658f8">
+    <rdf:rest rdf:nodeID="N9562f9fe26b54f39b942de9253b19dee"/>
+    <rdf:first>Altera Cithera</rdf:first>
   </rdf:Description>
 </rdf:RDF>

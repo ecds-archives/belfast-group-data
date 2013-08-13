@@ -4,79 +4,79 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="Nd2500be302a44051beb243864ebae746">
-    <rdf:first>The Field Hospital</rdf:first>
-    <rdf:rest rdf:nodeID="Nd6ed4533240b44be8c84edda4cd0c1c7"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nffc82f6a14254f0fa5ae123b0431984a">
-    <rdf:first>The Radio Horse</rdf:first>
-    <rdf:rest rdf:nodeID="Nd2500be302a44051beb243864ebae746"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m9m#muldoon2_109">
-    <schema:name>BLOWING EGGS</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m9m#muldoon2_1024">
-    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>ON A DOG OF UNLIKE EYES</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/64048541">
-    <schema:name>Paul Muldoon</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m9m#muldoon2_1034">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
     <schema:name>THE UPRIVER INCIDENT</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m9m#muldoon2_1014">
+    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>THE RADIO HORSE</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N221209b7496c427c8f9b285bb5375145">
-    <rdf:first>Blowing Eggs</rdf:first>
-    <rdf:rest rdf:nodeID="Nffc82f6a14254f0fa5ae123b0431984a"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Na5aaf36bec054cee8fdc6a5eb9208058">
-    <rdf:rest rdf:nodeID="N2436e0a34a6545299b638eca05932d81"/>
-    <rdf:first>The Lost Tribe</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/ed50af8083dbf4d9861035e73388acac">
-    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m9m"/>
-    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
-    <dc:title rdf:nodeID="N221209b7496c427c8f9b285bb5375145"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
-    <schema:name>POEMS BY PAUL MULDOON</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nbc91a5ae62d74f14b0dce5a61451c086">
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-    <rdf:first>Party Piece</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m9m#muldoon2_1029">
-    <schema:name>THE LOST TRIBE</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nd6ed4533240b44be8c84edda4cd0c1c7">
-    <rdf:rest rdf:nodeID="Na5aaf36bec054cee8fdc6a5eb9208058"/>
-    <rdf:first>On a Dog of Unlike Eyes</rdf:first>
+  <rdf:Description rdf:nodeID="N2fd7864c513c4ba780e41dca475b0278">
+    <rdf:first>The Field Hospital</rdf:first>
+    <rdf:rest rdf:nodeID="Nce8c39664f3d4384b12950aa3d520d72"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m9m#muldoon2_1019">
+    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>THE FIELD HOSPITAL</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nce8c39664f3d4384b12950aa3d520d72">
+    <rdf:rest rdf:nodeID="N99721e2f79b245019ce2009d302fef9b"/>
+    <rdf:first>On a Dog of Unlike Eyes</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6579119cdc7e4fa9b41c68926c97af55">
+    <rdf:first>Party Piece</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb66fe3c7948041ee8fcd770f764c03ad">
+    <rdf:first>The Upriver Incident</rdf:first>
+    <rdf:rest rdf:nodeID="N6579119cdc7e4fa9b41c68926c97af55"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m9m#muldoon2_1024">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
-    <schema:name>THE FIELD HOSPITAL</schema:name>
+    <schema:name>ON A DOG OF UNLIKE EYES</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N901fadbfd5374cadbcb6da3650f22b4d">
+    <rdf:rest rdf:nodeID="Ne4319dfce27244578dd177c8b6100ef6"/>
+    <rdf:first>Blowing Eggs</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne4319dfce27244578dd177c8b6100ef6">
+    <rdf:rest rdf:nodeID="N2fd7864c513c4ba780e41dca475b0278"/>
+    <rdf:first>The Radio Horse</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/64048541">
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+    <schema:name>Paul Muldoon</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m9m#muldoon2_1039">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>PARTY PIECE</schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
+    <schema:name>PARTY PIECE</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N2436e0a34a6545299b638eca05932d81">
-    <rdf:rest rdf:nodeID="Nbc91a5ae62d74f14b0dce5a61451c086"/>
-    <rdf:first>The Upriver Incident</rdf:first>
+  <rdf:Description rdf:nodeID="N99721e2f79b245019ce2009d302fef9b">
+    <rdf:first>The Lost Tribe</rdf:first>
+    <rdf:rest rdf:nodeID="Nb66fe3c7948041ee8fcd770f764c03ad"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m9m#muldoon2_1014">
+    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
+    <schema:name>THE RADIO HORSE</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/ed50af8083dbf4d9861035e73388acac">
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
+    <schema:name>POEMS BY PAUL MULDOON</schema:name>
+    <dc:title rdf:nodeID="N901fadbfd5374cadbcb6da3650f22b4d"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m9m"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m9m#muldoon2_1029">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
+    <schema:name>THE LOST TRIBE</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m9m#muldoon2_109">
+    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>BLOWING EGGS</schema:name>
   </rdf:Description>
 </rdf:RDF>

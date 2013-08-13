@@ -4,78 +4,78 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="Naa50086ae0f5422593d5df08df394819">
-    <rdf:first>Obituary</rdf:first>
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kp1#heaney1_10174">
+    <schema:name>MID-TERM BREAK</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kp1#heaney1_10183">
+    <schema:name>MACKENNA'S SATURDAY NIGHT</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nec58afa8bceb43999140176560db0fee">
+    <rdf:rest rdf:nodeID="N9dfdf1a56e654ab0aee201dffa993c20"/>
+    <rdf:first>MacKenna's Saturday Night</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/c65d9f0740523fd698964dd9f0aba0a5">
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <dc:title rdf:nodeID="N00f82253a56245e49ee5b6b4d8e3c624"/>
+    <schema:name>POEMS BY SEAMUS HEANEY</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17kp1"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9dfdf1a56e654ab0aee201dffa993c20">
+    <rdf:first>Turkeys Observed</rdf:first>
+    <rdf:rest rdf:nodeID="Ndff7953daeb44d15bf621d074f9a28e7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kp1#heaney1_10188">
+    <schema:name>TURKEYS OBSERVED</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kp1#heaney1_10193">
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>THE INDOMITABLE IRISHRY</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kp1#heaney1_10169">
     <schema:name>OH BRAVE NEW BULL . . .</schema:name>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kp1#heaney1_10198">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>OBITUARY </schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N231b5293bc844e559666a1c8fca075a1">
+    <rdf:rest rdf:nodeID="Nec58afa8bceb43999140176560db0fee"/>
+    <rdf:first>A Pillar of the Community</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndff7953daeb44d15bf621d074f9a28e7">
+    <rdf:first>The Indomitable Irishry</rdf:first>
+    <rdf:rest rdf:nodeID="Nff7d0d4f8e9f4ee68dc0ea58ea6fd426"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N327023d6f05742529f39aa7fac6e1244">
+    <rdf:rest rdf:nodeID="N231b5293bc844e559666a1c8fca075a1"/>
+    <rdf:first>Mid-Term Break</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nff7d0d4f8e9f4ee68dc0ea58ea6fd426">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first>Obituary</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N00f82253a56245e49ee5b6b4d8e3c624">
+    <rdf:rest rdf:nodeID="N327023d6f05742529f39aa7fac6e1244"/>
+    <rdf:first>Oh Brave New Bull . . .</rdf:first>
+  </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kp1#heaney1_10178">
     <schema:name>A PILLAR OF THE COMMUNITY</schema:name>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N42aa5d206be34e43afc9ac4fc9a1d5a3">
-    <rdf:first>Mid-Term Break</rdf:first>
-    <rdf:rest rdf:nodeID="N01ab5699d2a64b059ab8ca603b3ee20d"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kp1#heaney1_10174">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <schema:name>MID-TERM BREAK</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kp1#heaney1_10183">
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>MACKENNA'S SATURDAY NIGHT</schema:name>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
-    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
     <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
     <schema:name>Seamus Heaney</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N027e5d621d1549d0906a4a68a6ff9013">
-    <rdf:rest rdf:nodeID="Nc42947b0b8ff495aa630ba157598aa69"/>
-    <rdf:first>Turkeys Observed</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kp1#heaney1_10198">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <schema:name>OBITUARY </schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N424737263c2c4f14836dc596e2b44ad7">
-    <rdf:first>MacKenna's Saturday Night</rdf:first>
-    <rdf:rest rdf:nodeID="N027e5d621d1549d0906a4a68a6ff9013"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Ndbd8dd1e62204a36a07c78239b71c2f4">
-    <rdf:rest rdf:nodeID="N42aa5d206be34e43afc9ac4fc9a1d5a3"/>
-    <rdf:first>Oh Brave New Bull . . .</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N01ab5699d2a64b059ab8ca603b3ee20d">
-    <rdf:first>A Pillar of the Community</rdf:first>
-    <rdf:rest rdf:nodeID="N424737263c2c4f14836dc596e2b44ad7"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/c65d9f0740523fd698964dd9f0aba0a5">
-    <dc:title rdf:nodeID="Ndbd8dd1e62204a36a07c78239b71c2f4"/>
-    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17kp1"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
-    <schema:name>POEMS BY SEAMUS HEANEY</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kp1#heaney1_10193">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <schema:name>THE INDOMITABLE IRISHRY</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kp1#heaney1_10188">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>TURKEYS OBSERVED</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc42947b0b8ff495aa630ba157598aa69">
-    <rdf:first>The Indomitable Irishry</rdf:first>
-    <rdf:rest rdf:nodeID="Naa50086ae0f5422593d5df08df394819"/>
   </rdf:Description>
 </rdf:RDF>

@@ -4,59 +4,71 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m4x#longley1_10186">
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>
-                            FANNY HILL
-                        </schema:name>
+  <rdf:Description rdf:nodeID="N791b40ebb0c44ee597c0d3b5191450e3">
+    <rdf:first>Klondike</rdf:first>
+    <rdf:rest rdf:nodeID="N66ba22a298ac49a6b1409aa9c3f9786c"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m4x#longley1_10176">
-    <schema:name>OUT OF THE SEA</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2080855/"/>
+  <rdf:Description rdf:about="http://sws.geonames.org/2080855/">
+    <schema:name>Bikini Atoll</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m4x#longley1_10196">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/51703338"/>
-    <schema:name>JOURNEY OUT OF ESSEX
-                        </schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N703da98253df4ef78379553d02f1ebdd">
-    <rdf:rest rdf:nodeID="N428a3d9714d945ce8a80b39ea307f9f8"/>
+  <rdf:Description rdf:nodeID="N66ba22a298ac49a6b1409aa9c3f9786c">
     <rdf:first>Journey Out of Essex                 </rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N428a3d9714d945ce8a80b39ea307f9f8">
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-    <rdf:first>Barracuda</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m4x#longley1_10181">
-    <schema:name>HOMAGE TO BUSTER KEATON
-                        </schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Ndfd4032615ae4226b40a975bcfe3cb0f">
-    <rdf:rest rdf:nodeID="Nd24742a8a430434f9d8614e2de1c686e"/>
-    <rdf:first>Homage to Buster Keaton                 </rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nd9d9475c05234349a34dc31e362023b4">
-    <rdf:first>Out of the Sea</rdf:first>
-    <rdf:rest rdf:nodeID="Ndfd4032615ae4226b40a975bcfe3cb0f"/>
+    <rdf:rest rdf:nodeID="N321f4c7c0b6046448c852c7ef2447540"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/51703338">
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name>John Clare</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Naf82e5f45f634518ac0015c7dc01389a">
-    <rdf:first>Klondike</rdf:first>
-    <rdf:rest rdf:nodeID="N703da98253df4ef78379553d02f1ebdd"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N1596d75526494c9686000186467b73f2">
-    <rdf:rest rdf:nodeID="Nf24bf787844e4f2a838fd4551be68bf8"/>
+  <rdf:Description rdf:nodeID="N77fb50483d3f44dcba85521cc128c8ff">
+    <rdf:rest rdf:nodeID="N7a66d08a96c44fad8f96227a75999453"/>
     <rdf:first>A Headstone</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m4x#longley1_10171">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>MAN FRIDAY</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m4x#longley1_10201">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>BARRACUDA</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m4x#longley1_10176">
+    <schema:mentions rdf:resource="http://sws.geonames.org/2080855/"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>OUT OF THE SEA</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N321f4c7c0b6046448c852c7ef2447540">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first>Barracuda</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1f009c016ac643b19d6824d1c1da7e75">
+    <rdf:first>Homage to Buster Keaton                 </rdf:first>
+    <rdf:rest rdf:nodeID="N6b6efc6dc245476f9cea537ed26993fe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/d3444f88d6b5f24aaa5b96f7db0488f1">
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m4x"/>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <dc:title rdf:nodeID="N77fb50483d3f44dcba85521cc128c8ff"/>
+    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7a66d08a96c44fad8f96227a75999453">
+    <rdf:rest rdf:nodeID="N2a5ab6855e4b441f8aab0aae1cb94b5e"/>
+    <rdf:first>Man Friday</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2a5ab6855e4b441f8aab0aae1cb94b5e">
+    <rdf:rest rdf:nodeID="N1f009c016ac643b19d6824d1c1da7e75"/>
+    <rdf:first>Out of the Sea</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m4x#longley1_10191">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>
+                            KLONDIKE
+                        </schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
     <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
@@ -65,43 +77,31 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m4x#longley1_10166">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>A HEADSTONE</schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>A HEADSTONE</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m4x#longley1_10191">
-    <schema:name>
-                            KLONDIKE
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m4x#longley1_10181">
+    <schema:name>HOMAGE TO BUSTER KEATON
                         </schema:name>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/d3444f88d6b5f24aaa5b96f7db0488f1">
-    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m4x"/>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m4x#longley1_10196">
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
-    <dc:title rdf:nodeID="N1596d75526494c9686000186467b73f2"/>
-    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m4x#longley1_10171">
+    <schema:name>JOURNEY OUT OF ESSEX
+                        </schema:name>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <schema:name>MAN FRIDAY</schema:name>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/51703338"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nd24742a8a430434f9d8614e2de1c686e">
-    <rdf:rest rdf:nodeID="Naf82e5f45f634518ac0015c7dc01389a"/>
+  <rdf:Description rdf:nodeID="N6b6efc6dc245476f9cea537ed26993fe">
+    <rdf:rest rdf:nodeID="N791b40ebb0c44ee597c0d3b5191450e3"/>
     <rdf:first>                     Fanny Hill                 </rdf:first>
   </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2080855/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name>Bikini Atoll</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m4x#longley1_10201">
-    <schema:name>BARRACUDA</schema:name>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m4x#longley1_10186">
+    <schema:name>
+                            FANNY HILL
+                        </schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nf24bf787844e4f2a838fd4551be68bf8">
-    <rdf:first>Man Friday</rdf:first>
-    <rdf:rest rdf:nodeID="Nd9d9475c05234349a34dc31e362023b4"/>
   </rdf:Description>
 </rdf:RDF>
