@@ -243,9 +243,25 @@ class HarvestRelated(object):
                         # for dbpedia, use sparql query to get data we care about
                         # (request with content negotation returns extra data where
                         # uri is the subject and is also slower)
-                        dbpedia_sparql.setQuery('DESCRIBE <%s>' % u)
-                        dbpedia_sparql.setReturnFormat(SPARQLWrapper.XML)
-                        tmp_graph = dbpedia_sparql.query().convert()
+                        try:
+                            dbpedia_sparql.setQuery('''
+                                SELECT ?S ?p ?o
+                                WHERE {
+                                    ?s ?p ?o
+                                    FILTER (?s = <%s>)
+                                }''' % u)
+                            # NOTE: was using DESCRIBE <uri>, but that generates
+                            # too many results for records like United States, England
+                            dbpedia_sparql.setReturnFormat(SPARQLWrapper.RDF)
+                            tmp_graph = dbpedia_sparql.query().convert()
+                            if not len(tmp_graph):
+                                print 'Error: DBpedia query returned no triples for %s' % u
+                                continue
+
+                        except Exception as err:
+                            print 'Error getting DBpedia data for %s : %s' % (u, err)
+                            continue
+
 
                     else:
                         # Use requests with content negotiation to load the data
