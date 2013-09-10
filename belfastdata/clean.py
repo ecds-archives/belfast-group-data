@@ -1,5 +1,6 @@
 import os
 import hashlib
+import codecs
 import rdflib
 from rdflib import collection as rdfcollection
 import re
@@ -8,8 +9,8 @@ from django.utils.text import slugify
 from belfastdata.rdfns import BIBO, DC, SCHEMA_ORG, BG, BELFAST_GROUP_URI
 
 
-def normalize_whitespace(str):
-    return re.sub(r'\s+', ' ', str.strip())
+def normalize_whitespace(s):
+    return unicode(re.sub(r'\s+', u' ', s.strip(), flags=re.UNICODE))
 
 
 class SmushGroupSheets(object):
