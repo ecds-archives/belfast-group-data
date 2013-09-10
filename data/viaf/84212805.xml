@@ -8,123 +8,137 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/84212805/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C14427471#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb144274714"/>
-    <skos:altLabel>Mac Donagh, Martin 1970-</skos:altLabel>
-    <skos:altLabel>MacDonagh, Martin, 1970-</skos:altLabel>
-    <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb144274714"/>
-    <skos:altLabel>Mc Donagh, Martin 1970-</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cno+97055353#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/no97055353"/>
-    <skos:prefLabel>McDonagh, Martin</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca12844007#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls005704271#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
-    <skos:altLabel>MacDonagh, Martin, 1970-</skos:altLabel>
-    <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C888435#skos:Concept">
+    <skos:prefLabel>McDonagh, Martin</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C130830216#skos:Concept">
+    <skos:altLabel>Mac Donagh, Martin 1970-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
+    <skos:altLabel>MacDonagh, Martin, 1970-</skos:altLabel>
+    <skos:altLabel>Mc Donagh, Martin 1970-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/84212805/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/84212805"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000077020#skos:Concept">
+    <skos:altLabel>Makdona, Mārtins, 1970-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/84212805">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Martin_McDonagh"/>
     <foaf:name>McDonagh, Martin</foaf:name>
-    <rdaGr2:dateOfBirth>1970-03-26</rdaGr2:dateOfBirth>
-    <foaf:name>Mac Donagh, Martin</foaf:name>
-    <foaf:name>McDonagh, Martin, 1970-....</foaf:name>
-    <foaf:name>MacDonagh, Martin, 1970-</foaf:name>
-    <foaf:name>Mc Donagh, Martin</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb144274714#foaf:Person"/>
     <foaf:name>MacDonagh, Martin</foaf:name>
+    <foaf:name>MacDonagh, Martin, 1970-</foaf:name>
     <foaf:name>Mac Donagh, Martin 1970-</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/130830216"/>
-    <foaf:name>Mc Donagh, Martin 1970-</foaf:name>
+    <foaf:name>Mac Donagh, Martin</foaf:name>
+    <rdaGr2:dateOfBirth>1970-03-26</rdaGr2:dateOfBirth>
+    <foaf:name>Makdona, Mārtins, 1970-</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/059856181/id"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb144274714#foaf:Person"/>
+    <foaf:name>Mc Donagh, Martin</foaf:name>
     <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/130830216"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Martin_McDonagh"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/079200494/id"/>
+    <foaf:name>Mc Donagh, Martin 1970-</foaf:name>
+    <foaf:name>McDonagh, Martin, 1970-....</foaf:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C314893571#skos:Concept">
-    <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C245568301#skos:Concept">
+    <skos:prefLabel>MacDonagh, Martin</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>McDonagh, Martin</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls005704271#skos:Concept">
     <skos:altLabel>MacDonagh, Martin, 1970-</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CMartin_McDonagh#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
-    <skos:prefLabel>McDonagh, Martin</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C079200494#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
-    <skos:altLabel>Mac Donagh, Martin</skos:altLabel>
-    <skos:altLabel>Mc Donagh, Martin</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:altLabel>MacDonagh, Martin</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1412504#skos:Concept">
+    <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/84212805/">
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/84212805"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1412504#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CMartin_McDonagh#skos:Concept">
+    <skos:prefLabel>McDonagh, Martin</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00047963#skos:Concept">
-    <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C130830216#skos:Concept">
-    <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
-    <skos:altLabel>MacDonagh, Martin, 1970-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:altLabel>Mac Donagh, Martin 1970-</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
-    <skos:altLabel>Mc Donagh, Martin 1970-</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/84212805/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/84212805"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C059856181#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
-    <skos:altLabel>Mc Donagh, Martin</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>MacDonagh, Martin</skos:altLabel>
-    <skos:altLabel>Mac Donagh, Martin</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjs20020506001#skos:Concept">
     <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/84212805/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00047963#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C059856181#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>MacDonagh, Martin</skos:altLabel>
+    <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
+    <skos:altLabel>Mac Donagh, Martin</skos:altLabel>
+    <skos:altLabel>Mc Donagh, Martin</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C079200494#skos:Concept">
+    <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Mac Donagh, Martin</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Mc Donagh, Martin</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
+    <skos:altLabel>MacDonagh, Martin</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cno+97055353#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/no97055353"/>
+    <skos:prefLabel>McDonagh, Martin</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C14427471#skos:Concept">
+    <skos:altLabel>Mac Donagh, Martin 1970-</skos:altLabel>
+    <skos:altLabel>MacDonagh, Martin, 1970-</skos:altLabel>
+    <skos:prefLabel>McDonagh, Martin, 1970-....</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb144274714"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84212805"/>
+    <skos:altLabel>Mc Donagh, Martin 1970-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb144274714"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
   </rdf:Description>
 </rdf:RDF>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Green_Mountains_Review">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:editor rdf:resource="http://dbpedia.org/resource/Neil_Shepard"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_journal"/>
+    <dbpprop:history rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1987</dbpprop:history>
+    <dbpprop:editor xml:lang="en">Neil Shepard</dbpprop:editor>
+    <dbpedia-owl:publisher rdf:resource="http://dbpedia.org/resource/Johnson_State_College"/>
+    <dbpedia-owl:abstract xml:lang="en">Green Mountains Review is a literary journal that publishes biannually out of Johnson State College in Vermont, founded by senior editor Neil Shepard and currently edited by Elizabeth Powell and Jacob White. Past contributors of note include Agha Shahid Ali, Marvin Bell, Mark Doty, Stephen Dunn, Donald Hall, Joy Harjo, Laird Hunt, Yusef Komunyakaa, Maxine Kumin, Ann Lauterbach, J. Robert Lennon, Naomi Shihab Nye, Molly Peacock, Benjamin Percy, Robert Pinsky, Alexander Theroux, Anne Waldman, Charles Wright, Mary Oliver, Gary Soto, Robert Walser, Tom Whalen, and David Wojahn.</dbpedia-owl:abstract>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Green_Mountains_Review"/>
+    <dbpedia-owl:academicDiscipline rdf:resource="http://dbpedia.org/resource/Literary_magazine"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://greenmountainsreview.com"/>
+    <foaf:homepage rdf:resource="http://greenmountainsreview.com"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_literary_magazines"/>
+    <foaf:name xml:lang="en">Green Mountains Review</foaf:name>
+    <dbpprop:title xml:lang="en">Green Mountains Review</dbpprop:title>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Green_Mountains_Review?oldid=475573369"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Green_Mountains_Review"/>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AcademicJournal"/>
+    <dbpprop:publisher rdf:resource="http://dbpedia.org/resource/Johnson_State_College"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanLiteraryMagazines"/>
+    <rdfs:comment xml:lang="en">Green Mountains Review is a literary journal that publishes biannually out of Johnson State College in Vermont, founded by senior editor Neil Shepard and currently edited by Elizabeth Powell and Jacob White. Past contributors of note include Agha Shahid Ali, Marvin Bell, Mark Doty, Stephen Dunn, Donald Hall, Joy Harjo, Laird Hunt, Yusef Komunyakaa, Maxine Kumin, Ann Lauterbach, J.</rdfs:comment>
+    <dbpprop:discipline rdf:resource="http://dbpedia.org/resource/Literary_magazine"/>
+    <dbpedia-owl:frequencyOfPublication xml:lang="en">Biannual</dbpedia-owl:frequencyOfPublication>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04gq2kp"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Johnson_State_College"/>
+    <dbpprop:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PeriodicalLiterature"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/WrittenWork"/>
+    <dbpprop:website rdf:resource="http://greenmountainsreview.com"/>
+    <dbpprop:frequency xml:lang="en">Biannual</dbpprop:frequency>
+    <dbpedia-owl:issn xml:lang="en">0895-9307</dbpedia-owl:issn>
+    <dbpprop:issn rdf:datatype="http://www.w3.org/2001/XMLSchema#int">895</dbpprop:issn>
+    <dbpedia-owl:firstPublicationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1987-01-01T00:00:00+02:00</dbpedia-owl:firstPublicationYear>
+  </rdf:Description>
+</rdf:RDF>

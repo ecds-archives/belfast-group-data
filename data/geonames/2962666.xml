@@ -8,34 +8,34 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
 >
-  <rdf:Description rdf:about="http://sws.geonames.org/2962666/about.rdf">
-    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
-    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-08-14</dcterms:modified>
-    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
-    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2962666/"/>
-    <cc:attributionURL rdf:resource="http://sws.geonames.org/2962666/"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2962666/">
-    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
-    <gn:shortName>Mayo</gn:shortName>
-    <gn:alternateName xml:lang="en">County Mayo</gn:alternateName>
-    <gn:parentFeature rdf:resource="http://sws.geonames.org/7521313/"/>
-    <gn:countryCode>IE</gn:countryCode>
-    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
-    <wgs84_pos:lat>53.9</wgs84_pos:lat>
     <gn:locationMap rdf:resource="http://www.geonames.org/2962666/maigh-eo.html"/>
-    <gn:population>119089</gn:population>
-    <wgs84_pos:long>-9.25</wgs84_pos:long>
-    <gn:alternateName>Contae Mhaigh Eo</gn:alternateName>
-    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/County_Mayo"/>
-    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/2962666/contains.rdf"/>
-    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/County_Mayo"/>
     <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
     <gn:name>County Mayo</gn:name>
+    <gn:alternateName>Contae Mhaigh Eo</gn:alternateName>
+    <gn:countryCode>IE</gn:countryCode>
+    <wgs84_pos:lat>53.9</wgs84_pos:lat>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/County_Mayo"/>
     <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2962666/about.rdf"/>
-    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/2962666/contains.rdf"/>
+    <gn:population>119089</gn:population>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/County_Mayo"/>
     <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521313/"/>
+    <wgs84_pos:long>-9.25</wgs84_pos:long>
+    <gn:shortName>Mayo</gn:shortName>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:alternateName xml:lang="en">County Mayo</gn:alternateName>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/7521313/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2962666/about.rdf">
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2962666/"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-08-14</dcterms:modified>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2962666/"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
   </rdf:Description>
 </rdf:RDF>

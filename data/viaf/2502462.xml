@@ -8,86 +8,93 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00512065#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Birkerts, Sven.</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/2502462"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <skos:altLabel>バーカーツ, スヴェン</skos:altLabel>
-    <skos:altLabel>Birkert, Sven</skos:altLabel>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/2502462">
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/115257454"/>
     <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/52485687"/>
-    <foaf:name>バーカーツ, スヴェン</foaf:name>
+    <rdaGr2:dateOfBirth>1951-09-21</rdaGr2:dateOfBirth>
+    <foaf:name>Birkerts, Sven 1951-</foaf:name>
     <foaf:name>Birkerts, Sven.</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12111168z#foaf:Person"/>
+    <foaf:name>Birkerts, Sven P.</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/52485687"/>
+    <foaf:name>バーカーツ, スヴェン</foaf:name>
     <foaf:name>Birkert, Sven</foaf:name>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/115257454"/>
-    <foaf:name>Birkerts, Sven 1951-</foaf:name>
-    <foaf:name>Birkerts Sven P.</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sven_Birkerts"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12111168z#foaf:Person"/>
     <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/52485687"/>
-    <rdaGr2:dateOfBirth>1951-09-21</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sven_Birkerts"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C115257454#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++86115535#skos:Concept">
+    <skos:prefLabel>Birkerts, Sven.</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n86115535"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Birkerts, Sven 1951-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/2502462"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C073331600#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000482315#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/2502462"/>
     <skos:prefLabel>Birkerts, Sven.</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CSven_Birkerts#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Birkerts, Sven.</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/2502462"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/2502462/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/2502462"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/2502462/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/2502462"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/2502462/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/2502462"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12111168#skos:Concept">
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12111168z"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00512065#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Birkerts Sven P.</skos:altLabel>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12111168z"/>
+    <skos:altLabel>Birkert, Sven</skos:altLabel>
     <skos:prefLabel>Birkerts, Sven.</skos:prefLabel>
+    <skos:altLabel>バーカーツ, スヴェン</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2502462"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/2502462/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/2502462"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C115257454#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Birkerts, Sven 1951-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2502462"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C073331600#skos:Concept">
+    <skos:prefLabel>Birkerts, Sven.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2502462"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/2502462/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/2502462"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000026358#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <skos:prefLabel>Birkerts, Sven.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2502462"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Birkerts, Sven P.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CSven_Birkerts#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/2502462"/>
+    <skos:prefLabel>Birkerts, Sven.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12111168#skos:Concept">
+    <skos:prefLabel>Birkerts, Sven.</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12111168z"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12111168z"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Birkerts, Sven P.</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/2502462"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++86115535#skos:Concept">
-    <skos:prefLabel>Birkerts, Sven.</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/2502462"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n86115535"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000482315#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/2502462"/>
-    <skos:prefLabel>Birkerts, Sven.</skos:prefLabel>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97035924#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Birkerts, Sven.</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Birkerts, Sven.</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/2502462"/>
   </rdf:Description>
 </rdf:RDF>

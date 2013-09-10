@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/264249160/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/264249160"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/264249160">
+    <rdaGr2:dateOfBirth>1946</rdaGr2:dateOfBirth>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/172099242"/>
+    <foaf:name>Glavin, Anthony</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Glavin, Anthony 1946-</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/264249160/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/264249160"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/264249160/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/264249160"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C172099242#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Glavin, Anthony 1946-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/264249160"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++81031872#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/264249160"/>
+    <skos:prefLabel>Glavin, Anthony</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n81031872"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+</rdf:RDF>

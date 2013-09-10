@@ -7,9 +7,23 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2006131772#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35768769"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Meir, Colin.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/35768769/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/35768769"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/35768769/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35768769"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/35768769/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/35768769"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/35768769">
@@ -17,24 +31,10 @@
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <foaf:name>Meir, Colin.</foaf:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2006131772#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Meir, Colin.</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35768769"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/35768769/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35768769"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/35768769/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/35768769"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C145982998#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35768769"/>
     <skos:prefLabel>Meir, Colin.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35768769"/>
   </rdf:Description>
 </rdf:RDF>

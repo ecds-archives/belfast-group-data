@@ -9,580 +9,287 @@
    xmlns:owl="http://www.w3.org/2002/07/owl#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Weldon_Kees">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T_S_Elliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Stearns_Eliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Read">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Drago_Jan%C4%8Dar">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Meary_James_Thurairajah_Tambimuttu">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T.S._Eliott">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweeney_Among_the_Nightingales">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/T._S._Eliot">
-    <dbpedia-owl:abstract xml:lang="fi">Thomas Stearns Eliot oli englantilais-amerikkalainen runoilija, näytelmäkirjailija ja kriitikko. Eliot oli 1900-luvun merkittävimpiä englanninkielisiä kirjailijoita. Nobelin kirjallisuuspalkinnon hän sai vuonna 1948. Eliotin tuotanto voidaan jakaa kolmeen kauteen, Aution maan (1922) modernismiin, Neljän kvarteton (1943) uskonnollisävyiseen runouteen sekä näytelmäteoksiin, kuten Murha katedraalissa (1935).</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
-    <dbpprop:children xml:lang="en">none</dbpprop:children>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_who_illustrated_their_own_writing"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1965_deaths"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anglican_poets"/>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/T._S._엘리엇"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/John_Donne"/>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
-    <rdfs:comment xml:lang="fr">T. S. Eliot, de son nom complet Thomas Stearns Eliot est un poète, dramaturge, et critique littéraire américain naturalisé britannique. Il a reçu le prix Nobel de littérature en 1948.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwK_aA5wpEbGdrcN5Y29ycA"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FormalistPoets"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://oasis.lib.harvard.edu/oasis/deliver/advancedsearch?_collection=oasis"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Harvard_University"/>
-    <rdfs:comment xml:lang="ru">Элиот, Томас Стернз style="background:transparent" |Ошибка: неверное или отсутствующее изображение |} Ошибка: неверное или отсутствующее изображение Ошибка: неверное или отсутствующее изображение Ошибка: неверное или отсутствующее изображение | Lib = | Роспись = TS Eliot Signature. svg | Сайт = | Викитека = }} Томас Стернз Элиот — американо-английский поэт, драматург и литературный критик, представитель модернизма в поэзии.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/T._S._Eliot"/>
-    <owl:sameAs rdf:resource="http://zitgist.com/music/artist/ae90c453-e8ed-4fb7-9d27-35b81fd0fdac"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
-    <dbpprop:caption xml:lang="en">T. S. Eliot, 1934</dbpprop:caption>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://blog.oup.com/oupblog/2007/01/ts_eliot_an_exc.html"/>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1965-01-04</dbpedia-owl:deathDate>
-    <dbpprop:movement rdf:resource="http://dbpedia.org/resource/Modernist_poetry_in_English"/>
-    <rdfs:label xml:lang="de">T. S. Eliot</rdfs:label>
-    <dbpedia-owl:abstract xml:lang="it">Premiato nel 1948 con il Nobel per la letteratura, è stato autore di diversi poemi, alcuni dei quali destinati al teatro: Il canto d'amore di J. Alfred Prufrock, La terra desolata, Gli uomini vuoti, Ash Wednesday, Quattro quartetti, Assassinio nella cattedrale e The Cocktail Party. È stato autore inoltre del saggio Tradition and the Individual Talent. Eliot si trasferì dagli Stati Uniti d'America nel Regno Unito nel 1914 e nel 1927 divenne suddito britannico.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetsgraves.co.uk/eliot.htm"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Modernist_poets"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Paris_alumni"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.leidykla.vu.lt/fileadmin/Literatura/51_3/98-108.pdf"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/T._S._Eliot"/>
-    <rdfs:label xml:lang="vi">T. S. Eliot</rdfs:label>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jules_Laforgue"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WritersFromMissouri"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/dp/0393974995/"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/people/Eliot-Th.html"/>
-    <dbpprop:citizenship xml:lang="en">American by birth; British from 1927</dbpprop:citizenship>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/St._Louis,_Missouri"/>
-    <dbpedia-owl:abstract xml:lang="ca">Thomas Stearns Eliot, més conegut com T. S. Eliot, fou un poeta, escriptor, dramaturg i professor universitari britànic, d'origen nord-americà, guardonat amb el Premi Nobel de Literatura l'any 1948. En les seves obres destaca la cura formal i les referències culturalistes. Enquadrat dins el New Criticism, pensava que l'art no havia de ser l'expressió d'experiències personals sinó el treball sobre símbols universals.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="hu">Thomas Stearns Eliot amerikai születésű Angliában letelepedett irodalmi Nobel-díjas költő, drámaíró és kritikus. A 20. század első felében jelentősen hozzájárult a költészet újjászületéséhez Angliában és Amerikában, ő volt a modern irodalom ismert és elismert „diktátora”.</rdfs:comment>
-    <dc:description xml:lang="en">Poet, dramatist, literary critic</dc:description>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
-    <dbpedia-owl:abstract xml:lang="ko">토머스 스턴스 엘리엇은 미국계 영국 시인, 극작가 그리고 문학 비평가였다. 미국에서 태어났으나 후에 영국에 귀화했다. 극작가로서 활약하기 전에는 &lt;황무지&gt;라는 시로써 영미시계(英美詩界)에 큰 변혁을 가져오게 하였으며 또한 비평가로서도 뛰어나 일약 유명해졌다. &lt;스위니 아고니스티이즈&gt;(1926-27) &lt;바위&gt;(1934) &lt;사원의 살인&gt;(1935) &lt;가족재회&gt;(1939) &lt;칵테일 파티&gt;(1949) &lt;비서&gt;(1953) &lt;노정치가(老政治家)&gt;(1958) 등의 희곡을 발표하였는데 모두 운문으로 쓰여져 있다. 그가 종교극, 또는 희극 등의 형식으로 추구하고 있는 것은 항상 인간의 구제에 그 목적을 두고 있는 것이며 &lt;성당의 살인&gt; &lt;칵테일 파티&gt; 등은 특히 뛰어난 작품이다.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="it">Premiato nel 1948 con il Nobel per la letteratura, è stato autore di diversi poemi, alcuni dei quali destinati al teatro: Il canto d'amore di J. Alfred Prufrock, La terra desolata, Gli uomini vuoti, Ash Wednesday, Quattro quartetti, Assassinio nella cattedrale e The Cocktail Party. È stato autore inoltre del saggio Tradition and the Individual Talent. Eliot si trasferì dagli Stati Uniti d'America nel Regno Unito nel 1914 e nel 1927 divenne suddito britannico.</rdfs:comment>
-    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/London"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <rdfs:comment xml:lang="pl">Thomas Stearns Eliot – poeta, dramaturg i eseista. Urodzony w USA, został brytyjskim poddanym w roku 1927, w tym roku przeszedł na anglikanizm. Studiował na uniwersytetach w USA, Anglii i Francji. Laureat Nagrody Nobla w dziedzinie literatury za rok 1948. Od 1915 do 1922 żonaty z Vivienne Haigh-Wood, w 1957 poślubił Esmé Valerie Fletcher. Większość życia zawodowego przepracował w banku Lloyds w Londynie oraz w wydawnictwie Faber and Gwyer.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1888_births"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ChristianHumanists"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anglican_writers"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
-    <dbpprop:lccn xml:lang="en">n/79/6870</dbpprop:lccn>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
-    <rdfs:comment xml:lang="ca">Thomas Stearns Eliot, més conegut com T. S. Eliot, fou un poeta, escriptor, dramaturg i professor universitari britànic, d'origen nord-americà, guardonat amb el Premi Nobel de Literatura l'any 1948. En les seves obres destaca la cura formal i les referències culturalistes. Enquadrat dins el New Criticism, pensava que l'art no havia de ser l'expressió d'experiències personals sinó el treball sobre símbols universals.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anglo-Catholics"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Order_of_Merit"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_St._Louis,_Missouri"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07g2b"/>
-    <dbpedia-owl:abstract xml:lang="ru">Элиот, Томас Стернз style="background:transparent" |Ошибка: неверное или отсутствующее изображение |} Ошибка: неверное или отсутствующее изображение Ошибка: неверное или отсутствующее изображение Ошибка: неверное или отсутствующее изображение | Lib = | Роспись = TS Eliot Signature. svg | Сайт = | Викитека = }} Томас Стернз Элиот — американо-английский поэт, драматург и литературный критик, представитель модернизма в поэзии.</dbpedia-owl:abstract>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Dante_Alighieri"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/England"/>
-    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Valerie_Eliot"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Harvard_University_alumni"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Seamus_Heaney"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ConvertsToAnglicanism"/>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1965-01-04</dbpprop:deathDate>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_emigrants_to_the_United_Kingdom"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/St._Louis,_Missouri"/>
-    <dbpedia-owl:abstract xml:lang="nl">Thomas Stearns Eliot was een Amerikaans-Brits dichter, toneelschrijver en literatuurcriticus. Hij was een van de belangrijkste figuren uit de wereld van de literatuur van de 20e eeuw, een van de grootste vernieuwers van de poëzie, en kreeg in 1948 de Nobelprijs voor de Literatuur.</dbpedia-owl:abstract>
-    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118529854</dbpprop:pnd>
-    <dbpprop:id xml:lang="en">T._S._Eliot</dbpprop:id>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_Missouri"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1888-09-26</dbpprop:dateOfBirth>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NeoclassicalWriters"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WesleyanUniversityPeople"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://town.hall.org/radio/HarperAudio/011894_harp_ITH.html"/>
-    <dbpedia-owl:abstract xml:lang="zh">托马斯·斯特恩斯·艾略特，OM（Thomas Stearns Eliot，1888年9月26日－1965年1月4日），美國／英國诗人、评论家、剧作家，其作品对二十世纪乃至今日的文学史上影响极为深远。1948年，60岁的艾略特迎来了他一生中最大的荣誉——诺贝尔文学奖。</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_emphysema"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Merton_College,_Oxford"/>
-    <dbpprop:v xml:lang="en">no</dbpprop:v>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Missouri"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.faber.co.uk/author/ts-eliot/"/>
-    <rdfs:comment xml:lang="en">Thomas Stearns Eliot OM (September 26, 1888 – January 4, 1965) was a publisher, playwright, literary and social critic and "arguably the most important English-language poet of the 20th century. " Although he was born an American, he moved to the United Kingdom in 1914 (at age 25) and was naturalised as a British subject in 1927 at age 39. The poem that made his name, The Love Song of J.</rdfs:comment>
-    <foaf:name xml:lang="en">Thomas Stearns Eliot</foaf:name>
-    <rdfs:label xml:lang="zh">T·S·艾略特</rdfs:label>
-    <ns9:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/T._S._Eliot?oldid=492835881"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.questia.com/library/book/collected-poems-1909-1962-by-t-s-eliot.jsp"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Modernist_drama,_theatre_and_performance"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdfs:comment xml:lang="fi">Thomas Stearns Eliot oli englantilais-amerikkalainen runoilija, näytelmäkirjailija ja kriitikko. Eliot oli 1900-luvun merkittävimpiä englanninkielisiä kirjailijoita. Nobelin kirjallisuuspalkinnon hän sai vuonna 1948. Eliotin tuotanto voidaan jakaa kolmeen kauteen, Aution maan (1922) modernismiin, Neljän kvarteton (1943) uskonnollisävyiseen runouteen sekä näytelmäteoksiin, kuten Murha katedraalissa (1935).</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Tony_Award_winners"/>
-    <dbpprop:signature xml:lang="en">TS Eliot Signature.svg</dbpprop:signature>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MiltonAcademyAlumni"/>
-    <dbpedia-owl:abstract xml:lang="hu">Thomas Stearns Eliot amerikai születésű Angliában letelepedett irodalmi Nobel-díjas költő, drámaíró és kritikus. A 20. század első felében jelentősen hozzájárult a költészet újjászületéséhez Angliában és Amerikában, ő volt a modern irodalom ismert és elismert „diktátora”.</dbpedia-owl:abstract>
-    <dbpprop:shortDescription xml:lang="en">Poet, dramatist, literary critic</dbpprop:shortDescription>
-    <rdfs:label xml:lang="en">T. S. Eliot</rdfs:label>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Dante_Alighieri"/>
-    <rdfs:comment xml:lang="vi">Thomas Stearns Eliot là một nhà thơ, nhà viết kịch, nhà phê bình văn học Anh gốc Hoa Kỳ đoạt giải Nobel văn học năm 1948. Tác phẩm đầu tay: Bản tình ca của J. Alfred Prufrock (The Love Song of J. Alfred Prufrock, 1015) được coi là một kiệt tác của phong trào thơ hiện đại.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanImmigrantsToTheUnitedKingdom"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanLiteraryCritics"/>
-    <rdfs:label xml:lang="cs">Thomas Stearns Eliot</rdfs:label>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.olimu.com/Notes/hillier-eliot.pdf"/>
-    <dbpprop:species xml:lang="en">no</dbpprop:species>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://oyc.yale.edu/english/modern-poetry/content/sessions/lecture10.html"/>
-    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Valerie_Eliot"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Merton_College,_Oxford"/>
-    <rdfs:label xml:lang="uk">Томас Стернз Еліот</rdfs:label>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Allen_Tate"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_Nobel_laureates"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_dramatists_and_playwrights"/>
-    <dbpprop:alternativeNames xml:lang="en">Eliot, T. S.</dbpprop:alternativeNames>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://members.chello.nl/~a.vanarum8/EliotProject/"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AnglicanWriters"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/T._S._Eliot"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=1631"/>
-    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/The_Waste_Land"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Naturalised_citizens_of_the_United_Kingdom"/>
-    <dbpedia-owl:abstract xml:lang="ja">トマス・スターンズ・エリオット（英: Thomas Stearns Eliot、1888年9月26日 - 1965年1月4日）は、イギリスの詩人、劇作家で文芸批評家である。代表作には、5部からなる長詩『荒地』（The Waste Land、1922年）、詩劇『寺院の殺人』（Murder in the Cathedral、1935年）、詩劇論『詩と劇』（Poetry and Drama、1951年）などがある。</dbpedia-owl:abstract>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Harvard_University"/>
-    <dbpprop:notableworks xml:lang="en">The Love Song of Alfred J. Prufrock</dbpprop:notableworks>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/St._Louis,_Missouri"/>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Thomas_Stearns_Eliot"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NaturalisedCitizensOfTheUnitedKingdom"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Charles_Baudelaire"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfMertonCollege,Oxford"/>
-    <rdfs:comment xml:lang="ko">토머스 스턴스 엘리엇은 미국계 영국 시인, 극작가 그리고 문학 비평가였다. 미국에서 태어났으나 후에 영국에 귀화했다. 극작가로서 활약하기 전에는 &lt;황무지&gt;라는 시로써 영미시계(英美詩界)에 큰 변혁을 가져오게 하였으며 또한 비평가로서도 뛰어나 일약 유명해졌다. &lt;스위니 아고니스티이즈&gt;(1926-27) &lt;바위&gt;(1934) &lt;사원의 살인&gt;(1935) &lt;가족재회&gt;(1939) &lt;칵테일 파티&gt;(1949) &lt;비서&gt;(1953) &lt;노정치가(老政治家)&gt;(1958) 등의 희곡을 발표하였는데 모두 운문으로 쓰여져 있다. 그가 종교극, 또는 희극 등의 형식으로 추구하고 있는 것은 항상 인간의 구제에 그 목적을 두고 있는 것이며 &lt;성당의 살인&gt; &lt;칵테일 파티&gt; 등은 특히 뛰어난 작품이다.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:New_Criticism"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Dramatist110030277"/>
-    <foaf:givenName xml:lang="en">Thomas Stearns</foaf:givenName>
-    <dbpprop:selibr rdf:datatype="http://www.w3.org/2001/XMLSchema#int">184982</dbpprop:selibr>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Hart_Crane"/>
-    <dbpprop:notableworks xml:lang="en">The Love Song of J. Alfred Prufrock , The Waste Land , Four Quartets</dbpprop:notableworks>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1965-01-04</dbpprop:dateOfDeath>
-    <rdfs:comment xml:lang="no">T. S. Eliot (Thomas Stearns Eliot) var en angloamerikansk dikter, dramatiker og litteraturkritiker. Han ble født i Saint Louis i Missouri i USA, men flyttet til Storbritannia i 1914 og ble britisk statsborger. I 1927 gikk han inn i den anglikanske kirken. Eliot mottok Nobelprisen i litteratur i 1948, i 1959 ble han utnevnt til den tyske ordenen Pour le Mérite für Wissenschaften und Künste og i 1964 ble han tildelt Presidentens frihetsmedalje av USAs president Lyndon B. Johnson.</rdfs:comment>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Ezra_Pound"/>
-    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/The_Love_Song_of_J._Alfred_Prufrock"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromSt.Louis,Missouri"/>
-    <dbpprop:name xml:lang="en">Eliot, Thomas Stearns</dbpprop:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_Nobel_laureates"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:T._S._Eliot"/>
-    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Vivienne_Haigh-Wood_Eliot"/>
-    <dbpedia-owl:abstract xml:lang="de">Thomas Stearns Eliot war ein englischsprachiger Lyriker, Dramatiker und Kritiker, der als einer der bedeutendsten Vertreter der literarischen Moderne gilt. Im Jahr 1948 wurde er mit dem Literaturnobelpreis ausgezeichnet.</dbpedia-owl:abstract>
-    <dbpedia-owl:award rdf:resource="http://dbpedia.org/resource/Order_of_Merit"/>
-    <dbpedia-owl:abstract xml:lang="uk">То́мас Е́ліот (англ. Thomas Stearns Eliot) — американський поет, драматург і літературний критик.</dbpedia-owl:abstract>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jules_Laforgue"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/John_Donne"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <dbpedia-owl:abstract xml:lang="vi">Thomas Stearns Eliot là một nhà thơ, nhà viết kịch, nhà phê bình văn học Anh gốc Hoa Kỳ đoạt giải Nobel văn học năm 1948. Tác phẩm đầu tay: Bản tình ca của J. Alfred Prufrock (The Love Song of J. Alfred Prufrock, 1015) được coi là một kiệt tác của phong trào thơ hiện đại. Tiếp đến là những tác phẩm thơ được coi là quan trọng nhất trong thơ Anh ngữ: Đất hoang (The Waste Land, 1922), Ngày thứ Tư tro bụi (Ash Wednesday, 1930), Những kẻ rỗng tuếch (The Hollow Men, 1925), Bốn khúc tứ tấu (Four Quartets, 1945). Những tác phẩm quan trọng nhất của T. S. Eliot đều đã được dịch hoặc trích dịch ra tiếng Việt và đã in trong cuốn Các nhà thơ giải Nobel, Nxb Lao Động, Hà Nội 2006.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Элиот,_Томас_Стернз"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Commandeurs_of_the_Ordre_des_Arts_et_des_Lettres"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Sister_project_links"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._E._Hulme"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
-    <dbpedia-owl:abstract xml:lang="cs">Thomas Stearns Eliot byl anglický básník, esejista a dramatik amerického původu, nositel Nobelovy ceny za literaturu za rok 1948.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="pt">Thomas Stearns Eliot OM foi um poeta modernista, dramaturgo e crítico literário inglês nascido nos Estados Unidos, vencedor do Prêmio Nobel de Literatura de 1948. Eliot nasceu em St. Louis, Missouri, nos Estados Unidos, mudou-se para a Inglaterra em 1914 (então com 25 anos), tornando-se cidadão britânico em 1927, com 39 anos de idade. Sobre sua nacionalidade e sua influência na sua obra, T.S.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanNobelLaureates"/>
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Bachelor_of_Arts"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.his.com/~feliot/"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wesleyan_University_people"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.whatthethundersaid.org/"/>
-    <dbpedia-owl:abstract xml:lang="pt">Thomas Stearns Eliot OM foi um poeta modernista, dramaturgo e crítico literário inglês nascido nos Estados Unidos, vencedor do Prêmio Nobel de Literatura de 1948. Eliot nasceu em St. Louis, Missouri, nos Estados Unidos, mudou-se para a Inglaterra em 1914 (então com 25 anos), tornando-se cidadão britânico em 1927, com 39 anos de idade. Sobre sua nacionalidade e sua influência na sua obra, T.S. Eliot disse: "My poetry wouldn’t be what it is if I’d been born in England, and it wouldn’t be what it is if I’d stayed in America. It’s a combination of things. But in its sources, in its emotional springs, it comes from America."</dbpedia-owl:abstract>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HarvardUniversityAlumni"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AnglicanPoets"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._E._Hulme"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Hart_Crane"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WritersWhoIllustratedTheirOwnWriting"/>
-    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/England"/>
-    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Four_Quartets"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ModernistPoets"/>
-    <rdfs:comment xml:lang="sv">Thomas Stearns Eliot, T. S. Eliot, född 26 september 1888 i Saint Louis, Missouri, död 4 januari 1965 i London, var en amerikansk-brittisk författare, poet och litteraturkritiker. Eliot föddes i USA men flyttade 1914 till Storbritannien, blev brittisk medborgare och gick in i den anglikanska kyrkan år 1927. Han tilldelades Nobelpriset i litteratur år 1948. Eliots poesi tillhörde till stor del T.E.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Presidential_Medal_of_Freedom_recipients"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://world.std.com/~raparker/exploring/tseliot/works/poems/eliot-harvard-poems.html"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/dp/0151189781/"/>
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/England"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Geoffrey_Hill"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NobelLaureatesInLiterature"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Merton_College,_Oxford"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.edgewaysbooks.com/"/>
-    <dbpprop:education xml:lang="en">A.B. in philosophy</dbpprop:education>
-    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Vivienne_Haigh-Wood_Eliot"/>
-    <dbpprop:wikt xml:lang="en">no</dbpprop:wikt>
-    <dbpprop:awards rdf:resource="http://dbpedia.org/resource/Nobel_Prize_in_Literature"/>
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Officiers_of_the_L%C3%A9gion_d'honneur"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Ezra_Pound"/>
-    <rdfs:comment xml:lang="cs">Thomas Stearns Eliot byl anglický básník, esejista a dramatik amerického původu, nositel Nobelovy ceny za literaturu za rok 1948.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AcademicsOfBirkbeck,UniversityOfLondon"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LiteraryCritic110266016"/>
-    <rdfs:comment xml:lang="uk">То́мас Е́ліот (англ. Thomas Stearns Eliot) — американський поет, драматург і літературний критик.</rdfs:comment>
-    <dbpprop:awards rdf:resource="http://dbpedia.org/resource/Order_of_Merit"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Chicago_faculty"/>
-    <rdfs:comment xml:lang="de">Thomas Stearns Eliot war ein englischsprachiger Lyriker, Dramatiker und Kritiker, der als einer der bedeutendsten Vertreter der literarischen Moderne gilt. Im Jahr 1948 wurde er mit dem Literaturnobelpreis ausgezeichnet.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://muse.jhu.edu/journals/modernism-modernity/toc/mod.16.1.html"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Christian_mystics"/>
-    <dbpprop:q xml:lang="en">T. S. Eliot</dbpprop:q>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://salon.com/audio/2000/10/05/eliot/"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1888-09-26</dbpedia-owl:birthDate>
-    <dbpprop:author xml:lang="en">yes</dbpprop:author>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanDramatistsAndPlaywrights"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
-    <dbpprop:birthName xml:lang="en">Thomas Stearns Eliot</dbpprop:birthName>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <dbpedia-owl:award rdf:resource="http://dbpedia.org/resource/Nobel_Prize_in_Literature"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Missouri"/>
-    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1888-09-26</dbpprop:birthDate>
-    <dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1905-01-01T00:00:00+02:00</dbpedia-owl:activeYearsStartYear>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/dp/0151686564/"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Neoclassical_writers"/>
-    <dbpedia-owl:abstract xml:lang="no">T. S. Eliot (Thomas Stearns Eliot) var en angloamerikansk dikter, dramatiker og litteraturkritiker. Han ble født i Saint Louis i Missouri i USA, men flyttet til Storbritannia i 1914 og ble britisk statsborger. I 1927 gikk han inn i den anglikanske kirken. Eliot mottok Nobelprisen i litteratur i 1948, i 1959 ble han utnevnt til den tyske ordenen Pour le Mérite für Wissenschaften und Künste og i 1964 ble han tildelt Presidentens frihetsmedalje av USAs president Lyndon B. Johnson. Eliot døde i London i England i 1965. Eliots største og mest kjente verk er diktet The Waste Land (gjendiktet av Paal Brekke under tittelen "Det golde landet"). SitatWe are the hollow men We are the stuffed men Leaning together Headpiece filled with straw. Alas! Sitat Forrige mottaker: André Gide  Nobelprisvinner i litteratur Neste mottaker: William Faulkner </dbpedia-owl:abstract>
-    <foaf:surname xml:lang="en">Eliot</foaf:surname>
-    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Τόμας_Στερνς_Έλιοτ"/>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/T._S._Eliot"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cats_(musical)"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Geoffrey_Hill"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Thomas_Stearns_Eliot_by_Lady_Ottoline_Morrell_(1934).jpg/200px-Thomas_Stearns_Eliot_by_Lady_Ottoline_Morrell_(1934).jpg"/>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Thomas_Stearns_Eliot"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.hrc.utexas.edu/research/search/"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Allen_Tate"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryfoundation.org/archive/poet.html?id=81338"/>
-    <dbpprop:b xml:lang="en">no</dbpprop:b>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Converts_to_Anglicanism"/>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/T._S._Eliot"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Milton_Academy_alumni"/>
-    <foaf:name xml:lang="en">T. S. Eliot</foaf:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_literary_critics"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Nobel_laureates_in_Literature"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/St._Louis,_Missouri"/>
+    <rdfs:comment xml:lang="en">Thomas Stearns Eliot OM (September 26, 1888 – January 4, 1965) was a publisher, playwright, literary and social critic and "arguably the most important English-language poet of the 20th century. " Although he was born an American, he moved to the United Kingdom in 1914 (at age 25) and was naturalised as a British subject in 1927 at age 39. The poem that made his name, The Love Song of J.</rdfs:comment>
+    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Valerie_Eliot"/>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Four_Quartets"/>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/The_Love_Song_of_J._Alfred_Prufrock"/>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwK_aA5wpEbGdrcN5Y29ycA"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
+    <dbpprop:species xml:lang="en">no</dbpprop:species>
+    <dc:description xml:lang="en">Poet, dramatist, literary critic</dc:description>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Dante_Alighieri"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/St._Louis,_Missouri"/>
+    <rdfs:label xml:lang="en">T. S. Eliot</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromSt.Louis,Missouri"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1965-01-04</dbpprop:dateOfDeath>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Paris_alumni"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._E._Hulme"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanLiteraryCritics"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_St._Louis,_Missouri"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/The_Waste_Land"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/T._S._엘리엇"/>
+    <dbpedia-owl:abstract xml:lang="de">Thomas Stearns Eliot war ein englischsprachiger Lyriker, Dramatiker und Kritiker, der als einer der bedeutendsten Vertreter der literarischen Moderne gilt. Im Jahr 1948 wurde er mit dem Literaturnobelpreis ausgezeichnet.</dbpedia-owl:abstract>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Allen_Tate"/>
     <dbpprop:occupation xml:lang="en">Poet, dramatist, literary critic, and editor</dbpprop:occupation>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
-    <rdfs:comment xml:lang="ja">トマス・スターンズ・エリオット（英: Thomas Stearns Eliot、1888年9月26日 - 1965年1月4日）は、イギリスの詩人、劇作家で文芸批評家である。代表作には、5部からなる長詩『荒地』（The Waste Land、1922年）、詩劇『寺院の殺人』（Murder in the Cathedral、1935年）、詩劇論『詩と劇』（Poetry and Drama、1951年）などがある。</rdfs:comment>
-    <dbpprop:s xml:lang="en">Thomas Stearns Eliot</dbpprop:s>
-    <dbpprop:period rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1905</dbpprop:period>
-    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">56609282</dbpprop:viaf>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Seamus_Heaney"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.luc.edu/eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Ezra_Pound"/>
+    <rdfs:comment xml:lang="pl">Thomas Stearns Eliot – poeta, dramaturg i eseista. Urodzony w USA, został brytyjskim poddanym w roku 1927, w tym roku przeszedł na anglikanizm. Studiował na uniwersytetach w USA, Anglii i Francji. Laureat Nagrody Nobla w dziedzinie literatury za rok 1948. Od 1915 do 1922 żonaty z Vivienne Haigh-Wood, w 1957 poślubił Esmé Valerie Fletcher. Większość życia zawodowego przepracował w banku Lloyds w Londynie oraz w wydawnictwie Faber and Gwyer.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Элиот, Томас Стернз style="background:transparent" |Ошибка: неверное или отсутствующее изображение |} Ошибка: неверное или отсутствующее изображение Ошибка: неверное или отсутствующее изображение Ошибка: неверное или отсутствующее изображение | Lib = | Роспись = TS Eliot Signature. svg | Сайт = | Викитека = }} Томас Стернз Элиот — американо-английский поэт, драматург и литературный критик, представитель модернизма в поэзии.</rdfs:comment>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <dbpprop:awards rdf:resource="http://dbpedia.org/resource/Order_of_Merit"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Eliot_family_of_America"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ChristianMystics"/>
-    <rdfs:label xml:lang="ca">T. S. Eliot</rdfs:label>
-    <dbpprop:n xml:lang="en">no</dbpprop:n>
-    <dbpedia-owl:birthName xml:lang="en">Thomas Stearns Eliot</dbpedia-owl:birthName>
-    <dbpedia-owl:abstract xml:lang="es">T. S. Eliot 20px200px Nombre completo Thomas Stearns Eliot Nacionalidad Bandera de los Estados Unidos Estados UnidosBandera del Reino Unido Reino Unido Período 1915-1965 Movimientos Modernismo Cónyuge Vivienne Haigh-Wood (1915-1947)Esmé Valerie Fletcher (1957-1965) Influido por Homero, Virgilio, La Biblia, Dante, Shakespeare y los comienzos del teatro moderno inglés, Johnson, Arnold, Laforgue, Yeats, Donne, Baudelaire, Conrad, Tennyson, Frazer, Hulme, Pound Influyó a Pound, Yeats, Crane, Stevens, Moore, Empson, Auden, MacNeice, Hughes, Hill, . html Bob Dylan]&lt;/ref&gt; Firma 128px Thomas Stearns Eliot, conocido como T. S. Eliot fue un poeta, dramaturgo y crítico literario anglo-estadounidense. Representó una de las cumbres de la poesía en lengua inglesa del siglo XX. Eliot nació en los Estados Unidos y se trasladó al Reino Unido en 1914, con 25 años. Se hizo ciudadano británico en 1927, con 39. Acerca de su nacionalidad y del papel de ésta en su trabajo, afirmó: «[Mi poesía] no hubiese sido la misma si hubiese nacido en Inglaterra, y tampoco si hubiese permanecido en Estados Unidos. Es una combinación de cosas. Pero en sus fuentes, en sus corrientes emocionales, viene de Estados Unidos. » El crítico Edmund Wilson afirmó de Eliot: «Es uno de nuestros auténticos poetas únicos». En 1948 le fue concedido el «por su contribución sobresaliente y pionera a la poesía moderna».</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/dp/0156806541/"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.mmisi.org/ma/45_04/brand.pdf"/>
-    <rdfs:comment xml:lang="zh">托马斯·斯特恩斯·艾略特，OM（Thomas Stearns Eliot，1888年9月26日－1965年1月4日），美國／英國诗人、评论家、剧作家，其作品对二十世纪乃至今日的文学史上影响极为深远。1948年，60岁的艾略特迎来了他一生中最大的荣誉——诺贝尔文学奖。</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishNobelLaureates"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.uvic.ca/site/spcoll/guides/sc041.html"/>
+    <rdfs:comment xml:lang="sv">Thomas Stearns Eliot, T. S. Eliot, född 26 september 1888 i Saint Louis, Missouri, död 4 januari 1965 i London, var en amerikansk-brittisk författare, poet och litteraturkritiker. Eliot föddes i USA men flyttade 1914 till Storbritannien, blev brittisk medborgare och gick in i den anglikanska kyrkan år 1927. Han tilldelades Nobelpriset i litteratur år 1948. Eliots poesi tillhörde till stor del T.E.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Converts_to_Anglicanism"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Hart_Crane"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
+    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Harvard_University"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.leidykla.vu.lt/fileadmin/Literatura/51_3/98-108.pdf"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/T._S._Eliot"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Missouri"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NaturalisedCitizensOfTheUnitedKingdom"/>
+    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Valerie_Eliot"/>
+    <dbpprop:notableworks xml:lang="en">The Love Song of Alfred J. Prufrock</dbpprop:notableworks>
+    <dbpprop:wikt xml:lang="en">no</dbpprop:wikt>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jules_Laforgue"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfMertonCollege,Oxford"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Milton_Academy_alumni"/>
+    <dbpprop:notableworks xml:lang="en">The Love Song of J. Alfred Prufrock , The Waste Land , Four Quartets</dbpprop:notableworks>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Thomas_Stearns_Eliot"/>
+    <dbpprop:alternativeNames xml:lang="en">Eliot, T. S.</dbpprop:alternativeNames>
+    <dbpprop:awards rdf:resource="http://dbpedia.org/resource/Nobel_Prize_in_Literature"/>
+    <rdfs:comment xml:lang="hu">Thomas Stearns Eliot amerikai születésű Angliában letelepedett irodalmi Nobel-díjas költő, drámaíró és kritikus. A 20. század első felében jelentősen hozzájárult a költészet újjászületéséhez Angliában és Amerikában, ő volt a modern irodalom ismert és elismert „diktátora”.</rdfs:comment>
+    <dbpprop:education xml:lang="en">A.B. in philosophy</dbpprop:education>
+    <dbpprop:lccn xml:lang="en">n/79/6870</dbpprop:lccn>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetry-archive.com/e/the_hippopotamus.html"/>
-    <rdfs:comment xml:lang="nl">Thomas Stearns Eliot was een Amerikaans-Brits dichter, toneelschrijver en literatuurcriticus. Hij was een van de belangrijkste figuren uit de wereld van de literatuur van de 20e eeuw, een van de grootste vernieuwers van de poëzie, en kreeg in 1948 de Nobelprijs voor de Literatuur.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Eliot_T_S_(Thomas_Stearns)_1888-1965"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Ezra_Pound"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Modernist_poetry_in_English"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Thomas_Stearns_Eliot"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Charles_Baudelaire"/>
-    <dbpedia-owl:abstract xml:lang="pl">Thomas Stearns Eliot – poeta, dramaturg i eseista. Urodzony w USA, został brytyjskim poddanym w roku 1927, w tym roku przeszedł na anglikanizm. Studiował na uniwersytetach w USA, Anglii i Francji. Laureat Nagrody Nobla w dziedzinie literatury za rok 1948. Od 1915 do 1922 żonaty z Vivienne Haigh-Wood, w 1957 poślubił Esmé Valerie Fletcher. Większość życia zawodowego przepracował w banku Lloyds w Londynie oraz w wydawnictwie Faber and Gwyer.</dbpedia-owl:abstract>
-    <dbpprop:name xml:lang="en">T. S. Eliot</dbpprop:name>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Matthew_Arnold"/>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/2/26/Thomas_Stearns_Eliot_by_Lady_Ottoline_Morrell_(1934).jpg"/>
-    <dbpedia-owl:abstract xml:lang="en">Thomas Stearns Eliot OM (September 26, 1888 – January 4, 1965) was a publisher, playwright, literary and social critic and "arguably the most important English-language poet of the 20th century. " Although he was born an American, he moved to the United Kingdom in 1914 (at age 25) and was naturalised as a British subject in 1927 at age 39. The poem that made his name, The Love Song of J. Alfred Prufrock—started in 1910 and published in Chicago in 1915—is seen as a masterpiece of the Modernist movement, and was followed by some of the best-known poems in the English language, including Gerontion (1920), The Waste Land (1922), The Hollow Men (1925), Ash Wednesday (1930), and Four Quartets (1945). He is also known for his seven plays, particularly Murder in the Cathedral (1935). He was awarded the Nobel Prize in Literature in 1948.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/T・S・エリオット"/>
     <dbpprop:commons xml:lang="en">Thomas Stearns Eliot</dbpprop:commons>
-    <rdfs:comment xml:lang="es">T. S.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_Birkbeck,_University_of_London"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Seamus_Heaney"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cats_(musical)"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Harvard_University_alumni"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Seamus_Heaney"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Charles_Baudelaire"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Τόμας_Στερνς_Έλιοτ"/>
+    <dbpedia-owl:abstract xml:lang="no">T. S. Eliot (Thomas Stearns Eliot) var en angloamerikansk dikter, dramatiker og litteraturkritiker. Han ble født i Saint Louis i Missouri i USA, men flyttet til Storbritannia i 1914 og ble britisk statsborger. I 1927 gikk han inn i den anglikanske kirken. Eliot mottok Nobelprisen i litteratur i 1948, i 1959 ble han utnevnt til den tyske ordenen Pour le Mérite für Wissenschaften und Künste og i 1964 ble han tildelt Presidentens frihetsmedalje av USAs president Lyndon B. Johnson. Eliot døde i London i England i 1965. Eliots største og mest kjente verk er diktet The Waste Land (gjendiktet av Paal Brekke under tittelen "Det golde landet"). SitatWe are the hollow men We are the stuffed men Leaning together Headpiece filled with straw. Alas! Sitat Forrige mottaker: André Gide  Nobelprisvinner i litteratur Neste mottaker: William Faulkner </dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="it">Premiato nel 1948 con il Nobel per la letteratura, è stato autore di diversi poemi, alcuni dei quali destinati al teatro: Il canto d'amore di J. Alfred Prufrock, La terra desolata, Gli uomini vuoti, Ash Wednesday, Quattro quartetti, Assassinio nella cattedrale e The Cocktail Party. È stato autore inoltre del saggio Tradition and the Individual Talent. Eliot si trasferì dagli Stati Uniti d'America nel Regno Unito nel 1914 e nel 1927 divenne suddito britannico.</rdfs:comment>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Merton_College,_Oxford"/>
+    <dbpprop:selibr rdf:datatype="http://www.w3.org/2001/XMLSchema#int">184982</dbpprop:selibr>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WritersFromMissouri"/>
+    <dbpprop:birthName xml:lang="en">Thomas Stearns Eliot</dbpprop:birthName>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/T._S._Eliot"/>
+    <rdfs:comment xml:lang="zh">托马斯·斯特恩斯·艾略特，OM（Thomas Stearns Eliot，1888年9月26日－1965年1月4日），美國／英國诗人、评论家、剧作家，其作品对二十世纪乃至今日的文学史上影响极为深远。1948年，60岁的艾略特迎来了他一生中最大的荣誉——诺贝尔文学奖。</rdfs:comment>
+    <dbpedia-owl:award rdf:resource="http://dbpedia.org/resource/Nobel_Prize_in_Literature"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1888-09-26</dbpprop:birthDate>
+    <foaf:name xml:lang="en">T. S. Eliot</foaf:name>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Matthew_Arnold"/>
+    <rdfs:comment xml:lang="fr">T. S. Eliot, de son nom complet Thomas Stearns Eliot est un poète, dramaturge, et critique littéraire américain naturalisé britannique. Il a reçu le prix Nobel de littérature en 1948.</rdfs:comment>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Missouri"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Presidential_Medal_of_Freedom_recipients"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetsgraves.co.uk/eliot.htm"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanImmigrantsToTheUnitedKingdom"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/T._S._Eliot"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Naturalised_citizens_of_the_United_Kingdom"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07g2b"/>
+    <foaf:surname xml:lang="en">Eliot</foaf:surname>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://salon.com/audio/2000/10/05/eliot/"/>
+    <rdfs:comment xml:lang="ja">トマス・スターンズ・エリオット（英: Thomas Stearns Eliot、1888年9月26日 - 1965年1月4日）は、イギリスの詩人、劇作家で文芸批評家である。代表作には、5部からなる長詩『荒地』（The Waste Land、1922年）、詩劇『寺院の殺人』（Murder in the Cathedral、1935年）、詩劇論『詩と劇』（Poetry and Drama、1951年）などがある。</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wesleyan_University_people"/>
+    <rdfs:label xml:lang="cs">Thomas Stearns Eliot</rdfs:label>
+    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Merton_College,_Oxford"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HarvardUniversityAlumni"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
+    <dbpprop:movement rdf:resource="http://dbpedia.org/resource/Modernist_poetry_in_English"/>
+    <dbpprop:author xml:lang="en">yes</dbpprop:author>
     <dbpedia-owl:abstract xml:lang="fr">T. S. Eliot, de son nom complet Thomas Stearns Eliot est un poète, dramaturge, et critique littéraire américain naturalisé britannique. Il a reçu le prix Nobel de littérature en 1948.</dbpedia-owl:abstract>
-    <dbpedia-owl:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1965-01-01T00:00:00+02:00</dbpedia-owl:activeYearsEndYear>
-    <dbpedia-owl:individualisedPnd xml:lang="de">118529854</dbpedia-owl:individualisedPnd>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/2/26/Thomas_Stearns_Eliot_by_Lady_Ottoline_Morrell_(1934).jpg"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/people/Eliot-Th.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanNobelLaureates"/>
+    <dbpprop:s xml:lang="en">Thomas Stearns Eliot</dbpprop:s>
+    <dbpedia-owl:abstract xml:lang="ru">Элиот, Томас Стернз style="background:transparent" |Ошибка: неверное или отсутствующее изображение |} Ошибка: неверное или отсутствующее изображение Ошибка: неверное или отсутствующее изображение Ошибка: неверное или отсутствующее изображение | Lib = | Роспись = TS Eliot Signature. svg | Сайт = | Викитека = }} Томас Стернз Элиот — американо-английский поэт, драматург и литературный критик, представитель модернизма в поэзии.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="es">T. S.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="fi">Thomas Stearns Eliot oli englantilais-amerikkalainen runoilija, näytelmäkirjailija ja kriitikko. Eliot oli 1900-luvun merkittävimpiä englanninkielisiä kirjailijoita. Nobelin kirjallisuuspalkinnon hän sai vuonna 1948. Eliotin tuotanto voidaan jakaa kolmeen kauteen, Aution maan (1922) modernismiin, Neljän kvarteton (1943) uskonnollisävyiseen runouteen sekä näytelmäteoksiin, kuten Murha katedraalissa (1935).</dbpedia-owl:abstract>
+    <dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1905-01-01T00:00:00+02:00</dbpedia-owl:activeYearsStartYear>
+    <dbpedia-owl:abstract xml:lang="ja">トマス・スターンズ・エリオット（英: Thomas Stearns Eliot、1888年9月26日 - 1965年1月4日）は、イギリスの詩人、劇作家で文芸批評家である。代表作には、5部からなる長詩『荒地』（The Waste Land、1922年）、詩劇『寺院の殺人』（Murder in the Cathedral、1935年）、詩劇論『詩と劇』（Poetry and Drama、1951年）などがある。</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/T._S._Eliot"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/England"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/dp/0156806541/"/>
     <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Matthew_Arnold"/>
+    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Modernist_poetry_in_English"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.luc.edu/eliot"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ModernistPoets"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1888_births"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1888-09-26</dbpedia-owl:birthDate>
+    <rdfs:label xml:lang="de">T. S. Eliot</rdfs:label>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <dbpedia-owl:abstract xml:lang="en">Thomas Stearns Eliot OM (September 26, 1888 – January 4, 1965) was a publisher, playwright, literary and social critic and "arguably the most important English-language poet of the 20th century. " Although he was born an American, he moved to the United Kingdom in 1914 (at age 25) and was naturalised as a British subject in 1927 at age 39. The poem that made his name, The Love Song of J. Alfred Prufrock—started in 1910 and published in Chicago in 1915—is seen as a masterpiece of the Modernist movement, and was followed by some of the best-known poems in the English language, including Gerontion (1920), The Waste Land (1922), The Hollow Men (1925), Ash Wednesday (1930), and Four Quartets (1945). He is also known for his seven plays, particularly Murder in the Cathedral (1935). He was awarded the Nobel Prize in Literature in 1948.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="de">Thomas Stearns Eliot war ein englischsprachiger Lyriker, Dramatiker und Kritiker, der als einer der bedeutendsten Vertreter der literarischen Moderne gilt. Im Jahr 1948 wurde er mit dem Literaturnobelpreis ausgezeichnet.</rdfs:comment>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Ezra_Pound"/>
+    <dbpedia-owl:abstract xml:lang="pl">Thomas Stearns Eliot – poeta, dramaturg i eseista. Urodzony w USA, został brytyjskim poddanym w roku 1927, w tym roku przeszedł na anglikanizm. Studiował na uniwersytetach w USA, Anglii i Francji. Laureat Nagrody Nobla w dziedzinie literatury za rok 1948. Od 1915 do 1922 żonaty z Vivienne Haigh-Wood, w 1957 poślubił Esmé Valerie Fletcher. Większość życia zawodowego przepracował w banku Lloyds w Londynie oraz w wydawnictwie Faber and Gwyer.</dbpedia-owl:abstract>
+    <dbpprop:citizenship xml:lang="en">American by birth; British from 1927</dbpprop:citizenship>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_Nobel_laureates"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118529854</dbpedia-owl:individualisedPnd>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Chicago_faculty"/>
+    <rdfs:label xml:lang="uk">Томас Стернз Еліот</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LiteraryCritic110266016"/>
+    <rdfs:comment xml:lang="pt">Thomas Stearns Eliot OM foi um poeta modernista, dramaturgo e crítico literário inglês nascido nos Estados Unidos, vencedor do Prêmio Nobel de Literatura de 1948. Eliot nasceu em St. Louis, Missouri, nos Estados Unidos, mudou-se para a Inglaterra em 1914 (então com 25 anos), tornando-se cidadão britânico em 1927, com 39 anos de idade. Sobre sua nacionalidade e sua influência na sua obra, T.S.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:T._S._Eliot"/>
+    <dbpedia-owl:abstract xml:lang="vi">Thomas Stearns Eliot là một nhà thơ, nhà viết kịch, nhà phê bình văn học Anh gốc Hoa Kỳ đoạt giải Nobel văn học năm 1948. Tác phẩm đầu tay: Bản tình ca của J. Alfred Prufrock (The Love Song of J. Alfred Prufrock, 1015) được coi là một kiệt tác của phong trào thơ hiện đại. Tiếp đến là những tác phẩm thơ được coi là quan trọng nhất trong thơ Anh ngữ: Đất hoang (The Waste Land, 1922), Ngày thứ Tư tro bụi (Ash Wednesday, 1930), Những kẻ rỗng tuếch (The Hollow Men, 1925), Bốn khúc tứ tấu (Four Quartets, 1945). Những tác phẩm quan trọng nhất của T. S. Eliot đều đã được dịch hoặc trích dịch ra tiếng Việt và đã in trong cuốn Các nhà thơ giải Nobel, Nxb Lao Động, Hà Nội 2006.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_emigrants_to_the_United_Kingdom"/>
+    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">56609282</dbpprop:viaf>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://town.hall.org/radio/HarperAudio/011894_harp_ITH.html"/>
+    <dbpprop:signature xml:lang="en">TS Eliot Signature.svg</dbpprop:signature>
+    <rdfs:comment xml:lang="vi">Thomas Stearns Eliot là một nhà thơ, nhà viết kịch, nhà phê bình văn học Anh gốc Hoa Kỳ đoạt giải Nobel văn học năm 1948. Tác phẩm đầu tay: Bản tình ca của J. Alfred Prufrock (The Love Song of J. Alfred Prufrock, 1015) được coi là một kiệt tác của phong trào thơ hiện đại.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Merton_College,_Oxford"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Order_of_Merit"/>
+    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Vivienne_Haigh-Wood_Eliot"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryfoundation.org/archive/poet.html?id=81338"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/dp/0151189781/"/>
+    <rdfs:comment xml:lang="nl">Thomas Stearns Eliot was een Amerikaans-Brits dichter, toneelschrijver en literatuurcriticus. Hij was een van de belangrijkste figuren uit de wereld van de literatuur van de 20e eeuw, een van de grootste vernieuwers van de poëzie, en kreeg in 1948 de Nobelprijs voor de Literatuur.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/T・S・エリオット"/>
+    <foaf:name xml:lang="en">Thomas Stearns Eliot</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AnglicanPoets"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Ezra_Pound"/>
+    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118529854</dbpprop:pnd>
+    <dbpprop:children xml:lang="en">none</dbpprop:children>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://muse.jhu.edu/journals/modernism-modernity/toc/mod.16.1.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Officiers_of_the_L%C3%A9gion_d'honneur"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://members.chello.nl/~a.vanarum8/EliotProject/"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/John_Donne"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Christian_mystics"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ChristianHumanists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Neoclassical_writers"/>
+    <dbpedia-owl:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1965-01-01T00:00:00+02:00</dbpedia-owl:activeYearsEndYear>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/dp/0151686564/"/>
+    <dbpprop:caption xml:lang="en">T. S. Eliot, 1934</dbpprop:caption>
+    <dbpedia-owl:abstract xml:lang="es">T. S. Eliot 20px200px Nombre completo Thomas Stearns Eliot Nacionalidad Bandera de los Estados Unidos Estados UnidosBandera del Reino Unido Reino Unido Período 1915-1965 Movimientos Modernismo Cónyuge Vivienne Haigh-Wood (1915-1947)Esmé Valerie Fletcher (1957-1965) Influido por Homero, Virgilio, La Biblia, Dante, Shakespeare y los comienzos del teatro moderno inglés, Johnson, Arnold, Laforgue, Yeats, Donne, Baudelaire, Conrad, Tennyson, Frazer, Hulme, Pound Influyó a Pound, Yeats, Crane, Stevens, Moore, Empson, Auden, MacNeice, Hughes, Hill, . html Bob Dylan]&lt;/ref&gt; Firma 128px Thomas Stearns Eliot, conocido como T. S. Eliot fue un poeta, dramaturgo y crítico literario anglo-estadounidense. Representó una de las cumbres de la poesía en lengua inglesa del siglo XX. Eliot nació en los Estados Unidos y se trasladó al Reino Unido en 1914, con 25 años. Se hizo ciudadano británico en 1927, con 39. Acerca de su nacionalidad y del papel de ésta en su trabajo, afirmó: «[Mi poesía] no hubiese sido la misma si hubiese nacido en Inglaterra, y tampoco si hubiese permanecido en Estados Unidos. Es una combinación de cosas. Pero en sus fuentes, en sus corrientes emocionales, viene de Estados Unidos. » El crítico Edmund Wilson afirmó de Eliot: «Es uno de nuestros auténticos poetas únicos». En 1948 le fue concedido el «por su contribución sobresaliente y pionera a la poesía moderna».</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://blog.oup.com/oupblog/2007/01/ts_eliot_an_exc.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_dramatists_and_playwrights"/>
+    <dbpedia-owl:abstract xml:lang="cs">Thomas Stearns Eliot byl anglický básník, esejista a dramatik amerického původu, nositel Nobelovy ceny za literaturu za rok 1948.</dbpedia-owl:abstract>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Harvard_University"/>
+    <dbpprop:shortDescription xml:lang="en">Poet, dramatist, literary critic</dbpprop:shortDescription>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Allen_Tate"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anglo-Catholics"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://oyc.yale.edu/english/modern-poetry/content/sessions/lecture10.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:New_Criticism"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Nobel_laureates_in_Literature"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
+    <dbpprop:n xml:lang="en">no</dbpprop:n>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Commandeurs_of_the_Ordre_des_Arts_et_des_Lettres"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ChristianMystics"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AcademicsOfBirkbeck,UniversityOfLondon"/>
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Eliot_T_S_(Thomas_Stearns)_1888-1965"/>
+    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Bachelor_of_Arts"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1965-01-04</dbpprop:deathDate>
+    <rdfs:comment xml:lang="ko">토머스 스턴스 엘리엇은 미국계 영국 시인, 극작가 그리고 문학 비평가였다. 미국에서 태어났으나 후에 영국에 귀화했다. 극작가로서 활약하기 전에는 &lt;황무지&gt;라는 시로써 영미시계(英美詩界)에 큰 변혁을 가져오게 하였으며 또한 비평가로서도 뛰어나 일약 유명해졌다. &lt;스위니 아고니스티이즈&gt;(1926-27) &lt;바위&gt;(1934) &lt;사원의 살인&gt;(1935) &lt;가족재회&gt;(1939) &lt;칵테일 파티&gt;(1949) &lt;비서&gt;(1953) &lt;노정치가(老政治家)&gt;(1958) 등의 희곡을 발표하였는데 모두 운문으로 쓰여져 있다. 그가 종교극, 또는 희극 등의 형식으로 추구하고 있는 것은 항상 인간의 구제에 그 목적을 두고 있는 것이며 &lt;성당의 살인&gt; &lt;칵테일 파티&gt; 등은 특히 뛰어난 작품이다.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.whatthethundersaid.org/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.faber.co.uk/author/ts-eliot/"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Sister_project_links"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.mmisi.org/ma/45_04/brand.pdf"/>
+    <dbpprop:name xml:lang="en">Eliot, Thomas Stearns</dbpprop:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.questia.com/library/book/collected-poems-1909-1962-by-t-s-eliot.jsp"/>
+    <rdfs:label xml:lang="zh">T·S·艾略特</rdfs:label>
+    <rdfs:comment xml:lang="uk">То́мас Е́ліот (англ. Thomas Stearns Eliot) — американський поет, драматург і літературний критик.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_literary_critics"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishNobelLaureates"/>
+    <dbpedia-owl:birthName xml:lang="en">Thomas Stearns Eliot</dbpedia-owl:birthName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WesleyanUniversityPeople"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Dramatist110030277"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Modernist_drama,_theatre_and_performance"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anglican_poets"/>
+    <dbpedia-owl:abstract xml:lang="zh">托马斯·斯特恩斯·艾略特，OM（Thomas Stearns Eliot，1888年9月26日－1965年1月4日），美國／英國诗人、评论家、剧作家，其作品对二十世纪乃至今日的文学史上影响极为深远。1948年，60岁的艾略特迎来了他一生中最大的荣誉——诺贝尔文学奖。</dbpedia-owl:abstract>
+    <dbpprop:id xml:lang="en">T._S._Eliot</dbpprop:id>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1888-09-26</dbpprop:dateOfBirth>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.edgewaysbooks.com/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Tony_Award_winners"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Dante_Alighieri"/>
+    <rdfs:comment xml:lang="no">T. S. Eliot (Thomas Stearns Eliot) var en angloamerikansk dikter, dramatiker og litteraturkritiker. Han ble født i Saint Louis i Missouri i USA, men flyttet til Storbritannia i 1914 og ble britisk statsborger. I 1927 gikk han inn i den anglikanske kirken. Eliot mottok Nobelprisen i litteratur i 1948, i 1959 ble han utnevnt til den tyske ordenen Pour le Mérite für Wissenschaften und Künste og i 1964 ble han tildelt Presidentens frihetsmedalje av USAs president Lyndon B. Johnson.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Thomas_Stearns_Eliot"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NobelLaureatesInLiterature"/>
+    <foaf:givenName xml:lang="en">Thomas Stearns</foaf:givenName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NeoclassicalWriters"/>
+    <owl:sameAs rdf:resource="http://zitgist.com/music/artist/ae90c453-e8ed-4fb7-9d27-35b81fd0fdac"/>
+    <dbpedia-owl:abstract xml:lang="it">Premiato nel 1948 con il Nobel per la letteratura, è stato autore di diversi poemi, alcuni dei quali destinati al teatro: Il canto d'amore di J. Alfred Prufrock, La terra desolata, Gli uomini vuoti, Ash Wednesday, Quattro quartetti, Assassinio nella cattedrale e The Cocktail Party. È stato autore inoltre del saggio Tradition and the Individual Talent. Eliot si trasferì dagli Stati Uniti d'America nel Regno Unito nel 1914 e nel 1927 divenne suddito britannico.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://world.std.com/~raparker/exploring/tseliot/works/poems/eliot-harvard-poems.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.his.com/~feliot/"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Geoffrey_Hill"/>
+    <dbpedia-owl:abstract xml:lang="uk">То́мас Е́ліот (англ. Thomas Stearns Eliot) — американський поет, драматург і літературний критик.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.olimu.com/Notes/hillier-eliot.pdf"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Hart_Crane"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ConvertsToAnglicanism"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Modernist_poets"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_Missouri"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/St._Louis,_Missouri"/>
+    <rdfs:comment xml:lang="ca">Thomas Stearns Eliot, més conegut com T. S. Eliot, fou un poeta, escriptor, dramaturg i professor universitari britànic, d'origen nord-americà, guardonat amb el Premi Nobel de Literatura l'any 1948. En les seves obres destaca la cura formal i les referències culturalistes. Enquadrat dins el New Criticism, pensava que l'art no havia de ser l'expressió d'experiències personals sinó el treball sobre símbols universals.</rdfs:comment>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Charles_Baudelaire"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/T._S._Eliot"/>
+    <rdfs:label xml:lang="ca">T. S. Eliot</rdfs:label>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AnglicanWriters"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1965-01-04</dbpedia-owl:deathDate>
+    <ns9:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/T._S._Eliot?oldid=492835881"/>
+    <rdfs:comment xml:lang="fi">Thomas Stearns Eliot oli englantilais-amerikkalainen runoilija, näytelmäkirjailija ja kriitikko. Eliot oli 1900-luvun merkittävimpiä englanninkielisiä kirjailijoita. Nobelin kirjallisuuspalkinnon hän sai vuonna 1948. Eliotin tuotanto voidaan jakaa kolmeen kauteen, Aution maan (1922) modernismiin, Neljän kvarteton (1943) uskonnollisävyiseen runouteen sekä näytelmäteoksiin, kuten Murha katedraalissa (1935).</rdfs:comment>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._E._Hulme"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/dp/0393974995/"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1965_deaths"/>
+    <dbpprop:name xml:lang="en">T. S. Eliot</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WritersWhoIllustratedTheirOwnWriting"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jules_Laforgue"/>
+    <dbpprop:b xml:lang="en">no</dbpprop:b>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/T._S._Eliot"/>
+    <dbpedia-owl:abstract xml:lang="pt">Thomas Stearns Eliot OM foi um poeta modernista, dramaturgo e crítico literário inglês nascido nos Estados Unidos, vencedor do Prêmio Nobel de Literatura de 1948. Eliot nasceu em St. Louis, Missouri, nos Estados Unidos, mudou-se para a Inglaterra em 1914 (então com 25 anos), tornando-se cidadão britânico em 1927, com 39 anos de idade. Sobre sua nacionalidade e sua influência na sua obra, T.S. Eliot disse: "My poetry wouldn’t be what it is if I’d been born in England, and it wouldn’t be what it is if I’d stayed in America. It’s a combination of things. But in its sources, in its emotional springs, it comes from America."</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_emphysema"/>
+    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Vivienne_Haigh-Wood_Eliot"/>
+    <dbpprop:q xml:lang="en">T. S. Eliot</dbpprop:q>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Thomas_Stearns_Eliot_by_Lady_Ottoline_Morrell_(1934).jpg/200px-Thomas_Stearns_Eliot_by_Lady_Ottoline_Morrell_(1934).jpg"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.uvic.ca/site/spcoll/guides/sc041.html"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Geoffrey_Hill"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/John_Donne"/>
+    <dbpprop:v xml:lang="en">no</dbpprop:v>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.hrc.utexas.edu/research/search/"/>
+    <dbpedia-owl:abstract xml:lang="ca">Thomas Stearns Eliot, més conegut com T. S. Eliot, fou un poeta, escriptor, dramaturg i professor universitari britànic, d'origen nord-americà, guardonat amb el Premi Nobel de Literatura l'any 1948. En les seves obres destaca la cura formal i les referències culturalistes. Enquadrat dins el New Criticism, pensava que l'art no havia de ser l'expressió d'experiències personals sinó el treball sobre símbols universals.</dbpedia-owl:abstract>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/London"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FormalistPoets"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Ezra_Pound"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://oasis.lib.harvard.edu/oasis/deliver/advancedsearch?_collection=oasis"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_Birkbeck,_University_of_London"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_who_illustrated_their_own_writing"/>
+    <dbpedia-owl:award rdf:resource="http://dbpedia.org/resource/Order_of_Merit"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
+    <dbpprop:period rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1905</dbpprop:period>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/England"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anglican_writers"/>
+    <dbpedia-owl:abstract xml:lang="hu">Thomas Stearns Eliot amerikai születésű Angliában letelepedett irodalmi Nobel-díjas költő, drámaíró és kritikus. A 20. század első felében jelentősen hozzájárult a költészet újjászületéséhez Angliában és Amerikában, ő volt a modern irodalom ismert és elismert „diktátora”.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ko">토머스 스턴스 엘리엇은 미국계 영국 시인, 극작가 그리고 문학 비평가였다. 미국에서 태어났으나 후에 영국에 귀화했다. 극작가로서 활약하기 전에는 &lt;황무지&gt;라는 시로써 영미시계(英美詩界)에 큰 변혁을 가져오게 하였으며 또한 비평가로서도 뛰어나 일약 유명해졌다. &lt;스위니 아고니스티이즈&gt;(1926-27) &lt;바위&gt;(1934) &lt;사원의 살인&gt;(1935) &lt;가족재회&gt;(1939) &lt;칵테일 파티&gt;(1949) &lt;비서&gt;(1953) &lt;노정치가(老政治家)&gt;(1958) 등의 희곡을 발표하였는데 모두 운문으로 쓰여져 있다. 그가 종교극, 또는 희극 등의 형식으로 추구하고 있는 것은 항상 인간의 구제에 그 목적을 두고 있는 것이며 &lt;성당의 살인&gt; &lt;칵테일 파티&gt; 등은 특히 뛰어난 작품이다.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:label xml:lang="vi">T. S. Eliot</rdfs:label>
+    <rdfs:comment xml:lang="cs">Thomas Stearns Eliot byl anglický básník, esejista a dramatik amerického původu, nositel Nobelovy ceny za literaturu za rok 1948.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="nl">Thomas Stearns Eliot was een Amerikaans-Brits dichter, toneelschrijver en literatuurcriticus. Hij was een van de belangrijkste figuren uit de wereld van de literatuur van de 20e eeuw, een van de grootste vernieuwers van de poëzie, en kreeg in 1948 de Nobelprijs voor de Literatuur.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Элиот,_Томас_Стернз"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=1631"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MiltonAcademyAlumni"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_Nobel_laureates"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Thomas_Stearns_Eliot"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/England"/>
     <dbpedia-owl:abstract xml:lang="sv">Thomas Stearns Eliot, T. S. Eliot, född 26 september 1888 i Saint Louis, Missouri, död 4 januari 1965 i London, var en amerikansk-brittisk författare, poet och litteraturkritiker. Eliot föddes i USA men flyttade 1914 till Storbritannien, blev brittisk medborgare och gick in i den anglikanska kyrkan år 1927. Han tilldelades Nobelpriset i litteratur år 1948. Eliots poesi tillhörde till stor del T.E. Hulmes intellektualiserade imagistiska skola, men ett av hans idag mer kända verk är ändå barnboken De knepiga katternas bok som ligger till grund för den populära musikalen Cats. Eliots främsta och mest kända verk är dikten Det öde landet.</dbpedia-owl:abstract>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ts_elliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawrence_Durrell">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T.S._Elliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Donne">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet_and_the_New_Poetic:_James_Joyce_and_T._S._Eliot">
-    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Arnold">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Butler_(poet)">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jay_Wright_(poet)">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/TS_Eliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Donna_Tartt">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Pinter">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T.S_Eliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Allen_Tate">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Delmore_Schwartz">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T.S_Elliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_H._Quillian">
-    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <skos:subject rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/F._H._Bradley">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_Burgess">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Denis_Johnson">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Laird">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hart_Crane">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Love_Song_of_J._Alfred_Prufrock">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweeney_among_the_Nightingales">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T.s._Eliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweeney_Agonistes">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Veno_Taufer">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Stearns_Eliot,_OM">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Guido_Monte">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_S._Eliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Niko_Grafenauer">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Four_Quartets">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyriakos_Charalambides">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Seamus_Heaney">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/TSE">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T.S.Eliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T_S_Eliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mr._Mistoffelees">
-    <dbpprop:source rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T_Eliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Conrad_Aiken">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeanette_Winterson">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/TS_Elliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Cocktail_Party">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Dos_Passos">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mircea_C%C4%83rt%C4%83rescu">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Nobel_laureates_by_university_affiliation">
-    <dbpprop:t rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugenio_Montale">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/T._S._Eliot">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Browning">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Barfield">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dante_Alighieri">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Pinsky">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T.s._eliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Davidson_(poet)">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.nytimes.com/N55542446246253584953">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joel_Chandler_Harris">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Randall_Jarrell">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralph_Ellison">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Russell_Kirk">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T._S._Elliott">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dean_Koontz">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Hughes">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Harvard_University_people">
-    <dbpprop:name rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T._S._Elliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ts_eliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Evelyn_Underhill">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T.S._Eliot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Macavity">
-    <dbpprop:source rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Stearns">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gelu_Vla%C5%9Fin">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cats_(musical)">
-    <dbpedia-owl:lyrics rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpprop:lyrics rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/T._S._Eliot">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hedwig_Gorski">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Eliot_College,_Kent">
-    <dbpprop:namedAfter rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T.S.E.">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/T._S._Eliot"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Ezra_Pound"/>
   </rdf:Description>
 </rdf:RDF>

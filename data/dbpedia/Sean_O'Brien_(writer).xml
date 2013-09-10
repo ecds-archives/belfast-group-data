@@ -10,48 +10,39 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Sean_O%27Brien_%28writer%29">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sean_O'Brien_(writer)"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Sean_O'Brien_(writer)">
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1952</dbpprop:dateOfBirth>
-    <rdfs:comment xml:lang="en">Sean O'Brien (born 19 December 1952 in London) is a British poet, critic, playwright. Prizes he has garnered include the Eric Gregory Award (1979), the Somerset Maugham Award (1984), the Cholmondeley Award (1988), the Forward Poetry Prize (2001 and 2007) and the T. S. Eliot Prize (2007). He is one of only two poets (the other being John Burnside) to have won both the T. S. Eliot Prize and the Forward Poetry Prize for the same collection of poems (The Drowned Book).</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_Kingston_upon_Hull"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.026f3hp"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dbpprop:placeOfBirth xml:lang="en">London</dbpprop:placeOfBirth>
-    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.contemporarywriters.com"/>
     <foaf:name xml:lang="en">Sean Obrien</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/3/36/Sean_O'Brien_by_Gerry_Wardle.jpg"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPoets"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sean_O'Brien_by_Gerry_Wardle.jpg/200px-Sean_O'Brien_by_Gerry_Wardle.jpg"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryarchive.org"/>
+    <foaf:surname xml:lang="en">Obrien</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfLiterature"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Sean_O'Brien_(writer)"/>
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sean_O'Brien_(writer)"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.contemporarywriters.com"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:surname xml:lang="en">Obrien</foaf:surname>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_Kingston_upon_Hull"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1952_births"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Selwyn_College,_Cambridge"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Sean_O'Brien_(writer)"/>
-    <dbpprop:name xml:lang="en">Obrien, Sean</dbpprop:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryarchive.org"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <foaf:givenName xml:lang="en">Sean</foaf:givenName>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sean_O'Brien_(writer)?oldid=486881520"/>
     <dc:description xml:lang="en">Poet</dc:description>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/3/36/Sean_O'Brien_by_Gerry_Wardle.jpg"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfLiterature"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromKingstonUponHull"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sean_O'Brien_(writer)?oldid=486881520"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
     <dbpedia-owl:abstract xml:lang="en">Sean O'Brien (born 19 December 1952 in London) is a British poet, critic, playwright. Prizes he has garnered include the Eric Gregory Award (1979), the Somerset Maugham Award (1984), the Cholmondeley Award (1988), the Forward Poetry Prize (2001 and 2007) and the T. S. Eliot Prize (2007). He is one of only two poets (the other being John Burnside) to have won both the T. S. Eliot Prize and the Forward Poetry Prize for the same collection of poems (The Drowned Book). He grew up in Hull, was educated at Selwyn College, University of Cambridge and has lived in Newcastle upon Tyne since 1990.</dbpedia-owl:abstract>
+    <dbpprop:placeOfBirth xml:lang="en">London</dbpprop:placeOfBirth>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.026f3hp"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Selwyn_College,_Cambridge"/>
+    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1952</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromKingstonUponHull"/>
     <rdfs:label xml:lang="en">Sean O'Brien (writer)</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Sean_O'Brien_(writer)">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Sean_O'Brien_(writer)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sean_O'Brien">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Sean_O'Brien_(writer)"/>
+    <dbpprop:name xml:lang="en">Obrien, Sean</dbpprop:name>
+    <foaf:givenName xml:lang="en">Sean</foaf:givenName>
+    <rdfs:comment xml:lang="en">Sean O'Brien (born 19 December 1952 in London) is a British poet, critic, playwright. Prizes he has garnered include the Eric Gregory Award (1979), the Somerset Maugham Award (1984), the Cholmondeley Award (1988), the Forward Poetry Prize (2001 and 2007) and the T. S. Eliot Prize (2007). He is one of only two poets (the other being John Burnside) to have won both the T. S. Eliot Prize and the Forward Poetry Prize for the same collection of poems (The Drowned Book).</rdfs:comment>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sean_O'Brien_by_Gerry_Wardle.jpg/200px-Sean_O'Brien_by_Gerry_Wardle.jpg"/>
   </rdf:Description>
 </rdf:RDF>

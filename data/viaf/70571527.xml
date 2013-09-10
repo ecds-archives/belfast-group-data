@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/70571527/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/70571527"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C152180826#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Csokits, János</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/70571527"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/70571527">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>János, Csokits</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/152180826"/>
+    <foaf:name>Csokits, János</foaf:name>
+    <foaf:name>Csokits, János 1928-2011</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb129773557#foaf:Person"/>
+    <rdaGr2:dateOfDeath>2011-08-04</rdaGr2:dateOfDeath>
+    <rdaGr2:dateOfBirth>1928-06-30</rdaGr2:dateOfBirth>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++91067033#skos:Concept">
+    <skos:prefLabel>Csokits, János</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/70571527"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n91067033"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/70571527/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/70571527"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12977355#skos:Concept">
+    <skos:prefLabel>Csokits, János 1928-2011</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/70571527"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb129773557"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb129773557"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C110508076#skos:Concept">
+    <skos:altLabel>Csokits, János</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Csokits, János</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/70571527"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>János, Csokits</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/70571527/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/70571527"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+</rdf:RDF>

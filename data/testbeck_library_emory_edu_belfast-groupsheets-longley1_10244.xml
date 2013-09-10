@@ -4,89 +4,89 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m52#longley1_10233">
-    <schema:name>DR JOHNSON DYING</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m52#longley1_10218">
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
     <schema:name>NAUSICAA</schema:name>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m52#longley1_10238">
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>IN A CONVENT CEMETERY</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N28ef011b3b914caeb25c74c711a09ead">
+    <rdf:rest rdf:nodeID="Nd7299d3e674e4f1ab9386bf50392af85"/>
+    <rdf:first>In a Convent Cemetery</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/d4e213dc2a023235f7c2d694f47f23dd">
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m52"/>
+    <dc:title rdf:nodeID="N9d8aab2e4e924761a87805beacf4cefc"/>
+    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3578af7fad0d43fa834e40f32e79a99f">
+    <rdf:rest rdf:nodeID="N28ef011b3b914caeb25c74c711a09ead"/>
+    <rdf:first>Dr Johnson Dying</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m52#longley1_10233">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>DR JOHNSON DYING</schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N5341748ebd8140f28870022049dbe572">
-    <rdf:rest rdf:nodeID="N9481838b14454b3882b5fe9207d6fc17"/>
+  <rdf:Description rdf:nodeID="N9d8aab2e4e924761a87805beacf4cefc">
     <rdf:first>Gathering Mushrooms</rdf:first>
+    <rdf:rest rdf:nodeID="N4172ad927f424bc1bb98812992b6dc86"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nd67ea92cc14c4cf2bb9de38c1500d062">
+  <rdf:Description rdf:nodeID="N4172ad927f424bc1bb98812992b6dc86">
+    <rdf:first>To Bix Beiderbecke                 </rdf:first>
+    <rdf:rest rdf:nodeID="Nedb5749475654c41895ecb374f2c2a6b"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd7299d3e674e4f1ab9386bf50392af85">
     <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
     <rdf:first>Remembrance Day</rdf:first>
   </rdf:Description>
-  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/d4e213dc2a023235f7c2d694f47f23dd">
-    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
-    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m52"/>
-    <dc:title rdf:nodeID="N5341748ebd8140f28870022049dbe572"/>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m52#longley1_10213">
+    <schema:name>TO BIX BEIDERBECKE
+                        </schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m52#longley1_10228">
+    <schema:name>NARCISSUS</schema:name>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <schema:name>NARCISSUS</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Na69ce711a87549fbb2b9654d116d8991">
-    <rdf:first>Nausicaa</rdf:first>
-    <rdf:rest rdf:nodeID="N84561c2451e94b5d8d49bd901deff9b5"/>
+  <rdf:Description rdf:nodeID="N605a97e8ade8471688dad8537b4e8eac">
+    <rdf:first>Narcissus</rdf:first>
+    <rdf:rest rdf:nodeID="N3578af7fad0d43fa834e40f32e79a99f"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name>MICHAEL LONGLEY</schema:name>
     <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m52#longley1_10208">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>GATHERING MUSHROOMS</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+  <rdf:Description rdf:nodeID="Nedb5749475654c41895ecb374f2c2a6b">
+    <rdf:rest rdf:nodeID="N6dd9913aad234ea297f346a636ac3fe6"/>
+    <rdf:first>Nausicaa</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6dd9913aad234ea297f346a636ac3fe6">
+    <rdf:first>The Freemartin</rdf:first>
+    <rdf:rest rdf:nodeID="N605a97e8ade8471688dad8537b4e8eac"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m52#longley1_10223">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
     <schema:name>THE FREEMARTIN</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m52#longley1_10238">
-    <schema:name>IN A CONVENT CEMETERY</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N573109e58d154b8d9d72fffd8a1bb284">
-    <rdf:first>Narcissus</rdf:first>
-    <rdf:rest rdf:nodeID="Nc3d0c418b1db4f96aebded7f759f1859"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m52#longley1_10213">
-    <schema:name>TO BIX BEIDERBECKE
-                        </schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc3d0c418b1db4f96aebded7f759f1859">
-    <rdf:rest rdf:nodeID="Nd0cbd9034e72460bbf63dd5f68806112"/>
-    <rdf:first>Dr Johnson Dying</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N9481838b14454b3882b5fe9207d6fc17">
-    <rdf:rest rdf:nodeID="Na69ce711a87549fbb2b9654d116d8991"/>
-    <rdf:first>To Bix Beiderbecke                 </rdf:first>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m52#longley1_10243">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>REMEMBRANCE DAY</schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>REMEMBRANCE DAY</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N84561c2451e94b5d8d49bd901deff9b5">
-    <rdf:first>The Freemartin</rdf:first>
-    <rdf:rest rdf:nodeID="N573109e58d154b8d9d72fffd8a1bb284"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nd0cbd9034e72460bbf63dd5f68806112">
-    <rdf:rest rdf:nodeID="Nd67ea92cc14c4cf2bb9de38c1500d062"/>
-    <rdf:first>In a Convent Cemetery</rdf:first>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m52#longley1_10208">
+    <schema:name>GATHERING MUSHROOMS</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
   </rdf:Description>
 </rdf:RDF>

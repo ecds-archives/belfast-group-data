@@ -8,105 +8,16 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C107757885#skos:Concept">
-    <skos:altLabel>Smith, Cecil Woodham-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C070224196#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
-    <skos:prefLabel>Woodham-Smith, Cecil</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C030108314#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Woodham-Smith, Cecil, 1896-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
     <skos:altLabel>Smith, Cecil Woodham-</skos:altLabel>
+    <skos:prefLabel>Woodham-Smith, Cecil (Cecil Blanche Fitz Gerald)</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/22180353/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12159015#skos:Concept">
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12159015v"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12159015v"/>
-    <skos:altLabel>Smith, Cecil Woodham-</skos:altLabel>
-    <skos:prefLabel>Woodham-Smith, Cecil, 1896-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036142835#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
-    <skos:altLabel>Gordon, Janet, 1896-</skos:altLabel>
-    <skos:altLabel>Woodham Smith, Cecil Blanche Fitz Gerald, 1896-</skos:altLabel>
-    <skos:altLabel>Smith, Cecil Woodham-, 1896-</skos:altLabel>
-    <skos:prefLabel>Woodham-Smith, Cecil, 1896-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C070224196#skos:Concept">
-    <skos:prefLabel>Woodham-Smith, Cecil (Cecil Blanche Fitz Gerald)</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
-    <skos:altLabel>Smith, Cecil Woodham-</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C304043#skos:Concept">
-    <skos:prefLabel>Woodham-Smith, Cecil, 1896-1977</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
-    <skos:altLabel>Smith, Cecil Woodham-, 1896-1977</skos:altLabel>
-    <skos:altLabel>Woodham Smith, Cecil Blanche Fitzgerald, 1896-1977</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/304043#concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++96021110#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:altLabel>Smith, Cecil Blanche Fitz Gerald Woodham.</skos:altLabel>
-    <skos:prefLabel>Woodham-Smith, Cecil, 1896-....</skos:prefLabel>
-    <skos:altLabel>Woodham-Smith, Cecil Blanche Fitz Gerald.</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80040157#skos:Concept">
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80040157"/>
-    <skos:altLabel>Smith, Cecil Blanche Fitz Gerald Woodham, 1896-1977</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:prefLabel>Woodham-Smith, Cecil, 1896-1977</skos:prefLabel>
-    <skos:altLabel>Woodham Smith, Cecil Blanche Fitz Gerald, 1896-1977</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000143169#skos:Concept">
-    <skos:prefLabel>Woodham-Smith, Cecil Blanche Fitz Gerald</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <skos:altLabel>Smith, Cecil Blanche Fitz Gerald Woodham.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/22180353/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/22180353"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C149270#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
-    <skos:prefLabel>Woodham-Smith, Cecil</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca24417002#skos:Concept">
-    <skos:altLabel>Smith, Cecil Blanche Fitz Gerald Woodham.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <skos:altLabel>Gordon, Janet.</skos:altLabel>
-    <skos:altLabel>Woodham-Smith, Cecil Blanche Fitz Gerald.</skos:altLabel>
-    <skos:prefLabel>Woodham-Smith, Cecil, 1896-1977</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/22180353/#foaf:Person">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/22180353"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CCecil_Woodham-Smith#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
@@ -114,44 +25,133 @@
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
     <skos:prefLabel>Woodham-Smith, Cecil</skos:prefLabel>
   </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/22180353/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/22180353"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/22180353/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/22180353"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca24417002#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
+    <skos:altLabel>Woodham-Smith, Cecil Blanche Fitz Gerald.</skos:altLabel>
+    <skos:prefLabel>Woodham-Smith, Cecil, 1896-1977</skos:prefLabel>
+    <skos:altLabel>Gordon, Janet.</skos:altLabel>
+    <skos:altLabel>Smith, Cecil Blanche Fitz Gerald Woodham.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C107757885#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Woodham-Smith, Cecil</skos:prefLabel>
+    <skos:altLabel>Smith, Cecil Woodham-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++96021110#skos:Concept">
+    <skos:prefLabel>Woodham-Smith, Cecil, 1896-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
+    <skos:altLabel>Smith, Cecil Blanche Fitz Gerald Woodham.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Woodham-Smith, Cecil Blanche Fitz Gerald.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C030108314#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Woodham-Smith, Cecil, 1896-....</skos:prefLabel>
+    <skos:altLabel>Smith, Cecil Woodham-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000143169#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Woodham-Smith, Cecil Blanche Fitz Gerald</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
+    <skos:altLabel>Smith, Cecil Blanche Fitz Gerald Woodham.</skos:altLabel>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/22180353">
-    <foaf:name>Smith, Cecil Blanche Fitz Gerald Woodham.</foaf:name>
-    <foaf:name>Woodham-Smith, Cecil</foaf:name>
-    <foaf:name>Gordon, Janet, 1896-</foaf:name>
     <foaf:name>Woodham-Smith, Cecil Blanche Fitz Gerald</foaf:name>
-    <foaf:name>Woodham Smith, Cecil Blanche, 1896-</foaf:name>
-    <rdaGr2:dateOfDeath>1977-03-16</rdaGr2:dateOfDeath>
-    <foaf:name>Smith, Cecil Woodham-, 1896-1977</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/030108314/id"/>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/304043"/>
-    <foaf:name>Gordon, Janet.</foaf:name>
-    <foaf:name>ウーダム・スミス, セシル</foaf:name>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/1934085"/>
-    <foaf:name>Woodham Smith, Cecil Blanche Fitz Gerald, 1896-1977</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cecil_Woodham-Smith"/>
     <foaf:name>Woodham-Smith, Cecil (Cecil Blanche Fitz Gerald)</foaf:name>
-    <foaf:name>Woodham-Smith, Cecil, 1896-1977</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Woodham-Smith, Cecil Blanche Fitz Gerald.</foaf:name>
-    <foaf:name>Woodham Smith, Cecil Blanche Fitzgerald, 1896-1977</foaf:name>
     <foaf:name>ウッダムースミス, セシル</foaf:name>
-    <foaf:name>Smith, Cecil Woodham-, 1896-</foaf:name>
-    <rdaGr2:dateOfBirth>1896-04-29</rdaGr2:dateOfBirth>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/1934085"/>
-    <foaf:name>Woodham-Smith, Cecil, 1896-....</foaf:name>
-    <foaf:name>Woodham Smith, Cecil Blanche Fitz Gerald, 1896-</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12159015v#foaf:Person"/>
+    <foaf:name>Smith, Cecil Woodham-, 1896-1977</foaf:name>
     <foaf:name>Smith, Cecil Woodham-</foaf:name>
+    <rdaGr2:dateOfBirth>1896-04-29</rdaGr2:dateOfBirth>
+    <foaf:name>Smith, Cecil Woodham-, 1896-</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/030108314/id"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cecil_Woodham-Smith"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <owl:sameAs rdf:resource="http://d-nb.info/gnd/107757885"/>
+    <foaf:name>Woodham-Smith, Cecil, 1896-1977</foaf:name>
+    <foaf:name>Woodham Smith, Cecil Blanche Fitz Gerald, 1896-1977</foaf:name>
+    <rdaGr2:dateOfDeath>1977-03-16</rdaGr2:dateOfDeath>
+    <foaf:name>Woodham Smith, Cecil Blanche, 1896-</foaf:name>
+    <foaf:name>Gordon, Janet, 1896-</foaf:name>
+    <foaf:name>ウーダム・スミス, セシル</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/304043"/>
+    <foaf:name>Woodham Smith, Cecil Blanche Fitz Gerald, 1896-</foaf:name>
     <foaf:name>Smith, Cecil Blanche Fitz Gerald Woodham, 1896-1977</foaf:name>
+    <foaf:name>Woodham-Smith, Cecil, 1896-....</foaf:name>
+    <foaf:name>Woodham Smith, Cecil Blanche Fitzgerald, 1896-1977</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/1934085"/>
+    <foaf:name>Woodham-Smith, Cecil</foaf:name>
+    <foaf:name>Woodham-Smith, Cecil Blanche Fitz Gerald.</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12159015v#foaf:Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Gordon, Janet.</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/1934085"/>
+    <foaf:name>Smith, Cecil Blanche Fitz Gerald Woodham.</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C304043#skos:Concept">
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/304043#concept"/>
+    <skos:altLabel>Woodham Smith, Cecil Blanche Fitzgerald, 1896-1977</skos:altLabel>
+    <skos:prefLabel>Woodham-Smith, Cecil, 1896-1977</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:altLabel>Smith, Cecil Woodham-, 1896-1977</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12159015#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Woodham-Smith, Cecil, 1896-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12159015v"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12159015v"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
+    <skos:altLabel>Smith, Cecil Woodham-</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00461403#skos:Concept">
-    <skos:prefLabel>Woodham Smith, Cecil Blanche, 1896-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
     <skos:altLabel>ウーダム・スミス, セシル</skos:altLabel>
-    <skos:altLabel>ウッダムースミス, セシル</skos:altLabel>
+    <skos:prefLabel>Woodham Smith, Cecil Blanche, 1896-</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:altLabel>ウッダムースミス, セシル</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036142835#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:altLabel>Smith, Cecil Woodham-, 1896-</skos:altLabel>
+    <skos:altLabel>Woodham Smith, Cecil Blanche Fitz Gerald, 1896-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Woodham-Smith, Cecil, 1896-....</skos:prefLabel>
+    <skos:altLabel>Gordon, Janet, 1896-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80040157#skos:Concept">
+    <skos:altLabel>Smith, Cecil Blanche Fitz Gerald Woodham, 1896-1977</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80040157"/>
+    <skos:altLabel>Woodham Smith, Cecil Blanche Fitz Gerald, 1896-1977</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Woodham-Smith, Cecil, 1896-1977</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C149270#skos:Concept">
+    <skos:prefLabel>Woodham-Smith, Cecil</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22180353"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
   </rdf:Description>
 </rdf:RDF>

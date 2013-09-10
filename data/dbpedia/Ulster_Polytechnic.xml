@@ -7,15 +7,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ulster_Polytechnic">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ulster_Polytechnic"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ulster_Polytechnic">
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Ulster"/>
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Ulster"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ulster_Polytechnic"/>
-    <rdfs:label xml:lang="en">Ulster Polytechnic</rdfs:label>
     <ns5:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ulster_Polytechnic?oldid=432967026"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ulster_Polytechnic"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Ulster"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1971"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Ulster"/>
+    <rdfs:label xml:lang="en">Ulster Polytechnic</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

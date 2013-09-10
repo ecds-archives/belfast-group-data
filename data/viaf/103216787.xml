@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CMichael_Hartnett#skos:Concept">
+    <skos:prefLabel>Hartnett, Michael</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103216787"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50028354#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50028354"/>
+    <skos:altLabel>Ó hAirtnéide, Mícheál, 1941-1999</skos:altLabel>
+    <skos:prefLabel>Hartnett, Michael, 1941-1999</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103216787"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C12894739X#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103216787"/>
+    <skos:altLabel>Ó hAirtnéide, Mícheál, 1941-1999</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hartnett, Michael, 1941-1999</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035176169#skos:Concept">
+    <skos:prefLabel>Hartnett, Michael, 1941-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103216787"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/103216787/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103216787"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028761294#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103216787"/>
+    <skos:prefLabel>Hartnett, Michael, 1941-1999</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++01013045#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103216787"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hartnett, Michael, 1941-</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/103216787">
+    <rdaGr2:dateOfBirth>1941-09-18</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://www.idref.fr/028761294/id"/>
+    <rdaGr2:dateOfDeath>1999-10-13</rdaGr2:dateOfDeath>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Ó hAirtnéide, Mícheál, 1941-1999</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12053071q#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Michael_Hartnett"/>
+    <foaf:name>Hartnett, Michael</foaf:name>
+    <foaf:name>Hartnett, Michael, 1941-</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/12894739X"/>
+    <foaf:name>Hartnett, Michael, 1941-1999</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/103216787/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/103216787"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Ckup20020000036331#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103216787"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hartnett, Michael, 1941-1999</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12053071#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12053071q"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:prefLabel>Hartnett, Michael, 1941-1999</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103216787"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12053071q"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/103216787/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/103216787"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C239895819#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103216787"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hartnett, Michael, 1941-1999</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

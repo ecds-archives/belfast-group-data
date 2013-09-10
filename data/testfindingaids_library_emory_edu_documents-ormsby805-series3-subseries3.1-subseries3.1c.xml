@@ -4,19 +4,19 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="N5f42667252c948b185d970eb90c98bd4">
-    <dc:title xml:lang="en">A Farewell to Arms</dc:title>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/2481390"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1c/">
-    <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
     <rdf:type rdf:resource="http://schema.org/WebPage"/>
     <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004; Subseries 3.1c: Uncollected poetry, 1970-1995</schema:name>
-    <schema:mentions rdf:nodeID="N5f42667252c948b185d970eb90c98bd4"/>
+    <schema:mentions rdf:nodeID="N01ead37a184247e3b93927c339c3a339"/>
+    <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N01ead37a184247e3b93927c339c3a339">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">A Farewell to Arms</dc:title>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/2481390"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/2481390">
-    <schema:name xml:lang="en">David Selznick's</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">David Selznick's</schema:name>
   </rdf:Description>
 </rdf:RDF>

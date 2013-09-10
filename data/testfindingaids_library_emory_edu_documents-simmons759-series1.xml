@@ -5,54 +5,54 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
-    <schema:name xml:lang="en">Michael Longley</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/110228045">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Derek Mahon</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/64048541">
-    <schema:name xml:lang="en">Paul Muldoon</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/120096893">
-    <schema:name xml:lang="en">Medbh McGuckian</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/105939176">
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">Wole Soyinka</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/109297940">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">Tony Harrison</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/simmons759/series1/">
-    <schema:name xml:lang="en">James Simmons papers, 1945-1996; Series 1: Correspondence, 1944-1996</schema:name>
-    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/92591927">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:knows rdf:resource="http://viaf.org/viaf/105939176"/>
-    <schema:knows rdf:resource="http://viaf.org/viaf/120096893"/>
-    <schema:knows rdf:resource="http://viaf.org/viaf/110228045"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/simmons759/series1/subseries1.5/"/>
-    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/109297940"/>
-    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/39398205"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/simmons759/series1/subseries1.3/"/>
-    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/120096893"/>
-    <schema:knows rdf:resource="http://viaf.org/viaf/64048541"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/simmons759/series1/subseries1.4/"/>
     <arch:correspondedWith rdf:resource="http://viaf.org/viaf/105939176"/>
-    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/64048541"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/simmons759/series1/subseries1.2/"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/simmons759/series1/subseries1.1/"/>
-    <schema:knows rdf:resource="http://viaf.org/viaf/109297940"/>
     <schema:knows rdf:resource="http://viaf.org/viaf/39398205"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/110228045"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/simmons759/series1/subseries1.4/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/simmons759/series1/subseries1.2/"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/64048541"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/simmons759/series1/subseries1.3/"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/109297940"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/105939176"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/39398205"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/simmons759/series1/subseries1.5/"/>
     <arch:correspondedWith rdf:resource="http://viaf.org/viaf/110228045"/>
     <schema:about rdf:resource="http://viaf.org/viaf/92591927"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/simmons759/series1/subseries1.1/"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/120096893"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/64048541"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/120096893"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/109297940"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/120096893">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Medbh McGuckian</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
+    <schema:name xml:lang="en">Michael Longley</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/110228045">
+    <schema:name xml:lang="en">Derek Mahon</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/simmons759/series1/">
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
+    <schema:name xml:lang="en">James Simmons papers, 1945-1996; Series 1: Correspondence, 1944-1996</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/64048541">
+    <schema:name xml:lang="en">Paul Muldoon</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
 </rdf:RDF>

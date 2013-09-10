@@ -10,50 +10,37 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Seidel">
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/JewishAmericanWriters"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1936_births"/>
-    <rdfs:label xml:lang="en">Frederick Seidel</rdfs:label>
-    <rdfs:comment xml:lang="en">Frederick Seidel (born February 19, 1936) is an American poet.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
     <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Frederick_Seidel?oldid=456456510"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-02-19</dbpedia-owl:birthDate>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_American_writers"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.griffinpoetryprize.com/awards-and-poets/shortlists/2007-shortlist/frederick-seidel/"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <foaf:surname xml:lang="en">Seidel</foaf:surname>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WritersFromMissouri"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_Missouri"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Frederick_Seidel"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-02-19</dbpprop:dateOfBirth>
-    <foaf:name xml:lang="en">Frederick Seidel</foaf:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_St._Louis,_Missouri"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://frederickseidel.com/"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://poets.org/poet.php/prmPID/546"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/HarvardUniversityAlumni"/>
-    <dbpprop:name xml:lang="en">Seidel, Frederick</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/JewishAmericanWriters"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://poets.org/poet.php/prmPID/546"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <foaf:givenName xml:lang="en">Frederick</foaf:givenName>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03zz64"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WritersFromMissouri"/>
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Frederick_Seidel"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Harvard_University_alumni"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03zz64"/>
     <dbpedia-owl:abstract xml:lang="en">Frederick Seidel (born February 19, 1936) is an American poet.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1936_births"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.griffinpoetryprize.com/awards-and-poets/shortlists/2007-shortlist/frederick-seidel/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Harvard_University_alumni"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_Missouri"/>
+    <rdfs:comment xml:lang="en">Frederick Seidel (born February 19, 1936) is an American poet.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_American_writers"/>
+    <dbpprop:name xml:lang="en">Seidel, Frederick</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
+    <rdfs:label xml:lang="en">Frederick Seidel</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
+    <foaf:name xml:lang="en">Frederick Seidel</foaf:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://frederickseidel.com/"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Frederick_Seidel"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_St._Louis,_Missouri"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-02-19</dbpedia-owl:birthDate>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromSt.Louis,Missouri"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Frederick_Seidel">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Frederick_Seidel"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Seidel">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Frederick_Seidel"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Frederick_Seidel">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Frederick_Seidel"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Lowell">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Frederick_Seidel"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Frederick_Seidel"/>
+    <foaf:givenName xml:lang="en">Frederick</foaf:givenName>
+    <foaf:surname xml:lang="en">Seidel</foaf:surname>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-02-19</dbpprop:dateOfBirth>
   </rdf:Description>
 </rdf:RDF>

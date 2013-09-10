@@ -9,208 +9,112 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Madwoman_of_Chaillot_(film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Virtuous_Island">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/L'Impromptu_de_Paris">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giraudoux">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Electra_(Giraudoux)">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Angels_of_the_Streets">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Enchanted_(play)">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Amphitryon_38">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Trojan_War_Will_Not_Take_Place">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Siegfried_(play)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Girardoux">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giraudoux,_Hyppolyte">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyppolyte_Giraudoux">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Madwoman_of_Chaillot">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Song_of_Songs_(Giraudoux)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Duel_of_Angels">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Anouilh">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Giraudoux">
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.worldcat.org/title/plays-vol-2-giraudoux-jean/oclc/656767230&amp;referer=brief_results"/>
-    <dbpprop:name xml:lang="en">Jean Giraudoux</dbpprop:name>
-    <dbpedia-owl:individualisedPnd xml:lang="de">118539523</dbpedia-owl:individualisedPnd>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1944_deaths"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+    <rdfs:label xml:lang="ca">Jean Giraudoux</rdfs:label>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:placeOfBirth xml:lang="en">Bellac, Haute-Vienne</dbpprop:placeOfBirth>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=7158"/>
-    <foaf:givenName xml:lang="en">Jean</foaf:givenName>
-    <rdfs:comment xml:lang="en">Hippolyte Jean Giraudoux (29 October 1882 – 31 January 1944) was a French novelist, essayist, diplomat and playwright. He is considered among the most important French dramatists of the period between World War I and World War II. His work is noted for its stylistic elegance and poetic fantasy. Giraudoux's dominant theme is the relationship between man and woman—or in some cases, between man and some unattainable ideal.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.doollee.com/PlaywrightsG/giraudoux-jean.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.worldcat.org/title/three-plays/oclc/751419&amp;referer=brief_results"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Lyc%C3%A9e_Lakanal_alumni"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Jean_Giraudoux"/>
+    <rdfs:label xml:lang="de">Jean Giraudoux</rdfs:label>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Haute-Vienne"/>
+    <rdfs:comment xml:lang="uk">Іполит-Жан Жіроду - французький новеліст, ессеїст, драматург і дипломат.</rdfs:comment>
     <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/6/6c/Jean_Giraudoux_1927.jpg"/>
     <rdfs:comment xml:lang="pt">Hyppolyte Jean Giraudoux foi um escritor francês.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:French_essayists"/>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Жироду,_Жан"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <rdfs:label xml:lang="de">Jean Giraudoux</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:French_diplomats"/>
-    <rdfs:comment xml:lang="ja">ジャン・ジロドゥ（Jean Giraudoux）は、フランスの外交官・劇作家・小説家。1882年10月29日、オート＝ヴィエンヌ県の小都邑ベラックに生まれ、1944年1月31日、ナチス占領末期のパリに没した。</rdfs:comment>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jean_Giraudoux_1927.jpg/200px-Jean_Giraudoux_1927.jpg"/>
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
-    <rdfs:comment xml:lang="ru">Ипполит-Жан Жироду — французский новеллист, эссеист, драматург и дипломат.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0jkr5"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
     <dbpedia-owl:abstract xml:lang="pl">Hippolyte Jean Giraudoux, pochowany na Cmentarzu Passy – francuski powieściopisarz i dramaturg. Pochodził z rodziny wieśniaczej. Jego ojciec Léger Giraudoux, pracował dla Ministra Transportu. Studiował w Châteauroux, w Paryż i przez pewien czas w Monachium. Był lektorem na Uniwersytecie Harvarda. Ożenił się w 1918 roku. Początkowo pisał tylko nowele i powieści skrzące się inteligencją, dowcipem i językową wirtuozerią, m. in. Prowincjałki, Zuzanna i Pacyfik (Suzanne et le Pacifique, 1921) i Bella, będący pod wyraźnym wpływem Paula Moranda. Od spotkania z wybitnym aktorem i reżyserem, uznawanym za jednego z najwybitniejszych inscenizatorów we współczesnym teatrze francuskim – Louisem Jouvetem – zaczął pisać dla teatru, m. in. sztuki Zygfryd, czyli Limousin (Siegfried et le Limousin, 1922), Eglantine, Amfitrion 38, Wojny trojańskiej nie będzie, Elektra oraz wystawiona już pośmiertnie Wariatka z Challiot.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <rdfs:comment xml:lang="ca">Jean Giraudoux va ser un novel·lista i autor dramàtic.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="en">Hippolyte Jean Giraudoux (29 October 1882 – 31 January 1944) was a French novelist, essayist, diplomat and playwright. He is considered among the most important French dramatists of the period between World War I and World War II. His work is noted for its stylistic elegance and poetic fantasy. Giraudoux's dominant theme is the relationship between man and woman—or in some cases, between man and some unattainable ideal.</dbpedia-owl:abstract>
-    <dbpprop:notableworks xml:lang="en">Duel of Angels,</dbpprop:notableworks>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.worldcat.org/title/four-plays/oclc/807008&amp;referer=brief_results"/>
-    <rdfs:comment xml:lang="es">Hippolyte Jean Giraudoux fue un escritor francés.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Commandeurs_of_the_L%C3%A9gion_d'honneur"/>
-    <dbpprop:notableworks xml:lang="en">Ondine,</dbpprop:notableworks>
-    <dbpprop:notableworks xml:lang="en">The Trojan War Will Not Take Place</dbpprop:notableworks>
-    <dbpedia-owl:abstract xml:lang="ru">Ипполит-Жан Жироду — французский новеллист, эссеист, драматург и дипломат.</dbpedia-owl:abstract>
-    <dbpprop:notableworks xml:lang="en">The Madwoman of Chaillot,</dbpprop:notableworks>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Jean_Anouilh"/>
-    <rdfs:comment xml:lang="ko">이폴리트 장 지로두 는 프랑스의 극작가·소설가이다. 리모지 지방의 한촌(寒村)에서 태어나 우수한 성적으로 고등사범학교를 졸업하였다. 독일과 미국에서 교사·언론인의 경력을 가진 뒤 단편집 《시골 여자들》(1909) 로 등장했다. 우연한 기회로 1910년에 외교관 생활로 들어가 1940년까지 계속하였다. 이때부터 이미 소설을 쓰기 시작했으나, 1922년에 발표된 소설 &lt;지크프리트와 리므잔의 사람들&gt;이 루이 주베의 눈에 띄어 각색을 의뢰받고, 1928년 초연(初演)에 성공한 이래 극작가로서 인정을 받게 되었다.</rdfs:comment>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Bellac"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.worldcat.org/title/three-plays/oclc/751419&amp;referer=brief_results"/>
-    <rdfs:label xml:lang="uk">Жан Жіроду</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:French_dramatists_and_playwrights"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:French_fantasy_writers"/>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Jean_Giraudoux"/>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpprop:name xml:lang="en">Giraudoux, Jean</dbpprop:name>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.worldcat.org/title/three-plays/oclc/21419365&amp;referer=brief_results"/>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1944-01-31</dbpedia-owl:deathDate>
-    <rdfs:comment xml:lang="it">Esordisce con romanzi brevi e racconti: Le provinciali (Les provinciales, 1909), Susanna e il Pacifico (Suzanne et le Pacifique, 1921), Bella (1926), Eglantine (1927). Dopo aver incontrato Louis Jouvet, scrive soprattutto testi teatrali: Siegfried (1928), Amphitryon 38 (1929), Judith (1931), Intermezzo (1933), La guerra di Troia non si farà (La guerre de Troie n'aura pas lieu, 1935), Electre (1937), Ondine (1939), Sodome e Gomorrhe (1948).</rdfs:comment>
-    <rdfs:comment xml:lang="de">Jean Hyppolyte Giraudoux war ein französischer Berufsdiplomat und Schriftsteller. Als solcher war er vor allem für die Entwicklung des französischen Theaters der Zwischenkriegszeit sehr bedeutsam.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/장_지로두"/>
-    <foaf:surname xml:lang="en">Giraudoux</foaf:surname>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_%C3%89cole_Normale_Sup%C3%A9rieure"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Jean_Anouilh"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <dbpedia-owl:abstract xml:lang="es">Hippolyte Jean Giraudoux fue un escritor francés.</dbpedia-owl:abstract>
-    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1882-10-29</dbpprop:birthDate>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpedia-owl:abstract xml:lang="it">Esordisce con romanzi brevi e racconti: Le provinciali (Les provinciales, 1909), Susanna e il Pacifico (Suzanne et le Pacifique, 1921), Bella (1926), Eglantine (1927). Dopo aver incontrato Louis Jouvet, scrive soprattutto testi teatrali: Siegfried (1928), Amphitryon 38 (1929), Judith (1931), Intermezzo (1933), La guerra di Troia non si farà (La guerre de Troie n'aura pas lieu, 1935), Electre (1937), Ondine (1939), Sodome e Gomorrhe (1948). Postumi sono apparsi i drammi La pazza di Chaillot (La folle de Chaillot, 1945), Per Lucrezia (Pour Lucrèce, 1953) e il romanzo La bugiarda (La menteuse, 1969).</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.doollee.com/PlaywrightsG/giraudoux-jean.html"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Bellac"/>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Jean_Giraudoux"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpprop:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">230</dbpprop:imagesize>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1882_births"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Prix_Blumenthal"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Haute-Vienne"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Passy_Cemetery"/>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Jean_Giraudoux?oldid=492976007"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Haute-Vienne"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Haute-Vienne"/>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジャン・ジロドゥ"/>
-    <rdfs:comment xml:lang="nl">Hippolyte Jean Giraudoux was een Frans diplomaat en schrijver, die vooral naam verwierf met zijn toneelwerken.</rdfs:comment>
-    <rdfs:comment xml:lang="sv">Hippolyte Jean Giraudoux, född 29 oktober 1882 i Bellac, död 31 januari 1944 i Paris, var en fransk författare. Giraudoux var en typisk representant för den del av författargenerationen efter första världskriget som fortsatte i André Gide och Paul Valérys fotspår och ställde sig i opposition till den traditionella franska formklarheten.</rdfs:comment>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jean_Giraudoux"/>
-    <rdfs:label xml:lang="ca">Jean Giraudoux</rdfs:label>
-    <dbpprop:caption xml:lang="en">Portrait of Giraudoux in 1927</dbpprop:caption>
-    <rdfs:comment xml:lang="uk">Іполит-Жан Жіроду - французький новеліст, ессеїст, драматург і дипломат.</rdfs:comment>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">31</dbpprop:dateOfDeath>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:French_novelists"/>
-    <foaf:name xml:lang="en">Jean Giraudoux</foaf:name>
-    <dbpprop:placeOfDeath xml:lang="en">Paris, France</dbpprop:placeOfDeath>
-    <dbpprop:occupation xml:lang="en">Dramatist</dbpprop:occupation>
-    <dbpedia-owl:abstract xml:lang="ja">ジャン・ジロドゥ（Jean Giraudoux）は、フランスの外交官・劇作家・小説家。1882年10月29日、オート＝ヴィエンヌ県の小都邑ベラックに生まれ、1944年1月31日、ナチス占領末期のパリに没した。</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="ko">이폴리트 장 지로두 는 프랑스의 극작가·소설가이다. 리모지 지방의 한촌(寒村)에서 태어나 우수한 성적으로 고등사범학교를 졸업하였다. 독일과 미국에서 교사·언론인의 경력을 가진 뒤 단편집 《시골 여자들》(1909) 로 등장했다. 우연한 기회로 1910년에 외교관 생활로 들어가 1940년까지 계속하였다. 이때부터 이미 소설을 쓰기 시작했으나, 1922년에 발표된 소설 &lt;지크프리트와 리므잔의 사람들&gt;이 루이 주베의 눈에 띄어 각색을 의뢰받고, 1928년 초연(初演)에 성공한 이래 극작가로서 인정을 받게 되었다. 처녀희곡 &lt;지크프리트&gt;를 비롯하여 &lt;앙피트리옹 38&gt; &lt;트로이 전쟁은 일어나지 않는다&gt; &lt;엘렉트르&gt;처럼 그리스적인 소재에 있어서나 &lt;간주곡(間奏曲)&gt; &lt;테사&gt; &lt;파리 즉흥(卽興)&gt; &lt;샤요의 광녀(狂女)&gt;와 같은 현대극에 있어서나, &lt;옹딘&gt; &lt;쿠크선장 항해이문(航海異聞)&gt;이나 &lt;베라크의 아폴로&gt;와 같은 옛 이야기 세계에 있어서, 항상 산문에 의한 격조높은 시극(詩劇)을 지향하고 문체야말로 문화(文化)라고 주장했다. 또한 외무성 정보국에 근무한 일이 있는 지로두는 정치평론 뿐만 아니라, 연극에 있어서도 항상 유럽의 운명을 좌우하는 독·불 문제를 취급하였고, 두 문화의 특질을 분명히 하여 그 협조를 주장했다. 더욱이 그것은 판타지와 경묘한 익살과 미소 속에서 대화가 이루어지며, 거기에서 라신과 마리보를 이어받는 문학적으로 향기높은 프랑스적 지성에 의한 희곡이 탄생하였다. 지로두가 '프랑스의 장'이라는 별명을 받고 있는 것도 그 때문이다. 기발한 발상과 자유자재한 상상력과 풍부한 에스프리가 담긴 문체로 결국 제1차 세계 대전 후에 시적 연극의 신풍을 극단 에 불어넣어 그의 공은 폴 클로델과 더불어 높이 평가되고 있다.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Jean_Giraudoux"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">29</dbpprop:dateOfBirth>
-    <dbpprop:nationality xml:lang="en">French</dbpprop:nationality>
     <dbpedia-owl:abstract xml:lang="uk">Іполит-Жан Жіроду - французький новеліст, ессеїст, драматург і дипломат.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="fr">Hippolyte Jean Giraudoux est un écrivain et un diplomate français, né le 29 octobre 1882 à Bellac en Haute-Vienne et mort le 31 janvier 1944 à Paris. Brillant étudiant et soldat décoré pendant la Première Guerre mondiale, il occupe des fonctions diplomatiques et administratives tout en écrivant des romans (Suzanne et le Pacifique en 1921, Siegfried et le Limousin en 1922) avant de se diriger vers le théâtre après sa rencontre avec le comédien Louis Jouvet qui mettra en scène et interprétera ses œuvres principales. Il est aujourd'hui surtout connu pour son théâtre qui compte des pièces célèbres comme Amphitryon 38 (1929), La guerre de Troie n'aura pas lieu (1935), Électre (1937) ou Ondine (1939) ou La Folle de Chaillot jouée en 1945 après sa mort. Jean Giraudoux a participé comme d'autres dramaturges des années 1930-1940 à la réécriture des mythes antiques éclairés par les mentalités modernes. Il a su allier fantaisie poétique et goût pour les images insolites et également associer le tragique et le léger dans une langue élégante et fine, parfois même poétique comme dans Intermezzo ou Ondine. Germanophile et diplomate de carrière, il est Commissaire général à l'information en 1939-1940 et sa situation pendant l'Occupation est complexe et son rôle contrasté. Jean Giraudoux meurt à Paris le 31 janvier 1944, à l'âge de soixante et un ans, à la suite d'un empoisonnement alimentaire ou d'une inflammation du pancréas. L'ensemble de ses 16 pièces est à l'affiche du Théâtre du Nord-Ouest à Paris pendant l'année 2012 à l'occasion d'un festival Giraudoux (affiche ci-après).</dbpedia-owl:abstract>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Jean_Giraudoux"/>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1944-01-31</dbpprop:deathDate>
-    <dbpprop:placeOfBirth xml:lang="en">Bellac, Haute-Vienne</dbpprop:placeOfBirth>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Lyc%C3%A9e_Lakanal_alumni"/>
-    <rdfs:label xml:lang="en">Jean Giraudoux</rdfs:label>
-    <dbpedia-owl:abstract xml:lang="sv">Hippolyte Jean Giraudoux, född 29 oktober 1882 i Bellac, död 31 januari 1944 i Paris, var en fransk författare. Giraudoux var en typisk representant för den del av författargenerationen efter första världskriget som fortsatte i André Gide och Paul Valérys fotspår och ställde sig i opposition till den traditionella franska formklarheten. Giraudoxu framträdde 1909 med novellsamlingen Provinciales, som efterföljdes av L'école des indifférents (1911) och Elpénor (1913), vars med inre monologer fyllda noveller fick sitt egentliga genombrott först efter första världskrigets utbrott. Därefter följde en rad romaner i samma stil, såsom Simon le pathétique (1918, självbiografisk), Amica America (1919), Suzanne et le pacifique (1921), samt den för Giraudoux mycket typiska Sigfrid et le Limousin (1922, svensk översättning 1929) och den politiska nyckelromanen Bella (1926). Senare uppträdde Giraudoux även som dramatiker. Uppvuxen i fransk småstadsmiljö. Gjorde i ungdomen många fotvandringar runtom i Europa och Amerika. Blev 1911 anställd vid franska utrikesdepartementet, där han bland annat verkställde som legationssekreterare i Ryssland (Sovjetunionen) och Främre Orienten. 1939-40 var Giraudoux fransk propagandaminister, men det är för sitt författarskap han är känd för eftervärlden. Texterna är humana och inte sällan satiriska och samhällskritiska. Teaterpjäser (urval) 1928 (1929) - Siegfried (baserad på hans roman Sigfrid et le Limousin från 1922) 1929 (1934) - Amfitryon 38 1935 (1938) - Trojanska kriget blir inte av 1939 - Ondine (Med detta skådespel som grund skapade Daniel-Lesur en opera, med samma namn)</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="ca">Jean Giraudoux va ser un novel·lista i autor dramàtic.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="fr">Hippolyte Jean Giraudoux est un écrivain et un diplomate français, né le 29 octobre 1882 à Bellac en Haute-Vienne et mort le 31 janvier 1944 à Paris.</rdfs:comment>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1882-10-29</dbpedia-owl:birthDate>
-    <dbpedia-owl:abstract xml:lang="de">Jean Hyppolyte Giraudoux war ein französischer Berufsdiplomat und Schriftsteller. Als solcher war er vor allem für die Entwicklung des französischen Theaters der Zwischenkriegszeit sehr bedeutsam.</dbpedia-owl:abstract>
-    <dbpprop:spouse xml:lang="en">Suzanne Boland</dbpprop:spouse>
-    <rdfs:comment xml:lang="pl">Hippolyte Jean Giraudoux, pochowany na Cmentarzu Passy – francuski powieściopisarz i dramaturg. Pochodził z rodziny wieśniaczej. Jego ojciec Léger Giraudoux, pracował dla Ministra Transportu. Studiował w Châteauroux, w Paryż i przez pewien czas w Monachium. Był lektorem na Uniwersytecie Harvarda. Ożenił się w 1918 roku. Początkowo pisał tylko nowele i powieści skrzące się inteligencją, dowcipem i językową wirtuozerią, m. in.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="pt">Hyppolyte Jean Giraudoux foi um escritor francês.</dbpedia-owl:abstract>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
-    <dbpedia-owl:abstract xml:lang="nl">Hippolyte Jean Giraudoux was een Frans diplomaat en schrijver, die vooral naam verwierf met zijn toneelwerken.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Passy_Cemetery"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1944_deaths"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jean_Giraudoux_1927.jpg/200px-Jean_Giraudoux_1927.jpg"/>
     <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Jean_Giraudoux">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Apollo_of_Bellac">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sodom_and_Gomorrah_(play)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ondine_(play)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Judith_(play)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Les_Gracques">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tessa_(play)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dear_World">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Giradoux">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jean_Giraudoux"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118539523</dbpedia-owl:individualisedPnd>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0jkr5"/>
+    <dbpprop:notableworks xml:lang="en">Duel of Angels,</dbpprop:notableworks>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Jean_Anouilh"/>
+    <dbpedia-owl:abstract xml:lang="ru">Ипполит-Жан Жироду — французский новеллист, эссеист, драматург и дипломат.</dbpedia-owl:abstract>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1944-01-31</dbpedia-owl:deathDate>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+    <dbpedia-owl:abstract xml:lang="it">Esordisce con romanzi brevi e racconti: Le provinciali (Les provinciales, 1909), Susanna e il Pacifico (Suzanne et le Pacifique, 1921), Bella (1926), Eglantine (1927). Dopo aver incontrato Louis Jouvet, scrive soprattutto testi teatrali: Siegfried (1928), Amphitryon 38 (1929), Judith (1931), Intermezzo (1933), La guerra di Troia non si farà (La guerre de Troie n'aura pas lieu, 1935), Electre (1937), Ondine (1939), Sodome e Gomorrhe (1948). Postumi sono apparsi i drammi La pazza di Chaillot (La folle de Chaillot, 1945), Per Lucrezia (Pour Lucrèce, 1953) e il romanzo La bugiarda (La menteuse, 1969).</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ko">이폴리트 장 지로두 는 프랑스의 극작가·소설가이다. 리모지 지방의 한촌(寒村)에서 태어나 우수한 성적으로 고등사범학교를 졸업하였다. 독일과 미국에서 교사·언론인의 경력을 가진 뒤 단편집 《시골 여자들》(1909) 로 등장했다. 우연한 기회로 1910년에 외교관 생활로 들어가 1940년까지 계속하였다. 이때부터 이미 소설을 쓰기 시작했으나, 1922년에 발표된 소설 &lt;지크프리트와 리므잔의 사람들&gt;이 루이 주베의 눈에 띄어 각색을 의뢰받고, 1928년 초연(初演)에 성공한 이래 극작가로서 인정을 받게 되었다. 처녀희곡 &lt;지크프리트&gt;를 비롯하여 &lt;앙피트리옹 38&gt; &lt;트로이 전쟁은 일어나지 않는다&gt; &lt;엘렉트르&gt;처럼 그리스적인 소재에 있어서나 &lt;간주곡(間奏曲)&gt; &lt;테사&gt; &lt;파리 즉흥(卽興)&gt; &lt;샤요의 광녀(狂女)&gt;와 같은 현대극에 있어서나, &lt;옹딘&gt; &lt;쿠크선장 항해이문(航海異聞)&gt;이나 &lt;베라크의 아폴로&gt;와 같은 옛 이야기 세계에 있어서, 항상 산문에 의한 격조높은 시극(詩劇)을 지향하고 문체야말로 문화(文化)라고 주장했다. 또한 외무성 정보국에 근무한 일이 있는 지로두는 정치평론 뿐만 아니라, 연극에 있어서도 항상 유럽의 운명을 좌우하는 독·불 문제를 취급하였고, 두 문화의 특질을 분명히 하여 그 협조를 주장했다. 더욱이 그것은 판타지와 경묘한 익살과 미소 속에서 대화가 이루어지며, 거기에서 라신과 마리보를 이어받는 문학적으로 향기높은 프랑스적 지성에 의한 희곡이 탄생하였다. 지로두가 '프랑스의 장'이라는 별명을 받고 있는 것도 그 때문이다. 기발한 발상과 자유자재한 상상력과 풍부한 에스프리가 담긴 문체로 결국 제1차 세계 대전 후에 시적 연극의 신풍을 극단 에 불어넣어 그의 공은 폴 클로델과 더불어 높이 평가되고 있다.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.worldcat.org/title/plays-vol-2-giraudoux-jean/oclc/656767230&amp;referer=brief_results"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdfs:comment xml:lang="es">Hippolyte Jean Giraudoux fue un escritor francés.</rdfs:comment>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Bellac"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Jean_Giraudoux?oldid=492976007"/>
+    <rdfs:comment xml:lang="pl">Hippolyte Jean Giraudoux, pochowany na Cmentarzu Passy – francuski powieściopisarz i dramaturg. Pochodził z rodziny wieśniaczej. Jego ojciec Léger Giraudoux, pracował dla Ministra Transportu. Studiował w Châteauroux, w Paryż i przez pewien czas w Monachium. Był lektorem na Uniwersytecie Harvarda. Ożenił się w 1918 roku. Początkowo pisał tylko nowele i powieści skrzące się inteligencją, dowcipem i językową wirtuozerią, m. in.</rdfs:comment>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Bellac"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Haute-Vienne"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Jean_Giraudoux"/>
+    <dbpedia-owl:abstract xml:lang="de">Jean Hyppolyte Giraudoux war ein französischer Berufsdiplomat und Schriftsteller. Als solcher war er vor allem für die Entwicklung des französischen Theaters der Zwischenkriegszeit sehr bedeutsam.</dbpedia-owl:abstract>
+    <foaf:name xml:lang="en">Jean Giraudoux</foaf:name>
+    <dbpprop:occupation xml:lang="en">Dramatist</dbpprop:occupation>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:French_diplomats"/>
+    <dbpedia-owl:abstract xml:lang="ja">ジャン・ジロドゥ（Jean Giraudoux）は、フランスの外交官・劇作家・小説家。1882年10月29日、オート＝ヴィエンヌ県の小都邑ベラックに生まれ、1944年1月31日、ナチス占領末期のパリに没した。</dbpedia-owl:abstract>
+    <dbpprop:name xml:lang="en">Giraudoux, Jean</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpedia-owl:abstract xml:lang="fr">Hippolyte Jean Giraudoux est un écrivain et un diplomate français, né le 29 octobre 1882 à Bellac en Haute-Vienne et mort le 31 janvier 1944 à Paris. Brillant étudiant et soldat décoré pendant la Première Guerre mondiale, il occupe des fonctions diplomatiques et administratives tout en écrivant des romans (Suzanne et le Pacifique en 1921, Siegfried et le Limousin en 1922) avant de se diriger vers le théâtre après sa rencontre avec le comédien Louis Jouvet qui mettra en scène et interprétera ses œuvres principales. Il est aujourd'hui surtout connu pour son théâtre qui compte des pièces célèbres comme Amphitryon 38 (1929), La guerre de Troie n'aura pas lieu (1935), Électre (1937) ou Ondine (1939) ou La Folle de Chaillot jouée en 1945 après sa mort. Jean Giraudoux a participé comme d'autres dramaturges des années 1930-1940 à la réécriture des mythes antiques éclairés par les mentalités modernes. Il a su allier fantaisie poétique et goût pour les images insolites et également associer le tragique et le léger dans une langue élégante et fine, parfois même poétique comme dans Intermezzo ou Ondine. Germanophile et diplomate de carrière, il est Commissaire général à l'information en 1939-1940 et sa situation pendant l'Occupation est complexe et son rôle contrasté. Jean Giraudoux meurt à Paris le 31 janvier 1944, à l'âge de soixante et un ans, à la suite d'un empoisonnement alimentaire ou d'une inflammation du pancréas. L'ensemble de ses 16 pièces est à l'affiche du Théâtre du Nord-Ouest à Paris pendant l'année 2012 à l'occasion d'un festival Giraudoux (affiche ci-après).</dbpedia-owl:abstract>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1944-01-31</dbpprop:deathDate>
+    <dbpprop:caption xml:lang="en">Portrait of Giraudoux in 1927</dbpprop:caption>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:French_dramatists_and_playwrights"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1882-10-29</dbpprop:birthDate>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.worldcat.org/title/three-plays/oclc/21419365&amp;referer=brief_results"/>
+    <rdfs:comment xml:lang="ja">ジャン・ジロドゥ（Jean Giraudoux）は、フランスの外交官・劇作家・小説家。1882年10月29日、オート＝ヴィエンヌ県の小都邑ベラックに生まれ、1944年1月31日、ナチス占領末期のパリに没した。</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:French_fantasy_writers"/>
+    <dbpedia-owl:abstract xml:lang="en">Hippolyte Jean Giraudoux (29 October 1882 – 31 January 1944) was a French novelist, essayist, diplomat and playwright. He is considered among the most important French dramatists of the period between World War I and World War II. His work is noted for its stylistic elegance and poetic fantasy. Giraudoux's dominant theme is the relationship between man and woman—or in some cases, between man and some unattainable ideal.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Commandeurs_of_the_L%C3%A9gion_d'honneur"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">31</dbpprop:dateOfDeath>
+    <dbpedia-owl:abstract xml:lang="es">Hippolyte Jean Giraudoux fue un escritor francés.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Haute-Vienne"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1882_births"/>
+    <dbpprop:name xml:lang="en">Jean Giraudoux</dbpprop:name>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジャン・ジロドゥ"/>
+    <dbpprop:nationality xml:lang="en">French</dbpprop:nationality>
+    <rdfs:comment xml:lang="ko">이폴리트 장 지로두 는 프랑스의 극작가·소설가이다. 리모지 지방의 한촌(寒村)에서 태어나 우수한 성적으로 고등사범학교를 졸업하였다. 독일과 미국에서 교사·언론인의 경력을 가진 뒤 단편집 《시골 여자들》(1909) 로 등장했다. 우연한 기회로 1910년에 외교관 생활로 들어가 1940년까지 계속하였다. 이때부터 이미 소설을 쓰기 시작했으나, 1922년에 발표된 소설 &lt;지크프리트와 리므잔의 사람들&gt;이 루이 주베의 눈에 띄어 각색을 의뢰받고, 1928년 초연(初演)에 성공한 이래 극작가로서 인정을 받게 되었다.</rdfs:comment>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Jean_Giraudoux"/>
+    <rdfs:comment xml:lang="de">Jean Hyppolyte Giraudoux war ein französischer Berufsdiplomat und Schriftsteller. Als solcher war er vor allem für die Entwicklung des französischen Theaters der Zwischenkriegszeit sehr bedeutsam.</rdfs:comment>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1882-10-29</dbpedia-owl:birthDate>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">29</dbpprop:dateOfBirth>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Jean_Giraudoux"/>
+    <dbpedia-owl:abstract xml:lang="sv">Hippolyte Jean Giraudoux, född 29 oktober 1882 i Bellac, död 31 januari 1944 i Paris, var en fransk författare. Giraudoux var en typisk representant för den del av författargenerationen efter första världskriget som fortsatte i André Gide och Paul Valérys fotspår och ställde sig i opposition till den traditionella franska formklarheten. Giraudoxu framträdde 1909 med novellsamlingen Provinciales, som efterföljdes av L'école des indifférents (1911) och Elpénor (1913), vars med inre monologer fyllda noveller fick sitt egentliga genombrott först efter första världskrigets utbrott. Därefter följde en rad romaner i samma stil, såsom Simon le pathétique (1918, självbiografisk), Amica America (1919), Suzanne et le pacifique (1921), samt den för Giraudoux mycket typiska Sigfrid et le Limousin (1922, svensk översättning 1929) och den politiska nyckelromanen Bella (1926). Senare uppträdde Giraudoux även som dramatiker. Uppvuxen i fransk småstadsmiljö. Gjorde i ungdomen många fotvandringar runtom i Europa och Amerika. Blev 1911 anställd vid franska utrikesdepartementet, där han bland annat verkställde som legationssekreterare i Ryssland (Sovjetunionen) och Främre Orienten. 1939-40 var Giraudoux fransk propagandaminister, men det är för sitt författarskap han är känd för eftervärlden. Texterna är humana och inte sällan satiriska och samhällskritiska. Teaterpjäser (urval) 1928 (1929) - Siegfried (baserad på hans roman Sigfrid et le Limousin från 1922) 1929 (1934) - Amfitryon 38 1935 (1938) - Trojanska kriget blir inte av 1939 - Ondine (Med detta skådespel som grund skapade Daniel-Lesur en opera, med samma namn)</dbpedia-owl:abstract>
+    <foaf:surname xml:lang="en">Giraudoux</foaf:surname>
+    <rdfs:comment xml:lang="it">Esordisce con romanzi brevi e racconti: Le provinciali (Les provinciales, 1909), Susanna e il Pacifico (Suzanne et le Pacifique, 1921), Bella (1926), Eglantine (1927). Dopo aver incontrato Louis Jouvet, scrive soprattutto testi teatrali: Siegfried (1928), Amphitryon 38 (1929), Judith (1931), Intermezzo (1933), La guerra di Troia non si farà (La guerre de Troie n'aura pas lieu, 1935), Electre (1937), Ondine (1939), Sodome e Gomorrhe (1948).</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Jean_Giraudoux"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:French_essayists"/>
+    <rdfs:comment xml:lang="fr">Hippolyte Jean Giraudoux est un écrivain et un diplomate français, né le 29 octobre 1882 à Bellac en Haute-Vienne et mort le 31 janvier 1944 à Paris.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Jean_Giraudoux"/>
+    <rdfs:label xml:lang="en">Jean Giraudoux</rdfs:label>
+    <dbpprop:spouse xml:lang="en">Suzanne Boland</dbpprop:spouse>
+    <dbpprop:notableworks xml:lang="en">The Madwoman of Chaillot,</dbpprop:notableworks>
+    <rdfs:comment xml:lang="en">Hippolyte Jean Giraudoux (29 October 1882 – 31 January 1944) was a French novelist, essayist, diplomat and playwright. He is considered among the most important French dramatists of the period between World War I and World War II. His work is noted for its stylistic elegance and poetic fantasy. Giraudoux's dominant theme is the relationship between man and woman—or in some cases, between man and some unattainable ideal.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Hippolyte Jean Giraudoux was een Frans diplomaat en schrijver, die vooral naam verwierf met zijn toneelwerken.</rdfs:comment>
+    <dbpprop:notableworks xml:lang="en">Ondine,</dbpprop:notableworks>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Жироду,_Жан"/>
+    <rdfs:comment xml:lang="ru">Ипполит-Жан Жироду — французский новеллист, эссеист, драматург и дипломат.</rdfs:comment>
+    <foaf:givenName xml:lang="en">Jean</foaf:givenName>
+    <rdfs:label xml:lang="uk">Жан Жіроду</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="ca">Jean Giraudoux va ser un novel·lista i autor dramàtic.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Prix_Blumenthal"/>
+    <dbpprop:notableworks xml:lang="en">The Trojan War Will Not Take Place</dbpprop:notableworks>
+    <dbpprop:placeOfDeath xml:lang="en">Paris, France</dbpprop:placeOfDeath>
+    <rdfs:comment xml:lang="sv">Hippolyte Jean Giraudoux, född 29 oktober 1882 i Bellac, död 31 januari 1944 i Paris, var en fransk författare. Giraudoux var en typisk representant för den del av författargenerationen efter första världskriget som fortsatte i André Gide och Paul Valérys fotspår och ställde sig i opposition till den traditionella franska formklarheten.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_%C3%89cole_Normale_Sup%C3%A9rieure"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.worldcat.org/title/four-plays/oclc/807008&amp;referer=brief_results"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:abstract xml:lang="pt">Hyppolyte Jean Giraudoux foi um escritor francês.</dbpedia-owl:abstract>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jean_Giraudoux"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/장_지로두"/>
+    <rdfs:comment xml:lang="ca">Jean Giraudoux va ser un novel·lista i autor dramàtic.</rdfs:comment>
+    <dbpprop:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">230</dbpprop:imagesize>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Jean_Anouilh"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Jean_Giraudoux"/>
+    <dbpedia-owl:abstract xml:lang="nl">Hippolyte Jean Giraudoux was een Frans diplomaat en schrijver, die vooral naam verwierf met zijn toneelwerken.</dbpedia-owl:abstract>
   </rdf:Description>
 </rdf:RDF>

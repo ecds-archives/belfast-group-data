@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028082885#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32006129"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Komunyakaa, Yusef, 1947-....</skos:prefLabel>
+    <skos:altLabel>Yusef Komunyakaa</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++01020360#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Komunyakaa, Yusef, 1947-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32006129"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/32006129">
+    <foaf:name>Komunyakaa, Yusef, 1947-....</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Yusef_Komunyakaa"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/028082885/id"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/179443593"/>
+    <foaf:name>Komunyakaa, Yusef</foaf:name>
+    <foaf:name>Yusef Komunyakaa 1947-....</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb119988972#foaf:Person"/>
+    <rdaGr2:dateOfBirth>1947-04-29</rdaGr2:dateOfBirth>
+    <foaf:name>Yusef Komunyakaa</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C239655648#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32006129"/>
+    <skos:prefLabel>Komunyakaa, Yusef</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C179443593#skos:Concept">
+    <skos:prefLabel>Komunyakaa, Yusef</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32006129"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/32006129/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32006129"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CYusef_Komunyakaa#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32006129"/>
+    <skos:prefLabel>Komunyakaa, Yusef</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca19187324#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32006129"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <skos:prefLabel>Komunyakaa, Yusef, 1947-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11998897#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb119988972"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb119988972"/>
+    <skos:prefLabel>Komunyakaa, Yusef, 1947-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:altLabel>Yusef Komunyakaa 1947-....</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32006129"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjo2003180368#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32006129"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:prefLabel>Komunyakaa, Yusef, 1947-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/32006129/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/32006129"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++82203462#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n82203462"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32006129"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Komunyakaa, Yusef</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/32006129/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/32006129"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maeve_Kelly">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_novelists"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+    <rdfs:label xml:lang="en">Maeve Kelly</rdfs:label>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Maeve_Kelly"/>
+    <dbpprop:name xml:lang="en">Kelly, Maeve</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_women_writers"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishWomenWriters"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_short_story_writers"/>
+    <dbpedia-owl:abstract xml:lang="en">Maeve Kelly (born 1930) is an Irish writer.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyClare"/>
+    <foaf:name xml:lang="en">Maeve Kelly</foaf:name>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Maeve_Kelly?oldid=477426335"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_women_poets"/>
+    <foaf:surname xml:lang="en">Kelly</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://biography.jrank.org/pages/4495/Kelly-Maeve.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1930</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishShortStoryWriters"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Maeve_Kelly"/>
+    <foaf:givenName xml:lang="en">Maeve</foaf:givenName>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03c3rxt"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Ennis"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishNovelists"/>
+    <rdfs:comment xml:lang="en">Maeve Kelly (born 1930) is an Irish writer.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1930_births"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.limerickcity.ie/Library/LocalStudies/LocalStudiesFiles/W/Writers-GeneralFictionDrama/"/>
+  </rdf:Description>
+</rdf:RDF>

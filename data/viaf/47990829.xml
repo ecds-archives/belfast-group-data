@@ -7,29 +7,29 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/47990829">
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Hull, Gerald</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/47990829/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/47990829"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/47990829/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/47990829"/>
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/47990829"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++00023249#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Hull, Gerald</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n00023249"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/47990829"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/47990829/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/47990829"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/47990829/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/47990829"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/47990829">
-    <foaf:name>Hull, Gerald</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++00023249#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/47990829"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n00023249"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hull, Gerald</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
   </rdf:Description>
 </rdf:RDF>

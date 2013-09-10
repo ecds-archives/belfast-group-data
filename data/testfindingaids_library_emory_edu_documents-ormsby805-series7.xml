@@ -3,22 +3,22 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
+  <rdf:Description rdf:nodeID="N03e540d19d8a402382f6d83891811f03">
+    <schema:name xml:lang="en">Enniskillen Integrated Primary School</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/49280158">
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series7/">
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
-    <schema:mentions rdf:nodeID="N600e54874a8c4fada4f1da664c39b578"/>
-    <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004; Series 7: Personal materials</schema:name>
-    <schema:about rdf:resource="http://viaf.org/viaf/49280158"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nbfd59bf6fa2b4572a388c188c1de73f6">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Enniskillen Integrated Primary School</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N600e54874a8c4fada4f1da664c39b578">
+  <rdf:Description rdf:nodeID="Nccf67e984e3e43e1b9b7e7f2f146f0fd">
     <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:nodeID="Nbfd59bf6fa2b4572a388c188c1de73f6"/>
+    <schema:mentions rdf:nodeID="N03e540d19d8a402382f6d83891811f03"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series7/">
+    <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
+    <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004; Series 7: Personal materials</schema:name>
+    <schema:mentions rdf:nodeID="Nccf67e984e3e43e1b9b7e7f2f146f0fd"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/49280158"/>
   </rdf:Description>
 </rdf:RDF>

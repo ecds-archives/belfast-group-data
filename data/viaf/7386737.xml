@@ -8,149 +8,217 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/7386737/#foaf:Person">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/7386737"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CSamuel_Beckett#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <skos:prefLabel>Beckett, Samuel</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls002983308#skos:Concept">
-    <skos:altLabel>Samyuil Beket</skos:altLabel>
-    <skos:altLabel>Saimyuala, Baikita</skos:altLabel>
-    <skos:prefLabel>Beckett, Samuel</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
-    <skos:altLabel>Beket, Samyuil</skos:altLabel>
-    <skos:altLabel>Baikita, Saimyuala</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00432693#skos:Concept">
-    <skos:altLabel>ベケット</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>ベケット, サミュエル</skos:altLabel>
-    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118508172#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Bekket, Sėmjuėl' 1906-1989</skos:altLabel>
+    <skos:altLabel>Bekket, Samjuel' 1906-1989</skos:altLabel>
     <skos:altLabel>Beckett, Samuel Barclay 1906-1989</skos:altLabel>
-    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
+    <skos:altLabel>Bekkeṟ_r, Sāmuvēl 1906-1989</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
     <skos:altLabel>Becket, Samuel 1906-1989</skos:altLabel>
     <skos:altLabel>Beḳeṭ, Samuʾel 1906-1989</skos:altLabel>
-    <skos:altLabel>Bekket, Samjuel' 1906-1989</skos:altLabel>
-    <skos:altLabel>Bekket, Sėmjuėl' 1906-1989</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
-    <skos:altLabel>Bekkeṟ_r, Sāmuvēl 1906-1989</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
     <skos:altLabel>Bīkīt, Ṣāmū'īl 1906-1989</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001088881#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
-    <skos:prefLabel>بيكيت، صمويل، 1906-1989</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
-    <skos:altLabel>صمويل بيكيت، 1906-1989</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11890895#skos:Concept">
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb118908958"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb118908958"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++93080208#skos:Concept">
     <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX825654#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:altLabel>Beckett.</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C177070#skos:Concept">
-    <skos:altLabel>Bīkīt, Ṣāmū'īl 1906-1989</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/177070#concept"/>
-    <skos:altLabel>Bekket, Sėmjuėl' 1906-1989</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00432693#skos:Concept">
+    <skos:altLabel>ベケット, サミュエル</skos:altLabel>
+    <skos:altLabel>ベケット</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068463928#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Beckett, Samuel (Samuel Barclay), 1906-1989</skos:prefLabel>
     <skos:altLabel>Beket, S., 1906-1989</skos:altLabel>
     <skos:altLabel>Beckett, Sam, 1906-1989</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <skos:prefLabel>Beckett, Samuel (Samuel Barclay), 1906-1989</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
     <skos:altLabel>Bekket, Sėmjuėl' 1906-1989</skos:altLabel>
     <skos:altLabel>Peket, Samouel, 1906-1989</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++93080208#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV12585686#skos:Concept">
     <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Beckett.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/7386737/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035016241#skos:Concept">
+    <skos:altLabel>בקט, סמואל, 1906־</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990000595#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>בקט, סמואל</skos:altLabel>
     <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
+    <skos:altLabel>Beḳeṭ, Samuʾel 1906-1989</skos:altLabel>
+    <skos:altLabel>Beckett, Sam, 1906-1989</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Беккет, Сэмюэль, 1906-1989</skos:altLabel>
+    <skos:altLabel>בעקעט, סאמועל</skos:altLabel>
+    <skos:altLabel>Pei-kʻo-tʻe, Sa-miao-erh, 1906-1989</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:altLabel>بكت، ساموئل</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/7386737/">
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/7386737"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11563795#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/7386737">
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Bekkeṟ_r, Sāmuvēl 1906-1989</foaf:name>
+    <foaf:name>Беккет, Сэмюэл, 1906-1989</foaf:name>
+    <foaf:name>Beckett, Sam, 1906-1989</foaf:name>
+    <foaf:name>Bekket, Sėmjuėl' 1906-1989</foaf:name>
+    <foaf:name>Beckett, Samuel Barclay 1906-1989</foaf:name>
+    <foaf:name>Beket, Samyuil</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Pei-kʻo-tʻe, Sa-miao-erh</foaf:name>
+    <foaf:name>Beket, S., 1906-1989</foaf:name>
+    <foaf:name>صمويل بيكيت، 1906-1989</foaf:name>
+    <foaf:name>Becket, Samuel 1906-1989</foaf:name>
+    <foaf:name>Beḳeṭ, Samuel</foaf:name>
+    <foaf:name>Beckett.</foaf:name>
+    <foaf:name>بكت، ساموئل</foaf:name>
+    <foaf:name>Baikita, Saimyuala</foaf:name>
+    <foaf:name>Беккет, Сэмюэль, 1906-1989</foaf:name>
+    <foaf:name>בקט, סמואל, 1906־</foaf:name>
+    <foaf:name>Beḳeṭ, Samuʾel 1906-1989</foaf:name>
+    <foaf:name>Bīkīt, Ṣāmū'īl 1906-1989</foaf:name>
+    <foaf:name>Bekets, Semjuels, 1906-1989</foaf:name>
+    <foaf:name>Beckett, Samuel</foaf:name>
+    <foaf:name>Saimyuala, Baikita</foaf:name>
+    <foaf:name>בעקעט, סאמועל</foaf:name>
+    <foaf:name>Беккет, Сэмюэль</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb118908958#foaf:Person"/>
+    <foaf:name>ベケット</foaf:name>
+    <foaf:name>בקט, סמואל</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/177070"/>
+    <foaf:name>بيكيت، صمويل، 1906-1989</foaf:name>
+    <foaf:name>Beckett, Sam</foaf:name>
+    <foaf:name>Pei-kʻo-tʻe, Sa-miao-erh, 1906-1989</foaf:name>
+    <foaf:name>Samuel Beckett</foaf:name>
+    <foaf:name>Bekket, Samjuel' 1906-1989</foaf:name>
+    <foaf:name>Beckett, Samuel, 1906-1989</foaf:name>
+    <foaf:name>Beckett, Samuel Irish author and playwright, 1906-1989</foaf:name>
+    <foaf:name>ベケット, サミュエル</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/026713780/id"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
+    <foaf:name>Beckett, Samuel (Samuel Barclay), 1906-1989</foaf:name>
+    <foaf:name>בעקעט, סמואל, 1906-1989</foaf:name>
+    <rdaGr2:dateOfBirth>1906-04-13</rdaGr2:dateOfBirth>
+    <foaf:name>Samyuil Beket</foaf:name>
+    <foaf:name>בקט, סמואל, 1906-1989</foaf:name>
+    <rdaGr2:dateOfDeath>1989-12-22</rdaGr2:dateOfDeath>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118508172"/>
+    <foaf:name>Peket, Samouel, 1906-1989</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11890895#skos:Concept">
+    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb118908958"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb118908958"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CSamuel_Beckett#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Beckett, Samuel</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000017122#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
+    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>בעקעט, סמואל, 1906-1989</skos:altLabel>
+    <skos:altLabel>Beckett, Samuel</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls002983308#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
+    <skos:prefLabel>Beckett, Samuel</skos:prefLabel>
+    <skos:altLabel>Samyuil Beket</skos:altLabel>
+    <skos:altLabel>Beket, Samyuil</skos:altLabel>
+    <skos:altLabel>Baikita, Saimyuala</skos:altLabel>
+    <skos:altLabel>Saimyuala, Baikita</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001088881#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+    <skos:altLabel>صمويل بيكيت، 1906-1989</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>بيكيت، صمويل، 1906-1989</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/7386737/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/7386737"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C177070#skos:Concept">
+    <skos:altLabel>Bekket, Sėmjuėl' 1906-1989</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/177070#concept"/>
+    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
+    <skos:altLabel>Bīkīt, Ṣāmū'īl 1906-1989</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C14168#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
     <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
+    <skos:altLabel>Beckett, Samuel</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0013L6751#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79055432#skos:Concept">
-    <skos:altLabel>Pei-kʻo-tʻe, Sa-miao-erh, 1906-1989</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
     <skos:altLabel>بكت، ساموئل</skos:altLabel>
-    <skos:altLabel>Беккет, Сэмюэль, 1906-1989</skos:altLabel>
-    <skos:altLabel>בקט, סמואל, 1906־</skos:altLabel>
-    <skos:altLabel>בעקעט, סאמועל</skos:altLabel>
-    <skos:altLabel>Beckett, Sam, 1906-1989</skos:altLabel>
-    <skos:altLabel>בקט, סמואל</skos:altLabel>
-    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
-    <skos:altLabel>Beḳeṭ, Samuʾel 1906-1989</skos:altLabel>
     <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79055432"/>
+    <skos:altLabel>Beḳeṭ, Samuʾel 1906-1989</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
+    <skos:altLabel>Pei-kʻo-tʻe, Sa-miao-erh, 1906-1989</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
+    <skos:altLabel>בקט, סמואל, 1906־</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>בעקעט, סאמועל</skos:altLabel>
+    <skos:altLabel>בקט, סמואל</skos:altLabel>
+    <skos:altLabel>Beckett, Sam, 1906-1989</skos:altLabel>
+    <skos:altLabel>Беккет, Сэмюэль, 1906-1989</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX825654#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500116288#skos:Concept">
+    <skos:altLabel>Беккет, Сэмюэль</skos:altLabel>
+    <skos:altLabel>بكت، ساموئل</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
+    <skos:altLabel>Samuel Beckett</skos:altLabel>
+    <skos:altLabel>בעקעט, סאמועל</skos:altLabel>
+    <skos:prefLabel>Beckett, Samuel Irish author and playwright, 1906-1989</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:altLabel>Beckett, Sam</skos:altLabel>
     <skos:altLabel>Beḳeṭ, Samuel</skos:altLabel>
-    <skos:altLabel>Pei-kʻo-tʻe, Sa-miao-erh</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:altLabel>בקט, סמואל</skos:altLabel>
-    <skos:altLabel>Беккет, Сэмюэль</skos:altLabel>
-    <skos:altLabel>Samuel Beckett</skos:altLabel>
-    <skos:altLabel>بكت، ساموئل</skos:altLabel>
-    <skos:prefLabel>Beckett, Samuel Irish author and playwright, 1906-1989</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
-    <skos:altLabel>בעקעט, סאמועל</skos:altLabel>
+    <skos:altLabel>Pei-kʻo-tʻe, Sa-miao-erh</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026713780#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
@@ -158,80 +226,29 @@
     <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
     <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C14168#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Beckett, Samuel</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/7386737/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/7386737">
-    <foaf:name>ベケット, サミュエル</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>בקט, סמואל, 1906־</foaf:name>
-    <foaf:name>Beket, Samyuil</foaf:name>
-    <foaf:name>Beckett, Samuel, 1906-1989</foaf:name>
-    <foaf:name>Beḳeṭ, Samuel</foaf:name>
-    <foaf:name>בקט, סמואל, 1906-1989</foaf:name>
-    <foaf:name>Saimyuala, Baikita</foaf:name>
-    <foaf:name>בעקעט, סאמועל</foaf:name>
-    <rdaGr2:dateOfDeath>1989-12-22</rdaGr2:dateOfDeath>
-    <foaf:name>Samuel Beckett</foaf:name>
-    <foaf:name>בקט, סמואל</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118508172"/>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/177070"/>
-    <foaf:name>Peket, Samouel, 1906-1989</foaf:name>
-    <foaf:name>ベケット</foaf:name>
-    <foaf:name>Beckett, Samuel</foaf:name>
-    <foaf:name>صمويل بيكيت، 1906-1989</foaf:name>
-    <foaf:name>Beckett, Samuel Irish author and playwright, 1906-1989</foaf:name>
-    <foaf:name>Беккет, Сэмюэль</foaf:name>
-    <foaf:name>Bekket, Samjuel' 1906-1989</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <foaf:name>Beket, S., 1906-1989</foaf:name>
-    <foaf:name>Bekkeṟ_r, Sāmuvēl 1906-1989</foaf:name>
-    <foaf:name>Samyuil Beket</foaf:name>
-    <foaf:name>Beckett, Sam</foaf:name>
-    <foaf:name>בעקעט, סמואל, 1906-1989</foaf:name>
-    <foaf:name>Beckett.</foaf:name>
-    <foaf:name>Beckett, Samuel Barclay 1906-1989</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/026713780/id"/>
-    <foaf:name>Beḳeṭ, Samuʾel 1906-1989</foaf:name>
-    <foaf:name>بكت، ساموئل</foaf:name>
-    <foaf:name>Baikita, Saimyuala</foaf:name>
-    <foaf:name>Beckett, Sam, 1906-1989</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb118908958#foaf:Person"/>
-    <foaf:name>Bīkīt, Ṣāmū'īl 1906-1989</foaf:name>
-    <rdaGr2:dateOfBirth>1906-04-13</rdaGr2:dateOfBirth>
-    <foaf:name>Becket, Samuel 1906-1989</foaf:name>
-    <foaf:name>Pei-kʻo-tʻe, Sa-miao-erh</foaf:name>
-    <foaf:name>بيكيت، صمويل، 1906-1989</foaf:name>
-    <foaf:name>Pei-kʻo-tʻe, Sa-miao-erh, 1906-1989</foaf:name>
-    <foaf:name>Beckett, Samuel (Samuel Barclay), 1906-1989</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Bekket, Sėmjuėl' 1906-1989</foaf:name>
-    <foaf:name>Беккет, Сэмюэль, 1906-1989</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000017122#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990000595#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Beckett, Samuel</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
-    <skos:altLabel>בעקעט, סמואל, 1906-1989</skos:altLabel>
     <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035016241#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000005616#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
+    <skos:altLabel>Bekets, Semjuels, 1906-1989</skos:altLabel>
     <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <skos:altLabel>Pei-kʻo-tʻe, Sa-miao-erh, 1906-1989</skos:altLabel>
-    <skos:altLabel>בעקעט, סאמועל</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Беккет, Сэмюэл, 1906-1989</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
     <skos:altLabel>Беккет, Сэмюэль, 1906-1989</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11563795#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/7386737"/>
-    <skos:altLabel>بكت، ساموئل</skos:altLabel>
-    <skos:altLabel>Beḳeṭ, Samuʾel 1906-1989</skos:altLabel>
-    <skos:altLabel>בקט, סמואל, 1906־</skos:altLabel>
+    <skos:prefLabel>Beckett, Samuel, 1906-1989</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Beckett, Sam, 1906-1989</skos:altLabel>
-    <skos:altLabel>בקט, סמואל</skos:altLabel>
   </rdf:Description>
 </rdf:RDF>

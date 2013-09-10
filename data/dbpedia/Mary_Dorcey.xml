@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Dorcey">
+    <foaf:surname xml:lang="en">Dorcey</foaf:surname>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishNovelists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:LGBT_people_from_Ireland"/>
+    <foaf:name xml:lang="en">Mary Dorcey</foaf:name>
+    <foaf:givenName xml:lang="en">Mary</foaf:givenName>
+    <rdfs:comment xml:lang="en">Mary Dorcey (born 1950) is an Irish short story writer, poet and novelist.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0637v7"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:label xml:lang="en">Mary Dorcey</rdfs:label>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Mary_Dorcey"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <dbpedia-owl:abstract xml:lang="en">Mary Dorcey (born 1950) is an Irish short story writer, poet and novelist.</dbpedia-owl:abstract>
+    <dbpprop:name xml:lang="en">Dorcey, Mary</dbpprop:name>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1950</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LGBTPeopleFromIreland"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Mary_Dorcey"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishShortStoryWriters"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_novelists"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Mary_Dorcey?oldid=490901015"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:LGBT_writers_from_Ireland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1950_births"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_women_poets"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Lesbian_writers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_short_story_writers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LesbianWriters"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -5,9 +5,6 @@
    xmlns:ns4="http://www.w3.org/ns/prov#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Oxford_university_press">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Oxford_university_press"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Oxford_university_press">
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Oxford_university_press"/>
     <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Oxford_University_Press"/>

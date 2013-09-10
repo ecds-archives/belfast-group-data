@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Davison">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dbpprop:name xml:lang="en">Philip Davison</dbpprop:name>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://imdb.com/title/tt0352259/"/>
+    <dbpprop:website rdf:resource="http://www.ianfleming.com"/>
+    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Fiction"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <foaf:homepage rdf:resource="http://www.ianfleming.com"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1957</dbpprop:birthDate>
+    <rdfs:comment xml:lang="en">Philip Davison is an Irish novelist, screenwriter and playwright. He was born in 1957 in Dublin, Ireland. He is perhaps best known for his series of spy novels which follow Harry Fielding's activities as an understrapper for the MI5.</rdfs:comment>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1957_births"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Philip_Davison?oldid=480092228"/>
+    <foaf:name xml:lang="en">Philip Davison</foaf:name>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0f8t8z"/>
+    <foaf:surname xml:lang="en">Davison</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdfs:label xml:lang="en">Philip Davison</rdfs:label>
+    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Spy_fiction"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Philip_Davison"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://imdb.com/title/tt0186009/"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dbpedia-owl:abstract xml:lang="en">Philip Davison is an Irish novelist, screenwriter and playwright. He was born in 1957 in Dublin, Ireland. He is perhaps best known for his series of spy novels which follow Harry Fielding's activities as an understrapper for the MI5.</dbpedia-owl:abstract>
+    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Fiction"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <dbpprop:occupation xml:lang="en">Author</dbpprop:occupation>
+    <dbpprop:name xml:lang="en">Davison, Philip</dbpprop:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.philipdavison.com"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1957</dbpprop:dateOfBirth>
+    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Spy_fiction"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ianfleming.com"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Philip_Davison"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <foaf:givenName xml:lang="en">Philip</foaf:givenName>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+</rdf:RDF>

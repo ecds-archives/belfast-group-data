@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arts_Council_of_Northern_Ireland">
+    <ns6:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Arts_Council_of_Northern_Ireland?oldid=475101115"/>
+    <rdfs:label xml:lang="en">Arts Council of Northern Ireland</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Culture_of_Northern_Ireland"/>
+    <dbpedia-owl:abstract xml:lang="en">The Arts Council of Northern Ireland is the lead development agency for the arts in Northern Ireland. As the main development agency for the arts it is responsible for the distribution of National Lottery Funding for the arts in Northern Ireland. The council is headquartered at MacNeice House on the Malone Road in Belfast. Organisationally it is a non-departmental public body of the Department of Culture, Arts and Leisure. There is a sculpture park in the grounds of MacNeice House featuring work by local sculptors.</dbpedia-owl:abstract>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Arts_Council_of_Northern_Ireland"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.097d76"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ArtsCouncilsOfTheUnitedKingdom"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Arts_Council_of_Northern_Ireland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Non-Departmental_Public_Bodies_of_the_Northern_Ireland_Executive"/>
+    <rdfs:comment xml:lang="en">The Arts Council of Northern Ireland is the lead development agency for the arts in Northern Ireland. As the main development agency for the arts it is responsible for the distribution of National Lottery Funding for the arts in Northern Ireland. The council is headquartered at MacNeice House on the Malone Road in Belfast. Organisationally it is a non-departmental public body of the Department of Culture, Arts and Leisure.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artscouncil-ni.org/"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/8/8f/Arts_Council_of_Northern_Ireland.PNG"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Arts_councils_of_the_United_Kingdom"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Art_in_Northern_Ireland"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Arts_Council_of_Northern_Ireland.PNG/200px-Arts_Council_of_Northern_Ireland.PNG"/>
+  </rdf:Description>
+</rdf:RDF>

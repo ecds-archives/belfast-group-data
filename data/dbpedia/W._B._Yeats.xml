@@ -10,333 +10,137 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Berryman">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/W.B.Yeats">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_Spenser">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Butler_(poet)">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Percy_Bysshe_Shelley">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Hughes">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Innocent_When_You_Dream">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_B._Yeats">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Strand">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Donne">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Secret_Rose">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Wanderings_of_Oisin">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Butler_Yeats">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._B._Yeats">
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/W._B._Yeats"/>
-    <dbpprop:placeOfDeath xml:lang="en">Menton, France</dbpprop:placeOfDeath>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Йейтс,_Уильям_Батлер"/>
-    <dbpedia-owl:abstract xml:lang="pl">William Butler Yeats (czyt. ) – poeta, dramaturg i filozof irlandzki, tworzący w języku angielskim, czołowy twórca i działacz literackiego Odrodzenia Irlandzkiego. Motywy swych utworów czerpał z wczesnośredniowiecznej literatury irlandzkiej i folkloru, pozostawał jednocześnie pod wpływem romantycznego wizjonerstwa Blake'a, okultyzmu, prerafaelitów i francuskiego symbolizmu. Laureat literackiej Nagrody Nobla w 1923 roku.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_occult_writers"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.084nh"/>
-    <rdfs:comment xml:lang="sv">William Butler Yeats (uttalas och rimmar alltså inte på Keats), född 13 juni 1865 i Sandymount, Dublin, Irland, död 28 januari 1939 i Menton, Alpes-Maritimes, Frankrike, var en irländsk dramatiker och poet, och en av de mest framstående författarna under 1900-talet. Han var en hörnsten i den engelska och irländska litteraturen och var senare i livet irländsk senator i två mandatperioder.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_Nationalists"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_astrologers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
-    <dbpprop:name xml:lang="en">William Butler Yeats</dbpprop:name>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/William_Butler_Yeats"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Sandymount"/>
-    <dbpprop:id rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4967</dbpprop:id>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Nobel_laureates_in_Literature"/>
-    <dbpprop:s xml:lang="en">William Butler Yeats</dbpprop:s>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Menton"/>
-    <rdfs:comment xml:lang="it">Spesso indicato come W. B. Yeats, fu anche senatore dello Stato Libero d'Irlanda negli anni venti. È nato a Dublino nel 1865, primo figlio del pittore John Butler Yeats e di Susan Pollexfen. Quando William ha due anni, per permettere al padre John di proseguire la sua carriera di artista, la famiglia si sposta da Sandymount, nella contea di Dublino, alla contea di Sligo e poi a Londra.</rdfs:comment>
-    <dbpprop:name xml:lang="en">Yeats, William Butler</dbpprop:name>
-    <rdfs:comment xml:lang="fi">William Butler Yeats oli irlantilainen runoilija, näytelmäkirjailija, mystikko ja julkisuuden henkilö. Yeats oli merkittävä voima perinteisen irlantilaisen kulttuurin elvyttämisessä ja yksi Irlannin kansallisteatterin perustajista.</rdfs:comment>
-    <rdfs:label xml:lang="vi">William Butler Yeats</rdfs:label>
-    <dbpprop:v xml:lang="en">no</dbpprop:v>
-    <rdfs:comment xml:lang="zh">叶芝（英语：William Butler Yeats，1865年6月13日－1939年1月28日），亦译“叶慈”、“耶茨”，爱尔兰诗人、剧作家，神秘主义者。叶芝是爱尔兰凯尔特复兴（英语：Celtic Revival）运动的领袖，也是艾比剧院的创建者之一。 叶芝早年的创作仍然具有浪漫主义的华丽风格，善于营造梦幻般的氛围，例如他在1893年出版的散文集《凯尔特曙光》便属于这种风格。然而进入不惑之年后，在现代主义诗人伊兹拉·庞德等人的影响下，尤其是在其本人参与爱尔兰民族主义政治运动的切身经验的影响下，叶芝的创作风格发生了比较激烈的变化，更加趋近现代主义了。 叶芝不仅仅是艾比剧院的决策者之一，也曾担任爱尔兰国会参议员一职。他十分重视自己的这些社会职务，是爱尔兰参议院中有名的工作勤奋者。叶芝曾于1923年获得诺贝尔文学奖，获奖的理由是“以其高度艺术化且洋溢着灵感的诗作表达了整个民族的灵魂”。1934年，他和拉迪亚德·吉卜林共同获得歌德堡诗歌奖。</rdfs:comment>
-    <dbpprop:wikt xml:lang="en">no</dbpprop:wikt>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/William_Butler_Yeats"/>
-    <dbpedia-owl:abstract xml:lang="it">Spesso indicato come W. B. Yeats, fu anche senatore dello Stato Libero d'Irlanda negli anni venti. È nato a Dublino nel 1865, primo figlio del pittore John Butler Yeats e di Susan Pollexfen. Quando William ha due anni, per permettere al padre John di proseguire la sua carriera di artista, la famiglia si sposta da Sandymount, nella contea di Dublino, alla contea di Sligo e poi a Londra. I figli di Yeats vengono educati in casa e la madre, nostalgica di Sligo, gli racconta le storie e le fiabe della loro contea di origine. Nel 1877, a Londra, William entra nella Scuola Godolphin che frequenta per quattro anni. È qui che nasce il suo nazionalismo. Continua la sua educazione alla Erasmus Smith High School a Dublino. L'atelier di suo padre non è tanto distante e William vi passa molto tempo frequentando diversi artisti e scrittori della città. Durante questo periodo comincia a scrivere poemi. Nel 1885 le sue prime poesie ed il saggio "Sir Samuel Ferguson" vengono pubblicati sulla rivista Dublin University Review. Dal 1884 al 1886 frequenta la Scuola Metropolitana d'Arte. In questo periodo la poesia di Yeats è impregnata di miti e folclore irlandese. Percy Bysshe Shelley esercita su di lui una grande influenza e continuerà a farlo per tutta la vita.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Modernist_drama,_theatre_and_performance"/>
-    <rdfs:label xml:lang="en">W. B. Yeats</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anthologists"/>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1939-01-28</dbpedia-owl:deathDate>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_dramatists_and_playwrights"/>
-    <rdfs:comment xml:lang="en">William Butler Yeats was an Irish poet and playwright, and one of the foremost figures of 20th century literature. A pillar of both the Irish and British literary establishments, in his later years he served as an Irish Senator for two terms. Yeats was a driving force behind the Irish Literary Revival and, along with Lady Gregory, Edward Martyn, and others, founded the Abbey Theatre, where he served as its chief during its early years.</rdfs:comment>
-    <rdfs:label xml:lang="de">William Butler Yeats</rdfs:label>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/윌리엄_버틀러_예이츠"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_1922_Seanad"/>
-    <dbpedia-owl:abstract xml:lang="es">William Butler Yeats, poeta y dramaturgo irlandés. Envuelto en un halo de misticismo, Yeats ha sido una de las figuras más representativas del renacimiento literario irlandés y fue uno de los fundadores del Abbey Theatre. También ejerció como senador. Fue galardonado con el Premio Nobel de Literatura en 1923.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="ru">Уильям Батлер Йейтс (William Butler Yeats, также транслитерируется как Йитс, Йетс, Ейтс) — ирландский англоязычный поэт, драматург. Лауреат Нобелевской премии по литературе 1923 года.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1865_births"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.yeatssociety.org/"/>
+    <rdfs:comment xml:lang="vi">William Butler Yeats là nhà thơ, nhà soạn kịch người Ireland đoạt giải Nobel Văn học năm 1923. Ông sinh ra giữa thời đại mà Ireland bắt đầu thức dậy một phong trào yêu nước, đỉnh cao là cuộc cách mạng giải phóng dân tộc 1919-1923. Thời đại này đã mang lại một xung lực cho sáng tác của ông.</rdfs:comment>
+    <rdfs:comment xml:lang="ko">윌리엄 버틀러 예이츠는 아일랜드의 시인이자 극작가로 1923년 노벨 문학상을 수상했으며, 노벨 위원회는 "고도의 예술적인 양식으로 전체 나라의 영혼을 표현한, 영감을 받은 시"라는 평가를 남겼다. 아일랜드 사람으로는 처음으로 노벨상을 받았다. 예이츠는 노벨상을 수상한 이후에도 자신들의 뛰어난 작품들을 완성해 낸 몇 안되는 작가 중 한 사람으로 여겨진다. 예술가인 잭 버틀러 예이츠의 형이며 존 버틀러 예이츠의 아들이다.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="https://cardinalscholar.bsu.edu/bitstream/123456789/193452/1/Swartzla_2010-2_BODY.pdf"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nli.ie/yeats/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_1925_Seanad"/>
     <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/William_Butler_Yeat_by_George_Charles_Beresford.jpg/200px-William_Butler_Yeat_by_George_Charles_Beresford.jpg"/>
     <dbpprop:author xml:lang="en">yes</dbpprop:author>
-    <rdfs:comment xml:lang="de">William Butler Yeats [jeɪts] war ein irischer Dichter. Er gilt als einer der bedeutendsten englischsprachigen Schriftsteller des 20. Jahrhunderts. 1923 erhielt er den Literaturnobelpreis. W. B. Yeats war der Bruder des Künstlers und Autors Jack Butler Yeats und der Vater des Politikers Michael Yeats.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ουίλιαμ_Μπάτλερ_Γέιτς"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.hup.harvard.edu/catalog/VENPOT.html"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.census.nationalarchives.ie/pages/1911/Dublin/Royal_Exchange/Frederick_Street__South/88146/"/>
-    <rdfs:comment xml:lang="uk">Вільям Батлер Єйтс (варіанти написання — Їтс, Єтс, Йєтс) (англ. William Butler Yeats) — ірландський поет, драматург, театральний діяч. Лауреат Нобелівської премії з літератури.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="vi">William Butler Yeats là nhà thơ, nhà soạn kịch người Ireland đoạt giải Nobel Văn học năm 1923. Ông sinh ra giữa thời đại mà Ireland bắt đầu thức dậy một phong trào yêu nước, đỉnh cao là cuộc cách mạng giải phóng dân tộc 1919-1923. Thời đại này đã mang lại một xung lực cho sáng tác của ông.</dbpedia-owl:abstract>
-    <dbpedia-owl:individualisedPnd xml:lang="de">118635867</dbpedia-owl:individualisedPnd>
-    <rdfs:comment xml:lang="nl">William Butler Yeats was een Ierse dichter, toneelschrijver en mysticus. Hij was ook een Iers senator in de jaren twintig. Er wordt meestal naar hem verwezen als W.B. Yeats. William Butler Yeats was een zoon van de schilder John Butler Yeats. De De Dun Emer Press die gerund werd door zijn zusters Elizabeth en Lily en Evelyn Gleeson produceerde gelimiteerde edities van boeken, handgedrukt op de wijze van The Kelmscott Press van William Morris.</rdfs:comment>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</dbpprop:dateOfDeath>
     <dbpedia-owl:abstract xml:lang="nl">William Butler Yeats was een Ierse dichter, toneelschrijver en mysticus. Hij was ook een Iers senator in de jaren twintig. Er wordt meestal naar hem verwezen als W.B. Yeats. William Butler Yeats was een zoon van de schilder John Butler Yeats. De De Dun Emer Press die gerund werd door zijn zusters Elizabeth en Lily en Evelyn Gleeson produceerde gelimiteerde edities van boeken, handgedrukt op de wijze van The Kelmscott Press van William Morris. De gepubliceerde teksten werden geschreven of geselecteerd door William Butler Yeats, die literair redacteur was van de drukkerij en die ook haar activiteiten subsidieerde, waardoor de winstgevendheid ontbrak. Hij won de Nobelprijs voor de Literatuur in 1923. Aan het eind van de winter in 1938 verliet hij Ierland in slechte gezondheid. Hij overleed te Roquebrune, met uitzicht op Monaco, op 28 januari 1939, en werd daar begraven. In september 1948 werd zijn stoffelijk overschot naar Ierland gebracht en hij werd opnieuw begraven, nu op de begraafplaats van zijn grootvaders parochie in Drumcliffe, county Sligo. Een steen met inscriptie zoals Yeats had aangegeven markeert de plaats: Cast a cold Eye / On Life, on Death. / Horseman pass by!</dbpedia-owl:abstract>
-    <foaf:givenName xml:lang="en">William Butler</foaf:givenName>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Sandymount"/>
-    <dbpedia-owl:abstract xml:lang="uk">Вільям Батлер Єйтс (варіанти написання — Їтс, Єтс, Йєтс) (англ. William Butler Yeats) — ірландський поет, драматург, театральний діяч. Лауреат Нобелівської премії з літератури.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="pt">William Butler Yeats, muitas vezes apenas designado por W.B. Yeats, foi um poeta, dramaturgo e místico irlandês. Atuou ativamente no Renascimento Literário Irlandês e foi co-fundador do Abbey Theatre. Suas obras iniciais eram caracterizadas por tendência romântica exuberante e fantasiosa, que transparece no título da sua colectânea de 1893, The Celtic Twilight ("O Crepúsculo Celta"). Posteriormente, por volta dos seus 40 anos, e em resultado da sua relação com poetas modernistas, como Ezra Pound, e também do seu envolvimento activo no nacionalismo irlandês, seu estilo torna-se mais austero e moderno. Foi também senador irlandês, cargo que exerceu com dedicação e seriedade. Foi galardoado com o Nobel de Literatura de 1923. O Comité de entrega do prémio justificou a sua decisão pela "sua poesia sempre inspirada, que através de uma forma de elevado nível artístico dá expressão ao espírito de toda uma nação. " Em 1934 compartilhou o Prémio Gothenburg para poesia com Rudyard Kipling.</dbpedia-owl:abstract>
-    <dbpprop:name xml:lang="en">W. B. Yeats</dbpprop:name>
-    <rdfs:comment xml:lang="ca">William Butler Yeats FRSL fou un poeta i dramaturg irlandès. Embolcallat en un halo de misticisme, Yeats ha sigut una de les figures més representatives del renaixement literari irlandés i va ser un dels fundadors de l'Abbey Theatre. També va exercir com a Senador. Va ser guardonat amb el Premi Nobel de Literatura l'any 1923.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Symbolist_dramatists_and_playwrights"/>
-    <dbpedia-owl:abstract xml:lang="ru">Уильям Батлер Йейтс (William Butler Yeats, также транслитерируется как Йитс, Йетс, Ейтс) — ирландский англоязычный поэт, драматург. Лауреат Нобелевской премии по литературе 1923 года.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="ja">ウィリアム・バトラー・イェイツ（William Butler Yeats, 1865年6月13日 - 1939年1月28日）は、アイルランドの詩人、劇作家。イギリスの神秘主義秘密結社黄金の暁教団（The Hermetic Order of the Golden Dawn）のメンバーでもある。ダブリン郊外、サンディマウント出身。神秘主義的思想をテーマにした作品を描き、アイルランド文芸復興を促した。日本の能の影響を受けたことでも知られる。 1976年から発行されていたアイルランドの20ポンド紙幣に肖像が使用されていた。</rdfs:comment>
-    <dbpprop:n xml:lang="en">no</dbpprop:n>
-    <dbpprop:commons xml:lang="en">Category:William Butler Yeats</dbpprop:commons>
-    <rdfs:comment xml:lang="es">William Butler Yeats, poeta y dramaturgo irlandés. Envuelto en un halo de misticismo, Yeats ha sido una de las figuras más representativas del renacimiento literario irlandés y fue uno de los fundadores del Abbey Theatre. También ejerció como senador. Fue galardonado con el Premio Nobel de Literatura en 1923.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_The_High_School,_Dublin"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="https://cardinalscholar.bsu.edu/bitstream/123456789/193452/1/Swartzla_2010-2_BODY.pdf"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">13</dbpprop:dateOfBirth>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dbpedia-owl:abstract xml:lang="ca">William Butler Yeats FRSL fou un poeta i dramaturg irlandès. Embolcallat en un halo de misticisme, Yeats ha sigut una de les figures més representatives del renaixement literari irlandés i va ser un dels fundadors de l'Abbey Theatre. També va exercir com a Senador. Va ser guardonat amb el Premi Nobel de Literatura l'any 1923.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="cs">William Butler Yeats byl anglicky píšící irský básník, dramatik a esejista, nositel Nobelovy ceny za literaturu za rok 1923.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="cs">William Butler Yeats byl anglicky píšící irský básník, dramatik a esejista, nositel Nobelovy ceny za literaturu za rok 1923.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="hu">William Butler Yeats ír költő, drámaíró, elbeszélő, irodalmi Nobel-díjas, a 20. századi irodalom egyik kiemelkedő alakja.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wbyeats.net/"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1865-06-13</dbpedia-owl:birthDate>
-    <rdfs:comment xml:lang="pt">William Butler Yeats, muitas vezes apenas designado por W.B. Yeats, foi um poeta, dramaturgo e místico irlandês. Atuou ativamente no Renascimento Literário Irlandês e foi co-fundador do Abbey Theatre. Suas obras iniciais eram caracterizadas por tendência romântica exuberante e fantasiosa, que transparece no título da sua colectânea de 1893, The Celtic Twilight ("O Crepúsculo Celta").</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.hup.harvard.edu/catalog/VENOUR.html"/>
-    <dbpedia-owl:abstract xml:lang="no">William Butler Yeats anglo-irsk forfatter og poet. Yeats ble tildelt nobelprisen i litteratur i 1923. Han var første ire til å vinne prisen og er blant få Nobelpris-vinnere som er kjent for å ha skrevet sine største verk etter at de fikk prisen, bl.a. The Tower (1928) og The Winding Stair and Other Poems (1929).</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_1925_Seanad"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/William_Butler_Yeats"/>
-    <dbpedia-owl:abstract xml:lang="zh">叶芝（英语：William Butler Yeats，1865年6月13日－1939年1月28日），亦译“叶慈”、“耶茨”，爱尔兰诗人、剧作家，神秘主义者。叶芝是爱尔兰凯尔特复兴（英语：Celtic Revival）运动的领袖，也是艾比剧院的创建者之一。 叶芝早年的创作仍然具有浪漫主义的华丽风格，善于营造梦幻般的氛围，例如他在1893年出版的散文集《凯尔特曙光》便属于这种风格。然而进入不惑之年后，在现代主义诗人伊兹拉·庞德等人的影响下，尤其是在其本人参与爱尔兰民族主义政治运动的切身经验的影响下，叶芝的创作风格发生了比较激烈的变化，更加趋近现代主义了。 叶芝不仅仅是艾比剧院的决策者之一，也曾担任爱尔兰国会参议员一职。他十分重视自己的这些社会职务，是爱尔兰参议院中有名的工作勤奋者。叶芝曾于1923年获得诺贝尔文学奖，获奖的理由是“以其高度艺术化且洋溢着灵感的诗作表达了整个民族的灵魂”。1934年，他和拉迪亚德·吉卜林共同获得歌德堡诗歌奖。</dbpedia-owl:abstract>
-    <foaf:surname xml:lang="en">Yeats</foaf:surname>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_Anglicans"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Abbey_Theatre"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Butler_Yeats_family"/>
-    <dbpedia-owl:abstract xml:lang="fi">William Butler Yeats oli irlantilainen runoilija, näytelmäkirjailija, mystikko ja julkisuuden henkilö. Yeats oli merkittävä voima perinteisen irlantilaisen kulttuurin elvyttämisessä ja yksi Irlannin kansallisteatterin perustajista.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_National_College_of_Art_and_Design"/>
-    <dbpprop:b xml:lang="en">no</dbpprop:b>
-    <rdfs:comment xml:lang="pl">William Butler Yeats (czyt. ) – poeta, dramaturg i filozof irlandzki, tworzący w języku angielskim, czołowy twórca i działacz literackiego Odrodzenia Irlandzkiego. Motywy swych utworów czerpał z wczesnośredniowiecznej literatury irlandzkiej i folkloru, pozostawał jednocześnie pod wpływem romantycznego wizjonerstwa Blake'a, okultyzmu, prerafaelitów i francuskiego symbolizmu. Laureat literackiej Nagrody Nobla w 1923 roku.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="de">William Butler Yeats [jeɪts] war ein irischer Dichter. Er gilt als einer der bedeutendsten englischsprachigen Schriftsteller des 20. Jahrhunderts. 1923 erhielt er den Literaturnobelpreis. W. B. Yeats war der Bruder des Künstlers und Autors Jack Butler Yeats und der Vater des Politikers Michael Yeats.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/William_Butler_Yeats"/>
-    <rdfs:label xml:lang="zh">威廉·巴特勒·叶芝</rdfs:label>
-    <dc:description xml:lang="en">Irish poet and playwright</dc:description>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Dublin"/>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/a/a9/William_Butler_Yeat_by_George_Charles_Beresford.jpg"/>
-    <dbpedia-owl:abstract xml:lang="ja">ウィリアム・バトラー・イェイツ（William Butler Yeats, 1865年6月13日 - 1939年1月28日）は、アイルランドの詩人、劇作家。イギリスの神秘主義秘密結社黄金の暁教団（The Hermetic Order of the Golden Dawn）のメンバーでもある。ダブリン郊外、サンディマウント出身。神秘主義的思想をテーマにした作品を描き、アイルランド文芸復興を促した。日本の能の影響を受けたことでも知られる。 1976年から発行されていたアイルランドの20ポンド紙幣に肖像が使用されていた。</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="fr">Fils du peintre John Butler Yeats, William Butler Yeats, (prononcer /ˈjeɪts/), est un poète et dramaturge irlandais, né le 13 juin 1865 à Sandymount et mort le 28 janvier 1939 à Roquebrune-Cap-Martin, en France. Yeats est l'un des instigateurs du renouveau de la littérature irlandaise et co-fondateur, avec Lady Gregory, de l'Abbey Theatre. Il reçut le prix Nobel de littérature en 1923. Ses premières œuvres aspiraient à une richesse romantique, ce que retrace son recueil publié en 1893 Crépuscule celtique, mais la quarantaine venant, inspiré par sa relation avec les poètes modernistes comme Ezra Pound et en lien avec son implication dans le nationalisme irlandais, il évolua vers un style moderne sans concession. Yeats fut aussi un sénateur de l'État libre d'Irlande (Seanad Éireann) pendant deux mandats.</dbpedia-owl:abstract>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:NPG_name"/>
-    <rdfs:comment xml:lang="no">William Butler Yeats anglo-irsk forfatter og poet. Yeats ble tildelt nobelprisen i litteratur i 1923. Han var første ire til å vinne prisen og er blant få Nobelpris-vinnere som er kjent for å ha skrevet sine største verk etter at de fikk prisen, bl.a. The Tower (1928) og The Winding Stair and Other Poems (1929).</rdfs:comment>
-    <rdfs:comment xml:lang="fr">Fils du peintre John Butler Yeats, William Butler Yeats, (prononcer /ˈjeɪts/), est un poète et dramaturge irlandais, né le 13 juin 1865 à Sandymount et mort le 28 janvier 1939 à Roquebrune-Cap-Martin, en France. Yeats est l'un des instigateurs du renouveau de la littérature irlandaise et co-fondateur, avec Lady Gregory, de l'Abbey Theatre. Il reçut le prix Nobel de littérature en 1923.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/William_Butler_Yeats"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Sister_project_links"/>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/William_Butler_Yeats"/>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ウィリアム・バトラー・イェイツ"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://archives.lib.siu.edu/index.php?p=core%2Fsearch&amp;q=%22William+Butler+Yeats%22&amp;content=1"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Dublin"/>
-    <rdfs:label xml:lang="cs">William Butler Yeats</rdfs:label>
-    <dbpedia-owl:abstract xml:lang="sv">William Butler Yeats (uttalas och rimmar alltså inte på Keats), född 13 juni 1865 i Sandymount, Dublin, Irland, död 28 januari 1939 i Menton, Alpes-Maritimes, Frankrike, var en irländsk dramatiker och poet, och en av de mest framstående författarna under 1900-talet. Han var en hörnsten i den engelska och irländska litteraturen och var senare i livet irländsk senator i två mandatperioder. Han var en av ledarna för den keltiska renässansen i skönlitteraturen, grundade tillsammans med Lady Gregory och Edward Martyn Abbey Theatre samt var dess ledare under dess första tid. Yeats mottog Nobelpriset i litteratur 1923, med motiveringen att han med sitt inspirerade författarskap, av högt konstnärligt värde, givit röst åt en hel nations själ; han var den förste irländare som fick priset. Samtidigt är Yeats en av de få pristagare vars författarskap brukar anses ha blivit starkare efter priset, med verk som The Tower (1928) och The Winding Stair and Other Poems (1929). Yeats var född i Dublin och gick i skolan där, men tillbringade barndomen i Sligo. Han studerade lyrik i ungdomen, och från unga år fascinerades han av både iriska legender och det ockulta. Sådana ämnen behandlas i författarskapets första fas, som varade till omkring sekelskiftet. 1889 utgav han sin första diktsamling, och dessa stillsamma och lyriska dikter står i beroende av Edmund Spenser och Percy Bysshe Shelley, likväl som dess poetiska anslag kan härledas till prerafaeliterna. Från omkring år 1900 blev Yeats lyrik mer fysisk och realistisk. I stort sett övergav han sin transcendentala åskådning från ungdomen, men författarskapet fortfor att uppfyllas av maskerad andlighet och att ge uttryck för cykliska tidsuppfattningar. Under årens lopp utvecklade Yeats flera väsensskilda ideologier, vilka Michael Valdez Moses har betecknat som radikalnationalism, klassisk liberalism, reaktionär konservatism och nihilism.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="hu">William Butler Yeats ír költő, drámaíró, elbeszélő, irodalmi Nobel-díjas, a 20. századi irodalom egyik kiemelkedő alakja.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nli.ie/yeats/"/>
-    <dbpprop:species xml:lang="en">no</dbpprop:species>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.yeatsvision.com/Shelley.html"/>
-    <rdfs:comment xml:lang="ko">윌리엄 버틀러 예이츠는 아일랜드의 시인이자 극작가로 1923년 노벨 문학상을 수상했으며, 노벨 위원회는 "고도의 예술적인 양식으로 전체 나라의 영혼을 표현한, 영감을 받은 시"라는 평가를 남겼다. 아일랜드 사람으로는 처음으로 노벨상을 받았다. 예이츠는 노벨상을 수상한 이후에도 자신들의 뛰어난 작품들을 완성해 낸 몇 안되는 작가 중 한 사람으로 여겨진다. 예술가인 잭 버틀러 예이츠의 형이며 존 버틀러 예이츠의 아들이다.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="en">William Butler Yeats was an Irish poet and playwright, and one of the foremost figures of 20th century literature. A pillar of both the Irish and British literary establishments, in his later years he served as an Irish Senator for two terms. Yeats was a driving force behind the Irish Literary Revival and, along with Lady Gregory, Edward Martyn, and others, founded the Abbey Theatre, where he served as its chief during its early years. In 1923 he was awarded the Nobel Prize in Literature as the first Irishman so honoured for what the Nobel Committee described as "inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation. " Yeats is generally considered one of the few writers who completed their greatest works after being awarded the Nobel Prize; such works include The Tower (1928) and The Winding Stair and Other Poems (1929). Yeats was a very good friend of Indian Bengali poet Nobel laureate Rabindranath Tagore. Yeats was born and educated in Dublin, but spent his childhood in County Sligo. He studied poetry in his youth and from an early age was fascinated by both Irish legends and the occult. Those topics feature in the first phase of his work, which lasted roughly until the turn of the 20th century. His earliest volume of verse was published in 1889 and those slow-paced and lyrical poems display debts to Edmund Spenser, Percy Bysshe Shelley, and the Pre-Raphaelite poets. From 1900, Yeats' poetry grew more physical and realistic. He largely renounced the transcendental beliefs of his youth, though he remained preoccupied with physical and spiritual masks, as well as with cyclical theories of life.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
-    <dbpprop:shortDescription xml:lang="en">Irish poet and playwright</dbpprop:shortDescription>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/W._B._Yeats?oldid=494427890"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.084nh"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/W._B._Yeats"/>
     <rdfs:label xml:lang="ca">William Butler Yeats</rdfs:label>
-    <rdfs:comment xml:lang="vi">William Butler Yeats là nhà thơ, nhà soạn kịch người Ireland đoạt giải Nobel Văn học năm 1923. Ông sinh ra giữa thời đại mà Ireland bắt đầu thức dậy một phong trào yêu nước, đỉnh cao là cuộc cách mạng giải phóng dân tộc 1919-1923. Thời đại này đã mang lại một xung lực cho sáng tác của ông.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Sonneteers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Formalist_poets"/>
-    <dbpprop:q xml:lang="en">William Butler Yeats</dbpprop:q>
-    <dbpprop:id xml:lang="en">William+Butler+Yeats</dbpprop:id>
-    <dbpedia-owl:abstract xml:lang="ko">윌리엄 버틀러 예이츠는 아일랜드의 시인이자 극작가로 1923년 노벨 문학상을 수상했으며, 노벨 위원회는 "고도의 예술적인 양식으로 전체 나라의 영혼을 표현한, 영감을 받은 시"라는 평가를 남겼다. 아일랜드 사람으로는 처음으로 노벨상을 받았다. 예이츠는 노벨상을 수상한 이후에도 자신들의 뛰어난 작품들을 완성해 낸 몇 안되는 작가 중 한 사람으로 여겨진다. 예술가인 잭 버틀러 예이츠의 형이며 존 버틀러 예이츠의 아들이다.</dbpedia-owl:abstract>
-    <foaf:name xml:lang="en">William Butler Yeats</foaf:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Dublin"/>
-    <rdfs:label xml:lang="uk">Вільям Батлер Єйтс</rdfs:label>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/William_Butler_Yeats"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/W._B._Yeats"/>
+    <dbpedia-owl:abstract xml:lang="cs">William Butler Yeats byl anglicky píšící irský básník, dramatik a esejista, nositel Nobelovy ceny za literaturu za rok 1923.</dbpedia-owl:abstract>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_Nobel_laureates"/>
+    <rdfs:comment xml:lang="sv">William Butler Yeats (uttalas och rimmar alltså inte på Keats), född 13 juni 1865 i Sandymount, Dublin, Irland, död 28 januari 1939 i Menton, Alpes-Maritimes, Frankrike, var en irländsk dramatiker och poet, och en av de mest framstående författarna under 1900-talet. Han var en hörnsten i den engelska och irländska litteraturen och var senare i livet irländsk senator i två mandatperioder.</rdfs:comment>
+    <rdfs:label xml:lang="de">William Butler Yeats</rdfs:label>
+    <rdfs:comment xml:lang="ru">Уильям Батлер Йейтс (William Butler Yeats, также транслитерируется как Йитс, Йетс, Ейтс) — ирландский англоязычный поэт, драматург. Лауреат Нобелевской премии по литературе 1923 года.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_National_College_of_Art_and_Design"/>
+    <dbpedia-owl:abstract xml:lang="pt">William Butler Yeats, muitas vezes apenas designado por W.B. Yeats, foi um poeta, dramaturgo e místico irlandês. Atuou ativamente no Renascimento Literário Irlandês e foi co-fundador do Abbey Theatre. Suas obras iniciais eram caracterizadas por tendência romântica exuberante e fantasiosa, que transparece no título da sua colectânea de 1893, The Celtic Twilight ("O Crepúsculo Celta"). Posteriormente, por volta dos seus 40 anos, e em resultado da sua relação com poetas modernistas, como Ezra Pound, e também do seu envolvimento activo no nacionalismo irlandês, seu estilo torna-se mais austero e moderno. Foi também senador irlandês, cargo que exerceu com dedicação e seriedade. Foi galardoado com o Nobel de Literatura de 1923. O Comité de entrega do prémio justificou a sua decisão pela "sua poesia sempre inspirada, que através de uma forma de elevado nível artístico dá expressão ao espírito de toda uma nação. " Em 1934 compartilhou o Prémio Gothenburg para poesia com Rudyard Kipling.</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Dublin"/>
+    <dbpedia-owl:abstract xml:lang="ru">Уильям Батлер Йейтс (William Butler Yeats, также транслитерируется как Йитс, Йетс, Ейтс) — ирландский англоязычный поэт, драматург. Лауреат Нобелевской премии по литературе 1923 года.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ουίλιαμ_Μπάτλερ_Γέιτς"/>
+    <dbpedia-owl:abstract xml:lang="en">William Butler Yeats was an Irish poet and playwright, and one of the foremost figures of 20th century literature. A pillar of both the Irish and British literary establishments, in his later years he served as an Irish Senator for two terms. Yeats was a driving force behind the Irish Literary Revival and, along with Lady Gregory, Edward Martyn, and others, founded the Abbey Theatre, where he served as its chief during its early years. In 1923 he was awarded the Nobel Prize in Literature as the first Irishman so honoured for what the Nobel Committee described as "inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation. " Yeats is generally considered one of the few writers who completed their greatest works after being awarded the Nobel Prize; such works include The Tower (1928) and The Winding Stair and Other Poems (1929). Yeats was a very good friend of Indian Bengali poet Nobel laureate Rabindranath Tagore. Yeats was born and educated in Dublin, but spent his childhood in County Sligo. He studied poetry in his youth and from an early age was fascinated by both Irish legends and the occult. Those topics feature in the first phase of his work, which lasted roughly until the turn of the 20th century. His earliest volume of verse was published in 1889 and those slow-paced and lyrical poems display debts to Edmund Spenser, Percy Bysshe Shelley, and the Pre-Raphaelite poets. From 1900, Yeats' poetry grew more physical and realistic. He largely renounced the transcendental beliefs of his youth, though he remained preoccupied with physical and spiritual masks, as well as with cyclical theories of life.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Sonneteers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_occult_writers"/>
+    <dbpedia-owl:abstract xml:lang="hu">William Butler Yeats ír költő, drámaíró, elbeszélő, irodalmi Nobel-díjas, a 20. századi irodalom egyik kiemelkedő alakja.</dbpedia-owl:abstract>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Sandymount"/>
+    <rdfs:comment xml:lang="fi">William Butler Yeats oli irlantilainen runoilija, näytelmäkirjailija, mystikko ja julkisuuden henkilö. Yeats oli merkittävä voima perinteisen irlantilaisen kulttuurin elvyttämisessä ja yksi Irlannin kansallisteatterin perustajista.</rdfs:comment>
+    <foaf:givenName xml:lang="en">William Butler</foaf:givenName>
+    <rdfs:comment xml:lang="cs">William Butler Yeats byl anglicky píšící irský básník, dramatik a esejista, nositel Nobelovy ceny za literaturu za rok 1923.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">William Butler Yeats, muitas vezes apenas designado por W.B. Yeats, foi um poeta, dramaturgo e místico irlandês. Atuou ativamente no Renascimento Literário Irlandês e foi co-fundador do Abbey Theatre. Suas obras iniciais eram caracterizadas por tendência romântica exuberante e fantasiosa, que transparece no título da sua colectânea de 1893, The Celtic Twilight ("O Crepúsculo Celta").</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/William_Butler_Yeats"/>
+    <rdfs:comment xml:lang="nl">William Butler Yeats was een Ierse dichter, toneelschrijver en mysticus. Hij was ook een Iers senator in de jaren twintig. Er wordt meestal naar hem verwezen als W.B. Yeats. William Butler Yeats was een zoon van de schilder John Butler Yeats. De De Dun Emer Press die gerund werd door zijn zusters Elizabeth en Lily en Evelyn Gleeson produceerde gelimiteerde edities van boeken, handgedrukt op de wijze van The Kelmscott Press van William Morris.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wbyeats.net/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Symbolist_dramatists_and_playwrights"/>
+    <dbpedia-owl:abstract xml:lang="sv">William Butler Yeats (uttalas och rimmar alltså inte på Keats), född 13 juni 1865 i Sandymount, Dublin, Irland, död 28 januari 1939 i Menton, Alpes-Maritimes, Frankrike, var en irländsk dramatiker och poet, och en av de mest framstående författarna under 1900-talet. Han var en hörnsten i den engelska och irländska litteraturen och var senare i livet irländsk senator i två mandatperioder. Han var en av ledarna för den keltiska renässansen i skönlitteraturen, grundade tillsammans med Lady Gregory och Edward Martyn Abbey Theatre samt var dess ledare under dess första tid. Yeats mottog Nobelpriset i litteratur 1923, med motiveringen att han med sitt inspirerade författarskap, av högt konstnärligt värde, givit röst åt en hel nations själ; han var den förste irländare som fick priset. Samtidigt är Yeats en av de få pristagare vars författarskap brukar anses ha blivit starkare efter priset, med verk som The Tower (1928) och The Winding Stair and Other Poems (1929). Yeats var född i Dublin och gick i skolan där, men tillbringade barndomen i Sligo. Han studerade lyrik i ungdomen, och från unga år fascinerades han av både iriska legender och det ockulta. Sådana ämnen behandlas i författarskapets första fas, som varade till omkring sekelskiftet. 1889 utgav han sin första diktsamling, och dessa stillsamma och lyriska dikter står i beroende av Edmund Spenser och Percy Bysshe Shelley, likväl som dess poetiska anslag kan härledas till prerafaeliterna. Från omkring år 1900 blev Yeats lyrik mer fysisk och realistisk. I stort sett övergav han sin transcendentala åskådning från ungdomen, men författarskapet fortfor att uppfyllas av maskerad andlighet och att ge uttryck för cykliska tidsuppfattningar. Under årens lopp utvecklade Yeats flera väsensskilda ideologier, vilka Michael Valdez Moses har betecknat som radikalnationalism, klassisk liberalism, reaktionär konservatism och nihilism.</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Sister_project_links"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.census.nationalarchives.ie/pages/1911/Dublin/Royal_Exchange/Frederick_Street__South/88146/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Formalist_poets"/>
+    <dbpprop:name xml:lang="en">Yeats, William Butler</dbpprop:name>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Sandymount"/>
+    <rdfs:comment xml:lang="hu">William Butler Yeats ír költő, drámaíró, elbeszélő, irodalmi Nobel-díjas, a 20. századi irodalom egyik kiemelkedő alakja.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.yeatsvision.com/Shelley.html"/>
+    <rdfs:label xml:lang="uk">Вільям Батлер Єйтс</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="fr">Fils du peintre John Butler Yeats, William Butler Yeats, (prononcer /ˈjeɪts/), est un poète et dramaturge irlandais, né le 13 juin 1865 à Sandymount et mort le 28 janvier 1939 à Roquebrune-Cap-Martin, en France. Yeats est l'un des instigateurs du renouveau de la littérature irlandaise et co-fondateur, avec Lady Gregory, de l'Abbey Theatre. Il reçut le prix Nobel de littérature en 1923. Ses premières œuvres aspiraient à une richesse romantique, ce que retrace son recueil publié en 1893 Crépuscule celtique, mais la quarantaine venant, inspiré par sa relation avec les poètes modernistes comme Ezra Pound et en lien avec son implication dans le nationalisme irlandais, il évolua vers un style moderne sans concession. Yeats fut aussi un sénateur de l'État libre d'Irlande (Seanad Éireann) pendant deux mandats.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/William_Butler_Yeats"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Menton"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1865_births"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/a/a9/William_Butler_Yeat_by_George_Charles_Beresford.jpg"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/W._B._Yeats"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/William_Butler_Yeats"/>
+    <dbpedia-owl:abstract xml:lang="it">Spesso indicato come W. B. Yeats, fu anche senatore dello Stato Libero d'Irlanda negli anni venti. È nato a Dublino nel 1865, primo figlio del pittore John Butler Yeats e di Susan Pollexfen. Quando William ha due anni, per permettere al padre John di proseguire la sua carriera di artista, la famiglia si sposta da Sandymount, nella contea di Dublino, alla contea di Sligo e poi a Londra. I figli di Yeats vengono educati in casa e la madre, nostalgica di Sligo, gli racconta le storie e le fiabe della loro contea di origine. Nel 1877, a Londra, William entra nella Scuola Godolphin che frequenta per quattro anni. È qui che nasce il suo nazionalismo. Continua la sua educazione alla Erasmus Smith High School a Dublino. L'atelier di suo padre non è tanto distante e William vi passa molto tempo frequentando diversi artisti e scrittori della città. Durante questo periodo comincia a scrivere poemi. Nel 1885 le sue prime poesie ed il saggio "Sir Samuel Ferguson" vengono pubblicati sulla rivista Dublin University Review. Dal 1884 al 1886 frequenta la Scuola Metropolitana d'Arte. In questo periodo la poesia di Yeats è impregnata di miti e folclore irlandese. Percy Bysshe Shelley esercita su di lui una grande influenza e continuerà a farlo per tutta la vita.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_1922_Seanad"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Dublin"/>
+    <dbpprop:shortDescription xml:lang="en">Irish poet and playwright</dbpprop:shortDescription>
+    <rdfs:label xml:lang="cs">William Butler Yeats</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="fi">William Butler Yeats oli irlantilainen runoilija, näytelmäkirjailija, mystikko ja julkisuuden henkilö. Yeats oli merkittävä voima perinteisen irlantilaisen kulttuurin elvyttämisessä ja yksi Irlannin kansallisteatterin perustajista.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/윌리엄_버틀러_예이츠"/>
+    <dbpedia-owl:abstract xml:lang="uk">Вільям Батлер Єйтс (варіанти написання — Їтс, Єтс, Йєтс) (англ. William Butler Yeats) — ірландський поет, драматург, театральний діяч. Лауреат Нобелівської премії з літератури.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/William_Butler_Yeats"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Nobel_laureates_in_Literature"/>
+    <dbpprop:v xml:lang="en">no</dbpprop:v>
+    <dc:description xml:lang="en">Irish poet and playwright</dc:description>
+    <dbpprop:species xml:lang="en">no</dbpprop:species>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118635867</dbpedia-owl:individualisedPnd>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:comment xml:lang="de">William Butler Yeats [jeɪts] war ein irischer Dichter. Er gilt als einer der bedeutendsten englischsprachigen Schriftsteller des 20. Jahrhunderts. 1923 erhielt er den Literaturnobelpreis. W. B. Yeats war der Bruder des Künstlers und Autors Jack Butler Yeats und der Vater des Politikers Michael Yeats.</rdfs:comment>
+    <foaf:name xml:lang="en">William Butler Yeats</foaf:name>
+    <rdfs:label xml:lang="zh">威廉·巴特勒·叶芝</rdfs:label>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Йейтс,_Уильям_Батлер"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anthologists"/>
+    <dbpedia-owl:abstract xml:lang="no">William Butler Yeats anglo-irsk forfatter og poet. Yeats ble tildelt nobelprisen i litteratur i 1923. Han var første ire til å vinne prisen og er blant få Nobelpris-vinnere som er kjent for å ha skrevet sine største verk etter at de fikk prisen, bl.a. The Tower (1928) og The Winding Stair and Other Poems (1929).</dbpedia-owl:abstract>
+    <dbpprop:id rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4967</dbpprop:id>
+    <dbpprop:id xml:lang="en">William+Butler+Yeats</dbpprop:id>
+    <dbpedia-owl:abstract xml:lang="zh">叶芝（英语：William Butler Yeats，1865年6月13日－1939年1月28日），亦译“叶慈”、“耶茨”，爱尔兰诗人、剧作家，神秘主义者。叶芝是爱尔兰凯尔特复兴（英语：Celtic Revival）运动的领袖，也是艾比剧院的创建者之一。 叶芝早年的创作仍然具有浪漫主义的华丽风格，善于营造梦幻般的氛围，例如他在1893年出版的散文集《凯尔特曙光》便属于这种风格。然而进入不惑之年后，在现代主义诗人伊兹拉·庞德等人的影响下，尤其是在其本人参与爱尔兰民族主义政治运动的切身经验的影响下，叶芝的创作风格发生了比较激烈的变化，更加趋近现代主义了。 叶芝不仅仅是艾比剧院的决策者之一，也曾担任爱尔兰国会参议员一职。他十分重视自己的这些社会职务，是爱尔兰参议院中有名的工作勤奋者。叶芝曾于1923年获得诺贝尔文学奖，获奖的理由是“以其高度艺术化且洋溢着灵感的诗作表达了整个民族的灵魂”。1934年，他和拉迪亚德·吉卜林共同获得歌德堡诗歌奖。</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1939-01-28</dbpedia-owl:deathDate>
+    <rdfs:comment xml:lang="no">William Butler Yeats anglo-irsk forfatter og poet. Yeats ble tildelt nobelprisen i litteratur i 1923. Han var første ire til å vinne prisen og er blant få Nobelpris-vinnere som er kjent for å ha skrevet sine største verk etter at de fikk prisen, bl.a. The Tower (1928) og The Winding Stair and Other Poems (1929).</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.hup.harvard.edu/catalog/VENPOT.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.hup.harvard.edu/catalog/VENOUR.html"/>
+    <rdfs:comment xml:lang="pl">William Butler Yeats (czyt. ) – poeta, dramaturg i filozof irlandzki, tworzący w języku angielskim, czołowy twórca i działacz literackiego Odrodzenia Irlandzkiego. Motywy swych utworów czerpał z wczesnośredniowiecznej literatury irlandzkiej i folkloru, pozostawał jednocześnie pod wpływem romantycznego wizjonerstwa Blake'a, okultyzmu, prerafaelitów i francuskiego symbolizmu. Laureat literackiej Nagrody Nobla w 1923 roku.</rdfs:comment>
+    <rdfs:comment xml:lang="uk">Вільям Батлер Єйтс (варіанти написання — Їтс, Єтс, Йєтс) (англ. William Butler Yeats) — ірландський поет, драматург, театральний діяч. Лауреат Нобелівської премії з літератури.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.yeatssociety.org/"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">13</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Modernist_drama,_theatre_and_performance"/>
+    <dbpedia-owl:abstract xml:lang="de">William Butler Yeats [jeɪts] war ein irischer Dichter. Er gilt als einer der bedeutendsten englischsprachigen Schriftsteller des 20. Jahrhunderts. 1923 erhielt er den Literaturnobelpreis. W. B. Yeats war der Bruder des Künstlers und Autors Jack Butler Yeats und der Vater des Politikers Michael Yeats.</dbpedia-owl:abstract>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1939_deaths"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Eva_Henrietta_Hamilton">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/WB_Yeats">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Millington_Synge">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_Burke">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Laird">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_B_Yeats">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Yeats">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Butler">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/On_Baile's_Strand">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Pinter">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Wanderings_of_Oisin_and_Other_Poems">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Southey">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cathleen_ni_Houlihan">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Montague_(poet)">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Words_Upon_the_Window_Pane">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alphonse_de_Lamartine">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Yeats">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Yeats_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Frost">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/WBY">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Larkin">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Wind_Among_the_Reeds">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/W_B_Yeats">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Butler_Yeats">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Yeats_(crater)">
-    <dbpprop:eponym rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/W._B._Yeats_in_popular_culture">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thoor_Ballylee">
-    <dbpedia-owl:owner rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:owner rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shane_Leslie">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Octavio_Paz">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Cullinan">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Nack">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Blake">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_David_Thoreau">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Secret_Rose">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Donohue_(novelist)">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/W.B._Yeats">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Macpherson">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Seamus_Heaney">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wb_yeats">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Mahon">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/W._B._Yeats">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wendell_Berry">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joyce_Kilmer">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/W._B._Yeats"/>
+    <dbpprop:name xml:lang="en">William Butler Yeats</dbpprop:name>
+    <rdfs:comment xml:lang="it">Spesso indicato come W. B. Yeats, fu anche senatore dello Stato Libero d'Irlanda negli anni venti. È nato a Dublino nel 1865, primo figlio del pittore John Butler Yeats e di Susan Pollexfen. Quando William ha due anni, per permettere al padre John di proseguire la sua carriera di artista, la famiglia si sposta da Sandymount, nella contea di Dublino, alla contea di Sligo e poi a Londra.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">叶芝（英语：William Butler Yeats，1865年6月13日－1939年1月28日），亦译“叶慈”、“耶茨”，爱尔兰诗人、剧作家，神秘主义者。叶芝是爱尔兰凯尔特复兴（英语：Celtic Revival）运动的领袖，也是艾比剧院的创建者之一。 叶芝早年的创作仍然具有浪漫主义的华丽风格，善于营造梦幻般的氛围，例如他在1893年出版的散文集《凯尔特曙光》便属于这种风格。然而进入不惑之年后，在现代主义诗人伊兹拉·庞德等人的影响下，尤其是在其本人参与爱尔兰民族主义政治运动的切身经验的影响下，叶芝的创作风格发生了比较激烈的变化，更加趋近现代主义了。 叶芝不仅仅是艾比剧院的决策者之一，也曾担任爱尔兰国会参议员一职。他十分重视自己的这些社会职务，是爱尔兰参议院中有名的工作勤奋者。叶芝曾于1923年获得诺贝尔文学奖，获奖的理由是“以其高度艺术化且洋溢着灵感的诗作表达了整个民族的灵魂”。1934年，他和拉迪亚德·吉卜林共同获得歌德堡诗歌奖。</rdfs:comment>
+    <dbpprop:name xml:lang="en">W. B. Yeats</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Abbey_Theatre"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://archives.lib.siu.edu/index.php?p=core%2Fsearch&amp;q=%22William+Butler+Yeats%22&amp;content=1"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_The_High_School,_Dublin"/>
+    <rdfs:label xml:lang="vi">William Butler Yeats</rdfs:label>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/William_Butler_Yeats"/>
+    <dbpprop:n xml:lang="en">no</dbpprop:n>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ウィリアム・バトラー・イェイツ"/>
+    <dbpedia-owl:abstract xml:lang="ja">ウィリアム・バトラー・イェイツ（William Butler Yeats, 1865年6月13日 - 1939年1月28日）は、アイルランドの詩人、劇作家。イギリスの神秘主義秘密結社黄金の暁教団（The Hermetic Order of the Golden Dawn）のメンバーでもある。ダブリン郊外、サンディマウント出身。神秘主義的思想をテーマにした作品を描き、アイルランド文芸復興を促した。日本の能の影響を受けたことでも知られる。 1976年から発行されていたアイルランドの20ポンド紙幣に肖像が使用されていた。</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="es">William Butler Yeats, poeta y dramaturgo irlandés. Envuelto en un halo de misticismo, Yeats ha sido una de las figuras más representativas del renacimiento literario irlandés y fue uno de los fundadores del Abbey Theatre. También ejerció como senador. Fue galardonado con el Premio Nobel de Literatura en 1923.</rdfs:comment>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/W._B._Yeats?oldid=494427890"/>
+    <dbpprop:wikt xml:lang="en">no</dbpprop:wikt>
+    <dbpedia-owl:abstract xml:lang="es">William Butler Yeats, poeta y dramaturgo irlandés. Envuelto en un halo de misticismo, Yeats ha sido una de las figuras más representativas del renacimiento literario irlandés y fue uno de los fundadores del Abbey Theatre. También ejerció como senador. Fue galardonado con el Premio Nobel de Literatura en 1923.</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
+    <rdfs:label xml:lang="en">W. B. Yeats</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="ko">윌리엄 버틀러 예이츠는 아일랜드의 시인이자 극작가로 1923년 노벨 문학상을 수상했으며, 노벨 위원회는 "고도의 예술적인 양식으로 전체 나라의 영혼을 표현한, 영감을 받은 시"라는 평가를 남겼다. 아일랜드 사람으로는 처음으로 노벨상을 받았다. 예이츠는 노벨상을 수상한 이후에도 자신들의 뛰어난 작품들을 완성해 낸 몇 안되는 작가 중 한 사람으로 여겨진다. 예술가인 잭 버틀러 예이츠의 형이며 존 버틀러 예이츠의 아들이다.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pl">William Butler Yeats (czyt. ) – poeta, dramaturg i filozof irlandzki, tworzący w języku angielskim, czołowy twórca i działacz literackiego Odrodzenia Irlandzkiego. Motywy swych utworów czerpał z wczesnośredniowiecznej literatury irlandzkiej i folkloru, pozostawał jednocześnie pod wpływem romantycznego wizjonerstwa Blake'a, okultyzmu, prerafaelitów i francuskiego symbolizmu. Laureat literackiej Nagrody Nobla w 1923 roku.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/William_Butler_Yeats"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Dublin"/>
+    <dbpprop:q xml:lang="en">William Butler Yeats</dbpprop:q>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/William_Butler_Yeats"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:NPG_name"/>
+    <rdfs:comment xml:lang="ca">William Butler Yeats FRSL fou un poeta i dramaturg irlandès. Embolcallat en un halo de misticisme, Yeats ha sigut una de les figures més representatives del renaixement literari irlandés i va ser un dels fundadors de l'Abbey Theatre. També va exercir com a Senador. Va ser guardonat amb el Premi Nobel de Literatura l'any 1923.</rdfs:comment>
+    <dbpprop:s xml:lang="en">William Butler Yeats</dbpprop:s>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</dbpprop:dateOfDeath>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Butler_Yeats_family"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_Nationalists"/>
+    <dbpprop:placeOfDeath xml:lang="en">Menton, France</dbpprop:placeOfDeath>
+    <rdfs:comment xml:lang="fr">Fils du peintre John Butler Yeats, William Butler Yeats, (prononcer /ˈjeɪts/), est un poète et dramaturge irlandais, né le 13 juin 1865 à Sandymount et mort le 28 janvier 1939 à Roquebrune-Cap-Martin, en France. Yeats est l'un des instigateurs du renouveau de la littérature irlandaise et co-fondateur, avec Lady Gregory, de l'Abbey Theatre. Il reçut le prix Nobel de littérature en 1923.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="vi">William Butler Yeats là nhà thơ, nhà soạn kịch người Ireland đoạt giải Nobel Văn học năm 1923. Ông sinh ra giữa thời đại mà Ireland bắt đầu thức dậy một phong trào yêu nước, đỉnh cao là cuộc cách mạng giải phóng dân tộc 1919-1923. Thời đại này đã mang lại một xung lực cho sáng tác của ông.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="en">William Butler Yeats was an Irish poet and playwright, and one of the foremost figures of 20th century literature. A pillar of both the Irish and British literary establishments, in his later years he served as an Irish Senator for two terms. Yeats was a driving force behind the Irish Literary Revival and, along with Lady Gregory, Edward Martyn, and others, founded the Abbey Theatre, where he served as its chief during its early years.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ウィリアム・バトラー・イェイツ（William Butler Yeats, 1865年6月13日 - 1939年1月28日）は、アイルランドの詩人、劇作家。イギリスの神秘主義秘密結社黄金の暁教団（The Hermetic Order of the Golden Dawn）のメンバーでもある。ダブリン郊外、サンディマウント出身。神秘主義的思想をテーマにした作品を描き、アイルランド文芸復興を促した。日本の能の影響を受けたことでも知られる。 1976年から発行されていたアイルランドの20ポンド紙幣に肖像が使用されていた。</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_Anglicans"/>
+    <foaf:surname xml:lang="en">Yeats</foaf:surname>
+    <dbpprop:commons xml:lang="en">Category:William Butler Yeats</dbpprop:commons>
+    <dbpprop:b xml:lang="en">no</dbpprop:b>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_dramatists_and_playwrights"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1865-06-13</dbpedia-owl:birthDate>
+    <dbpedia-owl:abstract xml:lang="ca">William Butler Yeats FRSL fou un poeta i dramaturg irlandès. Embolcallat en un halo de misticisme, Yeats ha sigut una de les figures més representatives del renaixement literari irlandés i va ser un dels fundadors de l'Abbey Theatre. També va exercir com a Senador. Va ser guardonat amb el Premi Nobel de Literatura l'any 1923.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_astrologers"/>
   </rdf:Description>
 </rdf:RDF>

@@ -7,29 +7,29 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C176073213#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Ireland, Denis</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/213512038"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/213512038/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/213512038"/>
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/213512038/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/213512038"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/213512038"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/213512038/#foaf:Person">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/213512038"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C176073213#skos:Concept">
-    <skos:prefLabel>Ireland, Denis</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/213512038"/>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/213512038"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/213512038">
     <foaf:name>Ireland, Denis</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/176073213"/>
     <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/176073213"/>
   </rdf:Description>
 </rdf:RDF>

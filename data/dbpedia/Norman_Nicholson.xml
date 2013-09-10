@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Nicholson">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/cumbria/enjoy_cumbria/famous_people/norman_nicholson.shtml"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromMillom"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1914-01-08</dbpedia-owl:birthDate>
+    <foaf:name xml:lang="en">Norman Nicholson</foaf:name>
+    <foaf:givenName xml:lang="en">Norman</foaf:givenName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPoets"/>
+    <foaf:homepage rdf:resource="http://sites.google.com/site/millomweb"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Norman_Nicholson"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;msa=0&amp;msid=214449695998476931245.00048f0ec027704494eec&amp;t=h&amp;ll=54.21026,-3.268508&amp;spn=0.004235,0.013078&amp;z=17&amp;vpsrc=6&amp;iwloc=0004b8185acfad3168b42"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Norman_Nicholson"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://sites.google.com/site/millomweb"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30</dbpprop:dateOfDeath>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Millom"/>
+    <rdfs:label xml:lang="en">Norman Nicholson</rdfs:label>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</dbpprop:dateOfBirth>
+    <rdfs:comment xml:lang="en">Norman Cornthwaite Nicholson OBE, (8 January 1914 – 30 May 1987), was an English poet, known for his association with the Cumbrian town of Millom. His poetry is noted for its local concerns, straightforwardness of language and inclusion of elements of common speech.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cleo.net.uk/resource/norman5"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1914_births"/>
+    <dbpedia-owl:abstract xml:lang="en">Norman Cornthwaite Nicholson OBE, (8 January 1914 – 30 May 1987), was an English poet, known for his association with the Cumbrian town of Millom. His poetry is noted for its local concerns, straightforwardness of language and inclusion of elements of common speech.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1987_deaths"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02_p25"/>
+    <dbpprop:name xml:lang="en">Nicholson, Norman</dbpprop:name>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Norman_Nicholson?oldid=494831676"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987-05-30</dbpedia-owl:deathDate>
+    <foaf:surname xml:lang="en">Nicholson</foaf:surname>
+  </rdf:Description>
+</rdf:RDF>

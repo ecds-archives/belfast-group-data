@@ -8,122 +8,128 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C204731#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0070B5606#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Dunn, Douglas</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50024917#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:prefLabel>Dunn, Douglas</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50024917"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C030307066#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:prefLabel>Dunn, Douglas, 1942-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/107572951">
-    <foaf:name>Dunn, Douglas</foaf:name>
-    <foaf:name>Dunn, Douglas 1942-.... poète et nouvelliste</foaf:name>
-    <foaf:name>Dunn, Douglas Eaglesham.</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12175002z#foaf:Person"/>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/112915078"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/030307066/id"/>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>ダン, ダグラス</foaf:name>
-    <foaf:name>Dunn, Douglas, 1942-....</foaf:name>
-    <rdaGr2:dateOfBirth>1942-10-23</rdaGr2:dateOfBirth>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Douglas_Dunn"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12175002#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:prefLabel>Dunn, Douglas 1942-.... poète et nouvelliste</skos:prefLabel>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12175002z"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12175002z"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C071690387#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Dunn, Douglas, 1942-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00512990#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <skos:altLabel>ダン, ダグラス</skos:altLabel>
-    <skos:prefLabel>Dunn, Douglas</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/107572951/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CDouglas_Dunn#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11613361#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <skos:prefLabel>Dunn, Douglas</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++94250343#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
     <skos:prefLabel>Dunn, Douglas, 1942-....</skos:prefLabel>
+    <skos:altLabel>Dunn, Douglas Eaglesham.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00512990#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:prefLabel>Dunn, Douglas</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>ダン, ダグラス</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19981000796#skos:Concept">
+    <skos:prefLabel>Dunn, Douglas, 1942-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
-    <skos:altLabel>Dunn, Douglas Eaglesham.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000029948#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
+    <skos:prefLabel>Dunn, Douglas, 1942-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50024917#skos:Concept">
+    <skos:prefLabel>Dunn, Douglas</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50024917"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036525156#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
     <skos:prefLabel>Dunn, Douglas, 1942-....</skos:prefLabel>
     <skos:altLabel>Dunn, Douglas</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19981000796#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/107572951/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/107572951"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C071690387#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
+    <skos:prefLabel>Dunn, Douglas, 1942-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C112915078#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
+    <skos:prefLabel>Dunn, Douglas</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++94250343#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Dunn, Douglas, 1942-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11613361#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Dunn, Douglas, 1942-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
     <skos:altLabel>Dunn, Douglas Eaglesham.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Dunn, Douglas, 1942-....</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/107572951/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/107572951"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C112915078#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CDouglas_Dunn#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
     <skos:prefLabel>Dunn, Douglas</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0070B5606#skos:Concept">
-    <skos:prefLabel>Dunn, Douglas</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C204731#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Dunn, Douglas</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX4907688#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Dunn, Douglas, 1942-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/107572951/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/107572951"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/107572951">
+    <rdaGr2:dateOfBirth>1942-10-23</rdaGr2:dateOfBirth>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Dunn, Douglas 1942-.... poète et nouvelliste</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12175002z#foaf:Person"/>
+    <foaf:name>Dunn, Douglas, 1942-....</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Douglas_Dunn"/>
+    <foaf:name>Dunn, Douglas Eaglesham.</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/112915078"/>
+    <foaf:name>Dunn, Douglas</foaf:name>
+    <foaf:name>ダン, ダグラス</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/030307066/id"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12175002#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12175002z"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
+    <skos:prefLabel>Dunn, Douglas 1942-.... poète et nouvelliste</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12175002z"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C030307066#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/107572951"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Dunn, Douglas, 1942-....</skos:prefLabel>
   </rdf:Description>
 </rdf:RDF>

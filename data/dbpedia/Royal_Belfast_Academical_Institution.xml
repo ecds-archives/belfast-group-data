@@ -11,130 +11,74 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Inst">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ray_Davey">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Jordan_(diplomat)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Thomson,_1st_Baron_Kelvin">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Tyrrell_(RAF_officer)">
-    <dbpedia-owl:school rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-    <dbpprop:school rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/RBAI">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Royal_Belfast_Academical_Institution">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryan_Caldwell">
-    <dbpprop:school rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/McCullough_Cup">
-    <dbpedia-owl:team rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Irwin">
-    <dbpedia-owl:school rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-    <dbpprop:school rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Academical_Institution_of_Belfast">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Mills_Gayley">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution">
-    <rdf:type rdf:resource="http://schema.org/School"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/School"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EduCAtionalInstitutionsEstablishedIn1810"/>
-    <dbpprop:students rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1060</dbpprop:students>
-    <dbpprop:colors xml:lang="en">Black and Yellow</dbpprop:colors>
-    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Belfast"/>
-    <dbpprop:type xml:lang="en">Voluntary Grammar School</dbpprop:type>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Royal_Belfast_Academical_Institution"/>
-    <dbpprop:state rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
-    <dbpprop:motto xml:lang="en">Quaerere Verum</dbpprop:motto>
-    <dbpprop:founder rdf:resource="http://dbpedia.org/resource/William_Drennan"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/School_AcademicOrganization"/>
-    <dbpedia-owl:motto xml:lang="en">(Seek the Truth)</dbpedia-owl:motto>
-    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Belfast"/>
-    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.597</geo:lat>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberSchoolsOfTheHeadmasters'AndHeadmistresses'Conference"/>
-    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-5.936</geo:long>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.rbai.org.uk/"/>
-    <grs:point xml:lang="en">54.597 -5.936</grs:point>
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-school-noun-1"/>
-    <dbpprop:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
-    <dbpprop:established rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1810</dbpprop:established>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.inchmarlo.org.uk/"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrammarSchoolsInBelfast"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.instonians.org/"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Grammar_schools_in_Belfast"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Boys'_schools_in_Northern_Ireland"/>
-    <dbpedia-owl:abstract xml:lang="en">The Royal Belfast Academical Institution, is a Grammar School in Belfast, Northern Ireland. Locally referred to as Inst, the school educates boys from ages 11–18. It is one of the eight Northern Irish schools represented on the Headmasters' and Headmistresses' Conference. The school occupies an 18-acre site in the centre of the city on which its first buildings were erected; major additions in 1953, 1957, 1960, 1964, 1983, 1991, 2000 and 2003 provide modern and specialised facilities and account for half the present accommodation. In addition to 40 classrooms, there are 16 science laboratories, 9 lecture rooms, 6 gymnasia, art and music departments, 2 sixth form centres, common hall, dining hall and indoor heated swimming pool. A new sports hall has been added and Christchurch—a state-of-the-art facility encompassing a new library, careers suite and 13 IT suites—has recently been opened. Candidates for admission to the Main School should be under 12 on July of the year of admission and applications must be received by mid-February. Boys who are regarded by the Department of Education for Northern Ireland as qualified for Grammar School education have their Tuition Fee paid by their local Education and Library Board. There is an annual capital fee for the 2005/06 academic year of £690 and £45 stationery. For new pupils there is also an insurance charge of £15.75 and a refundable book deposit of £65. Scholarships are awarded to the School boys whose work shows outstanding progress during their School career.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.rbai.org.uk"/>
-    <dbpedia-owl:state rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_secondary_school"/>
-    <owl:sameAs rdf:resource="http://linkedgeodata.org/triplify/node497400409"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Royal_Belfast_Academical_Institution"/>
-    <dbpedia-owl:foundedBy rdf:resource="http://dbpedia.org/resource/William_Drennan"/>
-    <dbpedia-owl:numberOfStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1060</dbpedia-owl:numberOfStudents>
-    <dbpprop:chairman xml:lang="en">Colin Gowdy</dbpprop:chairman>
-    <dbpedia-owl:motto xml:lang="en">Quaerere Verum</dbpedia-owl:motto>
-    <dbpprop:website rdf:resource="http://www.rbai.org.uk/"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Grade_A_listed_buildings"/>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Royal_Belfast_Academical_Institution?oldid=492586969"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1810_establishments_in_Ireland"/>
-    <dbpedia-owl:officialSchoolColour xml:lang="en">Black and Yellow</dbpedia-owl:officialSchoolColour>
-    <dbpprop:affiliations xml:lang="en">Inchmarlo Prep.</dbpprop:affiliations>
-    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
-    <dbpprop:name xml:lang="en">Royal Belfast Academical Institution</dbpprop:name>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/EducationalOrganization"/>
-    <dbpprop:yearbook xml:lang="en">School News</dbpprop:yearbook>
-    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1810"/>
-    <rdf:type rdf:resource="http://schema.org/EducationalOrganization"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Member_schools_of_the_Headmasters'_and_Headmistresses'_Conference"/>
-    <dbpedia-owl:foundingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1810-01-01T00:00:00+02:00</dbpedia-owl:foundingYear>
-    <dbpprop:address xml:lang="en">College Square East, BT1 6DL</dbpprop:address>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <foaf:homepage rdf:resource="http://www.rbai.org.uk/"/>
-    <rdfs:comment xml:lang="en">The Royal Belfast Academical Institution, is a Grammar School in Belfast, Northern Ireland. Locally referred to as Inst, the school educates boys from ages 11–18. It is one of the eight Northern Irish schools represented on the Headmasters' and Headmistresses' Conference.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07zb4r"/>
-    <dbpprop:newspaper xml:lang="en">Sea Horse</dbpprop:newspaper>
-    <foaf:name xml:lang="en">Royal Belfast Academical Institution</foaf:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Boys'SchoolsInNorthernIreland"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://king-gowdy.co.uk/Colin%20Gowdy.html"/>
-    <dbpprop:principal xml:lang="en">Janet Williamson</dbpprop:principal>
-    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-5.936 54.597)</geo:geometry>
     <rdfs:label xml:lang="en">Royal Belfast Academical Institution</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Russell">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Royal_Belfast_Academical_Institution">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Larmor">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Purdon">
-    <dbpedia-owl:school rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-    <dbpprop:school rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Belfast_Academical_Institution">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Royal_Belfast_Academical_Institution"/>
+    <dbpprop:chairman xml:lang="en">Colin Gowdy</dbpprop:chairman>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://king-gowdy.co.uk/Colin%20Gowdy.html"/>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-5.936 54.597)</geo:geometry>
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization"/>
+    <dbpedia-owl:foundingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1810-01-01T00:00:00+02:00</dbpedia-owl:foundingYear>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.rbai.org.uk/"/>
+    <dbpedia-owl:abstract xml:lang="en">The Royal Belfast Academical Institution, is a Grammar School in Belfast, Northern Ireland. Locally referred to as Inst, the school educates boys from ages 11–18. It is one of the eight Northern Irish schools represented on the Headmasters' and Headmistresses' Conference. The school occupies an 18-acre site in the centre of the city on which its first buildings were erected; major additions in 1953, 1957, 1960, 1964, 1983, 1991, 2000 and 2003 provide modern and specialised facilities and account for half the present accommodation. In addition to 40 classrooms, there are 16 science laboratories, 9 lecture rooms, 6 gymnasia, art and music departments, 2 sixth form centres, common hall, dining hall and indoor heated swimming pool. A new sports hall has been added and Christchurch—a state-of-the-art facility encompassing a new library, careers suite and 13 IT suites—has recently been opened. Candidates for admission to the Main School should be under 12 on July of the year of admission and applications must be received by mid-February. Boys who are regarded by the Department of Education for Northern Ireland as qualified for Grammar School education have their Tuition Fee paid by their local Education and Library Board. There is an annual capital fee for the 2005/06 academic year of £690 and £45 stationery. For new pupils there is also an insurance charge of £15.75 and a refundable book deposit of £65. Scholarships are awarded to the School boys whose work shows outstanding progress during their School career.</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_secondary_school"/>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <dbpprop:motto xml:lang="en">Quaerere Verum</dbpprop:motto>
+    <dbpprop:type xml:lang="en">Voluntary Grammar School</dbpprop:type>
+    <dbpedia-owl:officialSchoolColour xml:lang="en">Black and Yellow</dbpedia-owl:officialSchoolColour>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/EducationalOrganization"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Royal_Belfast_Academical_Institution?oldid=492586969"/>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <dbpprop:name xml:lang="en">Royal Belfast Academical Institution</dbpprop:name>
+    <dbpprop:colors xml:lang="en">Black and Yellow</dbpprop:colors>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.rbai.org.uk"/>
+    <rdf:type rdf:resource="http://schema.org/School"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Royal_Belfast_Academical_Institution"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrammarSchoolsInBelfast"/>
+    <dbpedia-owl:state rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
+    <dbpedia-owl:numberOfStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1060</dbpedia-owl:numberOfStudents>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Boys'_schools_in_Northern_Ireland"/>
+    <dbpprop:founder rdf:resource="http://dbpedia.org/resource/William_Drennan"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Boys'SchoolsInNorthernIreland"/>
+    <dbpprop:principal xml:lang="en">Janet Williamson</dbpprop:principal>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/School_AcademicOrganization"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-school-noun-1"/>
+    <dbpedia-owl:motto xml:lang="en">Quaerere Verum</dbpedia-owl:motto>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Royal_Belfast_Academical_Institution"/>
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Belfast"/>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Belfast"/>
+    <dbpprop:yearbook xml:lang="en">School News</dbpprop:yearbook>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberSchoolsOfTheHeadmasters'AndHeadmistresses'Conference"/>
+    <dbpprop:newspaper xml:lang="en">Sea Horse</dbpprop:newspaper>
+    <dbpprop:address xml:lang="en">College Square East, BT1 6DL</dbpprop:address>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-5.936</geo:long>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07zb4r"/>
+    <dbpprop:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <dbpprop:website rdf:resource="http://www.rbai.org.uk/"/>
+    <dbpedia-owl:foundedBy rdf:resource="http://dbpedia.org/resource/William_Drennan"/>
+    <dbpprop:established rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1810</dbpprop:established>
+    <dbpedia-owl:motto xml:lang="en">(Seek the Truth)</dbpedia-owl:motto>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Grade_A_listed_buildings"/>
+    <dbpprop:affiliations xml:lang="en">Inchmarlo Prep.</dbpprop:affiliations>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/School"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Grammar_schools_in_Belfast"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EduCAtionalInstitutionsEstablishedIn1810"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Member_schools_of_the_Headmasters'_and_Headmistresses'_Conference"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1810"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.597</geo:lat>
+    <grs:point xml:lang="en">54.597 -5.936</grs:point>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution"/>
+    <dbpprop:state rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
+    <rdfs:comment xml:lang="en">The Royal Belfast Academical Institution, is a Grammar School in Belfast, Northern Ireland. Locally referred to as Inst, the school educates boys from ages 11–18. It is one of the eight Northern Irish schools represented on the Headmasters' and Headmistresses' Conference.</rdfs:comment>
+    <foaf:homepage rdf:resource="http://www.rbai.org.uk/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.inchmarlo.org.uk/"/>
+    <owl:sameAs rdf:resource="http://linkedgeodata.org/triplify/node497400409"/>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <dbpprop:students rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1060</dbpprop:students>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.instonians.org/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1810_establishments_in_Ireland"/>
+    <foaf:name xml:lang="en">Royal Belfast Academical Institution</foaf:name>
   </rdf:Description>
 </rdf:RDF>

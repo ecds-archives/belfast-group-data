@@ -10,290 +10,214 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Yevgeny_Baratynsky">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Brodsky">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Carroll">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Josef_Brodsky">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Pushkin">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Zhurbin">
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Iosif_Aleksandrovich_Brodsky">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Iosip_Brodsky">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Alexandrovich_Brodsky">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Nobel_laureates_by_university_affiliation">
-    <dbpprop:t rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.nytimes.com/67318129238180331433">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gorbunov_and_Gorchakov">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Josif_Brodskij">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Iosip_Brodskij">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Iosif_Alexandrovich_Brodsky">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nestan_Kvinikadze">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Brodsky,_Joseph_Alexandrovich">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Khrustalyov,_My_Car!">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Brodsky,_Joseph">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Iosip_Aleksandrovich_Brodsky">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Brodsky">
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
-    <dbpprop:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">220</dbpprop:imagesize>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_poets"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
-    <dbpprop:quote xml:lang="en">So long had life together been, that once
-the snow began to fall, it seemed unending;
-that, lest the flakes should make her eyelids wince,
-I’d shield them with my hand, and they, pretending
-not to believe that cherishing of eyes,
-would beat against my palm like butterflies.</dbpprop:quote>
-    <owl:sameAs rdf:resource="http://zitgist.com/music/artist/27cafe48-831c-4cfe-8823-7473f733eb58"/>
-    <rdfs:label xml:lang="en">Joseph Brodsky</rdfs:label>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poets.org/poet.php/prmPID/4"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://nobelprize.org/literature/laureates/1987/brodsky-bio.html"/>
-    <dbpedia-owl:abstract xml:lang="sv">Joseph Brodsky (Iosif Aleksandrovitj Brodskij), född 24 maj 1940 i Leningrad, Sovjetunionen, död 28 januari 1996 i New York City, New York, USA, rysk författare av judisk härkomst. Brodsky greps i januari 1964, anklagades för social parasitism och dömdes i mars samma år till fem års förvisning till Archangelskområdet. Under förvisningen publicerades Brodskys första samling dikter i USA (Стихотворения и поэмы), och krav på hans frigivning började resas i väst. I september 1965 frigavs Brodsky och förde en osäker tillvaro som samizdatpoet. Han utvisades ur Sovjetunionen 1972 och bosatte sig i USA. 1987 tilldelades Brodsky Nobelpriset i litteratur. Brodsky skrev poesi på ryska, men med tiden började han även författa essäer på engelska .</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="it">Esordì nel 1958 pubblicando alcune poesie in una rivista clandestina; venne subito riconosciuto come uno dei poeti di maggior talento della sua generazione e ricevette il sostegno della poetessa Anna Achmatova, che gli dedicò una delle sue raccolte (1963). Fu denunciato per la prima volta da un giornale di Leningrado, che attaccò i suoi lavori come pornografici e antisovietici. Nel 1964 fu arrestato con l'accusa di parassitismo e condannato, dopo un processo che scatenò violente reazioni nell'opinione pubblica mondiale, a cinque anni di lavori forzati. Rilasciato dopo diciotto mesi, tornò a vivere a Leningrado, dedicandosi soprattutto alla traduzione di poeti inglesi come John Donne e Gerard Manley Hopkins. Nel frattempo venne pubblicata a New York, nel 1970, la sua raccolta di versi Fermata nel deserto, che confermò il suo straordinario estro poetico. Nel 1972 fu costretto dalle autorità sovietiche a emigrare e si stabilì negli Stati Uniti, dove tenne corsi in varie università e svolse ampia attività pubblicistica (Fuga da Bisanzio, 1986) e poetica. Nel 1987 fu insignito del premio Nobel per la letteratura, e nel suo discorso a Stoccolma individuò le radici della sua opera di classico contemporaneo in cinque poeti: Osip Mandel'štam, Anna Achmatova, Marina Cvetaeva, Robert Frost e W.H. Auden. Nel 1991 fu nominato poeta laureato degli Stati Uniti. Morì nel proprio appartamento di Brooklyn per un attacco di cuore nel 1996. Per sua volontà è stato sepolto nel cimitero dell'isola di San Michele a Venezia, da lui sempre considerata sua città di elezione, a cui dedicò molte poesie e un libretto intitolato Fondamenta degli Incurabili.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="ja">ヨシフ・ブロツキーは、ロシアの詩人、随筆家。本名ヨシフ・アレクサンドロヴィッチ・ブロツキー(Ио́сиф Алекса́ндрович Бро́дский)。1987年にノーベル文学賞を受賞し、アメリカの桂冠詩人(1991-1992)にも選出された。彼はシレジア大学の名誉学位も保持していた。</dbpedia-owl:abstract>
-    <dbpprop:spouse xml:lang="en">Maria Sozzani</dbpprop:spouse>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromSaintPetersburg"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.theparisreview.org/interviews/3184/the-art-of-poetry-no-28-joseph-brodsky"/>
-    <rdfs:label xml:lang="cs">Josif Brodskij</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_myocardial_infarction"/>
-    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118660136</dbpprop:pnd>
-    <rdfs:comment xml:lang="de">Joseph Brodsky war ein russisch-US-amerikanischer Dichter und Nobelpreisträger für Literatur.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nytimes.com/1996/01/29/arts/joseph-brodsky-exiled-poet-who-won-nobel-dies-at-55.html?scp=5&amp;sq=joseph+brodsky&amp;st=nyt"/>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Joseph_Brodsky"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_Nobel_laureates"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/JewishAmericanWriters"/>
-    <dbpprop:selibr rdf:datatype="http://www.w3.org/2001/XMLSchema#int">179277</dbpprop:selibr>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Joseph_Brodsky"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Mount_Holyoke_College_faculty"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://drs.library.yale.edu:8083/fedora/get/beinecke:brodsky/PDF"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryfoundation.org/bio/joseph-brodsky"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01mzc5"/>
-    <dbpedia-owl:abstract xml:lang="es">Joseph Brodsky fue un poeta ruso-estadounidense de origen judío, nacido en Leningrado y fallecido en Nueva York. Ganó el Premio Nobel de Literatura en 1987.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="uk">Йосип Олександрович Бродський — російський поет, перекладач, есеїст XX століття, лауреат Нобелівської премії.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.theliterarycemetery.co.uk/"/>
-    <rdfs:comment xml:lang="nl">Josip Brodsky was een van oorsprong Russisch dichter. Hij werd geboren in 1940 in het voormalige Leningrad, het huidige Sint-Petersburg. Na verschillende verbanningen naar Siberië emigreerde Brodsky in 1972 naar de Verenigde Staten. In 1987 ontving hij de Nobelprijs voor de Literatuur. Hij speelt een rol in een roman van zijn vriend Sergej Dovlatov: Niet alleen Brodsky .</rdfs:comment>
-    <dbpprop:language rdf:resource="http://dbpedia.org/resource/Russian_language"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.co.uk/books?id=E_vnbYNjz-UC&amp;pg=PA96&amp;dq=brodsky+milosz+translate&amp;hl=en&amp;ei=W3_ATNqrPIKQjAeF5fGKCg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CDUQ6AEwAQ#v=onepage&amp;q&amp;f=false"/>
-    <dbpprop:occupation xml:lang="en">Poet, essayist</dbpprop:occupation>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Isola_di_San_Michele"/>
-    <dbpprop:salign xml:lang="en">right</dbpprop:salign>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/조지프_브로드스키"/>
-    <rdfs:comment xml:lang="fi">Joseph Brodsky, alun perin Iosif Aleksandrovitš Brodski, oli venäläis-amerikkalainen runoilija, jolle myönnettiin Nobelin kirjallisuuspalkinto vuonna 1987.</rdfs:comment>
-    <dbpprop:ethnicity rdf:resource="http://dbpedia.org/resource/Jews"/>
-    <dbpprop:name xml:lang="en">Joseph Brodsky</dbpprop:name>
-    <rdfs:comment xml:lang="ru">Ио́сиф Алекса́ндрович Бро́дский — русский и американский поэт, эссеист, драматург, переводчик, лауреат Нобелевской премии по литературе 1987 года, поэт-лауреат США в 1991—1992 годах. Стихи писал преимущественно на русском языке, эссеистику на английском. Имеет репутацию одного из крупнейших русских поэтов XX века.</rdfs:comment>
-    <rdfs:comment xml:lang="zh">约瑟夫·布罗茨基（俄文：Иосиф Александрович Бродский，英文：Joseph Brodsky，1940年5月24日－1996年1月28日）美籍苏联诗人，在他47岁时，以其“出神入化”“韵律优美”，“如交响乐一般丰富”的诗篇和“为艺术英勇献身的精神”荣获1987年度诺贝尔文学奖，成为这项世界性文学大奖继加缪之后又一位年轻的获奖者。 布罗茨基出生于列宁格勒一个犹太人家庭，十五岁便退学浪迹社会，做过烧炉、运尸、地质勘探等十余种工作，曾屡遭拘讯，多次入狱，1964年以“寄生虫”罪名被提起公诉，流放北方，后又被判五年徒刑。1972年，据布罗茨基自己说，他是在没有得到合理解释的情况下被告知说，当局“欢迎”他离开苏联，并且不由他分说，便被塞进一架不知飞向何方的飞机，从此开始了不知何时为尽头的流亡国外的生活。1972年他被迫离开祖国的时候，苏联政府为他指定的去向是犹太人祖先居住的地方——以色列，他断然拒绝了，随后到美国定居，在大学写作、执教。 布罗茨基读遍俄国名诗，继承了古典主义优秀传统，并深受西方现代主义诗歌的影响，成为“不断更新表现手法的高手”。</rdfs:comment>
-    <rdfs:comment xml:lang="no">Josif Brodskij (russisk Iosif Aleksandrovitsj Brodskij) var en russisk-amerikansk lyriker som fikk Nobelprisen i litteratur i 1987.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanWritersOfRussianDescent"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
-    <rdfs:comment xml:lang="pt">Joseph Brodsky, pseudônimo de Iosif Aleksandrovich Brodsky foi um poeta russo naturalizado estadunidense. Foi agraciado com o Nobel de Literatura de 1987.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RussianEssayists"/>
-    <dbpedia-owl:abstract xml:lang="en">Iosif Aleksandrovich Brodsky (24 May 1940 – 28 January 1996), was a Russian poet and essayist. In 1964, 23-year-old Brodsky was arrested and charged with the crime of "social parasitism" He was expelled from the Soviet Union in 1972 and settled in America with the help of W. H. Auden and other supporters. He taught thereafter at universities including those at Yale, Cambridge and Michigan. Brodsky was awarded the 1987 Nobel Prize in Literature "for an all-embracing authorship, imbued with clarity of thought and poetic intensity". He was appointed American Poet Laureate in 1991.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="pl">Iosif Aleksandrowicz Brodski – jeden z największych poetów i eseistów XX wieku. W ZSRR skazany na przymusowe roboty za pasożytnictwo. W 1972 pozbawiony obywatelstwa i wydalony ze Związku Radzieckiego. Zamieszkał w Nowym Jorku, gdzie wykładał na różnych uczelniach. W latach 1991-1992 został Laureatem Biblioteki Kongresu USA.</rdfs:comment>
-    <rdfs:comment xml:lang="cs">Josif Alexandrovič Brodskij byl sovětský básník a disident ruské národnosti, později americký esejista a literární kritik, nositel Nobelovy ceny za literaturu za rok 1987. Z jeho prací je známá například esej z roku 1989 Vodoznaky – Zrcadlení času. Jde o hold Benátkám, věčnému městu na vodě, městu, které mu tolik připomínalo rodný Petrohrad. Je to manifest autorova pojetí estetických hodnot. Hovoří o prožívání emigrace, literatuře, lásce a umění.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ヨシフ・ブロツキー"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Russia"/>
-    <dbpprop:shortDescription xml:lang="en">poet, essayist</dbpprop:shortDescription>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_American_writers"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfClareHall,Cambridge"/>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Joseph_Brodsky?oldid=492556739"/>
-    <dbpedia-owl:ethnicity rdf:resource="http://dbpedia.org/resource/Jews"/>
-    <dbpedia-owl:abstract xml:lang="fr">Iossif (Joseph) Alexandrovitch Brodsky est un grand poète russe né à Léningrad le 24 mai 1940 et mort à New York le 28 janvier 1996. Il fut lauréat du prix Nobel de littérature en 1987.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Huizinga_Lecturers"/>
-    <rdfs:label xml:lang="vi">Joseph Brodsky</rdfs:label>
-    <dbpprop:align xml:lang="en">right</dbpprop:align>
-    <dbpedia-owl:citizenship rdf:resource="http://dbpedia.org/resource/Soviet_Union"/>
-    <dbpedia-owl:nationality rdf:resource="http://dbpedia.org/resource/Russia"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Naturalized_citizens_of_the_United_States"/>
-    <dbpprop:bgcolor xml:lang="en">#FFFFF0</dbpprop:bgcolor>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Joseph_Brodsky"/>
-    <rdfs:comment xml:lang="ca">Joseph Brodsky, nascut amb el nom de Iósif Aleksandròvitx Brodski fou un poeta nord-americà, d'origen soviètic, guardonat amb el Premi Nobel de Literatura l'any 1987 tant pels seus escrits en rus con en anglès.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="ko">조지프 브로드스키는 러시아에서 태어난 시인이자 에세이 작가이다. 원래 이름은 이오시프 알렉산드로비치 브로드스키이다. 1987년 노벨 문학상을 수상했다. 1972년 6월 4일에는 소비에트 연방에서 추방되어 1980년 미국 시민권을 취득했다.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:MacArthur_Fellows"/>
-    <dbpprop:quote xml:lang="en">I was born and grew up in the Baltic marshland
-by zinc-gray breakers that always marched on
-in twos.</dbpprop:quote>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">31993687</dbpprop:viaf>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_writers_of_Russian_descent"/>
-    <rdfs:comment xml:lang="hu">Joszif Alekszandrovics Brodszkij – (Иосиф Александрович Бродский) Nobel-díjas orosz költő, esszéíró.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="zh">约瑟夫·布罗茨基（俄文：Иосиф Александрович Бродский，英文：Joseph Brodsky，1940年5月24日－1996年1月28日）美籍苏联诗人，在他47岁时，以其“出神入化”“韵律优美”，“如交响乐一般丰富”的诗篇和“为艺术英勇献身的精神”荣获1987年度诺贝尔文学奖，成为这项世界性文学大奖继加缪之后又一位年轻的获奖者。 布罗茨基出生于列宁格勒一个犹太人家庭，十五岁便退学浪迹社会，做过烧炉、运尸、地质勘探等十余种工作，曾屡遭拘讯，多次入狱，1964年以“寄生虫”罪名被提起公诉，流放北方，后又被判五年徒刑。1972年，据布罗茨基自己说，他是在没有得到合理解释的情况下被告知说，当局“欢迎”他离开苏联，并且不由他分说，便被塞进一架不知飞向何方的飞机，从此开始了不知何时为尽头的流亡国外的生活。1972年他被迫离开祖国的时候，苏联政府为他指定的去向是犹太人祖先居住的地方——以色列，他断然拒绝了，随后到美国定居，在大学写作、执教。 布罗茨基读遍俄国名诗，继承了古典主义优秀传统，并深受西方现代主义诗歌的影响，成为“不断更新表现手法的高手”。</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RussianNobelLaureates"/>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-01-28</dbpedia-owl:deathDate>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Joseph_Brodsky"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SovietImmigrantsToTheUnitedStates"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"/>
-    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">350</dbpprop:width>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Soviet_Union"/>
-    <dbpprop:citizenship rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.kirjasto.sci.fi/brodsky.htm"/>
-    <dbpedia-owl:abstract xml:lang="cs">Josif Alexandrovič Brodskij byl sovětský básník a disident ruské národnosti, později americký esejista a literární kritik, nositel Nobelovy ceny za literaturu za rok 1987. Z jeho prací je známá například esej z roku 1989 Vodoznaky – Zrcadlení času. Jde o hold Benátkám, věčnému městu na vodě, městu, které mu tolik připomínalo rodný Petrohrad. Je to manifest autorova pojetí estetických hodnot. Hovoří o prožívání emigrace, literatuře, lásce a umění. Autor žil po vyhoštění ze Sovětského svazu ve Spojených státech a každý rok v zimě se uchyloval do Benátek.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Soviet_expellees"/>
-    <dbpedia-owl:abstract xml:lang="hu">Joszif Alekszandrovics Brodszkij – (Иосиф Александрович Бродский) Nobel-díjas orosz költő, esszéíró.</dbpedia-owl:abstract>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Russia"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Joseph_Brodsky"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_Poets_Laureate"/>
-    <foaf:givenName xml:lang="en">Joseph</foaf:givenName>
-    <dbpedia-owl:award rdf:resource="http://dbpedia.org/resource/Struga_Poetry_Evenings"/>
-    <dbpprop:citizenship rdf:resource="http://dbpedia.org/resource/Soviet_Union"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.loc.gov/loc/lcib/9603/brodsky.html"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Soviet_Union"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
-    <dbpprop:source xml:lang="en">from "The End of a Beautiful Era,"</dbpprop:source>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/JewishPoets"/>
-    <rdfs:comment xml:lang="sv">Joseph Brodsky (Iosif Aleksandrovitj Brodskij), född 24 maj 1940 i Leningrad, Sovjetunionen, död 28 januari 1996 i New York City, New York, USA, rysk författare av judisk härkomst. Brodsky greps i januari 1964, anklagades för social parasitism och dömdes i mars samma år till fem års förvisning till Archangelskområdet. Under förvisningen publicerades Brodskys första samling dikter i USA (Стихотворения и поэмы), och krav på hans frigivning började resas i väst.</rdfs:comment>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Soviet_emigrants_to_the_United_States"/>
-    <dbpedia-owl:language rdf:resource="http://dbpedia.org/resource/Russian_language"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TranslatorsFromPolish"/>
+    <dbpedia-owl:abstract xml:lang="zh">约瑟夫·布罗茨基（俄文：Иосиф Александрович Бродский，英文：Joseph Brodsky，1940年5月24日－1996年1月28日）美籍苏联诗人，在他47岁时，以其“出神入化”“韵律优美”，“如交响乐一般丰富”的诗篇和“为艺术英勇献身的精神”荣获1987年度诺贝尔文学奖，成为这项世界性文学大奖继加缪之后又一位年轻的获奖者。 布罗茨基出生于列宁格勒一个犹太人家庭，十五岁便退学浪迹社会，做过烧炉、运尸、地质勘探等十余种工作，曾屡遭拘讯，多次入狱，1964年以“寄生虫”罪名被提起公诉，流放北方，后又被判五年徒刑。1972年，据布罗茨基自己说，他是在没有得到合理解释的情况下被告知说，当局“欢迎”他离开苏联，并且不由他分说，便被塞进一架不知飞向何方的飞机，从此开始了不知何时为尽头的流亡国外的生活。1972年他被迫离开祖国的时候，苏联政府为他指定的去向是犹太人祖先居住的地方——以色列，他断然拒绝了，随后到美国定居，在大学写作、执教。 布罗茨基读遍俄国名诗，继承了古典主义优秀传统，并深受西方现代主义诗歌的影响，成为“不断更新表现手法的高手”。</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1940_births"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_Poets_Laureate"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Joseph_Brodsky"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Russia"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-05-24</dbpprop:birthDate>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_writers_of_Russian_descent"/>
+    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118660136</dbpprop:pnd>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/JewishAmericanWriters"/>
+    <dbpedia-owl:ethnicity rdf:resource="http://dbpedia.org/resource/Jews"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Soviet_expellees"/>
+    <dbpedia-owl:abstract xml:lang="ru">Ио́сиф Алекса́ндрович Бро́дский — русский и американский поэт, эссеист, драматург, переводчик, лауреат Нобелевской премии по литературе 1987 года, поэт-лауреат США в 1991—1992 годах. Стихи писал преимущественно на русском языке, эссеистику на английском. Имеет репутацию одного из крупнейших русских поэтов XX века.</dbpedia-owl:abstract>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-01-28</dbpprop:deathDate>
+    <rdfs:comment xml:lang="zh">约瑟夫·布罗茨基（俄文：Иосиф Александрович Бродский，英文：Joseph Brodsky，1940年5月24日－1996年1月28日）美籍苏联诗人，在他47岁时，以其“出神入化”“韵律优美”，“如交响乐一般丰富”的诗篇和“为艺术英勇献身的精神”荣获1987年度诺贝尔文学奖，成为这项世界性文学大奖继加缪之后又一位年轻的获奖者。 布罗茨基出生于列宁格勒一个犹太人家庭，十五岁便退学浪迹社会，做过烧炉、运尸、地质勘探等十余种工作，曾屡遭拘讯，多次入狱，1964年以“寄生虫”罪名被提起公诉，流放北方，后又被判五年徒刑。1972年，据布罗茨基自己说，他是在没有得到合理解释的情况下被告知说，当局“欢迎”他离开苏联，并且不由他分说，便被塞进一架不知飞向何方的飞机，从此开始了不知何时为尽头的流亡国外的生活。1972年他被迫离开祖国的时候，苏联政府为他指定的去向是犹太人祖先居住的地方——以色列，他断然拒绝了，随后到美国定居，在大学写作、执教。 布罗茨基读遍俄国名诗，继承了古典主义优秀传统，并深受西方现代主义诗歌的影响，成为“不断更新表现手法的高手”。</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="fi">Joseph Brodsky, alun perin Iosif Aleksandrovitš Brodski, oli venäläis-amerikkalainen runoilija, jolle myönnettiin Nobelin kirjallisuuspalkinto vuonna 1987.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="nl">Josip Brodsky was een van oorsprong Russisch dichter. Hij werd geboren in 1940 in het voormalige Leningrad, het huidige Sint-Petersburg. Na verschillende verbanningen naar Siberië emigreerde Brodsky in 1972 naar de Verenigde Staten. In 1987 ontving hij de Nobelprijs voor de Literatuur. Hij speelt een rol in een roman van zijn vriend Sergej Dovlatov: Niet alleen Brodsky .</rdfs:comment>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Essayist110064405"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SovietImmigrantsToTheUnitedStates"/>
     <dbpprop:quote xml:lang="en">Since the stern art of poetry calls for words, I, morose,
 deaf, and balding ambassador of a more or less
 insignificant nation that's stuck in this super
 power, wishing to spare my old brain,
 put on clothes - all by myself - and head for the main
 street: for the evening paper.</dbpprop:quote>
-    <dbpedia-owl:abstract xml:lang="fi">Joseph Brodsky, alun perin Iosif Aleksandrovitš Brodski, oli venäläis-amerikkalainen runoilija, jolle myönnettiin Nobelin kirjallisuuspalkinto vuonna 1987.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RussianPoets"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
-    <rdfs:comment xml:lang="ko">조지프 브로드스키는 러시아에서 태어난 시인이자 에세이 작가이다. 원래 이름은 이오시프 알렉산드로비치 브로드스키이다. 1987년 노벨 문학상을 수상했다. 1972년 6월 4일에는 소비에트 연방에서 추방되어 1980년 미국 시민권을 취득했다.</rdfs:comment>
-    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/New_York_City"/>
-    <dbpprop:awards xml:lang="en">Struga Poetry Evenings Golden Wreath Award</dbpprop:awards>
-    <rdfs:label xml:lang="ca">Joseph Brodsky</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_people_of_Russian-Jewish_descent"/>
-    <rdfs:comment xml:lang="vi">Joseph Brodsky (24 tháng 5 năm 1940 - 28 tháng 1 năm 1996), tên trong khai sinh là Iosif Aleksandrovich Brodsky, là một nhà thơ, nhà văn Mỹ gốc Nga đoạt Giải Nobel Văn học năm 1987.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_Jews"/>
-    <dbpedia-owl:abstract xml:lang="vi">Joseph Brodsky (24 tháng 5 năm 1940 - 28 tháng 1 năm 1996), tên trong khai sinh là Iosif Aleksandrovich Brodsky, là một nhà thơ, nhà văn Mỹ gốc Nga đoạt Giải Nobel Văn học năm 1987.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="ja">ヨシフ・ブロツキーは、ロシアの詩人、随筆家。本名ヨシフ・アレクサンドロヴィッチ・ブロツキー(Ио́сиф Алекса́ндрович Бро́дский)。1987年にノーベル文学賞を受賞し、アメリカの桂冠詩人(1991-1992)にも選出された。彼はシレジア大学の名誉学位も保持していた。</rdfs:comment>
-    <dc:description xml:lang="en">poet, essayist</dc:description>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Soviet_prisoners_and_detainees"/>
-    <rdfs:comment xml:lang="it">Esordì nel 1958 pubblicando alcune poesie in una rivista clandestina; venne subito riconosciuto come uno dei poeti di maggior talento della sua generazione e ricevette il sostegno della poetessa Anna Achmatova, che gli dedicò una delle sue raccolte (1963). Fu denunciato per la prima volta da un giornale di Leningrado, che attaccò i suoi lavori come pornografici e antisovietici.</rdfs:comment>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Soviet_Union"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-05-24</dbpedia-owl:birthDate>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24</dbpprop:dateOfBirth>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NobelLaureatesInLiterature"/>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Бродский,_Иосиф_Александрович"/>
-    <foaf:surname xml:lang="en">Brodsky</foaf:surname>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-01-28</dbpprop:deathDate>
-    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">300</dbpprop:width>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_Clare_Hall,_Cambridge"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
-    <dbpedia-owl:abstract xml:lang="pt">Joseph Brodsky, pseudônimo de Iosif Aleksandrovich Brodsky foi um poeta russo naturalizado estadunidense. Foi agraciado com o Nobel de Literatura de 1987.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="fr">Iossif (Joseph) Alexandrovitch Brodsky est un grand poète russe né à Léningrad le 24 mai 1940 et mort à New York le 28 janvier 1996. Il fut lauréat du prix Nobel de littérature en 1987.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pbs.org/newshour/bb/remember/brodsky_1-29.html"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
-    <rdfs:label xml:lang="de">Joseph Brodsky</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Soviet_dissidents"/>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Iosif_Brodski"/>
-    <rdfs:comment xml:lang="es">Joseph Brodsky fue un poeta ruso-estadounidense de origen judío, nacido en Leningrado y fallecido en Nueva York. Ganó el Premio Nobel de Literatura en 1987.</rdfs:comment>
-    <dbpedia-owl:birthName xml:lang="en">Iosif Aleksandrovich Brodsky</dbpedia-owl:birthName>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Essayist110064405"/>
-    <dbpprop:name xml:lang="en">Brodsky, Joseph</dbpprop:name>
-    <rdfs:comment xml:lang="uk">Йосип Олександрович Бродський — російський поет, перекладач, есеїст XX століття, лауреат Нобелівської премії.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MacArthurFellows"/>
-    <dbpedia-owl:abstract xml:lang="nl">Josip Brodsky was een van oorsprong Russisch dichter. Hij werd geboren in 1940 in het voormalige Leningrad, het huidige Sint-Petersburg. Na verschillende verbanningen naar Siberië emigreerde Brodsky in 1972 naar de Verenigde Staten. In 1987 ontving hij de Nobelprijs voor de Literatuur. Hij speelt een rol in een roman van zijn vriend Sergej Dovlatov: Niet alleen Brodsky .</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="de">Joseph Brodsky war ein russisch-US-amerikanischer Dichter und Nobelpreisträger für Literatur.</dbpedia-owl:abstract>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Quote_box"/>
-    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <dbpedia-owl:abstract xml:lang="no">Josif Brodskij (russisk Iosif Aleksandrovitsj Brodskij) var en russisk-amerikansk lyriker som fikk Nobelprisen i litteratur i 1987.</dbpedia-owl:abstract>
-    <dbpprop:lccn xml:lang="en">n/80/22834</dbpprop:lccn>
-    <dbpedia-owl:individualisedPnd xml:lang="de">118660136</dbpedia-owl:individualisedPnd>
-    <dbpprop:quoted xml:lang="en">true</dbpprop:quoted>
-    <dbpedia-owl:citizenship rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
-    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvcm6VJwpEbGdrcN5Y29ycA"/>
-    <dbpprop:source xml:lang="en">from "Six Years Later"," Trans. Richard Wilbur</dbpprop:source>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Josef_Brodsky.png/200px-Josef_Brodsky.png"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Nobel_laureates_in_Literature"/>
-    <dbpedia-owl:abstract xml:lang="ru">Ио́сиф Алекса́ндрович Бро́дский — русский и американский поэт, эссеист, драматург, переводчик, лауреат Нобелевской премии по литературе 1987 года, поэт-лауреат США в 1991—1992 годах. Стихи писал преимущественно на русском языке, эссеистику на английском. Имеет репутацию одного из крупнейших русских поэтов XX века.</dbpedia-owl:abstract>
-    <dbpprop:source xml:lang="en">From the title poem in A Part of Speech</dbpprop:source>
-    <foaf:name xml:lang="en">Joseph Brodsky</foaf:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1940_births"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_poets"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Joseph_Brodsky"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Saint_Petersburg"/>
-    <dbpprop:birthName xml:lang="en">Iosif Aleksandrovich Brodsky</dbpprop:birthName>
-    <rdfs:comment xml:lang="en">Iosif Aleksandrovich Brodsky (24 May 1940 – 28 January 1996), was a Russian poet and essayist. In 1964, 23-year-old Brodsky was arrested and charged with the crime of "social parasitism" He was expelled from the Soviet Union in 1972 and settled in America with the help of W. H. Auden and other supporters. He taught thereafter at universities including those at Yale, Cambridge and Michigan.</rdfs:comment>
-    <rdfs:label xml:lang="zh">约瑟夫·布罗茨基</rdfs:label>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SovietDissidents"/>
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Josif_Aleksandrovič_Brodskij"/>
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
-    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-05-24</dbpprop:birthDate>
-    <dbpedia-owl:abstract xml:lang="ca">Joseph Brodsky, nascut amb el nom de Iósif Aleksandròvitx Brodski fou un poeta nord-americà, d'origen soviètic, guardonat amb el Premi Nobel de Literatura l'any 1987 tant pels seus escrits en rus con en anglès.</dbpedia-owl:abstract>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Russia"/>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</dbpprop:dateOfDeath>
-    <dbpedia-owl:abstract xml:lang="pl">Iosif Aleksandrowicz Brodski – jeden z największych poetów i eseistów XX wieku. W ZSRR skazany na przymusowe roboty za pasożytnictwo. W 1972 pozbawiony obywatelstwa i wydalony ze Związku Radzieckiego. Zamieszkał w Nowym Jorku, gdzie wykładał na różnych uczelniach. W latach 1991-1992 został Laureatem Biblioteki Kongresu USA. Został laureatem Nagrody Nobla w dziedzinie literatury za rok 1987 za uniwersalne wartości całokształtu twórczości literackiej, odznaczające się jasnością myśli i poetycką siłą. Brodskiego pochowano w Wenecji, którą pokochał, i której poświęcił esej Znak wodny.</dbpedia-owl:abstract>
-    <dbpprop:nationality xml:lang="en">Russian</dbpprop:nationality>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/7/7e/Josef_Brodsky.png"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Josif_Brodskij"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Michigan_faculty"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1996_deaths"/>
-    <rdfs:label xml:lang="uk">Бродський Йосип Олександрович</rdfs:label>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.co.uk/books?id=E_vnbYNjz-UC&amp;pg=PA96&amp;dq=brodsky+milosz+translate&amp;hl=en&amp;ei=W3_ATNqrPIKQjAeF5fGKCg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CDUQ6AEwAQ#v=onepage&amp;q&amp;f=false"/>
+    <dbpedia-owl:abstract xml:lang="fr">Iossif (Joseph) Alexandrovitch Brodsky est un grand poète russe né à Léningrad le 24 mai 1940 et mort à New York le 28 janvier 1996. Il fut lauréat du prix Nobel de littérature en 1987.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/JewishPoets"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_essayists"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Joseph_Brodsky">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Joseph_Brodsky">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/%D0%98%D0%BE%D1%81%D0%B8%D1%84_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%91%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseph_Brodsky"/>
+    <dbpprop:source xml:lang="en">from "The End of a Beautiful Era,"</dbpprop:source>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Saint_Petersburg"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Soviet_dissidents"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Michigan_faculty"/>
+    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">31993687</dbpprop:viaf>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_poets"/>
+    <rdfs:label xml:lang="de">Joseph Brodsky</rdfs:label>
+    <owl:sameAs rdf:resource="http://zitgist.com/music/artist/27cafe48-831c-4cfe-8823-7473f733eb58"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1996_deaths"/>
+    <dc:description xml:lang="en">poet, essayist</dc:description>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpprop:source xml:lang="en">from "Six Years Later"," Trans. Richard Wilbur</dbpprop:source>
+    <rdfs:comment xml:lang="vi">Joseph Brodsky (24 tháng 5 năm 1940 - 28 tháng 1 năm 1996), tên trong khai sinh là Iosif Aleksandrovich Brodsky, là một nhà thơ, nhà văn Mỹ gốc Nga đoạt Giải Nobel Văn học năm 1987.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="es">Joseph Brodsky fue un poeta ruso-estadounidense de origen judío, nacido en Leningrado y fallecido en Nueva York. Ganó el Premio Nobel de Literatura en 1987.</dbpedia-owl:abstract>
+    <foaf:surname xml:lang="en">Brodsky</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RussianEssayists"/>
+    <rdfs:comment xml:lang="sv">Joseph Brodsky (Iosif Aleksandrovitj Brodskij), född 24 maj 1940 i Leningrad, Sovjetunionen, död 28 januari 1996 i New York City, New York, USA, rysk författare av judisk härkomst. Brodsky greps i januari 1964, anklagades för social parasitism och dömdes i mars samma år till fem års förvisning till Archangelskområdet. Under förvisningen publicerades Brodskys första samling dikter i USA (Стихотворения и поэмы), och krav på hans frigivning började resas i väst.</rdfs:comment>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Josef_Brodsky.png/200px-Josef_Brodsky.png"/>
+    <dbpedia-owl:abstract xml:lang="nl">Josip Brodsky was een van oorsprong Russisch dichter. Hij werd geboren in 1940 in het voormalige Leningrad, het huidige Sint-Petersburg. Na verschillende verbanningen naar Siberië emigreerde Brodsky in 1972 naar de Verenigde Staten. In 1987 ontving hij de Nobelprijs voor de Literatuur. Hij speelt een rol in een roman van zijn vriend Sergej Dovlatov: Niet alleen Brodsky .</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvcm6VJwpEbGdrcN5Y29ycA"/>
+    <dbpedia-owl:citizenship rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dbpprop:quoted xml:lang="en">true</dbpprop:quoted>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-05-24</dbpedia-owl:birthDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://drs.library.yale.edu:8083/fedora/get/beinecke:brodsky/PDF"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-01-28</dbpedia-owl:deathDate>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Josif_Aleksandrovič_Brodskij"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:abstract xml:lang="pt">Joseph Brodsky, pseudônimo de Iosif Aleksandrovich Brodsky foi um poeta russo naturalizado estadunidense. Foi agraciado com o Nobel de Literatura de 1987.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="sv">Joseph Brodsky (Iosif Aleksandrovitj Brodskij), född 24 maj 1940 i Leningrad, Sovjetunionen, död 28 januari 1996 i New York City, New York, USA, rysk författare av judisk härkomst. Brodsky greps i januari 1964, anklagades för social parasitism och dömdes i mars samma år till fem års förvisning till Archangelskområdet. Under förvisningen publicerades Brodskys första samling dikter i USA (Стихотворения и поэмы), och krav på hans frigivning började resas i väst. I september 1965 frigavs Brodsky och förde en osäker tillvaro som samizdatpoet. Han utvisades ur Sovjetunionen 1972 och bosatte sig i USA. 1987 tilldelades Brodsky Nobelpriset i litteratur. Brodsky skrev poesi på ryska, men med tiden började han även författa essäer på engelska .</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="fi">Joseph Brodsky, alun perin Iosif Aleksandrovitš Brodski, oli venäläis-amerikkalainen runoilija, jolle myönnettiin Nobelin kirjallisuuspalkinto vuonna 1987.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_poets"/>
+    <rdfs:comment xml:lang="ko">조지프 브로드스키는 러시아에서 태어난 시인이자 에세이 작가이다. 원래 이름은 이오시프 알렉산드로비치 브로드스키이다. 1987년 노벨 문학상을 수상했다. 1972년 6월 4일에는 소비에트 연방에서 추방되어 1980년 미국 시민권을 취득했다.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.theliterarycemetery.co.uk/"/>
+    <dbpprop:awards xml:lang="en">Struga Poetry Evenings Golden Wreath Award</dbpprop:awards>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Joseph_Brodsky"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpedia-owl:abstract xml:lang="hu">Joszif Alekszandrovics Brodszkij – (Иосиф Александрович Бродский) Nobel-díjas orosz költő, esszéíró.</dbpedia-owl:abstract>
+    <dbpprop:name xml:lang="en">Joseph Brodsky</dbpprop:name>
+    <dbpprop:name xml:lang="en">Brodsky, Joseph</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_Clare_Hall,_Cambridge"/>
+    <dbpedia-owl:abstract xml:lang="ja">ヨシフ・ブロツキーは、ロシアの詩人、随筆家。本名ヨシフ・アレクサンドロヴィッチ・ブロツキー(Ио́сиф Алекса́ндрович Бро́дский)。1987年にノーベル文学賞を受賞し、アメリカの桂冠詩人(1991-1992)にも選出された。彼はシレジア大学の名誉学位も保持していた。</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">350</dbpprop:width>
+    <dbpprop:selibr rdf:datatype="http://www.w3.org/2001/XMLSchema#int">179277</dbpprop:selibr>
+    <dbpedia-owl:citizenship rdf:resource="http://dbpedia.org/resource/Soviet_Union"/>
+    <rdfs:comment xml:lang="en">Iosif Aleksandrovich Brodsky (24 May 1940 – 28 January 1996), was a Russian poet and essayist. In 1964, 23-year-old Brodsky was arrested and charged with the crime of "social parasitism" He was expelled from the Soviet Union in 1972 and settled in America with the help of W. H. Auden and other supporters. He taught thereafter at universities including those at Yale, Cambridge and Michigan.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_American_writers"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01mzc5"/>
+    <dbpprop:citizenship rdf:resource="http://dbpedia.org/resource/Soviet_Union"/>
+    <dbpedia-owl:abstract xml:lang="pl">Iosif Aleksandrowicz Brodski – jeden z największych poetów i eseistów XX wieku. W ZSRR skazany na przymusowe roboty za pasożytnictwo. W 1972 pozbawiony obywatelstwa i wydalony ze Związku Radzieckiego. Zamieszkał w Nowym Jorku, gdzie wykładał na różnych uczelniach. W latach 1991-1992 został Laureatem Biblioteki Kongresu USA. Został laureatem Nagrody Nobla w dziedzinie literatury za rok 1987 za uniwersalne wartości całokształtu twórczości literackiej, odznaczające się jasnością myśli i poetycką siłą. Brodskiego pochowano w Wenecji, którą pokochał, i której poświęcił esej Znak wodny.</dbpedia-owl:abstract>
+    <dbpedia-owl:nationality rdf:resource="http://dbpedia.org/resource/Russia"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118660136</dbpedia-owl:individualisedPnd>
+    <dbpedia-owl:abstract xml:lang="ko">조지프 브로드스키는 러시아에서 태어난 시인이자 에세이 작가이다. 원래 이름은 이오시프 알렉산드로비치 브로드스키이다. 1987년 노벨 문학상을 수상했다. 1972년 6월 4일에는 소비에트 연방에서 추방되어 1980년 미국 시민권을 취득했다.</dbpedia-owl:abstract>
+    <dbpedia-owl:award rdf:resource="http://dbpedia.org/resource/Struga_Poetry_Evenings"/>
+    <foaf:name xml:lang="en">Joseph Brodsky</foaf:name>
+    <dbpprop:source xml:lang="en">From the title poem in A Part of Speech</dbpprop:source>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Russia"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Joseph_Brodsky?oldid=492556739"/>
+    <dbpprop:language rdf:resource="http://dbpedia.org/resource/Russian_language"/>
+    <rdfs:comment xml:lang="ru">Ио́сиф Алекса́ндрович Бро́дский — русский и американский поэт, эссеист, драматург, переводчик, лауреат Нобелевской премии по литературе 1987 года, поэт-лауреат США в 1991—1992 годах. Стихи писал преимущественно на русском языке, эссеистику на английском. Имеет репутацию одного из крупнейших русских поэтов XX века.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="ca">Joseph Brodsky, nascut amb el nom de Iósif Aleksandròvitx Brodski fou un poeta nord-americà, d'origen soviètic, guardonat amb el Premi Nobel de Literatura l'any 1987 tant pels seus escrits en rus con en anglès.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="hu">Joszif Alekszandrovics Brodszkij – (Иосиф Александрович Бродский) Nobel-díjas orosz költő, esszéíró.</rdfs:comment>
+    <rdfs:label xml:lang="en">Joseph Brodsky</rdfs:label>
+    <dbpprop:lccn xml:lang="en">n/80/22834</dbpprop:lccn>
+    <rdfs:comment xml:lang="uk">Йосип Олександрович Бродський — російський поет, перекладач, есеїст XX століття, лауреат Нобелівської премії.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="no">Josif Brodskij (russisk Iosif Aleksandrovitsj Brodskij) var en russisk-amerikansk lyriker som fikk Nobelprisen i litteratur i 1987.</dbpedia-owl:abstract>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromSaintPetersburg"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://nobelprize.org/literature/laureates/1987/brodsky-bio.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TranslatorsFromPolish"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_myocardial_infarction"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_people_of_Russian-Jewish_descent"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pbs.org/newshour/bb/remember/brodsky_1-29.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Soviet_prisoners_and_detainees"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NobelLaureatesInLiterature"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.theparisreview.org/interviews/3184/the-art-of-poetry-no-28-joseph-brodsky"/>
+    <rdfs:comment xml:lang="no">Josif Brodskij (russisk Iosif Aleksandrovitsj Brodskij) var en russisk-amerikansk lyriker som fikk Nobelprisen i litteratur i 1987.</rdfs:comment>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Soviet_Union"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poets.org/poet.php/prmPID/4"/>
+    <rdfs:comment xml:lang="cs">Josif Alexandrovič Brodskij byl sovětský básník a disident ruské národnosti, později americký esejista a literární kritik, nositel Nobelovy ceny za literaturu za rok 1987. Z jeho prací je známá například esej z roku 1989 Vodoznaky – Zrcadlení času. Jde o hold Benátkám, věčnému městu na vodě, městu, které mu tolik připomínalo rodný Petrohrad. Je to manifest autorova pojetí estetických hodnot. Hovoří o prožívání emigrace, literatuře, lásce a umění.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ヨシフ・ブロツキー"/>
+    <dbpedia-owl:abstract xml:lang="it">Esordì nel 1958 pubblicando alcune poesie in una rivista clandestina; venne subito riconosciuto come uno dei poeti di maggior talento della sua generazione e ricevette il sostegno della poetessa Anna Achmatova, che gli dedicò una delle sue raccolte (1963). Fu denunciato per la prima volta da un giornale di Leningrado, che attaccò i suoi lavori come pornografici e antisovietici. Nel 1964 fu arrestato con l'accusa di parassitismo e condannato, dopo un processo che scatenò violente reazioni nell'opinione pubblica mondiale, a cinque anni di lavori forzati. Rilasciato dopo diciotto mesi, tornò a vivere a Leningrado, dedicandosi soprattutto alla traduzione di poeti inglesi come John Donne e Gerard Manley Hopkins. Nel frattempo venne pubblicata a New York, nel 1970, la sua raccolta di versi Fermata nel deserto, che confermò il suo straordinario estro poetico. Nel 1972 fu costretto dalle autorità sovietiche a emigrare e si stabilì negli Stati Uniti, dove tenne corsi in varie università e svolse ampia attività pubblicistica (Fuga da Bisanzio, 1986) e poetica. Nel 1987 fu insignito del premio Nobel per la letteratura, e nel suo discorso a Stoccolma individuò le radici della sua opera di classico contemporaneo in cinque poeti: Osip Mandel'štam, Anna Achmatova, Marina Cvetaeva, Robert Frost e W.H. Auden. Nel 1991 fu nominato poeta laureato degli Stati Uniti. Morì nel proprio appartamento di Brooklyn per un attacco di cuore nel 1996. Per sua volontà è stato sepolto nel cimitero dell'isola di San Michele a Venezia, da lui sempre considerata sua città di elezione, a cui dedicò molte poesie e un libretto intitolato Fondamenta degli Incurabili.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Бродский,_Иосиф_Александрович"/>
+    <rdfs:comment xml:lang="ca">Joseph Brodsky, nascut amb el nom de Iósif Aleksandròvitx Brodski fou un poeta nord-americà, d'origen soviètic, guardonat amb el Premi Nobel de Literatura l'any 1987 tant pels seus escrits en rus con en anglès.</rdfs:comment>
+    <dbpprop:birthName xml:lang="en">Iosif Aleksandrovich Brodsky</dbpprop:birthName>
+    <rdfs:comment xml:lang="fr">Iossif (Joseph) Alexandrovitch Brodsky est un grand poète russe né à Léningrad le 24 mai 1940 et mort à New York le 28 janvier 1996. Il fut lauréat du prix Nobel de littérature en 1987.</rdfs:comment>
+    <dbpedia-owl:birthName xml:lang="en">Iosif Aleksandrovich Brodsky</dbpedia-owl:birthName>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.loc.gov/loc/lcib/9603/brodsky.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nytimes.com/1996/01/29/arts/joseph-brodsky-exiled-poet-who-won-nobel-dies-at-55.html?scp=5&amp;sq=joseph+brodsky&amp;st=nyt"/>
+    <dbpedia-owl:abstract xml:lang="en">Iosif Aleksandrovich Brodsky (24 May 1940 – 28 January 1996), was a Russian poet and essayist. In 1964, 23-year-old Brodsky was arrested and charged with the crime of "social parasitism" He was expelled from the Soviet Union in 1972 and settled in America with the help of W. H. Auden and other supporters. He taught thereafter at universities including those at Yale, Cambridge and Michigan. Brodsky was awarded the 1987 Nobel Prize in Literature "for an all-embracing authorship, imbued with clarity of thought and poetic intensity". He was appointed American Poet Laureate in 1991.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="de">Joseph Brodsky war ein russisch-US-amerikanischer Dichter und Nobelpreisträger für Literatur.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Naturalized_citizens_of_the_United_States"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:MacArthur_Fellows"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Joseph_Brodsky"/>
+    <dbpedia-owl:abstract xml:lang="vi">Joseph Brodsky (24 tháng 5 năm 1940 - 28 tháng 1 năm 1996), tên trong khai sinh là Iosif Aleksandrovich Brodsky, là một nhà thơ, nhà văn Mỹ gốc Nga đoạt Giải Nobel Văn học năm 1987.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="pl">Iosif Aleksandrowicz Brodski – jeden z największych poetów i eseistów XX wieku. W ZSRR skazany na przymusowe roboty za pasożytnictwo. W 1972 pozbawiony obywatelstwa i wydalony ze Związku Radzieckiego. Zamieszkał w Nowym Jorku, gdzie wykładał na różnych uczelniach. W latach 1991-1992 został Laureatem Biblioteki Kongresu USA.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Nobel_laureates_in_Literature"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Josif_Brodskij"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/조지프_브로드스키"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_Nobel_laureates"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <rdfs:label xml:lang="zh">约瑟夫·布罗茨基</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfClareHall,Cambridge"/>
+    <rdfs:comment xml:lang="es">Joseph Brodsky fue un poeta ruso-estadounidense de origen judío, nacido en Leningrado y fallecido en Nueva York. Ganó el Premio Nobel de Literatura en 1987.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.kirjasto.sci.fi/brodsky.htm"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Russia"/>
+    <rdfs:comment xml:lang="pt">Joseph Brodsky, pseudônimo de Iosif Aleksandrovich Brodsky foi um poeta russo naturalizado estadunidense. Foi agraciado com o Nobel de Literatura de 1987.</rdfs:comment>
+    <dbpprop:nationality xml:lang="en">Russian</dbpprop:nationality>
+    <dbpprop:salign xml:lang="en">right</dbpprop:salign>
+    <rdfs:label xml:lang="ca">Joseph Brodsky</rdfs:label>
+    <dbpprop:bgcolor xml:lang="en">#FFFFF0</dbpprop:bgcolor>
+    <dbpedia-owl:language rdf:resource="http://dbpedia.org/resource/Russian_language"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RussianNobelLaureates"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Joseph_Brodsky"/>
+    <foaf:givenName xml:lang="en">Joseph</foaf:givenName>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Joseph_Brodsky"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_Jews"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MacArthurFellows"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Iosif_Brodski"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SovietDissidents"/>
+    <rdfs:label xml:lang="vi">Joseph Brodsky</rdfs:label>
+    <dbpprop:shortDescription xml:lang="en">poet, essayist</dbpprop:shortDescription>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <dbpedia-owl:abstract xml:lang="cs">Josif Alexandrovič Brodskij byl sovětský básník a disident ruské národnosti, později americký esejista a literární kritik, nositel Nobelovy ceny za literaturu za rok 1987. Z jeho prací je známá například esej z roku 1989 Vodoznaky – Zrcadlení času. Jde o hold Benátkám, věčnému městu na vodě, městu, které mu tolik připomínalo rodný Petrohrad. Je to manifest autorova pojetí estetických hodnot. Hovoří o prožívání emigrace, literatuře, lásce a umění. Autor žil po vyhoštění ze Sovětského svazu ve Spojených státech a každý rok v zimě se uchyloval do Benátek.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="uk">Йосип Олександрович Бродський — російський поет, перекладач, есеїст XX століття, лауреат Нобелівської премії.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="ja">ヨシフ・ブロツキーは、ロシアの詩人、随筆家。本名ヨシフ・アレクサンドロヴィッチ・ブロツキー(Ио́сиф Алекса́ндрович Бро́дский)。1987年にノーベル文学賞を受賞し、アメリカの桂冠詩人(1991-1992)にも選出された。彼はシレジア大学の名誉学位も保持していた。</rdfs:comment>
+    <dbpprop:occupation xml:lang="en">Poet, essayist</dbpprop:occupation>
+    <rdfs:label xml:lang="uk">Бродський Йосип Олександрович</rdfs:label>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Joseph_Brodsky"/>
+    <dbpprop:align xml:lang="en">right</dbpprop:align>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
+    <dbpprop:quote xml:lang="en">So long had life together been, that once
+the snow began to fall, it seemed unending;
+that, lest the flakes should make her eyelids wince,
+I’d shield them with my hand, and they, pretending
+not to believe that cherishing of eyes,
+would beat against my palm like butterflies.</dbpprop:quote>
+    <dbpprop:quote xml:lang="en">I was born and grew up in the Baltic marshland
+by zinc-gray breakers that always marched on
+in twos.</dbpprop:quote>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Soviet_Union"/>
+    <dbpedia-owl:abstract xml:lang="de">Joseph Brodsky war ein russisch-US-amerikanischer Dichter und Nobelpreisträger für Literatur.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanWritersOfRussianDescent"/>
+    <dbpprop:spouse xml:lang="en">Maria Sozzani</dbpprop:spouse>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Mount_Holyoke_College_faculty"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RussianPoets"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Soviet_Union"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Quote_box"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpprop:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">220</dbpprop:imagesize>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+    <rdfs:comment xml:lang="it">Esordì nel 1958 pubblicando alcune poesie in una rivista clandestina; venne subito riconosciuto come uno dei poeti di maggior talento della sua generazione e ricevette il sostegno della poetessa Anna Achmatova, che gli dedicò una delle sue raccolte (1963). Fu denunciato per la prima volta da un giornale di Leningrado, che attaccò i suoi lavori come pornografici e antisovietici.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Huizinga_Lecturers"/>
+    <dbpprop:citizenship rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryfoundation.org/bio/joseph-brodsky"/>
+    <dbpprop:ethnicity rdf:resource="http://dbpedia.org/resource/Jews"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+    <rdfs:label xml:lang="cs">Josif Brodskij</rdfs:label>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">300</dbpprop:width>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/7/7e/Josef_Brodsky.png"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Isola_di_San_Michele"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</dbpprop:dateOfDeath>
   </rdf:Description>
 </rdf:RDF>

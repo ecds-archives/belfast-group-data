@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C149241461#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Horovitz, Michael, 1935-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/52603330"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2004250859#skos:Concept">
+    <skos:altLabel>M. H.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/52603330"/>
+    <skos:prefLabel>Horovitz, Michael, 1935-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/52603330/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/52603330"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/52603330/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/52603330"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C123684153#skos:Concept">
+    <skos:prefLabel>Horovitz, Michael, 1935-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/52603330"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/52603330">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/123684153"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/136905331/id"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Michael_Horovitz"/>
+    <foaf:name>Horovitz, Michael</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Michael Horovitz</foaf:name>
+    <foaf:name>M. H.</foaf:name>
+    <foaf:name>Horovitz, Michael German painter, born 1935</foaf:name>
+    <rdaGr2:dateOfBirth>1935</rdaGr2:dateOfBirth>
+    <foaf:name>Horovitz, Michael, 1935-....</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500343398#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Michael Horovitz</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/52603330"/>
+    <skos:prefLabel>Horovitz, Michael German painter, born 1935</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50030819#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50030819"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/52603330"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Horovitz, Michael, 1935-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C136905331#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Horovitz, Michael, 1935-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/52603330"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/52603330/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/52603330"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CMichael_Horovitz#skos:Concept">
+    <skos:prefLabel>Horovitz, Michael</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/52603330"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000407367#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/52603330"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:prefLabel>Horovitz, Michael, 1935-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+</rdf:RDF>

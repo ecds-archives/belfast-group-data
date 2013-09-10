@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dolmen_Press">
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0405gct"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.uvic.ca/site/spcoll/guides/sc034.html"/>
+    <rdfs:comment xml:lang="en">The Dolmen Press was founded by Liam and Josephine Miller in 1951. The Press operated in Dublin from 1951 until Liam Miller's death in 1987. A printing division was opened in the late 1950s as an additional revenue source, and was eventually shut down in 1979. The division took printing jobs from publishers as well as theaters, art galleries, businesses and individuals. Founded to provide a publishing outlet for Irish poetry, the Press also heavily featured the work of Irish artists.</rdfs:comment>
+    <ns6:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Dolmen_Press?oldid=324469390"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Dolmen_Press"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Dolmen_Press"/>
+    <dbpedia-owl:abstract xml:lang="en">The Dolmen Press was founded by Liam and Josephine Miller in 1951. The Press operated in Dublin from 1951 until Liam Miller's death in 1987. A printing division was opened in the late 1950s as an additional revenue source, and was eventually shut down in 1979. The division took printing jobs from publishers as well as theaters, art galleries, businesses and individuals. Founded to provide a publishing outlet for Irish poetry, the Press also heavily featured the work of Irish artists. The scope of the press grew to include prose literature by Irish authors as well as a broad range of critical works about Irish literature and theater. The life and works of W. B. Yeats is a recurring theme in a variety of works, including the Yeats Centenary Series. One highlight in the Press' history was the publication of The Tain in 1969. Thomas Kinsella's translation of the Irish epic poem took 15 years from concept to publication and represented a milestone in Irish publishing. By the 1980s the Press had created the Brogeen Books division for juvenile works, and many of the later publications were under this imprint. In 2001, a collection of essays, "The Dolmen Press: a Celebration" was published by Lilliput Press.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Publishing_companies_of_the_Republic_of_Ireland"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://collections.zsr.wfu.edu:20018/logicrouter/servlet/LogicRouter?page=object&amp;OUTPUTXSL=dolmen.xsl"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.lilliputpress.ie/listbook.html?oid=2732985Harmon,"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PuBlishingCompaniesOfTheRepuBlicOfIreland"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://collections.zsr.wfu.edu:20018/logicrouter/servlet/LogicRouter?OUTPUTXSL=ead/xsl/eadbase_enc.xsl&amp;xmlfilename=http://www.wfu.edu/zsr/collections/digital/ead/dolmen_1000.xml"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/149172027/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/149172027"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C329613553#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Grennan, Conor, 1974-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/149172027"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C14342615X#skos:Concept">
+    <skos:prefLabel>Grennan, Conor, 1974-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/149172027"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn+2010072711#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Grennan, Conor</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n2010072711"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/149172027"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/149172027/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/149172027"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C16546826#skos:Concept">
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb165468261"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Grennan, Conor</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb165468261"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/149172027"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/149172027/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/149172027"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/149172027">
+    <rdaGr2:dateOfBirth>1974</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb165468261#foaf:Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Grennan, Conor</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Grennan, Conor, 1974-</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/14342615X"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -5,9 +5,6 @@
    xmlns:ns4="http://www.w3.org/ns/prov#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Welsh_Arts_Council">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Welsh_Arts_Council"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Welsh_Arts_Council">
     <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Wales"/>
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Welsh_Arts_Council"/>

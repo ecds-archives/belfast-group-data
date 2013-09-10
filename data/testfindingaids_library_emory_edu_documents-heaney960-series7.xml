@@ -7,9 +7,9 @@
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/heaney960/series7/">
-    <schema:about rdf:resource="http://viaf.org/viaf/109557338"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
     <schema:name xml:lang="en">Seamus Heaney papers, 1951-2004; Series 7: Personal papers, 1965-2001</schema:name>
-    <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateModified xml:lang="en">2013-09-09</schema:dateModified>
+    <schema:about rdf:resource="http://viaf.org/viaf/109557338"/>
   </rdf:Description>
 </rdf:RDF>

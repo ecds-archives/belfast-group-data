@@ -8,149 +8,155 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C1012J9741#skos:Concept">
-    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000427818#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>Simić, Čarls, 1938-</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cmzk2003169581#skos:Concept">
+    <skos:altLabel>Simić, Čarls, 1938-</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <skos:altLabel>Simić, Čarls, 1938-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
     <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C075434083#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/22044">
+    <foaf:name>Simic, Charles</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/075434083/id"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119151596"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Simić, Čarls.</foaf:name>
+    <foaf:name>Simic, Charles, 1938-</foaf:name>
+    <foaf:name>シミック, チャールズ</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12014306h#foaf:Person"/>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/242960761"/>
+    <foaf:name>Simić,  Dušan Charles.</foaf:name>
+    <rdaGr2:dateOfBirth>1938-05-09</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/311161"/>
+    <foaf:name>Simić, Čarls, 1938-</foaf:name>
+    <foaf:name>Симић, Чарлс, 1938-</foaf:name>
+    <foaf:name>Simic, Charles, 1938-....</foaf:name>
+    <foaf:name>Симић, Душан, 1938-</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/242960761"/>
+    <foaf:name>Simić,  Dušan.</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_Simic"/>
+    <foaf:name>Simić, Dušan, 1938-</foaf:name>
+    <foaf:name>Simic, Charles D. 1938-</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca1153929x#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++94201784#skos:Concept">
+    <skos:altLabel>Simić, Čarls.</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Simić,  Dušan Charles.</skos:altLabel>
+    <skos:altLabel>Simić,  Dušan.</skos:altLabel>
+    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000006894#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035499859#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
+    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/22044/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/22044"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00930658#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
+    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>シミック, チャールズ</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12014306#skos:Concept">
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12014306h"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12014306h"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C068877617#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C119151596#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
-    <skos:altLabel>Simić, Čarls, 1938-</skos:altLabel>
-    <skos:altLabel>Simic, Charles D. 1938-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000427818#skos:Concept">
-    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
-    <skos:altLabel>Simić, Čarls, 1938-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/22044/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00930658#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C1012J9741#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
+    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>シミック, チャールズ</skos:altLabel>
-    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C311161#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/311161#concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Simic, Charles, 1938-</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca1153929x#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12014306#skos:Concept">
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12014306h"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12014306h"/>
-    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++94201784#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
-    <skos:altLabel>Simić, Čarls.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
-    <skos:altLabel>Simić,  Dušan.</skos:altLabel>
-    <skos:altLabel>Simić,  Dušan Charles.</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80043344#skos:Concept">
-    <skos:altLabel>Simić, Čarls, 1938-</skos:altLabel>
-    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
-    <skos:altLabel>Симић, Чарлс, 1938-</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80043344"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Simić, Dušan, 1938-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
-    <skos:altLabel>Симић, Душан, 1938-</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/22044/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/22044"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069723133#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
-    <skos:altLabel>Simić, Čarls, 1938-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C068877617#skos:Concept">
-    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C075434083#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
+    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CCharles_Simic#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Simic, Charles</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/22044/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/22044"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/22044">
-    <foaf:name>Simić,  Dušan Charles.</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/075434083/id"/>
-    <rdaGr2:dateOfBirth>1938-05-09</rdaGr2:dateOfBirth>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119151596"/>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/242960761"/>
-    <foaf:name>Simic, Charles, 1938-</foaf:name>
-    <foaf:name>Симић, Душан, 1938-</foaf:name>
-    <foaf:name>シミック, チャールズ</foaf:name>
-    <foaf:name>Simic, Charles, 1938-....</foaf:name>
-    <foaf:name>Simić,  Dušan.</foaf:name>
-    <foaf:name>Симић, Чарлс, 1938-</foaf:name>
-    <foaf:name>Simić, Čarls, 1938-</foaf:name>
-    <foaf:name>Simic, Charles D. 1938-</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12014306h#foaf:Person"/>
-    <foaf:name>Simić, Dušan, 1938-</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/311161"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_Simic"/>
-    <foaf:name>Simić, Čarls.</foaf:name>
-    <foaf:name>Simic, Charles</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/242960761"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035499859#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80043344#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80043344"/>
+    <skos:altLabel>Симић, Душан, 1938-</skos:altLabel>
+    <skos:altLabel>Симић, Чарлс, 1938-</skos:altLabel>
+    <skos:altLabel>Simić, Čarls, 1938-</skos:altLabel>
+    <skos:altLabel>Simić, Dušan, 1938-</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069723133#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:altLabel>Simić, Čarls, 1938-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C311161#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
+    <skos:altLabel>Simic, Charles, 1938-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/311161#concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/22044/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/22044"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C119151596#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Simic, Charles, 1938-....</skos:prefLabel>
+    <skos:altLabel>Simić, Čarls, 1938-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Simic, Charles D. 1938-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CCharles_Simic#skos:Concept">
+    <skos:prefLabel>Simic, Charles</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22044"/>
   </rdf:Description>
 </rdf:RDF>

@@ -8,107 +8,109 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/109262065/#foaf:Person">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/109262065"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0012405#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Raine, Craig, 1944-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12552377#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
-    <skos:prefLabel>Raine, Craig, 1944-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb125523777"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb125523777"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++77017129#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n77017129"/>
-    <skos:altLabel>クレイグ・レイン</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C185803628#skos:Concept">
     <skos:prefLabel>Raine, Craig</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C034809430#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Raine, Craig, 1944-....</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Raine, Craig, 1944-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109262065/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109262065">
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/284267"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb125523777#foaf:Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Craig_Raine"/>
+    <foaf:name>Raine, Craig, 1944-....</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/185803628"/>
+    <foaf:name>クレイグ・レイン</foaf:name>
+    <foaf:name>Raine, Craig</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/034809430/id"/>
+    <foaf:name>レイン, クレイグ</foaf:name>
+    <rdaGr2:dateOfBirth>1944-12-03</rdaGr2:dateOfBirth>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C01125948#skos:Concept">
     <skos:altLabel>レイン, クレイグ</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Raine, Craig</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C284267#skos:Concept">
-    <skos:prefLabel>Raine, Craig, 1944-....</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C070957363#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/284267#concept"/>
+    <skos:prefLabel>Raine, Craig, 1944-....</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++94250344#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0012405#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Raine, Craig, 1944-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CCraig_Raine#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++77017129#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n77017129"/>
     <skos:prefLabel>Raine, Craig</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
+    <skos:altLabel>クレイグ・レイン</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000122468#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C119215772#skos:Concept">
     <skos:prefLabel>Raine, Craig, 1944-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000232081#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Raine, Craig Anthony 1944-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:altLabel>Raine, Craig A. 1944-</skos:altLabel>
+    <skos:prefLabel>Raine, Craig</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/109262065/">
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/109262065"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C070957363#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <skos:prefLabel>Raine, Craig, 1944-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000232081#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CCraig_Raine#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
     <skos:prefLabel>Raine, Craig</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/109262065/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/109262065">
-    <rdaGr2:dateOfBirth>1944-12-03</rdaGr2:dateOfBirth>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>レイン, クレイグ</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/284267"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb125523777#foaf:Person"/>
-    <foaf:name>Raine, Craig A. 1944-</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119215772"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Raine, Craig Anthony 1944-</foaf:name>
-    <foaf:name>クレイグ・レイン</foaf:name>
-    <foaf:name>Raine, Craig, 1944-....</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/034809430/id"/>
-    <foaf:name>Raine, Craig</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Craig_Raine"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++94250344#skos:Concept">
+    <skos:prefLabel>Raine, Craig, 1944-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12552377#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb125523777"/>
+    <skos:prefLabel>Raine, Craig, 1944-....</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb125523777"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C284267#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109262065"/>
+    <skos:prefLabel>Raine, Craig, 1944-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/284267#concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109262065/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/109262065"/>
   </rdf:Description>
 </rdf:RDF>

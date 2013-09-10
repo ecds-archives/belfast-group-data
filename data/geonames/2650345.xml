@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2650345/about.rdf">
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2650345/"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-12-30</dcterms:modified>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2650345/"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2650345/">
+    <gn:alternateName xml:lang="af">Oos-Yorkshire</gn:alternateName>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:alternateName xml:lang="ko">이스트라이딩오브요크셔 주</gn:alternateName>
+    <gn:name>East Riding of Yorkshire</gn:name>
+    <gn:alternateName xml:lang="ar">إيست رايدينج أوف يوركشير</gn:alternateName>
+    <gn:alternateName xml:lang="bg">Източен Йоркшър</gn:alternateName>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/2650345/contains.rdf"/>
+    <gn:alternateName xml:lang="eu">Ekialdeko Yorkshire</gn:alternateName>
+    <gn:alternateName xml:lang="ru">Ист-Райдинг-оф-Йоркшир</gn:alternateName>
+    <gn:alternateName xml:lang="pnb">ایسٹ رائڈنگ آف یارکشائر</gn:alternateName>
+    <gn:alternateName xml:lang="lb">Ost Riding vu Yorkshire</gn:alternateName>
+    <gn:alternateName xml:lang="ja">イースト・ライディング・オブ・ヨークシャー</gn:alternateName>
+    <gn:population>587100</gn:population>
+    <gn:officialName xml:lang="en">East Riding of Yorkshire</gn:officialName>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2650345/about.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/6269131/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/East_Riding_of_Yorkshire"/>
+    <gn:alternateName xml:lang="hi">ईस्ट राइडिंग ऑफ़ यॉर्कशायर</gn:alternateName>
+    <owl:sameAs rdf:resource="http://www.ordnancesurvey.co.uk/ontology/v1/AdministrativeGeography.rdf#east_riding_of_yorkshire_00fb"/>
+    <gn:alternateName xml:lang="es">Yorkshire del Este</gn:alternateName>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:alternateName xml:lang="mr">ईस्ट रायडिंग ऑफ यॉर्कशायर</gn:alternateName>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2650345/east-riding-of-yorkshire.html"/>
+    <gn:alternateName xml:lang="sco">East Riding o Yorkshire</gn:alternateName>
+    <gn:alternateName xml:lang="uk">Східний Йоркширський Райдінг</gn:alternateName>
+    <gn:alternateName xml:lang="gv">Treen Hiar Yorkshire</gn:alternateName>
+    <wgs84_pos:lat>53.91667</wgs84_pos:lat>
+    <gn:alternateName>East Riding Yorkshire</gn:alternateName>
+    <gn:alternateName xml:lang="zh">东约克郡</gn:alternateName>
+    <gn:alternateName xml:lang="cy">Riding Dwyreiniol Efrog</gn:alternateName>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:alternateName>East Riding</gn:alternateName>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/6269131/"/>
+    <gn:alternateName xml:lang="fr">Yorkshire de l'Est</gn:alternateName>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2635167/"/>
+    <gn:alternateName xml:lang="is">Austur-Yorkshire</gn:alternateName>
+    <gn:alternateName xml:lang="en">East Yorkshire</gn:alternateName>
+    <gn:countryCode>GB</gn:countryCode>
+    <gn:alternateName>District of East Riding of Yorkshire</gn:alternateName>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/East_Riding_of_Yorkshire"/>
+    <wgs84_pos:long>-0.5</wgs84_pos:long>
+    <gn:alternateName xml:lang="la">Isuria Orientalis</gn:alternateName>
+    <gn:alternateName xml:lang="id">Yorkshire Timur</gn:alternateName>
+    <gn:alternateName xml:lang="lv">Jorkšīras Īstraidinga</gn:alternateName>
+    <gn:alternateName xml:lang="ca">East Riding de Yorkshire</gn:alternateName>
+  </rdf:Description>
+</rdf:RDF>

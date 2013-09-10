@@ -10,48 +10,42 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Sebastian_Barker">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sebastian_Barker"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Sebastian_Barker">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Sebastian_Barker"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Sebastian_Barker">
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfChristChurch,Oxford"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Corpus_Christi_College,_Oxford"/>
+    <foaf:name xml:lang="en">Sebastian Barker</foaf:name>
+    <dc:description xml:lang="en">British poet</dc:description>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sebastian_Barker?oldid=493581933"/>
+    <dbpedia-owl:abstract xml:lang="en">Sebastian Smart Barker FRSL (born 16 April 1945) is a British poet. He was educated at The King's School, Canterbury, Corpus Christi, Oxford (MA) and at the University of East Anglia (MA). He is the son of George Barker and Elizabeth Smart. He was on the executive committee of P.E.N. and was the Chairman of the Poetry Society from 1988 to 1992. In 1997 he was elected a Fellow of the Royal Society of Literature. In 2002 he took over editorship of the London Magazine, which he resigned from in 2008 after the Arts Council England had cut the magazine's funding. His earlier collections, which include On the Rocks (Martin, Brian &amp; O'Keeffe 1977), and A Nuclear Epiphany (Friday Night Fish Publications, 1984) were brought together in a volume of selected poems, Guarding the Border, published by Enitharmon Press in 1992. More recent collections include The Dream of Intelligence (Littlewood Arc, 1992, a long poem based on Nietzsche’s life and works), The Hand in the Well (Enitharmon, 1996), Damnatio Memoriae: Erased from Memory (Enitharmon, 2004), and The Erotics of God (Smokestack Books, 2005). In August 2010 Barker contributed to an eBook collection of political poems entitled Emergency Verse - Poetry in Defence of the Welfare State edited by Alan Morrison</dbpedia-owl:abstract>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1945_births"/>
     <rdfs:label xml:lang="en">Sebastian Barker</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sebastian_Barker?oldid=493581933"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02r189q"/>
-    <foaf:surname xml:lang="en">Barker</foaf:surname>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryarchive.org/poetryarchive/singlePoet.do?poetId=5564"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTheUniversityOfEastAnglia"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishPoets"/>
-    <rdfs:comment xml:lang="en">Sebastian Smart Barker FRSL (born 16 April 1945) is a British poet. He was educated at The King's School, Canterbury, Corpus Christi, Oxford (MA) and at the University of East Anglia (MA). He is the son of George Barker and Elizabeth Smart. He was on the executive committee of P.E.N. and was the Chairman of the Poetry Society from 1988 to 1992. In 1997 he was elected a Fellow of the Royal Society of Literature.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfLiterature"/>
-    <dbpedia-owl:abstract xml:lang="en">Sebastian Smart Barker FRSL (born 16 April 1945) is a British poet. He was educated at The King's School, Canterbury, Corpus Christi, Oxford (MA) and at the University of East Anglia (MA). He is the son of George Barker and Elizabeth Smart. He was on the executive committee of P.E.N. and was the Chairman of the Poetry Society from 1988 to 1992. In 1997 he was elected a Fellow of the Royal Society of Literature. In 2002 he took over editorship of the London Magazine, which he resigned from in 2008 after the Arts Council England had cut the magazine's funding. His earlier collections, which include On the Rocks (Martin, Brian &amp; O'Keeffe 1977), and A Nuclear Epiphany (Friday Night Fish Publications, 1984) were brought together in a volume of selected poems, Guarding the Border, published by Enitharmon Press in 1992. More recent collections include The Dream of Intelligence (Littlewood Arc, 1992, a long poem based on Nietzsche’s life and works), The Hand in the Well (Enitharmon, 1996), Damnatio Memoriae: Erased from Memory (Enitharmon, 2004), and The Erotics of God (Smokestack Books, 2005). In August 2010 Barker contributed to an eBook collection of political poems entitled Emergency Verse - Poetry in Defence of the Welfare State edited by Alan Morrison</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_poets"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-04-16</dbpedia-owl:birthDate>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_East_Anglia"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.inpressbooks.co.uk/sebastian_barker_f01543.aspx"/>
-    <dbpprop:shortDescription xml:lang="en">British poet</dbpprop:shortDescription>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.smokestack-books.co.uk/"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Sebastian_Barker"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.enitharmon.co.uk"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/OldKing'sScholars"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <dbpprop:name xml:lang="en">Barker, Sebastian</dbpprop:name>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</dbpprop:dateOfBirth>
-    <foaf:givenName xml:lang="en">Sebastian</foaf:givenName>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_The_King's_School,_Canterbury"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Corpus_Christi_College,_Oxford"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdfs:comment xml:lang="en">Sebastian Smart Barker FRSL (born 16 April 1945) is a British poet. He was educated at The King's School, Canterbury, Corpus Christi, Oxford (MA) and at the University of East Anglia (MA). He is the son of George Barker and Elizabeth Smart. He was on the executive committee of P.E.N. and was the Chairman of the Poetry Society from 1988 to 1992. In 1997 he was elected a Fellow of the Royal Society of Literature.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfChristChurch,Oxford"/>
     <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dc:description xml:lang="en">British poet</dc:description>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Sebastian_Barker"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfLiterature"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02r189q"/>
+    <dbpprop:shortDescription xml:lang="en">British poet</dbpprop:shortDescription>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTheUniversityOfEastAnglia"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.inpressbooks.co.uk/sebastian_barker_f01543.aspx"/>
+    <foaf:surname xml:lang="en">Barker</foaf:surname>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.smokestack-books.co.uk/"/>
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sebastian_Barker"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/OldKing'sScholars"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.enitharmon.co.uk"/>
+    <foaf:givenName xml:lang="en">Sebastian</foaf:givenName>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thelondonmagazine.net/"/>
-    <foaf:name xml:lang="en">Sebastian Barker</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishPoets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_poets"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</dbpprop:dateOfBirth>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_East_Anglia"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-04-16</dbpedia-owl:birthDate>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryarchive.org/poetryarchive/singlePoet.do?poetId=5564"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_The_King's_School,_Canterbury"/>
   </rdf:Description>
 </rdf:RDF>

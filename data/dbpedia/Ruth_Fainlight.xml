@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruth_Fainlight">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <foaf:surname xml:lang="en">Fainlight</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <foaf:name xml:lang="en">Ruth Fainlight</foaf:name>
+    <dbpprop:occupation xml:lang="en">Poet</dbpprop:occupation>
+    <dbpprop:placeOfBirth xml:lang="en">New York City</dbpprop:placeOfBirth>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ruth_Fainlight"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <foaf:givenName xml:lang="en">Ruth</foaf:givenName>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Ruth_Fainlight"/>
+    <dbpprop:name xml:lang="en">Ruth Fainlight</dbpprop:name>
+    <dbpprop:nationality xml:lang="en">American</dbpprop:nationality>
+    <dbpprop:birthPlace xml:lang="en">New York City, United States</dbpprop:birthPlace>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1931-05-02</dbpprop:birthDate>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dc:description xml:lang="en">Poet</dc:description>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ruth_Fainlight?oldid=470159003"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryarchive.org/poetryarchive/singlePoet.do?poetId=10351"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <dbpprop:occupation xml:lang="en">short story writer</dbpprop:occupation>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
+    <dbpprop:occupation xml:lang="en">translator</dbpprop:occupation>
+    <dbpedia-owl:abstract xml:lang="en">Ruth Fainlight, is a poet, short story writer, translator and librettist.</dbpedia-owl:abstract>
+    <dbpprop:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">150</dbpprop:imagesize>
+    <rdfs:label xml:lang="en">Ruth Fainlight</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfLiterature"/>
+    <dbpprop:occupation xml:lang="en">librettist</dbpprop:occupation>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
+    <rdfs:comment xml:lang="en">Ruth Fainlight, is a poet, short story writer, translator and librettist.</rdfs:comment>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:name xml:lang="en">Fainlight, Ruth</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_expatriates_in_the_United_Kingdom"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1931_births"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1931-05-02</dbpedia-owl:birthDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_New_York_City"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1931-05-02</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.contemporarywriters.com/authors/?p=auth01K23Q441812620571"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0cnq7f"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
+    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
+  </rdf:Description>
+</rdf:RDF>

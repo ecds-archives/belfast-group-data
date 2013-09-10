@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/fallon817/series1/subseries1.5/">
+    <schema:dateModified xml:lang="en">2013-09-10</schema:dateModified>
+    <schema:mentions rdf:nodeID="N409f3eaa9bd14a22a538b3b6021edf79"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:name xml:lang="en">Peter Fallon - Gallery Press collection, circa 1967-1998; Subseries 1.5: Oldcastle Enterprises/After Hours Books author files</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N409f3eaa9bd14a22a538b3b6021edf79">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/47323886"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/47323886">
+    <schema:name xml:lang="en">McMann, Jean</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+</rdf:RDF>

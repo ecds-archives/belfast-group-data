@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Ridler">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_women_writers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_King's_College_London"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DowneHouseSeniors"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_poets"/>
+    <foaf:name xml:lang="en">Anne Ridler</foaf:name>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Anne_Ridler"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishPoets"/>
+    <foaf:givenName xml:lang="en">Anne</foaf:givenName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishWomenWriters"/>
+    <foaf:surname xml:lang="en">Ridler</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Women_poets"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03c8fk"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Officers_of_the_Order_of_the_British_Empire"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.guardian.co.uk/news/articles/0,6109,574760,00.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfKing'sCollegeLondon"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1912-07-30</dbpedia-owl:birthDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/OfficersOfTheOrderOfTheBritishEmpire"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Anne_Ridler"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1912_births"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Anne_Ridler?oldid=473309531"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2001_deaths"/>
+    <dbpedia-owl:abstract xml:lang="en">Anne Barbara Ridler OBE (née Bradby) (30 July 1912 – 15 October 2001) was a British poet, and Faber and Faber editor, selecting the Faber A Little Book of Modern Verse with T. S. Eliot (1941). Her Collected Poems were published in 1994. She turned to libretto work and verse plays; it was later in life that she earned official recognition, receiving an OBE in 2001.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryarchive.org/poetryarchive/singlePoet.do?poetId=30"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-10-15</dbpedia-owl:deathDate>
+    <dbpprop:name xml:lang="en">Ridler, Anne</dbpprop:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.guardian.co.uk/departments/poetry/story/0,6000,581905,00.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Downe_House_School"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WomenPoets"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dbpprop:dateOfDeath>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
+    <rdfs:label xml:lang="en">Anne Ridler</rdfs:label>
+    <rdfs:comment xml:lang="en">Anne Barbara Ridler OBE (née Bradby) (30 July 1912 – 15 October 2001) was a British poet, and Faber and Faber editor, selecting the Faber A Little Book of Modern Verse with T. S. Eliot (1941). Her Collected Poems were published in 1994. She turned to libretto work and verse plays; it was later in life that she earned official recognition, receiving an OBE in 2001.</rdfs:comment>
+  </rdf:Description>
+</rdf:RDF>

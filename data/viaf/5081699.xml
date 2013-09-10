@@ -7,91 +7,102 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2003036833#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C136939872#skos:Concept">
     <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000294481#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Uiler, Markus</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
-    <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C13478233#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb134782335"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb134782335"/>
-    <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/5081699/">
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/5081699"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/5081699">
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/136939872"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb134782335#foaf:Person"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Wheeler, Marcus.</foaf:name>
-    <foaf:name>Uiler, Markus</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/5081699/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cmzk2013766765#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035603155#skos:Concept">
-    <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Uiler, Markus</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/5081699/#foaf:Person">
     <owl:sameAs rdf:resource="http://viaf.org/viaf/5081699"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca24641224#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C905041#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++83145005#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n83145005"/>
-    <skos:altLabel>Uiler, Markus</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C067944450#skos:Concept">
+    <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2003036833#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
     <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C136939872#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000294481#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Uiler, Markus</skos:altLabel>
+    <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/5081699">
+    <foaf:name>Уилер, Маркус</foaf:name>
+    <foaf:name>Uiler, Markus</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb134782335#foaf:Person"/>
+    <foaf:name>Wheeler, Marcus.</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Уилер, М. (Маркус)</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/136939872"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cmzk2013766765#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Uiler, Markus</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C13478233#skos:Concept">
+    <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb134782335"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb134782335"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000052693#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
+    <skos:altLabel>Уилер, Маркус</skos:altLabel>
     <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Уилер, М. (Маркус)</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C905041#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++83145005#skos:Concept">
+    <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
+    <skos:altLabel>Uiler, Markus</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n83145005"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca24641224#skos:Concept">
+    <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035603155#skos:Concept">
+    <skos:altLabel>Uiler, Markus</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:prefLabel>Wheeler, Marcus.</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/5081699/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/5081699"/>
   </rdf:Description>
 </rdf:RDF>

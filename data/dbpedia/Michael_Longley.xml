@@ -10,71 +10,61 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Laird">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Michael_Longley"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Michael_Longley"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Longley">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdfs:comment xml:lang="sv">Michael Longley född 27 juli 1939, är en irländsk författare från Belfast, Nordirland. Han är gift med litteraturkritiken Edna Longley som är inriktad på modern irländsk och brittisk lyrik. Han studerade vid Royal Belfast Academical Institution och därefter studerade han klassisk litteratur vid Trinity College, Dublin, där han var redaktör för magasinet Icarus. Han är hedersdoktor vid Queen's University Belfast sedan 1995 och Trinity College, Dublin sedan 1999.</rdfs:comment>
+    <rdfs:label xml:lang="de">Michael Longley</rdfs:label>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/PoetsFromNorthernIreland"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
-    <rdfs:label xml:lang="en">Michael Longley</rdfs:label>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wfu.edu/wfupress"/>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Michael_Longley?oldid=485981794"/>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Michael_Longley"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Costa_Book_Award_winners"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTrinityCollege,DuBlin"/>
     <dbpedia-owl:abstract xml:lang="sv">Michael Longley född 27 juli 1939, är en irländsk författare från Belfast, Nordirland. Han är gift med litteraturkritiken Edna Longley som är inriktad på modern irländsk och brittisk lyrik. Han studerade vid Royal Belfast Academical Institution och därefter studerade han klassisk litteratur vid Trinity College, Dublin, där han var redaktör för magasinet Icarus. Han är hedersdoktor vid Queen's University Belfast sedan 1995 och Trinity College, Dublin sedan 1999. Gorse Fires (1991) vann Whitbread Poetry Prize och The Weather in Japan (2000) vann T.S. Eliot Prize och Hawthornden Prize. Han var år 2001 mottagare av Queen's Gold Medal for Poetry. 6 september 2007, utnämndes Longley till Professor i Poetry for Ireland, en gränsöverskridande akademisk post instiftad 1998, och tidigare innehavd av John Montague, Nuala Ní Dhomhnaill och Paul Durcan.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Commanders_of_the_Order_of_the_British_Empire"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Michael_Longley?oldid=485981794"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Christopher_Ewart-Biggs_Memorial_Prize_recipients"/>
+    <foaf:name xml:lang="en">Michael Longley</foaf:name>
+    <dbpedia-owl:abstract xml:lang="de">Michael Longley, CBE ist ein nordirischer Dichter.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryarchive.org/poetryarchive/singlePoet.do?poetId=3150"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07cby0"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfLiterature"/>
+    <rdfs:label xml:lang="en">Michael Longley</rdfs:label>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Michael_Longley"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.irishwriters-online.com/michaellongley.html"/>
-    <rdfs:comment xml:lang="de">Michael Longley, CBE ist ein nordirischer Dichter.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="pl">Michael Longley – czołowy poeta irlandzki, jeden z twórców nowoczesnej szkoły liryki w Irlandii Północnej. Ukończył filologię klasyczną w Trinity College w Dublinie. Debiutował w 1969 tomem No Continuing City. Laureat wielu prestiżowych nagród literackich (m. in. w 1991 Nagrody Whitbread w dziedzinie poezji za tomik Gorse Fires oraz w 2000 T. S. Eliot Prize za tomik The Weather in Japan). Mieszka w Belfaście wraz z żoną Edną, krytykiem literackim. Jest członkiem Aosdána, irlandzkiego stowarzyszenia grupującego wybitnych twórców. W Polsce jego twórczość jest znana dzięki przekładom Piotra Sommera (Lodziarz z Lisburn Road 1998).</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1939_births"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/arts/yourpaintings/paintings/michael-longley-b-1939-121966"/>
-    <rdfs:comment xml:lang="en">Michael Longley, CBE (born 27 July 1939) is a Northern Irish poet from Belfast.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Trinity_College,_Dublin"/>
+    <foaf:surname xml:lang="en">Longley</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Costa_Book_Award_winners"/>
+    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1939-07-27</dbpedia-owl:birthDate>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poets_from_Northern_Ireland"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <rdfs:comment xml:lang="pl">Michael Longley – czołowy poeta irlandzki, jeden z twórców nowoczesnej szkoły liryki w Irlandii Północnej. Ukończył filologię klasyczną w Trinity College w Dublinie. Debiutował w 1969 tomem No Continuing City. Laureat wielu prestiżowych nagród literackich (m. in. w 1991 Nagrody Whitbread w dziedzinie poezji za tomik Gorse Fires oraz w 2000 T. S. Eliot Prize za tomik The Weather in Japan). Mieszka w Belfaście wraz z żoną Edną, krytykiem literackim.</rdfs:comment>
+    <dbpprop:name xml:lang="en">Longley, Michael</dbpprop:name>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.npg.org.uk/collections/search/person.php?search=ss&amp;firstRun=true&amp;sText=michael+longley&amp;LinkID=mp67828"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">119471914</dbpedia-owl:individualisedPnd>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Michael_Longley"/>
+    <rdfs:comment xml:lang="sv">Michael Longley född 27 juli 1939, är en irländsk författare från Belfast, Nordirland. Han är gift med litteraturkritiken Edna Longley som är inriktad på modern irländsk och brittisk lyrik. Han studerade vid Royal Belfast Academical Institution och därefter studerade han klassisk litteratur vid Trinity College, Dublin, där han var redaktör för magasinet Icarus. Han är hedersdoktor vid Queen's University Belfast sedan 1995 och Trinity College, Dublin sedan 1999.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommandersOfTheOrderOfTheBritishEmpire"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Michael_Longley"/>
+    <dbpedia-owl:abstract xml:lang="pl">Michael Longley – czołowy poeta irlandzki, jeden z twórców nowoczesnej szkoły liryki w Irlandii Północnej. Ukończył filologię klasyczną w Trinity College w Dublinie. Debiutował w 1969 tomem No Continuing City. Laureat wielu prestiżowych nagród literackich (m. in. w 1991 Nagrody Whitbread w dziedzinie poezji za tomik Gorse Fires oraz w 2000 T. S. Eliot Prize za tomik The Weather in Japan). Mieszka w Belfaście wraz z żoną Edną, krytykiem literackim. Jest członkiem Aosdána, irlandzkiego stowarzyszenia grupującego wybitnych twórców. W Polsce jego twórczość jest znana dzięki przekładom Piotra Sommera (Lodziarz z Lisburn Road 1998).</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="de">Michael Longley, CBE ist ein nordirischer Dichter.</rdfs:comment>
+    <foaf:givenName xml:lang="en">Michael</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1939_births"/>
+    <rdfs:comment xml:lang="pl">Michael Longley – czołowy poeta irlandzki, jeden z twórców nowoczesnej szkoły liryki w Irlandii Północnej. Ukończył filologię klasyczną w Trinity College w Dublinie. Debiutował w 1969 tomem No Continuing City. Laureat wielu prestiżowych nagród literackich (m. in. w 1991 Nagrody Whitbread w dziedzinie poezji za tomik Gorse Fires oraz w 2000 T. S. Eliot Prize za tomik The Weather in Japan). Mieszka w Belfaście wraz z żoną Edną, krytykiem literackim.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Commanders_of_the_Order_of_the_British_Empire"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/arts/yourpaintings/paintings/michael-longley-b-1939-121966"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Trinity_College,_Dublin"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Michael_Longley"/>
+    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">27</dbpprop:dateOfBirth>
+    <rdfs:comment xml:lang="it"></rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poets_from_Northern_Ireland"/>
+    <rdfs:comment xml:lang="en">Michael Longley, CBE (born 27 July 1939) is a Northern Irish poet from Belfast.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Michael_Longley"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belfast"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
     <dbpedia-owl:abstract xml:lang="en">Michael Longley, CBE (born 27 July 1939) is a Northern Irish poet from Belfast.</dbpedia-owl:abstract>
     <dc:description xml:lang="en">Poet</dc:description>
-    <foaf:givenName xml:lang="en">Michael</foaf:givenName>
-    <rdfs:label xml:lang="de">Michael Longley</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Christopher_Ewart-Biggs_Memorial_Prize_recipients"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dbpprop:name xml:lang="en">Longley, Michael</dbpprop:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTrinityCollege,DuBlin"/>
-    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Michael_Longley"/>
-    <foaf:name xml:lang="en">Michael Longley</foaf:name>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1939-07-27</dbpedia-owl:birthDate>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
-    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
-    <dbpedia-owl:individualisedPnd xml:lang="de">119471914</dbpedia-owl:individualisedPnd>
-    <rdfs:comment xml:lang="it"></rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belfast"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Michael_Longley"/>
-    <foaf:surname xml:lang="en">Longley</foaf:surname>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryarchive.org/poetryarchive/singlePoet.do?poetId=3150"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommandersOfTheOrderOfTheBritishEmpire"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfLiterature"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07cby0"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Michael_Longley"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">27</dbpprop:dateOfBirth>
-    <dbpedia-owl:abstract xml:lang="de">Michael Longley, CBE ist ein nordirischer Dichter.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Michael_Longley"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Michael_Longley">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Michael_Longley"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Michael_Longley">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Michael_Longley"/>
   </rdf:Description>
 </rdf:RDF>

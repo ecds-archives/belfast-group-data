@@ -4,26 +4,26 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://sws.geonames.org/2964574/">
-    <schema:name xml:lang="en">Dublin</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/">
-    <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004; Series 5: Printed material, circa 1965-1991</schema:name>
     <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.3/"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/49280158"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.1/"/>
     <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.2/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/ormsby805/series5/subseries5.1/"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
     <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
+    <schema:about rdf:resource="http://viaf.org/viaf/49280158"/>
+    <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004; Series 5: Printed material, circa 1965-1991</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/49280158">
+    <schema:mentions rdf:resource="http://sws.geonames.org/2655984/"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2964574/"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2655984/">
     <rdf:type rdf:resource="http://schema.org/Place"/>
     <schema:name xml:lang="en">Belfast</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/49280158">
-    <schema:mentions rdf:resource="http://sws.geonames.org/2964574/"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2655984/"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
+  <rdf:Description rdf:about="http://sws.geonames.org/2964574/">
+    <schema:name xml:lang="en">Dublin</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
   </rdf:Description>
 </rdf:RDF>

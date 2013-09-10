@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000157208#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/9844322"/>
+    <skos:prefLabel>Causley, Charles, 1917-2003</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/9844322">
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/316082"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb118956085#foaf:Person"/>
+    <foaf:name>Causley, Charles, 1917-2003</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_Causley"/>
+    <foaf:name>Causley, Charles</foaf:name>
+    <foaf:name>Causley, Charles, 1917-....</foaf:name>
+    <rdaGr2:dateOfBirth>1917-08-24</rdaGr2:dateOfBirth>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdaGr2:dateOfDeath>2003-11-04</rdaGr2:dateOfDeath>
+    <owl:sameAs rdf:resource="http://www.idref.fr/026772930/id"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118914316"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/9844322/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/9844322"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++01093334#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/9844322"/>
+    <skos:prefLabel>Causley, Charles, 1917-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca20769805#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/9844322"/>
+    <skos:prefLabel>Causley, Charles, 1917-2003</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50035832#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Causley, Charles, 1917-2003</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50035832"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/9844322"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C316082#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/316082#concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/9844322"/>
+    <skos:prefLabel>Causley, Charles, 1917-2003</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0006K7947#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/9844322"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:prefLabel>Causley, Charles, 1917-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C071264523#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Causley, Charles, 1917-2003</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/9844322"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118914316#skos:Concept">
+    <skos:prefLabel>Causley, Charles, 1917-2003</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/9844322"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035026688#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/9844322"/>
+    <skos:prefLabel>Causley, Charles, 1917-2003</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026772930#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/9844322"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Causley, Charles, 1917-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CCharles_Causley#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/9844322"/>
+    <skos:prefLabel>Causley, Charles</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11895608#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/9844322"/>
+    <skos:prefLabel>Causley, Charles, 1917-2003</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb118956085"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb118956085"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV12643301#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/9844322"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Causley, Charles</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/9844322/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/9844322"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/9844322/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/9844322"/>
+  </rdf:Description>
+</rdf:RDF>

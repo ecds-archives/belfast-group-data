@@ -6,13 +6,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Times_Literary_Supplement">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Times_Literary_Supplement"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Times_Literary_Supplement">
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Times_Literary_Supplement"/>
     <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Times_Literary_Supplement"/>
     <rdfs:label xml:lang="en">Times Literary Supplement</rdfs:label>
     <ns4:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Times_Literary_Supplement?oldid=39285876"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Times_Literary_Supplement"/>
   </rdf:Description>
 </rdf:RDF>

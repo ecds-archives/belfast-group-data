@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50044540#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Booth, Martin</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7459339"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50044540"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca20172394#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <skos:prefLabel>Booth, Martin, 1944-2004</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7459339"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00433852#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>ブース, マーティン</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7459339"/>
+    <skos:prefLabel>Booth, Martin, 1944-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C11538491X#skos:Concept">
+    <skos:prefLabel>Booth, Martin, 1944-2004</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7459339"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CMartin_Booth#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7459339"/>
+    <skos:prefLabel>Booth, Martin</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++96220660#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7459339"/>
+    <skos:prefLabel>Booth, Martin, 1944-2004</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035020290#skos:Concept">
+    <skos:prefLabel>Booth, Martin</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7459339"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/7459339">
+    <rdaGr2:dateOfBirth>1944-09-07</rdaGr2:dateOfBirth>
+    <foaf:name>Booth, Martin, 1944-....</foaf:name>
+    <foaf:name>ブース, マーティン</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Martin_Booth"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb123200382#foaf:Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Booth, Martin, 1944-2004</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdaGr2:dateOfDeath>2004-02-12</rdaGr2:dateOfDeath>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11538491X"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/032105908/id"/>
+    <foaf:name>Booth, Martin</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0026839#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7459339"/>
+    <skos:prefLabel>Booth, Martin, 1944-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12320038#skos:Concept">
+    <skos:prefLabel>Booth, Martin, 1944-2004</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7459339"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb123200382"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb123200382"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/7459339/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/7459339"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/7459339/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7459339"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C071202277#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7459339"/>
+    <skos:prefLabel>Booth, Martin, 1944-2004</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C032105908#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7459339"/>
+    <skos:prefLabel>Booth, Martin, 1944-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/7459339/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/7459339"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+</rdf:RDF>

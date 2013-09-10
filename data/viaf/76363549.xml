@@ -8,92 +8,98 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C06760708X#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <skos:prefLabel>Hecht, Anthony (Anthony Evan), 1923-2004</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C11885514X#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Hecht, Anthony, 1923-2004</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <skos:altLabel>Hecht, Anthony E. 1923-2004</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79148935#skos:Concept">
-    <skos:prefLabel>Hecht, Anthony, 1923-2004</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79148935"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Khekt, Ėntoni, 1923-2004</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/76363549/">
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/76363549"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20011210130#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Hecht, Anthony, 1923-2004</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/76363549">
-    <foaf:name>Hecht, Anthony, 1923-2004</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Khekt, Ėntoni, 1923-2004</foaf:name>
-    <foaf:name>Hecht, Anthony, 1923-</foaf:name>
-    <rdaGr2:dateOfBirth>1923-01-16</rdaGr2:dateOfBirth>
-    <foaf:name>Hecht, Anthony (Anthony Evan), 1923-2004</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/030584728/id"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Anthony_Hecht"/>
-    <foaf:name>Hecht, Anthony</foaf:name>
-    <foaf:name>Hecht, Anthony E. 1923-2004</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11885514X"/>
-    <rdaGr2:dateOfDeath>2004-10-20</rdaGr2:dateOfDeath>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12197086q#foaf:Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++98700795#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:prefLabel>Hecht, Anthony, 1923-</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035183476#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <skos:prefLabel>Hecht, Anthony, 1923-</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CAnthony_Hecht#skos:Concept">
-    <skos:prefLabel>Hecht, Anthony</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12197086#skos:Concept">
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12197086q"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:prefLabel>Hecht, Anthony, 1923-2004</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12197086q"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/76363549/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C030584728#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hecht, Anthony, 1923-2004</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035183476#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:prefLabel>Hecht, Anthony, 1923-</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/76363549/#foaf:Person">
     <owl:sameAs rdf:resource="http://viaf.org/viaf/76363549"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CAnthony_Hecht#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Hecht, Anthony</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/76363549/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/76363549"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C06760708X#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Hecht, Anthony (Anthony Evan), 1923-2004</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79148935#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
+    <skos:prefLabel>Hecht, Anthony, 1923-2004</skos:prefLabel>
+    <skos:altLabel>Khekt, Ėntoni, 1923-2004</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79148935"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C030584728#skos:Concept">
+    <skos:prefLabel>Hecht, Anthony, 1923-2004</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12197086#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
+    <skos:prefLabel>Hecht, Anthony, 1923-2004</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12197086q"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12197086q"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++98700795#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
+    <skos:prefLabel>Hecht, Anthony, 1923-</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000129366#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <skos:prefLabel>Hecht, Anthony, 1923-2004</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76363549"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/76363549">
+    <foaf:name>Hecht, Anthony, 1923-</foaf:name>
+    <rdaGr2:dateOfDeath>2004-10-20</rdaGr2:dateOfDeath>
+    <foaf:name>Hecht, Anthony (Anthony Evan), 1923-2004</foaf:name>
+    <rdaGr2:dateOfBirth>1923-01-16</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Anthony_Hecht"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Hecht, Anthony E. 1923-2004</foaf:name>
+    <foaf:name>Hecht, Anthony</foaf:name>
+    <foaf:name>Hecht, Anthony, 1923-2004</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11885514X"/>
+    <foaf:name>Khekt, Ėntoni, 1923-2004</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12197086q#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/030584728/id"/>
   </rdf:Description>
 </rdf:RDF>

@@ -10,34 +10,34 @@
    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
 >
   <rdf:Description rdf:about="http://sws.geonames.org/3333218/about.rdf">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
-    <cc:attributionURL rdf:resource="http://sws.geonames.org/3333218/"/>
-    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/3333218/"/>
-    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
     <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
     <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-01-06</dcterms:modified>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/3333218/"/>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/3333218/"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/3333218/">
-    <gn:countryCode>GB</gn:countryCode>
-    <gn:name>City of Westminster</gn:name>
-    <gn:locationMap rdf:resource="http://www.geonames.org/3333218/city-of-westminster.html"/>
     <gn:alternateName xml:lang="en">City of Westminster</gn:alternateName>
-    <gn:parentADM1 rdf:resource="http://sws.geonames.org/6269131/"/>
-    <gn:parentCountry rdf:resource="http://sws.geonames.org/2635167/"/>
-    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
-    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3333218/about.rdf"/>
     <gn:childrenFeatures rdf:resource="http://sws.geonames.org/3333218/contains.rdf"/>
-    <gn:population>234100</gn:population>
-    <wgs84_pos:long>-0.16667</wgs84_pos:long>
-    <wgs84_pos:lat>51.5</wgs84_pos:lat>
-    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/City_of_Westminster"/>
-    <gn:parentFeature rdf:resource="http://sws.geonames.org/2648110/"/>
-    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM3"/>
-    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2648110/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/6269131/"/>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:name>City of Westminster</gn:name>
+    <gn:countryCode>GB</gn:countryCode>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2635167/"/>
     <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/City_of_Westminster"/>
     <gn:officialName>Westminster</gn:officialName>
-    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3333218/about.rdf"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2648110/"/>
+    <wgs84_pos:long>-0.16667</wgs84_pos:long>
+    <wgs84_pos:lat>51.5</wgs84_pos:lat>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM3"/>
+    <gn:population>234100</gn:population>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/City_of_Westminster"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2648110/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3333218/city-of-westminster.html"/>
     <owl:sameAs rdf:resource="http://www.ordnancesurvey.co.uk/ontology/v1/AdministrativeGeography.rdf#westminster_00bk"/>
   </rdf:Description>
 </rdf:RDF>

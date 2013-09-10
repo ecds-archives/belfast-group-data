@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036064316#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/88066394"/>
+    <skos:prefLabel>Welch, Robert, 1947-</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000010259#skos:Concept">
+    <skos:prefLabel>Welch, Robert, 1947-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/88066394"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12975557#skos:Concept">
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb129755570"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Welch, Robert, 1947-</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb129755570"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/88066394"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/88066394/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/88066394"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20040203005#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/88066394"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:prefLabel>Welch, Robert, 1947-</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/88066394/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/88066394"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/88066394">
+    <foaf:name>Welch, Robert, 1947-2013</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb129755570#foaf:Person"/>
+    <foaf:name>Welch, Robert, 1947-</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdaGr2:dateOfDeath>2013-02-03</rdaGr2:dateOfDeath>
+    <rdaGr2:dateOfBirth>1947-11-25</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Robert_Anthony_Welch"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Welch, Robert</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C264521#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/88066394"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <skos:prefLabel>Welch, Robert</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80118789#skos:Concept">
+    <skos:prefLabel>Welch, Robert, 1947-2013</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80118789"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/88066394"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++96222324#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/88066394"/>
+    <skos:prefLabel>Welch, Robert, 1947-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000431203#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/88066394"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Welch, Robert, 1947-</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069347115#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/88066394"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Welch, Robert, 1947-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CRobert_Anthony_Welch#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Welch, Robert</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/88066394"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/88066394/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/88066394"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+</rdf:RDF>

@@ -7,29 +7,29 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/227096577">
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Bull, Iris</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/227096577/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/227096577"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/227096577/">
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/227096577"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/227096577/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/227096577"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/227096577"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cnb2012000816#skos:Concept">
+    <skos:prefLabel>Bull, Iris</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/227096577"/>
     <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/nb2012000816"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:prefLabel>Bull, Iris</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/227096577">
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Bull, Iris</foaf:name>
   </rdf:Description>
 </rdf:RDF>

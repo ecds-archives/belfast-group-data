@@ -10,627 +10,244 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Alesia">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Conspiracy_(caesar)">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/IMP*C*IVLIVS*CAESAR*DIVVS">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Field_of_Swords">
-    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Ruspina">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gaius_Julius_C%C3%A6sar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivlivs_Caesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Forum_of_Caesar">
-    <dbpprop:builder rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Ceaser">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Caeser">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/IMP._CAESAR">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Ceasar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caesar_the_Conqueror">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caesar's_invasions_of_Britain">
-    <dbpedia-owl:isPartOfMilitaryConflict rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Cesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_caesar_quotes">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Triumvirate">
-    <dbpprop:header rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcus_Aemilius_Lepidus_(triumvir)">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julious_caesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Temple_of_Caesar">
-    <dbpprop:wikiArticles rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Zela">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Legio_I_Germanica">
-    <dbpedia-owl:notableCommander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:notableCommanders rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Comitium">
-    <dbpprop:builder rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:wikiArticles rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Vosges_(58_BC)">
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/IVLIVS_C%C3%86SAR">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Julius_Caesar">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/IMP%E2%80%A2C%E2%80%A2IVLIVS%E2%80%A2CAESAR%E2%80%A2DIVVS">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Theatre_of_Marcellus">
-    <dbpprop:builder rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_the_Sabis">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Caesar_(Roman)">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/DIVVS_IVLIVS">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Basilica_Julia">
-    <dbpprop:builder rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Regia">
-    <dbpprop:wikiArticles rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julis_Caesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Commentarii_de_Bello_Gallico">
-    <dbpedia-owl:publisher rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Italian_battleship_Giulio_Cesare">
-    <dbpprop:shipNamesake rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Caesar_(1896)">
-    <dbpprop:shipNamesake rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Trebonius">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Quintus_Caecilius_Metellus_Celer">
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Juluis_Cesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Carotta">
-    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Death_of_Kings">
-    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/De_Bello_Africo">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Caesar">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <rdfs:comment xml:lang="ru">Гай Ю́лий Це́зарь — древнеримский государственный и политический деятель, диктатор, полководец, писатель. Своим завоеванием Галлии, Цезарь расширил римскую державу до берегов северной Атлантики и подчинил римскому влиянию территорию современной Франции, а также начал вторжение на Британские острова. Деятельность Цезаря коренным образом изменила культурный и политический облик Западной Европы и оставила неизгладимый след в жизни следующих поколений европейцев.</rdfs:comment>
-    <rdfs:comment xml:lang="no">For andre betydninger, se Caesar (tittel) Gaius Julius CæsarTitle=Julius Cæsar;ns=0/Main/;language:wiki=no,locale=noRegjeringstid:Oktober 49 f. Kr. – 15. mars 44 f. Kr. Født:13. juli 100 f. Kr. , Subura, RomaDød:19. august 44 f. Kr. (55 år), Theatrum Pompeium, RomaForeldre:Gaius Julius Caesar den eldreAurelia CottaDet julo-claudiske dynastiEktefelle‍(r):1) Cornelia Cinnilla 84 f. Kr. – 68 f. Kr. 2) Pompeia Sulla 68 f. Kr. – 63 f. Kr. 3) Calpurnia Pisonis 59 f. Kr. til 44 f. Kr.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="ru">Гай Ю́лий Це́зарь — древнеримский государственный и политический деятель, диктатор, полководец, писатель. Своим завоеванием Галлии, Цезарь расширил римскую державу до берегов северной Атлантики и подчинил римскому влиянию территорию современной Франции, а также начал вторжение на Британские острова. Деятельность Цезаря коренным образом изменила культурный и политический облик Западной Европы и оставила неизгладимый след в жизни следующих поколений европейцев. Гай Юлий Цезарь, обладая блестящими способностями военного стратега и тактика, одержал победу в сражениях гражданской войны и стал единовластным повелителем Pax Romana. Наряду с Гнеем Помпеем он начал реформирование римского общества и государства, которое уже после его смерти привело к установлению Римской империи. Цезарь хотел централизировать управление республикой. Злые языки поговаривали, что он стремится к царской власти. Однако Цезарь, помнив о неудачной практике правления первых семи царей, пошёл другим путём: стал пожизненным диктатором. Он настаивал на том, чтобы его называли просто — Цезарь. Его убийство привело к возобновлению гражданских войн, закату Римской республики и зарождению Империи, которую возглавил усыновлённый им Октавиан Август. Позже многие монархи хотели связать себя с легендарным Цезарем. Так произошли нем. &amp;#160;Kaiser, а также русское понятие «царь», являющееся термином, родственным слову «Цезарь».</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1st-century_BC_historians"/>
-    <dbpprop:issue xml:lang="en">Augustus 63 BC – 14 AD</dbpprop:issue>
-    <foaf:givenName xml:lang="en">Gaius Julius</foaf:givenName>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deified_people"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</dbpprop:dateOfBirth>
-    <dbpprop:before xml:lang="en">Lucius Cornelius Lentulus Crus and</dbpprop:before>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Assassinated_heads_of_state"/>
-    <dbpprop:before xml:lang="en">as Dictator for ten years</dbpprop:before>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ancient_Roman_dictators"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_governors_of_Hispania"/>
-    <rdfs:comment xml:lang="it">Ebbe un ruolo cruciale nella transizione del sistema di governo dalla forma repubblicana a quella imperiale, della quale fu ritenuto da molti il fondatore. Fu dictator di Roma alla fine del 49 a.C. , nel 47 a.C. , nel 46 a.C. con carica decennale e dal 44 a.C. come dittatore perpetuo. Fu ritenuto da alcuni degli storici a lui contemporanei il primo imperatore di Roma.</rdfs:comment>
-    <rdfs:comment xml:lang="fi">Julius Caesar oli roomalainen valtiomies, sotilas ja kirjailija. Hän valloitti Gallian Rooman valtakunnalle ja oli ensimmäinen roomalainen, joka yritti valloittaa Britannian. Caesar aloitti ja voitti kansalaissodan, jonka jälkeen hänestä tuli valtakunnan kiistaton johtaja. Caesar julistettiin elinikäiseksi diktaattoriksi. Tyytymättömät aristokraatit murhasivat Caesarin tasavallan nimissä Rooman senaatin istunnossa vuonna 44 eaa.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="ca">Gai Juli Cèsar, (en llatí Gaius Iulius Caesar) més conegut com a Juli Cèsar va ser un general i polític romà que va crear els fonaments del futur sistema imperial romà al final de la República. Va vestir la toga, la corona i el ceptre d'un general triomfant i va utilitzar el títol d'imperator. Va ser cap de la religió de l'estat, però sobretot tenia el comandament de tots els exèrcits, la qual cosa li proporcionava el control del poder.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Antony*.html"/>
-    <dbpedia-owl:abstract xml:lang="ko">가이우스 율리우스 카이사르는 고대 로마의 정치가, 장군, 작가이다. 그는 로마 공화정이 제정으로 변화하는 데 중요한 역할을 하였다. 정치적으로 카이사르는 민중파의 노선에 섰다. 기원전 60년대 말에서 50년대에 이르기까지 그는 마르쿠스 리키니우스 크라수스, 그나이우스 폼페이우스 마그누스와 소위 제1차 삼두 정치라는 초법적 정치 연대를 이루어 수년간 로마 정계를 장악하였다. 이들 파벌은 자신들끼리 권력을 분점하고자 하여, 원로원 내에서 마르쿠스 포르키우스 카토(小 카토), 마르쿠스 칼푸르니우스 비불루스 등 벌족파의 반대를 받았으며, 마르쿠스 툴리우스 키케로가 이에 가세하기도 하였다. 카이사르는 갈리아를 정복(기원전 59~55년)하여 로마 제국의 영토를 북해까지 넓혔으며, 기원전 55년에는 로마인 처음으로 브리타니아 침공을 감행하였다. 이러한 공훈 덕분에 카이사르는 강력한 세력가로 입지를 굳혀 폼페이우스를 위협하게 되었으며, 카라이 전투에서 크라수스가 전사하면서 삼두정의 두 정치가 사이에 긴장이 높아졌다. 이렇듯 로마 정계가 재편되면서 카이사르와 폼페이우스는 서로 대치하게 되었으며, 폼페이우스는 원로원의 대의를 내세웠다. 카이사르는 자신의 군단으로 하여금 루비콘 강을 건너게 하는 결단을 내려 기원전 49년에 내전이 일어났으며, 그 결과 카이사르는 로마 세계에서 무소불위의 권력자로 등극하였다. 정권을 장악한 뒤 그는 로마의 사회와 정치에 광범위한 개혁을 실시하였다. 그는 공화정의 귀족 정치를 고도로 중앙집권화하였으며, 급기야 종신 독재관으로 선언하였다. 기원전 44년 3월의 열닷새에 마르쿠스 유니우스 브루투스가 이끄는 일군의 원로원 의원들이 공화정을 복고하고자 카이사르를 살해하였다. 그러나 또 다시 내전이 일어났으며, 결국 카이사르의 양자인 가이우스 옥타비아누스가 영속적인 전제정을 성립하였다. 카이사르가 죽은 지 기원전 42년에, 원로원은 카이사르를 공식적으로 로마의 신으로 축성하였다. 따라서 그의 사후 그의 공식명칭은 신격 카이사르가 되었다(Divus Caesar). 또한 그 이후부터 로마 황제가 죽었을 경우 후임자가 그를 신격화시키는 것이 관례화되었다. 카이사르의 삶은 본인이 쓴 전쟁 기록을 통해 상당 부분 알려져 있으며, 정적임과 동시에 오랜 친구였던 키케로와의 서신과 그의 연설, 살루스티우스의 기록, 카툴루스의 시 등 당대의 다른 사료도 남아 있다. 또 아피아노스, 수에토니우스, 플루타르코스, 카시우스 디오, 스트라본 등 여러 후대 역사가들의 기록도 그의 삶에 대해 더욱 자세하게 서술하고 있다.</dbpedia-owl:abstract>
-    <rdfs:label xml:lang="de">Gaius Iulius Caesar</rdfs:label>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.vroma.org/~bmcmanus/caesar.html"/>
-    <dbpedia-owl:individualisedPnd xml:lang="en">118518275</dbpedia-owl:individualisedPnd>
-    <dbpedia-owl:abstract xml:lang="pl">Gaius Iulius Caesar, Gajusz Juliusz Cezar, ur. 12 lipca 100 p.n.e. (13 lipca 102 r. p.n.e. – koncepcja Mommsena i Diona) w Rzymie, zm. 15 marca 44 p.n.e. w Rzymie – rzymski polityk, wódz, dyktator i pisarz. Jeden z członków stronnictwa popularów, spowinowacony z Cynną i Mariuszem. Po ich śmierci piastował kolejno urzędy kwestora, edyla, pretora, konsula i dyktatora. Sławę zdobył dzięki namiestnictwu w Galii i dzięki pomocy swych żołnierzy udało się mu pokonać opozycję, skupioną wokół senatu i Pompejusza – tzw. optymatów, aby następnie, po wieloletnich walkach, przejąć pełnię władzy w Rzymie. Zamordowany w idy marcowe przez senatorów pod przywództwem Marka Brutusa oraz Gajusza Kasjusza. Przed śmiercią adoptował Oktawiana Augusta (wtedy jeszcze Gajusza Oktawiusza), wyznaczając go na swego spadkobiercę.</dbpedia-owl:abstract>
-    <dbpprop:before xml:lang="en">Gaius Julius Caesar</dbpprop:before>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:44_BC_deaths"/>
-    <dbpedia-owl:parent rdf:resource="http://dbpedia.org/resource/Gaius_Julius_Caesar_(proconsul)"/>
-    <dbpprop:before xml:lang="en">himself</dbpprop:before>
-    <dbpedia-owl:individualisedPnd xml:lang="de">118518275</dbpedia-owl:individualisedPnd>
-    <dbpprop:years xml:lang="en">with Marcus Aemilius Lepidus</dbpprop:years>
-    <rdfs:comment xml:lang="ca">Gai Juli Cèsar, (en llatí Gaius Iulius Caesar) més conegut com a Juli Cèsar va ser un general i polític romà que va crear els fonaments del futur sistema imperial romà al final de la República. Va vestir la toga, la corona i el ceptre d'un general triomfant i va utilitzar el títol d'imperator. Va ser cap de la religió de l'estat, però sobretot tenia el comandament de tots els exèrcits, la qual cosa li proporcionava el control del poder.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="nl">Gaius Julius Caesar was een Romeins politicus, generaal en schrijver. Hij wordt meestal kortweg Julius Caesar of Caesar genoemd en wordt gezien als een van de machtigste mannen van zijn tijd. Hij had jarenlang de politieke macht te Rome.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="sv">Denna artikel handlar om statsmannen Julius Caesar, för andra betydelser av Caesar, se Caesar (olika betydelser). Gaius Julius Caesar, född 13 juli 100 f. Kr. i stadsdelen Subura i Rom, död 15 mars 44 f. Kr. i Rom, var en romersk militär och statsman som kom att spela en betydande roll då den romerska republiken omformades till det romerska kejsardömet. Han är även benämnd Julius, Gaius Julius, Gaius Caesar och Divus Julius.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Rome"/>
-    <dbpprop:before xml:lang="en">office last held by Sulla in 81 BC</dbpprop:before>
-    <dbpprop:shortDescription xml:lang="en">Roman dictator</dbpprop:shortDescription>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1st-century_BC_clergy"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1st-century_BC_Romans"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Assassinated_military_personnel"/>
-    <rdfs:comment xml:lang="ko">가이우스 율리우스 카이사르는 고대 로마의 정치가, 장군, 작가이다. 그는 로마 공화정이 제정으로 변화하는 데 중요한 역할을 하였다. 정치적으로 카이사르는 민중파의 노선에 섰다. 기원전 60년대 말에서 50년대에 이르기까지 그는 마르쿠스 리키니우스 크라수스, 그나이우스 폼페이우스 마그누스와 소위 제1차 삼두 정치라는 초법적 정치 연대를 이루어 수년간 로마 정계를 장악하였다. 이들 파벌은 자신들끼리 권력을 분점하고자 하여, 원로원 내에서 마르쿠스 포르키우스 카토(小 카토), 마르쿠스 칼푸르니우스 비불루스 등 벌족파의 반대를 받았으며, 마르쿠스 툴리우스 키케로가 이에 가세하기도 하였다. 카이사르는 갈리아를 정복(기원전 59~55년)하여 로마 제국의 영토를 북해까지 넓혔으며, 기원전 55년에는 로마인 처음으로 브리타니아 침공을 감행하였다.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Caesar_Julius_100_BC-44_BC"/>
-    <rdfs:comment xml:lang="cs">Gaius Iulius Caesar (původní výslovnost jeho jména je kaisar, výslovnost cézar pochází až ze středověké latiny) byl římský vojevůdce a politik a jeden z nejmocnějších mužů antické historie. Sehrál klíčovou roli v procesu zániku římské republiky a její transformace v monarchii. Jako stoupenec politické frakce populárů vytvořil spolu s Marcem Liciniem Crassem a Gnaeem Pompeiem Magnem tzv. první triumvirát, který po několik let dominoval římské politice.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="fr">Jules César est un général, homme politique et écrivain romain, né à Rome le 12 ou le 13 juillet 100 av. J. -C. et mort le 15 mars 44 av. J. -C.. Son destin exceptionnel marqua le monde romain et l'histoire universelle : ambitieux et brillant, il s’appuya sur le courant réformateur et démagogue pour son ascension politique ; stratège et tacticien habile, il repoussa les frontières romaines jusqu’au Rhin et à l’océan Atlantique en conquérant la Gaule, puis utilisa ses légions pour s’emparer du pouvoir. Il se fit nommer dictateur à vie, et fut assassiné peu après par une conspiration de sénateurs. Il fut divinisé et son fils adoptif Octave, vainqueur de Marc Antoine, acheva la réforme de la République romaine, qui laissa place au principat et à l’Empire romain.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AssassinatedHeadsOfState"/>
-    <rdfs:label xml:lang="zh">尤利烏斯·凱撒</rdfs:label>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">59</dbpprop:years>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Publius_Cornelius_Dolabella"/>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-sovereign-noun-1"/>
-    <dbpprop:caption xml:lang="en">The "Tusculum portrait", possibly the only surviving bust of Caesar made during his lifetime</dbpprop:caption>
-    <dbpprop:fullName xml:lang="en">Gaius Julius Caesar</dbpprop:fullName>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dbpedia-owl:abstract xml:lang="it">Ebbe un ruolo cruciale nella transizione del sistema di governo dalla forma repubblicana a quella imperiale, della quale fu ritenuto da molti il fondatore. Fu dictator di Roma alla fine del 49 a.C. , nel 47 a.C. , nel 46 a.C. con carica decennale e dal 44 a.C. come dittatore perpetuo. Fu ritenuto da alcuni degli storici a lui contemporanei il primo imperatore di Roma. Con la conquista della Gallia estese il dominio della res publica romana fino all'oceano Atlantico e al Reno; portò gli eserciti romani ad invadere per la prima volta la Britannia e la Germania e a combattere in Spagna, Grecia, Egitto, Ponto e Africa. Il primo triumvirato, l'accordo privato per la spartizione del potere con Gneo Pompeo Magno e Marco Licinio Crasso, segnò l'inizio della sua ascesa. Dopo la morte di Crasso, Cesare si scontrò con Pompeo e la fazione degli Optimates per il controllo dello stato. Nel 49 a.C. , di ritorno dalla Gallia, guidò le sue legioni attraverso il Rubicone, pronunciando le celebri parole «Alea iacta est», e scatenò la guerra civile, con la quale divenne capo indiscusso di Roma: sconfisse Pompeo a Farsalo e successivamente gli altri Optimates, tra cui Catone Uticense, in Africa e in Spagna. Con l'assunzione della dittatura a vita diede inizio a un processo di radicale riforma della società e del governo, riorganizzando e centralizzando la burocrazia repubblicana. Il suo operato provocò la reazione dei conservatori, finché un gruppo di senatori, capeggiati da Marco Giunio Bruto, Gaio Cassio Longino e Decimo Bruto, cospirò contro di lui uccidendolo, alle Idi di marzo del 44 a.C.(15/03/44) Nel 42 a.C. , appena due anni dopo il suo assassinio, il Senato lo deificò ufficialmente, elevandolo a divinità. L'eredità riformatrice e storica di Cesare fu quindi raccolta da Ottaviano Augusto, suo pronipote e figlio adottivo. Le campagne militari e le azioni politiche di Cesare sono da lui stesso dettagliatamente raccontate nei Commentarii de bello Gallico e nei Commentarii de bello civili. Numerose notizie sulla sua vita sono presenti negli scritti di Appiano di Alessandria, Svetonio, Plutarco, Cassio Dione e Strabone. Altre informazioni possono essere rintracciate nelle opere di autori suoi contemporanei, come nelle lettere e nelle orazioni del suo rivale politico Cicerone, nelle poesie di Catullo e negli scritti storici di Sallustio.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="de">Gaius Iulius Caesar [ˈgaːjʊs ˈjuːljʊs ˈkae̯sar] war ein römischer Staatsmann, Feldherr und Autor, der maßgeblich an der Zerstörung der Römischen Republik und an ihrer späteren Umwandlung in ein Kaiserreich beteiligt war. Der patrizischen Familie der Julier entstammend, absolvierte er die Ämterlaufbahn und gelangte durch ein Bündnis mit dem reichen Marcus Licinius Crassus und dem erfolgreichen Militär Gnaeus Pompeius Magnus im Jahr 59 v. Chr. zum Konsulat. In den folgenden Jahren ging Caesar als Prokonsul in die nördlichen Provinzen Illyrien und Gallia Cis- und Transalpina, von wo aus er in den Jahren 58 bis 51 v. Chr. ganz Gallien bis zum Rhein eroberte. Im anschließenden Römischen Bürgerkrieg von 49 bis 45 v. Chr. setzte er sich gegen seinen ehemaligen Verbündeten Pompeius und dessen Anhänger durch und errang die Alleinherrschaft. Nach seiner Ernennung zum Diktator auf Lebenszeit fiel er einem Attentat zum Opfer. Sein Großneffe und Haupterbe Gaius Octavius setzte die Monarchie als neue Staatsform des Römischen Reiches endgültig durch. Der Name Caesars wurde zum Bestandteil des Titels aller nachfolgenden Herrscher des römischen Kaiserreichs. In der römischen Spätantike und im Byzantinischen Reich bezeichnete der Titel „Caesar“ einen Mitherrscher oder Thronfolger. In den entlehnten Formen Kaiser und Zar wurde der Name später auch zum Titel der Herrscher des Heiligen Römischen, des Österreichischen, des Deutschen, des Bulgarischen und des Russischen Reiches.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="en">Gaius Julius Caesar (July 100 BC – 15 March 44 BC) was a Roman general and statesman and a distinguished writer of Latin prose. He played a critical role in the gradual transformation of the Roman Republic into the Roman Empire. In 60 BC, Caesar, Crassus and Pompey formed a political alliance that was to dominate Roman politics for several years.</rdfs:comment>
-    <dbpprop:before xml:lang="en">Quintus Fufius Calenus and</dbpprop:before>
-    <rdfs:comment xml:lang="es">Cayo Julio César fue un líder militar y político de la era tardorrepublicana. Nacido en el seno de la gens Julia, en una familia patricia de escasa fortuna, estuvo emparentado con algunos de los hombres más influyentes de su época, como su tío Cayo Mario, quien influiría de manera determinante en su carrera política. En 84 a.  C.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://classics.mit.edu/Plutarch/antony.html"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Julius_Caesar"/>
-    <rdfs:comment xml:lang="hu">Caius Iulius Caesar római hadvezér és politikus. Fontos szerepet játszott a köztársaság felszámolásában és a császárság intézményének létrehozásában. Elfoglalta Galliát, és elsőként vezetett hadjáratot Britanniába – mindkettőt saját kezdeményezésre. Minden idők egyik legnagyobb hadvezére (stratégája) volt és nagyszerű politikus is (mindkettő alatt leginkább az értendő, hogy kitűnően tudott bánni az emberekkel). Jelentősége az ókor történetében Nagy Sándoréval vetekedik.</rdfs:comment>
-    <dbpprop:father rdf:resource="http://dbpedia.org/resource/Gaius_Julius_Caesar_(proconsul)"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-12</dbpedia-owl:birthDate>
-    <rdfs:label xml:lang="en">Julius Caesar</rdfs:label>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Jules_César"/>
-    <dbpedia-owl:abstract xml:lang="vi">Gāius Jūlius Caesar là một lãnh tụ quân sự và chính trị của La Mã và là một trong những người có ảnh hưởng lớn nhất trong lịch sử thế giới. Ông đóng một vai trò then chốt trong sự chuyển đổi Cộng hòa La Mã thành Đế chế La Mã. Một trong những chiến tích quang vinh nhất của ông - cuộc chinh phục xứ Gaule của ông mở cho La Mã con đường tiếp cận Đại Tây Dương, và ông còn là người phát động cuộc xâm lăng đầu tiên của La Mã vào xứ Britannia (nước Anh ngày nay) năm 55 TCN. Caesar được xem là một trong những nhà quân sự lỗi lạc nhất, chính trị gia xuất sắc nhất và là một trong những lãnh tụ vĩ đại nhất của lịch sử thế giới thời La Mã cổ đại. Vào năm 42 TCN, hai năm sau khi Caesar bị mưu sát, viện nguyên lão La Mã chính thức thánh hóa, xem ông là một trong những vị thần của La Mã. Dẫn đầu binh đoàn lê dương của mình vượt qua sông Rubicon, Caesar tiến hành một cuộc Nội chiến vào năm 49 TCN, và đánh bại kẻ thù của ông là Pompey trong trận đánh quyết định tại Pharsalus là chiến thắng vĩ đại nhất trong sự nghiệp quân sự của ông. Với chiến thắng của ông trong cuộc Nội chiến, ông vươn lên trở thành một “lãnh tụ không thể chối cãi” của La Mã. Sau khi hoàn toàn kiểm soát chính quyền, Caesar tiến hành những cuộc cải cách rộng lớn nhất về mặt xã hội và chính quyền. Ông được tuyên bố là “Lãnh tụ suốt đời”, và ông kiểm soát toàn bộ nền cộng hòa. Mỉa mai thay, chính điều này đã khiến một trong những người bạn của ông, Marcus Junius Brutus, người về sau hiệp lực cùng những kẻ bất mãn vời Caesar để mưu sát ông và khôi phục nền cộng hòa. Cuộc mưu sát Caesar xảy ra vào ngày Ides of March (15 tháng 3) năm 44 TCN và khơi mào cho một cuộc nội chiến khác của La Mã. Những chiến dịch quân sự của Caesar được biết đến một cách chi tiết qua những bài viết Commentarii (bài tường thuật) của ông, và nhiều chi tiết khác về cuộc đời của ông được ghi nhận lại bởi những sử gia như Appain, Suetonius, Plutarch, Cassius Dio và Strabo. Những thông tin khác được thu thập từ những nguồn thông tin (xuất hiện cùng thời Caesar), như là những bức thư và bài diễn văn của Cicero, kẻ thù chính trị của Caesar, những bài thơ của Catullus, và những bài viết của sử gia Sallus.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AncientRomanDictators"/>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Gajusz_Juliusz_Cezar"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AncientRomanPoliticians"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RepuBlicanHoldersOfTheRoleOfPontifexMaximus"/>
-    <dbpprop:consort xml:lang="en">Cornelia Cinna minor 84 – 69 BC</dbpprop:consort>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RomanMilitaryWriters"/>
-    <rdfs:comment xml:lang="pl">Gaius Iulius Caesar, Gajusz Juliusz Cezar, ur. 12 lipca 100 p.n.e. (13 lipca 102 r. p.n.e. – koncepcja Mommsena i Diona) w Rzymie, zm. 15 marca 44 p.n.e. w Rzymie – rzymski polityk, wódz, dyktator i pisarz. Jeden z członków stronnictwa popularów, spowinowacony z Cynną i Mariuszem. Po ich śmierci piastował kolejno urzędy kwestora, edyla, pretora, konsula i dyktatora.</rdfs:comment>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dbpprop:dateOfDeath>
-    <dbpprop:placeOfBirth xml:lang="en">Rome, Roman Republic</dbpprop:placeOfBirth>
-    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ιούλιος_Καίσαρας"/>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Mark_Antony"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1st-centuryBCHistorians"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CaesarTusculum.jpg/200px-CaesarTusculum.jpg"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Julius_Caesar"/>
-    <dbpedia-owl:abstract xml:lang="zh">盖乌斯·尤利乌斯·恺撒¹（拉丁文：Gaius Julius Caesar²，前100年7月13日－前44年3月15日），罗马共和国末期杰出的军事统帅、政治家。 恺撒出身贵族，历任财务官、大祭司、大法官、执政官、监察官、独裁官等职。前60年与庞培、克拉苏秘密结成前三头同盟，随后出任高卢总督，花了八年時間征服了高卢全境（现在的法国），还袭击了日耳曼和不列颠。西元前49年，他率军佔领罗马，打败庞培，集大权于一身，实行独裁统治。制定了《儒略历》。 前44年，恺撒遭以布鲁图所领导的元老院成员暗杀身亡。恺撒身后，其甥孫及養子屋大维击败安东尼开创罗马帝国并成为第一位帝国皇帝。</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Julio_César"/>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">48</dbpprop:years>
-    <dbpprop:placeOfDeath xml:lang="en">Rome, Roman Republic</dbpprop:placeOfDeath>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <dbpprop:data xml:lang="en">Cicero, Gaius Gracchus, Julius Caesar</dbpprop:data>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Гай_Юлий_Цезарь"/>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Quintus_Caecilius_Metellus_Celer"/>
-    <dbpprop:name xml:lang="en">Gaius Julius Caesar</dbpprop:name>
-    <dbpedia-owl:abstract xml:lang="no">For andre betydninger, se Caesar (tittel) Gaius Julius CæsarTitle=Julius Cæsar;ns=0/Main/;language:wiki=no,locale=noRegjeringstid:Oktober 49 f. Kr. – 15. mars 44 f. Kr. Født:13. juli 100 f. Kr. , Subura, RomaDød:19. august 44 f. Kr. (55 år), Theatrum Pompeium, RomaForeldre:Gaius Julius Caesar den eldreAurelia CottaDet julo-claudiske dynastiEktefelle‍(r):1) Cornelia Cinnilla 84 f. Kr. – 68 f. Kr. 2) Pompeia Sulla 68 f. Kr. – 63 f. Kr. 3) Calpurnia Pisonis 59 f. Kr. til 44 f. Kr. Barn:Julia Caesaris og Caesarion Gaius Julius Cæsar (på klassisk latin skrevet GAIVS IVLIVS CAESAR, klassisk latinsk uttale) var en romersk militær leder, forfatter og diktator. Han spilte en viktig og avgjørende rolle i den gradvise overgangen fra den romerske republikk til Romerriket og keiserdømmet. Selv var han ikke keiser, men hadde sine embeter innenfor rammen av republikken. I år 60 f. Kr. gikk Cæsar i en politisk allianse med Crassus og Pompeius som kom til å dominere romersk politikk i flere år. Deres forsøk på å samle makt via populistisk taktikk ble motarbeidet av det romerske senatet som ble ledet av en konservativ elite, blant dem Cato den yngre med jevnlig støtte fra Cicero. Med Cæsars erobring av Gallia i dagens moderne Frankrike og Belgia nådde den romerske republikken frem til Atlanterhavskysten og Nordsjøen, og i år 55 f. Kr. ledet han den første invasjonen av Britannia. Disse bedriftene ga ham en enestående militær makt og truet å formørkelse Pompeius' rang. Maktbalansen ble ytterligere forstyrret ved Crassus' død i år 53 f. Kr. Politisk omgruppering i Roma førte til sist en stillingskrig mellom Cæsar og Pompeius hvor den sistnevnte tok saken opp i senatet. Beordret av senatet å stå til rette for ulike anklager marsjerte Cæsar fra Gallia til Italia med sine legionærer, krysset elven Rubicon i 49 f. Kr. Det utløste en borgerkrig hvor Julius Cæsar til sist sto igjen som den uovertrufne lederen av den romerske verden. Etter å ha tatt kontroll over styringen begynte han med omfattende reformer av det romerske samfunn og regjeringen. Han sentraliserte republikkens byråkrati og ble til sist proklamert «diktator i evighet». En gruppe med senatorer, ledet av Marcus Junius Brutus, snikmyrdet diktatoren på dagen Idus martiae, den 15. mars 44 f. Kr. , i håp om å gjeninnføre republikken. Imidlertid ble resultatet borgerkriger som endte med keiserdømme under Cæsars adopterte arving Octavius, senere kjent som keiser Augustus. Mye av Cæsars liv er kjent fra hans egne redegjørelse av hans militære bedrifter, og fra andre samtidige kilder, hovedsakelig Ciceros brev og taler, og historieskrivningen til Sallustius. De senere biografiene om Cæsar av Suetonius og Plutark er også betydelige kilder. Cæsars egne tekster, som hans bok om krigen i Gallia, De Bello Gallico (gallerkrigen) er på grunn av sitt stilrene språk fortsatt standardpensum for begynnerkurs i latin. Hans liv har også vært inspirasjon til en rekke kunstverk, som Shakespeares skuespill Julius Cæsar, foruten også en rekke skjønnlitterære bøker og populære filmer.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/37*.html"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Iulii"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Roman_Republic"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Latin-language_writers"/>
-    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvbqGUZwpEbGdrcN5Y29ycA"/>
-    <dbpprop:issue xml:lang="en">Caesarion 47 – 30 BC</dbpprop:issue>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Gaius_Iulius_Caesar"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://penelope.uchicago.edu/Thayer/L/Roman/Texts/Suetonius/12Caesars/Julius*.html"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GoldenAgeLatinWriters"/>
-    <dbpprop:before xml:lang="en">Gaius Julius Caesar and</dbpprop:before>
-    <dbpprop:after xml:lang="en">Quintus Fufius Calenus and</dbpprop:after>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CorrespondentsOfCicero"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/Civil_Wars/2*.html"/>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">63</dbpprop:years>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1st-centuryBCWriters"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
-    <dbpedia-owl:abstract xml:lang="es">Cayo Julio César fue un líder militar y político de la era tardorrepublicana. Nacido en el seno de la gens Julia, en una familia patricia de escasa fortuna, estuvo emparentado con algunos de los hombres más influyentes de su época, como su tío Cayo Mario, quien influiría de manera determinante en su carrera política. En 84 a.  C. , a los 16 años, el popular Cinna lo nombró flamen dialis, cargo religioso del que fue relevado por Sila, con el cual tuvo conflictos a causa de su matrimonio con la hija de Cinna. Tras escapar de morir a manos de los sicarios del dictador, fue perdonado gracias a la intercesión de los parientes de su madre. Trasladado a Asia, combatió en Mitilene como legatus de Marco Minucio Termo. Volvió a Roma a la muerte de Sila en 78 a.  C. , ejerciendo por un tiempo la abogacía. En 73 a.  C. sucedió a su tío Cayo Aurelio Cota como pontífice, y pronto entró en relación con los cónsules Pompeyo y Craso, cuya amicitia le permitiría lanzar su propia carrera política. En 70 a.  C. César sirvió como cuestor en la provincia de Hispania y como edil curul en Roma. Durante el desempeño de esa magistratura ofreció unos espectáculos que fueron recordados durante mucho tiempo por el pueblo. En 63 a.  C. fue elegido praetor urbanus al obtener más votos que el resto de candidatos a la pretura. Ese mismo año murió Quinto Cecilio Metelo Pío, Pontifex Maximus designado durante la dictadura de Sila, y, en las elecciones celebradas con objeto de sustituirle, venció César. Al término de su pretura sirvió como propretor en Hispania, donde lideró una breve campaña contra los lusitanos. En 59 a.  C. fue elegido cónsul gracias al apoyo de sus dos aliados políticos, Pompeyo y Craso, los hombres con los que César formó el llamado Primer Triunvirato. Su colega durante el consulado, Bíbulo, se retiró a fin de entorpecer la labor de César que, sin embargo, logró sacar adelante una serie de medidas legales, entre las que destaca una ley agraria que regulaba el reparto de tierras entre los soldados veteranos. Tras su consulado fue designado procónsul de las provincias de Galia Transalpina, Iliria y Galia Cisalpina; esta última tras la muerte de su gobernador, Céler. Su gobierno estuvo caracterizado por una política muy agresiva en la que sometió a prácticamente la totalidad de pueblos celtas en varias campañas. Este conflicto, conocido como la Guerra de las Galias, finalizó cuando el general republicano venció en la Batalla de Alesia a los últimos focos de oposición, liderados por un jefe arverno llamado Vercingétorix. Sus conquistas extendieron el dominio romano sobre los territorios que hoy integran Francia, Bélgica, Holanda y parte de Alemania. Fue el primer general romano en penetrar en los inexplorados territorios de Britania y Germania. Mientras César terminaba de organizar la estructura administrativa de la nueva provincia que había anexionado a la República, sus enemigos políticos trataban en Roma de despojarle de su ejército y cargo utilizando el Senado, en el que eran mayoría. César, a sabiendas de que si entraba en la capital sería juzgado y exiliado, intentó presentarse al consulado in absentia, a lo que la mayoría de los senadores se negaron. Este y otros factores le impulsaron a desafiar las órdenes senatoriales y protagonizar el famoso cruce del Rubicón, donde al parecer pronunció la inmortal frase "Alea iacta est" (la suerte está echada) iniciando así un conflicto conocido como la Segunda Guerra Civil de la República de Roma, en el que se enfrentó a los optimates, que estaban liderados por su viejo aliado, Pompeyo. Su victoria, basada en las derrotas que infligió a los conservadores en Farsalia, Tapso y Munda, le hizo el amo de la República. El hecho de que estuviera en guerra con la mitad del mundo romano no evitó que se enfrentara a Farnaces II en Zela y a los enemigos de Cleopatra VII en Alejandría. A su regreso a Roma se hizo nombrar cónsul y dictator perpetuus —dictador vitalicio— e inició una serie de reformas económicas, urbanísticas y administrativas. A pesar de que bajo su gobierno la República experimentó un breve periodo de gran prosperidad, algunos senadores vieron a César como un tirano que ambicionaba restaurar la monarquía. Con el objeto de eliminar la amenaza que suponía el dictador, un grupo de senadores formado por algunos de sus hombres de confianza como Bruto y Casio y antiguos lugartenientes como Trebonio y Décimo Bruto urdieron una conspiración con el fin de eliminarlo. Dicho complot culminó cuando, en los idus de marzo, los conspiradores asesinaron a César en el Senado. Su muerte provocó el estallido de otra guerra civil, en la que los partidarios del régimen de César, Antonio, Octavio y Lépido, derrotaron en la doble Batalla de Filipos a sus asesinos, liderados por Bruto y Casio. Al término del conflicto, Octavio, Antonio y Lépido formaron el Segundo Triunvirato y se repartieron los territorios de la República, aunque, una vez apartado Lépido, finalmente volverían a enfrentarse en Accio, donde Octavio, heredero de César, venció a Marco Antonio. Al margen de su carrera política y militar, César destacó como orador y escritor. Redactó, al menos, un tratado acerca de astronomía, otro acerca de la religión republicana romana, y un estudio sobre el latín, ninguno de los cuales ha sobrevivido hasta nuestros días. Las únicas obras que se conservan son sus Comentarios de la Guerra de las Galias y sus Comentarios de la Guerra Civil. Se conoce el desarrollo de su carrera como militar y gran parte de su vida a través de sus propias obras y de los escritos de autores como Suetonio, Plutarco, Veleyo Patérculo o Eutropio.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.forumromanum.org/literature/caesarx.html"/>
-    <dbpprop:after xml:lang="en">Gaius Julius Caesar</dbpprop:after>
-    <dbpprop:name xml:lang="en">Julius Caesar</dbpprop:name>
     <dbpprop:after xml:lang="en">office next held by himself in 48 BC</dbpprop:after>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Gaio_Giulio_Cesare"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.livius.org/caa-can/caesar/caesar00.html"/>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dbpprop:deathDate>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Monarch_HeadOfState"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_monarch"/>
-    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Roman_assemblies"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:100_BC_births"/>
-    <rdfs:comment xml:lang="ja">ガイウス・ユリウス・カエサル（古典ラテン語：Gaius Julius Caesar、紀元前100年 - 紀元前44年3月15日）は、共和政ローマ期の政治家、軍人であり、文筆家である。 マルクス・リキニウス・クラッスス及びグナエウス・ポンペイウスとの第一回三頭政治と内乱を経て、ルキウス・コルネリウス・スッラに次ぐ終身独裁官（ディクタトル）となり、後の帝政の基礎を築いた。「賽は投げられた」（Alea jacta est）、「来た、見た、勝った」（Veni, vidi, vici）などの引用句でも知られる。</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/history/historic_figures/caesar_julius.shtml"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AncientRomanGenerals"/>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Pontifex_Maximus"/>
-    <dbpprop:data xml:lang="en">Rostra, Curia Hostilia, Curia Julia, Lapis Niger</dbpprop:data>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AssassinatedRomanPoliticians"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_military_writers"/>
-    <dbpprop:before xml:lang="en">Lucius Afranius and</dbpprop:before>
-    <rdfs:comment xml:lang="zh">盖乌斯·尤利乌斯·恺撒¹（拉丁文：Gaius Julius Caesar²，前100年7月13日－前44年3月15日），罗马共和国末期杰出的军事统帅、政治家。 恺撒出身贵族，历任财务官、大祭司、大法官、执政官、监察官、独裁官等职。前60年与庞培、克拉苏秘密结成前三头同盟，随后出任高卢总督，花了八年時間征服了高卢全境（现在的法国），还袭击了日耳曼和不列颠。西元前49年，他率军佔领罗马，打败庞培，集大权于一身，实行独裁统治。制定了《儒略历》。 前44年，恺撒遭以布鲁图所领导的元老院成员暗杀身亡。恺撒身后，其甥孫及養子屋大维击败安东尼开创罗马帝国并成为第一位帝国皇帝。</rdfs:comment>
-    <rdfs:comment xml:lang="de">Gaius Iulius Caesar [ˈgaːjʊs ˈjuːljʊs ˈkae̯sar] war ein römischer Staatsmann, Feldherr und Autor, der maßgeblich an der Zerstörung der Römischen Republik und an ihrer späteren Umwandlung in ein Kaiserreich beteiligt war. Der patrizischen Familie der Julier entstammend, absolvierte er die Ämterlaufbahn und gelangte durch ein Bündnis mit dem reichen Marcus Licinius Crassus und dem erfolgreichen Militär Gnaeus Pompeius Magnus im Jahr 59 v. Chr. zum Konsulat.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="pt">Caio Júlio César, foi um patrício, líder militar e político romano. Desempenhou um papel crítico na transformação da República Romana no Império Romano. As suas conquistas na Gália estenderam o domínio romano até o oceano Atlântico: um feito de consequências dramáticas na história da Europa. No fim da vida, lutou numa guerra civil com a facção conservadora do senado romano, cujo líder era Pompeu. Depois da derrota dos optimates, tornou-se ditador (no conceito romano do termo) vitalício e iniciou uma série de reformas administrativas e econômicas em Roma. O seu assassinato nos idos de Março de 44 a.C. por um grupo de senadores travou o seu trabalho e abriu caminho a uma instabilidade política que viria a culminar no fim da República e início do Império Romano. Os feitos militares de César são conhecidos através do seu próprio punho e de relatos de autores como Suetónio e Plutarco.</dbpedia-owl:abstract>
-    <dbpprop:header xml:lang="en">These articles cover the Ancient Roman Comitium  of the Republican era</dbpprop:header>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">45</dbpprop:years>
-    <dbpedia-owl:title xml:lang="en">Dictator of the Roman Republic</dbpedia-owl:title>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://cliojournal.wikispaces.com/The+Assassination+of+Caesar"/>
-    <dbpprop:years xml:lang="en">with Marcus Antonius</dbpprop:years>
-    <dbpedia-owl:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-044-01-01T00:00:00+02:00</dbpedia-owl:activeYearsEndYear>
-    <dbpprop:after xml:lang="en">none</dbpprop:after>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Júlio_César"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Latin-languAgeWriters"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Succession_box"/>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Marcus_Aemilius_Lepidus_(triumvir)"/>
-    <dbpprop:years xml:lang="en">with Publius Servilius Vatia Isauricus</dbpprop:years>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromRome(city)"/>
-    <dbpedia-owl:abstract xml:lang="uk">Ю́лій Це́зар  — давньоримський державний і політичний діяч, полководець, письменник. Діяльність Цезаря докорінно змінила культурний і політичний вигляд Європи та Середземномор'я і залишила визначний слід в житті наступних поколінь.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Correspondents_of_Cicero"/>
-    <dbpprop:birthDate xml:lang="en">July 100 BC</dbpprop:birthDate>
     <dbpprop:years xml:lang="en">alone without colleague</dbpprop:years>
-    <rdfs:label xml:lang="ca">Juli Cèsar</rdfs:label>
-    <dbpprop:consort xml:lang="en">Pompeia 68 – 63 BC</dbpprop:consort>
-    <dbpedia-owl:abstract xml:lang="hu">Caius Iulius Caesar római hadvezér és politikus. Fontos szerepet játszott a köztársaság felszámolásában és a császárság intézményének létrehozásában. Elfoglalta Galliát, és elsőként vezetett hadjáratot Britanniába – mindkettőt saját kezdeményezésre. Minden idők egyik legnagyobb hadvezére (stratégája) volt és nagyszerű politikus is (mindkettő alatt leginkább az értendő, hogy kitűnően tudott bánni az emberekkel). Jelentősége az ókor történetében Nagy Sándoréval vetekedik. Kiépülő egyeduralma a királyságot (egyszemélyi uralmat) átoknak tekintő Rómában hamar komoly ellenérzésekkel találkozott. Polgárháború bontakozott ki ellene, amit megnyert, és az így létrejött birodalom vitathatatlan urává lett. Mélyreható reformokba kezdett. Élethossziglani diktátorrá nyilvánította magát és erőteljesen központosította a köztársaság kései éveiben szétzilálódott közigazgatási rendszert. Mondhatni, mindent sikerült megnyernie, csak polgártársait nem: Róma nem tolerálta őt. Az egyre hangosabb zúgolódást és a diktatúrát látva Marcus Brutus és több szenátor összeesküdött és meggyilkolták Caesart, abban a reményben, hogy sikerül megmenteniük a köztársaságot. A merénylet után azonban polgárháború tört ki Caesar hívei és a köztársaságiak között. „ ... törékeny alkatú férfi volt, bőre sima és fehér; gyakran fejfájás és epileptikus rohamok gyötörték. (... ) Gyenge egészségi állapotát nemhogy ürügyül használta volna a kényelmes, elpuhult életre, hanem ellenkezőleg, a hadviselést tekintette a legkitűnőbb gyógymódnak. ”</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="nl">Gaius Julius Caesar was een Romeins politicus, generaal en schrijver. Hij wordt meestal kortweg Julius Caesar of Caesar genoemd en wordt gezien als een van de machtigste mannen van zijn tijd. Hij had jarenlang de politieke macht te Rome.</rdfs:comment>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/율리우스_카이사르"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
-    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Architectural_structure"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_by_stabbing"/>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Publius_Vatinius"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/history/"/>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Gaius_Claudius_Marcellus_Maior"/>
-    <dbpedia-owl:abstract xml:lang="fi">Julius Caesar oli roomalainen valtiomies, sotilas ja kirjailija. Hän valloitti Gallian Rooman valtakunnalle ja oli ensimmäinen roomalainen, joka yritti valloittaa Britannian. Caesar aloitti ja voitti kansalaissodan, jonka jälkeen hänestä tuli valtakunnan kiistaton johtaja. Caesar julistettiin elinikäiseksi diktaattoriksi. Tyytymättömät aristokraatit murhasivat Caesarin tasavallan nimissä Rooman senaatin istunnossa vuonna 44 eaa. Caesarin adoptoimasta Octavianuksesta tuli ensimmäinen Rooman keisari. Arvonimi keisari on johdettu Caesarin nimestä.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="ja">ガイウス・ユリウス・カエサル（古典ラテン語：Gaius Julius Caesar、紀元前100年 - 紀元前44年3月15日）は、共和政ローマ期の政治家、軍人であり、文筆家である。 マルクス・リキニウス・クラッスス及びグナエウス・ポンペイウスとの第一回三頭政治と内乱を経て、ルキウス・コルネリウス・スッラに次ぐ終身独裁官（ディクタトル）となり、後の帝政の基礎を築いた。「賽は投げられた」（Alea jacta est）、「来た、見た、勝った」（Veni, vidi, vici）などの引用句でも知られる。</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RomanGovernorsOfHispania"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Golden_Age_Latin_writers"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.freewebs.com/omniamundamundis/cae.htm"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ancient_Roman_politicians"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://virgil.org/caesar/"/>
-    <rdfs:label xml:lang="uk">Гай Юлій Цезар</rdfs:label>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/1/17/CaesarTusculum.jpg"/>
-    <dbpprop:before xml:lang="en">alone without colleague</dbpprop:before>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1st-century_BC_writers"/>
-    <dbpedia-owl:abstract xml:lang="en">Gaius Julius Caesar (July 100 BC – 15 March 44 BC) was a Roman general and statesman and a distinguished writer of Latin prose. He played a critical role in the gradual transformation of the Roman Republic into the Roman Empire. In 60 BC, Caesar, Crassus and Pompey formed a political alliance that was to dominate Roman politics for several years. Their attempts to amass power through populist tactics were opposed by the conservative elite within the Roman Senate, among them Cato the Younger with the frequent support of Cicero. Caesar's conquest of Gaul, completed by 51 BC, extended Rome's territory to the English Channel and the Rhine. Caesar became the first Roman general to cross both when he built a bridge across the Rhine and conducted the first invasion of Britain. These achievements granted him unmatched military power and threatened to eclipse Pompey's standing. The balance of power was further upset by the death of Crassus in 53 BC. Political realignments in Rome finally led to a standoff between Caesar and Pompey, the latter having taken up the cause of the Senate. Ordered by the Senate to stand trial in Rome for various charges, Caesar marched on Rome with one legion—legio XIII—from Gaul to Italy, crossing the Rubicon in 49 BC. This sparked a civil war from which he emerged as the unrivaled leader of the Roman world. After assuming control of government, he began extensive reforms of Roman society and government. He centralised the bureaucracy of the Republic and was eventually proclaimed "dictator in perpetuity". A group of senators, led by Marcus Junius Brutus, assassinated the dictator on the Ides of March (15 March) 44 BC, hoping to restore the constitutional government of the Republic. However, the result was a series of civil wars, which ultimately led to the establishment of the permanent Roman Empire by Caesar's adopted heir Octavius (later known as Augustus). Much of Caesar's life is known from his own accounts of his military campaigns, and other contemporary sources, mainly the letters and speeches of Cicero and the historical writings of Sallust. The later biographies of Caesar by Suetonius and Plutarch are also major sources.</dbpedia-owl:abstract>
-    <dbpprop:mother rdf:resource="http://dbpedia.org/resource/Aurelia_Cotta"/>
-    <dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-049-01-01T00:00:00+02:00</dbpedia-owl:activeYearsStartYear>
-    <rdfs:comment xml:lang="vi">Gāius Jūlius Caesar là một lãnh tụ quân sự và chính trị của La Mã và là một trong những người có ảnh hưởng lớn nhất trong lịch sử thế giới. Ông đóng một vai trò then chốt trong sự chuyển đổi Cộng hòa La Mã thành Đế chế La Mã. Một trong những chiến tích quang vinh nhất của ông - cuộc chinh phục xứ Gaule của ông mở cho La Mã con đường tiếp cận Đại Tây Dương, và ông còn là người phát động cuộc xâm lăng đầu tiên của La Mã vào xứ Britannia (nước Anh ngày nay) năm 55 TCN.</rdfs:comment>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Quintus_Caecilius_Metellus_Pius"/>
-    <dbpprop:name xml:lang="en">Caesar, Gaius Julius</dbpprop:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Characters_in_Book_VI_of_the_Aeneid"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Republican_consuls"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.fordham.edu/halsall/ancient/suetonius-julius.html"/>
-    <dbpprop:after xml:lang="en">office next held by himself in 46 BC</dbpprop:after>
-    <rdfs:comment xml:lang="fr">Jules César est un général, homme politique et écrivain romain, né à Rome le 12 ou le 13 juillet 100 av. J. -C. et mort le 15 mars 44 av. J. -C..</rdfs:comment>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ガイウス・ユリウス・カエサル"/>
-    <dbpprop:royalHouse rdf:resource="http://dbpedia.org/resource/Julio-Claudian_dynasty"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RomanRepuBlicanConsuls"/>
-    <dbpedia-owl:abstract xml:lang="cs">Gaius Iulius Caesar (původní výslovnost jeho jména je kaisar, výslovnost cézar pochází až ze středověké latiny) byl římský vojevůdce a politik a jeden z nejmocnějších mužů antické historie. Sehrál klíčovou roli v procesu zániku římské republiky a její transformace v monarchii. Jako stoupenec politické frakce populárů vytvořil spolu s Marcem Liciniem Crassem a Gnaeem Pompeiem Magnem tzv. první triumvirát, který po několik let dominoval římské politice. Caesarovy výboje v Galii rozšířily římskou moc hluboko na sever. Caesar dále jako první Říman pronikl do Británie a za řeku Rýn. Rozpad triumvirátu po smrti Crassa přivedl Caesara do konfliktu s Pompeiem podporovaným římským senátem. Překročením řeky Rubikonu v roce 49 př. n. l. zahájil Caesar občanskou válku, na jejímž konci se stal jediným a nesporným vládcem celého římského státu. Po uchopení moci zahájil rozsáhlé reformy římské společnosti a vlády. Rovněž byl zvolen doživotním diktátorem. Tím však podnítil Marca Iunia Bruta a řadu dalších římských senátorů, aby ho o březnových idách roku 44 př. n. l. v senátu zavraždili. Strůjci tohoto činu doufali v obnovení republiky. Jejich akce ale vedla pouze k rozpoutání nového kola občanských válek, z něhož vyšel jako vítěz Caesarův adoptivní syn Octavianus, který poté nastolil římské císařství. V roce 42 př. n. l. byl Caesar římským senátem oficiálně prohlášen za jednoho z římských bohů. Mnoho z Caesarova života je nám známo z jeho vlastních Zápisků (Commentarii) z vojenských tažení. Mezi další soudobé prameny náleží také dochované dopisy a projevy Caesarova politického soupeře Cicerona, historické dílo Sallustia či Cattulovy básně. Další podrobnosti o Caesarově životě byly zachyceny pozdějšími historiky – Appiánem, Suetoniem, Plútarchem, Cassiem Dionem a Strabónem.</dbpedia-owl:abstract>
-    <dbpprop:title xml:lang="en">Consul of the Roman Republic</dbpprop:title>
-    <rdfs:comment xml:lang="uk">Ю́лій Це́зар  — давньоримський державний і політичний діяч, полководець, письменник. Діяльність Цезаря докорінно змінила культурний і політичний вигляд Європи та Середземномор'я і залишила визначний слід в житті наступних поколінь.</rdfs:comment>
-    <rdfs:comment xml:lang="pt">Caio Júlio César, foi um patrício, líder militar e político romano. Desempenhou um papel crítico na transformação da República Romana no Império Romano. As suas conquistas na Gália estenderam o domínio romano até o oceano Atlântico: um feito de consequências dramáticas na história da Europa. No fim da vida, lutou numa guerra civil com a facção conservadora do senado romano, cujo líder era Pompeu.</rdfs:comment>
-    <dbpprop:after xml:lang="en">himself</dbpprop:after>
-    <dbpprop:after xml:lang="en">as Dictator in perpetuity</dbpprop:after>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Julius_Caesar?oldid=494942533"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox"/>
-    <dbpprop:reign xml:lang="en">October 49 BC –</dbpprop:reign>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">49</dbpprop:years>
-    <dbpprop:after xml:lang="en">Lucius Calpurnius Piso Caesoninus and Aulus Gabinius</dbpprop:after>
-    <dbpprop:before xml:lang="en">office last held by himself in 47 BC</dbpprop:before>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvbqGUZwpEbGdrcN5Y29ycA"/>
+    <dbpedia-owl:abstract xml:lang="zh">盖乌斯·尤利乌斯·恺撒¹（拉丁文：Gaius Julius Caesar²，前100年7月13日－前44年3月15日），罗马共和国末期杰出的军事统帅、政治家。 恺撒出身贵族，历任财务官、大祭司、大法官、执政官、监察官、独裁官等职。前60年与庞培、克拉苏秘密结成前三头同盟，随后出任高卢总督，花了八年時間征服了高卢全境（现在的法国），还袭击了日耳曼和不列颠。西元前49年，他率军佔领罗马，打败庞培，集大权于一身，实行独裁统治。制定了《儒略历》。 前44年，恺撒遭以布鲁图所领导的元老院成员暗杀身亡。恺撒身后，其甥孫及養子屋大维击败安东尼开创罗马帝国并成为第一位帝国皇帝。</dbpedia-owl:abstract>
+    <foaf:givenName xml:lang="en">Gaius Julius</foaf:givenName>
+    <dbpedia-owl:abstract xml:lang="no">For andre betydninger, se Caesar (tittel) Gaius Julius CæsarTitle=Julius Cæsar;ns=0/Main/;language:wiki=no,locale=noRegjeringstid:Oktober 49 f. Kr. – 15. mars 44 f. Kr. Født:13. juli 100 f. Kr. , Subura, RomaDød:19. august 44 f. Kr. (55 år), Theatrum Pompeium, RomaForeldre:Gaius Julius Caesar den eldreAurelia CottaDet julo-claudiske dynastiEktefelle‍(r):1) Cornelia Cinnilla 84 f. Kr. – 68 f. Kr. 2) Pompeia Sulla 68 f. Kr. – 63 f. Kr. 3) Calpurnia Pisonis 59 f. Kr. til 44 f. Kr. Barn:Julia Caesaris og Caesarion Gaius Julius Cæsar (på klassisk latin skrevet GAIVS IVLIVS CAESAR, klassisk latinsk uttale) var en romersk militær leder, forfatter og diktator. Han spilte en viktig og avgjørende rolle i den gradvise overgangen fra den romerske republikk til Romerriket og keiserdømmet. Selv var han ikke keiser, men hadde sine embeter innenfor rammen av republikken. I år 60 f. Kr. gikk Cæsar i en politisk allianse med Crassus og Pompeius som kom til å dominere romersk politikk i flere år. Deres forsøk på å samle makt via populistisk taktikk ble motarbeidet av det romerske senatet som ble ledet av en konservativ elite, blant dem Cato den yngre med jevnlig støtte fra Cicero. Med Cæsars erobring av Gallia i dagens moderne Frankrike og Belgia nådde den romerske republikken frem til Atlanterhavskysten og Nordsjøen, og i år 55 f. Kr. ledet han den første invasjonen av Britannia. Disse bedriftene ga ham en enestående militær makt og truet å formørkelse Pompeius' rang. Maktbalansen ble ytterligere forstyrret ved Crassus' død i år 53 f. Kr. Politisk omgruppering i Roma førte til sist en stillingskrig mellom Cæsar og Pompeius hvor den sistnevnte tok saken opp i senatet. Beordret av senatet å stå til rette for ulike anklager marsjerte Cæsar fra Gallia til Italia med sine legionærer, krysset elven Rubicon i 49 f. Kr. Det utløste en borgerkrig hvor Julius Cæsar til sist sto igjen som den uovertrufne lederen av den romerske verden. Etter å ha tatt kontroll over styringen begynte han med omfattende reformer av det romerske samfunn og regjeringen. Han sentraliserte republikkens byråkrati og ble til sist proklamert «diktator i evighet». En gruppe med senatorer, ledet av Marcus Junius Brutus, snikmyrdet diktatoren på dagen Idus martiae, den 15. mars 44 f. Kr. , i håp om å gjeninnføre republikken. Imidlertid ble resultatet borgerkriger som endte med keiserdømme under Cæsars adopterte arving Octavius, senere kjent som keiser Augustus. Mye av Cæsars liv er kjent fra hans egne redegjørelse av hans militære bedrifter, og fra andre samtidige kilder, hovedsakelig Ciceros brev og taler, og historieskrivningen til Sallustius. De senere biografiene om Cæsar av Suetonius og Plutark er også betydelige kilder. Cæsars egne tekster, som hans bok om krigen i Gallia, De Bello Gallico (gallerkrigen) er på grunn av sitt stilrene språk fortsatt standardpensum for begynnerkurs i latin. Hans liv har også vært inspirasjon til en rekke kunstverk, som Shakespeares skuespill Julius Cæsar, foruten også en rekke skjønnlitterære bøker og populære filmer.</dbpedia-owl:abstract>
+    <dbpedia-owl:title xml:lang="en">Dictator of the Roman Republic</dbpedia-owl:title>
+    <dbpprop:after xml:lang="en">Gaius Julius Caesar</dbpprop:after>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">45</dbpprop:years>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpprop:before xml:lang="en">Quintus Fufius Calenus and</dbpprop:before>
+    <dbpprop:data xml:lang="en">Rostra, Curia Hostilia, Curia Julia, Lapis Niger</dbpprop:data>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://cliojournal.wikispaces.com/The+Assassination+of+Caesar"/>
     <dbpedia-owl:abstract xml:lang="sv">Denna artikel handlar om statsmannen Julius Caesar, för andra betydelser av Caesar, se Caesar (olika betydelser). Gaius Julius Caesar, född 13 juli 100 f. Kr. i stadsdelen Subura i Rom, död 15 mars 44 f. Kr. i Rom, var en romersk militär och statsman som kom att spela en betydande roll då den romerska republiken omformades till det romerska kejsardömet. Han är även benämnd Julius, Gaius Julius, Gaius Caesar och Divus Julius. Hans namn har givit upphov till ordet kejsare och dess motsvarighet på många språk, liksom till månaden juli. Julius Caesar gjorde en enastående karriär som romersk politiker. Han blev utnämnd till folktribun tidigt, men hans första betydande och allmänt erkända titel imperator tilldelades honom år 60 f. Kr. och han innehade sedan en rad konsulskap. Därtill var han ståthållare i Sydgallien. Han adopterade släktingen Octavianus, den blivande Augustus som var Roms första kejsare. Idus martiae, det vill säga den 15 mars, år 44 f. Kr. mördades Caesar vid Pompejus teater i Rom. Han fick motta 23 dolkstygn av de sammansvurna, bland vilka hans förtrogne Marcus Brutus befann sig. Tillsammans med Kleopatra fick Caesar sonen Caesarion Ptolemaios. Namnet Caesarion fick pojken efter sin far, och namnet Ptolemaios från Kleopatras släkt. Namnet Ptolemaios kommer från grekiskan och betyder ungefär "aggressiv" eller "krigslik" och fick han från Kleopatras ätt som härskat i Egypten sedan 300-talet f. kr och kallades den Ptolemaiska ätten för den härstammade från Alexander den Stores general vid namn Ptolemaios. Hans namn skrevs på antikt latin som GAIVS IVLIVS CAESAR. Symbolen V var romarnas bokstav för u-ljudet. IVLIVS uttalas [julius julius]. Namnet och ordet caesar uttalas på antikt latin ['kajsar 'kajsar], och på nylatin ['se:sar].</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ancient_Roman_writers"/>
-    <dbpprop:before xml:lang="en">none</dbpprop:before>
-    <dbpprop:after xml:lang="en">none, office abolished</dbpprop:after>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.041wm"/>
+    <rdfs:comment xml:lang="pl">Gaius Iulius Caesar, Gajusz Juliusz Cezar, ur. 12 lipca 100 p.n.e. (13 lipca 102 r. p.n.e. – koncepcja Mommsena i Diona) w Rzymie, zm. 15 marca 44 p.n.e. w Rzymie – rzymski polityk, wódz, dyktator i pisarz. Jeden z członków stronnictwa popularów, spowinowacony z Cynną i Mariuszem. Po ich śmierci piastował kolejno urzędy kwestora, edyla, pretora, konsula i dyktatora.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AncientRomanDictators"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Jules_César"/>
+    <rdfs:comment xml:lang="ja">ガイウス・ユリウス・カエサル（古典ラテン語：Gaius Julius Caesar、紀元前100年 - 紀元前44年3月15日）は、共和政ローマ期の政治家、軍人であり、文筆家である。 マルクス・リキニウス・クラッスス及びグナエウス・ポンペイウスとの第一回三頭政治と内乱を経て、ルキウス・コルネリウス・スッラに次ぐ終身独裁官（ディクタトル）となり、後の帝政の基礎を築いた。「賽は投げられた」（Alea jacta est）、「来た、見た、勝った」（Veni, vidi, vici）などの引用句でも知られる。</rdfs:comment>
+    <rdfs:label xml:lang="zh">尤利烏斯·凱撒</rdfs:label>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Monarch_HeadOfState"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-sovereign-noun-1"/>
+    <dbpedia-owl:abstract xml:lang="es">Cayo Julio César fue un líder militar y político de la era tardorrepublicana. Nacido en el seno de la gens Julia, en una familia patricia de escasa fortuna, estuvo emparentado con algunos de los hombres más influyentes de su época, como su tío Cayo Mario, quien influiría de manera determinante en su carrera política. En 84 a.  C. , a los 16 años, el popular Cinna lo nombró flamen dialis, cargo religioso del que fue relevado por Sila, con el cual tuvo conflictos a causa de su matrimonio con la hija de Cinna. Tras escapar de morir a manos de los sicarios del dictador, fue perdonado gracias a la intercesión de los parientes de su madre. Trasladado a Asia, combatió en Mitilene como legatus de Marco Minucio Termo. Volvió a Roma a la muerte de Sila en 78 a.  C. , ejerciendo por un tiempo la abogacía. En 73 a.  C. sucedió a su tío Cayo Aurelio Cota como pontífice, y pronto entró en relación con los cónsules Pompeyo y Craso, cuya amicitia le permitiría lanzar su propia carrera política. En 70 a.  C. César sirvió como cuestor en la provincia de Hispania y como edil curul en Roma. Durante el desempeño de esa magistratura ofreció unos espectáculos que fueron recordados durante mucho tiempo por el pueblo. En 63 a.  C. fue elegido praetor urbanus al obtener más votos que el resto de candidatos a la pretura. Ese mismo año murió Quinto Cecilio Metelo Pío, Pontifex Maximus designado durante la dictadura de Sila, y, en las elecciones celebradas con objeto de sustituirle, venció César. Al término de su pretura sirvió como propretor en Hispania, donde lideró una breve campaña contra los lusitanos. En 59 a.  C. fue elegido cónsul gracias al apoyo de sus dos aliados políticos, Pompeyo y Craso, los hombres con los que César formó el llamado Primer Triunvirato. Su colega durante el consulado, Bíbulo, se retiró a fin de entorpecer la labor de César que, sin embargo, logró sacar adelante una serie de medidas legales, entre las que destaca una ley agraria que regulaba el reparto de tierras entre los soldados veteranos. Tras su consulado fue designado procónsul de las provincias de Galia Transalpina, Iliria y Galia Cisalpina; esta última tras la muerte de su gobernador, Céler. Su gobierno estuvo caracterizado por una política muy agresiva en la que sometió a prácticamente la totalidad de pueblos celtas en varias campañas. Este conflicto, conocido como la Guerra de las Galias, finalizó cuando el general republicano venció en la Batalla de Alesia a los últimos focos de oposición, liderados por un jefe arverno llamado Vercingétorix. Sus conquistas extendieron el dominio romano sobre los territorios que hoy integran Francia, Bélgica, Holanda y parte de Alemania. Fue el primer general romano en penetrar en los inexplorados territorios de Britania y Germania. Mientras César terminaba de organizar la estructura administrativa de la nueva provincia que había anexionado a la República, sus enemigos políticos trataban en Roma de despojarle de su ejército y cargo utilizando el Senado, en el que eran mayoría. César, a sabiendas de que si entraba en la capital sería juzgado y exiliado, intentó presentarse al consulado in absentia, a lo que la mayoría de los senadores se negaron. Este y otros factores le impulsaron a desafiar las órdenes senatoriales y protagonizar el famoso cruce del Rubicón, donde al parecer pronunció la inmortal frase "Alea iacta est" (la suerte está echada) iniciando así un conflicto conocido como la Segunda Guerra Civil de la República de Roma, en el que se enfrentó a los optimates, que estaban liderados por su viejo aliado, Pompeyo. Su victoria, basada en las derrotas que infligió a los conservadores en Farsalia, Tapso y Munda, le hizo el amo de la República. El hecho de que estuviera en guerra con la mitad del mundo romano no evitó que se enfrentara a Farnaces II en Zela y a los enemigos de Cleopatra VII en Alejandría. A su regreso a Roma se hizo nombrar cónsul y dictator perpetuus —dictador vitalicio— e inició una serie de reformas económicas, urbanísticas y administrativas. A pesar de que bajo su gobierno la República experimentó un breve periodo de gran prosperidad, algunos senadores vieron a César como un tirano que ambicionaba restaurar la monarquía. Con el objeto de eliminar la amenaza que suponía el dictador, un grupo de senadores formado por algunos de sus hombres de confianza como Bruto y Casio y antiguos lugartenientes como Trebonio y Décimo Bruto urdieron una conspiración con el fin de eliminarlo. Dicho complot culminó cuando, en los idus de marzo, los conspiradores asesinaron a César en el Senado. Su muerte provocó el estallido de otra guerra civil, en la que los partidarios del régimen de César, Antonio, Octavio y Lépido, derrotaron en la doble Batalla de Filipos a sus asesinos, liderados por Bruto y Casio. Al término del conflicto, Octavio, Antonio y Lépido formaron el Segundo Triunvirato y se repartieron los territorios de la República, aunque, una vez apartado Lépido, finalmente volverían a enfrentarse en Accio, donde Octavio, heredero de César, venció a Marco Antonio. Al margen de su carrera política y militar, César destacó como orador y escritor. Redactó, al menos, un tratado acerca de astronomía, otro acerca de la religión republicana romana, y un estudio sobre el latín, ninguno de los cuales ha sobrevivido hasta nuestros días. Las únicas obras que se conservan son sus Comentarios de la Guerra de las Galias y sus Comentarios de la Guerra Civil. Se conoce el desarrollo de su carrera como militar y gran parte de su vida a través de sus propias obras y de los escritos de autores como Suetonio, Plutarco, Veleyo Patérculo o Eutropio.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:44_BC_deaths"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Iulii"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1st-century_BC_rulers"/>
-    <foaf:name xml:lang="en">Gaius Julius Caesar</foaf:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Republican_holders_of_the_role_of_pontifex_maximus"/>
-    <dbpprop:after xml:lang="en">Gaius Julius Caesar and</dbpprop:after>
-    <dbpprop:data xml:lang="en">Roman Senate, comitia curiata</dbpprop:data>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Marcus_Aemilius_Lepidus_(triumvir)"/>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">46</dbpprop:years>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Roman_dictator"/>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">44</dbpprop:years>
-    <dbpprop:consort xml:lang="en">Calpurnia Pisonis 59 – 44 BC</dbpprop:consort>
-    <dbpprop:belowstyle xml:lang="en">background:#ddf;</dbpprop:belowstyle>
-    <dbpprop:birthPlace xml:lang="en">Subura, Rome</dbpprop:birthPlace>
-    <foaf:surname xml:lang="en">Caesar</foaf:surname>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Julius_Caesar"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Monarch"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Assassinated_Roman_politicians"/>
-    <dbpprop:reign rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dbpprop:reign>
-    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Political_institutions_of_ancient_Rome"/>
-    <dbpprop:before xml:lang="en">office last held by himself in 49 BC</dbpprop:before>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <dc:description xml:lang="en">Roman dictator</dc:description>
-    <dbpprop:after xml:lang="en">alone without colleague</dbpprop:after>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Roman_Republic"/>
-    <dbpprop:deathPlace xml:lang="en">Curia of Pompey, Rome</dbpprop:deathPlace>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Publius_Vatinius"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1st-centuryBCRulers"/>
-    <dbpprop:title xml:lang="en">Dictator for ten years</dbpprop:title>
-    <rdfs:label xml:lang="vi">Julius Caesar</rdfs:label>
+    <dbpprop:placeOfBirth xml:lang="en">Rome, Roman Republic</dbpprop:placeOfBirth>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</dbpprop:dateOfBirth>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/1/17/CaesarTusculum.jpg"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ιούλιος_Καίσαρας"/>
+    <dbpprop:before xml:lang="en">alone without colleague</dbpprop:before>
     <dbpprop:id xml:lang="en">Julius+Caesar</dbpprop:id>
-    <dbpprop:title xml:lang="en">Dictator in perpetuity and consul for ten years</dbpprop:title>
-    <rdfs:label xml:lang="cs">Julius Caesar</rdfs:label>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-15</dbpedia-owl:deathDate>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ancient_Roman_generals"/>
-    <dbpprop:issue xml:lang="en">Julia Caesaris c. 73 – 54 BC</dbpprop:issue>
-    <dbpprop:alternativeNames xml:lang="en">Julius Caesar</dbpprop:alternativeNames>
+    <dbpprop:title xml:lang="en">Consul of the Roman Republic</dbpprop:title>
+    <dbpprop:years xml:lang="en">with Marcus Aemilius Lepidus</dbpprop:years>
     <dbpprop:years xml:lang="en">with Marcus Calpurnius Bibulus</dbpprop:years>
+    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Political_institutions_of_ancient_Rome"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1st-century_BC_Romans"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Julius_Caesar"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deified_people"/>
+    <dbpedia-owl:abstract xml:lang="vi">Gāius Jūlius Caesar là một lãnh tụ quân sự và chính trị của La Mã và là một trong những người có ảnh hưởng lớn nhất trong lịch sử thế giới. Ông đóng một vai trò then chốt trong sự chuyển đổi Cộng hòa La Mã thành Đế chế La Mã. Một trong những chiến tích quang vinh nhất của ông - cuộc chinh phục xứ Gaule của ông mở cho La Mã con đường tiếp cận Đại Tây Dương, và ông còn là người phát động cuộc xâm lăng đầu tiên của La Mã vào xứ Britannia (nước Anh ngày nay) năm 55 TCN. Caesar được xem là một trong những nhà quân sự lỗi lạc nhất, chính trị gia xuất sắc nhất và là một trong những lãnh tụ vĩ đại nhất của lịch sử thế giới thời La Mã cổ đại. Vào năm 42 TCN, hai năm sau khi Caesar bị mưu sát, viện nguyên lão La Mã chính thức thánh hóa, xem ông là một trong những vị thần của La Mã. Dẫn đầu binh đoàn lê dương của mình vượt qua sông Rubicon, Caesar tiến hành một cuộc Nội chiến vào năm 49 TCN, và đánh bại kẻ thù của ông là Pompey trong trận đánh quyết định tại Pharsalus là chiến thắng vĩ đại nhất trong sự nghiệp quân sự của ông. Với chiến thắng của ông trong cuộc Nội chiến, ông vươn lên trở thành một “lãnh tụ không thể chối cãi” của La Mã. Sau khi hoàn toàn kiểm soát chính quyền, Caesar tiến hành những cuộc cải cách rộng lớn nhất về mặt xã hội và chính quyền. Ông được tuyên bố là “Lãnh tụ suốt đời”, và ông kiểm soát toàn bộ nền cộng hòa. Mỉa mai thay, chính điều này đã khiến một trong những người bạn của ông, Marcus Junius Brutus, người về sau hiệp lực cùng những kẻ bất mãn vời Caesar để mưu sát ông và khôi phục nền cộng hòa. Cuộc mưu sát Caesar xảy ra vào ngày Ides of March (15 tháng 3) năm 44 TCN và khơi mào cho một cuộc nội chiến khác của La Mã. Những chiến dịch quân sự của Caesar được biết đến một cách chi tiết qua những bài viết Commentarii (bài tường thuật) của ông, và nhiều chi tiết khác về cuộc đời của ông được ghi nhận lại bởi những sử gia như Appain, Suetonius, Plutarch, Cassius Dio và Strabo. Những thông tin khác được thu thập từ những nguồn thông tin (xuất hiện cùng thời Caesar), như là những bức thư và bài diễn văn của Cicero, kẻ thù chính trị của Caesar, những bài thơ của Catullus, và những bài viết của sử gia Sallus.</dbpedia-owl:abstract>
+    <dbpprop:before xml:lang="en">office last held by himself in 49 BC</dbpprop:before>
+    <dbpprop:years xml:lang="en">with Publius Servilius Vatia Isauricus</dbpprop:years>
+    <dbpprop:after xml:lang="en">himself</dbpprop:after>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Golden_Age_Latin_writers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Assassinated_military_personnel"/>
+    <rdfs:label xml:lang="de">Gaius Iulius Caesar</rdfs:label>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Roman_Republic"/>
+    <dbpprop:header xml:lang="en">These articles cover the Ancient Roman Comitium  of the Republican era</dbpprop:header>
+    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Marcus_Aemilius_Lepidus_(triumvir)"/>
+    <foaf:name xml:lang="en">Gaius Julius Caesar</foaf:name>
+    <rdfs:comment xml:lang="ko">가이우스 율리우스 카이사르는 고대 로마의 정치가, 장군, 작가이다. 그는 로마 공화정이 제정으로 변화하는 데 중요한 역할을 하였다. 정치적으로 카이사르는 민중파의 노선에 섰다. 기원전 60년대 말에서 50년대에 이르기까지 그는 마르쿠스 리키니우스 크라수스, 그나이우스 폼페이우스 마그누스와 소위 제1차 삼두 정치라는 초법적 정치 연대를 이루어 수년간 로마 정계를 장악하였다. 이들 파벌은 자신들끼리 권력을 분점하고자 하여, 원로원 내에서 마르쿠스 포르키우스 카토(小 카토), 마르쿠스 칼푸르니우스 비불루스 등 벌족파의 반대를 받았으며, 마르쿠스 툴리우스 키케로가 이에 가세하기도 하였다. 카이사르는 갈리아를 정복(기원전 59~55년)하여 로마 제국의 영토를 북해까지 넓혔으며, 기원전 55년에는 로마인 처음으로 브리타니아 침공을 감행하였다.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Julio_César"/>
+    <dbpedia-owl:abstract xml:lang="en">Gaius Julius Caesar (July 100 BC – 15 March 44 BC) was a Roman general and statesman and a distinguished writer of Latin prose. He played a critical role in the gradual transformation of the Roman Republic into the Roman Empire. In 60 BC, Caesar, Crassus and Pompey formed a political alliance that was to dominate Roman politics for several years. Their attempts to amass power through populist tactics were opposed by the conservative elite within the Roman Senate, among them Cato the Younger with the frequent support of Cicero. Caesar's conquest of Gaul, completed by 51 BC, extended Rome's territory to the English Channel and the Rhine. Caesar became the first Roman general to cross both when he built a bridge across the Rhine and conducted the first invasion of Britain. These achievements granted him unmatched military power and threatened to eclipse Pompey's standing. The balance of power was further upset by the death of Crassus in 53 BC. Political realignments in Rome finally led to a standoff between Caesar and Pompey, the latter having taken up the cause of the Senate. Ordered by the Senate to stand trial in Rome for various charges, Caesar marched on Rome with one legion—legio XIII—from Gaul to Italy, crossing the Rubicon in 49 BC. This sparked a civil war from which he emerged as the unrivaled leader of the Roman world. After assuming control of government, he began extensive reforms of Roman society and government. He centralised the bureaucracy of the Republic and was eventually proclaimed "dictator in perpetuity". A group of senators, led by Marcus Junius Brutus, assassinated the dictator on the Ides of March (15 March) 44 BC, hoping to restore the constitutional government of the Republic. However, the result was a series of civil wars, which ultimately led to the establishment of the permanent Roman Empire by Caesar's adopted heir Octavius (later known as Augustus). Much of Caesar's life is known from his own accounts of his military campaigns, and other contemporary sources, mainly the letters and speeches of Cicero and the historical writings of Sallust. The later biographies of Caesar by Suetonius and Plutarch are also major sources.</dbpedia-owl:abstract>
+    <dbpprop:before xml:lang="en">Lucius Cornelius Lentulus Crus and</dbpprop:before>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Rome"/>
+    <dbpedia-owl:abstract xml:lang="ru">Гай Ю́лий Це́зарь — древнеримский государственный и политический деятель, диктатор, полководец, писатель. Своим завоеванием Галлии, Цезарь расширил римскую державу до берегов северной Атлантики и подчинил римскому влиянию территорию современной Франции, а также начал вторжение на Британские острова. Деятельность Цезаря коренным образом изменила культурный и политический облик Западной Европы и оставила неизгладимый след в жизни следующих поколений европейцев. Гай Юлий Цезарь, обладая блестящими способностями военного стратега и тактика, одержал победу в сражениях гражданской войны и стал единовластным повелителем Pax Romana. Наряду с Гнеем Помпеем он начал реформирование римского общества и государства, которое уже после его смерти привело к установлению Римской империи. Цезарь хотел централизировать управление республикой. Злые языки поговаривали, что он стремится к царской власти. Однако Цезарь, помнив о неудачной практике правления первых семи царей, пошёл другим путём: стал пожизненным диктатором. Он настаивал на том, чтобы его называли просто — Цезарь. Его убийство привело к возобновлению гражданских войн, закату Римской республики и зарождению Империи, которую возглавил усыновлённый им Октавиан Август. Позже многие монархи хотели связать себя с легендарным Цезарем. Так произошли нем. &amp;#160;Kaiser, а также русское понятие «царь», являющееся термином, родственным слову «Цезарь».</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.forumromanum.org/literature/caesarx.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://virgil.org/caesar/"/>
+    <dbpedia-owl:abstract xml:lang="ja">ガイウス・ユリウス・カエサル（古典ラテン語：Gaius Julius Caesar、紀元前100年 - 紀元前44年3月15日）は、共和政ローマ期の政治家、軍人であり、文筆家である。 マルクス・リキニウス・クラッスス及びグナエウス・ポンペイウスとの第一回三頭政治と内乱を経て、ルキウス・コルネリウス・スッラに次ぐ終身独裁官（ディクタトル）となり、後の帝政の基礎を築いた。「賽は投げられた」（Alea jacta est）、「来た、見た、勝った」（Veni, vidi, vici）などの引用句でも知られる。</dbpedia-owl:abstract>
+    <dbpprop:after xml:lang="en">Lucius Calpurnius Piso Caesoninus and Aulus Gabinius</dbpprop:after>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ガイウス・ユリウス・カエサル"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">46</dbpprop:years>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Julius_Caesar"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RomanRepuBlicanConsuls"/>
+    <rdfs:label xml:lang="uk">Гай Юлій Цезар</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RomanGovernorsOfHispania"/>
+    <dbpprop:mother rdf:resource="http://dbpedia.org/resource/Aurelia_Cotta"/>
+    <foaf:surname xml:lang="en">Caesar</foaf:surname>
     <dbpprop:title xml:lang="en">Dictator of the Roman Republic</dbpprop:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucius_Cornelius_Sulla">
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Seizer">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Massilia">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Legio_XIII_Gemina">
-    <dbpedia-owl:notableCommander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:notableCommanders rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Caesar_(crater)">
-    <dbpprop:eponym rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Ides_of_March_(novel)">
-    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Legio_VI_Ferrata">
-    <dbpprop:notableCommanders rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:notableCommander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Julius_Caesar">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gallic_Wars">
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Commentaries_of_Julius_C%C3%A6sar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gayus_Julius_Caesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caius_Iulius_Caesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Literary_works_of_Julius_Caesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Caesar_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/CAIVS_IVLIVS_CAESAR">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/IVLIVS_CAESAR">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Bibracte">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Alexandria_(47_BC)">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_the_Arar">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Imperator_Gaius_Iulius_Caesar_Divus">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Publius_Cornelius_Dolabella">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Ilerda">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Quintus_Fabius_Maximus">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/De_Bello_Alexandrino">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cleopatra_VII">
-    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucius_Vorenus">
-    <dbpprop:allegiance rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/IMP._C%C3%86SAR">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Legio_X_Equestris">
-    <dbpprop:notableCommanders rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:notableCommander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caesar's_Civil_War">
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Gergovia">
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Political_career_of_Julius_Caesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Thapsus">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Pharsalus">
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caesars_death">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_caesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Iulius_Caesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Titus_Pullo">
-    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Curia_Julia">
-    <dbpprop:builder rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Divus_Julius">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caesar_complex">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Munda">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Avaricum">
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caesar">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giulius_Caesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Legio_X_Gemina">
-    <dbpedia-owl:notableCommander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:notableCommanders rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Divus_Iulius">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_the_Nile_(47_BC)">
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caesarion">
-    <dbpprop:father rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:parent rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/C._Julius_Caesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_ceasar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Commentarii_de_Bello_Civili">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:publisher rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julias_ceaser">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gaius_Iulius_Gaii_filius_Gaii_nepos_Caesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Dyrrhachium_(48_BC)">
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/I_am_the_republic">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julii_Caesarii">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Legio_XI">
-    <dbpedia-owl:notableCommander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:notableCommanders rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_C%C3%A6sar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gaius_Iulius_Gaii_Filius_Gaii_Nepos_Caesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Legio_XI_Claudia">
-    <dbpprop:notableCommanders rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:patron rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:notableCommander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:patron rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Caesar_Assassination_plot">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Early_life_of_Augustus">
-    <dbpedia-owl:predecessor rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpedia-owl:parent rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Caesra">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julias_caesar">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caesar_Dictator">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caesar,_Julius">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_the_Axona">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caesar_the_Dictator">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rostra">
-    <dbpprop:header rdf:resource="http://dbpedia.org/resource/Julius_Caesar"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:title xml:lang="en">Dictator in perpetuity and consul for ten years</dbpprop:title>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/37*.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GoldenAgeLatinWriters"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
+    <dbpprop:name xml:lang="en">Caesar, Gaius Julius</dbpprop:name>
+    <dbpprop:before xml:lang="en">office last held by Sulla in 81 BC</dbpprop:before>
+    <rdfs:comment xml:lang="hu">Caius Iulius Caesar római hadvezér és politikus. Fontos szerepet játszott a köztársaság felszámolásában és a császárság intézményének létrehozásában. Elfoglalta Galliát, és elsőként vezetett hadjáratot Britanniába – mindkettőt saját kezdeményezésre. Minden idők egyik legnagyobb hadvezére (stratégája) volt és nagyszerű politikus is (mindkettő alatt leginkább az értendő, hogy kitűnően tudott bánni az emberekkel). Jelentősége az ókor történetében Nagy Sándoréval vetekedik.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Caesar_Julius_100_BC-44_BC"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1st-century_BC_historians"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">59</dbpprop:years>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Characters_in_Book_VI_of_the_Aeneid"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Julius_Caesar"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:issue xml:lang="en">Caesarion 47 – 30 BC</dbpprop:issue>
+    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Quintus_Caecilius_Metellus_Celer"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Gaius_Iulius_Caesar"/>
+    <rdfs:label xml:lang="vi">Julius Caesar</rdfs:label>
+    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Quintus_Caecilius_Metellus_Pius"/>
+    <dbpedia-owl:abstract xml:lang="fr">Jules César est un général, homme politique et écrivain romain, né à Rome le 12 ou le 13 juillet 100 av. J. -C. et mort le 15 mars 44 av. J. -C.. Son destin exceptionnel marqua le monde romain et l'histoire universelle : ambitieux et brillant, il s’appuya sur le courant réformateur et démagogue pour son ascension politique ; stratège et tacticien habile, il repoussa les frontières romaines jusqu’au Rhin et à l’océan Atlantique en conquérant la Gaule, puis utilisa ses légions pour s’emparer du pouvoir. Il se fit nommer dictateur à vie, et fut assassiné peu après par une conspiration de sénateurs. Il fut divinisé et son fils adoptif Octave, vainqueur de Marc Antoine, acheva la réforme de la République romaine, qui laissa place au principat et à l’Empire romain.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ca">Gai Juli Cèsar, (en llatí Gaius Iulius Caesar) més conegut com a Juli Cèsar va ser un general i polític romà que va crear els fonaments del futur sistema imperial romà al final de la República. Va vestir la toga, la corona i el ceptre d'un general triomfant i va utilitzar el títol d'imperator. Va ser cap de la religió de l'estat, però sobretot tenia el comandament de tots els exèrcits, la qual cosa li proporcionava el control del poder.</dbpedia-owl:abstract>
+    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Publius_Vatinius"/>
+    <dbpprop:shortDescription xml:lang="en">Roman dictator</dbpprop:shortDescription>
+    <dbpprop:placeOfDeath xml:lang="en">Rome, Roman Republic</dbpprop:placeOfDeath>
+    <dbpedia-owl:individualisedPnd xml:lang="en">118518275</dbpedia-owl:individualisedPnd>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1st-century_BC_writers"/>
+    <rdfs:comment xml:lang="pt">Caio Júlio César, foi um patrício, líder militar e político romano. Desempenhou um papel crítico na transformação da República Romana no Império Romano. As suas conquistas na Gália estenderam o domínio romano até o oceano Atlântico: um feito de consequências dramáticas na história da Europa. No fim da vida, lutou numa guerra civil com a facção conservadora do senado romano, cujo líder era Pompeu.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AncientRomanPoliticians"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1st-centuryBCHistorians"/>
+    <dbpedia-owl:abstract xml:lang="cs">Gaius Iulius Caesar (původní výslovnost jeho jména je kaisar, výslovnost cézar pochází až ze středověké latiny) byl římský vojevůdce a politik a jeden z nejmocnějších mužů antické historie. Sehrál klíčovou roli v procesu zániku římské republiky a její transformace v monarchii. Jako stoupenec politické frakce populárů vytvořil spolu s Marcem Liciniem Crassem a Gnaeem Pompeiem Magnem tzv. první triumvirát, který po několik let dominoval římské politice. Caesarovy výboje v Galii rozšířily římskou moc hluboko na sever. Caesar dále jako první Říman pronikl do Británie a za řeku Rýn. Rozpad triumvirátu po smrti Crassa přivedl Caesara do konfliktu s Pompeiem podporovaným římským senátem. Překročením řeky Rubikonu v roce 49 př. n. l. zahájil Caesar občanskou válku, na jejímž konci se stal jediným a nesporným vládcem celého římského státu. Po uchopení moci zahájil rozsáhlé reformy římské společnosti a vlády. Rovněž byl zvolen doživotním diktátorem. Tím však podnítil Marca Iunia Bruta a řadu dalších římských senátorů, aby ho o březnových idách roku 44 př. n. l. v senátu zavraždili. Strůjci tohoto činu doufali v obnovení republiky. Jejich akce ale vedla pouze k rozpoutání nového kola občanských válek, z něhož vyšel jako vítěz Caesarův adoptivní syn Octavianus, který poté nastolil římské císařství. V roce 42 př. n. l. byl Caesar římským senátem oficiálně prohlášen za jednoho z římských bohů. Mnoho z Caesarova života je nám známo z jeho vlastních Zápisků (Commentarii) z vojenských tažení. Mezi další soudobé prameny náleží také dochované dopisy a projevy Caesarova politického soupeře Cicerona, historické dílo Sallustia či Cattulovy básně. Další podrobnosti o Caesarově životě byly zachyceny pozdějšími historiky – Appiánem, Suetoniem, Plútarchem, Cassiem Dionem a Strabónem.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Julius_Caesar"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/율리우스_카이사르"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_military_writers"/>
+    <dbpprop:before xml:lang="en">Gaius Julius Caesar</dbpprop:before>
+    <dbpprop:years xml:lang="en">with Marcus Antonius</dbpprop:years>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Antony*.html"/>
+    <rdfs:comment xml:lang="vi">Gāius Jūlius Caesar là một lãnh tụ quân sự và chính trị của La Mã và là một trong những người có ảnh hưởng lớn nhất trong lịch sử thế giới. Ông đóng một vai trò then chốt trong sự chuyển đổi Cộng hòa La Mã thành Đế chế La Mã. Một trong những chiến tích quang vinh nhất của ông - cuộc chinh phục xứ Gaule của ông mở cho La Mã con đường tiếp cận Đại Tây Dương, và ông còn là người phát động cuộc xâm lăng đầu tiên của La Mã vào xứ Britannia (nước Anh ngày nay) năm 55 TCN.</rdfs:comment>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Succession_box"/>
+    <dbpedia-owl:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-044-01-01T00:00:00+02:00</dbpedia-owl:activeYearsEndYear>
+    <dbpprop:before xml:lang="en">none</dbpprop:before>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ancient_Roman_politicians"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Assassinated_Roman_politicians"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Gaio_Giulio_Cesare"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ancient_Roman_dictators"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Republican_consuls"/>
+    <dbpprop:after xml:lang="en">as Dictator in perpetuity</dbpprop:after>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.freewebs.com/omniamundamundis/cae.htm"/>
+    <rdfs:comment xml:lang="de">Gaius Iulius Caesar [ˈgaːjʊs ˈjuːljʊs ˈkae̯sar] war ein römischer Staatsmann, Feldherr und Autor, der maßgeblich an der Zerstörung der Römischen Republik und an ihrer späteren Umwandlung in ein Kaiserreich beteiligt war. Der patrizischen Familie der Julier entstammend, absolvierte er die Ämterlaufbahn und gelangte durch ein Bündnis mit dem reichen Marcus Licinius Crassus und dem erfolgreichen Militär Gnaeus Pompeius Magnus im Jahr 59 v. Chr. zum Konsulat.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1st-centuryBCRulers"/>
+    <dbpedia-owl:abstract xml:lang="ko">가이우스 율리우스 카이사르는 고대 로마의 정치가, 장군, 작가이다. 그는 로마 공화정이 제정으로 변화하는 데 중요한 역할을 하였다. 정치적으로 카이사르는 민중파의 노선에 섰다. 기원전 60년대 말에서 50년대에 이르기까지 그는 마르쿠스 리키니우스 크라수스, 그나이우스 폼페이우스 마그누스와 소위 제1차 삼두 정치라는 초법적 정치 연대를 이루어 수년간 로마 정계를 장악하였다. 이들 파벌은 자신들끼리 권력을 분점하고자 하여, 원로원 내에서 마르쿠스 포르키우스 카토(小 카토), 마르쿠스 칼푸르니우스 비불루스 등 벌족파의 반대를 받았으며, 마르쿠스 툴리우스 키케로가 이에 가세하기도 하였다. 카이사르는 갈리아를 정복(기원전 59~55년)하여 로마 제국의 영토를 북해까지 넓혔으며, 기원전 55년에는 로마인 처음으로 브리타니아 침공을 감행하였다. 이러한 공훈 덕분에 카이사르는 강력한 세력가로 입지를 굳혀 폼페이우스를 위협하게 되었으며, 카라이 전투에서 크라수스가 전사하면서 삼두정의 두 정치가 사이에 긴장이 높아졌다. 이렇듯 로마 정계가 재편되면서 카이사르와 폼페이우스는 서로 대치하게 되었으며, 폼페이우스는 원로원의 대의를 내세웠다. 카이사르는 자신의 군단으로 하여금 루비콘 강을 건너게 하는 결단을 내려 기원전 49년에 내전이 일어났으며, 그 결과 카이사르는 로마 세계에서 무소불위의 권력자로 등극하였다. 정권을 장악한 뒤 그는 로마의 사회와 정치에 광범위한 개혁을 실시하였다. 그는 공화정의 귀족 정치를 고도로 중앙집권화하였으며, 급기야 종신 독재관으로 선언하였다. 기원전 44년 3월의 열닷새에 마르쿠스 유니우스 브루투스가 이끄는 일군의 원로원 의원들이 공화정을 복고하고자 카이사르를 살해하였다. 그러나 또 다시 내전이 일어났으며, 결국 카이사르의 양자인 가이우스 옥타비아누스가 영속적인 전제정을 성립하였다. 카이사르가 죽은 지 기원전 42년에, 원로원은 카이사르를 공식적으로 로마의 신으로 축성하였다. 따라서 그의 사후 그의 공식명칭은 신격 카이사르가 되었다(Divus Caesar). 또한 그 이후부터 로마 황제가 죽었을 경우 후임자가 그를 신격화시키는 것이 관례화되었다. 카이사르의 삶은 본인이 쓴 전쟁 기록을 통해 상당 부분 알려져 있으며, 정적임과 동시에 오랜 친구였던 키케로와의 서신과 그의 연설, 살루스티우스의 기록, 카툴루스의 시 등 당대의 다른 사료도 남아 있다. 또 아피아노스, 수에토니우스, 플루타르코스, 카시우스 디오, 스트라본 등 여러 후대 역사가들의 기록도 그의 삶에 대해 더욱 자세하게 서술하고 있다.</dbpedia-owl:abstract>
+    <dbpprop:after xml:lang="en">alone without colleague</dbpprop:after>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Latin-languAgeWriters"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1st-centuryBCWriters"/>
+    <dbpedia-owl:abstract xml:lang="pt">Caio Júlio César, foi um patrício, líder militar e político romano. Desempenhou um papel crítico na transformação da República Romana no Império Romano. As suas conquistas na Gália estenderam o domínio romano até o oceano Atlântico: um feito de consequências dramáticas na história da Europa. No fim da vida, lutou numa guerra civil com a facção conservadora do senado romano, cujo líder era Pompeu. Depois da derrota dos optimates, tornou-se ditador (no conceito romano do termo) vitalício e iniciou uma série de reformas administrativas e econômicas em Roma. O seu assassinato nos idos de Março de 44 a.C. por um grupo de senadores travou o seu trabalho e abriu caminho a uma instabilidade política que viria a culminar no fim da República e início do Império Romano. Os feitos militares de César são conhecidos através do seu próprio punho e de relatos de autores como Suetónio e Plutarco.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/history/"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Гай_Юлий_Цезарь"/>
+    <dbpprop:alternativeNames xml:lang="en">Julius Caesar</dbpprop:alternativeNames>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-12</dbpedia-owl:birthDate>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.041wm"/>
+    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Marcus_Aemilius_Lepidus_(triumvir)"/>
+    <dbpprop:data xml:lang="en">Cicero, Gaius Gracchus, Julius Caesar</dbpprop:data>
+    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Architectural_structure"/>
+    <dbpedia-owl:abstract xml:lang="it">Ebbe un ruolo cruciale nella transizione del sistema di governo dalla forma repubblicana a quella imperiale, della quale fu ritenuto da molti il fondatore. Fu dictator di Roma alla fine del 49 a.C. , nel 47 a.C. , nel 46 a.C. con carica decennale e dal 44 a.C. come dittatore perpetuo. Fu ritenuto da alcuni degli storici a lui contemporanei il primo imperatore di Roma. Con la conquista della Gallia estese il dominio della res publica romana fino all'oceano Atlantico e al Reno; portò gli eserciti romani ad invadere per la prima volta la Britannia e la Germania e a combattere in Spagna, Grecia, Egitto, Ponto e Africa. Il primo triumvirato, l'accordo privato per la spartizione del potere con Gneo Pompeo Magno e Marco Licinio Crasso, segnò l'inizio della sua ascesa. Dopo la morte di Crasso, Cesare si scontrò con Pompeo e la fazione degli Optimates per il controllo dello stato. Nel 49 a.C. , di ritorno dalla Gallia, guidò le sue legioni attraverso il Rubicone, pronunciando le celebri parole «Alea iacta est», e scatenò la guerra civile, con la quale divenne capo indiscusso di Roma: sconfisse Pompeo a Farsalo e successivamente gli altri Optimates, tra cui Catone Uticense, in Africa e in Spagna. Con l'assunzione della dittatura a vita diede inizio a un processo di radicale riforma della società e del governo, riorganizzando e centralizzando la burocrazia repubblicana. Il suo operato provocò la reazione dei conservatori, finché un gruppo di senatori, capeggiati da Marco Giunio Bruto, Gaio Cassio Longino e Decimo Bruto, cospirò contro di lui uccidendolo, alle Idi di marzo del 44 a.C.(15/03/44) Nel 42 a.C. , appena due anni dopo il suo assassinio, il Senato lo deificò ufficialmente, elevandolo a divinità. L'eredità riformatrice e storica di Cesare fu quindi raccolta da Ottaviano Augusto, suo pronipote e figlio adottivo. Le campagne militari e le azioni politiche di Cesare sono da lui stesso dettagliatamente raccontate nei Commentarii de bello Gallico e nei Commentarii de bello civili. Numerose notizie sulla sua vita sono presenti negli scritti di Appiano di Alessandria, Svetonio, Plutarco, Cassio Dione e Strabone. Altre informazioni possono essere rintracciate nelle opere di autori suoi contemporanei, come nelle lettere e nelle orazioni del suo rivale politico Cicerone, nelle poesie di Catullo e negli scritti storici di Sallustio.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="es">Cayo Julio César fue un líder militar y político de la era tardorrepublicana. Nacido en el seno de la gens Julia, en una familia patricia de escasa fortuna, estuvo emparentado con algunos de los hombres más influyentes de su época, como su tío Cayo Mario, quien influiría de manera determinante en su carrera política. En 84 a.  C.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="fi">Julius Caesar oli roomalainen valtiomies, sotilas ja kirjailija. Hän valloitti Gallian Rooman valtakunnalle ja oli ensimmäinen roomalainen, joka yritti valloittaa Britannian. Caesar aloitti ja voitti kansalaissodan, jonka jälkeen hänestä tuli valtakunnan kiistaton johtaja. Caesar julistettiin elinikäiseksi diktaattoriksi. Tyytymättömät aristokraatit murhasivat Caesarin tasavallan nimissä Rooman senaatin istunnossa vuonna 44 eaa. Caesarin adoptoimasta Octavianuksesta tuli ensimmäinen Rooman keisari. Arvonimi keisari on johdettu Caesarin nimestä.</dbpedia-owl:abstract>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118518275</dbpedia-owl:individualisedPnd>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Republican_holders_of_the_role_of_pontifex_maximus"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_governors_of_Hispania"/>
+    <dbpprop:before xml:lang="en">himself</dbpprop:before>
+    <dbpprop:after xml:lang="en">none, office abolished</dbpprop:after>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dbpprop:dateOfDeath>
+    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Roman_assemblies"/>
+    <rdfs:comment xml:lang="no">For andre betydninger, se Caesar (tittel) Gaius Julius CæsarTitle=Julius Cæsar;ns=0/Main/;language:wiki=no,locale=noRegjeringstid:Oktober 49 f. Kr. – 15. mars 44 f. Kr. Født:13. juli 100 f. Kr. , Subura, RomaDød:19. august 44 f. Kr. (55 år), Theatrum Pompeium, RomaForeldre:Gaius Julius Caesar den eldreAurelia CottaDet julo-claudiske dynastiEktefelle‍(r):1) Cornelia Cinnilla 84 f. Kr. – 68 f. Kr. 2) Pompeia Sulla 68 f. Kr. – 63 f. Kr. 3) Calpurnia Pisonis 59 f. Kr. til 44 f. Kr.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ancient_Roman_generals"/>
+    <dbpprop:after xml:lang="en">Quintus Fufius Calenus and</dbpprop:after>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/Civil_Wars/2*.html"/>
+    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Gaius_Claudius_Marcellus_Maior"/>
+    <dbpprop:birthDate xml:lang="en">July 100 BC</dbpprop:birthDate>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://classics.mit.edu/Plutarch/antony.html"/>
+    <dbpedia-owl:abstract xml:lang="de">Gaius Iulius Caesar [ˈgaːjʊs ˈjuːljʊs ˈkae̯sar] war ein römischer Staatsmann, Feldherr und Autor, der maßgeblich an der Zerstörung der Römischen Republik und an ihrer späteren Umwandlung in ein Kaiserreich beteiligt war. Der patrizischen Familie der Julier entstammend, absolvierte er die Ämterlaufbahn und gelangte durch ein Bündnis mit dem reichen Marcus Licinius Crassus und dem erfolgreichen Militär Gnaeus Pompeius Magnus im Jahr 59 v. Chr. zum Konsulat. In den folgenden Jahren ging Caesar als Prokonsul in die nördlichen Provinzen Illyrien und Gallia Cis- und Transalpina, von wo aus er in den Jahren 58 bis 51 v. Chr. ganz Gallien bis zum Rhein eroberte. Im anschließenden Römischen Bürgerkrieg von 49 bis 45 v. Chr. setzte er sich gegen seinen ehemaligen Verbündeten Pompeius und dessen Anhänger durch und errang die Alleinherrschaft. Nach seiner Ernennung zum Diktator auf Lebenszeit fiel er einem Attentat zum Opfer. Sein Großneffe und Haupterbe Gaius Octavius setzte die Monarchie als neue Staatsform des Römischen Reiches endgültig durch. Der Name Caesars wurde zum Bestandteil des Titels aller nachfolgenden Herrscher des römischen Kaiserreichs. In der römischen Spätantike und im Byzantinischen Reich bezeichnete der Titel „Caesar“ einen Mitherrscher oder Thronfolger. In den entlehnten Formen Kaiser und Zar wurde der Name später auch zum Titel der Herrscher des Heiligen Römischen, des Österreichischen, des Deutschen, des Bulgarischen und des Russischen Reiches.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ancient_Roman_writers"/>
+    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Publius_Cornelius_Dolabella"/>
+    <rdfs:comment xml:lang="sv">Denna artikel handlar om statsmannen Julius Caesar, för andra betydelser av Caesar, se Caesar (olika betydelser). Gaius Julius Caesar, född 13 juli 100 f. Kr. i stadsdelen Subura i Rom, död 15 mars 44 f. Kr. i Rom, var en romersk militär och statsman som kom att spela en betydande roll då den romerska republiken omformades till det romerska kejsardömet. Han är även benämnd Julius, Gaius Julius, Gaius Caesar och Divus Julius.</rdfs:comment>
+    <rdfs:label xml:lang="en">Julius Caesar</rdfs:label>
+    <dbpprop:data xml:lang="en">Roman Senate, comitia curiata</dbpprop:data>
+    <dbpprop:issue xml:lang="en">Julia Caesaris c. 73 – 54 BC</dbpprop:issue>
+    <dbpprop:before xml:lang="en">Gaius Julius Caesar and</dbpprop:before>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:100_BC_births"/>
+    <rdfs:comment xml:lang="nl">Gaius Julius Caesar was een Romeins politicus, generaal en schrijver. Hij wordt meestal kortweg Julius Caesar of Caesar genoemd en wordt gezien als een van de machtigste mannen van zijn tijd. Hij had jarenlang de politieke macht te Rome.</rdfs:comment>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">48</dbpprop:years>
+    <dbpprop:reign rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dbpprop:reign>
+    <dbpprop:consort xml:lang="en">Calpurnia Pisonis 59 – 44 BC</dbpprop:consort>
+    <dbpprop:before xml:lang="en">Lucius Afranius and</dbpprop:before>
+    <dc:description xml:lang="en">Roman dictator</dc:description>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RomanMilitaryWriters"/>
+    <dbpprop:title xml:lang="en">Dictator for ten years</dbpprop:title>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Roman_dictator"/>
+    <dbpedia-owl:abstract xml:lang="uk">Ю́лій Це́зар  — давньоримський державний і політичний діяч, полководець, письменник. Діяльність Цезаря докорінно змінила культурний і політичний вигляд Європи та Середземномор'я і залишила визначний слід в житті наступних поколінь.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="nl">Gaius Julius Caesar was een Romeins politicus, generaal en schrijver. Hij wordt meestal kortweg Julius Caesar of Caesar genoemd en wordt gezien als een van de machtigste mannen van zijn tijd. Hij had jarenlang de politieke macht te Rome.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AssassinatedHeadsOfState"/>
+    <dbpprop:father rdf:resource="http://dbpedia.org/resource/Gaius_Julius_Caesar_(proconsul)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromRome(city)"/>
+    <rdfs:comment xml:lang="ru">Гай Ю́лий Це́зарь — древнеримский государственный и политический деятель, диктатор, полководец, писатель. Своим завоеванием Галлии, Цезарь расширил римскую державу до берегов северной Атлантики и подчинил римскому влиянию территорию современной Франции, а также начал вторжение на Британские острова. Деятельность Цезаря коренным образом изменила культурный и политический облик Западной Европы и оставила неизгладимый след в жизни следующих поколений европейцев.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.fordham.edu/halsall/ancient/suetonius-julius.html"/>
+    <rdfs:comment xml:lang="en">Gaius Julius Caesar (July 100 BC – 15 March 44 BC) was a Roman general and statesman and a distinguished writer of Latin prose. He played a critical role in the gradual transformation of the Roman Republic into the Roman Empire. In 60 BC, Caesar, Crassus and Pompey formed a political alliance that was to dominate Roman politics for several years.</rdfs:comment>
+    <dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-049-01-01T00:00:00+02:00</dbpedia-owl:activeYearsStartYear>
+    <dbpprop:birthPlace xml:lang="en">Subura, Rome</dbpprop:birthPlace>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/history/historic_figures/caesar_julius.shtml"/>
+    <dbpprop:fullName xml:lang="en">Gaius Julius Caesar</dbpprop:fullName>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://penelope.uchicago.edu/Thayer/L/Roman/Texts/Suetonius/12Caesars/Julius*.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_by_stabbing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpprop:belowstyle xml:lang="en">background:#ddf;</dbpprop:belowstyle>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpprop:deathPlace xml:lang="en">Curia of Pompey, Rome</dbpprop:deathPlace>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Latin-language_writers"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Gajusz_Juliusz_Cezar"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dbpprop:deathDate>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Júlio_César"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_monarch"/>
+    <dbpprop:consort xml:lang="en">Pompeia 68 – 63 BC</dbpprop:consort>
+    <rdfs:comment xml:lang="it">Ebbe un ruolo cruciale nella transizione del sistema di governo dalla forma repubblicana a quella imperiale, della quale fu ritenuto da molti il fondatore. Fu dictator di Roma alla fine del 49 a.C. , nel 47 a.C. , nel 46 a.C. con carica decennale e dal 44 a.C. come dittatore perpetuo. Fu ritenuto da alcuni degli storici a lui contemporanei il primo imperatore di Roma.</rdfs:comment>
+    <dbpprop:before xml:lang="en">as Dictator for ten years</dbpprop:before>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CaesarTusculum.jpg/200px-CaesarTusculum.jpg"/>
+    <rdfs:label xml:lang="cs">Julius Caesar</rdfs:label>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Pontifex_Maximus"/>
+    <rdfs:comment xml:lang="zh">盖乌斯·尤利乌斯·恺撒¹（拉丁文：Gaius Julius Caesar²，前100年7月13日－前44年3月15日），罗马共和国末期杰出的军事统帅、政治家。 恺撒出身贵族，历任财务官、大祭司、大法官、执政官、监察官、独裁官等职。前60年与庞培、克拉苏秘密结成前三头同盟，随后出任高卢总督，花了八年時間征服了高卢全境（现在的法国），还袭击了日耳曼和不列颠。西元前49年，他率军佔领罗马，打败庞培，集大权于一身，实行独裁统治。制定了《儒略历》。 前44年，恺撒遭以布鲁图所领导的元老院成员暗杀身亡。恺撒身后，其甥孫及養子屋大维击败安东尼开创罗马帝国并成为第一位帝国皇帝。</rdfs:comment>
+    <dbpprop:issue xml:lang="en">Augustus 63 BC – 14 AD</dbpprop:issue>
+    <rdfs:comment xml:lang="cs">Gaius Iulius Caesar (původní výslovnost jeho jména je kaisar, výslovnost cézar pochází až ze středověké latiny) byl římský vojevůdce a politik a jeden z nejmocnějších mužů antické historie. Sehrál klíčovou roli v procesu zániku římské republiky a její transformace v monarchii. Jako stoupenec politické frakce populárů vytvořil spolu s Marcem Liciniem Crassem a Gnaeem Pompeiem Magnem tzv. první triumvirát, který po několik let dominoval římské politice.</rdfs:comment>
+    <rdfs:comment xml:lang="uk">Ю́лій Це́зар  — давньоримський державний і політичний діяч, полководець, письменник. Діяльність Цезаря докорінно змінила культурний і політичний вигляд Європи та Середземномор'я і залишила визначний слід в житті наступних поколінь.</rdfs:comment>
+    <dbpprop:before xml:lang="en">office last held by himself in 47 BC</dbpprop:before>
+    <rdfs:comment xml:lang="fi">Julius Caesar oli roomalainen valtiomies, sotilas ja kirjailija. Hän valloitti Gallian Rooman valtakunnalle ja oli ensimmäinen roomalainen, joka yritti valloittaa Britannian. Caesar aloitti ja voitti kansalaissodan, jonka jälkeen hänestä tuli valtakunnan kiistaton johtaja. Caesar julistettiin elinikäiseksi diktaattoriksi. Tyytymättömät aristokraatit murhasivat Caesarin tasavallan nimissä Rooman senaatin istunnossa vuonna 44 eaa.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AncientRomanGenerals"/>
+    <dbpprop:reign xml:lang="en">October 49 BC –</dbpprop:reign>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Correspondents_of_Cicero"/>
+    <dbpedia-owl:parent rdf:resource="http://dbpedia.org/resource/Gaius_Julius_Caesar_(proconsul)"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">63</dbpprop:years>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">44</dbpprop:years>
+    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Mark_Antony"/>
+    <dbpprop:royalHouse rdf:resource="http://dbpedia.org/resource/Julio-Claudian_dynasty"/>
+    <dbpprop:after xml:lang="en">none</dbpprop:after>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.vroma.org/~bmcmanus/caesar.html"/>
+    <rdfs:label xml:lang="ca">Juli Cèsar</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CorrespondentsOfCicero"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RepuBlicanHoldersOfTheRoleOfPontifexMaximus"/>
+    <dbpprop:name xml:lang="en">Gaius Julius Caesar</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Assassinated_heads_of_state"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">49</dbpprop:years>
+    <dbpprop:caption xml:lang="en">The "Tusculum portrait", possibly the only surviving bust of Caesar made during his lifetime</dbpprop:caption>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1st-century_BC_clergy"/>
+    <dbpprop:consort xml:lang="en">Cornelia Cinna minor 84 – 69 BC</dbpprop:consort>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AssassinatedRomanPoliticians"/>
+    <dbpedia-owl:abstract xml:lang="pl">Gaius Iulius Caesar, Gajusz Juliusz Cezar, ur. 12 lipca 100 p.n.e. (13 lipca 102 r. p.n.e. – koncepcja Mommsena i Diona) w Rzymie, zm. 15 marca 44 p.n.e. w Rzymie – rzymski polityk, wódz, dyktator i pisarz. Jeden z członków stronnictwa popularów, spowinowacony z Cynną i Mariuszem. Po ich śmierci piastował kolejno urzędy kwestora, edyla, pretora, konsula i dyktatora. Sławę zdobył dzięki namiestnictwu w Galii i dzięki pomocy swych żołnierzy udało się mu pokonać opozycję, skupioną wokół senatu i Pompejusza – tzw. optymatów, aby następnie, po wieloletnich walkach, przejąć pełnię władzy w Rzymie. Zamordowany w idy marcowe przez senatorów pod przywództwem Marka Brutusa oraz Gajusza Kasjusza. Przed śmiercią adoptował Oktawiana Augusta (wtedy jeszcze Gajusza Oktawiusza), wyznaczając go na swego spadkobiercę.</dbpedia-owl:abstract>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Julius_Caesar?oldid=494942533"/>
+    <dbpprop:after xml:lang="en">office next held by himself in 46 BC</dbpprop:after>
+    <dbpedia-owl:abstract xml:lang="hu">Caius Iulius Caesar római hadvezér és politikus. Fontos szerepet játszott a köztársaság felszámolásában és a császárság intézményének létrehozásában. Elfoglalta Galliát, és elsőként vezetett hadjáratot Britanniába – mindkettőt saját kezdeményezésre. Minden idők egyik legnagyobb hadvezére (stratégája) volt és nagyszerű politikus is (mindkettő alatt leginkább az értendő, hogy kitűnően tudott bánni az emberekkel). Jelentősége az ókor történetében Nagy Sándoréval vetekedik. Kiépülő egyeduralma a királyságot (egyszemélyi uralmat) átoknak tekintő Rómában hamar komoly ellenérzésekkel találkozott. Polgárháború bontakozott ki ellene, amit megnyert, és az így létrejött birodalom vitathatatlan urává lett. Mélyreható reformokba kezdett. Élethossziglani diktátorrá nyilvánította magát és erőteljesen központosította a köztársaság kései éveiben szétzilálódott közigazgatási rendszert. Mondhatni, mindent sikerült megnyernie, csak polgártársait nem: Róma nem tolerálta őt. Az egyre hangosabb zúgolódást és a diktatúrát látva Marcus Brutus és több szenátor összeesküdött és meggyilkolták Caesart, abban a reményben, hogy sikerül megmenteniük a köztársaságot. A merénylet után azonban polgárháború tört ki Caesar hívei és a köztársaságiak között. „ ... törékeny alkatú férfi volt, bőre sima és fehér; gyakran fejfájás és epileptikus rohamok gyötörték. (... ) Gyenge egészségi állapotát nemhogy ürügyül használta volna a kényelmes, elpuhult életre, hanem ellenkezőleg, a hadviselést tekintette a legkitűnőbb gyógymódnak. ”</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="ca">Gai Juli Cèsar, (en llatí Gaius Iulius Caesar) més conegut com a Juli Cèsar va ser un general i polític romà que va crear els fonaments del futur sistema imperial romà al final de la República. Va vestir la toga, la corona i el ceptre d'un general triomfant i va utilitzar el títol d'imperator. Va ser cap de la religió de l'estat, però sobretot tenia el comandament de tots els exèrcits, la qual cosa li proporcionava el control del poder.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Monarch"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-15</dbpedia-owl:deathDate>
+    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Publius_Vatinius"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.livius.org/caa-can/caesar/caesar00.html"/>
+    <dbpprop:name xml:lang="en">Julius Caesar</dbpprop:name>
+    <rdfs:comment xml:lang="fr">Jules César est un général, homme politique et écrivain romain, né à Rome le 12 ou le 13 juillet 100 av. J. -C. et mort le 15 mars 44 av. J. -C..</rdfs:comment>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpprop:after xml:lang="en">Gaius Julius Caesar and</dbpprop:after>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Roman_Republic"/>
   </rdf:Description>
 </rdf:RDF>

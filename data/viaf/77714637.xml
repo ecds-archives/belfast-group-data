@@ -9,64 +9,64 @@
    xmlns:void="http://rdfs.org/ns/void#"
 >
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CSeán_Mac_Réamoinn#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/77714637"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
     <skos:prefLabel>Mac Réamoinn, Seán.</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/77714637"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/77714637/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/77714637"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/77714637/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/77714637"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++84090166#skos:Concept">
+    <skos:altLabel>MacRéamoinn, Seán, 1921-2007</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n84090166"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/77714637"/>
+    <skos:prefLabel>Mac Réamoinn, Seán, 1921-2007</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2005141609#skos:Concept">
+    <skos:prefLabel>Mac Réamoinn, Seán.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>MacRéamoinn, Seán.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/77714637"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C153011173#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Mac Réamoinn, Seán, 1921-2007</skos:prefLabel>
+    <skos:altLabel>MacRéamoinn, Seán.</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/77714637"/>
     <skos:altLabel>Mac Réamoinn, Seán Séamas Criostóir</skos:altLabel>
-    <skos:altLabel>MacRéamoinn, Seán.</skos:altLabel>
-    <skos:prefLabel>Mac Réamoinn, Seán, 1921-2007</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069516472#skos:Concept">
-    <skos:prefLabel>Mac Réamoinn, Seán.</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/77714637"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/77714637/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/77714637"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/77714637">
-    <foaf:name>Mac Réamoinn, Seán.</foaf:name>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>MacRéamoinn, Seán, 1921-2007</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/153011173/id"/>
-    <foaf:name>Mac Réamoinn, Seán, 1921-2007</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Seán_Mac_Réamoinn"/>
-    <foaf:name>MacRéamoinn, Seán.</foaf:name>
-    <foaf:name>Mac Réamoinn, Seán Séamas Criostóir</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
     <rdaGr2:dateOfBirth>1921-11-27</rdaGr2:dateOfBirth>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Mac Réamoinn, Seán.</foaf:name>
+    <foaf:name>Mac Réamoinn, Seán Séamas Criostóir</foaf:name>
+    <foaf:name>Mac Réamoinn, Seán, 1921-2007</foaf:name>
+    <foaf:name>MacRéamoinn, Seán.</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/153011173/id"/>
     <rdaGr2:dateOfDeath>2007-01-17</rdaGr2:dateOfDeath>
+    <foaf:name>MacRéamoinn, Seán, 1921-2007</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Seán_Mac_Réamoinn"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/77714637/#foaf:Person">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/77714637"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/77714637/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/77714637"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++84090166#skos:Concept">
-    <skos:prefLabel>Mac Réamoinn, Seán, 1921-2007</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n84090166"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/77714637"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:altLabel>MacRéamoinn, Seán, 1921-2007</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069516472#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2005141609#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/77714637"/>
-    <skos:altLabel>MacRéamoinn, Seán.</skos:altLabel>
     <skos:prefLabel>Mac Réamoinn, Seán.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/77714637"/>
   </rdf:Description>
 </rdf:RDF>

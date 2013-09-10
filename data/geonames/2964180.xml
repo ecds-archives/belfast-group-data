@@ -9,58 +9,58 @@
    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
 >
   <rdf:Description rdf:about="http://sws.geonames.org/2964180/about.rdf">
-    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
-    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
     <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-02-28</dcterms:modified>
     <cc:attributionURL rdf:resource="http://sws.geonames.org/2964180/"/>
-    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2964180/"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2964180/"/>
     <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2964180/">
-    <wgs84_pos:lat>53.27194</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:alternateName xml:lang="da">Galway</gn:alternateName>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2964179/"/>
+    <gn:alternateName xml:lang="pt">Galway</gn:alternateName>
+    <gn:alternateName xml:lang="tr">Galway</gn:alternateName>
+    <gn:alternateName xml:lang="nl">Galway</gn:alternateName>
+    <gn:alternateName xml:lang="br">Gaillimh</gn:alternateName>
     <gn:alternateName xml:lang="cs">Galway</gn:alternateName>
+    <gn:alternateName xml:lang="fr">Galway</gn:alternateName>
+    <gn:alternateName xml:lang="de">Galway</gn:alternateName>
+    <gn:alternateName xml:lang="lv">Golveja</gn:alternateName>
     <gn:alternateName xml:lang="es">Galway</gn:alternateName>
+    <gn:alternateName xml:lang="eu">Galway</gn:alternateName>
+    <gn:officialName xml:lang="en">Galway</gn:officialName>
+    <wgs84_pos:long>-9.04889</wgs84_pos:long>
+    <gn:alternateName xml:lang="id">Galway</gn:alternateName>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Galway"/>
+    <gn:alternateName xml:lang="ca">Galway</gn:alternateName>
+    <gn:alternateName xml:lang="fi">Galway</gn:alternateName>
     <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLA"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2964180/gaillimh.html"/>
     <gn:officialName xml:lang="ga">Gaillimh</gn:officialName>
     <gn:population>70686</gn:population>
-    <wgs84_pos:long>-9.04889</wgs84_pos:long>
-    <gn:parentFeature rdf:resource="http://sws.geonames.org/2964179/"/>
-    <gn:alternateName xml:lang="lt">Golvėjus</gn:alternateName>
-    <gn:alternateName xml:lang="pl">Galway</gn:alternateName>
+    <gn:countryCode>IE</gn:countryCode>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2964180/about.rdf"/>
+    <gn:alternateName xml:lang="gl">Galway - Gaillimh</gn:alternateName>
+    <gn:alternateName xml:lang="ja">ゴールウェイ</gn:alternateName>
     <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
-    <gn:alternateName xml:lang="br">Gaillimh</gn:alternateName>
-    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2964180/nearby.rdf"/>
-    <gn:alternateName xml:lang="eu">Galway</gn:alternateName>
-    <gn:alternateName xml:lang="lv">Golveja</gn:alternateName>
-    <gn:wikipediaArticle rdf:resource="http://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%83%D1%8D%D0%B9"/>
-    <gn:alternateName xml:lang="id">Galway</gn:alternateName>
-    <gn:alternateName xml:lang="de">Galway</gn:alternateName>
+    <gn:alternateName xml:lang="lt">Golvėjus</gn:alternateName>
+    <gn:alternateName xml:lang="sv">Galway</gn:alternateName>
+    <gn:alternateName xml:lang="ru">Голуэй</gn:alternateName>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2964179/"/>
+    <gn:name>Galway</gn:name>
     <gn:alternateName xml:lang="bg">Голуей</gn:alternateName>
     <gn:alternateName xml:lang="it">Galway</gn:alternateName>
-    <gn:alternateName xml:lang="tr">Galway</gn:alternateName>
-    <gn:countryCode>IE</gn:countryCode>
-    <gn:officialName xml:lang="en">Galway</gn:officialName>
-    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2964180/about.rdf"/>
-    <gn:name>Galway</gn:name>
+    <gn:wikipediaArticle rdf:resource="http://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%83%D1%8D%D0%B9"/>
     <gn:alternateName xml:lang="no">Galway</gn:alternateName>
-    <gn:alternateName xml:lang="gl">Galway - Gaillimh</gn:alternateName>
-    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521313/"/>
-    <gn:alternateName xml:lang="en">Galway city</gn:alternateName>
-    <gn:alternateName xml:lang="sv">Galway</gn:alternateName>
-    <gn:alternateName xml:lang="pt">Galway</gn:alternateName>
-    <gn:alternateName xml:lang="fi">Galway</gn:alternateName>
-    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Galway"/>
-    <gn:locationMap rdf:resource="http://www.geonames.org/2964180/gaillimh.html"/>
-    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
-    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
-    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2964179/"/>
-    <gn:alternateName xml:lang="fr">Galway</gn:alternateName>
-    <gn:alternateName xml:lang="ru">Голуэй</gn:alternateName>
-    <gn:alternateName xml:lang="nl">Galway</gn:alternateName>
-    <gn:alternateName xml:lang="ja">ゴールウェイ</gn:alternateName>
-    <gn:alternateName xml:lang="ca">Galway</gn:alternateName>
     <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Galway"/>
-    <gn:alternateName xml:lang="da">Galway</gn:alternateName>
+    <gn:alternateName xml:lang="en">Galway city</gn:alternateName>
+    <wgs84_pos:lat>53.27194</wgs84_pos:lat>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521313/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2964180/nearby.rdf"/>
+    <gn:alternateName xml:lang="pl">Galway</gn:alternateName>
   </rdf:Description>
 </rdf:RDF>

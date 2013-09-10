@@ -4,26 +4,26 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1b/">
-    <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004; Subseries 3.1b: Collected poetry, 1970-1995</schema:name>
-    <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
-    <schema:mentions rdf:nodeID="N18f87644c973483d908d5ebca8c1f2e2"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/121698436">
     <schema:name xml:lang="en">Tom
                                         McGurk</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">McGurk's</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N18f87644c973483d908d5ebca8c1f2e2">
-    <dc:title xml:lang="en">First
-                                        Born</dc:title>
-    <schema:mentions rdf:nodeID="N68c4d1c43db84f1693e35d15d0b75cee"/>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series3/subseries3.1/subseries3.1b/">
+    <schema:mentions rdf:nodeID="N7da9de17e8f345cebe09aedca7c62436"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004; Subseries 3.1b: Collected poetry, 1970-1995</schema:name>
+    <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7da9de17e8f345cebe09aedca7c62436">
     <schema:mentions rdf:resource="http://viaf.org/viaf/121698436"/>
     <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">First
+                                        Born</dc:title>
+    <schema:mentions rdf:nodeID="Nf496d3ac6df149d18363dc2cff2ab6c3"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N68c4d1c43db84f1693e35d15d0b75cee">
+  <rdf:Description rdf:nodeID="Nf496d3ac6df149d18363dc2cff2ab6c3">
     <rdf:type rdf:resource="http://schema.org/Organization"/>
     <schema:name xml:lang="en">Botanic
                                         Printers</schema:name>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100912074/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/100912074"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11918492#skos:Concept">
+    <skos:altLabel>Palmer, Michael Stephen 1942-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100912074"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11918492k"/>
+    <skos:prefLabel>Palmer, Michael, 1942-</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11918492k"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00452062#skos:Concept">
+    <skos:altLabel>パーマー, マイケル</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>パーマー, マイクル</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100912074"/>
+    <skos:prefLabel>Palmer, Michael, 1942-</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CMichael_Palmer_(novelist)#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Palmer, Michael (Novelist)</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100912074"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C119103648#skos:Concept">
+    <skos:prefLabel>Palmer, Michael, 1942-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100912074"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Palmer, Michael Stephen 1942-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca10378820#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100912074"/>
+    <skos:prefLabel>Palmer, Michael, 1942-</skos:prefLabel>
+    <skos:altLabel>Palmer, Michael S.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Palmer, Michael Stephen.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100912074">
+    <foaf:name>Palmers, Maikls, 1943-</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Michael_Palmer_(novelist)"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119103648"/>
+    <foaf:name>Palmer, Michael Stephen.</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/153663367/id"/>
+    <foaf:name>Palmer, Michael Stephen 1942-</foaf:name>
+    <foaf:name>パーマー, マイクル</foaf:name>
+    <foaf:name>Palmer, Michael S.</foaf:name>
+    <foaf:name>パーマー, マイケル</foaf:name>
+    <foaf:name>Palmer, Michael</foaf:name>
+    <foaf:name>Palmer, Michael, 1942-</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11918492k#foaf:Person"/>
+    <rdaGr2:dateOfBirth>1942-10-09</rdaGr2:dateOfBirth>
+    <foaf:name>Palmer, Michael (Novelist)</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Palmer, Michael, 1943-</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000028711#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Palmer, Michael, 1943-</skos:prefLabel>
+    <skos:altLabel>Palmers, Maikls, 1943-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100912074"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1030281#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100912074"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Palmer, Michael</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C153663367#skos:Concept">
+    <skos:prefLabel>Palmer, Michael</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100912074"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cskuk0004441#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100912074"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:prefLabel>Palmer, Michael, 1942-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50050272#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Palmer, Michael, 1943-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50050272"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100912074"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100912074/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100912074"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100912074/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/100912074"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035752751#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:prefLabel>Palmer, Michael, 1942-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100912074"/>
+  </rdf:Description>
+</rdf:RDF>

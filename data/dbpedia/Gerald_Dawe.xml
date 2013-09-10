@@ -10,46 +10,37 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Dawe">
-    <foaf:givenName xml:lang="en">Gerald</foaf:givenName>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleAssociatedWithTrinityCollege,DuBlin"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0ckfv8"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Gerald_Dawe"/>
-    <dbpprop:name xml:lang="en">Dawe, Gerald</dbpprop:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Gerald_Dawe?oldid=492995900"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Ulster"/>
-    <rdfs:comment xml:lang="en">Gerald Dawe (born 1952) is a Northern Irish writer and poet.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="en">Gerald Dawe (born 1952) is a Northern Irish writer and poet.</dbpedia-owl:abstract>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poets_from_Northern_Ireland"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PoetsFromNorthernIreland"/>
-    <foaf:name xml:lang="en">Gerald Dawe</foaf:name>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gerald-dawe.net/"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleAssociatedWithTheNationalUniversityOfIreland,Galway"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Dublin"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryireland.ie/chair/poet/"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belfast"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1952_births"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyDuBlin"/>
-    <rdfs:label xml:lang="en">Gerald Dawe</rdfs:label>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_National_University_of_Ireland,_Galway"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTheUniversityOfUlster"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1952</dbpprop:dateOfBirth>
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Gerald_Dawe"/>
-    <foaf:surname xml:lang="en">Dawe</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleAssociatedWithTheNationalUniversityOfIreland,Galway"/>
+    <foaf:name xml:lang="en">Gerald Dawe</foaf:name>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0ckfv8"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Gerald_Dawe?oldid=492995900"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleAssociatedWithTrinityCollege,DuBlin"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Ulster"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_Trinity_College,_Dublin"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PoetsFromNorthernIreland"/>
+    <foaf:givenName xml:lang="en">Gerald</foaf:givenName>
+    <dbpedia-owl:abstract xml:lang="en">Gerald Dawe (born 1952) is a Northern Irish writer and poet.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyDuBlin"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Gerald_Dawe"/>
+    <rdfs:comment xml:lang="en">Gerald Dawe (born 1952) is a Northern Irish writer and poet.</rdfs:comment>
     <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Gerald_Dawe">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gerald_Dawe"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Gerald_Dawe">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Gerald_Dawe"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dawe">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Gerald_Dawe"/>
+    <dbpprop:name xml:lang="en">Dawe, Gerald</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <foaf:surname xml:lang="en">Dawe</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Dublin"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1952</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1952_births"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryireland.ie/chair/poet/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belfast"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gerald-dawe.net/"/>
+    <rdfs:label xml:lang="en">Gerald Dawe</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

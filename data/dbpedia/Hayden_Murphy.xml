@@ -9,29 +9,23 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Hayden_Murphy">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Hayden_Murphy"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hayden_Murphy">
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hayden_Murphy"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04lf4qp"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
     <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Hayden_Murphy?oldid=481545049"/>
+    <foaf:name xml:lang="en">Hayden Murphy</foaf:name>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Hayden_Murphy"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <foaf:surname xml:lang="en">Murphy</foaf:surname>
     <dbpedia-owl:abstract xml:lang="en">Hayden Murphy (1945-) is an Irish editor and poet. Born in Dublin, and brought up there and in Limerick, he was educated at Blackrock College and Trinity College, Dublin. During 1967-78 he edited, published, and personally distributed Broadsheet, which contained poetry and graphics.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dbpprop:name xml:lang="en">Murphy, Hayden</dbpprop:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nls.uk/catalogues/online/cnmi/inventories/acc8845.pdf"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pgil-eirdata.org/html/pgil_datasets/authors/m/Murphy,H/life.htm"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04lf4qp"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hayden_Murphy"/>
     <foaf:givenName xml:lang="en">Hayden</foaf:givenName>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
-    <foaf:name xml:lang="en">Hayden Murphy</foaf:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dbpprop:name xml:lang="en">Murphy, Hayden</dbpprop:name>
     <rdfs:comment xml:lang="en">Hayden Murphy (1945-) is an Irish editor and poet. Born in Dublin, and brought up there and in Limerick, he was educated at Blackrock College and Trinity College, Dublin. During 1967-78 he edited, published, and personally distributed Broadsheet, which contained poetry and graphics.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pgil-eirdata.org/html/pgil_datasets/authors/m/Murphy,H/life.htm"/>
-    <foaf:surname xml:lang="en">Murphy</foaf:surname>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nls.uk/catalogues/online/cnmi/inventories/acc8845.pdf"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Hayden_Murphy"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Hayden_Murphy">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hayden_Murphy"/>
   </rdf:Description>
 </rdf:RDF>

@@ -8,70 +8,72 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CRoy_McFadden#skos:Concept">
-    <skos:prefLabel>McFadden, Roy</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/75271352"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035340232#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>McFadden, Roy, 1921-</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:prefLabel>McFadden, Roy, 1921-</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/75271352"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C077018648#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>McFadden, Roy, 1921-1999</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/75271352"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/75271352/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/75271352"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/75271352/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/75271352"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C17224420X#skos:Concept">
-    <skos:altLabel>McFadden, Roy 1921-1999</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/75271352"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CRoy_McFadden#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>MacFadden, Roy 1921-1999</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/75271352/">
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/75271352"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072689714#skos:Concept">
-    <skos:prefLabel>MacFadden, Roy, 1921-</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>McFadden, Roy</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/75271352"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/75271352">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>McFadden, Roy, 1921-</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Roy_McFadden"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/077018648/id"/>
-    <foaf:name>McFadden, Roy, 1921-1999</foaf:name>
-    <rdaGr2:dateOfBirth>1921</rdaGr2:dateOfBirth>
     <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>McFadden, Roy 1921-1999</foaf:name>
-    <foaf:name>MacFadden, Roy, 1921-</foaf:name>
-    <foaf:name>McFadden, Roy</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/237259234"/>
+    <foaf:name>McFadden, Roy, 1921-1999</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/077018648/id"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Roy_McFadden"/>
     <owl:sameAs rdf:resource="http://d-nb.info/gnd/17224420X"/>
-    <rdaGr2:dateOfDeath>1999</rdaGr2:dateOfDeath>
+    <foaf:name>MacFadden, Roy, 1921-</foaf:name>
+    <rdaGr2:dateOfBirth>1921</rdaGr2:dateOfBirth>
+    <foaf:name>McFadden, Roy 1921-1999</foaf:name>
+    <foaf:name>McFadden, Roy, 1921-</foaf:name>
+    <foaf:name>McFadden, Roy</foaf:name>
     <foaf:name>MacFadden, Roy 1921-1999</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/237259234"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdaGr2:dateOfDeath>1999</rdaGr2:dateOfDeath>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C077018648#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:prefLabel>McFadden, Roy, 1921-1999</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++85006231#skos:Concept">
+    <skos:prefLabel>McFadden, Roy</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n85006231"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/75271352"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C17224420X#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>MacFadden, Roy 1921-1999</skos:prefLabel>
+    <skos:altLabel>McFadden, Roy 1921-1999</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/75271352"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072689714#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/75271352"/>
+    <skos:prefLabel>MacFadden, Roy, 1921-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/75271352/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/75271352"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/75271352"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++85006231#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>McFadden, Roy</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n85006231"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/75271352"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
   </rdf:Description>
 </rdf:RDF>

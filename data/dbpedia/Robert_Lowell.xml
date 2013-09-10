@@ -10,30 +10,120 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sylvia_Plath">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Traill_Spence_Lowell_IV">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Walcott">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Berryman">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Lowell">
-    <rdfs:comment xml:lang="pl">Robert Traill Spence Lowell, Jr. – amerykański poeta z kręgu poetów konfesyjnych, był nauczycielem i inspiracją dla wielu znaczących twórców literatury lat 50. i lat 60. XX wieku, np. Anne Sexton i Sylvii Plath. W 1947 i 1974 roku został laureatem Nagrody Pulitzera w dziedzinie poezji, a w 1960 laureatem National Book Award w tej samej dziedzinie.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Elizabeth_Hardwick_(writer)"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:National_Book_Award_winners"/>
-    <dbpedia-owl:abstract xml:lang="en">Robert Traill Spence Lowell IV (March 1, 1917 – September 12, 1977) was an American poet, considered to be one of the founders of the confessional poetry movement. He was appointed the sixth Poet Laureate Consultant in Poetry to the Library of Congress where he served from 1947 until 1948. He won the Pulitzer Prize in both 1947 and 1974, the National Book Award in 1960, and the National Book Critics Circle Award in 1977.</dbpedia-owl:abstract>
+    <dbpprop:notableworks xml:lang="en">Lord Weary's Castle, Life Studies, For the Union Dead</dbpprop:notableworks>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/St.Mark'sSchoolAlumni"/>
+    <dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1944-01-01T00:00:00+02:00</dbpedia-owl:activeYearsStartYear>
+    <rdfs:comment xml:lang="fi">Robert Traill Spence Lowell oli yhdysvaltalainen runoilija. Hän käsitteli ensin katolisia aiheita, mutta siirtyi myöhemmässä runoudessaan yhteiskunnallisten ja eettisten ongelmien pohdintaan. Hänen runonsa ovat usein tilityksiksi luonnehdittavia. Häntä pidetään yhtenä 1900-luvun merkittävimmistä yhdysvaltalaisista runoilijoista.</rdfs:comment>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/For_the_Union_Dead"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpprop:relatives rdf:resource="http://dbpedia.org/resource/James_Russell_Lowell"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Elizabeth_Hardwick_(writer)"/>
+    <rdfs:comment xml:lang="en">Robert Traill Spence Lowell IV (March 1, 1917 – September 12, 1977) was an American poet, considered to be one of the founders of the confessional poetry movement. He was appointed the sixth Poet Laureate Consultant in Poetry to the Library of Congress where he served from 1947 until 1948. He won the Pulitzer Prize in both 1947 and 1974, the National Book Award in 1960, and the National Book Critics Circle Award in 1977.</rdfs:comment>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1917-03-01</dbpprop:birthDate>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Boston"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1977-09-12</dbpprop:dateOfDeath>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Massachusetts"/>
+    <rdfs:comment xml:lang="de">Robert Traill Spence Lowell war ein US-amerikanischer Dichter.</rdfs:comment>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Frederick_Seidel"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/American_poetry"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Boston"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Pulitzer_Prize_for_Poetry_winners"/>
+    <dbpedia-owl:birthName xml:lang="en">Robert Traill Spence Lowell IV</dbpedia-owl:birthName>
+    <dbpedia-owl:abstract xml:lang="fi">Robert Traill Spence Lowell oli yhdysvaltalainen runoilija. Hän käsitteli ensin katolisia aiheita, mutta siirtyi myöhemmässä runoudessaan yhteiskunnallisten ja eettisten ongelmien pohdintaan. Hänen runonsa ovat usein tilityksiksi luonnehdittavia. Häntä pidetään yhtenä 1900-luvun merkittävimmistä yhdysvaltalaisista runoilijoista.</dbpedia-owl:abstract>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Massachusetts"/>
+    <dbpprop:name xml:lang="en">Lowell, Robert</dbpprop:name>
+    <dbpprop:alternativeNames xml:lang="en">Lowell, Robert Traill Spence, IV</dbpprop:alternativeNames>
+    <dbpprop:relatives rdf:resource="http://dbpedia.org/resource/Amy_Lowell"/>
+    <dbpprop:nationality xml:lang="en">United States</dbpprop:nationality>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Hart_Crane"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">11878062X</dbpedia-owl:individualisedPnd>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Quote_box"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FormalistPoets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_myocardial_infarction"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Anne_Sexton"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Robert_Lowell"/>
+    <rdfs:comment xml:lang="it"></rdfs:comment>
+    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/American_poetry"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Robert_Lowell"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://media.nybooks.com/110308-vendler.mp3"/>
+    <dbpprop:bgcolor xml:lang="en">#FFFFF0</dbpprop:bgcolor>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01y55q"/>
+    <dbpedia-owl:abstract xml:lang="pt">Robert Traill Spence Lowell IV foi um poeta norte-americano, considerado o fundador da poesia confessional.</dbpedia-owl:abstract>
+    <dc:description xml:lang="en">Poet</dc:description>
+    <dbpprop:align xml:lang="en">right</dbpprop:align>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Sylvia_Plath"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Hart_Crane"/>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Life_Studies"/>
+    <dbpedia-owl:abstract xml:lang="es">Robert Lowell fue un poeta estadounidense.</dbpedia-owl:abstract>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/e/e2/Rlowell.jpg"/>
+    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
+    <dbpedia-owl:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/John_Crowe_Ransom"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanConscientiousObjectors"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Robert_Lowell"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Carlos_Williams"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Iowa_Writers'_Workshop_faculty"/>
+    <dbpprop:period rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1944</dbpprop:period>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Derek_Walcott"/>
+    <dbpprop:deathPlace xml:lang="en">New York City, United States</dbpprop:deathPlace>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Robert_Lowell"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Carlos_Williams"/>
     <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/New_York"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Anne_Sexton"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/John_Crowe_Ransom"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1917_births"/>
+    <dbpprop:source xml:lang="en">Near the Ocean</dbpprop:source>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Frederick_Seidel"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HarvardUniversityAlumni"/>
+    <dbpprop:birthName xml:lang="en">Robert Traill Spence Lowell IV</dbpprop:birthName>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Robert_Lowell"/>
+    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Elizabeth_Hardwick_(writer)"/>
+    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Lady_Caroline_Blackwood"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1977_deaths"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Allen_Tate"/>
+    <foaf:name xml:lang="en">Robert Lowell</foaf:name>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:National_Book_Award_winners"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Obie_Award_recipients"/>
+    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Lord_Weary's_Castle"/>
+    <foaf:surname xml:lang="en">Lowell</foaf:surname>
     <dbpprop:birthPlace xml:lang="en">Boston, Massachusetts, United States</dbpprop:birthPlace>
+    <rdfs:label xml:lang="de">Robert Lowell</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_Boston,_Massachusetts"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Robert_Lowell"/>
+    <dbpedia-owl:relative rdf:resource="http://dbpedia.org/resource/James_Russell_Lowell"/>
+    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Jean_Stafford"/>
+    <dbpprop:name xml:lang="en">Robert Lowell</dbpprop:name>
+    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Confessional_poetry"/>
+    <dbpedia-owl:relative rdf:resource="http://dbpedia.org/resource/Amy_Lowell"/>
+    <dbpedia-owl:abstract xml:lang="pl">Robert Traill Spence Lowell, Jr. – amerykański poeta z kręgu poetów konfesyjnych, był nauczycielem i inspiracją dla wielu znaczących twórców literatury lat 50. i lat 60. XX wieku, np. Anne Sexton i Sylvii Plath. W 1947 i 1974 roku został laureatem Nagrody Pulitzera w dziedzinie poezji, a w 1960 laureatem National Book Award w tej samej dziedzinie.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Converts_to_Roman_Catholicism"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:St._Mark's_School_(Massachusetts)_alumni"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdfs:comment xml:lang="pl">Robert Traill Spence Lowell, Jr. – amerykański poeta z kręgu poetów konfesyjnych, był nauczycielem i inspiracją dla wielu znaczących twórców literatury lat 50. i lat 60. XX wieku, np. Anne Sexton i Sylvii Plath. W 1947 i 1974 roku został laureatem Nagrody Pulitzera w dziedzinie poezji, a w 1960 laureatem National Book Award w tej samej dziedzinie.</rdfs:comment>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1977-09-12</dbpedia-owl:deathDate>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1917-03-01</dbpedia-owl:birthDate>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_Poets_Laureate"/>
+    <dbpedia-owl:abstract xml:lang="de">Robert Traill Spence Lowell war ein US-amerikanischer Dichter.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.newyorker.com/arts/critics/books/2008/11/03/081103crbo_books_chiasson"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.english.uiuc.edu/maps/poets/g_l/lowell/lowell.htm"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Robert_Lowell"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Robert_Lowell"/>
+    <dbpprop:source xml:lang="en">From "Waking Early Sunday Morning,"</dbpprop:source>
     <dbpprop:quote xml:lang="en">Pity the planet, all joy gone
 from this sweet volcanic cone;
 peace to our children when they fall
@@ -42,260 +132,60 @@ war—until the end of time
 to police the earth, a ghost
 orbiting forever lost
 in our monotonous sublime.</dbpprop:quote>
-    <foaf:surname xml:lang="en">Lowell</foaf:surname>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.berfrois.com/"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Derek_Walcott"/>
-    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/American_poetry"/>
-    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/American_poetry"/>
-    <dbpprop:relatives rdf:resource="http://dbpedia.org/resource/Amy_Lowell"/>
-    <rdfs:label xml:lang="en">Robert Lowell</rdfs:label>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_Poets_Laureate"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:St._Mark's_School_(Massachusetts)_alumni"/>
-    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Lord_Weary's_Castle"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Anne_Sexton"/>
-    <owl:sameAs rdf:resource="http://zitgist.com/music/artist/b078899a-593a-4a11-b4f0-017dcbe2c3a5"/>
-    <rdfs:comment xml:lang="de">Robert Traill Spence Lowell war ein US-amerikanischer Dichter.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:National_Book_Critics_Circle_Award_winning_works"/>
-    <dbpprop:source xml:lang="en">From "Waking Early Sunday Morning,"</dbpprop:source>
-    <dbpprop:deathPlace xml:lang="en">New York City, United States</dbpprop:deathPlace>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/John_Crowe_Ransom"/>
-    <dbpedia-owl:individualisedPnd xml:lang="de">11878062X</dbpedia-owl:individualisedPnd>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1977-09-12</dbpprop:deathDate>
-    <dbpedia-owl:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1977-01-01T00:00:00+02:00</dbpedia-owl:activeYearsEndYear>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dbpedia-owl:abstract xml:lang="de">Robert Traill Spence Lowell war ein US-amerikanischer Dichter.</dbpedia-owl:abstract>
-    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
-    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Life_Studies"/>
-    <dbpprop:name xml:lang="en">Robert Lowell</dbpprop:name>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Carlos_Williams"/>
-    <dbpedia-owl:abstract xml:lang="es">Robert Lowell fue un poeta estadounidense.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1977_deaths"/>
-    <dbpprop:children xml:lang="en">Harriet Lowell, Sheridan Lowell</dbpprop:children>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Elizabeth_Bishop"/>
-    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ρόμπερτ_Λόουελλ"/>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Robert_Lowell"/>
-    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Elizabeth_Hardwick_(writer)"/>
-    <rdfs:comment xml:lang="ru">Роберт Лоуэлл — американский поэт, драматург и литературный критик, представитель исповедального направления в поэзии. «Быть может, самый значительный из американских поэтов второй половины двадцатого века», как охарактеризовала его Американская Академия поэтов, подводя итоги XX века. Оказал большое влияние на англоязычную культуру. В 1947 удостоен звания Поэта-лауреата США.</rdfs:comment>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1917-03-01</dbpedia-owl:birthDate>
     <dbpedia-owl:abstract xml:lang="fr">Robert Lowell, né le 1 mars 1917 et décédé le 12 septembre 1977, de son vrai nom Robert Traill Spence Lowell, Jr. , est un poète américain qui appartient au courant du confessionnalisme. Considéré comme le père de ce mouvement, il est également célèbre pour avoir enseigné et inspiré des figures majeures de la littérature américaine des années 1950 et 1960, telles Anne Sexton et Sylvia Plath.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Лоуэлл,_Роберт"/>
-    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Lady_Caroline_Blackwood"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Converts_to_Roman_Catholicism"/>
-    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Confessional_poetry"/>
-    <rdfs:comment xml:lang="it"></rdfs:comment>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/United_States"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Harvard_University_alumni"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryfoundation.org/archive/poem.html?id=177164"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Elizabeth_Bishop"/>
+    <dbpedia-owl:abstract xml:lang="en">Robert Traill Spence Lowell IV (March 1, 1917 – September 12, 1977) was an American poet, considered to be one of the founders of the confessional poetry movement. He was appointed the sixth Poet Laureate Consultant in Poetry to the Library of Congress where he served from 1947 until 1948. He won the Pulitzer Prize in both 1947 and 1974, the National Book Award in 1960, and the National Book Critics Circle Award in 1977.</dbpedia-owl:abstract>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Elizabeth_Bishop"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Formalist_poets"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rlowell.jpg/200px-Rlowell.jpg"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=5855"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpprop:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">200</dbpprop:imagesize>
+    <dbpprop:children xml:lang="en">Harriet Lowell, Sheridan Lowell</dbpprop:children>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">300</dbpprop:width>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Sylvia_Plath"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Лоуэлл,_Роберт"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Kenyon_College_alumni"/>
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Poet"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Anne_Sexton"/>
+    <rdfs:comment xml:lang="fr">Robert Lowell, né le 1 mars 1917 et décédé le 12 septembre 1977, de son vrai nom Robert Traill Spence Lowell, Jr. , est un poète américain qui appartient au courant du confessionnalisme. Considéré comme le père de ce mouvement, il est également célèbre pour avoir enseigné et inspiré des figures majeures de la littérature américaine des années 1950 et 1960, telles Anne Sexton et Sylvia Plath.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/KenyonCollegeAlumni"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:National_Book_Critics_Circle_Award_winning_works"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Iowa_faculty"/>
+    <rdfs:label xml:lang="en">Robert Lowell</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.berfrois.com/2012/02/thomas-travisano-on-robert-lowell/"/>
     <foaf:givenName xml:lang="en">Robert</foaf:givenName>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.newyorker.com/arts/critics/books/2008/11/03/081103crbo_books_chiasson"/>
+    <dbpprop:occupation rdf:resource="http://dbpedia.org/resource/Poet"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_conscientious_objectors"/>
+    <rdfs:comment xml:lang="ru">Роберт Лоуэлл — американский поэт, драматург и литературный критик, представитель исповедального направления в поэзии. «Быть может, самый значительный из американских поэтов второй половины двадцатого века», как охарактеризовала его Американская Академия поэтов, подводя итоги XX века. Оказал большое влияние на англоязычную культуру. В 1947 удостоен звания Поэта-лауреата США.</rdfs:comment>
     <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Robert_Lowell?oldid=491532381"/>
     <rdfs:comment xml:lang="es">Robert Lowell fue un poeta estadounidense.</rdfs:comment>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Massachusetts"/>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1977-09-12</dbpedia-owl:deathDate>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Frederick_Seidel"/>
-    <dbpedia-owl:relative rdf:resource="http://dbpedia.org/resource/James_Russell_Lowell"/>
-    <dbpprop:alternativeNames xml:lang="en">Lowell, Robert Traill Spence, IV</dbpprop:alternativeNames>
-    <rdfs:comment xml:lang="en">Robert Traill Spence Lowell IV (March 1, 1917 – September 12, 1977) was an American poet, considered to be one of the founders of the confessional poetry movement. He was appointed the sixth Poet Laureate Consultant in Poetry to the Library of Congress where he served from 1947 until 1948. He won the Pulitzer Prize in both 1947 and 1974, the National Book Award in 1960, and the National Book Critics Circle Award in 1977.</rdfs:comment>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdfs:comment xml:lang="fi">Robert Traill Spence Lowell oli yhdysvaltalainen runoilija. Hän käsitteli ensin katolisia aiheita, mutta siirtyi myöhemmässä runoudessaan yhteiskunnallisten ja eettisten ongelmien pohdintaan. Hänen runonsa ovat usein tilityksiksi luonnehdittavia. Häntä pidetään yhtenä 1900-luvun merkittävimmistä yhdysvaltalaisista runoilijoista.</rdfs:comment>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Boston"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01y55q"/>
-    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Lady_Caroline_Blackwood"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <dbpedia-owl:abstract xml:lang="ru">Роберт Лоуэлл — американский поэт, драматург и литературный критик, представитель исповедального направления в поэзии. «Быть может, самый значительный из американских поэтов второй половины двадцатого века», как охарактеризовала его Американская Академия поэтов, подводя итоги XX века. Оказал большое влияние на англоязычную культуру. В 1947 удостоен звания Поэта-лауреата США.</dbpedia-owl:abstract>
+    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Jean_Stafford"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <rdfs:comment xml:lang="pt">Robert Traill Spence Lowell IV foi um poeta norte-americano, considerado o fundador da poesia confessional.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.berfrois.com/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Guggenheim_Fellows"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GuggenheimFellows"/>
+    <dbpprop:quoted xml:lang="en">true</dbpprop:quoted>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Allen_Tate"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/ConvertsToRomanCatholicism"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1917-03-01</dbpprop:dateOfBirth>
+    <dbpedia-owl:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1977-01-01T00:00:00+02:00</dbpedia-owl:activeYearsEndYear>
+    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Lady_Caroline_Blackwood"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <owl:sameAs rdf:resource="http://zitgist.com/music/artist/b078899a-593a-4a11-b4f0-017dcbe2c3a5"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ρόμπερτ_Λόουελλ"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Derek_Walcott"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/United_States"/>
     <dbpprop:salign xml:lang="en">center  +
 -</dbpprop:salign>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Sylvia_Plath"/>
-    <dbpprop:source xml:lang="en">Near the Ocean</dbpprop:source>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Robert_Lowell"/>
-    <dc:description xml:lang="en">Poet</dc:description>
-    <foaf:name xml:lang="en">Robert Lowell</foaf:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_myocardial_infarction"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1977-09-12</dbpprop:deathDate>
     <dbpprop:movement rdf:resource="http://dbpedia.org/resource/Confessional_poetry"/>
-    <dbpedia-owl:abstract xml:lang="ru">Роберт Лоуэлл — американский поэт, драматург и литературный критик, представитель исповедального направления в поэзии. «Быть может, самый значительный из американских поэтов второй половины двадцатого века», как охарактеризовала его Американская Академия поэтов, подводя итоги XX века. Оказал большое влияние на англоязычную культуру. В 1947 удостоен звания Поэта-лауреата США.</dbpedia-owl:abstract>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Robert_Lowell"/>
-    <rdfs:comment xml:lang="fr">Robert Lowell, né le 1 mars 1917 et décédé le 12 septembre 1977, de son vrai nom Robert Traill Spence Lowell, Jr. , est un poète américain qui appartient au courant du confessionnalisme. Considéré comme le père de ce mouvement, il est également célèbre pour avoir enseigné et inspiré des figures majeures de la littérature américaine des années 1950 et 1960, telles Anne Sexton et Sylvia Plath.</rdfs:comment>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Frederick_Seidel"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/John_Crowe_Ransom"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Poet"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1917-03-01</dbpprop:dateOfBirth>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Hart_Crane"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Robert_Lowell"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Boston"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Formalist_poets"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.berfrois.com/2012/02/thomas-travisano-on-robert-lowell/"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Elizabeth_Bishop"/>
-    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/New_York_City"/>
-    <dbpprop:occupation rdf:resource="http://dbpedia.org/resource/Poet"/>
-    <dbpedia-owl:abstract xml:lang="pt">Robert Traill Spence Lowell IV foi um poeta norte-americano, considerado o fundador da poesia confessional.</dbpedia-owl:abstract>
-    <rdfs:label xml:lang="de">Robert Lowell</rdfs:label>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Massachusetts"/>
-    <dbpprop:nationality xml:lang="en">United States</dbpprop:nationality>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <dbpprop:quoted xml:lang="en">true</dbpprop:quoted>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Sylvia_Plath"/>
-    <dbpprop:align xml:lang="en">right</dbpprop:align>
-    <dbpedia-owl:abstract xml:lang="fi">Robert Traill Spence Lowell oli yhdysvaltalainen runoilija. Hän käsitteli ensin katolisia aiheita, mutta siirtyi myöhemmässä runoudessaan yhteiskunnallisten ja eettisten ongelmien pohdintaan. Hänen runonsa ovat usein tilityksiksi luonnehdittavia. Häntä pidetään yhtenä 1900-luvun merkittävimmistä yhdysvaltalaisista runoilijoista.</dbpedia-owl:abstract>
-    <dbpprop:relatives rdf:resource="http://dbpedia.org/resource/James_Russell_Lowell"/>
-    <rdfs:comment xml:lang="pt">Robert Traill Spence Lowell IV foi um poeta norte-americano, considerado o fundador da poesia confessional.</rdfs:comment>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Hart_Crane"/>
-    <dbpprop:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">200</dbpprop:imagesize>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Obie_Award_recipients"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_Boston,_Massachusetts"/>
-    <dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1944-01-01T00:00:00+02:00</dbpedia-owl:activeYearsStartYear>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rlowell.jpg/200px-Rlowell.jpg"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Kenyon_College_alumni"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Quote_box"/>
-    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">300</dbpprop:width>
-    <dbpprop:notableworks xml:lang="en">Lord Weary's Castle, Life Studies, For the Union Dead</dbpprop:notableworks>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_conscientious_objectors"/>
     <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwMJp3ZwpEbGdrcN5Y29ycA"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Allen_Tate"/>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Robert_Lowell"/>
-    <dbpprop:name xml:lang="en">Lowell, Robert</dbpprop:name>
-    <dbpprop:birthName xml:lang="en">Robert Traill Spence Lowell IV</dbpprop:birthName>
-    <dbpedia-owl:birthName xml:lang="en">Robert Traill Spence Lowell IV</dbpedia-owl:birthName>
-    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <dbpedia-owl:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Derek_Walcott"/>
-    <dbpedia-owl:abstract xml:lang="pl">Robert Traill Spence Lowell, Jr. – amerykański poeta z kręgu poetów konfesyjnych, był nauczycielem i inspiracją dla wielu znaczących twórców literatury lat 50. i lat 60. XX wieku, np. Anne Sexton i Sylvii Plath. W 1947 i 1974 roku został laureatem Nagrody Pulitzera w dziedzinie poezji, a w 1960 laureatem National Book Award w tej samej dziedzinie.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/KenyonCollegeAlumni"/>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Robert_Lowell"/>
-    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Jean_Stafford"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HarvardUniversityAlumni"/>
-    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/For_the_Union_Dead"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1917_births"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryfoundation.org/archive/poem.html?id=177164"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Guggenheim_Fellows"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/St.Mark'sSchoolAlumni"/>
-    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://media.nybooks.com/110308-vendler.mp3"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Allen_Tate"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Pulitzer_Prize_for_Poetry_winners"/>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/e/e2/Rlowell.jpg"/>
-    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Jean_Stafford"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Carlos_Williams"/>
-    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1917-03-01</dbpprop:birthDate>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Robert_Lowell"/>
-    <dbpprop:bgcolor xml:lang="en">#FFFFF0</dbpprop:bgcolor>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanConscientiousObjectors"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.english.uiuc.edu/maps/poets/g_l/lowell/lowell.htm"/>
-    <dbpedia-owl:relative rdf:resource="http://dbpedia.org/resource/Amy_Lowell"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GuggenheimFellows"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FormalistPoets"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Iowa_faculty"/>
-    <dbpprop:period rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1944</dbpprop:period>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Robert_Lowell"/>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1977-09-12</dbpprop:dateOfDeath>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Iowa_Writers'_Workshop_faculty"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/For_the_Union_Dead">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Spence_Traill_Lowell,_Jr.">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Lowell,_Jr.">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hart_Crane">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Old_Glory">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Mills_of_The_Kavanaughs">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Land_of_Unlikeness">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Trail_Spence_Lowell,_Jr.">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Carlos_Williams">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Delmore_Schwartz">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Weary's_Castle">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Traill_Spence_Lowell_Jr">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Traill_Spence_Lowell,_Jr.">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Bishop">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Allen_Tate">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lowell">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Robert_Lowell">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Sexton">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Allen_Ginsberg">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Lowell_Jr.">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lowell,_Robert_Traill_Spence,_Jr.">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Traill_Spence_Lowell,_Jr">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Caroline_Blackwood">
-    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Trail_Spence_Lowell">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Trail_Spence_Lowell_Jr.">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Life_Studies">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Robert_Lowell">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
   </rdf:Description>
 </rdf:RDF>

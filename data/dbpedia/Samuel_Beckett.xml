@@ -10,288 +10,83 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tristan_Tzara">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Pinter">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Luigi_Malerba">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rough_for_Theatre_I">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edna_O'Brien">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Don_DeLillo">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Stan_Douglas">
-    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Beckett_on_Film">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Katzman">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Subimal_Mishra">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Bernhard">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dante_Alighieri">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Schopenhauer">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Taja_Kramberger">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincenzo_Natali">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Samuel_Beckett">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Steven_Millhauser">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Unnamable_(novel)">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:translator rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marquis_de_Sade">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Murphy_(novel)">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_McDonagh">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Millington_Synge">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Nobel_laureates_by_university_affiliation">
-    <dbpprop:t rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_White-Sobieski">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Becket">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Krapp's_Last_Tape">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giannina_Braschi">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcel_Proust">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Barclay_Beckett">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Barthelme">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Play_(play)">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leo_Butler">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Noah_Cicero">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Act_Without_Words_I">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/J._M._Coetzee">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Film_(film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Beckett,_Samuel">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Beckett">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Beckett">
-    <dbpedia-owl:abstract xml:lang="pt">Samuel Beckett foi um dramaturgo e escritor irlandês. Recebeu o Nobel de Literatura de 1969. Utiliza nas suas obras, traduzidas em mais de trinta línguas, uma riqueza metafórica imensa, privilegiando uma visão pessimista acerca do fenômeno humano. É considerado um dos principais autores do denominado teatro do absurdo. Sua obra mais famosa tanto no Brasil como em Portugal é a peça Esperando Godot.</dbpedia-owl:abstract>
-    <foaf:name xml:lang="en">Samuel Beckett</foaf:name>
-    <dbpprop:notableworks xml:lang="en">Molloy</dbpprop:notableworks>
-    <foaf:surname xml:lang="en">Beckett</foaf:surname>
-    <dbpprop:bgcolor xml:lang="en">#FFFFF0</dbpprop:bgcolor>
-    <dbpedia-owl:abstract xml:lang="zh">萨缪尔·贝克特（Samuel Beckett，1906年4月13日－1989年11月10日），20世纪爱尔兰、法国作家，创作的领域包括戏剧、小说和诗歌，尤以戏剧成就最高。他是荒诞派戏剧的重要代表人物。1969年，他因“以一种新的小说与戏剧的形式，以崇高的艺术表现人类的苦恼”而获得诺贝尔文学奖。</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="nl">Samuel Barclay Beckett was een Ierse (toneel)schrijver en dichter.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="de">Samuel Barclay Beckett war ein irischer Schriftsteller. Er gilt als einer der bedeutendsten Schriftsteller des 20. Jahrhunderts und wurde 1969 mit dem Nobelpreis für Literatur ausgezeichnet. Sein bekanntestes Werk ist Warten auf Godot (En attendant Godot), das am 5. Januar 1953 in Paris uraufgeführt wurde. Die erste Aufführung im deutschsprachigen Raum fand am 8. September 1953 im Schlossparktheater Berlin statt. Beckett war zunächst britischer, nach der Unabhängigkeit Irlands 1921 dann irischer Staatsbürger, lebte aber seit 1937 ständig in Frankreich. Seine ersten Texte verfasste er in englischer Sprache, in seiner mittleren und fruchtbarsten Phase schrieb er überwiegend französisch, später wechselte er zwischen beiden Sprachen, oft von Text zu Text, und übersetzte seine Werke häufig selbst in die jeweils andere.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="es">Samuel Barclay Beckett /ˈsæmju‿əl ˈbɑːɹkli ˈbɛkɪt/ fue un dramaturgo, novelista, crítico y poeta irlandés, uno de los más importantes representantes del experimentalismo literario del siglo XX, dentro del modernismo anglosajón. Fue igualmente figura clave del llamado teatro del absurdo y, como tal, uno de los escritores más influyentes de su tiempo. Escribió sus libros en inglés y francés, y fue asistente y discípulo del novelista James Joyce. Su obra más conocida es el drama Esperando a Godot. La obra de Beckett es fundamentalmente sombría y tendente al minimalismo y, de acuerdo con ciertas interpretaciones, profundamente pesimista acerca de la condición humana. De esta forma, con el tiempo sus libros se hicieron progresivamente más crípticos y breves. El pesimismo de Beckett viene sin embargo atemperado por un particular sentido del humor, entre negro y sórdido. Según su traductora, Antonia Rodríguez-Gago, «Beckett destruyó muchas de las convenciones en las que se sustentan la narrativa y el teatro contemporáneo; se dedicó, entre otras cosas, a desprestigiar la palabra como medio de expresión artística y creó una poética de imágenes, tanto escénica como narrativa». La obra de este autor se estudia principalmente desde el punto de vista de la literatura y el teatro, pero también de la filosofía, el psicoanálisis, la traductología, la música y los medios audiovisuales. En la Encyclopedia of World Literature in the 20th Century se lee: «Todo el trabajo de Beckett retrata la tragicomedia de la condición humana en un mundo sin Dios, sin ley y sin sentido. La autenticidad de su visión, la sobria brillantez de su lenguaje (en francés e inglés) han influido a jóvenes escritores de todo el mundo». Samuel Beckett fue galardonado con el Premio Nobel de Literatura en 1969 «por su escritura, que, renovando las formas de la novela y el drama, adquiere su grandeza a partir de la indigencia moral del hombre moderno». En 1961 había recibido asimismo el "Premio Formentor" otorgado por el Congreso Internacional de Editores, junto a Jorge Luis Borges.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="ja">サミュエル・ベケット（Samuel Beckett, 1906年4月13日 - 1989年12月22日）は、アイルランド出身のフランスの劇作家、小説家、詩人。不条理演劇を代表する作家の一人であり、小説においても20世紀の重要作家の一人とされる。ウジェーヌ・イヨネスコと同様に、20世紀フランスを代表する劇作家としても知られている。1969年にはノーベル文学賞を受賞している。</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Prix_Italia_Award_winners"/>
-    <rdfs:comment xml:lang="fr">Samuel Beckett est un écrivain, poète et dramaturge irlandais d'expression française et anglaise, prix Nobel de littérature. S'il est l'auteur de romans, tels que Molloy, Malone meurt et l'Innommable et de textes brefs en prose, son nom reste surtout associé au théâtre de l'absurde, dont sa pièce En attendant Godot est l'une des plus célèbres illustrations.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.guardian.co.uk/departments/classics/story/0,,1000868,00.html"/>
-    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/The_Unnamable_(novel)"/>
-    <dbpprop:notableworks xml:lang="en">Waiting for Godot</dbpprop:notableworks>
     <rdfs:comment xml:lang="en">Samuel Barclay Beckett (13 April 1906 – 22 December 1989) was an Irish avant-garde novelist, playwright, theatre director, and poet, who lived in France for most of his adult life and wrote in both English and French. His work offers a bleak, tragicomic outlook on human nature, often coupled with black comedy and gallows humour. Beckett is widely regarded as among the most influential writers of the 20th century. Strongly influenced by James Joyce, he is considered one of the last modernists.</rdfs:comment>
-    <dbpprop:source xml:lang="en">From Watt</dbpprop:source>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://web.archive.org/web/20110606044700/http:/www.newyorker.com/critics/books/articles/060807crbo_books"/>
-    <dbpprop:nationality xml:lang="en">Irish</dbpprop:nationality>
-    <rdfs:comment xml:lang="vi">Samuel Barklay Beckett (13 tháng 4 năm 1906 – 22 tháng 12 năm 1989) là nhà văn, nhà viết kịch Ireland đoạt giải Nobel Văn học năm 1969. Samuel Beckett sáng tác bằng tiếng Anh và tiếng Pháp.</rdfs:comment>
-    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">300</dbpprop:width>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Samuel_Beckett"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1989-12-22</dbpprop:deathDate>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_M%C3%A9daille_de_la_R%C3%A9sistance"/>
-    <dbpedia-owl:abstract xml:lang="fr">Samuel Beckett est un écrivain, poète et dramaturge irlandais d'expression française et anglaise, prix Nobel de littérature. S'il est l'auteur de romans, tels que Molloy, Malone meurt et l'Innommable et de textes brefs en prose, son nom reste surtout associé au théâtre de l'absurde, dont sa pièce En attendant Godot est l'une des plus célèbres illustrations. Son œuvre est austère et minimaliste, ce qui est généralement interprété comme l'expression d'un profond pessimisme face à la condition humaine. Opposer ce pessimisme à l'humour omniprésent chez lui n'aurait guère de sens : il faut plutôt les voir comme étant au service l'un de l'autre, pris dans le cadre plus large d'une immense entreprise de dérision. &lt;span /&gt; Avec le temps, il traite ces thèmes dans un style de plus en plus lapidaire, tendant à rendre sa langue de plus en plus concise et sèche. En 1969, il reçoit le prix Nobel de littérature pour « son œuvre, qui à travers un renouvellement des formes du roman et du théâtre, prend toute son élévation dans la destitution de l'homme moderne ».</dbpedia-owl:abstract>
-    <dbpprop:caption xml:lang="en">Beckett in 1977</dbpprop:caption>
-    <dbpedia-owl:abstract xml:lang="vi">Samuel Barklay Beckett (13 tháng 4 năm 1906 – 22 tháng 12 năm 1989) là nhà văn, nhà viết kịch Ireland đoạt giải Nobel Văn học năm 1969. Samuel Beckett sáng tác bằng tiếng Anh và tiếng Pháp.</dbpedia-owl:abstract>
-    <dbpprop:occupation xml:lang="en">Novelist, playwright, poet, theatre director, essayist</dbpprop:occupation>
-    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Murphy_(novel)"/>
-    <dbpprop:notableworks xml:lang="en">The Unnamable</dbpprop:notableworks>
-    <dbpedia-owl:abstract xml:lang="sv">Samuel Beckett, född 13 april 1906 i Dublin, Irland, död 22 december 1989 i Paris, Frankrike, var en irländsk-fransk författare och dramatiker. Beckett skrev i första delen av sitt författarskap mest lyrik och prosa på engelska. 1928-1929 undervisade Beckett i engelska vid École Normale Supérieure i Paris. Efter en uppgörelse med sin mor 1937 flyttade han permanent till Paris och producerade där ett antal pjäser, som är skrivna på franska (och senare översatta till engelska av honom själv). Under 1930-talet översatte Beckett verk av James Joyce till franska. Från 1951, då Beckett helt övergick till att skriva på franska, tillkom de berömda ordknappa pjäserna En attendant Godot,, Fin de partie samt Happy Days (Lyckliga dagar, 1962). De är lysande exempel på det som den engelske kritikern Martin Esslin kallade "det absurdas teater" och som i Sverige kallas absurd teater. Beckett anses vara en av de främsta absurdistiska författarna tillsammans med Eugène Ionesco och Fernando Arrabal. Samuel Beckett belönades 1969 med Nobelpriset i litteratur. Emellertid reste han aldrig till Stockholm för att motta priset. Under andra världskriget deltog han aktivt i den franska motståndsrörelsen och tvingades att fly till Roussillon i södra Frankrike för att undgå nazisterna. Han fortsatte där sitt motståndsarbete och belönades efter kriget av den franska staten med medaljerna Croix de Guerre (Krigskorset) och Medaille de la Résistance (Motståndsrörelsens medalj).</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ua.ac.be/main.aspx?c=*SBECKETT&amp;n=22071"/>
-    <dbpedia-owl:abstract xml:lang="cs">Samuel Barclay Beckett [Bekit Bekit] byl irský dramatik a prozaik, představitel absurdního divadla. Narodil se ve Foxrocku nedaleko Dublinu v dobře situované protestantské rodině zeměměřiče Williama Becketta a zdravotní sestry Mary Roeové. Vzdělání získal na prestižních středních školách v Dublinu a poté na Trinity College, kde od roku 1923 studoval práva a evropské jazyky (francouzštinu a italštinu). Po ukončení studia pracoval jako učitel v Belfastu, ale již rok nato odjel přednášet angličtinu do Francie, kde mimo jiné působil i na prestižní pařížské Sorbonně. Roku 1930 se vrátil do Irska, aby zde převzal svůj magisterský diplom. Po roce vyučování francouzského jazyka na dublinské Trinity College se rozhodl věnovat výlučně spisovatelské dráze. Dědictví, které mu připadlo po smrti otce, mu umožnilo usadit se v Londýně, kde se mezi lety 1935 - 1936 kvůli svým neutuchajícím depresím podrobil psychiatrické léčbě. Po svém propuštění z léčebny několik let cestoval po Evropě. Do básnického světa vstoupil v roce 1930 svou 98veršovou sbírkou Děvkoskop. V tomto dramatickém monologu si hlavní postava René Descartes krátí čekání na omeletu ze zkažených vajec rozjímáním nad obskurností teologických záhad, plynutím času a blížící se smrtí. Po sbírce následoval soubor esejí Proust a román Víc píchanců než kopanců. Od roku 1933 - 1936 žil Beckett v Londýně. Přibližně v té době se seznámil se Suzanne Dechevaux-Dumesnilovou, studentkou hry na piano, se kterou se v roce 1961 oženil. Jeho románová kariéra naplno odstartovala v roce 1938 knihou Murphy, která líčí vnitřní boj hrdiny zmítajícího se mezi touhou po milence-prostitutce a naprostém útěku do temných zákoutí mysli. V témže roce se odstěhoval do Francie. Za druhé světové války se angažoval v protifašistickém odboji - francouzském hnutí odporu. Před nacistickým pronásledováním byl roku 1942 nucen prchnout do malé vesničky Roussillon na jihu Francie, kde až do konce války pracoval v zemědělství. V té době napsal svůj v pořadí druhý román Watt, který byl vydán v roce 1953 a je považován za poslední z jeho románových děl napsaných v rodné řeči. Po skončení války krátce spolupracoval s irským Červeným křížem v St. Lo v Normandii a poté se už natrvalo usadil v Paříži. Mezi lety 1946 - 1949 vytvořil své největší prozaické dílo, trilogii Molloy, Malone umírá a Nepojmenovatelný. Ve francouzštině se mu prý tvořilo mnohem lépe, neboť psal „beze stylu“, bez snahy o eleganci. Byl přímo posedlý touhou vytvořit něco, co sám nazýval „literatura neslova“, čímž vyhlásil slovům celoživotní válku. Hra Čekání na Godota z roku 1949 mu přinesla celosvětovou proslulost a katapultovala jej mezi přední představitele absurdního divadla. Následovalo dílo Konec hry a série divadelních a krátkých rádiových her. Ve hře Poslední páska popisující starého osamělého muže, který sedí ve svém pokoji a po nocích poslouchá nahrávky různých etap své minulosti, se autor vrací k rodné angličtině. V několika dílech jsou přítomny stopy černého humoru, ke kterému se spisovatel uchyluje, aby tak zmírnil dopad svých pochmurných námětů. Děj jeho posledního kompletního románu Jak to je líčí osud hrdiny brodícího se bahnem, který po chvíli dohání dalšího brodícího se člověka, jehož násilím nutí do řeči jen proto, aby se záhy ocitl na jeho místě a čekal, kdo bude trápit jeho samotného. V 60. letech psal převážně pro rozhlas, divadlo a televizi. Roku 1969 mu byla udělena Nobelova cena. V letech 70. se pak objevují sbírky krátkých básní Mirlitonnades, Společnost a All Strange Away. Dílo Katastrofa z roku 1984, které se zabývá tématem výslechu disidentů, bylo napsáno speciálně pro Václava Havla. V roce 1989 mu zemřela manželka. Stalo se tak krátce poté, co se nastěhoval do menšího pečovatelského domu, protože doma ošklivě upadl. Poslední dny života strávil v téměř holém pokoji přijímáním návštěv a psaním. Jeho poslední kniha nese název Stirring Still. Samuel Beckett zemřel na následky dýchacích potíží v nemocnici dne 22. prosince 1989. Proslýchá se, že většinu peněz, které získal za Nobelovu cenu, daroval chudým umělcům.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.hrc.utexas.edu/exhibitions/web/beckett/"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Theodor_W._Adorno"/>
-    <rdfs:comment xml:lang="cs">Samuel Barclay Beckett [Bekit Bekit] byl irský dramatik a prozaik, představitel absurdního divadla. Narodil se ve Foxrocku nedaleko Dublinu v dobře situované protestantské rodině zeměměřiče Williama Becketta a zdravotní sestry Mary Roeové. Vzdělání získal na prestižních středních školách v Dublinu a poté na Trinity College, kde od roku 1923 studoval práva a evropské jazyky (francouzštinu a italštinu).</rdfs:comment>
-    <dbpprop:placeOfDeath xml:lang="en">Paris, France</dbpprop:placeOfDeath>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences"/>
-    <dbpedia-owl:abstract xml:lang="nl">Samuel Barclay Beckett was een Ierse (toneel)schrijver en dichter.</dbpedia-owl:abstract>
-    <rdfs:label xml:lang="en">Samuel Beckett</rdfs:label>
-    <rdfs:label xml:lang="cs">Samuel Beckett</rdfs:label>
-    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvj59xpwpEbGdrcN5Y29ycA"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_people_of_World_War_II"/>
-    <rdfs:comment xml:lang="ca">Samuel Barclay Beckett fou un escriptor d'obres teatrals, novel·lista i poeta irlandès. Les obres de Beckett són fonamentalment minimalistes, i profundament pessimistes quant a la naturalesa i condició humanes, tot i que el pessimisme es veu compensat amb un gran sentit de l'humor. Beckett va guanyar el Premi Nobel de Literatura el 1969. Se'l considera un dels representants més destacats de l'experimentalisme literari del segle xx i del teatre de l'absurd.</rdfs:comment>
-    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7386737</dbpprop:viaf>
-    <rdfs:label xml:lang="de">Samuel Beckett</rdfs:label>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/0/09/Samuel_Beckett,_Pic,_1.jpg"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:%C3%89cole_Normale_Sup%C3%A9rieure_faculty"/>
-    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Modernism"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Foxrock"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Croix_de_Guerre_(France)"/>
-    <dbpprop:source xml:lang="en">From Rockaby</dbpprop:source>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Nobel_laureates_in_Literature"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_theatre_directors"/>
-    <dbpprop:notableworks xml:lang="en">Murphy</dbpprop:notableworks>
-    <dbpprop:align xml:lang="en">lright</dbpprop:align>
-    <dbpprop:pseudonym xml:lang="en">Andrew Belis</dbpprop:pseudonym>
-    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Σάμιουελ_Μπέκετ"/>
-    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Waiting_for_Godot"/>
-    <dbpedia-owl:abstract xml:lang="ca">Samuel Barclay Beckett fou un escriptor d'obres teatrals, novel·lista i poeta irlandès. Les obres de Beckett són fonamentalment minimalistes, i profundament pessimistes quant a la naturalesa i condició humanes, tot i que el pessimisme es veu compensat amb un gran sentit de l'humor. Beckett va guanyar el Premi Nobel de Literatura el 1969. Se'l considera un dels representants més destacats de l'experimentalisme literari del segle xx i del teatre de l'absurd. Amic i col·laborador de James Joyce, és conegut universalment per obres com la trilogia de novel·les Molloy (1951), Malone mor (1951) i L'innombrable (1953) i pel text teatral Tot esperant Godot (1952). Bona part de la seva producció literària posterior al 1945 va ser escrita en francès. El 1969 va rebre el Premi Nobel de Literatura. D'aleshores ençà va reduir la producció literària i va experimentar amb nous mitjans visuals, com ara la televisió i el cinema.</dbpedia-owl:abstract>
-    <rdfs:label xml:lang="ca">Samuel Beckett</rdfs:label>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/France"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Modernist_drama,_theatre_and_performance"/>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Samuel_Beckett"/>
-    <rdfs:label xml:lang="zh">萨缪尔·贝克特</rdfs:label>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
-    <dbpprop:shortDescription xml:lang="en">Irish novelist, playwright and poet</dbpprop:shortDescription>
-    <rdfs:comment xml:lang="it">Considerato uno degli scrittori più influenti del XX secolo, Beckett è senza dubbio la più significativa personalità di quel genere teatrale e filosofico che Martin Esslin definì come "Teatro dell'assurdo". La sua opera più famosa è la pièce Aspettando Godot, e il corto cinematografico Film del 1965 con Buster Keaton.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1989_deaths"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Samuel_Beckett"/>
-    <rdfs:label xml:lang="vi">Samuel Beckett</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:James_Joyce"/>
+    <dbpedia-owl:pseudonym xml:lang="en">Andrew Belis</dbpedia-owl:pseudonym>
     <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1989-12-22</dbpedia-owl:deathDate>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_novelists"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdfs:comment xml:lang="sv">Samuel Beckett, född 13 april 1906 i Dublin, Irland, död 22 december 1989 i Paris, Frankrike, var en irländsk-fransk författare och dramatiker. Beckett skrev i första delen av sitt författarskap mest lyrik och prosa på engelska. 1928-1929 undervisade Beckett i engelska vid École Normale Supérieure i Paris. Efter en uppgörelse med sin mor 1937 flyttade han permanent till Paris och producerade där ett antal pjäser, som är skrivna på franska (och senare översatta till engelska av honom själv).</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_short_story_writers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:French_Resistance_members"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
-    <dbpedia-owl:abstract xml:lang="en">Samuel Barclay Beckett (13 April 1906 – 22 December 1989) was an Irish avant-garde novelist, playwright, theatre director, and poet, who lived in France for most of his adult life and wrote in both English and French. His work offers a bleak, tragicomic outlook on human nature, often coupled with black comedy and gallows humour. Beckett is widely regarded as among the most influential writers of the 20th century. Strongly influenced by James Joyce, he is considered one of the last modernists. As an inspiration to many later writers, he is also sometimes considered one of the first postmodernists. He is one of the key writers in what Martin Esslin called the "Theatre of the Absurd". His work became increasingly minimalist in his later career. Beckett was awarded the 1969 Nobel Prize in Literature "for his writing, which—in new forms for the novel and drama—in the destitution of modern man acquires its elevation". He was elected Saoi of Aosdána in 1984.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Quote_box"/>
-    <dbpprop:movement rdf:resource="http://dbpedia.org/resource/Modernism"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
-    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/How_It_Is"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.channels.com/episodes/show/8083700/"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_modernist_poets"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Dublin_University_cricketers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Theatre_of_the_Absurd"/>
-    <dbpprop:selibr rdf:datatype="http://www.w3.org/2001/XMLSchema#int">177070</dbpprop:selibr>
+    <dbpprop:nationality xml:lang="en">Irish</dbpprop:nationality>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.beckettfoundation.org.uk/"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Survivors_of_stabbing"/>
-    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Poet"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.wustl.edu/units/spec/manuscripts/mlc/findingaidshtml/wtu00008.html"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Samuel_Beckett,_Pic,_1.jpg/200px-Samuel_Beckett,_Pic,_1.jpg"/>
-    <dbpedia-owl:birthName xml:lang="en">Samuel Barclay Beckett</dbpedia-owl:birthName>
-    <dbpprop:name xml:lang="en">Samuel Beckett</dbpprop:name>
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/France"/>
-    <dbpedia-owl:abstract xml:lang="pl">Samuel Barclay Beckett – irlandzki dramaturg, prozaik i eseista, tworzący początkowo w języku angielskim, a od 1945 – francuskim. Jeden z twórców teatru absurdu. Jego powieści są pozbawiane tradycyjnej narracji, utrzymane w klimacie skrajnego pesymizmu i podkreślające bezsens ludzkiej egzystencji.</dbpedia-owl:abstract>
-    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1906-04-13</dbpprop:birthDate>
-    <rdfs:comment xml:lang="es">Samuel Barclay Beckett /ˈsæmju‿əl ˈbɑːɹkli ˈbɛkɪt/ fue un dramaturgo, novelista, crítico y poeta irlandés, uno de los más importantes representantes del experimentalismo literario del siglo XX, dentro del modernismo anglosajón. Fue igualmente figura clave del llamado teatro del absurdo y, como tal, uno de los escritores más influyentes de su tiempo. Escribió sus libros en inglés y francés, y fue asistente y discípulo del novelista James Joyce. Su obra más conocida es el drama Esperando a Godot.</rdfs:comment>
-    <dbpprop:notableworks xml:lang="en">Endgame</dbpprop:notableworks>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">13</dbpprop:dateOfBirth>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_France"/>
-    <rdfs:comment xml:lang="de">Samuel Barclay Beckett war ein irischer Schriftsteller. Er gilt als einer der bedeutendsten Schriftsteller des 20. Jahrhunderts und wurde 1969 mit dem Nobelpreis für Literatur ausgezeichnet. Sein bekanntestes Werk ist Warten auf Godot (En attendant Godot), das am 5. Januar 1953 in Paris uraufgeführt wurde. Die erste Aufführung im deutschsprachigen Raum fand am 8. September 1953 im Schlossparktheater Berlin statt.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_emphysema"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
-    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Krapp's_Last_Tape"/>
-    <dbpprop:influences xml:lang="en">AlighieriGeulincxJoyceProustRacineSchopenhauerJ.M SyngeYeatsO'CaseyWildeSadeDescartesSterneDemocritusMiltonStéphane Mallarmé KantBerkeley</dbpprop:influences>
-    <dbpprop:placeOfBirth xml:lang="en">Foxrock, Dublin, Ireland</dbpprop:placeOfBirth>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thesqdw.org/"/>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Malone_Dies"/>
-    <dbpedia-owl:abstract xml:lang="uk">Семюел Беккет — ірландський англо- та франкомовний письменник, який народився у Дубліні. Поет, автор романів та оповідань, перекладач Джойса, драматург, він стає відомим після постановки Роже Бленом у 1953 році «Чекаючи на Ґодо». Один з основоположників (поряд з Еженом Йонеско)театра абсурду. Його творчий доробок — театральні п'єси та проза — відзначений у 1969 році Нобелівською премією в галузі літератури. Семюель Беккет є одним із драматургів, яких найбільш вивчають.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
-    <dbpprop:notableworks xml:lang="en">Malone Dies</dbpprop:notableworks>
-    <dbpprop:id rdf:datatype="http://www.w3.org/2001/XMLSchema#int">332</dbpprop:id>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_artists"/>
-    <foaf:givenName xml:lang="en">Samuel</foaf:givenName>
-    <rdfs:comment xml:lang="ko">사뮈엘 베케트는 아일랜드에서 태어난 프랑스의 소설가·극작가이다.</rdfs:comment>
-    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118508172</dbpprop:pnd>
-    <dbpedia-owl:abstract xml:lang="fi">Samuel Barclay Beckett oli irlantilainen kirjailija, joka sai Nobelin kirjallisuuspalkinnon vuonna 1969. Beckettin romaanit, näytelmät ja runot ovat minimalistisia ja syvästi pessimistisiä, ja myöhemmät työt yhä absurdimpia. Hänen tunnetuin työnsä on näytelmä Godot – huomenna hän tulee, jota on esitetty usein Suomessakin.</dbpedia-owl:abstract>
-    <dbpprop:notableworks xml:lang="en">Watt</dbpprop:notableworks>
-    <dbpprop:lccn xml:lang="en">n/79/55432</dbpprop:lccn>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/사뮈엘_베케트"/>
-    <dc:description xml:lang="en">Irish novelist, playwright and poet</dc:description>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Беккет,_Сэмюэл"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_atheists"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:French_Resistance_members"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Modernist_drama,_theatre_and_performance"/>
+    <dbpprop:caption xml:lang="en">Beckett in 1977</dbpprop:caption>
+    <dbpedia-owl:abstract xml:lang="nl">Samuel Barclay Beckett was een Ierse (toneel)schrijver en dichter.</dbpedia-owl:abstract>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Foxrock"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_theatre_directors"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_modernist_poets"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Σάμιουελ_Μπέκετ"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Dublin"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_Nobel_laureates"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.eupjournals.com/journal/jobs"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Watt_(novel)"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.channels.com/episodes/show/8083700/"/>
+    <dbpprop:movement rdf:resource="http://dbpedia.org/resource/Modernism"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ua.ac.be/main.aspx?c=*SBECKETT&amp;n=22071"/>
+    <rdfs:comment xml:lang="no">Samuel Barclay Beckett, født 13. april 1906 i Dublin, død 22. desember 1989 i Paris, var en anglo-irsk-fransk forfatter og dramatiker. Blant hans tidlige arbeider finnes lyrikk og prosa skrevet på engelsk, men etter et oppgjør med sin mor i 1937 flyttet han til Paris og begynte å skrive på fransk. Resten av livet vekslet han på å skrive på fransk og engelsk, og oversatte også stort sett alle sine verker mellom disse to språkene.</rdfs:comment>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</dbpprop:dateOfDeath>
+    <dbpedia-owl:abstract xml:lang="ca">Samuel Barclay Beckett fou un escriptor d'obres teatrals, novel·lista i poeta irlandès. Les obres de Beckett són fonamentalment minimalistes, i profundament pessimistes quant a la naturalesa i condició humanes, tot i que el pessimisme es veu compensat amb un gran sentit de l'humor. Beckett va guanyar el Premi Nobel de Literatura el 1969. Se'l considera un dels representants més destacats de l'experimentalisme literari del segle xx i del teatre de l'absurd. Amic i col·laborador de James Joyce, és conegut universalment per obres com la trilogia de novel·les Molloy (1951), Malone mor (1951) i L'innombrable (1953) i pel text teatral Tot esperant Godot (1952). Bona part de la seva producció literària posterior al 1945 va ser escrita en francès. El 1969 va rebre el Premi Nobel de Literatura. D'aleshores ençà va reduir la producció literària i va experimentar amb nous mitjans visuals, com ara la televisió i el cinema.</dbpedia-owl:abstract>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Dante_Alighieri"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Samuel_Beckett"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Survivors_of_stabbing"/>
+    <dbpedia-owl:abstract xml:lang="it">Considerato uno degli scrittori più influenti del XX secolo, Beckett è senza dubbio la più significativa personalità di quel genere teatrale e filosofico che Martin Esslin definì come "Teatro dell'assurdo". La sua opera più famosa è la pièce Aspettando Godot, e il corto cinematografico Film del 1965 con Buster Keaton. Autore di romanzi e di poesie, nel 1969 Beckett venne insignito del Premio Nobel per la letteratura "per la sua scrittura, che - nelle nuove forme per il romanzo ed il dramma - nell'abbandono dell'uomo moderno acquista la sua altezza".</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="no">Samuel Barclay Beckett, født 13. april 1906 i Dublin, død 22. desember 1989 i Paris, var en anglo-irsk-fransk forfatter og dramatiker. Blant hans tidlige arbeider finnes lyrikk og prosa skrevet på engelsk, men etter et oppgjør med sin mor i 1937 flyttet han til Paris og begynte å skrive på fransk. Resten av livet vekslet han på å skrive på fransk og engelsk, og oversatte også stort sett alle sine verker mellom disse to språkene. Det absurde teaters gjennombrudd regnes for å ha kommet med Becketts Mens vi venter på Godot (eller Vente på Godot, som Nationaltheatrets oppsetning het i 2005) i 1952. Beckett anses for å være en av de fremste absurde forfatterne sammen med Eugen Ionescu og Jean Genet. Han ble tildelt Nobelprisen i litteratur i 1969, og tittelen Saoi, den vise, av den irske kunstnersammenslutningen Aosdána i 1984. Under den andre verdenskrig deltok han aktivt i den franske motstandsbevegelsen, og ble tvunget til å flykte til Roussillon i Syd-Frankrike for å unngå nazistene. Han fortsatte motstandsarbeidet der, og ble etter krigen tildelt Croix de Guerre, krigskorset, og Medaille de la Résistance, motstandsbevegelsens medalje.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpprop:occupation xml:lang="en">Novelist, playwright, poet, theatre director, essayist</dbpprop:occupation>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/France"/>
     <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Playwright"/>
+    <rdfs:label xml:lang="uk">Семюел Беккет</rdfs:label>
+    <dbpprop:influences xml:lang="en">AlighieriGeulincxJoyceProustRacineSchopenhauerJ.M SyngeYeatsO'CaseyWildeSadeDescartesSterneDemocritusMiltonStéphane Mallarmé KantBerkeley</dbpprop:influences>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Samuel_Beckett"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://web.archive.org/web/20110606044700/http:/www.newyorker.com/critics/books/articles/060807crbo_books"/>
+    <dbpprop:notableworks xml:lang="en">The Unnamable</dbpprop:notableworks>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_emphysema"/>
+    <dbpedia-owl:abstract xml:lang="ja">サミュエル・ベケット（Samuel Beckett, 1906年4月13日 - 1989年12月22日）は、アイルランド出身のフランスの劇作家、小説家、詩人。不条理演劇を代表する作家の一人であり、小説においても20世紀の重要作家の一人とされる。ウジェーヌ・イヨネスコと同様に、20世紀フランスを代表する劇作家としても知られている。1969年にはノーベル文学賞を受賞している。</dbpedia-owl:abstract>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/0/09/Samuel_Beckett,_Pic,_1.jpg"/>
+    <rdfs:comment xml:lang="de">Samuel Barclay Beckett war ein irischer Schriftsteller. Er gilt als einer der bedeutendsten Schriftsteller des 20. Jahrhunderts und wurde 1969 mit dem Nobelpreis für Literatur ausgezeichnet. Sein bekanntestes Werk ist Warten auf Godot (En attendant Godot), das am 5. Januar 1953 in Paris uraufgeführt wurde. Die erste Aufführung im deutschsprachigen Raum fand am 8. September 1953 im Schlossparktheater Berlin statt.</rdfs:comment>
+    <dbpprop:notableworks xml:lang="en">Endgame</dbpprop:notableworks>
+    <rdfs:comment xml:lang="ru">Сэ́мюэл Бе́ккет — ирландский писатель. Один из основоположников театра абсурда. Лауреат Нобелевской премии по литературе 1969 года. Писал на английском и французском языках. Произведения Беккета отличаются минимализмом, использованием новаторских приёмов, философской тематикой.</rdfs:comment>
+    <dc:description xml:lang="en">Irish novelist, playwright and poet</dc:description>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvj59xpwpEbGdrcN5Y29ycA"/>
+    <dbpprop:lccn xml:lang="en">n/79/55432</dbpprop:lccn>
+    <dbpedia-owl:abstract xml:lang="ru">Сэ́мюэл Бе́ккет — ирландский писатель. Один из основоположников театра абсурда. Лауреат Нобелевской премии по литературе 1969 года. Писал на английском и французском языках. Произведения Беккета отличаются минимализмом, использованием новаторских приёмов, философской тематикой.</dbpedia-owl:abstract>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Theodor_W._Adorno"/>
+    <dbpedia-owl:abstract xml:lang="fr">Samuel Beckett est un écrivain, poète et dramaturge irlandais d'expression française et anglaise, prix Nobel de littérature. S'il est l'auteur de romans, tels que Molloy, Malone meurt et l'Innommable et de textes brefs en prose, son nom reste surtout associé au théâtre de l'absurde, dont sa pièce En attendant Godot est l'une des plus célèbres illustrations. Son œuvre est austère et minimaliste, ce qui est généralement interprété comme l'expression d'un profond pessimisme face à la condition humaine. Opposer ce pessimisme à l'humour omniprésent chez lui n'aurait guère de sens : il faut plutôt les voir comme étant au service l'un de l'autre, pris dans le cadre plus large d'une immense entreprise de dérision. &lt;span /&gt; Avec le temps, il traite ces thèmes dans un style de plus en plus lapidaire, tendant à rendre sa langue de plus en plus concise et sèche. En 1969, il reçoit le prix Nobel de littérature pour « son œuvre, qui à travers un renouvellement des formes du roman et du théâtre, prend toute son élévation dans la destitution de l'homme moderne ».</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="zh">萨缪尔·贝克特</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.wustl.edu/units/spec/manuscripts/mlc/findingaidshtml/wtu00008.html"/>
+    <dbpedia-owl:abstract xml:lang="es">Samuel Barclay Beckett /ˈsæmju‿əl ˈbɑːɹkli ˈbɛkɪt/ fue un dramaturgo, novelista, crítico y poeta irlandés, uno de los más importantes representantes del experimentalismo literario del siglo XX, dentro del modernismo anglosajón. Fue igualmente figura clave del llamado teatro del absurdo y, como tal, uno de los escritores más influyentes de su tiempo. Escribió sus libros en inglés y francés, y fue asistente y discípulo del novelista James Joyce. Su obra más conocida es el drama Esperando a Godot. La obra de Beckett es fundamentalmente sombría y tendente al minimalismo y, de acuerdo con ciertas interpretaciones, profundamente pesimista acerca de la condición humana. De esta forma, con el tiempo sus libros se hicieron progresivamente más crípticos y breves. El pesimismo de Beckett viene sin embargo atemperado por un particular sentido del humor, entre negro y sórdido. Según su traductora, Antonia Rodríguez-Gago, «Beckett destruyó muchas de las convenciones en las que se sustentan la narrativa y el teatro contemporáneo; se dedicó, entre otras cosas, a desprestigiar la palabra como medio de expresión artística y creó una poética de imágenes, tanto escénica como narrativa». La obra de este autor se estudia principalmente desde el punto de vista de la literatura y el teatro, pero también de la filosofía, el psicoanálisis, la traductología, la música y los medios audiovisuales. En la Encyclopedia of World Literature in the 20th Century se lee: «Todo el trabajo de Beckett retrata la tragicomedia de la condición humana en un mundo sin Dios, sin ley y sin sentido. La autenticidad de su visión, la sobria brillantez de su lenguaje (en francés e inglés) han influido a jóvenes escritores de todo el mundo». Samuel Beckett fue galardonado con el Premio Nobel de Literatura en 1969 «por su escritura, que, renovando las formas de la novela y el drama, adquiere su grandeza a partir de la indigencia moral del hombre moderno». En 1961 había recibido asimismo el "Premio Formentor" otorgado por el Congreso Internacional de Editores, junto a Jorge Luis Borges.</dbpedia-owl:abstract>
+    <dbpprop:notableworks xml:lang="en">Watt</dbpprop:notableworks>
+    <rdfs:comment xml:lang="es">Samuel Barclay Beckett /ˈsæmju‿əl ˈbɑːɹkli ˈbɛkɪt/ fue un dramaturgo, novelista, crítico y poeta irlandés, uno de los más importantes representantes del experimentalismo literario del siglo XX, dentro del modernismo anglosajón. Fue igualmente figura clave del llamado teatro del absurdo y, como tal, uno de los escritores más influyentes de su tiempo. Escribió sus libros en inglés y francés, y fue asistente y discípulo del novelista James Joyce. Su obra más conocida es el drama Esperando a Godot.</rdfs:comment>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1906-04-13</dbpprop:birthDate>
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Theatre_director"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06whf"/>
+    <rdfs:comment xml:lang="cs">Samuel Barclay Beckett [Bekit Bekit] byl irský dramatik a prozaik, představitel absurdního divadla. Narodil se ve Foxrocku nedaleko Dublinu v dobře situované protestantské rodině zeměměřiče Williama Becketta a zdravotní sestry Mary Roeové. Vzdělání získal na prestižních středních školách v Dublinu a poté na Trinity College, kde od roku 1923 studoval práva a evropské jazyky (francouzštinu a italštinu).</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="zh">萨缪尔·贝克特（Samuel Beckett，1906年4月13日－1989年11月10日），20世纪爱尔兰、法国作家，创作的领域包括戏剧、小说和诗歌，尤以戏剧成就最高。他是荒诞派戏剧的重要代表人物。1969年，他因“以一种新的小说与戏剧的形式，以崇高的艺术表现人类的苦恼”而获得诺贝尔文学奖。</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Postmodern_writers"/>
+    <dbpprop:notableworks xml:lang="en">Molloy</dbpprop:notableworks>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nybooks.com/articles/22612"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Portora_Royal_School"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_dramatists_and_playwrights"/>
+    <dbpprop:salign xml:lang="en">center</dbpprop:salign>
+    <rdfs:comment xml:lang="zh">萨缪尔·贝克特（Samuel Beckett，1906年4月13日－1989年11月10日），20世纪爱尔兰、法国作家，创作的领域包括戏剧、小说和诗歌，尤以戏剧成就最高。他是荒诞派戏剧的重要代表人物。1969年，他因“以一种新的小说与戏剧的形式，以崇高的艺术表现人类的苦恼”而获得诺贝尔文学奖。</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Montparnasse_Cemetery"/>
+    <dbpedia-owl:abstract xml:lang="cs">Samuel Barclay Beckett [Bekit Bekit] byl irský dramatik a prozaik, představitel absurdního divadla. Narodil se ve Foxrocku nedaleko Dublinu v dobře situované protestantské rodině zeměměřiče Williama Becketta a zdravotní sestry Mary Roeové. Vzdělání získal na prestižních středních školách v Dublinu a poté na Trinity College, kde od roku 1923 studoval práva a evropské jazyky (francouzštinu a italštinu). Po ukončení studia pracoval jako učitel v Belfastu, ale již rok nato odjel přednášet angličtinu do Francie, kde mimo jiné působil i na prestižní pařížské Sorbonně. Roku 1930 se vrátil do Irska, aby zde převzal svůj magisterský diplom. Po roce vyučování francouzského jazyka na dublinské Trinity College se rozhodl věnovat výlučně spisovatelské dráze. Dědictví, které mu připadlo po smrti otce, mu umožnilo usadit se v Londýně, kde se mezi lety 1935 - 1936 kvůli svým neutuchajícím depresím podrobil psychiatrické léčbě. Po svém propuštění z léčebny několik let cestoval po Evropě. Do básnického světa vstoupil v roce 1930 svou 98veršovou sbírkou Děvkoskop. V tomto dramatickém monologu si hlavní postava René Descartes krátí čekání na omeletu ze zkažených vajec rozjímáním nad obskurností teologických záhad, plynutím času a blížící se smrtí. Po sbírce následoval soubor esejí Proust a román Víc píchanců než kopanců. Od roku 1933 - 1936 žil Beckett v Londýně. Přibližně v té době se seznámil se Suzanne Dechevaux-Dumesnilovou, studentkou hry na piano, se kterou se v roce 1961 oženil. Jeho románová kariéra naplno odstartovala v roce 1938 knihou Murphy, která líčí vnitřní boj hrdiny zmítajícího se mezi touhou po milence-prostitutce a naprostém útěku do temných zákoutí mysli. V témže roce se odstěhoval do Francie. Za druhé světové války se angažoval v protifašistickém odboji - francouzském hnutí odporu. Před nacistickým pronásledováním byl roku 1942 nucen prchnout do malé vesničky Roussillon na jihu Francie, kde až do konce války pracoval v zemědělství. V té době napsal svůj v pořadí druhý román Watt, který byl vydán v roce 1953 a je považován za poslední z jeho románových děl napsaných v rodné řeči. Po skončení války krátce spolupracoval s irským Červeným křížem v St. Lo v Normandii a poté se už natrvalo usadil v Paříži. Mezi lety 1946 - 1949 vytvořil své největší prozaické dílo, trilogii Molloy, Malone umírá a Nepojmenovatelný. Ve francouzštině se mu prý tvořilo mnohem lépe, neboť psal „beze stylu“, bez snahy o eleganci. Byl přímo posedlý touhou vytvořit něco, co sám nazýval „literatura neslova“, čímž vyhlásil slovům celoživotní válku. Hra Čekání na Godota z roku 1949 mu přinesla celosvětovou proslulost a katapultovala jej mezi přední představitele absurdního divadla. Následovalo dílo Konec hry a série divadelních a krátkých rádiových her. Ve hře Poslední páska popisující starého osamělého muže, který sedí ve svém pokoji a po nocích poslouchá nahrávky různých etap své minulosti, se autor vrací k rodné angličtině. V několika dílech jsou přítomny stopy černého humoru, ke kterému se spisovatel uchyluje, aby tak zmírnil dopad svých pochmurných námětů. Děj jeho posledního kompletního románu Jak to je líčí osud hrdiny brodícího se bahnem, který po chvíli dohání dalšího brodícího se člověka, jehož násilím nutí do řeči jen proto, aby se záhy ocitl na jeho místě a čekal, kdo bude trápit jeho samotného. V 60. letech psal převážně pro rozhlas, divadlo a televizi. Roku 1969 mu byla udělena Nobelova cena. V letech 70. se pak objevují sbírky krátkých básní Mirlitonnades, Společnost a All Strange Away. Dílo Katastrofa z roku 1984, které se zabývá tématem výslechu disidentů, bylo napsáno speciálně pro Václava Havla. V roce 1989 mu zemřela manželka. Stalo se tak krátce poté, co se nastěhoval do menšího pečovatelského domu, protože doma ošklivě upadl. Poslední dny života strávil v téměř holém pokoji přijímáním návštěv a psaním. Jeho poslední kniha nese název Stirring Still. Samuel Beckett zemřel na následky dýchacích potíží v nemocnici dne 22. prosince 1989. Proslýchá se, že většinu peněz, které získal za Nobelovu cenu, daroval chudým umělcům.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="en">Samuel Beckett</rdfs:label>
+    <dbpprop:birthName xml:lang="en">Samuel Barclay Beckett</dbpprop:birthName>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.eupjournals.com/journal/jobs"/>
+    <rdfs:comment xml:lang="vi">Samuel Barklay Beckett (13 tháng 4 năm 1906 – 22 tháng 12 năm 1989) là nhà văn, nhà viết kịch Ireland đoạt giải Nobel Văn học năm 1969. Samuel Beckett sáng tác bằng tiếng Anh và tiếng Pháp.</rdfs:comment>
+    <dbpprop:quoted xml:lang="en">true</dbpprop:quoted>
+    <dbpprop:alternativeNames xml:lang="en">Beckett, Sam</dbpprop:alternativeNames>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Krapp's_Last_Tape"/>
     <dbpprop:quote xml:lang="en">who may tell the tale
 of the old man?
 weigh absence in a scale?
@@ -300,40 +95,64 @@ the sum assess
 of the world's woes?
 nothingness
 in words enclose?</dbpprop:quote>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Dante_Alighieri"/>
-    <dbpprop:influenced xml:lang="en">AdornoAlbeeAusterBadiouBanvilleDeleuzeBarthelmeBurroughsCalvinoCarrCoetzeeDavisDeLilloDickFoucaultHavelIonescoJohnsonKaneMahonMametNaumanNortonO'BrienPettigrewPinterRuy-SánchezShepardStoppardMcCarthy</dbpprop:influenced>
-    <rdfs:comment xml:lang="zh">萨缪尔·贝克特（Samuel Beckett，1906年4月13日－1989年11月10日），20世纪爱尔兰、法国作家，创作的领域包括戏剧、小说和诗歌，尤以戏剧成就最高。他是荒诞派戏剧的重要代表人物。1969年，他因“以一种新的小说与戏剧的形式，以崇高的艺术表现人类的苦恼”而获得诺贝尔文学奖。</rdfs:comment>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Samuel_Beckett"/>
-    <rdfs:comment xml:lang="hu">Samuel Barclay Beckett, ír költő, próza- és drámaíró. A nagyközönség által hosszú ideig alig olvasott, inkább csak az irodalmi elit által ismert és elismert szerző első jelentős színpadi műve, a Godot-ra várva az abszurd dráma alapműve. A játszma vége az író drámai művészetének másik vonalát emeli ki, a teljes semmibe hullás peremén játszódó darab a Lear király paródiájaként is értelmezhető.</rdfs:comment>
-    <dbpprop:notableworks xml:lang="en">Krapp's Last Tape</dbpprop:notableworks>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Nobel_laureates_in_Literature"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Samuel_Beckett"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_atheists"/>
+    <dbpprop:notableworks xml:lang="en">Murphy</dbpprop:notableworks>
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Poet"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thesqdw.org/"/>
+    <dbpedia-owl:abstract xml:lang="fi">Samuel Barclay Beckett oli irlantilainen kirjailija, joka sai Nobelin kirjallisuuspalkinnon vuonna 1969. Beckettin romaanit, näytelmät ja runot ovat minimalistisia ja syvästi pessimistisiä, ja myöhemmät työt yhä absurdimpia. Hänen tunnetuin työnsä on näytelmä Godot – huomenna hän tulee, jota on esitetty usein Suomessakin.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">Samuel Beckett foi um dramaturgo e escritor irlandês. Recebeu o Nobel de Literatura de 1969. Utiliza nas suas obras, traduzidas em mais de trinta línguas, uma riqueza metafórica imensa, privilegiando uma visão pessimista acerca do fenômeno humano. É considerado um dos principais autores do denominado teatro do absurdo. Sua obra mais famosa tanto no Brasil como em Portugal é a peça Esperando Godot.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_short_story_writers"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
+    <dbpedia-owl:birthName xml:lang="en">Samuel Barclay Beckett</dbpedia-owl:birthName>
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">300</dbpprop:width>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/How_It_Is"/>
+    <dbpprop:source xml:lang="en">From Rockaby</dbpprop:source>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Croix_de_Guerre_(France)"/>
     <rdfs:comment xml:lang="pt">Samuel Beckett foi um dramaturgo e escritor irlandês. Recebeu o Nobel de Literatura de 1969. Utiliza nas suas obras, traduzidas em mais de trinta línguas, uma riqueza metafórica imensa, privilegiando uma visão pessimista acerca do fenômeno humano. É considerado um dos principais autores do denominado teatro do absurdo. Sua obra mais famosa tanto no Brasil como em Portugal é a peça Esperando Godot.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="hu">Samuel Barclay Beckett, ír költő, próza- és drámaíró. A nagyközönség által hosszú ideig alig olvasott, inkább csak az irodalmi elit által ismert és elismert szerző első jelentős színpadi műve, a Godot-ra várva az abszurd dráma alapműve. A játszma vége az író drámai művészetének másik vonalát emeli ki, a teljes semmibe hullás peremén játszódó darab a Lear király paródiájaként is értelmezhető. Rövid Proust tanulmánya a szakirodalomban máig kiemelkedőnek számító filozófiai értelmezés, és bár Proust műveiről alig beszél direkt módon, de már saját későbbi filozófiájának vázlatát adja. A visszhang csontjai című verseskötetét a szürrealista automatikus írás, T. S. Eliot-i költői példája ösztönözte. A szürrealisták által kedvelt fekete humor változata Murphy című regénye. Beckett hősei elidegenedett világban élnek, mégsem képesek lemondani a jelentésről, létezésük értelmét keresik és makacsul igyekeznek kitartani a legvégső időkig.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Montparnasse_Cemetery"/>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Samuel_Beckett?oldid=493689525"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nybooks.com/articles/22612"/>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Samuel_Beckett"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_dramatists_and_playwrights"/>
-    <rdfs:comment xml:lang="ru">Сэ́мюэл Бе́ккет — ирландский писатель. Один из основоположников театра абсурда. Лауреат Нобелевской премии по литературе 1969 года. Писал на английском и французском языках. Произведения Беккета отличаются минимализмом, использованием новаторских приёмов, философской тематикой.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="it">Considerato uno degli scrittori più influenti del XX secolo, Beckett è senza dubbio la più significativa personalità di quel genere teatrale e filosofico che Martin Esslin definì come "Teatro dell'assurdo". La sua opera più famosa è la pièce Aspettando Godot, e il corto cinematografico Film del 1965 con Buster Keaton. Autore di romanzi e di poesie, nel 1969 Beckett venne insignito del Premio Nobel per la letteratura "per la sua scrittura, che - nelle nuove forme per il romanzo ed il dramma - nell'abbandono dell'uomo moderno acquista la sua altezza".</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:salign xml:lang="en">center</dbpprop:salign>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_cricketers"/>
-    <dbpprop:alternativeNames xml:lang="en">Beckett, Sam</dbpprop:alternativeNames>
-    <rdfs:comment xml:lang="pl">Samuel Barclay Beckett – irlandzki dramaturg, prozaik i eseista, tworzący początkowo w języku angielskim, a od 1945 – francuskim. Jeden z twórców teatru absurdu. Jego powieści są pozbawiane tradycyjnej narracji, utrzymane w klimacie skrajnego pesymizmu i podkreślające bezsens ludzkiej egzystencji.</rdfs:comment>
-    <rdfs:comment xml:lang="ja">サミュエル・ベケット（Samuel Beckett, 1906年4月13日 - 1989年12月22日）は、アイルランド出身のフランスの劇作家、小説家、詩人。不条理演劇を代表する作家の一人であり、小説においても20世紀の重要作家の一人とされる。ウジェーヌ・イヨネスコと同様に、20世紀フランスを代表する劇作家としても知られている。1969年にはノーベル文学賞を受賞している。</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_Trinity_College,_Dublin"/>
-    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Theatre_director"/>
-    <dbpprop:notableworks xml:lang="en">How It Is</dbpprop:notableworks>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:NPG_name"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
-    <dbpprop:languages xml:lang="en">English, French</dbpprop:languages>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.guardian.co.uk/review/story/0,12084,868126,00.html"/>
-    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Molloy_(novel)"/>
-    <dbpprop:genre xml:lang="en">Drama, fiction, poetry, screenplays</dbpprop:genre>
-    <dbpedia-owl:individualisedPnd xml:lang="de">118508172</dbpedia-owl:individualisedPnd>
     <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Novel"/>
-    <rdfs:comment xml:lang="uk">Семюел Беккет — ірландський англо- та франкомовний письменник, який народився у Дубліні. Поет, автор романів та оповідань, перекладач Джойса, драматург, він стає відомим після постановки Роже Бленом у 1953 році «Чекаючи на Ґодо». Один з основоположників (поряд з Еженом Йонеско)театра абсурду. Його творчий доробок — театральні п'єси та проза — відзначений у 1969 році Нобелівською премією в галузі літератури. Семюель Беккет є одним із драматургів, яких найбільш вивчають.</rdfs:comment>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/France"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
+    <rdfs:comment xml:lang="it">Considerato uno degli scrittori più influenti del XX secolo, Beckett è senza dubbio la più significativa personalità di quel genere teatrale e filosofico che Martin Esslin definì come "Teatro dell'assurdo". La sua opera più famosa è la pièce Aspettando Godot, e il corto cinematografico Film del 1965 con Buster Keaton.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Samuel_Beckett"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1906_births"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Samuel_Beckett?oldid=493689525"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dbpprop:shortDescription xml:lang="en">Irish novelist, playwright and poet</dbpprop:shortDescription>
+    <rdfs:comment xml:lang="hu">Samuel Barclay Beckett, ír költő, próza- és drámaíró. A nagyközönség által hosszú ideig alig olvasott, inkább csak az irodalmi elit által ismert és elismert szerző első jelentős színpadi műve, a Godot-ra várva az abszurd dráma alapműve. A játszma vége az író drámai művészetének másik vonalát emeli ki, a teljes semmibe hullás peremén játszódó darab a Lear király paródiájaként is értelmezhető.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Samuel_Beckett"/>
+    <rdfs:comment xml:lang="ko">사뮈엘 베케트는 아일랜드에서 태어난 프랑스의 소설가·극작가이다.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Samuel Beckett est un écrivain, poète et dramaturge irlandais d'expression française et anglaise, prix Nobel de littérature. S'il est l'auteur de romans, tels que Molloy, Malone meurt et l'Innommable et de textes brefs en prose, son nom reste surtout associé au théâtre de l'absurde, dont sa pièce En attendant Godot est l'une des plus célèbres illustrations.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Беккет,_Сэмюэл"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.guardian.co.uk/departments/classics/story/0,,1000868,00.html"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Samuel_Beckett"/>
+    <rdfs:label xml:lang="de">Samuel Beckett</rdfs:label>
+    <rdfs:label xml:lang="vi">Samuel Beckett</rdfs:label>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Foxrock"/>
+    <dbpedia-owl:abstract xml:lang="vi">Samuel Barklay Beckett (13 tháng 4 năm 1906 – 22 tháng 12 năm 1989) là nhà văn, nhà viết kịch Ireland đoạt giải Nobel Văn học năm 1969. Samuel Beckett sáng tác bằng tiếng Anh và tiếng Pháp.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Dublin_University_cricketers"/>
+    <rdfs:comment xml:lang="pl">Samuel Barclay Beckett – irlandzki dramaturg, prozaik i eseista, tworzący początkowo w języku angielskim, a od 1945 – francuskim. Jeden z twórców teatru absurdu. Jego powieści są pozbawiane tradycyjnej narracji, utrzymane w klimacie skrajnego pesymizmu i podkreślające bezsens ludzkiej egzystencji.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_Nobel_laureates"/>
+    <dbpprop:genre xml:lang="en">Drama, fiction, poetry, screenplays</dbpprop:genre>
+    <dbpprop:influenced xml:lang="en">AdornoAlbeeAusterBadiouBanvilleDeleuzeBarthelmeBurroughsCalvinoCarrCoetzeeDavisDeLilloDickFoucaultHavelIonescoJohnsonKaneMahonMametNaumanNortonO'BrienPettigrewPinterRuy-SánchezShepardStoppardMcCarthy</dbpprop:influenced>
+    <rdfs:label xml:lang="ca">Samuel Beckett</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_translators"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpprop:source xml:lang="en">From Watt</dbpprop:source>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+    <foaf:name xml:lang="en">Samuel Beckett</foaf:name>
+    <dbpedia-owl:abstract xml:lang="sv">Samuel Beckett, född 13 april 1906 i Dublin, Irland, död 22 december 1989 i Paris, Frankrike, var en irländsk-fransk författare och dramatiker. Beckett skrev i första delen av sitt författarskap mest lyrik och prosa på engelska. 1928-1929 undervisade Beckett i engelska vid École Normale Supérieure i Paris. Efter en uppgörelse med sin mor 1937 flyttade han permanent till Paris och producerade där ett antal pjäser, som är skrivna på franska (och senare översatta till engelska av honom själv). Under 1930-talet översatte Beckett verk av James Joyce till franska. Från 1951, då Beckett helt övergick till att skriva på franska, tillkom de berömda ordknappa pjäserna En attendant Godot,, Fin de partie samt Happy Days (Lyckliga dagar, 1962). De är lysande exempel på det som den engelske kritikern Martin Esslin kallade "det absurdas teater" och som i Sverige kallas absurd teater. Beckett anses vara en av de främsta absurdistiska författarna tillsammans med Eugène Ionesco och Fernando Arrabal. Samuel Beckett belönades 1969 med Nobelpriset i litteratur. Emellertid reste han aldrig till Stockholm för att motta priset. Under andra världskriget deltog han aktivt i den franska motståndsrörelsen och tvingades att fly till Roussillon i södra Frankrike för att undgå nazisterna. Han fortsatte där sitt motståndsarbete och belönades efter kriget av den franska staten med medaljerna Croix de Guerre (Krigskorset) och Medaille de la Résistance (Motståndsrörelsens medalj).</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_Trinity_College,_Dublin"/>
+    <dbpprop:id rdf:datatype="http://www.w3.org/2001/XMLSchema#int">332</dbpprop:id>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Prix_Italia_Award_winners"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <dbpedia-owl:abstract xml:lang="en">Samuel Barclay Beckett (13 April 1906 – 22 December 1989) was an Irish avant-garde novelist, playwright, theatre director, and poet, who lived in France for most of his adult life and wrote in both English and French. His work offers a bleak, tragicomic outlook on human nature, often coupled with black comedy and gallows humour. Beckett is widely regarded as among the most influential writers of the 20th century. Strongly influenced by James Joyce, he is considered one of the last modernists. As an inspiration to many later writers, he is also sometimes considered one of the first postmodernists. He is one of the key writers in what Martin Esslin called the "Theatre of the Absurd". His work became increasingly minimalist in his later career. Beckett was awarded the 1969 Nobel Prize in Literature "for his writing, which—in new forms for the novel and drama—in the destitution of modern man acquires its elevation". He was elected Saoi of Aosdána in 1984.</dbpedia-owl:abstract>
+    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Modernism"/>
+    <dbpedia-owl:abstract xml:lang="uk">Семюел Беккет — ірландський англо- та франкомовний письменник, який народився у Дубліні. Поет, автор романів та оповідань, перекладач Джойса, драматург, він стає відомим після постановки Роже Бленом у 1953 році «Чекаючи на Ґодо». Один з основоположників (поряд з Еженом Йонеско)театра абсурду. Його творчий доробок — театральні п'єси та проза — відзначений у 1969 році Нобелівською премією в галузі літератури. Семюель Беккет є одним із драматургів, яких найбільш вивчають.</dbpedia-owl:abstract>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Waiting_for_Godot"/>
     <dbpprop:quote xml:lang="en">time she stopped
 sitting at her window
 quiet at her window
@@ -344,194 +163,72 @@ all eyes
 all sides
 high and low
 time she stopped</dbpprop:quote>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Foxrock"/>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/サミュエル・ベケット"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1906-04-13</dbpedia-owl:birthDate>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.hrc.utexas.edu/exhibitions/web/beckett/"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <rdfs:comment xml:lang="ja">サミュエル・ベケット（Samuel Beckett, 1906年4月13日 - 1989年12月22日）は、アイルランド出身のフランスの劇作家、小説家、詩人。不条理演劇を代表する作家の一人であり、小説においても20世紀の重要作家の一人とされる。ウジェーヌ・イヨネスコと同様に、20世紀フランスを代表する劇作家としても知られている。1969年にはノーベル文学賞を受賞している。</rdfs:comment>
     <dbpprop:name xml:lang="en">Beckett, Samuel</dbpprop:name>
-    <dbpedia-owl:pseudonym xml:lang="en">Andrew Belis</dbpedia-owl:pseudonym>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1906_births"/>
-    <dbpprop:birthName xml:lang="en">Samuel Barclay Beckett</dbpprop:birthName>
-    <dbpprop:quoted xml:lang="en">true</dbpprop:quoted>
-    <dbpedia-owl:abstract xml:lang="ru">Сэ́мюэл Бе́ккет — ирландский писатель. Один из основоположников театра абсурда. Лауреат Нобелевской премии по литературе 1969 года. Писал на английском и французском языках. Произведения Беккета отличаются минимализмом, использованием новаторских приёмов, философской тематикой.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="no">Samuel Barclay Beckett, født 13. april 1906 i Dublin, død 22. desember 1989 i Paris, var en anglo-irsk-fransk forfatter og dramatiker. Blant hans tidlige arbeider finnes lyrikk og prosa skrevet på engelsk, men etter et oppgjør med sin mor i 1937 flyttet han til Paris og begynte å skrive på fransk. Resten av livet vekslet han på å skrive på fransk og engelsk, og oversatte også stort sett alle sine verker mellom disse to språkene.</rdfs:comment>
+    <dbpprop:name xml:lang="en">Samuel Beckett</dbpprop:name>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1906-04-13</dbpedia-owl:birthDate>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Murphy_(novel)"/>
+    <dbpprop:notableworks xml:lang="en">Malone Dies</dbpprop:notableworks>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Samuel_Beckett"/>
+    <rdfs:comment xml:lang="sv">Samuel Beckett, född 13 april 1906 i Dublin, Irland, död 22 december 1989 i Paris, Frankrike, var en irländsk-fransk författare och dramatiker. Beckett skrev i första delen av sitt författarskap mest lyrik och prosa på engelska. 1928-1929 undervisade Beckett i engelska vid École Normale Supérieure i Paris. Efter en uppgörelse med sin mor 1937 flyttade han permanent till Paris och producerade där ett antal pjäser, som är skrivna på franska (och senare översatta till engelska av honom själv).</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Samuel_Beckett"/>
+    <rdfs:label xml:lang="cs">Samuel Beckett</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1989_deaths"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
+    <dbpprop:align xml:lang="en">lright</dbpprop:align>
+    <dbpprop:notableworks xml:lang="en">How It Is</dbpprop:notableworks>
+    <dbpprop:placeOfDeath xml:lang="en">Paris, France</dbpprop:placeOfDeath>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_cricketers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_novelists"/>
+    <rdfs:comment xml:lang="uk">Семюел Беккет — ірландський англо- та франкомовний письменник, який народився у Дубліні. Поет, автор романів та оповідань, перекладач Джойса, драматург, він стає відомим після постановки Роже Бленом у 1953 році «Чекаючи на Ґодо». Один з основоположників (поряд з Еженом Йонеско)театра абсурду. Його творчий доробок — театральні п'єси та проза — відзначений у 1969 році Нобелівською премією в галузі літератури. Семюель Беккет є одним із драматургів, яких найбільш вивчають.</rdfs:comment>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Watt_(novel)"/>
+    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118508172</dbpprop:pnd>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Quote_box"/>
+    <foaf:givenName xml:lang="en">Samuel</foaf:givenName>
+    <foaf:surname xml:lang="en">Beckett</foaf:surname>
+    <rdfs:comment xml:lang="nl">Samuel Barclay Beckett was een Ierse (toneel)schrijver en dichter.</rdfs:comment>
+    <dbpprop:languages xml:lang="en">English, French</dbpprop:languages>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118508172</dbpedia-owl:individualisedPnd>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:James_Joyce"/>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Malone_Dies"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Theatre_of_the_Absurd"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/サミュエル・ベケット"/>
+    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7386737</dbpprop:viaf>
+    <dbpprop:selibr rdf:datatype="http://www.w3.org/2001/XMLSchema#int">177070</dbpprop:selibr>
+    <dbpedia-owl:abstract xml:lang="pl">Samuel Barclay Beckett – irlandzki dramaturg, prozaik i eseista, tworzący początkowo w języku angielskim, a od 1945 – francuskim. Jeden z twórców teatru absurdu. Jego powieści są pozbawiane tradycyjnej narracji, utrzymane w klimacie skrajnego pesymizmu i podkreślające bezsens ludzkiej egzystencji.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="de">Samuel Barclay Beckett war ein irischer Schriftsteller. Er gilt als einer der bedeutendsten Schriftsteller des 20. Jahrhunderts und wurde 1969 mit dem Nobelpreis für Literatur ausgezeichnet. Sein bekanntestes Werk ist Warten auf Godot (En attendant Godot), das am 5. Januar 1953 in Paris uraufgeführt wurde. Die erste Aufführung im deutschsprachigen Raum fand am 8. September 1953 im Schlossparktheater Berlin statt. Beckett war zunächst britischer, nach der Unabhängigkeit Irlands 1921 dann irischer Staatsbürger, lebte aber seit 1937 ständig in Frankreich. Seine ersten Texte verfasste er in englischer Sprache, in seiner mittleren und fruchtbarsten Phase schrieb er überwiegend französisch, später wechselte er zwischen beiden Sprachen, oft von Text zu Text, und übersetzte seine Werke häufig selbst in die jeweils andere.</dbpedia-owl:abstract>
     <rdfs:comment xml:lang="fi">Samuel Barclay Beckett oli irlantilainen kirjailija, joka sai Nobelin kirjallisuuspalkinnon vuonna 1969. Beckettin romaanit, näytelmät ja runot ovat minimalistisia ja syvästi pessimistisiä, ja myöhemmät työt yhä absurdimpia. Hänen tunnetuin työnsä on näytelmä Godot – huomenna hän tulee, jota on esitetty usein Suomessakin.</rdfs:comment>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</dbpprop:dateOfDeath>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_translators"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Samuel_Beckett"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Portora_Royal_School"/>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Molloy_(novel)"/>
+    <dbpprop:notableworks xml:lang="en">Waiting for Godot</dbpprop:notableworks>
     <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
-    <rdfs:label xml:lang="uk">Семюел Беккет</rdfs:label>
-    <dbpedia-owl:abstract xml:lang="no">Samuel Barclay Beckett, født 13. april 1906 i Dublin, død 22. desember 1989 i Paris, var en anglo-irsk-fransk forfatter og dramatiker. Blant hans tidlige arbeider finnes lyrikk og prosa skrevet på engelsk, men etter et oppgjør med sin mor i 1937 flyttet han til Paris og begynte å skrive på fransk. Resten av livet vekslet han på å skrive på fransk og engelsk, og oversatte også stort sett alle sine verker mellom disse to språkene. Det absurde teaters gjennombrudd regnes for å ha kommet med Becketts Mens vi venter på Godot (eller Vente på Godot, som Nationaltheatrets oppsetning het i 2005) i 1952. Beckett anses for å være en av de fremste absurde forfatterne sammen med Eugen Ionescu og Jean Genet. Han ble tildelt Nobelprisen i litteratur i 1969, og tittelen Saoi, den vise, av den irske kunstnersammenslutningen Aosdána i 1984. Under den andre verdenskrig deltok han aktivt i den franske motstandsbevegelsen, og ble tvunget til å flykte til Roussillon i Syd-Frankrike for å unngå nazistene. Han fortsatte motstandsarbeidet der, og ble etter krigen tildelt Croix de Guerre, krigskorset, og Medaille de la Résistance, motstandsbevegelsens medalje.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06whf"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.guardian.co.uk/review/story/0,12084,868126,00.html"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/The_Unnamable_(novel)"/>
+    <dbpedia-owl:abstract xml:lang="hu">Samuel Barclay Beckett, ír költő, próza- és drámaíró. A nagyközönség által hosszú ideig alig olvasott, inkább csak az irodalmi elit által ismert és elismert szerző első jelentős színpadi műve, a Godot-ra várva az abszurd dráma alapműve. A játszma vége az író drámai művészetének másik vonalát emeli ki, a teljes semmibe hullás peremén játszódó darab a Lear király paródiájaként is értelmezhető. Rövid Proust tanulmánya a szakirodalomban máig kiemelkedőnek számító filozófiai értelmezés, és bár Proust műveiről alig beszél direkt módon, de már saját későbbi filozófiájának vázlatát adja. A visszhang csontjai című verseskötetét a szürrealista automatikus írás, T. S. Eliot-i költői példája ösztönözte. A szürrealisták által kedvelt fekete humor változata Murphy című regénye. Beckett hősei elidegenedett világban élnek, mégsem képesek lemondani a jelentésről, létezésük értelmét keresik és makacsul igyekeznek kitartani a legvégső időkig.</dbpedia-owl:abstract>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">13</dbpprop:dateOfBirth>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/사뮈엘_베케트"/>
+    <dbpprop:placeOfBirth xml:lang="en">Foxrock, Dublin, Ireland</dbpprop:placeOfBirth>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
+    <dbpprop:notableworks xml:lang="en">Krapp's Last Tape</dbpprop:notableworks>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Samuel_Beckett,_Pic,_1.jpg/200px-Samuel_Beckett,_Pic,_1.jpg"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:%C3%89cole_Normale_Sup%C3%A9rieure_faculty"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_people_of_World_War_II"/>
     <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Endgame_(play)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_artists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_M%C3%A9daille_de_la_R%C3%A9sistance"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Samuel_Beckett"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Samuel_Beckett"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1989-12-22</dbpprop:deathDate>
     <dbpedia-owl:abstract xml:lang="ko">사뮈엘 베케트는 아일랜드에서 태어난 프랑스의 소설가·극작가이다.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Postmodern_writers"/>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_K._Dick">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Barry_Hannah">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tina_Howe">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Waiting_for_Godot">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Come_and_Go">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_Norton_(comedian)">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Barth">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitch_Cullin">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Happy_Days_(1991_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Watt_(novel)">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dream_of_Fair_to_Middling_Women">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Littell">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Laurence">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Blanchot">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Banville">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Molloy_(novel)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Berkeley">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rough_for_Theatre_II">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Malone_Dies">
-    <dbpedia-owl:translator rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alain_Badiou">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercier_and_Camier">
-    <dbpedia-owl:translator rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Heller">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.nytimes.com/61839875166033031593">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Italo_Calvino">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/B._S._Johnson">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/My_Case">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Beckett,_Samuel_Barclay">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Raymond_Kennedy">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Becket_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Fielding">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Janaka_Stucky">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_S._Burroughs">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Calder%C3%B3n_de_la_Barca">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Wilde">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Mahon">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Palmer_(poet)">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Stoppard">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fizzles">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jocelyn_Herbert">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:notableWork rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Auster">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Endgame_(play)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Markson">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leigh_Blackmore">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Samuel_Beckett"/>
+    <dbpprop:bgcolor xml:lang="en">#FFFFF0</dbpprop:bgcolor>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <dbpprop:pseudonym xml:lang="en">Andrew Belis</dbpprop:pseudonym>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:NPG_name"/>
+    <rdfs:comment xml:lang="ca">Samuel Barclay Beckett fou un escriptor d'obres teatrals, novel·lista i poeta irlandès. Les obres de Beckett són fonamentalment minimalistes, i profundament pessimistes quant a la naturalesa i condició humanes, tot i que el pessimisme es veu compensat amb un gran sentit de l'humor. Beckett va guanyar el Premi Nobel de Literatura el 1969. Se'l considera un dels representants més destacats de l'experimentalisme literari del segle xx i del teatre de l'absurd.</rdfs:comment>
   </rdf:Description>
 </rdf:RDF>

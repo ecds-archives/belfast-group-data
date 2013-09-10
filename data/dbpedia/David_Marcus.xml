@@ -10,44 +10,38 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Marcus">
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.rte.ie/news/2009/0509/marcusd.html"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:The_Irish_Press_people"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleAssociatedWithUniversityCollegeCork"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1924</dbpprop:dateOfBirth>
-    <rdfs:comment xml:lang="nl">David Marcus was een Iers-Joods uitgever en romanschrijver. Marcus was uitgever van talloze bloemlezingen van Ierse fictie en poëzie, zoals de Phoenix Irish Short Stories collections. Hij was ook de initiatiefnemer van New Irish Writing, waar Ierse auteurs als Dermot Bolger, Ita Daly, Anne Enright, Neil Jordan, Claire Keegan, John McGahern, Bernard MacLaverty, Eilis ni Dhuibhne, Joseph O'Connor, Colm Tóibín en William Wall hun debuut maakten.</rdfs:comment>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2009</dbpprop:dateOfDeath>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2009_deaths"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_writers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Cork"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_University_College_Cork"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyCork"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishWriters"/>
-    <rdfs:comment xml:lang="en">David Marcus (b. 1924 in County Cork, d. Beltane 9 May 2009) was an Irish Jewish editor and writer who was a lifelong advocate and editor of Irish fiction.</rdfs:comment>
-    <dbpprop:name xml:lang="en">Marcus, David</dbpprop:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:surname xml:lang="en">Marcus</foaf:surname>
-    <dbpedia-owl:abstract xml:lang="en">David Marcus (b. 1924 in County Cork, d. Beltane 9 May 2009) was an Irish Jewish editor and writer who was a lifelong advocate and editor of Irish fiction.</dbpedia-owl:abstract>
-    <foaf:name xml:lang="en">David Marcus</foaf:name>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.033kzw"/>
     <rdfs:label xml:lang="en">David Marcus</rdfs:label>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_Jews"/>
-    <dbpedia-owl:abstract xml:lang="nl">David Marcus was een Iers-Joods uitgever en romanschrijver. Marcus was uitgever van talloze bloemlezingen van Ierse fictie en poëzie, zoals de Phoenix Irish Short Stories collections. Hij was ook de initiatiefnemer van New Irish Writing, waar Ierse auteurs als Dermot Bolger, Ita Daly, Anne Enright, Neil Jordan, Claire Keegan, John McGahern, Bernard MacLaverty, Eilis ni Dhuibhne, Joseph O'Connor, Colm Tóibín en William Wall hun debuut maakten. In zijn roman uit 1986, A Land Not Theirs, beschrijft hij de ervaringen van de Joodse gemeenschap van Cork tijdens de Ierse onafhankelijkheidsoorlog. Het boek werd een bestseller. In 2001 publiceerde Marcus Oughtobiography - Leaves from the diary of a hyphenated Jew, een autobiografisch relaas van zijn leven als Ierse Jood en als deelnemer aan het Ierse literaire leven.</dbpedia-owl:abstract>
-    <foaf:givenName xml:lang="en">David</foaf:givenName>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1924_births"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_writers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Cork"/>
+    <rdfs:comment xml:lang="en">David Marcus (b. 1924 in County Cork, d. Beltane 9 May 2009) was an Irish Jewish editor and writer who was a lifelong advocate and editor of Irish fiction.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://article.wn.com/view/2008/02/09/Ode_to_an_honest_editor/?template=cheetah-article%2Fdisplayarticle.txt"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.irishwriters-online.com/davidmarcus.html"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1924_births"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.033kzw"/>
+    <foaf:surname xml:lang="en">Marcus</foaf:surname>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:The_Irish_Press_people"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyCork"/>
+    <foaf:givenName xml:lang="en">David</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2009_deaths"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_writers"/>
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/David_Marcus"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/David_Marcus"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2009</dbpprop:dateOfDeath>
+    <foaf:name xml:lang="en">David Marcus</foaf:name>
     <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/David_Marcus?oldid=492117412"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_University_College_Cork"/>
+    <dbpprop:name xml:lang="en">Marcus, David</dbpprop:name>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1924</dbpprop:dateOfBirth>
+    <dbpedia-owl:abstract xml:lang="nl">David Marcus was een Iers-Joods uitgever en romanschrijver. Marcus was uitgever van talloze bloemlezingen van Ierse fictie en poëzie, zoals de Phoenix Irish Short Stories collections. Hij was ook de initiatiefnemer van New Irish Writing, waar Ierse auteurs als Dermot Bolger, Ita Daly, Anne Enright, Neil Jordan, Claire Keegan, John McGahern, Bernard MacLaverty, Eilis ni Dhuibhne, Joseph O'Connor, Colm Tóibín en William Wall hun debuut maakten. In zijn roman uit 1986, A Land Not Theirs, beschrijft hij de ervaringen van de Joodse gemeenschap van Cork tijdens de Ierse onafhankelijkheidsoorlog. Het boek werd een bestseller. In 2001 publiceerde Marcus Oughtobiography - Leaves from the diary of a hyphenated Jew, een autobiografisch relaas van zijn leven als Ierse Jood en als deelnemer aan het Ierse literaire leven.</dbpedia-owl:abstract>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/David_Marcus"/>
+    <dbpedia-owl:abstract xml:lang="en">David Marcus (b. 1924 in County Cork, d. Beltane 9 May 2009) was an Irish Jewish editor and writer who was a lifelong advocate and editor of Irish fiction.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleAssociatedWithUniversityCollegeCork"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_writers"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.rte.ie/news/2009/0509/marcusd.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_Jews"/>
+    <rdfs:comment xml:lang="nl">David Marcus was een Iers-Joods uitgever en romanschrijver. Marcus was uitgever van talloze bloemlezingen van Ierse fictie en poëzie, zoals de Phoenix Irish Short Stories collections. Hij was ook de initiatiefnemer van New Irish Writing, waar Ierse auteurs als Dermot Bolger, Ita Daly, Anne Enright, Neil Jordan, Claire Keegan, John McGahern, Bernard MacLaverty, Eilis ni Dhuibhne, Joseph O'Connor, Colm Tóibín en William Wall hun debuut maakten.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishWriters"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish-language_writers"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/David_Marcus">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/David_Marcus"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/David_Marcus">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/David_Marcus"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.irishwriters-online.com/davidmarcus.html"/>
   </rdf:Description>
 </rdf:RDF>

@@ -12,32 +12,32 @@
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/72904606"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036268092#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/72904606">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdaGr2:dateOfBirth>1951</rdaGr2:dateOfBirth>
+    <foaf:name>Marshall, Douglas, 1951-</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/72904606/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/72904606"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036268092#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
     <skos:prefLabel>Marshall, Douglas, 1951-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/72904606"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++87139976#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n87139976"/>
     <skos:prefLabel>Marshall, Douglas, 1951-</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/72904606"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/72904606/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/72904606"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/72904606">
-    <foaf:name>Marshall, Douglas, 1951-</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdaGr2:dateOfBirth>1951</rdaGr2:dateOfBirth>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n87139976"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/72904606/">
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/72904606"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/72904606"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
 </rdf:RDF>

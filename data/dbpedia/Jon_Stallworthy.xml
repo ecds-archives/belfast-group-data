@@ -10,71 +10,55 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="http://dbpedia.org/resource/Jon_Stallworthy">
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.09gfld"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Succession_box"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dbpprop:title xml:lang="en">President of Wolfson College, Oxford</dbpprop:title>
+    <rdfs:comment xml:lang="en">Jon (Howie) Stallworthy (born 18 January 1935 in London) FBA FRSL is Professor Emeritus of English at the University of Oxford. He is also a Fellow and (twice) Acting President of Wolfson College, a poet, and literary critic. Stallworthy's parents, John Arthur and Margaret Stallworthy, were from New Zealand and moved to England in 1934. Stallworthy started writing poems when he was only seven years old.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.towerpoetry.org.uk/poetry-matters/july2004/stallworthy.html"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfLiterature"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Rugby_School"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_literary_critics"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jon_Stallworthy"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_British_Academy"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_The_Dragon_School"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Presidents_of_Wolfson_College,_Oxford"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2000</dbpprop:years>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Guggenheim_Fellows"/>
+    <foaf:surname xml:lang="en">Stallworthy</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Hermione_Lee"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Jon_Stallworthy?oldid=493194968"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GuggenheimFellows"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_Wolfson_College,_Oxford"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheBritishAcademy"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Jon_Stallworthy"/>
     <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
     <foaf:givenName xml:lang="en">Jon</foaf:givenName>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GuggenheimFellows"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Rugby_School"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PresidentsOfWolfsonCollege,Oxford"/>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Jon_Stallworthy?oldid=493194968"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishLiteraryCritics"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfWolfsonCollege,Oxford"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheBritishAcademy"/>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Hermione_Lee"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <dbpprop:before rdf:resource="http://dbpedia.org/resource/Gareth_Roberts_(physicist)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Presidents_of_Wolfson_College,_Oxford"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jon_Stallworthy"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1935-01-18</dbpedia-owl:birthDate>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</dbpprop:dateOfBirth>
+    <dbpprop:name xml:lang="en">Stallworthy, Jon</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfMagdalenCollege,Oxford"/>
+    <rdfs:label xml:lang="en">Jon Stallworthy</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_biographers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Magdalen_College,_Oxford"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PresidentsOfWolfsonCollege,Oxford"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Succession_box"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishLiteraryCritics"/>
     <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2006</dbpprop:years>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishBiographers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
-    <foaf:name xml:lang="en">Jon Stallworthy</foaf:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfMagdalenCollege,Oxford"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.towerpoetry.org.uk/poetry-matters/july2004/stallworthy.html"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_biographers"/>
-    <rdfs:label xml:lang="en">Jon Stallworthy</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Guggenheim_Fellows"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromLondon"/>
-    <dbpedia-owl:abstract xml:lang="en">Jon (Howie) Stallworthy (born 18 January 1935 in London) FBA FRSL is Professor Emeritus of English at the University of Oxford. He is also a Fellow and (twice) Acting President of Wolfson College, a poet, and literary critic. Stallworthy's parents, John Arthur and Margaret Stallworthy, were from New Zealand and moved to England in 1934. Stallworthy started writing poems when he was only seven years old. He was educated at the Dragon School, Rugby School and at Magdalen College, Oxford, where he won the Newdigate prize. His works include seven volumes of poetry, and biographies of Wilfred Owen and Louis MacNeice. He has edited several anthologies and is particularly known for his work on war poetry. While researching the local history of New Zealand Stallworthy discovered an obscure volume entitled Early Northern Wairoa written by his great-grandfather, John Stallworthy (1854-1923), in 1916. From this book he learned that his great-great-grandfather, George Stallworthy (1809-1859), had left his birthplace of Preston Bissett in Buckinghamshire, England, for the Marquesas as a missionary. This discovery led in turn to him finding family-related letters in the archives of the London Missionary Society. Stallworthy's book A Familiar Tree (Oxford University Press, 1978) is a collection of poetry inspired by events depicted in these documents. Singing School is an autobiography which emphasises Stallworthy's development as a poet. Stallworthy wrote a short summary of war poetry in the introductory chapter to the Oxford Book of War Poetry.</dbpedia-owl:abstract>
-    <foaf:surname xml:lang="en">Stallworthy</foaf:surname>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_Wolfson_College,_Oxford"/>
-    <dbpprop:name xml:lang="en">Stallworthy, Jon</dbpprop:name>
-    <rdfs:comment xml:lang="en">Jon (Howie) Stallworthy (born 18 January 1935 in London) FBA FRSL is Professor Emeritus of English at the University of Oxford. He is also a Fellow and (twice) Acting President of Wolfson College, a poet, and literary critic. Stallworthy's parents, John Arthur and Margaret Stallworthy, were from New Zealand and moved to England in 1934. Stallworthy started writing poems when he was only seven years old.</rdfs:comment>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/David_Smith_(botanist)"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1935-01-18</dbpedia-owl:birthDate>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Gareth_Roberts_(physicist)"/>
-    <dbpprop:title xml:lang="en">President of Wolfson College, Oxford</dbpprop:title>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Jon_Stallworthy"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</dbpprop:dateOfBirth>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2000</dbpprop:years>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Magdalen_College,_Oxford"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1935_births"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPoets"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_London"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gareth_Roberts_(physicist)">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Jon_Stallworthy"/>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Jon_Stallworthy"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hermione_Lee">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Jon_Stallworthy"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Jon_Stallworthy">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jon_Stallworthy"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Jon_Stallworthy">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Jon_Stallworthy"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Smith_(botanist)">
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Jon_Stallworthy"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.09gfld"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_British_Academy"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_The_Dragon_School"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1935_births"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dbpedia-owl:abstract xml:lang="en">Jon (Howie) Stallworthy (born 18 January 1935 in London) FBA FRSL is Professor Emeritus of English at the University of Oxford. He is also a Fellow and (twice) Acting President of Wolfson College, a poet, and literary critic. Stallworthy's parents, John Arthur and Margaret Stallworthy, were from New Zealand and moved to England in 1934. Stallworthy started writing poems when he was only seven years old. He was educated at the Dragon School, Rugby School and at Magdalen College, Oxford, where he won the Newdigate prize. His works include seven volumes of poetry, and biographies of Wilfred Owen and Louis MacNeice. He has edited several anthologies and is particularly known for his work on war poetry. While researching the local history of New Zealand Stallworthy discovered an obscure volume entitled Early Northern Wairoa written by his great-grandfather, John Stallworthy (1854-1923), in 1916. From this book he learned that his great-great-grandfather, George Stallworthy (1809-1859), had left his birthplace of Preston Bissett in Buckinghamshire, England, for the Marquesas as a missionary. This discovery led in turn to him finding family-related letters in the archives of the London Missionary Society. Stallworthy's book A Familiar Tree (Oxford University Press, 1978) is a collection of poetry inspired by events depicted in these documents. Singing School is an autobiography which emphasises Stallworthy's development as a poet. Stallworthy wrote a short summary of war poetry in the introductory chapter to the Oxford Book of War Poetry.</dbpedia-owl:abstract>
+    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Gareth_Roberts_(physicist)"/>
+    <foaf:name xml:lang="en">Jon Stallworthy</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfWolfsonCollege,Oxford"/>
+    <dbpprop:before rdf:resource="http://dbpedia.org/resource/David_Smith_(botanist)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPoets"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromLondon"/>
   </rdf:Description>
 </rdf:RDF>

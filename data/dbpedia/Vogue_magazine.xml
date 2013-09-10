@@ -6,13 +6,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Vogue_magazine">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Vogue_magazine"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vogue_magazine">
-    <ns4:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Vogue_magazine?oldid=348933773"/>
-    <rdfs:label xml:lang="en">Vogue magazine</rdfs:label>
     <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Vogue_(magazine)"/>
+    <rdfs:label xml:lang="en">Vogue magazine</rdfs:label>
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Vogue_magazine"/>
+    <ns4:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Vogue_magazine?oldid=348933773"/>
   </rdf:Description>
 </rdf:RDF>

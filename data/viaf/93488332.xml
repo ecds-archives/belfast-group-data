@@ -8,83 +8,83 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0002451#skos:Concept">
+    <skos:prefLabel>Prorok, Leszek, 1919-1984</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/93488332"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068689896#skos:Concept">
+    <skos:prefLabel>Prorok, Leszek, 1919-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/93488332"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/93488332/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/93488332"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++94200940#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:altLabel>Ajaks.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/93488332"/>
+    <skos:prefLabel>Prorok, Leszek, 1919-1984</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/93488332/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/93488332"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11538107#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Prorok, Leszek, 1919-1984</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/93488332"/>
+    <skos:altLabel>Ajaks.</skos:altLabel>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C119056232#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Prorok, Leszek, 1919-1984</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/93488332"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068689896#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/93488332"/>
-    <skos:prefLabel>Prorok, Leszek, 1919-</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0002451#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/93488332"/>
-    <skos:prefLabel>Prorok, Leszek, 1919-1984</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/93488332">
-    <foaf:name>Prorok, Leszek</foaf:name>
-    <foaf:name>Prorok, Leszek, 1919-</foaf:name>
-    <rdaGr2:dateOfBirth>1919-04-28</rdaGr2:dateOfBirth>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdaGr2:dateOfDeath>1984-12-08</rdaGr2:dateOfDeath>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12027207h#foaf:Person"/>
-    <foaf:name>Ajaks.</foaf:name>
-    <foaf:name>Prorok, Leszek, 1919-1984</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/028436423/id"/>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119056232"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/93488332/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/93488332"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12027207#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/93488332"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12027207h"/>
     <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12027207h"/>
     <skos:prefLabel>Prorok, Leszek, 1919-1984</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11538107#skos:Concept">
-    <skos:prefLabel>Prorok, Leszek, 1919-1984</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/93488332"/>
-    <skos:altLabel>Ajaks.</skos:altLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12027207h"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++94200940#skos:Concept">
-    <skos:prefLabel>Prorok, Leszek, 1919-1984</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/93488332"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:altLabel>Ajaks.</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/93488332">
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119056232"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12027207h#foaf:Person"/>
+    <foaf:name>Prorok, Leszek, 1919-</foaf:name>
+    <foaf:name>Prorok, Leszek</foaf:name>
+    <foaf:name>Ajaks.</foaf:name>
+    <rdaGr2:dateOfDeath>1984-12-08</rdaGr2:dateOfDeath>
+    <foaf:name>Prorok, Leszek, 1919-1984</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/028436423/id"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdaGr2:dateOfBirth>1919-04-28</rdaGr2:dateOfBirth>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028436423#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80145575#skos:Concept">
+    <skos:prefLabel>Prorok, Leszek</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:prefLabel>Prorok, Leszek, 1919-1984</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80145575"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/93488332"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/93488332/">
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/93488332"/>
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80145575#skos:Concept">
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80145575"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028436423#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Prorok, Leszek</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/93488332"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/93488332/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/93488332"/>
+    <skos:prefLabel>Prorok, Leszek, 1919-1984</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
   </rdf:Description>
 </rdf:RDF>

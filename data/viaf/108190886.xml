@@ -8,162 +8,168 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls002697740#skos:Concept">
-    <skos:altLabel>ستاينر، جورج، 1929-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C88441#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
-    <skos:altLabel>جورج ستينر، 1929-</skos:altLabel>
-    <skos:prefLabel>ستينر، جورج، 1929-</skos:prefLabel>
+    <skos:altLabel>Steiner, George</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/108190886/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/108190886"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79106189#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10097424#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79106189"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
     <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
-    <skos:altLabel>Steiner, G. (George), 1929-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/108190886/#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000126629#skos:Concept">
+    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX869252#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79106189#skos:Concept">
+    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79106189"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Steiner, G. (George), 1929-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108190886/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/108190886"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990008212#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11670897#skos:Concept">
+    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CGeorge_Steiner#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Steiner, George</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0000D5440#skos:Concept">
     <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108190886/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CGeorge_Steiner#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <skos:prefLabel>Steiner, George</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++95004115#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/108190886/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/108190886"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035522384#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11925489#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
-    <skos:altLabel>Steiner Georges 1929-....</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb119254895"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb119254895"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990008212#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000126629#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/108190886">
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb119254895#foaf:Person"/>
-    <foaf:name>スタイナー, G</foaf:name>
-    <foaf:name>スタイナー, ジョージ</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Steiner"/>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/286043"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Steiner, Francis George 1929- Vollstaendiger Name</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Steiner, G. (George), 1929-</foaf:name>
-    <foaf:name>ستاينر، جورج، 1929-</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/032608969/id"/>
-    <foaf:name>Steiner Georges 1929-....</foaf:name>
-    <foaf:name>שטיינר, ג'ורג 1929-</foaf:name>
-    <foaf:name>جورج ستينر، 1929-</foaf:name>
-    <foaf:name>Steiner, George, 1929-....</foaf:name>
-    <foaf:name>Steiner, George</foaf:name>
-    <foaf:name>ستينر، جورج، 1929-</foaf:name>
-    <foaf:name>Steiner, Georges</foaf:name>
-    <rdaGr2:dateOfDeath>1929-04-23</rdaGr2:dateOfDeath>
-    <rdaGr2:dateOfBirth>1929</rdaGr2:dateOfBirth>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119200244"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C286043#skos:Concept">
     <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/286043#concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11670897#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C032608969#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Steiner, Georges</skos:altLabel>
+    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108190886">
+    <foaf:name>Steiner, George, 1929-....</foaf:name>
+    <foaf:name>Steiner, George</foaf:name>
+    <foaf:name>שטיינר, ג'ורג 1929-</foaf:name>
+    <rdaGr2:dateOfDeath>1929-04-23</rdaGr2:dateOfDeath>
+    <foaf:name>Steiner, Georges</foaf:name>
+    <foaf:name>ستاينر، جورج، 1929-</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb119254895#foaf:Person"/>
+    <foaf:name>スタイナー, G</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Steiner"/>
+    <foaf:name>Steiner, Francis George 1929- Vollstaendiger Name</foaf:name>
+    <foaf:name>ستينر، جورج، 1929-</foaf:name>
+    <foaf:name>جورج ستينر، 1929-</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/032608969/id"/>
+    <foaf:name>スタイナー, ジョージ</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119200244"/>
+    <foaf:name>Steiner, G. (George), 1929-</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/286043"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdaGr2:dateOfBirth>1929</rdaGr2:dateOfBirth>
+    <foaf:name>Steiner Georges 1929-....</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00457582#skos:Concept">
+    <skos:altLabel>スタイナー, ジョージ</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
+    <skos:altLabel>スタイナー, G</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000087283#skos:Concept">
+    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068387385#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C032608969#skos:Concept">
-    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls002697740#skos:Concept">
+    <skos:altLabel>ستاينر، جورج، 1929-</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
-    <skos:altLabel>Steiner, Georges</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00457582#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <skos:altLabel>スタイナー, ジョージ</skos:altLabel>
-    <skos:altLabel>スタイナー, G</skos:altLabel>
-    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
+    <skos:prefLabel>ستينر، جورج، 1929-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+    <skos:altLabel>جورج ستينر، 1929-</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C119200244#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:altLabel>Steiner, Francis George 1929- Vollstaendiger Name</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
     <skos:altLabel>שטיינר, ג'ורג 1929-</skos:altLabel>
+    <skos:altLabel>Steiner, Francis George 1929- Vollstaendiger Name</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10097424#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035522384#skos:Concept">
     <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C88441#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11925489#skos:Concept">
+    <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
-    <skos:altLabel>Steiner, George</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb119254895"/>
+    <skos:altLabel>Steiner Georges 1929-....</skos:altLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb119254895"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++95004115#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108190886"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
     <skos:prefLabel>Steiner, George, 1929-....</skos:prefLabel>
   </rdf:Description>
 </rdf:RDF>

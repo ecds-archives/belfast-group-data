@@ -8,99 +8,105 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CDarcy_O'Brien#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12197728#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12197728g"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12197728g"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C1005E6527#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX821760#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C121417980#skos:Concept">
-    <skos:prefLabel>O'Brien, Darcy 1939-1998</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50035338#skos:Concept">
-    <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50035338"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/56656629/">
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/56656629"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/56656629">
-    <rdaGr2:dateOfBirth>1939-07-16</rdaGr2:dateOfBirth>
-    <foaf:name>Obrien, Darcy</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>オブライエン, ダーシー</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Darcy_O'Brien"/>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/121417980"/>
-    <foaf:name>O'Brien, Darcy 1939-1998</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12197728g#foaf:Person"/>
-    <rdaGr2:dateOfDeath>1998-03-02</rdaGr2:dateOfDeath>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97036680#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
-    <skos:prefLabel>O'Brien, Darcy 1939-1998</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50035338#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50035338"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C071467068#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
     <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00451556#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
-    <skos:altLabel>オブライエン, ダーシー</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/56656629/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/56656629"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CDarcy_O'Brien#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
+    <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C121417980#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>O'Brien, Darcy 1939-1998</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00451556#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>オブライエン, ダーシー</skos:altLabel>
+    <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000000987#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/56656629">
+    <foaf:name>Obrien, Darcy</foaf:name>
+    <rdaGr2:dateOfDeath>1998-03-02</rdaGr2:dateOfDeath>
+    <foaf:name>O'Brien, Darcy 1939-1998</foaf:name>
+    <foaf:name>オブライエン, ダーシー</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/121417980"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12197728g#foaf:Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdaGr2:dateOfBirth>1939-07-16</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Darcy_O'Brien"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca10366787#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12197728#skos:Concept">
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12197728g"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
     <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12197728g"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000408492#skos:Concept">
-    <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/56656629/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX821760#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000408492#skos:Concept">
+    <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97036680#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>O'Brien, Darcy 1939-1998</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C071467068#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Obrien, Darcy</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/56656629"/>
   </rdf:Description>
 </rdf:RDF>

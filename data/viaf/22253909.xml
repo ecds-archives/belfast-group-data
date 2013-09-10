@@ -8,86 +8,86 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C070696772#skos:Concept">
+    <skos:prefLabel>Boland, Eavan (Eavan Aisling), 1944-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C034677127#skos:Concept">
+    <skos:prefLabel>Boland, Eavan, 1944-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/22253909/">
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/22253909"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/22253909/#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++01105354#skos:Concept">
+    <skos:prefLabel>Boland, Eavan, 1944-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C119231123#skos:Concept">
+    <skos:prefLabel>Boland, Eavan, 1944-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000204425#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Boland, Eavan</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C070696772#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <skos:prefLabel>Boland, Eavan (Eavan Aisling), 1944-</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/22253909/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CEavan_Boland#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Boland, Eavan</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/22253909">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Boland, Eavan</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Boland, Eavan (Eavan Aisling), 1944-</foaf:name>
     <owl:sameAs rdf:resource="http://dbpedia.org/resource/Eavan_Boland"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12540691x#foaf:Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <owl:sameAs rdf:resource="http://www.idref.fr/034677127/id"/>
-    <foaf:name>Boland, Eavan, 1944-....</foaf:name>
+    <foaf:name>Boland, Eavan (Eavan Aisling), 1944-</foaf:name>
     <owl:sameAs rdf:resource="http://d-nb.info/gnd/119231123"/>
     <rdaGr2:dateOfBirth>1944-09-24</rdaGr2:dateOfBirth>
+    <foaf:name>Boland, Eavan, 1944-....</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12540691x#foaf:Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Boland, Eavan</foaf:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12540691#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12540691x"/>
-    <skos:prefLabel>Boland, Eavan, 1944-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12540691x"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjs20100304001#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Boland, Eavan, 1944-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/22253909/#foaf:Person">
     <owl:sameAs rdf:resource="http://viaf.org/viaf/22253909"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C034677127#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
-    <skos:prefLabel>Boland, Eavan, 1944-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++01105354#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:prefLabel>Boland, Eavan, 1944-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C119231123#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
-    <skos:prefLabel>Boland, Eavan, 1944-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjs20100304001#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
-    <skos:prefLabel>Boland, Eavan, 1944-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80109150#skos:Concept">
-    <skos:prefLabel>Boland, Eavan</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
     <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80109150"/>
+    <skos:prefLabel>Boland, Eavan</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12540691#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12540691x"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12540691x"/>
+    <skos:prefLabel>Boland, Eavan, 1944-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/22253909"/>
   </rdf:Description>
 </rdf:RDF>

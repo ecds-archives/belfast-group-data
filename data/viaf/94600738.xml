@@ -7,56 +7,56 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C15322133X#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hughes, Glyn</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/94600738"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/94600738/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/94600738"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C13680845X#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:altLabel>Hughes, Glyn S.</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/94600738">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Hughes, Glyn</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/13680845X"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Hughes, Glyn S.</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/15322133X/id"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/94600738/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/94600738"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/94600738/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/94600738"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C15322133X#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/94600738"/>
     <skos:prefLabel>Hughes, Glyn</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0095054#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Hughes, Glyn S.</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/94600738"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/94600738">
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/13680845X"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Hughes, Glyn</foaf:name>
-    <foaf:name>Hughes, Glyn S.</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/15322133X/id"/>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069663041#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/94600738"/>
-    <skos:prefLabel>Hughes, Glyn S.</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/94600738/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/94600738"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/94600738/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C13680845X#skos:Concept">
+    <skos:prefLabel>Hughes, Glyn</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Hughes, Glyn S.</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/94600738"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++01014551#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/94600738"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/94600738"/>
     <skos:prefLabel>Hughes, Glyn S.</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/94600738/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/94600738"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069663041#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/94600738"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Hughes, Glyn S.</skos:prefLabel>
   </rdf:Description>
 </rdf:RDF>

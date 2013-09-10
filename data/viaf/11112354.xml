@@ -9,9 +9,9 @@
    xmlns:void="http://rdfs.org/ns/void#"
 >
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CTomás_Ó_Canainn#skos:Concept">
-    <skos:prefLabel>Ó Canainn, Tomás</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Ó Canainn, Tomás</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/11112354"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/11112354/">
@@ -19,28 +19,28 @@
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/11112354"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/11112354/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/11112354"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/11112354/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/11112354"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/11112354">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Ó Canainn, Tomás</foaf:name>
     <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tomás_Ó_Canainn"/>
-    <foaf:name>Canainn, Tomás Ó</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <rdaGr2:dateOfBirth>1930</rdaGr2:dateOfBirth>
     <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/11112354/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/11112354"/>
+    <foaf:name>Canainn, Tomás Ó</foaf:name>
+    <foaf:name>Ó Canainn, Tomás</foaf:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++78094465#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n78094465"/>
     <skos:prefLabel>Ó Canainn, Tomás</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/11112354"/>
     <skos:altLabel>Canainn, Tomás Ó</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n78094465"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
 </rdf:RDF>

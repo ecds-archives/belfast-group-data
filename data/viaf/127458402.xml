@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C152460#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>BBC</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127458402"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <skos:altLabel>British broadcasting corporation</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/127458402/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/127458402"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX96350#skos:Concept">
+    <skos:altLabel>BBC</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127458402"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <skos:altLabel>Radio Londres</skos:altLabel>
+    <skos:prefLabel>British Broadcasting Corporation</skos:prefLabel>
+    <skos:altLabel>Radio Nacional de Londres</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/127458402/#rdaEnt:CorporateBody">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/127458402"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/127458402/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127458402"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/127458402/#foaf:Organization">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/127458402"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/127458402">
+    <foaf:name>Londres (GB) British broadcasting corporation</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <foaf:name>British broadcasting corporation</foaf:name>
+    <foaf:name>英国放送協会</foaf:name>
+    <foaf:name>BBC</foaf:name>
+    <foaf:name>エイコク ホウソウ キョウカイ</foaf:name>
+    <foaf:name>Yingguo guang bo gong si</foaf:name>
+    <foaf:name>Great Britain. British Broadcasting Corporation</foaf:name>
+    <foaf:name>イギリス放送協会</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/151778367"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/027739708/id"/>
+    <foaf:name>Radio Londres</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/10300367-8"/>
+    <foaf:name>British Broadcasting Corporation</foaf:name>
+    <foaf:name>Igirisu Hoso Kyokai</foaf:name>
+    <foaf:name>Ying-kuo kuang po kung ssu</foaf:name>
+    <foaf:name>イギリス ホウソウ キョウカイ</foaf:name>
+    <foaf:name>British Broadcasting Corporation. Home Service</foaf:name>
+    <foaf:name>Radio Nacional de Londres</foaf:name>
+    <foaf:name>Hayʼat al-Idhāʻah al-Barīṭānīyah</foaf:name>
+    <foaf:name>Eikoku Hoso Kyokai</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11873813d#foaf:Person"/>
+    <foaf:name>B.B.C.</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/151778367"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11873813#skos:Concept">
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11873813d"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127458402"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:prefLabel>BBC</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11873813d"/>
+    <skos:altLabel>British broadcasting corporation</skos:altLabel>
+    <skos:altLabel>Londres (GB) British broadcasting corporation</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00358677#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:altLabel>Eikoku Hoso Kyokai</skos:altLabel>
+    <skos:altLabel>エイコク ホウソウ キョウカイ</skos:altLabel>
+    <skos:altLabel>BBC</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127458402"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Igirisu Hoso Kyokai</skos:altLabel>
+    <skos:altLabel>British broadcasting corporation</skos:altLabel>
+    <skos:altLabel>イギリス ホウソウ キョウカイ</skos:altLabel>
+    <skos:prefLabel>イギリス放送協会</skos:prefLabel>
+    <skos:altLabel>英国放送協会</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C320260062#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127458402"/>
+    <skos:prefLabel>BBC</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79074359#skos:Concept">
+    <skos:altLabel>BBC</skos:altLabel>
+    <skos:altLabel>Hayʼat al-Idhāʻah al-Barīṭānīyah</skos:altLabel>
+    <skos:altLabel>Ying-kuo kuang po kung ssu</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79074359"/>
+    <skos:altLabel>B.B.C.</skos:altLabel>
+    <skos:prefLabel>British Broadcasting Corporation</skos:prefLabel>
+    <skos:altLabel>Yingguo guang bo gong si</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>British Broadcasting Corporation. Home Service</skos:altLabel>
+    <skos:altLabel>Great Britain. British Broadcasting Corporation</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127458402"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027739708#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/127458402"/>
+    <skos:altLabel>British broadcasting corporation</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Londres (GB) British broadcasting corporation</skos:altLabel>
+    <skos:prefLabel>BBC</skos:prefLabel>
+    <skos:altLabel>B.B.C.</skos:altLabel>
+  </rdf:Description>
+</rdf:RDF>

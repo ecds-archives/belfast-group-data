@@ -4,84 +4,84 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kq5#heaney1_10235">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>MEN'S CONFESSIONS</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kq5#heaney1_10205">
-    <schema:name>TAKING STOCK: 5/4/'64</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N46e177f85cbc4062bc6e4fccc8fe32dc">
-    <rdf:rest rdf:nodeID="Nad7aeecd02c745cdbe261b349b59516c"/>
-    <rdf:first>The Evangelist</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Ncbb04310fc36450fb931b58f79f279ae">
-    <rdf:first>Twice Shy</rdf:first>
-    <rdf:rest rdf:nodeID="Nfeda1bd081564ee486ad809950c21700"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kq5#heaney1_10215">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <schema:name>THE EARLY PURGES</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kq5#heaney1_10230">
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <schema:name>THE EVANGELIST</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N7570dde95c5c42cab75bfeadb6838f69">
-    <rdf:first>Ex-Champ</rdf:first>
-    <rdf:rest rdf:nodeID="N46e177f85cbc4062bc6e4fccc8fe32dc"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/49211553">
     <schema:name>Bardot</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nad7aeecd02c745cdbe261b349b59516c">
-    <rdf:first>Men's Confessions</rdf:first>
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nf9b6e9b46b01450e8db8a33b2415f2c5">
-    <rdf:rest rdf:nodeID="Ncbb04310fc36450fb931b58f79f279ae"/>
-    <rdf:first>Taking Stock: 5/4/'64</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N2ee38220e66f4e07ab7e7a1af1430e2f">
-    <rdf:rest rdf:nodeID="N7570dde95c5c42cab75bfeadb6838f69"/>
-    <rdf:first>In Glenelly Valley</rdf:first>
+  <rdf:Description rdf:nodeID="Nc5578df21dfd482497717260bfdb2016">
+    <rdf:rest rdf:nodeID="Nbc5ebc185c9d443e95d2f20a7076d49b"/>
+    <rdf:first>Twice Shy</rdf:first>
   </rdf:Description>
   <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/8b5e197fdf6b4b57b763f194517342b5">
-    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
-    <schema:name>POEMS BY SEAMUS HEANEY</schema:name>
     <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17kq5"/>
+    <schema:name>POEMS BY SEAMUS HEANEY</schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <dc:title rdf:nodeID="Nf9b6e9b46b01450e8db8a33b2415f2c5"/>
+    <dc:title rdf:nodeID="Ndd677b2882604b439ba53a0a7a51e648"/>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kq5#heaney1_10235">
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>MEN'S CONFESSIONS</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc0a65738eabc427aaac78760d6b0fce3">
+    <rdf:rest rdf:nodeID="N44adfea41d8c4a658c4c92296a6ce303"/>
+    <rdf:first>Ex-Champ</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbc5ebc185c9d443e95d2f20a7076d49b">
+    <rdf:first>The Early Purges</rdf:first>
+    <rdf:rest rdf:nodeID="Nc912ff0567df4c968a6dd6612d4c7843"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kq5#heaney1_10210">
     <schema:mentions rdf:resource="http://viaf.org/viaf/49211553"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:name>TWICE SHY</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nfeda1bd081564ee486ad809950c21700">
-    <rdf:rest rdf:nodeID="N2ee38220e66f4e07ab7e7a1af1430e2f"/>
-    <rdf:first>The Early Purges</rdf:first>
+  <rdf:Description rdf:nodeID="Nb4d10cc4f80c42ec97d17d69b3fd3c12">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first>Men's Confessions</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndd677b2882604b439ba53a0a7a51e648">
+    <rdf:rest rdf:nodeID="Nc5578df21dfd482497717260bfdb2016"/>
+    <rdf:first>Taking Stock: 5/4/'64</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N44adfea41d8c4a658c4c92296a6ce303">
+    <rdf:rest rdf:nodeID="Nb4d10cc4f80c42ec97d17d69b3fd3c12"/>
+    <rdf:first>The Evangelist</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kq5#heaney1_10220">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>IN GLENELLY VALLEY</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc912ff0567df4c968a6dd6612d4c7843">
+    <rdf:first>In Glenelly Valley</rdf:first>
+    <rdf:rest rdf:nodeID="Nc0a65738eabc427aaac78760d6b0fce3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kq5#heaney1_10230">
+    <schema:name>THE EVANGELIST</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kq5#heaney1_10205">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>TAKING STOCK: 5/4/'64</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
-    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
     <schema:name>Seamus Heaney</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kq5#heaney1_10215">
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>THE EARLY PURGES</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kq5#heaney1_10225">
     <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
     <schema:name>EX-CHAMP</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kq5#heaney1_10220">
-    <schema:name>IN GLENELLY VALLEY</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
 </rdf:RDF>

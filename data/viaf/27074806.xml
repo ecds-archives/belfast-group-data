@@ -8,203 +8,216 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CHerbert_Spencer#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca10602598#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <skos:prefLabel>Spencer, Herbert</skos:prefLabel>
+    <skos:altLabel>Spencer</skos:altLabel>
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/27074806/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/27074806"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97025894#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+    <skos:altLabel>Spencer (1820-1903).</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
+    <skos:altLabel>Spencer, H. (1820-1903).</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Spenser, Gerbert.</skos:altLabel>
+    <skos:altLabel>Spenser.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028084675#skos:Concept">
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000265383#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
+    <skos:altLabel>ספענסער, הרברט, 1820-1903</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>Spencer, H. (Herbert), 1820-1903</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+    <skos:altLabel>Spenser, Gerbert, 1820-1903</skos:altLabel>
+    <skos:altLabel>Spenser, Herberṭ, 1820-1903</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00457285#skos:Concept">
+    <skos:altLabel>斯辺撤</skos:altLabel>
+    <skos:altLabel>Supensa</skos:altLabel>
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+    <skos:altLabel>斯辺鎖</skos:altLabel>
+    <skos:altLabel>斯辺鎖, 袍巴土</skos:altLabel>
+    <skos:altLabel>スペンサー, ハーバート</skos:altLabel>
+    <skos:altLabel>斯辺鎖, 波</skos:altLabel>
+    <skos:altLabel>スペンセル</skos:altLabel>
+    <skos:altLabel>斯辺瑣</skos:altLabel>
+    <skos:altLabel>Supensa, Habato</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>スペンサー</skos:altLabel>
+    <skos:altLabel>Supenseru</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:altLabel>斯本色</skos:altLabel>
+    <skos:altLabel>スペンサー, H</skos:altLabel>
+    <skos:altLabel>スペンセル, ハルバルト</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000067963#skos:Concept">
+    <skos:altLabel>Спенсер, Г. (Герберт), 1820-1903</skos:altLabel>
+    <skos:altLabel>Spensers, Herberts, 1820-1903</skos:altLabel>
+    <skos:altLabel>Спенсер, Герберт, 1820-1903</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
+    <skos:altLabel>Spensers, H. (Herberts), 1820-1903</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80038441#skos:Concept">
-    <skos:altLabel>ספנסר, הרברט, 1820־1903</skos:altLabel>
-    <skos:altLabel>Spenser, Gerbert, 1820-1903</skos:altLabel>
-    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
     <skos:altLabel>ספענסער, הערבערט</skos:altLabel>
-    <skos:altLabel>ספענסער, הערבערט, 1820־1903</skos:altLabel>
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
+    <skos:altLabel>Spenser, Gerbert, 1820-1903</skos:altLabel>
+    <skos:altLabel>ספנסר, הרברט, 1820־1903</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <skos:altLabel>Spenser, Herberṭ, 1820-1903</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+    <skos:altLabel>ספענסער, הערבערט, 1903-1820</skos:altLabel>
     <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80038441"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>ספענסער, הערבערט, 1820־1903</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C91903#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:altLabel>ספענסער, הערבערט, 1903-1820</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10121651#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001599671#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>سبنسر، هربرت، 1820-1903</skos:prefLabel>
+    <skos:altLabel>هربرت سبنسر، 1820-1903</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11999027#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+    <skos:altLabel>Spencer, Erberto, 1820-1903</skos:altLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11999027x"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11999027x"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118616080#skos:Concept">
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/27074806/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/27074806"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00457285#skos:Concept">
-    <skos:altLabel>スペンサー</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>斯本色</skos:altLabel>
-    <skos:altLabel>Supenseru</skos:altLabel>
-    <skos:altLabel>斯辺鎖, 波</skos:altLabel>
-    <skos:altLabel>スペンセル, ハルバルト</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
-    <skos:altLabel>Supensa, Habato</skos:altLabel>
-    <skos:altLabel>斯辺撤</skos:altLabel>
-    <skos:altLabel>スペンセル</skos:altLabel>
-    <skos:altLabel>スペンサー, ハーバート</skos:altLabel>
-    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
-    <skos:altLabel>Supensa</skos:altLabel>
-    <skos:altLabel>スペンサー, H</skos:altLabel>
-    <skos:altLabel>斯辺鎖, 袍巴土</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <skos:altLabel>斯辺鎖</skos:altLabel>
-    <skos:altLabel>斯辺瑣</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000265383#skos:Concept">
-    <skos:altLabel>Spenser, Gerbert, 1820-1903</skos:altLabel>
-    <skos:altLabel>Spenser, Herberṭ, 1820-1903</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <skos:altLabel>Spencer, H. (Herbert), 1820-1903</skos:altLabel>
-    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
-    <skos:altLabel>ספענסער, הרברט, 1820-1903</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C207849#skos:Concept">
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/207849#concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
-    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <skos:altLabel>Spencer, Erberto, 1820-1903</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001599671#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
-    <skos:altLabel>هربرت سبنسر، 1820-1903</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>سبنسر، هربرت، 1820-1903</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11999027#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
-    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11999027x"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11999027x"/>
-    <skos:altLabel>Spencer, Erberto, 1820-1903</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028084675#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97025894#skos:Concept">
-    <skos:altLabel>Spenser, Gerbert.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
-    <skos:altLabel>Spencer (1820-1903).</skos:altLabel>
-    <skos:altLabel>Spencer, H. (1820-1903).</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
-    <skos:altLabel>Spenser.</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035516271#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/27074806/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068889771#skos:Concept">
-    <skos:altLabel>Spenser, Herberṭ, 1820-1903</skos:altLabel>
-    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca10602598#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
-    <skos:altLabel>Spencer</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C91903#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118616080#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990008102#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10121651#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CHerbert_Spencer#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
-    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Spencer, Herbert</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1721516#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
-    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
     <skos:altLabel>Spencer, Heriberto 1820-1903</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035516271#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068889771#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Spenser, Herberṭ, 1820-1903</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C207849#skos:Concept">
+    <skos:prefLabel>Spencer, Herbert, 1820-1903</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/207849#concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+    <skos:altLabel>Spencer, Erberto, 1820-1903</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/27074806/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/27074806"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/27074806/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/27074806"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/27074806">
-    <foaf:name>スペンサー, H</foaf:name>
-    <foaf:name>Spenser, Gerbert, 1820-1903</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Спенсер, Герберт, 1820-1903</foaf:name>
-    <foaf:name>Supensa</foaf:name>
-    <rdaGr2:dateOfBirth>1820-04-27</rdaGr2:dateOfBirth>
-    <foaf:name>斯辺鎖, 波</foaf:name>
-    <foaf:name>Supensa, Habato</foaf:name>
-    <foaf:name>Spenser, Gerbert.</foaf:name>
-    <foaf:name>ספנסר, הרברט, 1820-1903</foaf:name>
-    <foaf:name>Spencer, Erberto, 1820-1903</foaf:name>
-    <foaf:name>Supenseru</foaf:name>
-    <foaf:name>Spencer, H. (Herbert), 1820-1903</foaf:name>
-    <foaf:name>斯辺瑣</foaf:name>
-    <foaf:name>斯辺鎖</foaf:name>
-    <foaf:name>Spencer, Herbert, 1820-1903</foaf:name>
-    <foaf:name>ספענסער, הערבערט</foaf:name>
-    <foaf:name>スペンサー, ハーバート</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/028084675/id"/>
-    <foaf:name>سبنسر، هربرت، 1820-1903</foaf:name>
-    <foaf:name>斯辺撤</foaf:name>
-    <foaf:name>Spencer, Herbert</foaf:name>
-    <foaf:name>ספענסער, הערבערט, 1903-1820</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11999027x#foaf:Person"/>
-    <foaf:name>斯本色</foaf:name>
-    <foaf:name>هربرت سبنسر، 1820-1903</foaf:name>
-    <foaf:name>Spencer (1820-1903).</foaf:name>
-    <foaf:name>Spenser, Herberṭ, 1820-1903</foaf:name>
-    <foaf:name>Spencer, Heriberto 1820-1903</foaf:name>
-    <foaf:name>ספענסער, הרברט, 1820-1903</foaf:name>
     <foaf:name>Spencer, H. (1820-1903).</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/207849"/>
     <foaf:name>スペンサー</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118616080"/>
-    <foaf:name>ספענסער, הערבערט, 1820־1903</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Herbert_Spencer"/>
-    <foaf:name>ספנסר, הרברט, 1820־1903</foaf:name>
-    <foaf:name>Spenser.</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Spencer</foaf:name>
-    <rdaGr2:dateOfDeath>1903-12-08</rdaGr2:dateOfDeath>
+    <foaf:name>Spenser, Gerbert, 1820-1903</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11999027x#foaf:Person"/>
+    <foaf:name>Supenseru</foaf:name>
+    <foaf:name>斯本色</foaf:name>
+    <foaf:name>斯辺瑣</foaf:name>
+    <foaf:name>Spencer, Heriberto 1820-1903</foaf:name>
     <foaf:name>スペンセル, ハルバルト</foaf:name>
+    <foaf:name>Spencer (1820-1903).</foaf:name>
+    <foaf:name>ספנסר, הרברט, 1820־1903</foaf:name>
+    <foaf:name>Spencer, Herbert</foaf:name>
+    <foaf:name>Spenser, Herberṭ, 1820-1903</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118616080"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>ספענסער, הערבערט</foaf:name>
+    <foaf:name>Supensa</foaf:name>
+    <foaf:name>斯辺撤</foaf:name>
+    <foaf:name>Spencer</foaf:name>
+    <foaf:name>ספענסער, הערבערט, 1820־1903</foaf:name>
+    <foaf:name>هربرت سبنسر، 1820-1903</foaf:name>
+    <foaf:name>Spenser.</foaf:name>
+    <foaf:name>スペンサー, ハーバート</foaf:name>
     <foaf:name>斯辺鎖, 袍巴土</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Herbert_Spencer"/>
+    <foaf:name>斯辺鎖, 波</foaf:name>
+    <foaf:name>スペンサー, H</foaf:name>
+    <rdaGr2:dateOfDeath>1903-12-08</rdaGr2:dateOfDeath>
+    <foaf:name>ספענסער, הרברט, 1820-1903</foaf:name>
+    <foaf:name>ספענסער, הערבערט, 1903-1820</foaf:name>
+    <foaf:name>Spensers, H. (Herberts), 1820-1903</foaf:name>
+    <foaf:name>Спенсер, Герберт, 1820-1903</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/028084675/id"/>
+    <foaf:name>Spenser, Gerbert.</foaf:name>
+    <foaf:name>Спенсер, Г. (Герберт), 1820-1903</foaf:name>
+    <foaf:name>ספנסר, הרברט, 1820-1903</foaf:name>
+    <foaf:name>斯辺鎖</foaf:name>
+    <foaf:name>Supensa, Habato</foaf:name>
+    <foaf:name>Spencer, Herbert, 1820-1903</foaf:name>
+    <foaf:name>Spencer, H. (Herbert), 1820-1903</foaf:name>
+    <foaf:name>Spensers, Herberts, 1820-1903</foaf:name>
+    <rdaGr2:dateOfBirth>1820-04-27</rdaGr2:dateOfBirth>
+    <foaf:name>سبنسر، هربرت، 1820-1903</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/207849"/>
+    <foaf:name>Spencer, Erberto, 1820-1903</foaf:name>
     <foaf:name>スペンセル</foaf:name>
   </rdf:Description>
 </rdf:RDF>

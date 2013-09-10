@@ -8,43 +8,43 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
 >
-  <rdf:Description rdf:about="http://sws.geonames.org/2960964/">
-    <gn:locationMap rdf:resource="http://www.geonames.org/2960964/loch-garman.html"/>
-    <gn:alternateName xml:lang="sv">Wexford</gn:alternateName>
-    <gn:alternateName xml:lang="br">Loch Garman</gn:alternateName>
-    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2960964/about.rdf"/>
-    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
-    <gn:countryCode>IE</gn:countryCode>
-    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Wexford"/>
-    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLA2"/>
-    <wgs84_pos:lat>52.33417</wgs84_pos:lat>
-    <gn:alternateName xml:lang="es">Wexford</gn:alternateName>
-    <gn:alternateName xml:lang="fi">Wexford</gn:alternateName>
-    <gn:alternateName xml:lang="en">Wexford</gn:alternateName>
-    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Wexford"/>
-    <gn:parentFeature rdf:resource="http://sws.geonames.org/2960963/"/>
-    <gn:alternateName xml:lang="no">Wexford</gn:alternateName>
-    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
-    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521314/"/>
-    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
-    <gn:population>17708</gn:population>
-    <wgs84_pos:long>-6.4575</wgs84_pos:long>
-    <gn:alternateName xml:lang="pt">Wexford</gn:alternateName>
-    <gn:alternateName xml:lang="de">Wexford</gn:alternateName>
-    <gn:alternateName xml:lang="ga">Loch Garman</gn:alternateName>
-    <gn:alternateName xml:lang="it">Wexford</gn:alternateName>
-    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2960963/"/>
-    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2960964/nearby.rdf"/>
-    <gn:name>Wexford</gn:name>
-    <gn:alternateName xml:lang="pl">Wexford</gn:alternateName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2960964/about.rdf">
-    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2960964/"/>
-    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
     <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2960964/"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-08-14</dcterms:modified>
     <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
     <cc:attributionURL rdf:resource="http://sws.geonames.org/2960964/"/>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-04-12</dcterms:modified>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2960964/">
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2960964/about.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521314/"/>
+    <gn:alternateName xml:lang="sv">Wexford</gn:alternateName>
+    <gn:alternateName xml:lang="es">Wexford</gn:alternateName>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2960964/nearby.rdf"/>
+    <gn:alternateName xml:lang="pl">Wexford</gn:alternateName>
+    <gn:alternateName xml:lang="de">Wexford</gn:alternateName>
+    <gn:alternateName xml:lang="pt">Wexford</gn:alternateName>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Wexford"/>
+    <gn:name>Wexford</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
+    <gn:countryCode>IE</gn:countryCode>
+    <gn:alternateName xml:lang="no">Wexford</gn:alternateName>
+    <gn:alternateName xml:lang="en">Wexford</gn:alternateName>
+    <gn:alternateName xml:lang="br">Loch Garman</gn:alternateName>
+    <wgs84_pos:long>-6.4575</wgs84_pos:long>
+    <gn:alternateName xml:lang="ga">Loch Garman</gn:alternateName>
+    <gn:alternateName xml:lang="fi">Wexford</gn:alternateName>
+    <wgs84_pos:lat>52.33417</wgs84_pos:lat>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2960963/"/>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLA2"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Wexford"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2960963/"/>
+    <gn:population>19913</gn:population>
+    <gn:alternateName xml:lang="it">Wexford</gn:alternateName>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2960964/loch-garman.html"/>
   </rdf:Description>
 </rdf:RDF>

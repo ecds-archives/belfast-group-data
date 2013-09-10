@@ -7,35 +7,35 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++86828282#skos:Concept">
-    <skos:altLabel>Anvil Press (London, England)</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n86828282"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/157193471"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Anvil Press Poetry (London, England)</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/157193471/#foaf:Organization">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/157193471"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/157193471/">
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/157193471"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/157193471/#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++86828282#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/157193471"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/157193471/#foaf:Organization">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/157193471"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n86828282"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Anvil Press (London, England)</skos:altLabel>
+    <skos:prefLabel>Anvil Press Poetry (London, England)</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/157193471/#rdaEnt:CorporateBody">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/157193471"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/157193471/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/157193471"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/157193471">
-    <foaf:name>Anvil Press Poetry (London, England)</foaf:name>
-    <foaf:name>Anvil Press (London, England)</foaf:name>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <foaf:name>Anvil Press (London, England)</foaf:name>
+    <foaf:name>Anvil Press Poetry (London, England)</foaf:name>
     <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
   </rdf:Description>
 </rdf:RDF>

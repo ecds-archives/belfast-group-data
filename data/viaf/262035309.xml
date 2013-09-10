@@ -8,53 +8,53 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C16574772#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb165747722"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:prefLabel>Johnston, Fred, 1951-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/262035309"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb165747722"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CFred_Johnston_(writer)#skos:Concept">
+    <skos:prefLabel>Johnston, Fred</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/262035309"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/262035309/">
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/262035309"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/262035309">
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdaGr2:dateOfBirth>1951</rdaGr2:dateOfBirth>
+    <foaf:name>Johnston, Fred, 1951-</foaf:name>
+    <foaf:name>Johnston, Fred</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb165747722#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Fred_Johnston_(writer)"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++95037270#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/262035309"/>
     <skos:prefLabel>Johnston, Fred, 1951-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n95037270"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/262035309"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CFred_Johnston_(writer)#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/262035309"/>
-    <skos:prefLabel>Johnston, Fred</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/262035309/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/262035309"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/262035309/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/262035309"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/262035309/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/262035309"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C35197217X#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/262035309"/>
     <skos:prefLabel>Johnston, Fred, 1951-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/262035309"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C16574772#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb165747722"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/262035309"/>
-    <skos:prefLabel>Johnston, Fred, 1951-</skos:prefLabel>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb165747722"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/262035309">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdaGr2:dateOfBirth>1951</rdaGr2:dateOfBirth>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Johnston, Fred</foaf:name>
-    <foaf:name>Johnston, Fred, 1951-</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb165747722#foaf:Person"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Fred_Johnston_(writer)"/>
   </rdf:Description>
 </rdf:RDF>

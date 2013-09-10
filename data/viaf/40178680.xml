@@ -8,100 +8,107 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C078642973#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C11899588X#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Lynd, Robert Wilson, 1879-1949</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50082121#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50082121"/>
-    <skos:altLabel>Y. Y., 1879-1949</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>YY. (1879-1949).</skos:altLabel>
     <skos:prefLabel>Lynd, Robert, 1879-1949</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
+    <skos:altLabel>Y. Y., 1879-1949</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068061617#skos:Concept">
-    <skos:prefLabel>Lynd, Robert (Robert Wilson), 1879-1949</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV12665751#skos:Concept">
+    <skos:prefLabel>Lynd, Robert</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/40178680/#foaf:Person">
     <owl:sameAs rdf:resource="http://viaf.org/viaf/40178680"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca20973901#skos:Concept">
-    <skos:prefLabel>Lynd, Robert, 1879-1949</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/40178680/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <skos:altLabel>YY. (1879-1949).</skos:altLabel>
-    <skos:altLabel>Y. Y., 1879-1949</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000413443#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
-    <skos:altLabel>YY. (1879-1949).</skos:altLabel>
-    <skos:altLabel>Y. Y., 1879-1949</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <skos:prefLabel>Lynd, Robert, 1879-1949</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/40178680/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/40178680"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50082121#skos:Concept">
+    <skos:altLabel>YY. (1879-1949).</skos:altLabel>
+    <skos:altLabel>Y. Y., 1879-1949</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Lynd, Robert, 1879-1949</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50082121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C078642973#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Lynd, Robert Wilson, 1879-1949</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca20973901#skos:Concept">
+    <skos:prefLabel>Lynd, Robert, 1879-1949</skos:prefLabel>
+    <skos:altLabel>YY. (1879-1949).</skos:altLabel>
+    <skos:altLabel>Y. Y., 1879-1949</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068061617#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Lynd, Robert (Robert Wilson), 1879-1949</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00536698#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
+    <skos:prefLabel>Lynd, Robert, 1879-1949</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/40178680">
     <foaf:name>Lynd, Robert Wilson</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Robert_Wilson_Lynd"/>
+    <foaf:name>Y. Y., 1879-1949</foaf:name>
+    <rdaGr2:dateOfBirth>1879-04-20</rdaGr2:dateOfBirth>
+    <foaf:name>Lynd, Robert</foaf:name>
     <owl:sameAs rdf:resource="http://d-nb.info/gnd/11899588X"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Lynd, Robert (Robert Wilson), 1879-1949</foaf:name>
-    <rdaGr2:dateOfBirth>1879-04-20</rdaGr2:dateOfBirth>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <rdaGr2:dateOfDeath>1949-10-06</rdaGr2:dateOfDeath>
-    <owl:sameAs rdf:resource="http://www.idref.fr/078642973/id"/>
-    <foaf:name>Lynd, Robert, 1879-1949</foaf:name>
-    <foaf:name>Y. Y., 1879-1949</foaf:name>
     <foaf:name>Lynd, Robert Wilson, 1879-1949</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Robert_Wilson_Lynd"/>
+    <foaf:name>Lynd, Robert, 1879-1949</foaf:name>
     <foaf:name>YY. (1879-1949).</foaf:name>
+    <rdaGr2:dateOfDeath>1949-10-06</rdaGr2:dateOfDeath>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Lynd, Robert (Robert Wilson), 1879-1949</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/078642973/id"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00536698#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <skos:prefLabel>Lynd, Robert, 1879-1949</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035317005#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Lynd, Robert, 1879-1949</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++99708583#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CRobert_Wilson_Lynd#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Lynd, Robert Wilson</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++99708583#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
     <skos:prefLabel>Lynd, Robert, 1879-1949</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CRobert_Wilson_Lynd#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <skos:prefLabel>Lynd, Robert Wilson</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/40178680/#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000413443#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C11899588X#skos:Concept">
+    <skos:prefLabel>Lynd, Robert, 1879-1949</skos:prefLabel>
+    <skos:altLabel>YY. (1879-1949).</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
     <skos:altLabel>Y. Y., 1879-1949</skos:altLabel>
-    <skos:prefLabel>Lynd, Robert, 1879-1949</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035317005#skos:Concept">
-    <skos:prefLabel>Lynd, Robert, 1879-1949</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/40178680"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
   </rdf:Description>
 </rdf:RDF>

@@ -4,70 +4,70 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="N2d6186cde26a47a9bd76f1a88e3deb88">
-    <rdf:first>Good-Night</rdf:first>
-    <rdf:rest rdf:nodeID="Na882a4f8b45a4c5f9cf74ba77d1443c4"/>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10263">
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:name>YANK</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10247">
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>GOOD-NIGHT</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10258">
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>SHORE WOMAN</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N137d96faf13f42759d455e4c676bd95e">
+    <rdf:rest rdf:nodeID="N2aeb02ef3c0c49b2ba9ae9ba30365179"/>
+    <rdf:first>At Ardboe Point</rdf:first>
   </rdf:Description>
   <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/6402a6ce1b71527f68a57a2fec39dd6a">
     <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17kr9"/>
-    <dc:title rdf:nodeID="N76cf5fc21821412b91c9dc70c16c5716"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
     <schema:name>POEMS BY SEAMUS HEANEY</schema:name>
+    <dc:title rdf:nodeID="N137d96faf13f42759d455e4c676bd95e"/>
     <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10263">
-    <schema:name>YANK</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+  <rdf:Description rdf:nodeID="Nda62c30989f34b0f91238d196ee236e6">
+    <rdf:rest rdf:nodeID="Nd111b42aa2234e8482ccb678dda3d348"/>
+    <rdf:first>Shore Woman</rdf:first>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Na882a4f8b45a4c5f9cf74ba77d1443c4">
-    <rdf:rest rdf:nodeID="N82cf9d11268a4d0ab8e6a791dd3bcccc"/>
+  <rdf:Description rdf:nodeID="N3d9ca01f11ec46e3a073cdb6147defc8">
     <rdf:first>The Crowing Man</rdf:first>
+    <rdf:rest rdf:nodeID="Nda62c30989f34b0f91238d196ee236e6"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
-    <schema:name>Seamus Heaney</schema:name>
-    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nfda32dc36f6a4d2babf6bae686fb2878">
+  <rdf:Description rdf:nodeID="N2812b72f4b9340f3b7a9d5eb756695aa">
     <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
     <rdf:first>A Winter's Tale</rdf:first>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10252">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>THE CROWING MAN</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10258">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>SHORE WOMAN</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N82cf9d11268a4d0ab8e6a791dd3bcccc">
-    <rdf:first>Shore Woman</rdf:first>
-    <rdf:rest rdf:nodeID="Nbfb3111116ad4b179b54c19c2a927d87"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10247">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <schema:name>GOOD-NIGHT</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N76cf5fc21821412b91c9dc70c16c5716">
-    <rdf:rest rdf:nodeID="N2d6186cde26a47a9bd76f1a88e3deb88"/>
-    <rdf:first>At Ardboe Point</rdf:first>
-  </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10242">
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
     <schema:name>AT ARDBOE POINT</schema:name>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nbfb3111116ad4b179b54c19c2a927d87">
-    <rdf:rest rdf:nodeID="Nfda32dc36f6a4d2babf6bae686fb2878"/>
-    <rdf:first>Yank</rdf:first>
+  <rdf:Description rdf:nodeID="N2aeb02ef3c0c49b2ba9ae9ba30365179">
+    <rdf:first>Good-Night</rdf:first>
+    <rdf:rest rdf:nodeID="N3d9ca01f11ec46e3a073cdb6147defc8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10252">
+    <schema:name>THE CROWING MAN</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kr9#heaney1_10268">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
     <schema:name>A WINTER'S TALE</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+    <schema:name>Seamus Heaney</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd111b42aa2234e8482ccb678dda3d348">
+    <rdf:first>Yank</rdf:first>
+    <rdf:rest rdf:nodeID="N2812b72f4b9340f3b7a9d5eb756695aa"/>
   </rdf:Description>
 </rdf:RDF>

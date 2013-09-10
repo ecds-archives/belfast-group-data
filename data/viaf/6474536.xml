@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C13633640X#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Mac Mathúna, Seán</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/6474536"/>
+    <skos:altLabel>McMathúna, Seán</skos:altLabel>
+    <skos:altLabel>MacMathúna, Seán</skos:altLabel>
+    <skos:altLabel>Mc Mathúna, Seán</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/6474536/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/6474536"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/6474536/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/6474536"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/6474536">
+    <foaf:name>Mac Mathúna, Seán</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>McMathúna, Seán</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/13633640X"/>
+    <foaf:name>MacMathúna, Seán</foaf:name>
+    <foaf:name>Mc Mathúna, Seán</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++88039724#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/6474536"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n88039724"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Mac Mathúna, Seán</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/6474536/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/6474536"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+</rdf:RDF>

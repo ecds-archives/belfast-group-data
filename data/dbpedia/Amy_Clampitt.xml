@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amy_Clampitt">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:abstract xml:lang="en">Amy Clampitt (June 15, 1920 – September 10, 1994) was an American poet and author.</dbpedia-owl:abstract>
+    <dbpprop:shortDescription xml:lang="en">American poet</dbpprop:shortDescription>
+    <foaf:name xml:lang="en">Amy Clampitt</foaf:name>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1994-09-10</dbpprop:dateOfDeath>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
+    <dbpprop:name xml:lang="en">Clampitt, Amy</dbpprop:name>
+    <rdfs:label xml:lang="en">Amy Clampitt</rdfs:label>
+    <dc:description xml:lang="en">American poet</dc:description>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Amy_Clampitt?oldid=485383691"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Amherst_College_faculty"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1994-09-10</dbpedia-owl:deathDate>
+    <rdfs:comment xml:lang="en">Amy Clampitt (June 15, 1920 – September 10, 1994) was an American poet and author.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Grinnell_College_alumni"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Amy_Clampitt"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-06-15</dbpedia-owl:birthDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Guggenheim_Fellows"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Smith_College_faculty"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1994_deaths"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-06-15</dbpprop:dateOfBirth>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05_jh7"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:MacArthur_Fellows"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:The_College_of_William_&amp;_Mary_faculty"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://amyclampitt.org/"/>
+    <foaf:givenName xml:lang="en">Amy</foaf:givenName>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://lit.enotes.com/poetry-criticism/clampitt-amy"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GuggenheimFellows"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrinnellCollegeAlumni"/>
+    <foaf:surname xml:lang="en">Clampitt</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1920_births"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poets.org/poet.php/prmPID/44"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MacArthurFellows"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://poetryfoundation.org/archive/poet.html?id=1269"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Amy_Clampitt"/>
+  </rdf:Description>
+</rdf:RDF>

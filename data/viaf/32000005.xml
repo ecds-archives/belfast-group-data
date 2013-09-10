@@ -8,209 +8,215 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/32000005/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/32000005"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990005411#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <skos:altLabel>Marlo, Kristofėr, 1564-1593</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
-    <skos:altLabel>Marloe, Christopher, 1564-1593</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/32000005/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C180632#skos:Concept">
     <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10112199#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11914646#skos:Concept">
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb119146460"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
+    <skos:altLabel>Marlowe Christophe 1564-1593</skos:altLabel>
+    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb119146460"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118578065#skos:Concept">
-    <skos:altLabel>Marlo, Christopher, 1564-1593</skos:altLabel>
     <skos:altLabel>Marlowe, Cristóbal 1564-1593</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
+    <skos:altLabel>Marlowe, Christoph 1564-1593</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
+    <skos:altLabel>Marlo, Christopher, 1564-1593</skos:altLabel>
+    <skos:altLabel>Mārlū, Kristūfar 1564-1593</skos:altLabel>
+    <skos:altLabel>Marlowea, Christophera 1564-1593</skos:altLabel>
     <skos:altLabel>Marloe, Christopher, 1564-1593</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Mārlū, Kristūfar 1564-1593</skos:altLabel>
     <skos:altLabel>Marlo, Kristofėr, 1564-1593</skos:altLabel>
     <skos:altLabel>Marlow, Christopher, 1564-1593</skos:altLabel>
-    <skos:altLabel>Marlowe, Christoph 1564-1593</skos:altLabel>
-    <skos:altLabel>Marlowea, Christophera 1564-1593</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10112199#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
     <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035328928#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
     <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
     <skos:altLabel>Marloe, Christopher, 1564-1593</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C236006#skos:Concept">
+    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/236006#concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97700507#skos:Concept">
-    <skos:altLabel>Marlo, Kristofer.</skos:altLabel>
     <skos:altLabel>Marlow, Christopher.</skos:altLabel>
-    <skos:altLabel>Marloe, Christopher.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
-    <skos:altLabel>Marlo, Christopher.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:altLabel>Marlowe.</skos:altLabel>
     <skos:altLabel>Marlowe, Krzysztof.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Marloe, Christopher.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/32000005">
-    <foaf:name>C.M., 1564-1593</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Marlowe, Kit, 1564-1593</foaf:name>
-    <foaf:name>Marlowe, Cristóbal 1564-1593</foaf:name>
-    <foaf:name>Marlowe, Krzysztof.</foaf:name>
-    <foaf:name>Mārlō, 1564-1593</foaf:name>
-    <foaf:name>Marloe, Christopher, 1564-1593</foaf:name>
-    <foaf:name>مارلو، كريستوفر، 1564-1593</foaf:name>
-    <foaf:name>Mallou, Kʻŭrisŭtʻopʻŏ, 1564-1593</foaf:name>
-    <foaf:name>Marlou, Kristofŭr, 1564-1593</foaf:name>
-    <foaf:name>マーロウ, クリストファ</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118578065"/>
-    <foaf:name>מרלו, כריסטופר, 1564-1593</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/236006"/>
-    <foaf:name>مارلو، كرستوفر</foaf:name>
-    <foaf:name>Marlo, Christopher, 1564-1593</foaf:name>
-    <foaf:name>كريستوفر مارلو، 1564-1593</foaf:name>
-    <foaf:name>Marloe, Christopher.</foaf:name>
-    <foaf:name>Marlo, Kristofer.</foaf:name>
-    <foaf:name>Marlowe, Christofer</foaf:name>
-    <rdaGr2:dateOfDeath>1593-05-30</rdaGr2:dateOfDeath>
-    <foaf:name>Mar., Ch. (Christopher Marlowe), 1564-1593</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/027010856/id"/>
-    <foaf:name>Marlowe, Christophe</foaf:name>
-    <foaf:name>Marlowea, Christophera 1564-1593</foaf:name>
-    <foaf:name>Marlo, Christopher.</foaf:name>
-    <foaf:name>Mārlū, Kristūfar 1564-1593</foaf:name>
-    <rdaGr2:dateOfBirth>1564-02-06</rdaGr2:dateOfBirth>
-    <foaf:name>Marlowe, Christopher</foaf:name>
-    <foaf:name>Marlow, ..., 1564-1593</foaf:name>
-    <foaf:name>Marlow, Christopher.</foaf:name>
-    <foaf:name>M., C., 1564-1593</foaf:name>
-    <foaf:name>Marlow, Christopher, 1564-1593</foaf:name>
-    <foaf:name>Marlo, Kristofėr, 1564-1593</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Marlowe.</foaf:name>
-    <foaf:name>Marlowe Christophe 1564-1593</foaf:name>
-    <foaf:name>Marlowe, Christoph 1564-1593</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Christopher_Marlowe"/>
-    <foaf:name>Marlowe, Christopher, 1564-1593</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb119146460#foaf:Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C236006#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/236006#concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
     <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
+    <skos:altLabel>Marlo, Christopher.</skos:altLabel>
+    <skos:altLabel>Marlo, Kristofer.</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0060B1932#skos:Concept">
-    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027010856#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Marlowe, Christophe</skos:altLabel>
+    <skos:altLabel>Marlowe, Christofer</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068366442#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
+    <skos:altLabel>M., C., 1564-1593</skos:altLabel>
+    <skos:altLabel>Marlow, ..., 1564-1593</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Marlowe, Kit, 1564-1593</skos:altLabel>
+    <skos:altLabel>C.M., 1564-1593</skos:altLabel>
+    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/32000005/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/32000005"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990005411#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Marlo, Kristofėr, 1564-1593</skos:altLabel>
+    <skos:altLabel>Marloe, Christopher, 1564-1593</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++78088956#skos:Concept">
+    <skos:altLabel>Mar., Ch. (Christopher Marlowe), 1564-1593</skos:altLabel>
+    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
+    <skos:altLabel>Mallou, Kʻŭrisŭtʻopʻŏ, 1564-1593</skos:altLabel>
+    <skos:altLabel>Marlo, Kristofėr, 1564-1593</skos:altLabel>
+    <skos:altLabel>Marlou, Kristofŭr, 1564-1593</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n78088956"/>
+    <skos:altLabel>Mārlō, 1564-1593</skos:altLabel>
+    <skos:altLabel>Marlow, Christopher, 1564-1593</skos:altLabel>
+    <skos:altLabel>Marlo, Christopher, 1564-1593</skos:altLabel>
+    <skos:altLabel>Marloe, Christopher, 1564-1593</skos:altLabel>
+    <skos:altLabel>مارلو، كرستوفر</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/32000005/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/32000005/">
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/32000005"/>
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/32000005"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068366442#skos:Concept">
-    <skos:altLabel>Marlow, ..., 1564-1593</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00448884#skos:Concept">
+    <skos:altLabel>マーロウ, クリストファ</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
     <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
-    <skos:altLabel>Marlowe, Kit, 1564-1593</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>M., C., 1564-1593</skos:altLabel>
-    <skos:altLabel>C.M., 1564-1593</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX933429#skos:Concept">
+    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <skos:altLabel>Marloe, Christopher, 1564-1593</skos:altLabel>
+    <skos:altLabel>Marlo, Kristofėr, 1564-1593</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca10669346#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CChristopher_Marlowe#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
+    <skos:prefLabel>Marlowe, Christopher</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001178445#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+    <skos:altLabel>كريستوفر مارلو، 1564-1593</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
+    <skos:prefLabel>مارلو، كريستوفر، 1564-1593</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/32000005">
+    <foaf:name>Marlowea, Christophera 1564-1593</foaf:name>
+    <foaf:name>Marlow, Christopher.</foaf:name>
+    <foaf:name>Mallou, Kʻŭrisŭtʻopʻŏ, 1564-1593</foaf:name>
+    <rdaGr2:dateOfDeath>1593-05-30</rdaGr2:dateOfDeath>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Christopher_Marlowe"/>
+    <foaf:name>Marlowe, Christofer</foaf:name>
+    <foaf:name>Marloe, Christopher.</foaf:name>
+    <foaf:name>Marlowe.</foaf:name>
+    <foaf:name>Marlow, Christopher, 1564-1593</foaf:name>
+    <foaf:name>Marlowe, Christopher</foaf:name>
+    <foaf:name>Marlo, Kristofer.</foaf:name>
+    <foaf:name>Marlo, Christopher.</foaf:name>
+    <foaf:name>Marlowe, Krzysztof.</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/236006"/>
+    <foaf:name>Marlowe, Christophe</foaf:name>
+    <foaf:name>Marlo, Christopher, 1564-1593</foaf:name>
+    <foaf:name>Marlowe, Christopher, 1564-1593</foaf:name>
+    <foaf:name>מרלו, כריסטופר, 1564-1593</foaf:name>
+    <foaf:name>Mārlō, 1564-1593</foaf:name>
+    <foaf:name>Marlowe, Christoph 1564-1593</foaf:name>
+    <foaf:name>C.M., 1564-1593</foaf:name>
+    <foaf:name>Marlowe Christophe 1564-1593</foaf:name>
+    <foaf:name>مارلو، كرستوفر</foaf:name>
+    <foaf:name>Marlo, Kristofėr, 1564-1593</foaf:name>
+    <foaf:name>مارلو، كريستوفر، 1564-1593</foaf:name>
+    <rdaGr2:dateOfBirth>1564-02-06</rdaGr2:dateOfBirth>
+    <foaf:name>Marlow, ..., 1564-1593</foaf:name>
+    <foaf:name>M., C., 1564-1593</foaf:name>
+    <foaf:name>Mar., Ch. (Christopher Marlowe), 1564-1593</foaf:name>
+    <foaf:name>كريستوفر مارلو، 1564-1593</foaf:name>
+    <foaf:name>マーロウ, クリストファ</foaf:name>
+    <foaf:name>Marlou, Kristofŭr, 1564-1593</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Marlowe, Cristóbal 1564-1593</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/027010856/id"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Mārlū, Kristūfar 1564-1593</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118578065"/>
+    <foaf:name>Marlowe, Kit, 1564-1593</foaf:name>
+    <foaf:name>Marloe, Christopher, 1564-1593</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb119146460#foaf:Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000143609#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000089317#skos:Concept">
     <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027010856#skos:Concept">
-    <skos:altLabel>Marlowe, Christofer</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Marlowe, Christophe</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
-    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001178445#skos:Concept">
-    <skos:prefLabel>مارلو، كريستوفر، 1564-1593</skos:prefLabel>
-    <skos:altLabel>كريستوفر مارلو، 1564-1593</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CChristopher_Marlowe#skos:Concept">
-    <skos:prefLabel>Marlowe, Christopher</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11914646#skos:Concept">
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb119146460"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb119146460"/>
-    <skos:altLabel>Marlowe Christophe 1564-1593</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
-    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00448884#skos:Concept">
-    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
-    <skos:altLabel>マーロウ, クリストファ</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca10669346#skos:Concept">
-    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX933429#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <skos:altLabel>Marlo, Kristofėr, 1564-1593</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
-    <skos:altLabel>Marloe, Christopher, 1564-1593</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++78088956#skos:Concept">
-    <skos:altLabel>مارلو، كرستوفر</skos:altLabel>
-    <skos:altLabel>Marloe, Christopher, 1564-1593</skos:altLabel>
-    <skos:altLabel>Mārlō, 1564-1593</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n78088956"/>
-    <skos:altLabel>Mallou, Kʻŭrisŭtʻopʻŏ, 1564-1593</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/32000005"/>
-    <skos:altLabel>Marlo, Kristofėr, 1564-1593</skos:altLabel>
-    <skos:prefLabel>Marlowe, Christopher, 1564-1593</skos:prefLabel>
-    <skos:altLabel>Marlow, Christopher, 1564-1593</skos:altLabel>
-    <skos:altLabel>Mar., Ch. (Christopher Marlowe), 1564-1593</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Marlou, Kristofŭr, 1564-1593</skos:altLabel>
-    <skos:altLabel>Marlo, Christopher, 1564-1593</skos:altLabel>
   </rdf:Description>
 </rdf:RDF>

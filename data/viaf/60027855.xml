@@ -7,19 +7,16 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80066073#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Lowry, Suzanne</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80066073"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/60027855"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/60027855/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/60027855"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/60027855">
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Lowry, Suzanne</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/60027855/">
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/60027855"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/60027855/#foaf:Person">
     <owl:sameAs rdf:resource="http://viaf.org/viaf/60027855"/>
@@ -27,15 +24,18 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068103220#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/60027855"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Lowry, Suzanne</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80066073#skos:Concept">
-    <skos:prefLabel>Lowry, Suzanne</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/60027855"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80066073"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/60027855/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/60027855"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/60027855">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Lowry, Suzanne</foaf:name>
   </rdf:Description>
 </rdf:RDF>

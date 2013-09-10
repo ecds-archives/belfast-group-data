@@ -8,533 +8,555 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10280030#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/29529595/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SWNL%7Cvtls000023984#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SWNL"/>
+    <skos:prefLabel>Balzac, Honoré de</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
-    <skos:altLabel>R'Hoone, Lord, 1799-1850</skos:altLabel>
-    <skos:altLabel>Jeune célibataire 1799-1850</skos:altLabel>
-    <skos:altLabel>De Balzac, Honoré 1799-1850</skos:altLabel>
-    <skos:altLabel>Saint-Aubin, Horace de, 1799-1850</skos:altLabel>
-    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
+    <skos:altLabel>De Balzac, Honoré</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls000015713#skos:Concept">
+    <skos:altLabel>R'Hoone</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Balzac, Honoré de</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:altLabel>Saint-Aubin, Horace de.</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls000903048#skos:Concept">
-    <skos:altLabel>بلزاك، اونوريه دى، 1799-1850 م</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
-    <skos:altLabel>هونورى بلزاك، 1799-1850 م</skos:altLabel>
     <skos:prefLabel>بلزاك، هونورى، 1799-1850 م.</skos:prefLabel>
+    <skos:altLabel>هونورى بلزاك، 1799-1850 م</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118506358#skos:Concept">
-    <skos:altLabel>Lord R'Hoone 1799-1850 Pseudonym</skos:altLabel>
-    <skos:altLabel>Balzak, Onore de, 1799-1850</skos:altLabel>
-    <skos:altLabel>R'Hoone, ... 1799-1850 Pseudonym</skos:altLabel>
-    <skos:altLabel>Ba'erzhake, 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzac, Honoräe de 1799-1850</skos:altLabel>
-    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
-    <skos:altLabel>巴爾扎克, 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzac, Honoriusz 1799-1850</skos:altLabel>
-    <skos:altLabel>L'Empésé, Emile Baron de 1799-1850 Pseudonym</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:altLabel>Balzaq, Ônôrē de 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzac, H. de 1799-1850</skos:altLabel>
-    <skos:altLabel>Pa-erh-cha-kʻo, 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzac, Honoratus de 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzac, Honoré von 1799-1850</skos:altLabel>
-    <skos:altLabel>Saint-Aubin, Horace de 1799-1850 Pseudonym</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Balzac, M. de 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzac, Heinrich von 1799-1850</skos:altLabel>
-    <skos:altLabel>Aubin, Horace de S.- 1799-1850 Pseudonym</skos:altLabel>
-    <skos:altLabel>DeBalzac, Honoré 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzac, Onorato di 1799-1850</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
-    <skos:altLabel>Balzac, 1799-1850</skos:altLabel>
-    <skos:altLabel>Aubin, Horace de Saint- 1799-1850 Pseudonym</skos:altLabel>
-    <skos:altLabel>Balzac, ... von 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzaḳ, ... 1799-1850</skos:altLabel>
+    <skos:altLabel>بلزاك، اونوريه دى، 1799-1850 م</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CHonoré_de_Balzac#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Balzac, Honore De</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79071094#skos:Concept">
-    <skos:altLabel>באלזאק, האָנאָרע דע, 1799-1850</skos:altLabel>
-    <skos:altLabel>Pa-erh-cha-kʻo, 1799-1850</skos:altLabel>
-    <skos:altLabel>בלזק, אונורה דה, 1799-1850</skos:altLabel>
-    <skos:altLabel>De Balzac, Honorato, 1799-1850</skos:altLabel>
-    <skos:altLabel>Baruzakku, 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzaḳ, ... 1799-1850</skos:altLabel>
-    <skos:altLabel>Ba'erzhake, 1799-1850</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79071094"/>
-    <skos:altLabel>באלזאק, אונורה דה, 1799-1850</skos:altLabel>
-    <skos:altLabel>Бальзак, Оноре де, 1799-1850</skos:altLabel>
-    <skos:altLabel>巴爾扎克, 1799-1850</skos:altLabel>
-    <skos:altLabel>バルザック, 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzac, H. de (Honoré de), 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzāk, Ūnūrīh dī, 1799-1850</skos:altLabel>
-    <skos:altLabel>R'Hoone, Lord, 1799-1850</skos:altLabel>
-    <skos:altLabel>Banzăc, Hônôrê đơ, 1799-1850</skos:altLabel>
-    <skos:altLabel>באלזאק, אנארע דע, 1799-1850</skos:altLabel>
-    <skos:altLabel>巴爾札克, 1799-1850</skos:altLabel>
-    <skos:altLabel>Saint-Aubin, Horace de, 1799-1850</skos:altLabel>
-    <skos:altLabel>De Balzac, Honoré 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzaḳ, Onoreh deh, 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzac, Honorato, 1799-1850</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Jeune célibataire 1799-1850</skos:altLabel>
-    <skos:altLabel>Balʹzak, Onore, 1799-1850</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
-    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:altLabel>بالزاك، انوره دو</skos:altLabel>
-    <skos:altLabel>בלזק, הונורה דה-, 1799-1850</skos:altLabel>
-    <skos:altLabel>דע־באלזאק, האָנאָרע, 1799-1850</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C6243#skos:Concept">
-    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
-    <skos:altLabel>Balsac, Honoré de</skos:altLabel>
-    <skos:altLabel>Balzac, Honoré de</skos:altLabel>
-    <skos:altLabel>Balzac.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
-    <skos:altLabel>Balzac, H. de.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1721276#skos:Concept">
-    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
-    <skos:altLabel>R'Hoone, Lord, 1799-1850</skos:altLabel>
-    <skos:altLabel>Saint-Aubin, Horace de, 1799-1850</skos:altLabel>
-    <skos:altLabel>De Balzac, Honoré 1799-1850</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <skos:altLabel>Jeune célibataire 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzac, H. de 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzac, Honorato de 1799-1850</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000014812#skos:Concept">
-    <skos:altLabel>Horace de Saint Aubin</skos:altLabel>
-    <skos:altLabel>בלזק, אנארע דע</skos:altLabel>
-    <skos:altLabel>R'Hoone, Lord, 1799-1850</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <skos:altLabel>באלזאק, הונורה דה, 1799-1850</skos:altLabel>
-    <skos:altLabel>Saint-Aubin, Horace de, 1799-1850</skos:altLabel>
-    <skos:altLabel>בלזק, אונורה דה</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++93080159#skos:Concept">
-    <skos:altLabel>Villerglé, A. de.</skos:altLabel>
-    <skos:altLabel>Balzak, H.</skos:altLabel>
-    <skos:altLabel>Saint Aubin de Poitiers.</skos:altLabel>
-    <skos:altLabel>Lord R'Hoone.</skos:altLabel>
-    <skos:altLabel>Balzac, H.</skos:altLabel>
-    <skos:altLabel>Poitiers, Saint Aubin de.</skos:altLabel>
-    <skos:altLabel>Matricante, Instituteur.</skos:altLabel>
-    <skos:altLabel>Auteur du Vicaire des Ardennes.</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11563461#skos:Concept">
     <skos:altLabel>Balzak, Honoriusz.</skos:altLabel>
-    <skos:altLabel>Balzac, de.</skos:altLabel>
-    <skos:altLabel>Savonati, abbé.</skos:altLabel>
-    <skos:altLabel>Balzak.</skos:altLabel>
-    <skos:altLabel>Balʹzak, Onore</skos:altLabel>
-    <skos:altLabel>Balzac, Honoriusz.</skos:altLabel>
     <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
     <skos:altLabel>Balzac, H. de.</skos:altLabel>
+    <skos:altLabel>Balzak.</skos:altLabel>
     <skos:altLabel>Balzac, Honoryusz.</skos:altLabel>
+    <skos:altLabel>Balzac, de.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Balzac, Honoriusz.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <skos:altLabel>Balʹzak, Onore</skos:altLabel>
+    <skos:altLabel>Balzac, H.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
     <skos:altLabel>Balzac, Honoré.</skos:altLabel>
     <skos:altLabel>Balzac.</skos:altLabel>
-    <skos:altLabel>O'Rhoone, Lord.</skos:altLabel>
-    <skos:altLabel>Instituteur Matricante.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000014812#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Abbé Savonati.</skos:altLabel>
-    <skos:altLabel>St.-Aubin, Horace.</skos:altLabel>
-    <skos:altLabel>Saint Aubin.</skos:altLabel>
-    <skos:altLabel>Bal'zak, O.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:altLabel>Jeune célibataire, Un.</skos:altLabel>
-    <skos:altLabel>Saint-Aubin, Horace de.</skos:altLabel>
-    <skos:altLabel>R'Hoone, Lord.</skos:altLabel>
+    <skos:altLabel>R'Hoone, Lord, 1799-1850</skos:altLabel>
+    <skos:altLabel>בלזק, אונורה דה</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>בלזק, אנארע דע</skos:altLabel>
+    <skos:altLabel>Saint-Aubin, Horace de, 1799-1850</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:altLabel>באלזאק, הונורה דה, 1799-1850</skos:altLabel>
+    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
+    <skos:altLabel>Horace de Saint Aubin</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11890041#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:altLabel>Lord R'Hoone 1799-1850</skos:altLabel>
+    <skos:altLabel>Jeune célibataire, un, 1799-1850</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Instituteur Matricante 1799-1850</skos:altLabel>
+    <skos:altLabel>O'Rhoone Lord 1799-1850</skos:altLabel>
+    <skos:altLabel>Saint Aubin, 1799-1850, de Poitiers</skos:altLabel>
+    <skos:altLabel>Villerglé A. de 1799-1850</skos:altLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb118900414"/>
+    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
+    <skos:altLabel>Poitiers Saint Aubin de 1799-1850</skos:altLabel>
+    <skos:altLabel>R'Hoone, Lord, 1799-1850</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb118900414"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:altLabel>Savonati Abbé 1799-1850</skos:altLabel>
+    <skos:altLabel>Saint-Aubin, Horace de, 1799-1850</skos:altLabel>
+    <skos:altLabel>Abbé Savonati 1799-1850</skos:altLabel>
+    <skos:altLabel>Saint Aubin de Poitiers 1799-1850</skos:altLabel>
+    <skos:altLabel>Matricante Instituteur 1799-1850</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C6243#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <skos:altLabel>Balsac, Honoré de</skos:altLabel>
+    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Balzac.</skos:altLabel>
+    <skos:altLabel>Balzac, Honoré de</skos:altLabel>
+    <skos:altLabel>Balzac, H. de.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C38510#skos:Concept">
+    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
+    <skos:altLabel>Horace de Saint-Aubin, 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzak, Honore de, 1799-1850</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:altLabel>Balzac, 1799-1850</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/38510#concept"/>
+    <skos:altLabel>Balzak, Onore de, 1799-1850</skos:altLabel>
+    <skos:altLabel>Saint-Aubin, Horace de, 1799-1850</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118506358#skos:Concept">
+    <skos:altLabel>Balzac, ... von 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzac, Onorato di 1799-1850</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
+    <skos:altLabel>Pa-erh-cha-kʻo, 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzac, Honoriusz 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzac, M. de 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzac, H. de 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzak, Onore de, 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzaq, Ônôrē de 1799-1850</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Balzac, Heinrich von 1799-1850</skos:altLabel>
+    <skos:altLabel>Lord R'Hoone 1799-1850 Pseudonym</skos:altLabel>
+    <skos:altLabel>Balzac, Honoratus de 1799-1850</skos:altLabel>
+    <skos:altLabel>Aubin, Horace de S.- 1799-1850 Pseudonym</skos:altLabel>
+    <skos:altLabel>L'Empésé, Emile Baron de 1799-1850 Pseudonym</skos:altLabel>
+    <skos:altLabel>Balzac, 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzac, Honoré von 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzac, Honoräe de 1799-1850</skos:altLabel>
+    <skos:altLabel>Saint-Aubin, Horace de 1799-1850 Pseudonym</skos:altLabel>
+    <skos:altLabel>Aubin, Horace de Saint- 1799-1850 Pseudonym</skos:altLabel>
+    <skos:altLabel>巴爾扎克, 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzaḳ, ... 1799-1850</skos:altLabel>
+    <skos:altLabel>DeBalzac, Honoré 1799-1850</skos:altLabel>
+    <skos:altLabel>Ba'erzhake, 1799-1850</skos:altLabel>
+    <skos:altLabel>R'Hoone, ... 1799-1850 Pseudonym</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000002164#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
+    <skos:altLabel>De Balzac, Honoré, 1799-1850</skos:altLabel>
+    <skos:altLabel>Бальзак, Оноре де, 1799-1850</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:altLabel>Balzaks, Onorē de, 1799-1850</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++93080159#skos:Concept">
+    <skos:altLabel>Balʹzak, Onore</skos:altLabel>
+    <skos:altLabel>Balzac, H. de.</skos:altLabel>
+    <skos:altLabel>Matricante, Instituteur.</skos:altLabel>
+    <skos:altLabel>Balzak.</skos:altLabel>
+    <skos:altLabel>Instituteur Matricante.</skos:altLabel>
+    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
+    <skos:altLabel>Balzac, Honoryusz.</skos:altLabel>
+    <skos:altLabel>Balzac.</skos:altLabel>
+    <skos:altLabel>Bal'zak, O.</skos:altLabel>
+    <skos:altLabel>Abbé Savonati.</skos:altLabel>
+    <skos:altLabel>Balzac, de.</skos:altLabel>
+    <skos:altLabel>St.-Aubin, Horace.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Jeune célibataire, Un.</skos:altLabel>
+    <skos:altLabel>Saint Aubin.</skos:altLabel>
+    <skos:altLabel>Balzak, H.</skos:altLabel>
+    <skos:altLabel>Villerglé, A. de.</skos:altLabel>
+    <skos:altLabel>Balzac, Honoriusz.</skos:altLabel>
+    <skos:altLabel>O'Rhoone, Lord.</skos:altLabel>
+    <skos:altLabel>Poitiers, Saint Aubin de.</skos:altLabel>
+    <skos:altLabel>Savonati, abbé.</skos:altLabel>
+    <skos:altLabel>Auteur du Vicaire des Ardennes.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:altLabel>Saint-Aubin, Horace de.</skos:altLabel>
+    <skos:altLabel>Saint Aubin de Poitiers.</skos:altLabel>
+    <skos:altLabel>Balzac, H.</skos:altLabel>
+    <skos:altLabel>Balzak, Honoriusz.</skos:altLabel>
+    <skos:altLabel>R'Hoone, Lord.</skos:altLabel>
+    <skos:altLabel>Balzac, Honoré.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:altLabel>Lord R'Hoone.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500277159#skos:Concept">
+    <skos:altLabel>Balzac, Onorato di</skos:altLabel>
+    <skos:altLabel>Matricante, Instituteur.</skos:altLabel>
+    <skos:altLabel>בלזק, הונורה דה</skos:altLabel>
+    <skos:altLabel>Pa-erh-cha-kʻo</skos:altLabel>
+    <skos:altLabel>Lord R'Hoone.</skos:altLabel>
+    <skos:altLabel>Balssa, Honoré</skos:altLabel>
+    <skos:altLabel>Poitiers, Saint Aubin de.</skos:altLabel>
+    <skos:altLabel>Balsac, Honoré de</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
+    <skos:altLabel>Balzac, Honoratus de</skos:altLabel>
+    <skos:altLabel>Aubin, Saint</skos:altLabel>
+    <skos:altLabel>Aubin, Horace de S.-</skos:altLabel>
+    <skos:altLabel>O'Rhoone, Lord.</skos:altLabel>
+    <skos:altLabel>Balzac, H.</skos:altLabel>
+    <skos:altLabel>Honoré de Balzac</skos:altLabel>
+    <skos:altLabel>Balzac.</skos:altLabel>
+    <skos:altLabel>Balzac, H. de.</skos:altLabel>
+    <skos:altLabel>Balzac, Honoreé von</skos:altLabel>
+    <skos:altLabel>Balʹzak, Onore de</skos:altLabel>
+    <skos:altLabel>Бальзак, Оноре де</skos:altLabel>
+    <skos:altLabel>DeBalzac, Honoreé</skos:altLabel>
+    <skos:altLabel>Balzéak, Onore</skos:altLabel>
+    <skos:altLabel>Balzac, Honorato</skos:altLabel>
+    <skos:altLabel>Banzăc, Hônôrê đơ</skos:altLabel>
+    <skos:altLabel>Balzaq, Ônôrē de</skos:altLabel>
+    <skos:altLabel>Baruzakku</skos:altLabel>
+    <skos:altLabel>Balzak.</skos:altLabel>
+    <skos:altLabel>ceélibataire, Jeune</skos:altLabel>
+    <skos:altLabel>Balzak, H.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:altLabel>Balzac, Honoriusz.</skos:altLabel>
+    <skos:altLabel>Balzac, M. de</skos:altLabel>
+    <skos:altLabel>Saint-Aubin, Horace de.</skos:altLabel>
+    <skos:altLabel>Ba’erzhake</skos:altLabel>
+    <skos:altLabel>Villergleé, A. de</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Balzac, Honoryusz.</skos:altLabel>
+    <skos:prefLabel>Balzac, Honoré de French writer, 1799-1850</skos:prefLabel>
+    <skos:altLabel>R'Hoone</skos:altLabel>
+    <skos:altLabel>Abbeé Savonati</skos:altLabel>
+    <skos:altLabel>Balzac, Honoreé de</skos:altLabel>
+    <skos:altLabel>Saint Aubin.</skos:altLabel>
+    <skos:altLabel>Aubin, Horace de Saint-</skos:altLabel>
+    <skos:altLabel>Jeune ceélibataire, Un</skos:altLabel>
+    <skos:altLabel>Balzac, Honoré.</skos:altLabel>
+    <skos:altLabel>Balzac, de.</skos:altLabel>
+    <skos:altLabel>Balzak, Honoriusz.</skos:altLabel>
+    <skos:altLabel>Balʹzak, Onore</skos:altLabel>
+    <skos:altLabel>هونورى بلزاك،</skos:altLabel>
+    <skos:altLabel>Balzak, Honore de</skos:altLabel>
+    <skos:altLabel>Instituteur Matricante.</skos:altLabel>
+    <skos:altLabel>Balzaḳ, Onoreh deh</skos:altLabel>
+    <skos:altLabel>De Balzac, Honoreé</skos:altLabel>
+    <skos:altLabel>Saint Aubin de Poitiers.</skos:altLabel>
+    <skos:altLabel>Balzāk, Ūnūrīh dī</skos:altLabel>
+    <skos:altLabel>R'Hoone, Lord.</skos:altLabel>
+    <skos:altLabel>Jeune ceélibataire</skos:altLabel>
+    <skos:altLabel>De Balzac, Honorato</skos:altLabel>
+    <skos:altLabel>Ba'erzhake</skos:altLabel>
+    <skos:altLabel>بلزاك، هونورى،</skos:altLabel>
+    <skos:altLabel>Balzac, Honoräe de</skos:altLabel>
+    <skos:altLabel>De Balzac, Honoré</skos:altLabel>
+    <skos:altLabel>Savonati, Abbeé</skos:altLabel>
+    <skos:altLabel>Balzac, Honoré de</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/29529595/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/29529595"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035012972#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
-    <skos:altLabel>Pa-erh-cha-kʻo, 1799-1850</skos:altLabel>
-    <skos:altLabel>Ba’erzhake, 1799-1850</skos:altLabel>
-    <skos:altLabel>De Balzac, Honorato, 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzaḳ, ... 1799-1850</skos:altLabel>
-    <skos:altLabel>Balʹzak, Onore de</skos:altLabel>
-    <skos:altLabel>Banzăc, Hônôrê đơ, 1799-1850</skos:altLabel>
-    <skos:altLabel>De Balzac, Honoré 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzac, Honorato, 1799-1850</skos:altLabel>
-    <skos:altLabel>Mpalzak, Onore de</skos:altLabel>
-    <skos:altLabel>Jeune célibataire 1799-1850</skos:altLabel>
-    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Balzaḳ, Onoreh deh, 1799-1850</skos:altLabel>
-    <skos:altLabel>R'Honne, Lord</skos:altLabel>
-    <skos:altLabel>Saint-Aubin, Horace de.</skos:altLabel>
-    <skos:altLabel>Balʹzak, Onore</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00432210#skos:Concept">
-    <skos:altLabel>Balzac, Honore de, 1799-1850</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
-    <skos:altLabel>バルザック, オノレ・ド</skos:altLabel>
-    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
-    <skos:altLabel>バルザック</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/29529595">
-    <foaf:name>De Balzac, Honoreé</foaf:name>
-    <foaf:name>Balzac, de.</foaf:name>
-    <foaf:name>Mpalzak, Onore nte, 1799-1850</foaf:name>
-    <foaf:name>Saint-Aubin, Horace de 1799-1850 Pseudonym</foaf:name>
-    <foaf:name>De Saint-Aubin, Horace</foaf:name>
-    <foaf:name>Savonati, Abbeé</foaf:name>
-    <foaf:name>Lord R'Hoone.</foaf:name>
-    <foaf:name>Jeune célibataire, un, 1799-1850</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118506358"/>
-    <foaf:name>Balzac, H.</foaf:name>
-    <foaf:name>Balʹzak, Onore</foaf:name>
-    <foaf:name>De Balzac, Honorato</foaf:name>
-    <foaf:name>Balzak, Onore de, 1799-1850</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>R'Hoone, ... 1799-1850 Pseudonym</foaf:name>
-    <foaf:name>Бальзак, Оноре де</foaf:name>
-    <foaf:name>Saint Aubin, 1799-1850</foaf:name>
-    <foaf:name>Saint-Aubin, Horace de.</foaf:name>
-    <foaf:name>e Villerglé A. de 1799-1850</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Honoré_de_Balzac"/>
-    <foaf:name>Balzac, Honoré de</foaf:name>
-    <foaf:name>Aubin, Saint</foaf:name>
-    <foaf:name>בלזק, אונורה דה, 1799-1850</foaf:name>
-    <foaf:name>Balzac, Honoräe de 1799-1850</foaf:name>
-    <foaf:name>Horace de Saint Aubin</foaf:name>
-    <foaf:name>Balzac, H. de 1799-1850</foaf:name>
-    <foaf:name>בלזק, הונורה דה, 1799-1850</foaf:name>
-    <foaf:name>R'Hoone, Lord.</foaf:name>
-    <foaf:name>O'Rhoone, Lord.</foaf:name>
-    <foaf:name>e Saint Aubin de Poitiers 1799-1850</foaf:name>
-    <foaf:name>בלזק, הונורה דה-, 1799-1850</foaf:name>
-    <foaf:name>Balzac, Honoratus de</foaf:name>
-    <foaf:name>Balzéak, Onore</foaf:name>
-    <foaf:name>Bālazāka, ..., 1799-1850</foaf:name>
-    <foaf:name>Бальзак, Оноре Де, 1799-1850</foaf:name>
-    <foaf:name>Balzac, M. de</foaf:name>
-    <foaf:name>Instituteur Matricante.</foaf:name>
-    <foaf:name>בלזק, הונורה דה</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Balzac, Honore de, 1799-1850</foaf:name>
-    <foaf:name>Saint-Aubin, Horace de, 1799-1850</foaf:name>
-    <foaf:name>Balzac, Honoré de, 1799-1850</foaf:name>
-    <foaf:name>巴爾扎克, 1799-1850</foaf:name>
-    <foaf:name>Balzac, Honoryusz.</foaf:name>
-    <foaf:name>Aubin, Horace de S.- 1799-1850 Pseudonym</foaf:name>
-    <foaf:name>Balzac, Heinrich von 1799-1850</foaf:name>
-    <foaf:name>Balzac, Honorato de 1799-1850</foaf:name>
-    <foaf:name>Balzac, M. de 1799-1850</foaf:name>
-    <foaf:name>بلزاك، هونورى، 1799-1850 م.</foaf:name>
-    <foaf:name>Balzac, Honoriusz.</foaf:name>
-    <foaf:name>De Balzac, Honoré 1799-1850</foaf:name>
-    <foaf:name>Balzak, Honoriusz.</foaf:name>
-    <foaf:name>e Saint Aubin 1799-1850 de Poitiers</foaf:name>
-    <foaf:name>בלזק, אונורה דה</foaf:name>
-    <foaf:name>Banzăc, Hônôrê đơ, 1799-1850</foaf:name>
-    <foaf:name>e O'Rhoone Lord 1799-1850</foaf:name>
-    <foaf:name>Balzac, ... von 1799-1850</foaf:name>
-    <foaf:name>Horace de Saint-Aubin, 1799-1850</foaf:name>
-    <foaf:name>Balzac, Honorato, 1799-1850</foaf:name>
-    <foaf:name>Balzak, Honore de</foaf:name>
-    <foaf:name>Balzaq, Ônôrē de 1799-1850</foaf:name>
-    <foaf:name>DeBalzac, Honoreé</foaf:name>
-    <foaf:name>De Balzac, Honoré</foaf:name>
-    <foaf:name>Balzac, Onorato di</foaf:name>
-    <foaf:name>באלזאק, האָנאָרע דע, 1799-1850</foaf:name>
-    <foaf:name>Baruzakku, 1799-1850</foaf:name>
-    <foaf:name>Saint Aubin, 1799-1850, de Poitiers</foaf:name>
-    <foaf:name>St.-Aubin, Horace.</foaf:name>
-    <foaf:name>バルザック, オノレ・ド</foaf:name>
-    <foaf:name>R'Hoone</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/38510"/>
-    <foaf:name>באלזאק, אנארע דע, 1799-1850</foaf:name>
-    <foaf:name>Balzac, Honoräe de</foaf:name>
-    <foaf:name>בלזק, אנארע דע</foaf:name>
-    <foaf:name>Villergleé, A. de</foaf:name>
-    <foaf:name>Balzac, Honore De</foaf:name>
-    <foaf:name>Villerglé, A. de.</foaf:name>
-    <foaf:name>Balʹzak, Onore de</foaf:name>
-    <foaf:name>Balzac, H. de (Honoré de), 1799-1850</foaf:name>
-    <foaf:name>هونورى بلزاك، 1799-1850 م</foaf:name>
-    <foaf:name>Ba’erzhake, 1799-1850</foaf:name>
-    <foaf:name>Saint Aubin de Poitiers.</foaf:name>
-    <foaf:name>Lord R'Hoone 1799-1850 Pseudonym</foaf:name>
-    <foaf:name>e Poitiers Saint Aubin de 1799-1850</foaf:name>
-    <foaf:name>バルザック</foaf:name>
-    <foaf:name>ceélibataire, Jeune</foaf:name>
-    <foaf:name>Balzac, 1799-1850</foaf:name>
-    <foaf:name>Jeune célibataire, Un.</foaf:name>
-    <foaf:name>Pa-erh-cha-kʻo, 1799-1850</foaf:name>
-    <foaf:name>Balssa, Honoré, 1799-1850</foaf:name>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/283841084"/>
-    <foaf:name>Balssa, Honoré</foaf:name>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/283841084"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb118900414#foaf:Person"/>
-    <foaf:name>Aubin, Horace de S.-</foaf:name>
-    <foaf:name>e R'Hoone Lord 1799-1850</foaf:name>
-    <foaf:name>Balzāk, Ūnūrīh dī, 1799-1850</foaf:name>
-    <foaf:name>巴爾札克, 1799-1850</foaf:name>
-    <foaf:name>Banzăc, Hônôrê đơ</foaf:name>
-    <foaf:name>e Instituteur Matricante 1799-1850</foaf:name>
-    <foaf:name>De Balzac, Honorato, 1799-1850</foaf:name>
-    <foaf:name>Бальзак, Оноре де, 1799-1850</foaf:name>
-    <rdaGr2:dateOfDeath>1850-08-18</rdaGr2:dateOfDeath>
-    <foaf:name>بلزاك، هونورى،</foaf:name>
-    <foaf:name>Balzac, Onorato di 1799-1850</foaf:name>
-    <foaf:name>R'Hoone, Lord, 1799-1850</foaf:name>
-    <foaf:name>Matricante, Instituteur.</foaf:name>
-    <foaf:name>e Abbé Savonati 1799-1850</foaf:name>
-    <foaf:name>Balzac.</foaf:name>
-    <foaf:name>Balzaḳ, ... 1799-1850</foaf:name>
-    <foaf:name>Poitiers, Saint Aubin de.</foaf:name>
-    <foaf:name>Ba’erzhake</foaf:name>
-    <foaf:name>Balzak.</foaf:name>
-    <foaf:name>بلزاك، اونوريه دى، 1799-1850 م</foaf:name>
-    <foaf:name>e Saint-Aubin Horace de 1799-1850</foaf:name>
-    <foaf:name>Abbé Savonati.</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/02670305X/id"/>
-    <foaf:name>Balzac, H. de.</foaf:name>
-    <foaf:name>Pa-erh-cha-kʻo</foaf:name>
-    <foaf:name>Abbeé Savonati</foaf:name>
-    <foaf:name>Honoré de Balzac</foaf:name>
-    <foaf:name>Balzac, Honorato</foaf:name>
-    <foaf:name>Jeune ceélibataire, Un</foaf:name>
-    <foaf:name>Baruzakku</foaf:name>
-    <foaf:name>e Lord R'Hoone 1799-1850</foaf:name>
-    <foaf:name>דע־באלזאק, האָנאָרע, 1799-1850</foaf:name>
-    <foaf:name>Balzac, Honoré de French writer, 1799-1850</foaf:name>
-    <foaf:name>e Jeune célibataire Un 1799-1850</foaf:name>
-    <foaf:name>Balzac, Honoreé von</foaf:name>
-    <foaf:name>e Matricante Instituteur 1799-1850</foaf:name>
-    <foaf:name>Auteur du Vicaire des Ardennes.</foaf:name>
-    <foaf:name>Balzac, Honoré.</foaf:name>
-    <foaf:name>Balzaḳ, Onoreh deh</foaf:name>
-    <foaf:name>Bal'zak, O.</foaf:name>
-    <foaf:name>Balzak, H.</foaf:name>
-    <foaf:name>Balzaḳ, Onoreh deh, 1799-1850</foaf:name>
-    <foaf:name>Balzac, Honoreé de</foaf:name>
-    <foaf:name>Balʹzak, Onore, 1799-1850</foaf:name>
-    <foaf:name>Balzac, Honoriusz 1799-1850</foaf:name>
-    <foaf:name>バルザック, 1799-1850</foaf:name>
-    <foaf:name>Balzac, Honoré von 1799-1850</foaf:name>
-    <foaf:name>DeBalzac, Honoré 1799-1850</foaf:name>
-    <foaf:name>R'Honne, Lord</foaf:name>
-    <foaf:name>Aubin, Horace de Saint-</foaf:name>
-    <foaf:name>Balzaq, Ônôrē de</foaf:name>
-    <foaf:name>بالزاك، انوره دو</foaf:name>
-    <foaf:name>Mpalzak, Onore de</foaf:name>
-    <foaf:name>هونورى بلزاك،</foaf:name>
-    <foaf:name>Savonati, abbé.</foaf:name>
-    <foaf:name>באלזאק, אונורה דה, 1799-1850</foaf:name>
-    <foaf:name>Balzāk, Ūnūrīh dī</foaf:name>
-    <foaf:name>Balsac, Honoré de</foaf:name>
-    <foaf:name>Aubin, Horace de Saint- 1799-1850 Pseudonym</foaf:name>
-    <foaf:name>Balzak, Honore de, 1799-1850</foaf:name>
-    <foaf:name>Saint Aubin.</foaf:name>
-    <foaf:name>Ba'erzhake</foaf:name>
-    <foaf:name>e Savonati Abbé 1799-1850</foaf:name>
-    <foaf:name>Balzac, Honoratus de 1799-1850</foaf:name>
-    <foaf:name>באלזאק, הונורה דה, 1799-1850</foaf:name>
-    <foaf:name>L'Empésé, Emile Baron de 1799-1850 Pseudonym</foaf:name>
-    <foaf:name>Jeune ceélibataire</foaf:name>
-    <foaf:name>Jeune célibataire 1799-1850</foaf:name>
-    <foaf:name>Ba'erzhake, 1799-1850</foaf:name>
-    <rdaGr2:dateOfBirth>1799-05-20</rdaGr2:dateOfBirth>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11563461#skos:Concept">
-    <skos:altLabel>Balzac, Honoriusz.</skos:altLabel>
-    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
-    <skos:altLabel>Balzac.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <skos:altLabel>Balzac, H.</skos:altLabel>
-    <skos:altLabel>Balzak, Honoriusz.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
-    <skos:altLabel>Balzak.</skos:altLabel>
-    <skos:altLabel>Balzac, de.</skos:altLabel>
-    <skos:altLabel>Balzac, H. de.</skos:altLabel>
-    <skos:altLabel>Balzac, Honoryusz.</skos:altLabel>
-    <skos:altLabel>Balzac, Honoré.</skos:altLabel>
-    <skos:altLabel>Balʹzak, Onore</skos:altLabel>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068405944#skos:Concept">
-    <skos:altLabel>Mpalzak, Onore nte, 1799-1850</skos:altLabel>
+    <skos:altLabel>巴爾扎克, 1799-1850</skos:altLabel>
+    <skos:altLabel>Ba'erzhake, 1799-1850</skos:altLabel>
+    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
     <skos:altLabel>Bālazāka, ..., 1799-1850</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <skos:altLabel>Balzac, 1799-1850</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Ba'erzhake, 1799-1850</skos:altLabel>
+    <skos:altLabel>Mpalzak, Onore nte, 1799-1850</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
     <skos:altLabel>Jeune célibataire, un, 1799-1850</skos:altLabel>
-    <skos:altLabel>巴爾扎克, 1799-1850</skos:altLabel>
-    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
+    <skos:altLabel>Balzac, 1799-1850</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500277159#skos:Concept">
-    <skos:altLabel>Balzac, Honorato</skos:altLabel>
-    <skos:altLabel>Balzac, Honoräe de</skos:altLabel>
-    <skos:altLabel>Pa-erh-cha-kʻo</skos:altLabel>
-    <skos:altLabel>Balzac, Honoriusz.</skos:altLabel>
-    <skos:altLabel>R'Hoone</skos:altLabel>
-    <skos:altLabel>Balzac, de.</skos:altLabel>
-    <skos:altLabel>Ba’erzhake</skos:altLabel>
-    <skos:altLabel>Aubin, Saint</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CHonoré_de_Balzac#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Balzak, H.</skos:altLabel>
-    <skos:altLabel>Instituteur Matricante.</skos:altLabel>
-    <skos:altLabel>Aubin, Horace de S.-</skos:altLabel>
-    <skos:altLabel>De Balzac, Honorato</skos:altLabel>
-    <skos:altLabel>O'Rhoone, Lord.</skos:altLabel>
-    <skos:altLabel>Saint Aubin.</skos:altLabel>
-    <skos:altLabel>Balzac, M. de</skos:altLabel>
-    <skos:altLabel>Balzac, H. de.</skos:altLabel>
-    <skos:altLabel>Banzăc, Hônôrê đơ</skos:altLabel>
-    <skos:altLabel>Balzac, Honoreé von</skos:altLabel>
-    <skos:altLabel>Baruzakku</skos:altLabel>
-    <skos:altLabel>Balzac, Onorato di</skos:altLabel>
-    <skos:altLabel>De Balzac, Honoré</skos:altLabel>
-    <skos:altLabel>Balssa, Honoré</skos:altLabel>
-    <skos:altLabel>بلزاك، هونورى،</skos:altLabel>
-    <skos:altLabel>Balʹzak, Onore de</skos:altLabel>
-    <skos:altLabel>Balzac, Honoreé de</skos:altLabel>
-    <skos:altLabel>Lord R'Hoone.</skos:altLabel>
-    <skos:altLabel>Balzaq, Ônôrē de</skos:altLabel>
-    <skos:altLabel>Balzac, Honoré de</skos:altLabel>
-    <skos:altLabel>Ba'erzhake</skos:altLabel>
-    <skos:altLabel>R'Hoone, Lord.</skos:altLabel>
-    <skos:altLabel>DeBalzac, Honoreé</skos:altLabel>
-    <skos:altLabel>Balsac, Honoré de</skos:altLabel>
-    <skos:altLabel>Balzak, Honore de</skos:altLabel>
-    <skos:altLabel>Jeune ceélibataire</skos:altLabel>
-    <skos:prefLabel>Balzac, Honoré de French writer, 1799-1850</skos:prefLabel>
-    <skos:altLabel>Balzac, H.</skos:altLabel>
-    <skos:altLabel>Saint-Aubin, Horace de.</skos:altLabel>
-    <skos:altLabel>Balzaḳ, Onoreh deh</skos:altLabel>
-    <skos:altLabel>Savonati, Abbeé</skos:altLabel>
-    <skos:altLabel>Balzac, Honoratus de</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
-    <skos:altLabel>Villergleé, A. de</skos:altLabel>
-    <skos:altLabel>Honoré de Balzac</skos:altLabel>
-    <skos:altLabel>De Balzac, Honoreé</skos:altLabel>
-    <skos:altLabel>Balzac, Honoryusz.</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
-    <skos:altLabel>Balzac.</skos:altLabel>
-    <skos:altLabel>Balzac, Honoré.</skos:altLabel>
-    <skos:altLabel>Бальзак, Оноре де</skos:altLabel>
-    <skos:altLabel>בלזק, הונורה דה</skos:altLabel>
-    <skos:altLabel>Saint Aubin de Poitiers.</skos:altLabel>
-    <skos:altLabel>Balzéak, Onore</skos:altLabel>
-    <skos:altLabel>Balzak, Honoriusz.</skos:altLabel>
-    <skos:altLabel>Poitiers, Saint Aubin de.</skos:altLabel>
-    <skos:altLabel>Abbeé Savonati</skos:altLabel>
-    <skos:altLabel>Aubin, Horace de Saint-</skos:altLabel>
-    <skos:altLabel>ceélibataire, Jeune</skos:altLabel>
-    <skos:altLabel>Balzāk, Ūnūrīh dī</skos:altLabel>
-    <skos:altLabel>Jeune ceélibataire, Un</skos:altLabel>
-    <skos:altLabel>هونورى بلزاك،</skos:altLabel>
-    <skos:altLabel>Balʹzak, Onore</skos:altLabel>
-    <skos:altLabel>Balzak.</skos:altLabel>
-    <skos:altLabel>Matricante, Instituteur.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Balzac, Honoré de</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0053H0010#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
     <skos:altLabel>De Saint-Aubin, Horace</skos:altLabel>
+    <skos:altLabel>R'Hoone, Lord.</skos:altLabel>
     <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
     <skos:altLabel>De Balzac, Honoré</skos:altLabel>
+    <skos:altLabel>Saint-Aubin, Horace de.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
     <skos:altLabel>Villerglé, A. de.</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>R'Hoone, Lord.</skos:altLabel>
-    <skos:altLabel>Saint-Aubin, Horace de.</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11890041#skos:Concept">
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb118900414"/>
-    <skos:altLabel>e Lord R'Hoone 1799-1850</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035012972#skos:Concept">
+    <skos:altLabel>Jeune célibataire 1799-1850</skos:altLabel>
+    <skos:altLabel>De Balzac, Honoré, 1799-1850</skos:altLabel>
+    <skos:altLabel>Balʹzak, Onore</skos:altLabel>
+    <skos:altLabel>Balzac, Honorato, 1799-1850</skos:altLabel>
+    <skos:altLabel>Mpalzak, Onore de</skos:altLabel>
     <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
-    <skos:altLabel>e Saint Aubin de Poitiers 1799-1850</skos:altLabel>
-    <skos:altLabel>e Villerglé A. de 1799-1850</skos:altLabel>
-    <skos:altLabel>e Poitiers Saint Aubin de 1799-1850</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb118900414"/>
-    <skos:altLabel>e Abbé Savonati 1799-1850</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:altLabel>Ba’erzhake, 1799-1850</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>e Instituteur Matricante 1799-1850</skos:altLabel>
-    <skos:altLabel>e Saint-Aubin Horace de 1799-1850</skos:altLabel>
-    <skos:altLabel>e Saint Aubin 1799-1850 de Poitiers</skos:altLabel>
-    <skos:altLabel>e Jeune célibataire Un 1799-1850</skos:altLabel>
-    <skos:altLabel>e O'Rhoone Lord 1799-1850</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:altLabel>e R'Hoone Lord 1799-1850</skos:altLabel>
-    <skos:altLabel>e Savonati Abbé 1799-1850</skos:altLabel>
-    <skos:altLabel>e Matricante Instituteur 1799-1850</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/29529595/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/29529595"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C38510#skos:Concept">
+    <skos:altLabel>Banzăc, Hônôrê đơ, 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzaḳ, ... 1799-1850</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
-    <skos:altLabel>Horace de Saint-Aubin, 1799-1850</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/38510#concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <skos:altLabel>Balzak, Onore de, 1799-1850</skos:altLabel>
-    <skos:altLabel>Saint-Aubin, Horace de, 1799-1850</skos:altLabel>
-    <skos:altLabel>Balzac, 1799-1850</skos:altLabel>
-    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Balzak, Honore de, 1799-1850</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C02670305X#skos:Concept">
-    <skos:altLabel>O'Rhoone, Lord.</skos:altLabel>
-    <skos:altLabel>Abbé Savonati.</skos:altLabel>
-    <skos:altLabel>Poitiers, Saint Aubin de.</skos:altLabel>
-    <skos:altLabel>R'Hoone, Lord.</skos:altLabel>
-    <skos:altLabel>Villerglé, A. de.</skos:altLabel>
-    <skos:altLabel>Savonati, abbé.</skos:altLabel>
     <skos:altLabel>Saint-Aubin, Horace de.</skos:altLabel>
-    <skos:altLabel>Saint Aubin de Poitiers.</skos:altLabel>
+    <skos:altLabel>De Balzac, Honorato, 1799-1850</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:altLabel>R'Honne, Lord</skos:altLabel>
+    <skos:altLabel>Pa-erh-cha-kʻo, 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzaḳ, Onoreh deh, 1799-1850</skos:altLabel>
     <skos:altLabel>Balʹzak, Onore de</skos:altLabel>
-    <skos:altLabel>Matricante, Instituteur.</skos:altLabel>
-    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
-    <skos:altLabel>Jeune célibataire, Un.</skos:altLabel>
-    <skos:altLabel>Lord R'Hoone.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Saint Aubin, 1799-1850, de Poitiers</skos:altLabel>
-    <skos:altLabel>Бальзак, Оноре де</skos:altLabel>
-    <skos:altLabel>Instituteur Matricante.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/29529595/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990000418#skos:Concept">
-    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
-    <skos:altLabel>Saint-Aubin, Horace de, 1799-1850</skos:altLabel>
-    <skos:altLabel>Balssa, Honoré, 1799-1850</skos:altLabel>
+    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:altLabel>Saint-Aubin, Horace de, 1799-1850</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Balssa, Honoré, 1799-1850</skos:altLabel>
     <skos:altLabel>Saint Aubin, 1799-1850</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C02670305X#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Saint-Aubin, Horace de.</skos:altLabel>
+    <skos:altLabel>Villerglé, A. de.</skos:altLabel>
+    <skos:altLabel>Instituteur Matricante.</skos:altLabel>
+    <skos:altLabel>Balʹzak, Onore de</skos:altLabel>
+    <skos:altLabel>Poitiers, Saint Aubin de.</skos:altLabel>
+    <skos:altLabel>Savonati, abbé.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
+    <skos:altLabel>Saint Aubin de Poitiers.</skos:altLabel>
+    <skos:altLabel>Abbé Savonati.</skos:altLabel>
+    <skos:altLabel>R'Hoone, Lord.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Matricante, Instituteur.</skos:altLabel>
+    <skos:altLabel>Jeune célibataire, Un.</skos:altLabel>
+    <skos:altLabel>Lord R'Hoone.</skos:altLabel>
+    <skos:altLabel>Бальзак, Оноре де</skos:altLabel>
+    <skos:altLabel>O'Rhoone, Lord.</skos:altLabel>
+    <skos:altLabel>Saint Aubin, 1799-1850, de Poitiers</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1721276#skos:Concept">
+    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
+    <skos:altLabel>Balzac, Honorato de 1799-1850</skos:altLabel>
+    <skos:altLabel>R'Hoone, Lord, 1799-1850</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <skos:altLabel>Jeune célibataire 1799-1850</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:altLabel>De Balzac, Honoré, 1799-1850</skos:altLabel>
+    <skos:altLabel>Saint-Aubin, Horace de, 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzac, H. de 1799-1850</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/29529595">
+    <foaf:name>Pa-erh-cha-kʻo, 1799-1850</foaf:name>
+    <foaf:name>Abbeé Savonati</foaf:name>
+    <foaf:name>Balzak, Honore de, 1799-1850</foaf:name>
+    <foaf:name>Balzac, Honoratus de 1799-1850</foaf:name>
+    <foaf:name>Balssa, Honoré</foaf:name>
+    <foaf:name>هونورى بلزاك،</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Honoré_de_Balzac"/>
+    <foaf:name>بالزاك، انوره دو</foaf:name>
+    <foaf:name>Balzac, Honoratus de</foaf:name>
+    <foaf:name>Villergleé, A. de</foaf:name>
+    <foaf:name>Balzac, M. de</foaf:name>
+    <foaf:name>Saint Aubin.</foaf:name>
+    <foaf:name>Balzak, H.</foaf:name>
+    <foaf:name>Balzac, Honoré de French writer, 1799-1850</foaf:name>
+    <foaf:name>Ba'erzhake, 1799-1850</foaf:name>
+    <foaf:name>Balzac, Honoriusz.</foaf:name>
+    <foaf:name>بلزاك، هونورى،</foaf:name>
+    <foaf:name>Abbé Savonati 1799-1850</foaf:name>
+    <foaf:name>De Balzac, Honorato</foaf:name>
+    <foaf:name>De Balzac, Honoré</foaf:name>
+    <foaf:name>Бальзак, Оноре Де, 1799-1850</foaf:name>
+    <foaf:name>Poitiers Saint Aubin de 1799-1850</foaf:name>
+    <foaf:name>R'Hoone, Lord.</foaf:name>
+    <foaf:name>R'Hoone, ... 1799-1850 Pseudonym</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/283841084"/>
+    <foaf:name>Balzak.</foaf:name>
+    <foaf:name>Balzac, H. de 1799-1850</foaf:name>
+    <foaf:name>Balzak, Honore de</foaf:name>
+    <foaf:name>R'Hoone</foaf:name>
+    <foaf:name>Balzac, de.</foaf:name>
+    <foaf:name>R'Hoone, Lord, 1799-1850</foaf:name>
+    <foaf:name>Banzăc, Hônôrê đơ, 1799-1850</foaf:name>
+    <foaf:name>Jeune célibataire, Un.</foaf:name>
+    <foaf:name>Bālazāka, ..., 1799-1850</foaf:name>
+    <foaf:name>Balzac, Honoreé von</foaf:name>
+    <foaf:name>De Balzac, Honoré, 1799-1850</foaf:name>
+    <foaf:name>באלזאק, הונורה דה, 1799-1850</foaf:name>
+    <foaf:name>Savonati, abbé.</foaf:name>
+    <foaf:name>Balzac, H.</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/90752078"/>
+    <foaf:name>بلزاك، هونورى، 1799-1850 م.</foaf:name>
+    <foaf:name>Balzac, Honoryusz.</foaf:name>
+    <foaf:name>De Saint-Aubin, Horace</foaf:name>
+    <foaf:name>Aubin, Horace de Saint-</foaf:name>
+    <foaf:name>בלזק, אונורה דה, 1799-1850</foaf:name>
+    <foaf:name>Balʹzak, Onore de</foaf:name>
+    <foaf:name>Balzac, ... von 1799-1850</foaf:name>
+    <foaf:name>Saint Aubin de Poitiers 1799-1850</foaf:name>
+    <foaf:name>Balzac.</foaf:name>
+    <foaf:name>بلزاك، اونوريه دى، 1799-1850 م</foaf:name>
+    <foaf:name>Balzac, Heinrich von 1799-1850</foaf:name>
+    <foaf:name>Ba’erzhake, 1799-1850</foaf:name>
+    <foaf:name>O'Rhoone, Lord.</foaf:name>
+    <foaf:name>Balzac, Honorato de 1799-1850</foaf:name>
+    <foaf:name>Poitiers, Saint Aubin de.</foaf:name>
+    <foaf:name>Horace de Saint-Aubin, 1799-1850</foaf:name>
+    <foaf:name>Balzac, Honoreé de</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Balzaḳ, Onoreh deh, 1799-1850</foaf:name>
+    <foaf:name>Balzac, Honoräe de 1799-1850</foaf:name>
+    <foaf:name>Abbé Savonati.</foaf:name>
+    <foaf:name>Balssa, Honoré, 1799-1850</foaf:name>
+    <foaf:name>Balzéak, Onore</foaf:name>
+    <foaf:name>Savonati, Abbeé</foaf:name>
+    <foaf:name>Balzaḳ, Onoreh deh</foaf:name>
+    <foaf:name>Бальзак, Оноре де</foaf:name>
+    <foaf:name>Instituteur Matricante.</foaf:name>
+    <foaf:name>Lord R'Hoone 1799-1850</foaf:name>
+    <foaf:name>Balzac, Honore de, 1799-1850</foaf:name>
+    <foaf:name>Baruzakku, 1799-1850</foaf:name>
+    <foaf:name>בלזק, הונורה דה-, 1799-1850</foaf:name>
+    <foaf:name>בלזק, הונורה דה, 1799-1850</foaf:name>
+    <foaf:name>Jeune célibataire 1799-1850</foaf:name>
+    <foaf:name>Aubin, Horace de S.- 1799-1850 Pseudonym</foaf:name>
+    <foaf:name>Mpalzak, Onore nte, 1799-1850</foaf:name>
+    <foaf:name>Jeune ceélibataire, Un</foaf:name>
+    <foaf:name>Honoré de Balzac</foaf:name>
+    <foaf:name>Mpalzak, Onore de</foaf:name>
+    <foaf:name>Horace de Saint Aubin</foaf:name>
+    <foaf:name>Saint-Aubin, Horace de 1799-1850 Pseudonym</foaf:name>
+    <foaf:name>Balzac, Honoré de, 1799-1850</foaf:name>
+    <foaf:name>באלזאק, אונורה דה, 1799-1850</foaf:name>
+    <foaf:name>באלזאק, האָנאָרע דע, 1799-1850</foaf:name>
+    <foaf:name>דע־באלזאק, האָנאָרע, 1799-1850</foaf:name>
+    <foaf:name>Auteur du Vicaire des Ardennes.</foaf:name>
+    <foaf:name>Balzac, Honoré de</foaf:name>
+    <foaf:name>Balsac, Honoré de</foaf:name>
+    <foaf:name>Saint-Aubin, Horace de.</foaf:name>
+    <foaf:name>Saint Aubin de Poitiers.</foaf:name>
+    <foaf:name>Jeune célibataire, un, 1799-1850</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/38510"/>
+    <foaf:name>DeBalzac, Honoreé</foaf:name>
+    <foaf:name>בלזק, אונורה דה</foaf:name>
+    <foaf:name>Ba'erzhake</foaf:name>
+    <foaf:name>Villerglé, A. de.</foaf:name>
+    <foaf:name>Balzac, Honoré von 1799-1850</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/02670305X/id"/>
+    <foaf:name>Saint Aubin, 1799-1850, de Poitiers</foaf:name>
+    <foaf:name>בלזק, אנארע דע</foaf:name>
+    <foaf:name>Banzăc, Hônôrê đơ</foaf:name>
+    <foaf:name>De Balzac, Honorato, 1799-1850</foaf:name>
+    <foaf:name>Balzāk, Ūnūrīh dī, 1799-1850</foaf:name>
+    <foaf:name>Balzaq, Ônôrē de</foaf:name>
+    <foaf:name>Balzac, H. de (Honoré de), 1799-1850</foaf:name>
+    <foaf:name>Savonati Abbé 1799-1850</foaf:name>
+    <foaf:name>Lord R'Hoone 1799-1850 Pseudonym</foaf:name>
+    <rdaGr2:dateOfBirth>1799-05-20</rdaGr2:dateOfBirth>
+    <foaf:name>Balzac, Onorato di 1799-1850</foaf:name>
+    <foaf:name>هونورى بلزاك، 1799-1850 م</foaf:name>
+    <foaf:name>Villerglé A. de 1799-1850</foaf:name>
+    <foaf:name>Balzac, Honoriusz 1799-1850</foaf:name>
+    <foaf:name>בלזק, הונורה דה</foaf:name>
+    <foaf:name>O'Rhoone Lord 1799-1850</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>巴爾扎克, 1799-1850</foaf:name>
+    <foaf:name>Balzac, Honoräe de</foaf:name>
+    <foaf:name>Balʹzak, Onore</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118506358"/>
+    <foaf:name>Lord R'Hoone.</foaf:name>
+    <foaf:name>バルザック</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/283841084"/>
+    <foaf:name>Balzac, Honorato, 1799-1850</foaf:name>
+    <foaf:name>Ba’erzhake</foaf:name>
+    <foaf:name>Matricante Instituteur 1799-1850</foaf:name>
+    <foaf:name>Bal'zak, O.</foaf:name>
+    <foaf:name>バルザック, 1799-1850</foaf:name>
+    <foaf:name>Balzac, H. de.</foaf:name>
+    <foaf:name>ceélibataire, Jeune</foaf:name>
+    <foaf:name>Balzac, M. de 1799-1850</foaf:name>
+    <foaf:name>Balzak, Onore de, 1799-1850</foaf:name>
+    <foaf:name>Balzac, Honorato</foaf:name>
+    <foaf:name>Balʹzak, Onore, 1799-1850</foaf:name>
+    <foaf:name>Balzaks, Onorē de, 1799-1850</foaf:name>
+    <foaf:name>Balzac, Onorato di</foaf:name>
+    <foaf:name>R'Honne, Lord</foaf:name>
+    <foaf:name>Saint-Aubin, Horace de, 1799-1850</foaf:name>
+    <foaf:name>Instituteur Matricante 1799-1850</foaf:name>
+    <foaf:name>Balzac, 1799-1850</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/90752078"/>
+    <foaf:name>Бальзак, Оноре де, 1799-1850</foaf:name>
+    <foaf:name>Baruzakku</foaf:name>
+    <foaf:name>Pa-erh-cha-kʻo</foaf:name>
+    <foaf:name>L'Empésé, Emile Baron de 1799-1850 Pseudonym</foaf:name>
+    <foaf:name>Balzāk, Ūnūrīh dī</foaf:name>
+    <foaf:name>Aubin, Horace de Saint- 1799-1850 Pseudonym</foaf:name>
+    <foaf:name>Jeune ceélibataire</foaf:name>
+    <foaf:name>巴爾札克, 1799-1850</foaf:name>
+    <foaf:name>Matricante, Instituteur.</foaf:name>
+    <foaf:name>Saint Aubin, 1799-1850</foaf:name>
+    <foaf:name>St.-Aubin, Horace.</foaf:name>
+    <foaf:name>Balzaq, Ônôrē de 1799-1850</foaf:name>
+    <foaf:name>באלזאק, אנארע דע, 1799-1850</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb118900414#foaf:Person"/>
+    <foaf:name>バルザック, オノレ・ド</foaf:name>
+    <foaf:name>Aubin, Horace de S.-</foaf:name>
+    <foaf:name>De Balzac, Honoreé</foaf:name>
+    <foaf:name>Balzaḳ, ... 1799-1850</foaf:name>
+    <foaf:name>DeBalzac, Honoré 1799-1850</foaf:name>
+    <foaf:name>Balzak, Honoriusz.</foaf:name>
+    <foaf:name>Balzac, Honoré.</foaf:name>
+    <foaf:name>Aubin, Saint</foaf:name>
+    <rdaGr2:dateOfDeath>1850-08-18</rdaGr2:dateOfDeath>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10280030#skos:Concept">
+    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
+    <skos:altLabel>De Balzac, Honoré, 1799-1850</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:altLabel>Jeune célibataire 1799-1850</skos:altLabel>
+    <skos:altLabel>R'Hoone, Lord, 1799-1850</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Saint-Aubin, Horace de, 1799-1850</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79071094#skos:Concept">
+    <skos:altLabel>דע־באלזאק, האָנאָרע, 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzāk, Ūnūrīh dī, 1799-1850</skos:altLabel>
+    <skos:altLabel>巴爾扎克, 1799-1850</skos:altLabel>
+    <skos:altLabel>באלזאק, אנארע דע, 1799-1850</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Бальзак, Оноре де, 1799-1850</skos:altLabel>
+    <skos:altLabel>באלזאק, אונורה דה, 1799-1850</skos:altLabel>
+    <skos:altLabel>بالزاك، انوره دو</skos:altLabel>
+    <skos:altLabel>Ba'erzhake, 1799-1850</skos:altLabel>
+    <skos:altLabel>R'Hoone, Lord, 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzac, H. de (Honoré de), 1799-1850</skos:altLabel>
+    <skos:altLabel>De Balzac, Honoré, 1799-1850</skos:altLabel>
+    <skos:altLabel>Banzăc, Hônôrê đơ, 1799-1850</skos:altLabel>
+    <skos:altLabel>Jeune célibataire 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzaḳ, ... 1799-1850</skos:altLabel>
+    <skos:altLabel>Balzaḳ, Onoreh deh, 1799-1850</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
+    <skos:altLabel>Pa-erh-cha-kʻo, 1799-1850</skos:altLabel>
+    <skos:altLabel>Balʹzak, Onore, 1799-1850</skos:altLabel>
+    <skos:altLabel>De Balzac, Honorato, 1799-1850</skos:altLabel>
+    <skos:altLabel>バルザック, 1799-1850</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79071094"/>
+    <skos:altLabel>Balzac, Honorato, 1799-1850</skos:altLabel>
+    <skos:altLabel>בלזק, הונורה דה-, 1799-1850</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>בלזק, אונורה דה, 1799-1850</skos:altLabel>
+    <skos:altLabel>Saint-Aubin, Horace de, 1799-1850</skos:altLabel>
+    <skos:altLabel>巴爾札克, 1799-1850</skos:altLabel>
+    <skos:altLabel>באלזאק, האָנאָרע דע, 1799-1850</skos:altLabel>
+    <skos:altLabel>Baruzakku, 1799-1850</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00432210#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529595"/>
+    <skos:altLabel>バルザック</skos:altLabel>
+    <skos:prefLabel>Balzac, Honoré de, 1799-1850</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:altLabel>Balzac, Honore de, 1799-1850</skos:altLabel>
+    <skos:altLabel>バルザック, オノレ・ド</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/29529595/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/29529595"/>
   </rdf:Description>
 </rdf:RDF>

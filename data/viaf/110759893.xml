@@ -8,121 +8,50 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C077721020#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CAndré_Previn#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <skos:prefLabel>Previn, Andre</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0005B2068#skos:Concept">
-    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX840272#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00453306#skos:Concept">
-    <skos:altLabel>Previn, Andre., 1929-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>プレヴィン, アンドレ</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/110759893/">
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/110759893"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C13898663#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb138986639"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb138986639"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca12534444#skos:Concept">
-    <skos:altLabel>Priwin, Andreas Ludwig.</skos:altLabel>
-    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjs20020128023#skos:Concept">
     <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50027472#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Priwin, Andreas Ludwig, 1929-</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50027472"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
-    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C286525#skos:Concept">
-    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
-    <skos:altLabel>Prewin, Andreas, 1929-</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/286525#concept"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035432967#skos:Concept">
-    <skos:altLabel>Priwin, Andreas Ludwig, 1929-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
     <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Priwin, Andreas Ludwig, 1929-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CAndré_Previn#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Previn, Andre</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/110759893">
-    <foaf:name>Priwin, Andreas Ludwig, 1929-</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/077721020/id"/>
-    <foaf:name>Previn, André George.</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/286525"/>
-    <foaf:name>Previn, Andre., 1929-</foaf:name>
-    <foaf:name>Previn, Andre</foaf:name>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/139474632"/>
-    <foaf:name>Prewin, Andreas, 1929-</foaf:name>
-    <rdaGr2:dateOfBirth>1929-04-06</rdaGr2:dateOfBirth>
-    <foaf:name>Previn, André George 1929-</foaf:name>
-    <foaf:name>Priwin, Andreas Ludwig.</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb138986639#foaf:Person"/>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Priwin, Andreas Ludwig 1929- Frueherer Name</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/122379322"/>
-    <foaf:name>プレヴィン, アンドレ</foaf:name>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/139474632"/>
-    <foaf:name>Previn, ... 1929-</foaf:name>
-    <foaf:name>Previn, André, 1929-</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/André_Previn"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/110759893/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/110759893"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/110759893/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2005140029#skos:Concept">
-    <skos:altLabel>Previn, André George.</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
-    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:altLabel>Priwin, Andreas Ludwig.</skos:altLabel>
+    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
+    <skos:altLabel>Previn, André George.</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50027472#skos:Concept">
+    <skos:altLabel>Priwin, Andreas Ludwig, 1929-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50027472"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX840272#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C06886325X#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
@@ -130,23 +59,100 @@
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C122379322#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/110759893/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/110759893"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/110759893">
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/139474632"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Priwin, Andreas Ludwig 1929- Frueherer Name</foaf:name>
+    <foaf:name>Priwin, Andreas Ludwig, 1929-</foaf:name>
+    <foaf:name>Priwin, Andreas Ludwig.</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Previn, Andre</foaf:name>
+    <foaf:name>Previn, Andre., 1929-</foaf:name>
+    <foaf:name>Previn, André George.</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/André_Previn"/>
+    <foaf:name>Previn, André George 1929-</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/077721020/id"/>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/139474632"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/286525"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb138986639#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/122379322"/>
+    <rdaGr2:dateOfBirth>1929-04-06</rdaGr2:dateOfBirth>
+    <foaf:name>プレヴィン, アンドレ</foaf:name>
+    <foaf:name>Previn, ... 1929-</foaf:name>
+    <foaf:name>Prewin, Andreas, 1929-</foaf:name>
+    <foaf:name>Previn, André, 1929-</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/110759893/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/110759893"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca12534444#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:altLabel>Previn, ... 1929-</skos:altLabel>
-    <skos:altLabel>Priwin, Andreas Ludwig 1929- Frueherer Name</skos:altLabel>
-    <skos:altLabel>Previn, André George 1929-</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
+    <skos:altLabel>Priwin, Andreas Ludwig.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
     <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/110759893/#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0005B2068#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00453306#skos:Concept">
+    <skos:altLabel>Previn, Andre., 1929-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
+    <skos:altLabel>プレヴィン, アンドレ</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000107713#skos:Concept">
+    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C122379322#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
+    <skos:altLabel>Previn, André George 1929-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Priwin, Andreas Ludwig 1929- Frueherer Name</skos:altLabel>
     <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
+    <skos:altLabel>Previn, ... 1929-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C077721020#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C13898663#skos:Concept">
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb138986639"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb138986639"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C286525#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/286525#concept"/>
+    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
+    <skos:altLabel>Prewin, Andreas, 1929-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000067790#skos:Concept">
+    <skos:prefLabel>Previn, André, 1929-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/110759893"/>
   </rdf:Description>
 </rdf:RDF>

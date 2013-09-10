@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C239895924#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Hutchinson, Pearse, 1927-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/71612369"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C141401079#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/71612369"/>
+    <skos:prefLabel>Hutchinson, Pearse, 1927-</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C14438825#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:prefLabel>Hutchinson, Pearse, 1927-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/71612369"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb14438825h"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb14438825h"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/71612369">
+    <rdaGr2:dateOfDeath>2012-01-14</rdaGr2:dateOfDeath>
+    <foaf:name>Hutchinson, Pearse, 1927-</foaf:name>
+    <rdaGr2:dateOfBirth>1927-02-16</rdaGr2:dateOfBirth>
+    <foaf:name>Hutchinson, Pearse, 1927-2012</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/141401079"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Pearse_Hutchinson"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb14438825h#foaf:Person"/>
+    <foaf:name>Hutchinson, Pearse</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/075505169/id"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CPearse_Hutchinson#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Hutchinson, Pearse</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/71612369"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++83019413#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n83019413"/>
+    <skos:prefLabel>Hutchinson, Pearse</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/71612369"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/71612369/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/71612369"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/71612369/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/71612369"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/71612369/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/71612369"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C075505169#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hutchinson, Pearse, 1927-2012</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/71612369"/>
+  </rdf:Description>
+</rdf:RDF>

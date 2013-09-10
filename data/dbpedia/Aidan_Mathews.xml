@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aidan_Mathews">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dbpedia-owl:abstract xml:lang="en">Aidan Mathews, sometimes Aidan Carl Mathews, (born 1956) is an Irish poet, dramatist and author born in Dublin.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Gonzaga_College"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Aidan_Mathews?oldid=487933086"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Aidan_Mathews"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1956</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Dublin"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pgil-eirdata.org/html/pgil_datasets/authors/m/Mathews,A/life.htm"/>
+    <foaf:givenName xml:lang="en">Aidan</foaf:givenName>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Aidan_Mathews"/>
+    <rdfs:comment xml:lang="en">Aidan Mathews, sometimes Aidan Carl Mathews, (born 1956) is an Irish poet, dramatist and author born in Dublin.</rdfs:comment>
+    <dbpprop:name xml:lang="en">Mathews, Aidan</dbpprop:name>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.irishwriters-online.com/aidancarlmathews.html"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Aidan Mathews</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1956_births"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.09gfg2r"/>
+    <foaf:surname xml:lang="en">Mathews</foaf:surname>
+  </rdf:Description>
+</rdf:RDF>

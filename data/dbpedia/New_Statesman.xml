@@ -9,113 +9,78 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/NewStatesman">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/New_Statesman"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Hamilton-Paterson">
-    <dbpedia-owl:employer rdf:resource="http://dbpedia.org/resource/New_Statesman"/>
-    <dbpprop:employer rdf:resource="http://dbpedia.org/resource/New_Statesman"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/New_Statesman">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/New_Statesman"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/New_Statesman">
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/New_Statesman"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Publications_established_in_1913"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Magazine"/>
-    <rdfs:label xml:lang="en">New Statesman</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1913_establishments_in_the_United_Kingdom"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/New_Statesman"/>
+    <dbpprop:based xml:lang="en">London</dbpprop:based>
+    <dbpprop:editor rdf:resource="http://dbpedia.org/resource/Jason_Cowley"/>
+    <rdfs:label xml:lang="de">New Statesman</rdfs:label>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_magazine"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishMedia"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work"/>
+    <rdfs:comment xml:lang="fi">New Statesman on brittiläinen vasemmistolainen poliittinen viikkolehti, joka ilmestyy Lontoossa. Viimeinen päätoimittaja on ollut John Kampfner, joka irtisanoutui yllättäen 13. helmikuuta 2008. Lehden ohjelma on "kehitys, ihmisoikeudet ja ympäristö, maailmanlaajuiset kysymykset, jotka valtalehdistö usein sivuuttaa". Lehden numerossa 29. toukokuuta 2006 sen päätoimittaja John Kampfner lausui, että New Statesman pysyy "uskollisena radikaalin politiikan perinnölleen".</rdfs:comment>
     <rdfs:comment xml:lang="de">Der New Statesman ist eine englische politische Wochenzeitung, die in London publiziert wird. Das 1913 gegründete Blatt verfocht in seiner Geschichte viele verschiedene Positionen, die sich aber immer links der Mitte befanden. Derzeit (März 2006) gehört das Blatt dem englischen Labour-Abgeordneten Geoffrey Robinson und hat eine Auflage von etwa 24.000 Exemplaren.</rdfs:comment>
-    <dbpprop:category xml:lang="en">Politics</dbpprop:category>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/New_Statesman?oldid=495207263"/>
-    <dbpedia-owl:issn xml:lang="en">1364-7431</dbpedia-owl:issn>
-    <dbpedia-owl:abstract xml:lang="pt">New Statesman é uma revista britânica de conteúdo político publicada semanalmente em Londres. De cunho centro-esquerdista, a revista se diz comprometida com o "desenvolvimento, os direitos humanos e o meio-ambiente, acontecimentos globais que a grande imprensa ocasionalmente ignora". 20px Desde que foi criado em 1913, este semanário que conquistou reputação pela qualidade dos seus analistas e pela pertinência dos seus comentários, é, por excelência, o fórum da esquerda britânica. No que toca a questões sociais, internacionais e de política social, o New Statesman, manifesta-se amiúde, e abre as suas colunas de opinião aos mais variados quadrantes. 20px — Presseurop</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PuBlicationsEstablishedIn1913"/>
+    <dbpprop:language xml:lang="en">English</dbpprop:language>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_political_magazines"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.newstatesman.com"/>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-newspaper-noun-2"/>
-    <dbpedia-owl:abstract xml:lang="de">Der New Statesman ist eine englische politische Wochenzeitung, die in London publiziert wird. Das 1913 gegründete Blatt verfocht in seiner Geschichte viele verschiedene Positionen, die sich aber immer links der Mitte befanden. Derzeit (März 2006) gehört das Blatt dem englischen Labour-Abgeordneten Geoffrey Robinson und hat eine Auflage von etwa 24.000 Exemplaren.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="fr">Le New Statesman est un magazine britannique d'une sensibilité de gauche, édité chaque semaine à Londres. On le surnomme parfois The Staggers (le Tournis).</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:News_websites"/>
+    <dbpedia-owl:abstract xml:lang="en">New Statesman is a British left-wing political and cultural magazine published weekly in London. Founded in 1913, and connected with leading members of the socialist Fabian Society, the magazine reached a circulation peak in the late 1960s. The longest serving editor was Kingsley Martin (1930–60). The current editor is Jason Cowley, who assumed the post at the end of September 2008. In the 29 May 2006 issue, then-editor John Kampfner stated that the New Statesman remained "true to its heritage of radical politics". The magazine is committed to "development, human rights and the environment, global issues the mainstream press often ignores". Historically, the magazine was sometimes affectionately referred to as "The Staggers" because of crises in funding, ownership and circulation. The nickname is now used as the title of its rolling politics blog. Its current writers and columnists include Mehdi Hasan, Will Self, David Blanchflower, John Gray and Richard Mabey. The New Statesman had a certified average circulation of 23,909 in 2011, 17,471 of which were paid copies. Traffic to the magazine's relaunched website recently reached a record high. In the first quarter of 2012, monthly unique visitors to newstatesman. com exceeded 800,000, an increase of 231 per cent since the fourth quarter of 2009, when the site was previously relaunched.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="it">New Statesman è una rivista politica britannica di sinistra, fondata nel 1913 da esponenti della Società Fabiana, pubblicata a Londra con periodicità settimanale.</dbpedia-owl:abstract>
+    <dbpedia-owl:editor rdf:resource="http://dbpedia.org/resource/Jason_Cowley"/>
+    <rdfs:comment xml:lang="sv">New Statesman är en brittisk politisk tidskrift. Politiskt anses den stå till vänster. Tidskriften bildades 1913 av Sydney och Beatrice Webb, som bägge var medlemmar av fabianerna (en gruppering nära knuten till Labour) varifrån tidskriften fick stöd. Efter att tidskriften 1930 slagits samman med den liberala tidning Nation fick den namnet New Statesman and Nation, som behölls 1964.</rdfs:comment>
+    <foaf:homepage rdf:resource="http://www.newstatesman.com"/>
+    <dbpprop:frequency xml:lang="en">Weekly</dbpprop:frequency>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0238rw"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1913_establishments_in_the_United_Kingdom"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/New_Statesman"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:News_magazines"/>
+    <dbpprop:totalCirculation rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23909</dbpprop:totalCirculation>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/New_Statesman"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishPoliticalMagazines"/>
+    <dbpedia-owl:abstract xml:lang="sv">New Statesman är en brittisk politisk tidskrift. Politiskt anses den stå till vänster. Tidskriften bildades 1913 av Sydney och Beatrice Webb, som bägge var medlemmar av fabianerna (en gruppering nära knuten till Labour) varifrån tidskriften fick stöd. Efter att tidskriften 1930 slagits samman med den liberala tidning Nation fick den namnet New Statesman and Nation, som behölls 1964. Under 1930-talet gick tidningen kraftigt åt vänster, samtidigt som den växte från en upplaga på 13 000 vid sammanslagningen till 70 000 exemplar vid krigsslutet. Efter kriget argumenterade den för att Storbritannien skulle fungera som en tredje kraft och inte vara allierat med USA. Den hade även stor betydelse för kampen för avskaffandet av kärnvapen. Sin största upplaga hade tidskriften i slutet av 1960-talet med 90 000 exemplar. Från 1970-talet och fram till mitten av 90-talet sjönk upplagan kraftigt, 1996 var den nere i 23 000 exemplar, för att sedan stabilisera sig på den nivån. Flera av chefredaktörerna under perioden satte sin prägel på tidskriften. Under Bruce Page kom den till exempel att inrikta sig på undersökande journalistik. Tidskriften New Society köptes upp 1988, vilket medförde ett namnbyte till New Statsesman and Society, 1996 bytte man tillbaka till det gamla namnet. Efter att tidskriften 1993 blivit stämd av premiärminister John Major hamnade den i ekonomiska problem och räddades genom att affärsmannen Philip Jeffrey köpte tidskriften. Efter dispyter i styrelsen angående Jeffreys planer köptes tidskriften av Geoffrey Robinson, affärsman och parlamentsledamot för Labour. Politisk har tidskriften under de senaste årtionden haft en skiftande placering på den politiska skalan. Efter att Ian Hargreaves blev redaktör gjorde han sig av med de flesta av vänsteranhängarna och gjorde tidningen till en stark anhängare av Tony Blair. Under Peter Wilby har tidskriften åter gått åt vänster.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <dbpedia-owl:abstract xml:lang="fr">Le New Statesman est un magazine britannique d'une sensibilité de gauche, édité chaque semaine à Londres. On le surnomme parfois The Staggers (le Tournis).</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="en">New Statesman is a British left-wing political and cultural magazine published weekly in London. Founded in 1913, and connected with leading members of the socialist Fabian Society, the magazine reached a circulation peak in the late 1960s. The longest serving editor was Kingsley Martin (1930–60). The current editor is Jason Cowley, who assumed the post at the end of September 2008.</rdfs:comment>
+    <dbpprop:founder xml:lang="en">Sidney and Beatrice Webb</dbpprop:founder>
+    <dbpedia-owl:abstract xml:lang="pt">New Statesman é uma revista britânica de conteúdo político publicada semanalmente em Londres. De cunho centro-esquerdista, a revista se diz comprometida com o "desenvolvimento, os direitos humanos e o meio-ambiente, acontecimentos globais que a grande imprensa ocasionalmente ignora". 20px Desde que foi criado em 1913, este semanário que conquistou reputação pela qualidade dos seus analistas e pela pertinência dos seus comentários, é, por excelência, o fórum da esquerda britânica. No que toca a questões sociais, internacionais e de política social, o New Statesman, manifesta-se amiúde, e abre as suas colunas de opinião aos mais variados quadrantes. 20px — Presseurop</dbpedia-owl:abstract>
+    <foaf:name xml:lang="en">New Statesman</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Investigative_news_sources"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/New_Statesman"/>
+    <dbpprop:title xml:lang="en">New Statesman</dbpprop:title>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.newstatesman.com/society/2007/09/che-revolutionary-american"/>
+    <dbpprop:publisher rdf:resource="http://dbpedia.org/resource/Progressive_Digital_Media"/>
+    <dbpprop:category xml:lang="en">Politics</dbpprop:category>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/New_Statesman"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/WrittenWork"/>
+    <rdfs:comment xml:lang="pl">New Statesman - lewicowy, polityczno-literacki tygodnik brytyjski założony w 1913 roku w Londynie, związany z Towarzystwem Fabiańskim. Nakład ok. 40 tys. egz. Od 1988 przez 8 lat wychodził pod tytułem "New Statesman and Society".</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_media"/>
+    <dbpedia-owl:publisher rdf:resource="http://dbpedia.org/resource/Progressive_Digital_Media"/>
     <dbpedia-owl:abstract xml:lang="pl">New Statesman - lewicowy, polityczno-literacki tygodnik brytyjski założony w 1913 roku w Londynie, związany z Towarzystwem Fabiańskim. Nakład ok. 40 tys. egz. Od 1988 przez 8 lat wychodził pod tytułem "New Statesman and Society".</dbpedia-owl:abstract>
+    <dbpedia-owl:issn xml:lang="en">1364-7431</dbpedia-owl:issn>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/NewspaperSeries"/>
+    <dbpedia-owl:abstract xml:lang="fi">New Statesman on brittiläinen vasemmistolainen poliittinen viikkolehti, joka ilmestyy Lontoossa. Viimeinen päätoimittaja on ollut John Kampfner, joka irtisanoutui yllättäen 13. helmikuuta 2008. Lehden ohjelma on "kehitys, ihmisoikeudet ja ympäristö, maailmanlaajuiset kysymykset, jotka valtalehdistö usein sivuuttaa". Lehden numerossa 29. toukokuuta 2006 sen päätoimittaja John Kampfner lausui, että New Statesman pysyy "uskollisena radikaalin politiikan perinnölleen". Lehteä kutsutaan joskus kaikessa ystävyydessä nimellä 'The Staggers' ('Hoipertelijat').</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PuBlicationsEstablishedIn1913"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/New_Statesman"/>
+    <rdfs:label xml:lang="en">New Statesman</rdfs:label>
     <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/New_Statesman"/>
     <dbpprop:issn rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1364</dbpprop:issn>
-    <dbpedia-owl:abstract xml:lang="it">New Statesman è una rivista politica britannica di sinistra, fondata nel 1913 da esponenti della Società Fabiana, pubblicata a Londra con periodicità settimanale.</dbpedia-owl:abstract>
-    <dbpprop:based xml:lang="en">London</dbpprop:based>
-    <rdfs:comment xml:lang="pt">New Statesman é uma revista britânica de conteúdo político publicada semanalmente em Londres. De cunho centro-esquerdista, a revista se diz comprometida com o "desenvolvimento, os direitos humanos e o meio-ambiente, acontecimentos globais que a grande imprensa ocasionalmente ignora". 20px Desde que foi criado em 1913, este semanário que conquistou reputação pela qualidade dos seus analistas e pela pertinência dos seus comentários, é, por excelência, o fórum da esquerda britânica.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialistPuBlications"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/New_Statesman"/>
-    <dbpedia-owl:abstract xml:lang="fr">Le New Statesman est un magazine britannique d'une sensibilité de gauche, édité chaque semaine à Londres. On le surnomme parfois The Staggers (le Tournis).</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:News_websites"/>
-    <dbpprop:title xml:lang="en">New Statesman</dbpprop:title>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work"/>
     <dbpprop:country xml:lang="en">United Kingdom</dbpprop:country>
-    <rdfs:comment xml:lang="en">New Statesman is a British left-wing political and cultural magazine published weekly in London. Founded in 1913, and connected with leading members of the socialist Fabian Society, the magazine reached a circulation peak in the late 1960s. The longest serving editor was Kingsley Martin (1930–60). The current editor is Jason Cowley, who assumed the post at the end of September 2008.</rdfs:comment>
-    <foaf:homepage rdf:resource="http://www.newstatesman.com"/>
-    <dbpedia-owl:abstract xml:lang="sv">New Statesman är en brittisk politisk tidskrift. Politiskt anses den stå till vänster. Tidskriften bildades 1913 av Sydney och Beatrice Webb, som bägge var medlemmar av fabianerna (en gruppering nära knuten till Labour) varifrån tidskriften fick stöd. Efter att tidskriften 1930 slagits samman med den liberala tidning Nation fick den namnet New Statesman and Nation, som behölls 1964. Under 1930-talet gick tidningen kraftigt åt vänster, samtidigt som den växte från en upplaga på 13 000 vid sammanslagningen till 70 000 exemplar vid krigsslutet. Efter kriget argumenterade den för att Storbritannien skulle fungera som en tredje kraft och inte vara allierat med USA. Den hade även stor betydelse för kampen för avskaffandet av kärnvapen. Sin största upplaga hade tidskriften i slutet av 1960-talet med 90 000 exemplar. Från 1970-talet och fram till mitten av 90-talet sjönk upplagan kraftigt, 1996 var den nere i 23 000 exemplar, för att sedan stabilisera sig på den nivån. Flera av chefredaktörerna under perioden satte sin prägel på tidskriften. Under Bruce Page kom den till exempel att inrikta sig på undersökande journalistik. Tidskriften New Society köptes upp 1988, vilket medförde ett namnbyte till New Statsesman and Society, 1996 bytte man tillbaka till det gamla namnet. Efter att tidskriften 1993 blivit stämd av premiärminister John Major hamnade den i ekonomiska problem och räddades genom att affärsmannen Philip Jeffrey köpte tidskriften. Efter dispyter i styrelsen angående Jeffreys planer köptes tidskriften av Geoffrey Robinson, affärsman och parlamentsledamot för Labour. Politisk har tidskriften under de senaste årtionden haft en skiftande placering på den politiska skalan. Efter att Ian Hargreaves blev redaktör gjorde han sig av med de flesta av vänsteranhängarna och gjorde tidningen till en stark anhängare av Tony Blair. Under Peter Wilby har tidskriften åter gått åt vänster.</dbpedia-owl:abstract>
-    <dbpprop:founder xml:lang="en">Sidney and Beatrice Webb</dbpprop:founder>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/New_Statesman"/>
-    <dbpedia-owl:abstract xml:lang="fi">New Statesman on brittiläinen vasemmistolainen poliittinen viikkolehti, joka ilmestyy Lontoossa. Viimeinen päätoimittaja on ollut John Kampfner, joka irtisanoutui yllättäen 13. helmikuuta 2008. Lehden ohjelma on "kehitys, ihmisoikeudet ja ympäristö, maailmanlaajuiset kysymykset, jotka valtalehdistö usein sivuuttaa". Lehden numerossa 29. toukokuuta 2006 sen päätoimittaja John Kampfner lausui, että New Statesman pysyy "uskollisena radikaalin politiikan perinnölleen". Lehteä kutsutaan joskus kaikessa ystävyydessä nimellä 'The Staggers' ('Hoipertelijat').</dbpedia-owl:abstract>
     <dbpprop:paidCirculation rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17471</dbpprop:paidCirculation>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/New_Statesman"/>
-    <dbpprop:totalCirculation rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23909</dbpprop:totalCirculation>
-    <rdfs:comment xml:lang="it">New Statesman è una rivista politica britannica di sinistra, fondata nel 1913 da esponenti della Società Fabiana, pubblicata a Londra con periodicità settimanale.</rdfs:comment>
-    <dbpprop:publisher rdf:resource="http://dbpedia.org/resource/Progressive_Digital_Media"/>
-    <dbpprop:circulationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2011</dbpprop:circulationYear>
-    <dbpedia-owl:publisher rdf:resource="http://dbpedia.org/resource/Progressive_Digital_Media"/>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/New_Statesman"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/WrittenWork"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Weekly_magazines"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_magazine"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_media"/>
-    <rdfs:comment xml:lang="fi">New Statesman on brittiläinen vasemmistolainen poliittinen viikkolehti, joka ilmestyy Lontoossa. Viimeinen päätoimittaja on ollut John Kampfner, joka irtisanoutui yllättäen 13. helmikuuta 2008. Lehden ohjelma on "kehitys, ihmisoikeudet ja ympäristö, maailmanlaajuiset kysymykset, jotka valtalehdistö usein sivuuttaa". Lehden numerossa 29. toukokuuta 2006 sen päätoimittaja John Kampfner lausui, että New Statesman pysyy "uskollisena radikaalin politiikan perinnölleen".</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/PeriodicalLiterature"/>
-    <rdfs:comment xml:lang="pl">New Statesman - lewicowy, polityczno-literacki tygodnik brytyjski założony w 1913 roku w Londynie, związany z Towarzystwem Fabiańskim. Nakład ok. 40 tys. egz. Od 1988 przez 8 lat wychodził pod tytułem "New Statesman and Society".</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/InvestigativeNewsSources"/>
-    <dbpprop:frequency xml:lang="en">Weekly</dbpprop:frequency>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <dbpprop:unpaidCirculation rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6438</dbpprop:unpaidCirculation>
-    <rdfs:label xml:lang="de">New Statesman</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:News_magazines"/>
-    <dbpedia-owl:editor rdf:resource="http://dbpedia.org/resource/Jason_Cowley"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0238rw"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Investigative_news_sources"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_political_magazines"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.newstatesman.com/society/2007/09/che-revolutionary-american"/>
+    <rdfs:comment xml:lang="pt">New Statesman é uma revista britânica de conteúdo político publicada semanalmente em Londres. De cunho centro-esquerdista, a revista se diz comprometida com o "desenvolvimento, os direitos humanos e o meio-ambiente, acontecimentos globais que a grande imprensa ocasionalmente ignora". 20px Desde que foi criado em 1913, este semanário que conquistou reputação pela qualidade dos seus analistas e pela pertinência dos seus comentários, é, por excelência, o fórum da esquerda britânica.</rdfs:comment>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/WeeklyMagazines"/>
-    <foaf:name xml:lang="en">New Statesman</foaf:name>
-    <rdfs:comment xml:lang="sv">New Statesman är en brittisk politisk tidskrift. Politiskt anses den stå till vänster. Tidskriften bildades 1913 av Sydney och Beatrice Webb, som bägge var medlemmar av fabianerna (en gruppering nära knuten till Labour) varifrån tidskriften fick stöd. Efter att tidskriften 1930 slagits samman med den liberala tidning Nation fick den namnet New Statesman and Nation, som behölls 1964.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="en">New Statesman is a British left-wing political and cultural magazine published weekly in London. Founded in 1913, and connected with leading members of the socialist Fabian Society, the magazine reached a circulation peak in the late 1960s. The longest serving editor was Kingsley Martin (1930–60). The current editor is Jason Cowley, who assumed the post at the end of September 2008. In the 29 May 2006 issue, then-editor John Kampfner stated that the New Statesman remained "true to its heritage of radical politics". The magazine is committed to "development, human rights and the environment, global issues the mainstream press often ignores". Historically, the magazine was sometimes affectionately referred to as "The Staggers" because of crises in funding, ownership and circulation. The nickname is now used as the title of its rolling politics blog. Its current writers and columnists include Mehdi Hasan, Will Self, David Blanchflower, John Gray and Richard Mabey. The New Statesman had a certified average circulation of 23,909 in 2011, 17,471 of which were paid copies. Traffic to the magazine's relaunched website recently reached a record high. In the first quarter of 2012, monthly unique visitors to newstatesman. com exceeded 800,000, an increase of 231 per cent since the fourth quarter of 2009, when the site was previously relaunched.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/NewspaperSeries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/InvestigativeNewsSources"/>
+    <dbpprop:unpaidCirculation rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6438</dbpprop:unpaidCirculation>
+    <dbpedia-owl:abstract xml:lang="de">Der New Statesman ist eine englische politische Wochenzeitung, die in London publiziert wird. Das 1913 gegründete Blatt verfocht in seiner Geschichte viele verschiedene Positionen, die sich aber immer links der Mitte befanden. Derzeit (März 2006) gehört das Blatt dem englischen Labour-Abgeordneten Geoffrey Robinson und hat eine Auflage von etwa 24.000 Exemplaren.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Publications_established_in_1913"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Magazine"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Weekly_magazines"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialistPuBlications"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.newstatesman.com/"/>
-    <dbpprop:language xml:lang="en">English</dbpprop:language>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishMedia"/>
-    <dbpprop:editor rdf:resource="http://dbpedia.org/resource/Jason_Cowley"/>
-    <rdfs:comment xml:lang="fr">Le New Statesman est un magazine britannique d'une sensibilité de gauche, édité chaque semaine à Londres. On le surnomme parfois The Staggers (le Tournis).</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Johnson_(writer)">
-    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/New_Statesman"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gideon_Donald">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/New_Statesman"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Statesman">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/New_Statesman"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/New_Statesman">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/New_Statesman"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Statesman_&amp;_Society">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/New_Statesman"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Thomas">
-    <dbpprop:employer rdf:resource="http://dbpedia.org/resource/New_Statesman"/>
-    <dbpedia-owl:employer rdf:resource="http://dbpedia.org/resource/New_Statesman"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Statesman_and_Nation">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/New_Statesman"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Statesman_and_Society">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/New_Statesman"/>
+    <dbpprop:circulationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2011</dbpprop:circulationYear>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PeriodicalLiterature"/>
+    <rdfs:comment xml:lang="it">New Statesman è una rivista politica britannica di sinistra, fondata nel 1913 da esponenti della Società Fabiana, pubblicata a Londra con periodicità settimanale.</rdfs:comment>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/New_Statesman?oldid=495207263"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/New_Statesman"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-newspaper-noun-2"/>
   </rdf:Description>
 </rdf:RDF>

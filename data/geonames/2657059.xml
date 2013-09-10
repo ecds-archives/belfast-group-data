@@ -10,30 +10,30 @@
 >
   <rdf:Description rdf:about="http://sws.geonames.org/2657059/about.rdf">
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2657059/"/>
     <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2657059/"/>
     <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
-    <cc:attributionURL rdf:resource="http://sws.geonames.org/2657059/"/>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-17</dcterms:modified>
     <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
     <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-17</dcterms:modified>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2657059/">
-    <gn:alternateName>County Armàgh</gn:alternateName>
-    <gn:name>County Armàgh</gn:name>
-    <gn:parentADM1 rdf:resource="http://sws.geonames.org/2641364/"/>
     <wgs84_pos:long>-6.5</wgs84_pos:long>
-    <gn:countryCode>GB</gn:countryCode>
-    <gn:alternateName>Armàgh</gn:alternateName>
-    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
-    <gn:alternateName>County of Armagh</gn:alternateName>
-    <gn:parentCountry rdf:resource="http://sws.geonames.org/2635167/"/>
-    <gn:parentFeature rdf:resource="http://sws.geonames.org/2641364/"/>
-    <wgs84_pos:lat>54.25</wgs84_pos:lat>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2657059/about.rdf"/>
     <gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+    <gn:alternateName>County of Armagh</gn:alternateName>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:alternateName>Armàgh</gn:alternateName>
+    <gn:countryCode>GB</gn:countryCode>
+    <gn:name>County Armàgh</gn:name>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2641364/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2635167/"/>
+    <wgs84_pos:lat>54.25</wgs84_pos:lat>
     <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2657059/nearby.rdf"/>
     <gn:alternateName>Ard Mhacha</gn:alternateName>
-    <gn:locationMap rdf:resource="http://www.geonames.org/2657059/county-armagh.html"/>
+    <gn:alternateName>County Armàgh</gn:alternateName>
     <gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.RGN"/>
-    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2657059/about.rdf"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/2641364/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2657059/county-armagh.html"/>
   </rdf:Description>
 </rdf:RDF>

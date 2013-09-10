@@ -9,79 +9,57 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cal_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Bernard_MacLaverty"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Bernard_MacLaverty"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Bernard_MacLaverty">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bernard_MacLaverty"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_MacLaverty">
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1942</dbpprop:dateOfBirth>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artscouncil.ie/aosdana/biogs/literature/bernardmclaverty.html"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belfast"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_St_Malachy's_College"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleAssociatedWithGlasgow"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Novelists_from_Northern_Ireland"/>
     <foaf:surname xml:lang="en">Maclaverty</foaf:surname>
-    <rdfs:label xml:lang="en">Bernard MacLaverty</rdfs:label>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.abdn.ac.uk/mediareleases/release.php?id=751"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_novelists"/>
-    <rdfs:comment xml:lang="it"></rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NovelistsFromNorthernIreland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Queen's_University_Belfast"/>
-    <rdfs:label xml:lang="de">Bernard MacLaverty</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_the_University_of_Aberdeen"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Bernard_MacLaverty"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_short_story_writers"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ShortStoryWritersFromNorthernIreland"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishNovelists"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Bernard_MacLaverty"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03kw02"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Short_story_writers_from_Northern_Ireland"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1942_births"/>
-    <dbpedia-owl:individualisedPnd xml:lang="de">121355896</dbpedia-owl:individualisedPnd>
-    <dbpprop:name xml:lang="en">Maclaverty, Bernard</dbpprop:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfQuEEn'sUniversityBelfast"/>
-    <rdfs:comment xml:lang="de">Bernard MacLaverty ist ein nordirischer Autor, der unter anderem die Romane Lamb (1980), Cal (1983) und Grace Notes (1997) schrieb.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishShortStoryWriters"/>
-    <foaf:name xml:lang="en">Bernard Maclaverty</foaf:name>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bernardmaclaverty.com/"/>
-    <dbpedia-owl:abstract xml:lang="nl">Bernard MacLaverty is een Noord-Iers schrijver, die sinds 1975 in Schotland woont. Zijn werk omvat romans, korte verhalen, hoorspelen en scripts voor televisie en film. MacLaverty studeerde Engels aan Queen’s University in Belfast. Na zijn vertrek naar Schotland werkte hij tot 1981 als leraar op verschillende scholen, waarna hij zich geheel ging wijden aan het schrijven. Zijn eerste boek, de verhalenbundel Secrets and other stories (1977), werd in Schotland bekroond met een literaire prijs, evenals de roman Lamb (1980). In 1983 verscheen de roman Cal, een indringend verhaal over het politieke geweld in Noord-Ierland. Deze beide romans zijn ook verfilmd, respectievelijk in 1986 en 1984.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="en">Bernard MacLaverty is a writer of fiction. He was born in Belfast, Northern Ireland, on 14 September 1942, and lived there until 1975 when he moved to Scotland with his wife, Madeline, and four children (Ciara, Claire, John, and Jude). He has been a Medical Laboratory Technician; a mature student at the Queen's University, Belfast; a teacher of English; and, for two years in the mid 1980s, Writer-in-Residence at the University of Aberdeen. MacLaverty was educated at St Malachy's College and Queen's University in Belfast, and has written the novels Cal; Lamb, a novel about faith, relationships and ultimately, love; Grace Notes, which was shortlisted for the 1997 Booker Prize; and The Anatomy School. He has also written five acclaimed collections of short stories, the most recent of which is Matters of Life &amp; Death. Cal was adapted for the screen by the author in 1984 starring Helen Mirren and John Lynch (Mark Knopfler composed the film soundtrack). He also adapted Lamb for the screen starring Liam Neeson, with a soundtrack by Van Morrison. He has written versions of his fiction for other media - radio plays, television plays, and screenplays. In 2003 he wrote and directed a short film "Bye-Child" (BAFTA nominated for ‘Best Short Film’) and more recently wrote the libretto for one of Scottish Opera’s Five:15 series - ‘The King’s Conjecture’ with music by Gareth Williams. He has lived in Scotland since 1975, and currently lives in Glasgow.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/northernireland/learning/getwritingni/wh_maclaverty.shtml"/>
-    <rdfs:comment xml:lang="nl">Bernard MacLaverty is een Noord-Iers schrijver, die sinds 1975 in Schotland woont. Zijn werk omvat romans, korte verhalen, hoorspelen en scripts voor televisie en film. MacLaverty studeerde Engels aan Queen’s University in Belfast. Na zijn vertrek naar Schotland werkte hij tot 1981 als leraar op verschillende scholen, waarna hij zich geheel ging wijden aan het schrijven.</rdfs:comment>
-    <foaf:homepage rdf:resource="http://www.bernardmaclaverty.com/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
     <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Bernard_MacLaverty?oldid=489506142"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://literature.britishcouncil.org/bernard-maclaverty"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishNovelists"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Novelists_from_Northern_Ireland"/>
+    <dbpedia-owl:abstract xml:lang="nl">Bernard MacLaverty is een Noord-Iers schrijver, die sinds 1975 in Schotland woont. Zijn werk omvat romans, korte verhalen, hoorspelen en scripts voor televisie en film. MacLaverty studeerde Engels aan Queen’s University in Belfast. Na zijn vertrek naar Schotland werkte hij tot 1981 als leraar op verschillende scholen, waarna hij zich geheel ging wijden aan het schrijven. Zijn eerste boek, de verhalenbundel Secrets and other stories (1977), werd in Schotland bekroond met een literaire prijs, evenals de roman Lamb (1980). In 1983 verscheen de roman Cal, een indringend verhaal over het politieke geweld in Noord-Ierland. Deze beide romans zijn ook verfilmd, respectievelijk in 1986 en 1984.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.abdn.ac.uk/mediareleases/release.php?id=751"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishShortStoryWriters"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Bernard_MacLaverty"/>
     <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Bernard_MacLaverty"/>
-    <foaf:givenName xml:lang="en">Bernard</foaf:givenName>
-    <dbpedia-owl:abstract xml:lang="de">Bernard MacLaverty ist ein nordirischer Autor, der unter anderem die Romane Lamb (1980), Cal (1983) und Grace Notes (1997) schrieb.</dbpedia-owl:abstract>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Bernard_MacLaverty"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_the_University_of_Aberdeen"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfQuEEn'sUniversityBelfast"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_Glasgow"/>
-    <rdfs:comment xml:lang="en">Bernard MacLaverty is a writer of fiction. He was born in Belfast, Northern Ireland, on 14 September 1942, and lived there until 1975 when he moved to Scotland with his wife, Madeline, and four children (Ciara, Claire, John, and Jude). He has been a Medical Laboratory Technician; a mature student at the Queen's University, Belfast; a teacher of English; and, for two years in the mid 1980s, Writer-in-Residence at the University of Aberdeen.</rdfs:comment>
+    <dbpprop:name xml:lang="en">Maclaverty, Bernard</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:abstract xml:lang="de">Bernard MacLaverty ist ein nordirischer Autor, der unter anderem die Romane Lamb (1980), Cal (1983) und Grace Notes (1997) schrieb.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">Bernard MacLaverty is a writer of fiction. He was born in Belfast, Northern Ireland, on 14 September 1942, and lived there until 1975 when he moved to Scotland with his wife, Madeline, and four children (Ciara, Claire, John, and Jude). He has been a Medical Laboratory Technician; a mature student at the Queen's University, Belfast; a teacher of English; and, for two years in the mid 1980s, Writer-in-Residence at the University of Aberdeen. MacLaverty was educated at St Malachy's College and Queen's University in Belfast, and has written the novels Cal; Lamb, a novel about faith, relationships and ultimately, love; Grace Notes, which was shortlisted for the 1997 Booker Prize; and The Anatomy School. He has also written five acclaimed collections of short stories, the most recent of which is Matters of Life &amp; Death. Cal was adapted for the screen by the author in 1984 starring Helen Mirren and John Lynch (Mark Knopfler composed the film soundtrack). He also adapted Lamb for the screen starring Liam Neeson, with a soundtrack by Van Morrison. He has written versions of his fiction for other media - radio plays, television plays, and screenplays. In 2003 he wrote and directed a short film "Bye-Child" (BAFTA nominated for ‘Best Short Film’) and more recently wrote the libretto for one of Scottish Opera’s Five:15 series - ‘The King’s Conjecture’ with music by Gareth Williams. He has lived in Scotland since 1975, and currently lives in Glasgow.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://literature.britishcouncil.org/bernard-maclaverty"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/northernireland/learning/getwritingni/wh_maclaverty.shtml"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_short_story_writers"/>
+    <rdfs:label xml:lang="de">Bernard MacLaverty</rdfs:label>
     <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Elephant_(1989_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Bernard_MacLaverty"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Bernard_MacLaverty"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Dawning">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Bernard_MacLaverty"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Bernard_MacLaverty"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lamb_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Bernard_MacLaverty"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Bernard_MacLaverty"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Bernard_MacLaverty">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Bernard_MacLaverty"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_St_Malachy's_College"/>
+    <foaf:name xml:lang="en">Bernard Maclaverty</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bernardmaclaverty.com/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Short_story_writers_from_Northern_Ireland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleAssociatedWithGlasgow"/>
+    <rdfs:comment xml:lang="en">Bernard MacLaverty is a writer of fiction. He was born in Belfast, Northern Ireland, on 14 September 1942, and lived there until 1975 when he moved to Scotland with his wife, Madeline, and four children (Ciara, Claire, John, and Jude). He has been a Medical Laboratory Technician; a mature student at the Queen's University, Belfast; a teacher of English; and, for two years in the mid 1980s, Writer-in-Residence at the University of Aberdeen.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NovelistsFromNorthernIreland"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">121355896</dbpedia-owl:individualisedPnd>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03kw02"/>
+    <rdfs:comment xml:lang="nl">Bernard MacLaverty is een Noord-Iers schrijver, die sinds 1975 in Schotland woont. Zijn werk omvat romans, korte verhalen, hoorspelen en scripts voor televisie en film. MacLaverty studeerde Engels aan Queen’s University in Belfast. Na zijn vertrek naar Schotland werkte hij tot 1981 als leraar op verschillende scholen, waarna hij zich geheel ging wijden aan het schrijven.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_novelists"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artscouncil.ie/aosdana/biogs/literature/bernardmclaverty.html"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1942</dbpprop:dateOfBirth>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Bernard_MacLaverty"/>
+    <rdfs:comment xml:lang="de">Bernard MacLaverty ist ein nordirischer Autor, der unter anderem die Romane Lamb (1980), Cal (1983) und Grace Notes (1997) schrieb.</rdfs:comment>
+    <foaf:homepage rdf:resource="http://www.bernardmaclaverty.com/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1942_births"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Bernard_MacLaverty"/>
+    <rdfs:comment xml:lang="it"></rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ShortStoryWritersFromNorthernIreland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belfast"/>
+    <foaf:givenName xml:lang="en">Bernard</foaf:givenName>
+    <rdfs:label xml:lang="en">Bernard MacLaverty</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

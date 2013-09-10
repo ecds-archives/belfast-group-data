@@ -11,34 +11,28 @@
 >
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Peskett">
     <rdfs:label xml:lang="en">William Peskett</rdfs:label>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/William_Peskett"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0c4hy2"/>
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/William_Peskett"/>
+    <foaf:givenName xml:lang="en">William</foaf:givenName>
+    <foaf:surname xml:lang="en">Peskett</foaf:surname>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/William_Peskett"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PoetsFromNorthernIreland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1952</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poets_from_Northern_Ireland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0c4hy2"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belfast"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poets_from_Northern_Ireland"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1952_births"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PoetsFromNorthernIreland"/>
-    <dbpedia-owl:abstract xml:lang="en">William Peskett (born 1952) is a poet from Northern Ireland. Peskett was educated in Belfast and at Cambridge University, where he read natural sciences. He has published two volumes of poems, The Nightowl’s Dissection (Secker &amp; Warburg 1975) and Survivors (Secker &amp; Warburg 1980), for the first of which he won an Eric Gregory Award for poetry. In the 1970s, Peskett edited the poetry magazine, Caret, with Trevor McMahon and Robert Johnstone. He wrote two novels, Pondlife and Losing Yourself. He has worked in teaching, journalism, marketing, design management and corporate relations and lives in London.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTheUniversityOfCambridge"/>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/William_Peskett?oldid=491633055"/>
-    <dbpprop:name xml:lang="en">Peskett, William</dbpprop:name>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Cambridge"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
-    <foaf:name xml:lang="en">William Peskett</foaf:name>
-    <foaf:givenName xml:lang="en">William</foaf:givenName>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:abstract xml:lang="en">William Peskett (born 1952) is a poet from Northern Ireland. Peskett was educated in Belfast and at Cambridge University, where he read natural sciences. He has published two volumes of poems, The Nightowl’s Dissection (Secker &amp; Warburg 1975) and Survivors (Secker &amp; Warburg 1980), for the first of which he won an Eric Gregory Award for poetry. In the 1970s, Peskett edited the poetry magazine, Caret, with Trevor McMahon and Robert Johnstone. He wrote two novels, Pondlife and Losing Yourself. He has worked in teaching, journalism, marketing, design management and corporate relations and lives in London.</dbpedia-owl:abstract>
+    <dbpprop:name xml:lang="en">Peskett, William</dbpprop:name>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <foaf:surname xml:lang="en">Peskett</foaf:surname>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1952</dbpprop:dateOfBirth>
     <rdfs:comment xml:lang="en">William Peskett (born 1952) is a poet from Northern Ireland. Peskett was educated in Belfast and at Cambridge University, where he read natural sciences. He has published two volumes of poems, The Nightowl’s Dissection (Secker &amp; Warburg 1975) and Survivors (Secker &amp; Warburg 1980), for the first of which he won an Eric Gregory Award for poetry. In the 1970s, Peskett edited the poetry magazine, Caret, with Trevor McMahon and Robert Johnstone.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/William_Peskett">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/William_Peskett"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/William_Peskett">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/William_Peskett"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/William_Peskett?oldid=491633055"/>
+    <foaf:name xml:lang="en">William Peskett</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1952_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTheUniversityOfCambridge"/>
   </rdf:Description>
 </rdf:RDF>

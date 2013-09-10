@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C124402151#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/60015614"/>
+    <skos:prefLabel>Thompson, Kate, 1956-</skos:prefLabel>
+    <skos:altLabel>Thompson, Katharine Anna 1956-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CKate_Thompson_(author)#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Thompson, Kate.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/60015614"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cnr+98008432#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/nr98008432"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Thompson, Kate, 1956-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/60015614"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C070891311#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/60015614"/>
+    <skos:prefLabel>Thompson, Kate, 1956-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/60015614/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/60015614"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/60015614">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdaGr2:dateOfDeath>1956-11-10</rdaGr2:dateOfDeath>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Thompson, Kate, 1956-</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/124402151"/>
+    <foaf:name>Thompson, Kate.</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Kate_Thompson_(author)"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb161708793#foaf:Person"/>
+    <rdaGr2:dateOfBirth>1956-11-10</rdaGr2:dateOfBirth>
+    <foaf:name>トンプソン, ケイト</foaf:name>
+    <foaf:name>Thompson, Katharine Anna 1956-</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2008057548#skos:Concept">
+    <skos:prefLabel>Thompson, Kate.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/60015614"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/60015614/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/60015614"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035274172#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:prefLabel>Thompson, Kate, 1956-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/60015614"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C16170879#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/60015614"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb161708793"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb161708793"/>
+    <skos:prefLabel>Thompson, Kate, 1956-</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C01067975#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:prefLabel>Thompson, Kate.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/60015614"/>
+    <skos:altLabel>トンプソン, ケイト</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0000992#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/60015614"/>
+    <skos:prefLabel>Thompson, Kate, 1956-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/60015614/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/60015614"/>
+  </rdf:Description>
+</rdf:RDF>

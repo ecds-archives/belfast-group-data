@@ -10,1086 +10,447 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Spencer-Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clement_Attlee">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dundee_(UK_Parliament_constituency)">
-    <dbpprop:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Oldham_(UK_Parliament_constituency)">
-    <dbpprop:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Spencer">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sydney_Buxton,_1st_Earl_Buxton">
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rise_of_Neville_Chamberlain">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Seebohm_Rowntree">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mediterranean,_Middle_East_and_African_theatres_of_World_War_II">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Churchill_(S46)">
-    <dbpprop:shipNamesake rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnnie_Dodge">
-    <dbpprop:relations rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:relation rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lloyd,_1st_Baron_Lloyd">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Churchil">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Churchill_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Winston_Churchill">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Stanhope,_7th_Earl_Stanhope">
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Bevin">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Standish_Monteith_Hamilton">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Duncan_Sandys">
-    <dbpprop:relations rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:relation rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Laming_Worthington-Evans,_1st_Baronet">
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Winston_Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Mathers,_1st_Baron_Mathers">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Morrison">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Morrison,_1st_Viscount_Dunrossil">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Soames,_Baroness_Soames">
-    <dbpedia-owl:parent rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:parents rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Thorneycroft,_Baron_Thorneycroft">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Archibald_Wavell,_1st_Earl_Wavell">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/WL_Spencer-Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Guest">
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Salter,_1st_Baron_Salter">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchill_College,_Cambridge">
-    <dbpprop:namedFor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Mabane,_1st_Baron_Mabane">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Bennett,_1st_Baron_Bennett_of_Edgbaston">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Contemporaries">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Stuart,_1st_Viscount_Stuart_of_Findhorn">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Balfour">
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Stanley">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A._V._Alexander,_1st_Earl_Alexander_of_Hillsborough">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Eastern_Front_(World_War_II)">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Randolph_Churchill">
-    <dbpprop:children rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:child rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Savrola">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Winston">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Jestyn_Llewellin,_1st_Baron_Llewellin">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwin_Samuel_Montagu">
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Manny_Shinwell,_Baron_Shinwell">
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Honourable_Sir_Winston_Spencer_Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Milner,_1st_Viscount_Milner">
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/State_funeral_of_Winston_Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Herwald_Ramsbotham,_1st_Viscount_Soulbury">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Maxwell_Fyfe,_1st_Earl_of_Kilmuir">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Brown_(MP)">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivone_Kirkpatrick">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Westminster_Abbey_(UK_Parliament_constituency)">
-    <dbpprop:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Hankey,_1st_Baron_Hankey">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchill_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Churchill">
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Order_of_the_Companions_of_Honour"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_Duchy_of_Lancaster"/>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24</dbpprop:dateOfDeath>
-    <dbpprop:monarch rdf:resource="http://dbpedia.org/resource/George_VI"/>
-    <dbpprop:monarch xml:lang="en">George VI</dbpprop:monarch>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Home_Secretary"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_Exchequer_of_the_United_Kingdom"/>
-    <foaf:name xml:lang="en">Sir Winston Churchill</foaf:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_II_political_leaders"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.chu.cam.ac.uk/archives/churchill_papers/biography/churchill_chronology.php"/>
-    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-10-28</dbpedia-owl:activeYearsStartDate>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1940</dbpprop:years>
-    <rdfs:comment xml:lang="fr">Sir Winston Leonard Spencer-Churchill,, né le 30 novembre 1874 et mort le 24 janvier 1965 à Londres, est un homme politique britannique. Surtout connu pour avoir dirigé le Royaume-Uni pendant la Seconde Guerre mondiale, cet homme d'État en est le Premier ministre de 1940 à 1945 et puis de 1951 à 1955. Il a également exercé les activités d'officier dans l'armée britannique, de journaliste, d'historien, d'écrivain lauréat du prix Nobel de littérature et d'artiste.</rdfs:comment>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/H._H._Asquith"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:South_African_Light_Horse_officers"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/browse/authors/c#a1601"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.iwm.org.uk/"/>
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/William_Houldsworth"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishPrisonersOfWar"/>
-    <rdfs:label xml:lang="ca">Winston Churchill</rdfs:label>
-    <dbpprop:primeminister xml:lang="en">Himself</dbpprop:primeminister>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PrimeMinister_HeadOfGovernment"/>
-    <dbpprop:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:rows>
-    <dbpedia-owl:abstract xml:lang="zh">温斯顿·伦纳德·斯宾塞·丘吉尔爵士，（Sir Winston Leonard Spencer Churchill，1874年11月30日－1965年1月24日），英國政治家、演說家、軍事家和作家，曾於1940年至1945年出任英国首相，任期內领導英国在第二次世界大战聯合美國、對抗德國，取得胜利，並自1951年至1955年再度出任英国首相。 邱吉爾被認為是20世紀最重要的政治领袖之一，對英國乃至於世界均影響深遠。此外，他在文学上也有很高的成就，曾於1953年获诺贝尔文学奖。在2002年，BBC舉行了一個名為「最偉大的100名英國人」的調查，結果邱吉爾獲選為有史以來最偉大的英國人。</dbpedia-owl:abstract>
-    <dbpedia-owl:militaryBranch rdf:resource="http://dbpedia.org/resource/British_Army"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RoyalScotsFusiliersOfficers"/>
-    <rdfs:comment xml:lang="es">Sir Winston Leonard Spencer-Churchill, KG, OM, CH, TD, FRS, PC fue un político y hombre de estado británico, conocido por su liderazgo del Reino Unido durante la Segunda Guerra Mundial. Es considerado uno de los grandes líderes de tiempos de guerra y fue Primer Ministro del Reino Unido en dos períodos (1940-45 y 1951-55). Notable hombre de estado y orador, Churchill fue también oficial del Ejército Británico, historiador, escritor y artista.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Leaders_of_the_Opposition_(United_Kingdom)"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Harrow_School"/>
-    <rdfs:comment xml:lang="no">Winston Leonard Spencer Churchill, Order of the Garter, Order of Merit, Order of the Companions of Honour, Territorial Decoration, Fellow of the Royal Society, Queen's Privy Council for Canada, var en engelsk politiker, offiser og forfatter, mest kjent som statsminister i Storbritannia under andre verdenskrig. Churchill var en fremragende taler, og hadde en karriere som offiser, forfatter og politiker. Churchill er regnet som en av de viktigste lederne i moderne tid.</rdfs:comment>
-    <dbpprop:deathPlace rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</dbpprop:deathPlace>
-    <dbpprop:title xml:lang="en">with Alexander Wilkie</dbpprop:title>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Leaders_of_the_House_of_Commons"/>
-    <rdfs:comment xml:lang="sv">Sir Winston Leonard Spencer-Churchill, född 30 november 1874 på Blenheim Palace, död 24 januari 1965 i London, var en brittisk politiker, författare och officer. Han var brittisk premiärminister 1940-1945 och 1951-1955; dessutom erhöll han Nobelpriset i litteratur 1953. Churchill blev även amerikansk hedersmedborgare 1963. Churchill inledde sin karriär som officer och krigskorrespondent.</rdfs:comment>
-    <dbpedia-owl:orderInOffice xml:lang="en">Minister of Defence</dbpedia-owl:orderInOffice>
-    <dbpprop:religion rdf:resource="http://dbpedia.org/resource/Anglicanism"/>
-    <dbpprop:predecessor xml:lang="en">Alfred Emmott</dbpprop:predecessor>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1965_deaths"/>
-    <dbpprop:title xml:lang="en">Member of Parliament for Manchester North West</dbpprop:title>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Liberal_Party_(UK)_MPs"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cardiovascular_disease_deaths_in_England"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/nra/searches/subjectView.asp?ID=P5659"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Stanley_Baldwin"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_personnel_of_the_Mahdist_War"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Spencer-Churchill_family"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_stroke"/>
-    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">94507588</dbpprop:viaf>
-    <dbpedia-owl:religion rdf:resource="http://dbpedia.org/resource/Anglicanism"/>
-    <dbpprop:placeOfBirth xml:lang="en">Blenheim Palace, Woodstock, Oxfordshire, England, United Kingdom</dbpprop:placeOfBirth>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SouthAfricanLightHorseOfficers"/>
-    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">14</dbpprop:termEnd>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ColdWarLeaders"/>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Under-Secretary_of_State_for_the_Colonies"/>
-    <dbpedia-owl:serviceStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1895-01-01T00:00:00+02:00</dbpedia-owl:serviceStartYear>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Lords_Warden_of_the_Cinque_Ports"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Secretaries_of_State_for_the_Home_Department"/>
-    <dbpedia-owl:monarch rdf:resource="http://dbpedia.org/resource/George_VI"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/documents/cab_195_3_transcript.pdf"/>
-    <dbpedia-owl:orderInOffice xml:lang="en">Leader of the Conservative Party</dbpedia-owl:orderInOffice>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_with_Collar_of_the_Order_of_St._Olav"/>
-    <dbpedia-owl:abstract xml:lang="uk">Ві́нстон Че́рчилль — державний діяч Великої Британії, письменник, найбільше відомий як прем'єр-міністр цієї країни у роки Другої світової війни. Нобелівська премія в галузі літератури 1953 року.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Prime_Ministers_of_the_United_Kingdom"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1918%E2%80%931922"/>
-    <dbpedia-owl:deputy rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
-    <dbpprop:name xml:lang="en">Sir Winston Churchill</dbpprop:name>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Royal_Military_Academy_Sandhurst"/>
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Reginald_McKenna"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1900</dbpprop:years>
+    <dbpprop:order xml:lang="en">Member of Parliament</dbpprop:order>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Netherlands_Lion"/>
     <dbpprop:title rdf:resource="http://dbpedia.org/resource/Father_of_the_House"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheRoyalSociety"/>
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Walter_Runciman,_1st_Viscount_Runciman_of_Doxford"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Critics_of_Islam"/>
-    <dbpedia-owl:abstract xml:lang="de">Sir Winston Leonard Spencer-Churchill gilt als bedeutendster britischer Staatsmann des 20. Jahrhunderts. Er war zweimal Premierminister und führte Großbritannien durch den Zweiten Weltkrieg. Zuvor hatte er bereits mehrere Regierungsämter bekleidet, unter anderem das des Ersten Lords der Admiralität, des Innen- und des Finanzministers. Darüber hinaus trat er als Autor politischer und historischer Werke hervor und erhielt 1953 den Nobelpreis für Literatur.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SecretariesOfStateForWar(UK)"/>
-    <dbpprop:title xml:lang="en">Member of Parliament for Woodford</dbpprop:title>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1924</dbpprop:years>
+    <dbpprop:birthPlace xml:lang="en">Blenheim Palace, Woodstock, Oxfordshire,</dbpprop:birthPlace>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Leaders_of_the_House_of_Commons"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_with_Collar_of_the_Order_of_St._Olav"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Star_of_Nepal"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/KnightsOfTheGarter"/>
+    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118520776</dbpprop:pnd>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painter110391653"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1950%E2%80%931951"/>
+    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-11-09</dbpedia-owl:activeYearsStartDate>
+    <dbpprop:order xml:lang="en">for Manchester North West</dbpprop:order>
+    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">29</dbpprop:termStart>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:NPG_name"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1910</dbpprop:years>
+    <dbpprop:alternativeNames xml:lang="en">Sir Winston Leonard Spencer Churchill, The Rt Hon. Sir Winston Churchill</dbpprop:alternativeNames>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ουίνστον_Τσώρτσιλ"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/documents/cab_195_4_transcript.pdf"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/documents/cab_195_1_transcript.pdf"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1935%E2%80%931945"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Secretaries_of_State_for_the_Colonies_(UK)"/>
+    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/H._H._Asquith"/>
     <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_officeholder"/>
-    <dbpedia-owl:abstract xml:lang="ja">サー・ウィンストン・レナード・スペンサー＝チャーチル（Sir Winston Leonard Spencer-Churchill, 1874年11月30日 - 1965年1月24日）はイギリスの政治家。1940年から1945年にかけてイギリス戦時内閣の首相としてイギリス国民を指導し、第二次世界大戦を勝利に導く。大戦終結後に再び首相となる。コマンド部隊創設者。 彼の家名（ファミリーネーム）は単に「チャーチル」と呼ばれることが圧倒的に多いが、正式には「スペンサー＝チャーチル」という複合姓（二重姓）である。フランクリン・ルーズベルト、ダグラス・マッカーサーとは遠戚関係にある。 2002年、BBCが行った「偉大な英国人」投票で第1位となった。</dbpedia-owl:abstract>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1951</dbpprop:years>
-    <dbpedia-owl:orderInOffice xml:lang="en">Leader of the Opposition</dbpedia-owl:orderInOffice>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1874_births"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Hyde_Park_Gate"/>
-    <dbpprop:title xml:lang="en">Officer Commanding the 6th Battalion, Royal Scots Fusiliers</dbpprop:title>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_M%C3%A9daille_Militaire"/>
-    <rdfs:comment xml:lang="vi">Sir Winston Leonard Spencer-Churchill là một nhà chính trị người Anh, nổi tiếng nhất với cương vị Thủ tướng Anh trong thời Thế chiến thứ hai. Ông từng là một người lính, nhà báo, tác giả, họa sĩ và chính trị gia. Churchill, nói chung, được coi là một trong những nhà lãnh đạo quan trọng nhất trong lịch sử Anh và lịch sử thế giới.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1929%E2%80%931931"/>
+    <dbpedia-owl:abstract xml:lang="fr">Sir Winston Leonard Spencer-Churchill,, né le 30 novembre 1874 et mort le 24 janvier 1965 à Londres, est un homme politique britannique. Surtout connu pour avoir dirigé le Royaume-Uni pendant la Seconde Guerre mondiale, cet homme d'État en est le Premier ministre de 1940 à 1945 et puis de 1951 à 1955. Il a également exercé les activités d'officier dans l'armée britannique, de journaliste, d'historien, d'écrivain lauréat du prix Nobel de littérature et d'artiste. Durant sa carrière militaire, Churchill combat en Inde, au Soudan et lors de la Seconde Guerre des Boers. Il est surtout déployé en tant que correspondant de guerre, écrivant des livres sur les campagnes auxquelles il participe. Il sert brièvement sur le front de l'Ouest pendant la Première Guerre mondiale, en tant que commandant du 6 bataillon des Royal Scots Fusiliers. Durant sa carrière civile, longue de près de soixante années, il occupe de nombreux postes politiques et ministériels. Avant la Première Guerre mondiale, il est ministre du Commerce, secrétaire du Home Office et Premier Lord de l'Amirauté du gouvernement libéral d'Herbert Henry Asquith. Il reste à cette fonction jusqu'à la défaite britannique lors de la bataille des Dardanelles, qui cause son éviction du gouvernement car il en est alors considéré comme l'un des principaux responsables. Il y est rappelé comme ministre de l'armement, secrétaire d'État à la Guerre et secrétaire d'État de l'air. Durant l'entre-deux-guerres, il sert en tant que chancelier de l'Échiquier dans le gouvernement conservateur. Au déclenchement de la Seconde Guerre mondiale, Churchill est de nouveau nommé Premier Lord de l'Amirauté. Après la démission de Neville Chamberlain, le 10 mai 1940, il devient Premier ministre du Royaume-Uni, et conduit le pays à la victoire contre les puissances de l'Axe. Ses discours notamment marquent le peuple britannique et les forces alliées. Après avoir perdu les élections législatives de 1945, il devient chef de l'opposition conservatrice, dénonçant dès 1946 le rideau de fer. Il redevient Premier ministre en 1951 jusqu'à sa retraite en 1955. À sa mort, la reine lui fait l'honneur d'avoir des obsèques nationales, qui demeurent encore aujourd'hui l'un des plus importants rassemblements d'hommes d'État dans le monde.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Croix_de_Guerre_(Belgium)"/>
+    <dbpedia-owl:religion rdf:resource="http://dbpedia.org/resource/Anglicanism"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_University_of_Bristol"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Second_Boer_War_prisoners_of_war"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_II_political_leaders"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RoyalAirForceOfficersHoldingHonoraryCommissions"/>
+    <dbpedia-owl:serviceEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1895-01-01T00:00:00+02:00</dbpedia-owl:serviceEndYear>
+    <dbpedia-owl:activeYearsEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-10-26</dbpedia-owl:activeYearsEndDate>
+    <dbpedia-owl:abstract xml:lang="ko">윈스턴 레너드 스펜서-처칠 경은 영국의 정치인이며, 총리(1940~45, 1951~55)이다. 다이애나 스펜서는 그의 친척이다. 종교는 성공회(Anglican)이다.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="zh">温斯顿·伦纳德·斯宾塞·丘吉尔爵士，（Sir Winston Leonard Spencer Churchill，1874年11月30日－1965年1月24日），英國政治家、演說家、軍事家和作家，曾於1940年至1945年出任英国首相，任期內领導英国在第二次世界大战聯合美國、對抗德國，取得胜利，並自1951年至1955年再度出任英国首相。 邱吉爾被認為是20世紀最重要的政治领袖之一，對英國乃至於世界均影響深遠。此外，他在文学上也有很高的成就，曾於1953年获诺贝尔文学奖。在2002年，BBC舉行了一個名為「最偉大的100名英國人」的調查，結果邱吉爾獲選為有史以來最偉大的英國人。</rdfs:comment>
+    <dbpprop:signature xml:lang="en">Sir Winston Churchill signature.svg</dbpprop:signature>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Order_of_Merit"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Winston_Churchill"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1940</dbpprop:years>
+    <dbpedia-owl:abstract xml:lang="nl">Sir Winston Leonard Spencer-Churchill was de Britse staatsman die als premier van 1940 tot 1945 Hitler weerstond en daarmee een beslissende rol in diens ondergang en de geallieerde overwinning heeft gespeeld. Het lukte hem de Britse oorlogsinspanning op peil te krijgen en de VS daarbij tot steun te bewegen. Geen enkele Britse premier is ooit zo populair geweest als Churchill. Churchill was een van de bekendste staatslieden van de 20e eeuw. Voor zijn aantreden als premier op zijn 64e had hij al een lange en wisselvallige carrière achter de rug, waarin hij twee maal van politieke partij wisselde. In 1901 werd hij voor het eerst verkozen in het Lagerhuis en in 1910 voor het eerst minister, van Binnenlandse Zaken. Als minister van Marine en als minister van Munitie was hij al betrokken bij de Eerste Wereldoorlog en was later ook minister van Financiën. Hij was tevens een productief en succesvol schrijver en ontving in 1953 de Nobelprijs voor de Literatuur voor zijn geschiedenis van de Tweede Wereldoorlog. Als één van de weinige Europeanen was hij Amerikaans ere-staatsburger.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Secretaries_of_State_for_Air_(UK)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1910"/>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Conservative_Party_(UK)"/>
+    <dbpedia-owl:activeYearsEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1911-10-24</dbpedia-owl:activeYearsEndDate>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/200px-Sir_Winston_S_Churchill.jpg"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1965-01-24</dbpedia-owl:deathDate>
+    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.loc.gov/exhibits/churchill/interactive"/>
+    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Sydney_Buxton,_1st_Earl_Buxton"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1965-01-24</dbpprop:deathDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WarCorrespondents"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleOfTheEdwardianEra"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.museumsyndicate.com/artist.php?artist=667"/>
     <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1905</dbpprop:years>
-    <dbpprop:serviceyears rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1895</dbpprop:serviceyears>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26</dbpprop:years>
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/KnightsOfTheGarter"/>
-    <dbpedia-owl:orderInOffice xml:lang="en">Prime Minister of the United Kingdom</dbpedia-owl:orderInOffice>
-    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</dbpprop:termStart>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Rectors_of_the_University_of_Aberdeen"/>
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Anthony_Eden"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeorgistPoliticians"/>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/9/9c/Sir_Winston_S_Churchill.jpg"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Winston_Churchill"/>
-    <dbpprop:birthname xml:lang="en">Winston Leonard Spencer-Churchill</dbpprop:birthname>
-    <dbpedia-owl:orderInOffice xml:lang="en">Home Secretary</dbpedia-owl:orderInOffice>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_Business,_Innovation_and_Skills"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StrokeSurvivors"/>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1929</dbpprop:years>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Queen's_Own_Oxfordshire_Hussars_officers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Star_of_Nepal"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1965-01-24</dbpedia-owl:deathDate>
-    <dbpprop:primeminister xml:lang="en">Herbert Henry Asquith</dbpprop:primeminister>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_St._George's_School,_Ascot"/>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1939</dbpprop:years>
-    <dbpedia-owl:abstract xml:lang="ko">윈스턴 레너드 스펜서-처칠 경은 영국의 정치인이며, 총리(1940~45, 1951~55)이다. 다이애나 스펜서는 그의 친척이다. 종교는 성공회(Anglican)이다.</dbpedia-owl:abstract>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Patrick_Jenkin,_Baron_Jenkin_of_Roding"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_United_Kingdom_Parliament_for_English_constituencies"/>
-    <dbpprop:title xml:lang="en">Member of Parliament for Epping</dbpprop:title>
-    <rdfs:comment xml:lang="pl">Winston Leonard Spencer Churchill KG, OM – brytyjski polityk, mówca, strateg, pisarz i historyk, dwukrotny premier Zjednoczonego Królestwa, laureat literackiej Nagrody Nobla, honorowy obywatel Stanów Zjednoczonych. W 2002 w plebiscycie organizowanym przez BBC został uznany najwybitniejszym Brytyjczykiem wszech czasów.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1955%E2%80%931959"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromWoodstock,Oxfordshire"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Queen's_Privy_Council_for_Canada"/>
-    <dbpedia-owl:abstract xml:lang="ca">Sir Winston Leonard Spencer-Churchill va ser un polític britànic conegut pel seu lideratge del Regne Unit durant la Segona Guerra Mundial. Va servir com a Primer Ministre del Regne Unit de 1940 al 1945 i de nou de 1951 a 1955. Va ser un destacat home d'estat amb una notable oratòria, també va ser oficial a l'Exèrcit Britànic, historiador, escriptor (és l'únic Primer Ministre guardonat amb el Premi Nobel de Literatura el 1953) i artista. Va ser la segona persona en ser nomenada ciutadà Honorífic dels Estats Units. Gaudí dels següents honors orde de la Lligacama, orde del Mèrit, orde dels Companys d'Honor, Condecoració Territorial, Royal Society, Consell Privat del Regne Unit, Consell Privat del Canadà. Descendent del duc de Marlborough i fill de lord Randolph Churchill, després d'estudiar a Harrow ingressà a l'Exèrcit Britànic. Durant la seva carrera militar, entrà en combat a l'Índia, al Sudan i a la Segona Guerra Bòer. Adquirí fama i notorietat com a corresponsal de guerra i pels llibres que va escriure descrivint les campanyes. La popularitat que li atorgaren li permeté de dedicar-se a la política. També va servir breument al Front Occidental de la I Guerra Mundial, comandant el 6è Batalló dels Reials Fusellers Escocesos. Va estar a primera línia de l'escena política durant gairebé 60 anys, servint en diversos càrrecs i formant part del govern. Abans de la Primera Guerra Mundial serví com a secretari de Comerç, Secretari de l'Interior, Sots-Secretari d'Estat per a les Colònies i primer lord de l'Almirallat, formant part del govern liberal d'Asquith. Durant la guerra continuà sent el primer lord de l'Almirallat fins al desastre de Gal·lípoli, que causa la seva sortida del govern. Tornà com a ministre de Munició, secretari d'Estat de la Guerra i secretari d'Estat de l'Aire. Durant els anys d'entre guerres, serví com a canceller de l'Erari al govern conservador d'Stanley Baldwin. Tanmateix, a la dècada dels 30, cauria en desgràcia a causa de l'oposició a la política de tranquil·lització dels governs conservadors i laboristes del moment. L'arribada al poder d'Adolf Hitler a Alemanya augmentà les seves advertències, per bé que durant un temps no va ser més que una veu al desert. Després de l'esclat de la Segona Guerra Mundial, Churchill tornà a ser nomenat primer lord de l'Almirallat. Després de la dimissió de Neville Chamberlain el 10 de maig de 1940, Churchill esdevingué el primer ministre del Regne Unit, portant la Gran Bretanya a la victòria contra les Potències de l'Eix. Churchill sempre va destacar pels seus discursos, radiats a la població, en què els donava ànims per continuar la guerra fins al final. Després de perdre les eleccions de 1945, esdevingué Cap de l'Oposició. El 1951 tornà a ser primer ministre del Regne Unit, per bé que cada cop delegava més tasques en els seus ministres, fins que es retirà finalment el 1955 per motius de salut. En morir, la reina li atorgà l'honor d'un funeral d'estat (honor que durant el segle XX només reberen lord Roberts i ell), que provocà un dels aplecs més gran d'estadistes de tot el món. En un popular concurs televisiu anomenat 100 Greatest Britons, va ser votat com el britànic més important de la història, d'un total de 100 candidats. Curiosament, en una enquesta realitzada el 2008 per UKTV Gold, el 23% dels britànics menors de 20 anys creien que Churchill era un personatge de ficció perquè el consideraven massa talentós per ser real.</dbpedia-owl:abstract>
-    <dbpedia-owl:orderInOffice xml:lang="en">Chancellor of the Exchequer</dbpedia-owl:orderInOffice>
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/David_Lloyd_George"/>
-    <dbpedia-owl:restingPlace rdf:resource="http://dbpedia.org/resource/St_Martin's_Church,_Bladon"/>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Winston_Churchill"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Woodstock,_Oxfordshire"/>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1"/>
-    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</dbpprop:termStart>
-    <dbpprop:deputy xml:lang="en">Clement Attlee</dbpprop:deputy>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.winstonchurchill.org/"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:NPG_name"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SecretariesOfStateForAir(UK)"/>
-    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-05-10</dbpedia-owl:activeYearsStartDate>
-    <dbpprop:order xml:lang="en">for Woodford</dbpprop:order>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1950%E2%80%931951"/>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/University_of_Bristol"/>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Conservative_Party_(UK)"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:S-bef"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Secretaries_of_State_for_War_(UK)"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1900%E2%80%931906"/>
-    <dbpprop:branch xml:lang="en">British Army</dbpprop:branch>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Second_Boer_War_prisoners_of_war"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Royal_Military_Academy_Sandhurst"/>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1906</dbpprop:years>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Records_of_members_of_parliament_of_the_United_Kingdom"/>
-    <dbpprop:shortDescription xml:lang="en">English statesman and author, best known as Prime Minister of the United Kingdom</dbpprop:shortDescription>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Rectors_of_the_University_of_Edinburgh"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/200px-Sir_Winston_S_Churchill.jpg"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1945%E2%80%931950"/>
-    <rdfs:comment xml:lang="ru">Черчилль, Уинстон style="background: transparent" |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение ||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Кавалер Большого креста ордена Лепольда I||Ошибка: неверное или отсутствующее изображение||Кавалер ордена Слона |- |Кавалер французского ордена Освобождения || Военная медаль (Франция) || Военный крест 1939—1945 (Франция) |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Бельгийский Военный крест 1940||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |||Крест Свободы 1 класса |} |Commons = Winston Churchill }} Сэр Уи́нстон Леона́рд Спе́нсер-Че́рчилль — британский государственный и политический деятель, премьер-министр Великобритании в 1940—1945 и 1951—1955 годах; военный, журналист, писатель, почётный член Британской академии (1952), лауреат Нобелевской премии по литературе. </rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldWarIIPoliticalLeaders"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_historians"/>
-    <dbpedia-owl:activeYearsEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-07-26</dbpedia-owl:activeYearsEndDate>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Air_Force_officers_holding_honorary_commissions"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Sashes_of_the_Order_of_Sayyid_Muhammad_ibn_Ali_as-Senussi"/>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/윈스턴_처칠"/>
-    <rdfs:label xml:lang="cs">Winston Churchill</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1931%E2%80%931935"/>
-    <dbpedia-owl:abstract xml:lang="es">Sir Winston Leonard Spencer-Churchill, KG, OM, CH, TD, FRS, PC fue un político y hombre de estado británico, conocido por su liderazgo del Reino Unido durante la Segunda Guerra Mundial. Es considerado uno de los grandes líderes de tiempos de guerra y fue Primer Ministro del Reino Unido en dos períodos (1940-45 y 1951-55). Notable hombre de estado y orador, Churchill fue también oficial del Ejército Británico, historiador, escritor y artista. Hasta la fecha, él es el único que ha sido galardonado con el Premio Nobel de Literatura, y fue nombrado ciudadano honorario de los Estados Unidos de América. Churchill nació en el seno de la familia aristocrática de los Duques de Marlborough. Su padre, Lord Randolph Churchill, fue un político carismático y Ministro de Hacienda del Reino Unido; su madre, Jenny Jerome, era de origen estadounidense. Como un joven oficial del ejército, entró en acción en la India Británica, Sudán y en la Segunda Guerra de los Bóeres. Se ganó fama como corresponsal de guerra y con los libros que escribió sobre sus campañas. En la primera línea política durante 50 años, ocupó numerosos cargos políticos y de gabinete. Antes de la Primera Guerra Mundial fue Presidente de la Secretaría de Estado de Comercio, Ministro de Interior y Primer Lord del Almirantazgo como parte del gobierno liberal de H. H. Asquith. Durante la guerra continuó como Primer Lord del Almirantazgo hasta la desastrosa Batalla de Galípoli, que él había patrocinado y que fue el motivo de su salida del gobierno. Después sirvió brevemente en el frente occidental como comandante del 6º Batallón de los Fusileros Reales Escoceses. Regresó al gobierno como Ministro de Municiones, Secretario de Estado de Guerra y Secretario de Estado del Aire. Tras el conflicto mundial Churchill ocupó el cargo de Ministro de Hacienda en el gobierno conservador de Stanley Baldwin entre 1924-29, donde tomó la controvertida decisión de devolver la libra esterlina en 1925 al patrón oro como en la paridad anterior a la guerra, una medida vista ampliamente como la creación de una presión deflacionaria sobre la economía del Reino Unido. También polémicas fueron la oposición de Churchill al incremento de la autonomía de la India y su resistencia a la abdicación de Eduardo VIII en 1936. Fuera del escenario político en los años 30, Churchill tomó el liderazgo en alertar sobre el peligro de Adolf Hitler y en la campaña para el rearme. Al estallido de la Segunda Guerra Mundial fue nombrado de nuevo Primer Lord del Almirantazgo, y tras la dimisión de Neville Chamberlain el 10 de mayo de 1940 se convirtió en Primer Ministro. Su firme negativa a aceptar la derrota, la rendición o un acuerdo de paz ayudó a inspirar la resistencia británica, especialmente durante los difíciles primeros años de la guerra, cuando el Reino Unido se quedó solo en su firme oposición a la Alemania Nazi. Churchill destacó especialmente por sus discursos y programas de radio que ayudaron a inspirar al pueblo británico, al que lideró como Primer Ministro hasta que fue segura la victoria de los Aliados sobre las Potencias del Eje. Después de que el partido conservador perdiera las elecciones generales de 1945, Churchill lideró la oposición. En 1951 consiguió volver a ser Primer Ministro, hasta su retiro en 1955. A su muerte en 1965, la reina Isabel II le concedió el honor de un funeral de estado en el que se dio una de las mayores reuniones de jefes de estado nunca antes vista. Churchill es unánimemente recordado como uno de los hombres más influyentes en la historia británica.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="hu">Sir Winston Leonard Spencer Churchill brit politikus, miniszterelnök 1940–1945 és 1951–1955 között. Kiemelkedő képességű államférfi, szónok és stratéga, a brit hadsereg tisztje. Élete egyedülálló számú és mélységű kutatás tárgya a brit és világtörténelemben betöltött szerepe miatt. Rendkívül termékeny író, történelmi tárgyú írásainak elismeréseként az irodalmi Nobel-díj birtokosa (1953). Katonai pályafutása során Churchill harcolt a malakandi hadseregben az északnyugati határvidéken, Szudánban az omdurmáni csatában és Dél-Afrikában a második búr háborúban. Ebben az időben komoly ismertségre és hírnévre tett szert helyszíni tudósítóként. A politikai élet élvonalában eltöltött hatvan év során számos politikai és kormányzati pozíciót birtokolt. Az első világháború előtt kereskedelmi, majd belügyminiszterként szolgált liberális kormányokban. A háború idején több minisztériumot is irányított, így az Admiralitás Első Lordja, hadfelszerelési miniszter, hadügyminiszter és légügyi miniszter is volt. Rövid ideig katonaként is szolgált a nyugati fronton, ahol a Királyi Skót Lövészek 6. zászlóalját vezette. A két világháború között pénzügyminiszteri tisztséget viselt. A második világháború kitörése után Churchillt ismét kinevezték az Admiralitás Első Lordjává. Neville Chamberlain lemondását követően, 1940 májusában az Egyesült Királyság miniszterelnöke lett, és ő vezette a tengelyhatalmak legyőzésére irányuló brit erőfeszítéseket. Beszédei óriási mozgósító erőt jelentettek a szövetséges erők és a brit lakosság számára egyaránt. 1945-ben, az elvesztett általános választások után az ellenzék vezére lett. 1951-ben ismét miniszterelnök lett, majd 1955-ben végleg visszavonult. Halála után állami temetésben részesült, amelyen rendkívül nagy számban vettek részt a világ vezető politikusai.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="ja">サー・ウィンストン・レナード・スペンサー＝チャーチル（Sir Winston Leonard Spencer-Churchill, 1874年11月30日 - 1965年1月24日）はイギリスの政治家。1940年から1945年にかけてイギリス戦時内閣の首相としてイギリス国民を指導し、第二次世界大戦を勝利に導く。大戦終結後に再び首相となる。コマンド部隊創設者。 彼の家名（ファミリーネーム）は単に「チャーチル」と呼ばれることが圧倒的に多いが、正式には「スペンサー＝チャーチル」という複合姓（二重姓）である。フランクリン・ルーズベルト、ダグラス・マッカーサーとは遠戚関係にある。 2002年、BBCが行った「偉大な英国人」投票で第1位となった。</rdfs:comment>
-    <dbpprop:order rdf:resource="http://dbpedia.org/resource/Leaders_of_the_Conservative_Party"/>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Harold_Alexander,_1st_Earl_Alexander_of_Tunis"/>
-    <dbpprop:name xml:lang="en">Churchill, Winston</dbpprop:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleOfTheEdwardianEra"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1935%E2%80%931945"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Harold_Alexander,_1st_Earl_Alexander_of_Tunis"/>
-    <dbpprop:restingplace xml:lang="en">St Martin's Church, Bladon, Oxfordshire</dbpprop:restingplace>
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Herbert_Gladstone,_1st_Viscount_Gladstone"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NaziEraScholarsAndWriters"/>
-    <dbpedia-owl:serviceEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1895-01-01T00:00:00+02:00</dbpedia-owl:serviceEndYear>
-    <rdfs:comment xml:lang="de">Sir Winston Leonard Spencer-Churchill gilt als bedeutendster britischer Staatsmann des 20. Jahrhunderts. Er war zweimal Premierminister und führte Großbritannien durch den Zweiten Weltkrieg. Zuvor hatte er bereits mehrere Regierungsämter bekleidet, unter anderem das des Ersten Lords der Admiralität, des Innen- und des Finanzministers. Darüber hinaus trat er als Autor politischer und historischer Werke hervor und erhielt 1953 den Nobelpreis für Literatur.</rdfs:comment>
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Sydney_Buxton,_1st_Earl_Buxton"/>
-    <rdfs:comment xml:lang="uk">Ві́нстон Че́рчилль — державний діяч Великої Британії, письменник, найбільше відомий як прем'єр-міністр цієї країни у роки Другої світової війни. Нобелівська премія в галузі літератури 1953 року.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SecretariesOfStateForTheHomeDepartment"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/4thQuEEn'sOwnHussarsOfficers"/>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Chancellor_of_the_Duchy_of_Lancaster"/>
-    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1910-02-19</dbpedia-owl:activeYearsStartDate>
-    <rdfs:comment xml:lang="ko">윈스턴 레너드 스펜서-처칠 경은 영국의 정치인이며, 총리(1940~45, 1951~55)이다. 다이애나 스펜서는 그의 친척이다. 종교는 성공회(Anglican)이다.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_personnel_of_World_War_I"/>
-    <rdfs:comment xml:lang="cs">Sir Winston Leonard Spencer-Churchill byl britský politik, premiér Spojeného království v letech 1940–1945 a 1951–1955. Také spisovatel, historik, žurnalista, voják a zákonodárce. Je považován za jednoho z nejvýznamnějších státníků 20. století. Churchillovo celé jméno znělo Winston Leonardo Spencer-Churchill, ale po vzoru svého otce lorda Randolph Churchilla ve veřejném životě užíval jen příjmení Churchill. Jeho knihy vycházejí pod jménem Winston S.</rdfs:comment>
-    <rdfs:label xml:lang="en">Winston Churchill</rdfs:label>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/documents/cab_195_2_transcript.pdf"/>
-    <dbpedia-owl:abstract xml:lang="vi">Sir Winston Leonard Spencer-Churchill là một nhà chính trị người Anh, nổi tiếng nhất với cương vị Thủ tướng Anh trong thời Thế chiến thứ hai. Ông từng là một người lính, nhà báo, tác giả, họa sĩ và chính trị gia. Churchill, nói chung, được coi là một trong những nhà lãnh đạo quan trọng nhất trong lịch sử Anh và lịch sử thế giới. Ông là Thủ tướng Anh duy nhất nhận giải Nobel Văn học và là người đầu tiên được công nhận là Công dân danh dự Hoa Kỳ Ông đã được tặng thưởng nhiều danh hiệu cao quí như Huân chương Garter, Huân chương Công lao, Huân chương Companions of Honour, Huân chương Quân địa phương và Viện sĩ Hội Hoàng gia và là hội viên Hội đồng cơ mật Nữ hoàng Canada. Họ chính thức của Churchill là Spencer-Churchill (ông có quan hệ với gia đình Spencer), nhưng bắt đầu từ cha ông, Sir Randolph Churchill, nhánh gia đình ông luôn chỉ sử dụng tên Churchill trước công chúng.</dbpedia-owl:abstract>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Anthony_Eden"/>
-    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dbpprop:termEnd>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
-    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1874-11-30</dbpprop:birthDate>
-    <dbpedia-owl:activeYearsEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1955-04-07</dbpedia-owl:activeYearsEndDate>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.history.com/topics/winston-churchill"/>
-    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ουίνστον_Τσώρτσιλ"/>
-    <rdfs:comment xml:lang="ca">Sir Winston Leonard Spencer-Churchill va ser un polític britànic conegut pel seu lideratge del Regne Unit durant la Segona Guerra Mundial. Va servir com a Primer Ministre del Regne Unit de 1940 al 1945 i de nou de 1951 a 1955. Va ser un destacat home d'estat amb una notable oratòria, també va ser oficial a l'Exèrcit Britànic, historiador, escriptor (és l'únic Primer Ministre guardonat amb el Premi Nobel de Literatura el 1953) i artista.</rdfs:comment>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Lords_Commissioners_of_the_Admiralty"/>
-    <dbpprop:birthPlace xml:lang="en">England, United Kingdom</dbpprop:birthPlace>
-    <rdfs:comment xml:lang="fi">Sir Winston Leonard Spencer Churchill oli brittiläinen poliitikko ja Yhdistyneen kuningaskunnan pääministeri vuosina 1940–1945 ja 1951–1956. Churchill tunnetaan parhaiten roolistaan pääministerinä toisessa maailmansodassa, mutta hän oli myös buurisotaan osallistunut ammattisotilas ja 1953 Nobelin kirjallisuuspalkinnolla palkittu kirjailija.</rdfs:comment>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30</dbpprop:dateOfBirth>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Statesman110650162"/>
-    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1908-04-12</dbpedia-owl:activeYearsStartDate>
-    <dbpprop:order xml:lang="en">for Dundee</dbpprop:order>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Conservative_Party_(UK)_MPs"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/KentuCkyColonels"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1906%E2%80%931910"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</dbpprop:termStart>
-    <rdfs:label xml:lang="uk">Вінстон Черчилль</rdfs:label>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.savrola.co.uk/bactable.php?sorted=author&amp;category=A"/>
-    <dbpedia-owl:activeYearsEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1910-02-14</dbpedia-owl:activeYearsEndDate>
-    <dc:description xml:lang="en">English statesman and author, best known as Prime Minister of the United Kingdom</dc:description>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NobelLaureatesInLiterature"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Historian110177150"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Winston_Churchill"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_prisoners_of_war"/>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1900</dbpprop:years>
-    <foaf:surname xml:lang="en">Churchill</foaf:surname>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.churchillmemorial.org/"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:4th_Queen's_Own_Hussars_officers"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <dbpedia-owl:abstract xml:lang="en">Sir Winston Leonard Spencer-Churchill, KG, OM, CH, TD, PC, DL, FRS, Hon. RA (30 November 1874 – 24 January 1965) was a British Conservative politician and statesman known for his leadership of the United Kingdom during the Second World War. Widely regarded as one of the greatest wartime leaders of the century, he served as Prime Minister twice. A noted statesman and orator, Churchill was also an officer in the British Army, a historian, a writer, and an artist. He is the only British prime minister to have received the Nobel Prize in Literature, and was the first person to be made an Honorary Citizen of the United States. Churchill was born into the aristocratic family of the Dukes of Marlborough. His father, Lord Randolph Churchill, was a charismatic politician who served as Chancellor of the Exchequer; his mother, Jenny Jerome, was an American socialite. As a young army officer, he saw action in British India, the Sudan, and the Second Boer War. He gained fame as a war correspondent and wrote books about his campaigns. At the forefront of politics for fifty years, he held many political and cabinet positions. Before the First World War, he served as President of the Board of Trade, Home Secretary, and First Lord of the Admiralty as part of the Asquith Liberal government. During the war, he continued as First Lord of the Admiralty until the disastrous Gallipoli Campaign, which he had sponsored, caused his departure from government. He then briefly resumed active army service on the Western Front as commander of the 6th Battalion of the Royal Scots Fusiliers. He returned to government as Minister of Munitions, Secretary of State for War, and Secretary of State for Air. After the War, Churchill served as Chancellor of the Exchequer in the Conservative government of 1924–29, controversially returning the pound sterling in 1925 to the gold standard at its pre-war parity, a move widely seen as creating deflationary pressure on the UK economy. Also controversial were Churchill's opposition to increased home rule for India and his resistance to the 1936 abdication of Edward VIII. Out of office and politically "in the wilderness" during the 1930s, Churchill took the lead in warning about Nazi Germany and in campaigning for rearmament. On the outbreak of the Second World War, he was again appointed First Lord of the Admiralty. Following the resignation of Neville Chamberlain on 10 May 1940, Churchill became Prime Minister. His steadfast refusal to consider defeat, surrender, or a compromise peace helped inspire British resistance, especially during the difficult early days of the War when Britain stood alone in its active opposition to Hitler. Churchill was particularly noted for his speeches and radio broadcasts, which helped inspire the British people. He led Britain as Prime Minister until victory over Nazi Germany had been secured. After the Conservative Party lost the 1945 election, he became Leader of the Opposition. In 1951, he again became Prime Minister, before retiring in 1955. Upon his death, Elizabeth II granted him the honour of a state funeral, which saw one of the largest assemblies of world statesmen in history. Named the Greatest Briton of all time in a 2002 poll, Churchill is widely regarded as being among the most influential persons in British history.</dbpedia-owl:abstract>
-    <foaf:givenName xml:lang="en">Winston</foaf:givenName>
-    <dbpedia-owl:activeYearsEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1911-10-24</dbpedia-owl:activeYearsEndDate>
-    <dbpedia-owl:deputy rdf:resource="http://dbpedia.org/resource/Anthony_Eden"/>
-    <dbpedia-owl:abstract xml:lang="nl">Sir Winston Leonard Spencer-Churchill was de Britse staatsman die als premier van 1940 tot 1945 Hitler weerstond en daarmee een beslissende rol in diens ondergang en de geallieerde overwinning heeft gespeeld. Het lukte hem de Britse oorlogsinspanning op peil te krijgen en de VS daarbij tot steun te bewegen. Geen enkele Britse premier is ooit zo populair geweest als Churchill. Churchill was een van de bekendste staatslieden van de 20e eeuw. Voor zijn aantreden als premier op zijn 64e had hij al een lange en wisselvallige carrière achter de rug, waarin hij twee maal van politieke partij wisselde. In 1901 werd hij voor het eerst verkozen in het Lagerhuis en in 1910 voor het eerst minister, van Binnenlandse Zaken. Als minister van Marine en als minister van Munitie was hij al betrokken bij de Eerste Wereldoorlog en was later ook minister van Financiën. Hij was tevens een productief en succesvol schrijver en ontving in 1953 de Nobelprijs voor de Literatuur voor zijn geschiedenis van de Tweede Wereldoorlog. Als één van de weinige Europeanen was hij Amerikaans ere-staatsburger.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SecondBoerWarPrisonersOfWar"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Order_of_Merit"/>
-    <dbpprop:name xml:lang="en">Winston Churchill</dbpprop:name>
-    <dbpedia-owl:abstract xml:lang="fr">Sir Winston Leonard Spencer-Churchill,, né le 30 novembre 1874 et mort le 24 janvier 1965 à Londres, est un homme politique britannique. Surtout connu pour avoir dirigé le Royaume-Uni pendant la Seconde Guerre mondiale, cet homme d'État en est le Premier ministre de 1940 à 1945 et puis de 1951 à 1955. Il a également exercé les activités d'officier dans l'armée britannique, de journaliste, d'historien, d'écrivain lauréat du prix Nobel de littérature et d'artiste. Durant sa carrière militaire, Churchill combat en Inde, au Soudan et lors de la Seconde Guerre des Boers. Il est surtout déployé en tant que correspondant de guerre, écrivant des livres sur les campagnes auxquelles il participe. Il sert brièvement sur le front de l'Ouest pendant la Première Guerre mondiale, en tant que commandant du 6 bataillon des Royal Scots Fusiliers. Durant sa carrière civile, longue de près de soixante années, il occupe de nombreux postes politiques et ministériels. Avant la Première Guerre mondiale, il est ministre du Commerce, secrétaire du Home Office et Premier Lord de l'Amirauté du gouvernement libéral d'Herbert Henry Asquith. Il reste à cette fonction jusqu'à la défaite britannique lors de la bataille des Dardanelles, qui cause son éviction du gouvernement car il en est alors considéré comme l'un des principaux responsables. Il y est rappelé comme ministre de l'armement, secrétaire d'État à la Guerre et secrétaire d'État de l'air. Durant l'entre-deux-guerres, il sert en tant que chancelier de l'Échiquier dans le gouvernement conservateur. Au déclenchement de la Seconde Guerre mondiale, Churchill est de nouveau nommé Premier Lord de l'Amirauté. Après la démission de Neville Chamberlain, le 10 mai 1940, il devient Premier ministre du Royaume-Uni, et conduit le pays à la victoire contre les puissances de l'Axe. Ses discours notamment marquent le peuple britannique et les forces alliées. Après avoir perdu les élections législatives de 1945, il devient chef de l'opposition conservatrice, dénonçant dès 1946 le rideau de fer. Il redevient Premier ministre en 1951 jusqu'à sa retraite en 1955. À sa mort, la reine lui fait l'honneur d'avoir des obsèques nationales, qui demeurent encore aujourd'hui l'un des plus importants rassemblements d'hommes d'État dans le monde.</dbpedia-owl:abstract>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Minister_of_Defence_(United_Kingdom)"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FascistEraScholarsAndWriters"/>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Rector_of_the_University_of_Aberdeen"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.utstat.utoronto.ca/sharp/Churchill.htm"/>
-    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24</dbpprop:termStart>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1945</dbpprop:years>
-    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</dbpprop:termEnd>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_Air"/>
-    <dbpedia-owl:abstract xml:lang="pl">Winston Leonard Spencer Churchill KG, OM – brytyjski polityk, mówca, strateg, pisarz i historyk, dwukrotny premier Zjednoczonego Królestwa, laureat literackiej Nagrody Nobla, honorowy obywatel Stanów Zjednoczonych. W 2002 w plebiscycie organizowanym przez BBC został uznany najwybitniejszym Brytyjczykiem wszech czasów.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://web.archive.org/web/20070912233119/http:/www.winstonchurchill.org/i4a/pages/index.cfm?pageid=892&amp;textonly=1"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/KnightsOfTheElephant"/>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1910</dbpprop:years>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1917</dbpprop:years>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WarCorrespondents"/>
-    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dbpprop:termStart>
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Ernle_Chatfield,_1st_Baron_Chatfield"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Soldier110622053"/>
-    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118520776</dbpprop:pnd>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_the_Colonies"/>
-    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26</dbpprop:termStart>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Secretaries_of_State_for_the_Colonies_(UK)"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:S-ttl"/>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1911</dbpprop:years>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_War"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1910%E2%80%931918"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/OfficeHolder"/>
-    <dbpedia-owl:activeYearsEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-10-26</dbpedia-owl:activeYearsEndDate>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Scots_Fusiliers_officers"/>
-    <dbpedia-owl:individualisedPnd xml:lang="de">118520776</dbpedia-owl:individualisedPnd>
-    <rdfs:comment xml:lang="it">Conosciuto principalmente per aver guidato la Gran Bretagna durante la seconda guerra mondiale, è stato primo ministro del Regno Unito dal 1940 al 1945 e successivamente dal 1951 al 1955. Noto statista, oratore e stratega, Churchill fu inoltre un ufficiale dell'esercito britannico. Autore prolifico, vinse il Premio Nobel per la Letteratura nel 1953 per i suoi scritti storici.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1959%E2%80%931964"/>
-    <dbpprop:nationality xml:lang="en">English</dbpprop:nationality>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.loc.gov/exhibits/churchill/interactive"/>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Rector_of_the_University_of_Edinburgh"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Privy_Council_of_the_United_Kingdom"/>
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Netherlands_Lion"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Elephant"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RectorsOfTheUniversityOfAberdeen"/>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/etext/3029"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.earthstation1.com/churchil.html"/>
-    <dbpedia-owl:profession rdf:resource="http://dbpedia.org/resource/Politician"/>
     <dbpprop:successor xml:lang="en">Philip Snowden</dbpprop:successor>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Congressional_Gold_Medal_recipients"/>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1908</dbpprop:years>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SecretariesOfStateForTheColonies(UK)"/>
-    <dbpprop:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dbpprop:rank>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-chancellor-noun-1"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPeopleOfAmericanDescent"/>
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Manny_Shinwell,_Baron_Shinwell"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://vault.fbi.gov/Winston%20Churchill"/>
-    <rdfs:label xml:lang="de">Winston Churchill</rdfs:label>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleOfTheVictorianEra"/>
-    <dbpprop:order rdf:resource="http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1910"/>
-    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</dbpprop:termEnd>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Politician"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPainters"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SandhurstGraduAtes"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1951%E2%80%931955"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishBiographers"/>
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Neville_Chamberlain"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Harrow_School"/>
-    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-07-26</dbpedia-owl:activeYearsStartDate>
-    <dbpprop:citizenship xml:lang="en">British</dbpprop:citizenship>
-    <dbpedia-owl:abstract xml:lang="pt">Sir Winston Leonard Spencer-Churchill foi um político conservador e estadista britânico, famoso principalmente por sua atuação como primeiro-ministro do Reino Unido durante a Segunda Guerra Mundial. Ele foi primeiro-ministro por duas vezes (1940-45 e 1951-55). Orador e estadista notável, ele também foi Oficial no Exército Britânico, historiador, escritor e artista. Ele é o único primeiro-ministro britânico a ter recebido o Prêmio Nobel de Literatura e o primeiro Cidadão Honorário dos Estados Unidos. Durante sua carreira no exército, Churchill pôde assistir à ação militar na Índia britânica, no Sudão e na Segunda Guerra dos Bôeres. Ganhou fama e notoriedade como correspondente de guerra através dos livros que ele escreveu descrevendo as campanhas militares. Ele serviu brevemente no Exército britânico no Fronte Ocidental durante a Primeira Guerra Mundial comandando o 6º Batalhão dos Fuzileiros Reais Escoceses. Churchill nasceu em uma família aristocrata, da família do Duque de Marlborough. Seu pai, Lorde Randolph Churchill, foi um carismático político, tendo servido como Ministro da Fazenda. Antes de alcançar o cargo de Primeiro Ministro, Churchill esteve em cargos proeminentes na política do Reino Unido por quatro décadas. Notavelmente sua eleição para o parlamento em 1900; sua acensão a Secretário para os Assuntos Internos em 1910; e sua estadia no Ministério da Fazenda entre 1924 e 1929.</dbpedia-owl:abstract>
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Leonard_Lyle,_1st_Baron_Lyle_of_Westbourne"/>
-    <dbpprop:years xml:lang="en">February 1964 – October 1964</dbpprop:years>
-    <foaf:name xml:lang="en">Winston Churchill</foaf:name>
-    <rdfs:label xml:lang="zh">温斯顿·丘吉尔</rdfs:label>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Leah_Manning"/>
-    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</dbpprop:termEnd>
-    <dbpedia-owl:orderInOffice xml:lang="en">President of the Board of Trade</dbpedia-owl:orderInOffice>
-    <dbpprop:order rdf:resource="http://dbpedia.org/resource/Chancellor_of_the_Exchequer"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:S-aft"/>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</dbpprop:years>
-    <dbpprop:order xml:lang="en">for Manchester North West</dbpprop:order>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_King_Christian_X's_Liberty_Medal"/>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Lord_Warden_of_the_Cinque_Ports"/>
-    <dbpprop:id rdf:datatype="http://www.w3.org/2001/XMLSchema#int">879</dbpprop:id>
-    <rdfs:comment xml:lang="nl">Sir Winston Leonard Spencer-Churchill was de Britse staatsman die als premier van 1940 tot 1945 Hitler weerstond en daarmee een beslissende rol in diens ondergang en de geallieerde overwinning heeft gespeeld. Het lukte hem de Britse oorlogsinspanning op peil te krijgen en de VS daarbij tot steun te bewegen. Geen enkele Britse premier is ooit zo populair geweest als Churchill. Churchill was een van de bekendste staatslieden van de 20e eeuw.</rdfs:comment>
-    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-11-09</dbpedia-owl:activeYearsStartDate>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishHistorians"/>
-    <dbpprop:title xml:lang="en">Member of Parliament for Oldham</dbpprop:title>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_biographers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Graduates_of_the_Royal_Military_Academy_Sandhurst"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Companions_of_the_Liberation"/>
-    <dbpedia-owl:abstract xml:lang="sv">Sir Winston Leonard Spencer-Churchill, född 30 november 1874 på Blenheim Palace, död 24 januari 1965 i London, var en brittisk politiker, författare och officer. Han var brittisk premiärminister 1940-1945 och 1951-1955; dessutom erhöll han Nobelpriset i litteratur 1953. Churchill blev även amerikansk hedersmedborgare 1963. Churchill inledde sin karriär som officer och krigskorrespondent. Han var därefter ledamot i underhuset 1900-1922 och 1924-1964 där han representerade det Konservativa partiet, med undantag för perioden 1904-1922 då han var medlem i det Liberala partiet. Han var handelsminister 1908-1910, inrikesminister 1910–1911, marinminister 1911–1915 samt 1939-1940, minister för krigsmateriel 1917-1919, krigsminister 1919–1921, kolonialminister 1921–1922, utsågs till Chancellor of the Exchequer 1924, och till premiärminister 1940-1945 samt 1951-1955. Churchill var son till den konservative politikern lord Randolph Churchill, som bland annat innehade posten som brittisk finansminister, och amerikanskan Jennie Jerome Churchill. Han blev bland annat far till Randolph Churchill (1911–1968). Särskilt under krigsåren blev Winston Churchill känd för sina tal. Bland de många kända citaten finns: Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning. ("Det här är inte slutet. Det är inte ens början på slutet. Men det är, kanske, slutet på början"). Citatet återspeglar Churchills bedömning av krigssituationen efter det avgörande slaget vid El Alamein. I en omröstning, arrangerad av det brittiska TV-bolaget BBC, framröstades Churchill år 2002, i konkurrens med bland andra Newton och Shakespeare, till "tidernas främste britt".</dbpedia-owl:abstract>
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden"/>
-    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dbpprop:termEnd>
-    <dbpprop:allegiance rdf:resource="http://dbpedia.org/resource/British_Empire"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_United_Kingdom_Parliament_for_Dundee_constituencies"/>
-    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26</dbpprop:termEnd>
-    <dbpedia-owl:abstract xml:lang="fi">Sir Winston Leonard Spencer Churchill oli brittiläinen poliitikko ja Yhdistyneen kuningaskunnan pääministeri vuosina 1940–1945 ja 1951–1956. Churchill tunnetaan parhaiten roolistaan pääministerinä toisessa maailmansodassa, mutta hän oli myös buurisotaan osallistunut ammattisotilas ja 1953 Nobelin kirjallisuuspalkinnolla palkittu kirjailija. Häntä pidetään yhtenä 1900-luvun merkittävimmistä henkilöistä, ja vuonna 2002 Churchill äänestettiin Great Britons -kilpailussa kaikkien aikojen suurimmaksi brittiläiseksi.</dbpedia-owl:abstract>
-    <dbpprop:selibr rdf:datatype="http://www.w3.org/2001/XMLSchema#int">181701</dbpprop:selibr>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deputy_Lieutenants_of_Kent"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_military_personnel_of_the_Malakand_Frontier_War"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Foreign_recipients_of_the_Distinguished_Service_Medal_(United_States)"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-10-26</dbpedia-owl:activeYearsStartDate>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Черчилль,_Уинстон"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Edwardian_era"/>
-    <dbpprop:birthPlace xml:lang="en">Blenheim Palace, Woodstock, Oxfordshire,</dbpprop:birthPlace>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Blenheim_Palace"/>
-    <dbpprop:order xml:lang="en">for Epping</dbpprop:order>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/documents/cab_195_1_transcript.pdf"/>
-    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1924-11-06</dbpedia-owl:activeYearsStartDate>
-    <dbpedia-owl:birthName xml:lang="en">Winston Leonard Spencer-Churchill</dbpedia-owl:birthName>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1921</dbpprop:years>
-    <dbpprop:successor xml:lang="en">Clement Attlee</dbpprop:successor>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://historicalpodcasts.googlepages.com/winstonchurchill"/>
-    <dbpprop:placeOfDeath xml:lang="en">Hyde Park Gate, London, England, United Kingdom</dbpprop:placeOfDeath>
-    <dbpprop:order rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_Defence"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Stanley_Baldwin"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Harrow_School"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cold_War_leaders"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.082xp"/>
-    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dbpprop:termStart>
-    <dbpedia-owl:abstract xml:lang="cs">Sir Winston Leonard Spencer-Churchill byl britský politik, premiér Spojeného království v letech 1940–1945 a 1951–1955. Také spisovatel, historik, žurnalista, voják a zákonodárce. Je považován za jednoho z nejvýznamnějších státníků 20. století. Churchillovo celé jméno znělo Winston Leonardo Spencer-Churchill, ale po vzoru svého otce lorda Randolph Churchilla ve veřejném životě užíval jen příjmení Churchill. Jeho knihy vycházejí pod jménem Winston S. Churchill nebo Winston Spencer Churchill, protože pod jménem Winston Churchill publikoval již jiný autor.</dbpedia-owl:abstract>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Winston_Churchill"/>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Leader_of_the_Opposition_(United_Kingdom)"/>
-    <dbpprop:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">245</dbpprop:imagesize>
-    <dbpprop:order rdf:resource="http://dbpedia.org/resource/Leader_of_the_Opposition_(United_Kingdom)"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Nobel_laureates_in_Literature"/>
-    <dbpprop:predecessor xml:lang="en">New constituency</dbpprop:predecessor>
-    <rdfs:label xml:lang="vi">Winston Churchill</rdfs:label>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Woodstock,_Oxfordshire"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_University_of_Bristol"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/H._H._Asquith"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
-    <rdfs:comment xml:lang="zh">温斯顿·伦纳德·斯宾塞·丘吉尔爵士，（Sir Winston Leonard Spencer Churchill，1874年11月30日－1965年1月24日），英國政治家、演說家、軍事家和作家，曾於1940年至1945年出任英国首相，任期內领導英国在第二次世界大战聯合美國、對抗德國，取得胜利，並自1951年至1955年再度出任英国首相。 邱吉爾被認為是20世紀最重要的政治领袖之一，對英國乃至於世界均影響深遠。此外，他在文学上也有很高的成就，曾於1953年获诺贝尔文学奖。在2002年，BBC舉行了一個名為「最偉大的100名英國人」的調查，結果邱吉爾獲選為有史以來最偉大的英國人。</rdfs:comment>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Winston_Churchill"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Leopold_(Belgium)"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RoyalAirForceOfficersHoldingHonoraryCommissions"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Secretaries_of_State_for_Air_(UK)"/>
-    <dbpedia-owl:abstract xml:lang="no">Winston Leonard Spencer Churchill, Order of the Garter, Order of Merit, Order of the Companions of Honour, Territorial Decoration, Fellow of the Royal Society, Queen's Privy Council for Canada, var en engelsk politiker, offiser og forfatter, mest kjent som statsminister i Storbritannia under andre verdenskrig. Churchill var en fremragende taler, og hadde en karriere som offiser, forfatter og politiker. Churchill er regnet som en av de viktigste lederne i moderne tid. Han fikk nobelprisen i litteratur i 1953 for sine bøker om britisk historie og andre verdenskrig.</dbpedia-owl:abstract>
-    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24</dbpprop:termEnd>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_war_correspondents"/>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
-    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/British_Empire"/>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/William_Joynson-Hicks,_1st_Viscount_Brentford"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Order_of_the_Oak_Crown_recipients"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Winston_Churchill"/>
-    <dbpedia-owl:abstract xml:lang="ru">Черчилль, Уинстон style="background: transparent" |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение ||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Кавалер Большого креста ордена Лепольда I||Ошибка: неверное или отсутствующее изображение||Кавалер ордена Слона |- |Кавалер французского ордена Освобождения || Военная медаль (Франция) || Военный крест 1939—1945 (Франция) |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Бельгийский Военный крест 1940||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |||Крест Свободы 1 класса |} |Commons = Winston Churchill }} Сэр Уи́нстон Леона́рд Спе́нсер-Че́рчилль — британский государственный и политический деятель, премьер-министр Великобритании в 1940—1945 и 1951—1955 годах; военный, журналист, писатель, почётный член Британской академии (1952), лауреат Нобелевской премии по литературе. По данным опроса, проведённого в 2002 году вещательной компанией Би-би-си, был назван величайшим британцем в истории.</dbpedia-owl:abstract>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Leader_of_the_House_of_Commons"/>
-    <dbpprop:successor xml:lang="en">Anthony Eden</dbpprop:successor>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CompanionsOfTheLiberation"/>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1941</dbpprop:years>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writer110794014"/>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Neville_Chamberlain"/>
-    <dbpprop:deputy rdf:resource="http://dbpedia.org/resource/Anthony_Eden"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LeadersOfTheOpposition(UnitedKingdom)"/>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1915</dbpprop:years>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Chancellor_of_the_Exchequer"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LeadersOfTheHouseOfCommons"/>
-    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Churchill_Winston_S_Sir_1874-1965"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society"/>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:activeYearsEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-03-01</dbpedia-owl:activeYearsEndDate>
-    <dbpprop:order rdf:resource="http://dbpedia.org/resource/Home_Secretary"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Journalist110224578"/>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Winston_Churchill?oldid=495305854"/>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ウィンストン・チャーチル"/>
-    <rdfs:comment xml:lang="hu">Sir Winston Leonard Spencer Churchill brit politikus, miniszterelnök 1940–1945 és 1951–1955 között. Kiemelkedő képességű államférfi, szónok és stratéga, a brit hadsereg tisztje. Élete egyedülálló számú és mélységű kutatás tárgya a brit és világtörténelemben betöltött szerepe miatt. Rendkívül termékeny író, történelmi tárgyú írásainak elismeréseként az irodalmi Nobel-díj birtokosa (1953).</rdfs:comment>
-    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</dbpprop:termStart>
-    <dbpprop:order rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_Business,_Innovation_and_Skills"/>
-    <dbpprop:spouse rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-12</dbpprop:spouse>
-    <rdfs:comment xml:lang="pt">Sir Winston Leonard Spencer-Churchill foi um político conservador e estadista britânico, famoso principalmente por sua atuação como primeiro-ministro do Reino Unido durante a Segunda Guerra Mundial. Ele foi primeiro-ministro por duas vezes (1940-45 e 1951-55). Orador e estadista notável, ele também foi Oficial no Exército Britânico, historiador, escritor e artista.</rdfs:comment>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1959</dbpprop:years>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1874-11-30</dbpedia-owl:birthDate>
-    <dbpedia-owl:militaryRank rdf:resource="http://dbpedia.org/resource/Lieutenant_colonel_(United_Kingdom)"/>
     <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Reginald_McKenna"/>
-    <dbpprop:lccn xml:lang="en">n/78/85430</dbpprop:lccn>
-    <dbpedia-owl:activeYearsEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1929-06-04</dbpedia-owl:activeYearsEndDate>
-    <dbpprop:profession xml:lang="en">Member of Parliament, statesman, soldier, journalist, historian, author, painter</dbpprop:profession>
-    <dbpprop:order xml:lang="en">Member of Parliament</dbpprop:order>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Croix_de_Guerre_(Belgium)"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Croix_de_Guerre_(France)"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painter110391653"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.mises.org/story/1450"/>
-    <dbpprop:signature xml:lang="en">Sir Winston Churchill signature.svg</dbpprop:signature>
-    <dbpprop:order xml:lang="en">for Oldham</dbpprop:order>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1965-01-24</dbpprop:deathDate>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishNobelLaureates"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1924%E2%80%931929"/>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Sydney_Buxton,_1st_Earl_Buxton"/>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Minister_of_Munitions"/>
-    <rdfs:comment xml:lang="en">Sir Winston Leonard Spencer-Churchill, KG, OM, CH, TD, PC, DL, FRS, Hon. RA (30 November 1874 – 24 January 1965) was a British Conservative politician and statesman known for his leadership of the United Kingdom during the Second World War. Widely regarded as one of the greatest wartime leaders of the century, he served as Prime Minister twice. A noted statesman and orator, Churchill was also an officer in the British Army, a historian, a writer, and an artist.</rdfs:comment>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1919</dbpprop:years>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/documents/cab_195_4_transcript.pdf"/>
-    <dbpprop:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dbpprop:rows>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
-    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1914</dbpprop:years>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Winston_Churchill"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PrimeMinistersOfTheUnitedKingdom"/>
-    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">29</dbpprop:termStart>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_Nobel_laureates"/>
-    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</dbpprop:termStart>
-    <dbpedia-owl:abstract xml:lang="it">Conosciuto principalmente per aver guidato la Gran Bretagna durante la seconda guerra mondiale, è stato primo ministro del Regno Unito dal 1940 al 1945 e successivamente dal 1951 al 1955. Noto statista, oratore e stratega, Churchill fu inoltre un ufficiale dell'esercito britannico. Autore prolifico, vinse il Premio Nobel per la Letteratura nel 1953 per i suoi scritti storici. Durante la sua carriera nell'esercito, Churchill combatté con il corpo di spedizione chiamato Malakand Field Force nella battaglia di Omdurman in Sudan e durante la seconda guerra boera in Sudafrica. In questo periodo riuscì inoltre a raggiungere la fama come corrispondente di guerra. Sulla scena politica per quasi sessant'anni, ricoprì numerose cariche politiche e di governo. Nei primi anni del Novecento, durante i governi liberali, fu a capo del Ministero per il commercio e l'industria (Board of Trade) e Segretario di Stato per gli Affari interni (Home Secretary). Durante la prima guerra mondiale fu Primo Lord dell'Ammiragliato e Ministro delle Munizioni (il ministero che sovrintendeva alla produzione bellica). Combatté anche con l'esercito sul fronte occidentale e comandò il 6th Battalion of the Royal Scots Fusiliers. Nel periodo tra le due guerre fu Ministro della Guerra e del'Aviazione, Ministro delle Colonie e Cancelliere dello Scacchiere (il Ministro delle Finanze britannico). Con lo scoppio della seconda guerra mondiale, Churchill fu nominato Primo Lord dell'Ammiragliato. Successivamente in seguito alle dimissioni di Neville Chamberlain il 10 maggio 1940, divenne Primo Ministro del Regno Unito e guidò la Gran Bretagna alla vittoria contro le Potenze dell'Asse. I suoi discorsi furono di grande ispirazione alle forze alleate impegnate in combattimento. Dopo la sconfitta alle elezioni del 1945, Churchill divenne leader dell'opposizione. Nel 1951 divenne nuovamente Primo Ministro fino al ritiro definitivo dalla scena politica nel 1955. Alla sua morte la Regina gli concesse gli onori del funerale di stato, al quale parteciparono un gran numero di statisti.</dbpedia-owl:abstract>
-    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</dbpprop:termEnd>
-    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</dbpprop:termStart>
-    <dbpprop:title xml:lang="en">Member of Parliament for Dundee</dbpprop:title>
-    <dbpprop:alternativeNames xml:lang="en">Sir Winston Leonard Spencer Churchill, The Rt Hon. Sir Winston Churchill</dbpprop:alternativeNames>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1945</dbpprop:years>
+    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/David_Lloyd_George"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-chancellor-noun-1"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_prisoners_of_war"/>
+    <dbpprop:monarch rdf:resource="http://dbpedia.org/resource/George_VI"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Winston_Churchill"/>
+    <dbpedia-owl:abstract xml:lang="vi">Sir Winston Leonard Spencer-Churchill là một nhà chính trị người Anh, nổi tiếng nhất với cương vị Thủ tướng Anh trong thời Thế chiến thứ hai. Ông từng là một người lính, nhà báo, tác giả, họa sĩ và chính trị gia. Churchill, nói chung, được coi là một trong những nhà lãnh đạo quan trọng nhất trong lịch sử Anh và lịch sử thế giới. Ông là Thủ tướng Anh duy nhất nhận giải Nobel Văn học và là người đầu tiên được công nhận là Công dân danh dự Hoa Kỳ Ông đã được tặng thưởng nhiều danh hiệu cao quí như Huân chương Garter, Huân chương Công lao, Huân chương Companions of Honour, Huân chương Quân địa phương và Viện sĩ Hội Hoàng gia và là hội viên Hội đồng cơ mật Nữ hoàng Canada. Họ chính thức của Churchill là Spencer-Churchill (ông có quan hệ với gia đình Spencer), nhưng bắt đầu từ cha ông, Sir Randolph Churchill, nhánh gia đình ông luôn chỉ sử dụng tên Churchill trước công chúng.</dbpedia-owl:abstract>
+    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dbpprop:termEnd>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Rectors_of_the_University_of_Aberdeen"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Lords_of_the_Admiralty"/>
+    <dbpedia-owl:militaryRank rdf:resource="http://dbpedia.org/resource/Lieutenant_colonel_(United_Kingdom)"/>
+    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Harold_Alexander,_1st_Earl_Alexander_of_Tunis"/>
+    <dbpprop:selibr rdf:datatype="http://www.w3.org/2001/XMLSchema#int">181701</dbpprop:selibr>
+    <foaf:name xml:lang="en">Sir Winston Churchill</foaf:name>
+    <dbpedia-owl:deputy rdf:resource="http://dbpedia.org/resource/Anthony_Eden"/>
+    <dbpedia-owl:abstract xml:lang="sv">Sir Winston Leonard Spencer-Churchill, född 30 november 1874 på Blenheim Palace, död 24 januari 1965 i London, var en brittisk politiker, författare och officer. Han var brittisk premiärminister 1940-1945 och 1951-1955; dessutom erhöll han Nobelpriset i litteratur 1953. Churchill blev även amerikansk hedersmedborgare 1963. Churchill inledde sin karriär som officer och krigskorrespondent. Han var därefter ledamot i underhuset 1900-1922 och 1924-1964 där han representerade det Konservativa partiet, med undantag för perioden 1904-1922 då han var medlem i det Liberala partiet. Han var handelsminister 1908-1910, inrikesminister 1910–1911, marinminister 1911–1915 samt 1939-1940, minister för krigsmateriel 1917-1919, krigsminister 1919–1921, kolonialminister 1921–1922, utsågs till Chancellor of the Exchequer 1924, och till premiärminister 1940-1945 samt 1951-1955. Churchill var son till den konservative politikern lord Randolph Churchill, som bland annat innehade posten som brittisk finansminister, och amerikanskan Jennie Jerome Churchill. Han blev bland annat far till Randolph Churchill (1911–1968). Särskilt under krigsåren blev Winston Churchill känd för sina tal. Bland de många kända citaten finns: Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning. ("Det här är inte slutet. Det är inte ens början på slutet. Men det är, kanske, slutet på början"). Citatet återspeglar Churchills bedömning av krigssituationen efter det avgörande slaget vid El Alamein. I en omröstning, arrangerad av det brittiska TV-bolaget BBC, framröstades Churchill år 2002, i konkurrens med bland andra Newton och Shakespeare, till "tidernas främste britt".</dbpedia-owl:abstract>
+    <dbpprop:successor xml:lang="en">Anthony Eden</dbpprop:successor>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1929%E2%80%931931"/>
+    <rdfs:comment xml:lang="fi">Sir Winston Leonard Spencer Churchill oli brittiläinen poliitikko ja Yhdistyneen kuningaskunnan pääministeri vuosina 1940–1945 ja 1951–1956. Churchill tunnetaan parhaiten roolistaan pääministerinä toisessa maailmansodassa, mutta hän oli myös buurisotaan osallistunut ammattisotilas ja 1953 Nobelin kirjallisuuspalkinnolla palkittu kirjailija.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Nobel_laureates_in_Literature"/>
+    <dbpprop:deputy rdf:resource="http://dbpedia.org/resource/Anthony_Eden"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CompanionsOfTheLiberation"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30</dbpprop:dateOfBirth>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Rector_of_the_University_of_Edinburgh"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Order_of_the_Companions_of_Honour"/>
+    <dbpedia-owl:orderInOffice xml:lang="en">Leader of the Conservative Party</dbpedia-owl:orderInOffice>
+    <dbpprop:primeminister xml:lang="en">Herbert Henry Asquith</dbpprop:primeminister>
+    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Walter_Runciman,_1st_Viscount_Runciman_of_Doxford"/>
+    <dbpprop:placeOfDeath xml:lang="en">Hyde Park Gate, London, England, United Kingdom</dbpprop:placeOfDeath>
+    <rdfs:label xml:lang="zh">温斯顿·丘吉尔</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/4thQuEEn'sOwnHussarsOfficers"/>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_the_Colonies"/>
+    <dbpprop:deathPlace rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</dbpprop:deathPlace>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.winstonchurchill.org/"/>
+    <dbpprop:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dbpprop:rows>
+    <dbpprop:branch xml:lang="en">British Army</dbpprop:branch>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1914</dbpprop:years>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1918%E2%80%931922"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:4th_Queen's_Own_Hussars_officers"/>
+    <dbpedia-owl:abstract xml:lang="fi">Sir Winston Leonard Spencer Churchill oli brittiläinen poliitikko ja Yhdistyneen kuningaskunnan pääministeri vuosina 1940–1945 ja 1951–1956. Churchill tunnetaan parhaiten roolistaan pääministerinä toisessa maailmansodassa, mutta hän oli myös buurisotaan osallistunut ammattisotilas ja 1953 Nobelin kirjallisuuspalkinnolla palkittu kirjailija. Häntä pidetään yhtenä 1900-luvun merkittävimmistä henkilöistä, ja vuonna 2002 Churchill äänestettiin Great Britons -kilpailussa kaikkien aikojen suurimmaksi brittiläiseksi.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_stroke"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPeopleOfAmericanDescent"/>
+    <rdfs:label xml:lang="ca">Winston Churchill</rdfs:label>
+    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden"/>
+    <dbpedia-owl:abstract xml:lang="de">Sir Winston Leonard Spencer-Churchill gilt als bedeutendster britischer Staatsmann des 20. Jahrhunderts. Er war zweimal Premierminister und führte Großbritannien durch den Zweiten Weltkrieg. Zuvor hatte er bereits mehrere Regierungsämter bekleidet, unter anderem das des Ersten Lords der Admiralität, des Innen- und des Finanzministers. Darüber hinaus trat er als Autor politischer und historischer Werke hervor und erhielt 1953 den Nobelpreis für Literatur.</dbpedia-owl:abstract>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Rector_of_the_University_of_Aberdeen"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StrokeSurvivors"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Queen's_Own_Oxfordshire_Hussars_officers"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Winston_Churchill"/>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_Air"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1951%E2%80%931955"/>
+    <dbpprop:order rdf:resource="http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom"/>
+    <dbpedia-owl:abstract xml:lang="hu">Sir Winston Leonard Spencer Churchill brit politikus, miniszterelnök 1940–1945 és 1951–1955 között. Kiemelkedő képességű államférfi, szónok és stratéga, a brit hadsereg tisztje. Élete egyedülálló számú és mélységű kutatás tárgya a brit és világtörténelemben betöltött szerepe miatt. Rendkívül termékeny író, történelmi tárgyú írásainak elismeréseként az irodalmi Nobel-díj birtokosa (1953). Katonai pályafutása során Churchill harcolt a malakandi hadseregben az északnyugati határvidéken, Szudánban az omdurmáni csatában és Dél-Afrikában a második búr háborúban. Ebben az időben komoly ismertségre és hírnévre tett szert helyszíni tudósítóként. A politikai élet élvonalában eltöltött hatvan év során számos politikai és kormányzati pozíciót birtokolt. Az első világháború előtt kereskedelmi, majd belügyminiszterként szolgált liberális kormányokban. A háború idején több minisztériumot is irányított, így az Admiralitás Első Lordja, hadfelszerelési miniszter, hadügyminiszter és légügyi miniszter is volt. Rövid ideig katonaként is szolgált a nyugati fronton, ahol a Királyi Skót Lövészek 6. zászlóalját vezette. A két világháború között pénzügyminiszteri tisztséget viselt. A második világháború kitörése után Churchillt ismét kinevezték az Admiralitás Első Lordjává. Neville Chamberlain lemondását követően, 1940 májusában az Egyesült Királyság miniszterelnöke lett, és ő vezette a tengelyhatalmak legyőzésére irányuló brit erőfeszítéseket. Beszédei óriási mozgósító erőt jelentettek a szövetséges erők és a brit lakosság számára egyaránt. 1945-ben, az elvesztett általános választások után az ellenzék vezére lett. 1951-ben ismét miniszterelnök lett, majd 1955-ben végleg visszavonult. Halála után állami temetésben részesült, amelyen rendkívül nagy számban vettek részt a világ vezető politikusai.</dbpedia-owl:abstract>
+    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
+    <dbpprop:title xml:lang="en">Member of Parliament for Woodford</dbpprop:title>
+    <dc:description xml:lang="en">English statesman and author, best known as Prime Minister of the United Kingdom</dc:description>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_United_Kingdom_Parliament_for_English_constituencies"/>
+    <rdfs:comment xml:lang="de">Sir Winston Leonard Spencer-Churchill gilt als bedeutendster britischer Staatsmann des 20. Jahrhunderts. Er war zweimal Premierminister und führte Großbritannien durch den Zweiten Weltkrieg. Zuvor hatte er bereits mehrere Regierungsämter bekleidet, unter anderem das des Ersten Lords der Admiralität, des Innen- und des Finanzministers. Darüber hinaus trat er als Autor politischer und historischer Werke hervor und erhielt 1953 den Nobelpreis für Literatur.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_personnel_of_the_Mahdist_War"/>
+    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</dbpprop:termStart>
+    <dbpprop:order xml:lang="en">for Oldham</dbpprop:order>
+    <dbpedia-owl:activeYearsEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1910-02-14</dbpedia-owl:activeYearsEndDate>
+    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
+    <dbpedia-owl:militaryBranch rdf:resource="http://dbpedia.org/resource/British_Army"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1919</dbpprop:years>
+    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</dbpprop:termStart>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1874-11-30</dbpedia-owl:birthDate>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RectorsOfTheUniversityOfAberdeen"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/documents/cab_195_3_transcript.pdf"/>
+    <dbpedia-owl:serviceStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1895-01-01T00:00:00+02:00</dbpedia-owl:serviceStartYear>
+    <rdfs:comment xml:lang="nl">Sir Winston Leonard Spencer-Churchill was de Britse staatsman die als premier van 1940 tot 1945 Hitler weerstond en daarmee een beslissende rol in diens ondergang en de geallieerde overwinning heeft gespeeld. Het lukte hem de Britse oorlogsinspanning op peil te krijgen en de VS daarbij tot steun te bewegen. Geen enkele Britse premier is ooit zo populair geweest als Churchill. Churchill was een van de bekendste staatslieden van de 20e eeuw.</rdfs:comment>
+    <dbpedia-owl:activeYearsEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-03-01</dbpedia-owl:activeYearsEndDate>
+    <dbpprop:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">245</dbpprop:imagesize>
+    <dbpedia-owl:abstract xml:lang="es">Sir Winston Leonard Spencer-Churchill, KG, OM, CH, TD, FRS, PC fue un político y hombre de estado británico, conocido por su liderazgo del Reino Unido durante la Segunda Guerra Mundial. Es considerado uno de los grandes líderes de tiempos de guerra y fue Primer Ministro del Reino Unido en dos períodos (1940-45 y 1951-55). Notable hombre de estado y orador, Churchill fue también oficial del Ejército Británico, historiador, escritor y artista. Hasta la fecha, él es el único que ha sido galardonado con el Premio Nobel de Literatura, y fue nombrado ciudadano honorario de los Estados Unidos de América. Churchill nació en el seno de la familia aristocrática de los Duques de Marlborough. Su padre, Lord Randolph Churchill, fue un político carismático y Ministro de Hacienda del Reino Unido; su madre, Jenny Jerome, era de origen estadounidense. Como un joven oficial del ejército, entró en acción en la India Británica, Sudán y en la Segunda Guerra de los Bóeres. Se ganó fama como corresponsal de guerra y con los libros que escribió sobre sus campañas. En la primera línea política durante 50 años, ocupó numerosos cargos políticos y de gabinete. Antes de la Primera Guerra Mundial fue Presidente de la Secretaría de Estado de Comercio, Ministro de Interior y Primer Lord del Almirantazgo como parte del gobierno liberal de H. H. Asquith. Durante la guerra continuó como Primer Lord del Almirantazgo hasta la desastrosa Batalla de Galípoli, que él había patrocinado y que fue el motivo de su salida del gobierno. Después sirvió brevemente en el frente occidental como comandante del 6º Batallón de los Fusileros Reales Escoceses. Regresó al gobierno como Ministro de Municiones, Secretario de Estado de Guerra y Secretario de Estado del Aire. Tras el conflicto mundial Churchill ocupó el cargo de Ministro de Hacienda en el gobierno conservador de Stanley Baldwin entre 1924-29, donde tomó la controvertida decisión de devolver la libra esterlina en 1925 al patrón oro como en la paridad anterior a la guerra, una medida vista ampliamente como la creación de una presión deflacionaria sobre la economía del Reino Unido. También polémicas fueron la oposición de Churchill al incremento de la autonomía de la India y su resistencia a la abdicación de Eduardo VIII en 1936. Fuera del escenario político en los años 30, Churchill tomó el liderazgo en alertar sobre el peligro de Adolf Hitler y en la campaña para el rearme. Al estallido de la Segunda Guerra Mundial fue nombrado de nuevo Primer Lord del Almirantazgo, y tras la dimisión de Neville Chamberlain el 10 de mayo de 1940 se convirtió en Primer Ministro. Su firme negativa a aceptar la derrota, la rendición o un acuerdo de paz ayudó a inspirar la resistencia británica, especialmente durante los difíciles primeros años de la guerra, cuando el Reino Unido se quedó solo en su firme oposición a la Alemania Nazi. Churchill destacó especialmente por sus discursos y programas de radio que ayudaron a inspirar al pueblo británico, al que lideró como Primer Ministro hasta que fue segura la victoria de los Aliados sobre las Potencias del Eje. Después de que el partido conservador perdiera las elecciones generales de 1945, Churchill lideró la oposición. En 1951 consiguió volver a ser Primer Ministro, hasta su retiro en 1955. A su muerte en 1965, la reina Isabel II le concedió el honor de un funeral de estado en el que se dio una de las mayores reuniones de jefes de estado nunca antes vista. Churchill es unánimemente recordado como uno de los hombres más influyentes en la historia británica.</dbpedia-owl:abstract>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Hyde_Park_Gate"/>
+    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">14</dbpprop:termEnd>
+    <dbpedia-owl:birthName xml:lang="en">Winston Leonard Spencer-Churchill</dbpedia-owl:birthName>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:S-bef"/>
+    <dbpedia-owl:orderInOffice xml:lang="en">President of the Board of Trade</dbpedia-owl:orderInOffice>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Edwardian_era"/>
+    <rdfs:comment xml:lang="ru">Черчилль, Уинстон style="background: transparent" |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение ||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Кавалер Большого креста ордена Лепольда I||Ошибка: неверное или отсутствующее изображение||Кавалер ордена Слона |- |Кавалер французского ордена Освобождения || Военная медаль (Франция) || Военный крест 1939—1945 (Франция) |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Бельгийский Военный крест 1940||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |||Крест Свободы 1 класса |} |Commons = Winston Churchill }} Сэр Уи́нстон Леона́рд Спе́нсер-Че́рчилль — британский государственный и политический деятель, премьер-министр Великобритании в 1940—1945 и 1951—1955 годах; военный, журналист, писатель, почётный член Британской академии (1952), лауреат Нобелевской премии по литературе. </rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Liberal_Party_(UK)_MPs"/>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/British_Empire"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Woodstock,_Oxfordshire"/>
+    <dbpprop:placeOfBirth xml:lang="en">Blenheim Palace, Woodstock, Oxfordshire, England, United Kingdom</dbpprop:placeOfBirth>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_War"/>
+    <dbpprop:title xml:lang="en">Member of Parliament for Dundee</dbpprop:title>
+    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dbpprop:termStart>
+    <rdfs:comment xml:lang="cs">Sir Winston Leonard Spencer-Churchill byl britský politik, premiér Spojeného království v letech 1940–1945 a 1951–1955. Také spisovatel, historik, žurnalista, voják a zákonodárce. Je považován za jednoho z nejvýznamnějších státníků 20. století. Churchillovo celé jméno znělo Winston Leonardo Spencer-Churchill, ale po vzoru svého otce lorda Randolph Churchilla ve veřejném životě užíval jen příjmení Churchill. Jeho knihy vycházejí pod jménem Winston S.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Secretaries_of_State_for_War_(UK)"/>
+    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24</dbpprop:termEnd>
+    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-10-28</dbpedia-owl:activeYearsStartDate>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Harrow_School"/>
+    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-07-26</dbpedia-owl:activeYearsStartDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NobelLaureatesInLiterature"/>
+    <dbpedia-owl:monarch rdf:resource="http://dbpedia.org/resource/George_VI"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromWoodstock,Oxfordshire"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter"/>
+    <rdfs:comment xml:lang="sv">Sir Winston Leonard Spencer-Churchill, född 30 november 1874 på Blenheim Palace, död 24 januari 1965 i London, var en brittisk politiker, författare och officer. Han var brittisk premiärminister 1940-1945 och 1951-1955; dessutom erhöll han Nobelpriset i litteratur 1953. Churchill blev även amerikansk hedersmedborgare 1963. Churchill inledde sin karriär som officer och krigskorrespondent.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.mises.org/story/1450"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1910%E2%80%931918"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_Nobel_laureates"/>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Records_of_members_of_parliament_of_the_United_Kingdom"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Journalist110224578"/>
+    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</dbpprop:termEnd>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Rectors_of_the_University_of_Edinburgh"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Woodstock,_Oxfordshire"/>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Minister_of_Munitions"/>
+    <dbpedia-owl:abstract xml:lang="ja">サー・ウィンストン・レナード・スペンサー＝チャーチル（Sir Winston Leonard Spencer-Churchill, 1874年11月30日 - 1965年1月24日）はイギリスの政治家。1940年から1945年にかけてイギリス戦時内閣の首相としてイギリス国民を指導し、第二次世界大戦を勝利に導く。大戦終結後に再び首相となる。コマンド部隊創設者。 彼の家名（ファミリーネーム）は単に「チャーチル」と呼ばれることが圧倒的に多いが、正式には「スペンサー＝チャーチル」という複合姓（二重姓）である。フランクリン・ルーズベルト、ダグラス・マッカーサーとは遠戚関係にある。 2002年、BBCが行った「偉大な英国人」投票で第1位となった。</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Scots_Fusiliers_officers"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24</dbpprop:dateOfDeath>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Lords_Warden_of_the_Cinque_Ports"/>
+    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</dbpprop:termStart>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Companions_of_the_Liberation"/>
+    <dbpprop:title xml:lang="en">Member of Parliament for Manchester North West</dbpprop:title>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_St._George's_School,_Ascot"/>
+    <dbpedia-owl:activeYearsEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-07-26</dbpedia-owl:activeYearsEndDate>
+    <rdfs:comment xml:lang="ja">サー・ウィンストン・レナード・スペンサー＝チャーチル（Sir Winston Leonard Spencer-Churchill, 1874年11月30日 - 1965年1月24日）はイギリスの政治家。1940年から1945年にかけてイギリス戦時内閣の首相としてイギリス国民を指導し、第二次世界大戦を勝利に導く。大戦終結後に再び首相となる。コマンド部隊創設者。 彼の家名（ファミリーネーム）は単に「チャーチル」と呼ばれることが圧倒的に多いが、正式には「スペンサー＝チャーチル」という複合姓（二重姓）である。フランクリン・ルーズベルト、ダグラス・マッカーサーとは遠戚関係にある。 2002年、BBCが行った「偉大な英国人」投票で第1位となった。</rdfs:comment>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SecretariesOfStateForAir(UK)"/>
+    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</dbpprop:termEnd>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Critics_of_Islam"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Elephant"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/RectorsOfTheUniversityOfEdinburgh"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.churchillmemorial.org/"/>
+    <dbpprop:id rdf:datatype="http://www.w3.org/2001/XMLSchema#int">879</dbpprop:id>
+    <dbpedia-owl:abstract xml:lang="pt">Sir Winston Leonard Spencer-Churchill foi um político conservador e estadista britânico, famoso principalmente por sua atuação como primeiro-ministro do Reino Unido durante a Segunda Guerra Mundial. Ele foi primeiro-ministro por duas vezes (1940-45 e 1951-55). Orador e estadista notável, ele também foi Oficial no Exército Britânico, historiador, escritor e artista. Ele é o único primeiro-ministro britânico a ter recebido o Prêmio Nobel de Literatura e o primeiro Cidadão Honorário dos Estados Unidos. Durante sua carreira no exército, Churchill pôde assistir à ação militar na Índia britânica, no Sudão e na Segunda Guerra dos Bôeres. Ganhou fama e notoriedade como correspondente de guerra através dos livros que ele escreveu descrevendo as campanhas militares. Ele serviu brevemente no Exército britânico no Fronte Ocidental durante a Primeira Guerra Mundial comandando o 6º Batalhão dos Fuzileiros Reais Escoceses. Churchill nasceu em uma família aristocrata, da família do Duque de Marlborough. Seu pai, Lorde Randolph Churchill, foi um carismático político, tendo servido como Ministro da Fazenda. Antes de alcançar o cargo de Primeiro Ministro, Churchill esteve em cargos proeminentes na política do Reino Unido por quatro décadas. Notavelmente sua eleição para o parlamento em 1900; sua acensão a Secretário para os Assuntos Internos em 1910; e sua estadia no Ministério da Fazenda entre 1924 e 1929.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Order_of_the_Oak_Crown_recipients"/>
+    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Anthony_Eden"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1917</dbpprop:years>
+    <dbpprop:order xml:lang="en">for Epping</dbpprop:order>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1951</dbpprop:years>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Winston_Churchill"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LeadersOfTheHouseOfCommons"/>
+    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1924-11-06</dbpedia-owl:activeYearsStartDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LeadersOfTheOpposition(UnitedKingdom)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SecretariesOfStateForWar(UK)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Leopold_(Belgium)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ColdWarLeaders"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1959%E2%80%931964"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Queen's_Privy_Council_for_Canada"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Soldier110622053"/>
+    <dbpprop:profession xml:lang="en">Member of Parliament, statesman, soldier, journalist, historian, author, painter</dbpprop:profession>
+    <dbpprop:years xml:lang="en">February 1964 – October 1964</dbpprop:years>
+    <dbpprop:spouse rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-12</dbpprop:spouse>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldWarIIPoliticalLeaders"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Congressional_Gold_Medal_recipients"/>
+    <dbpedia-owl:orderInOffice xml:lang="en">Leader of the Opposition</dbpedia-owl:orderInOffice>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Patrick_Jenkin,_Baron_Jenkin_of_Roding"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1874-11-30</dbpprop:birthDate>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ウィンストン・チャーチル"/>
+    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Stanley_Baldwin"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Prime_Ministers_of_the_United_Kingdom"/>
+    <dbpprop:order rdf:resource="http://dbpedia.org/resource/Leaders_of_the_Conservative_Party"/>
+    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Royal_Military_Academy_Sandhurst"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.earthstation1.com/churchil.html"/>
+    <rdfs:label xml:lang="vi">Winston Churchill</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SandhurstGraduAtes"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.utstat.utoronto.ca/sharp/Churchill.htm"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Winston_Churchill"/>
+    <dbpedia-owl:activeYearsEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1929-06-04</dbpedia-owl:activeYearsEndDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleOfTheVictorianEra"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:S-ttl"/>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_Business,_Innovation_and_Skills"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1874_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpprop:order rdf:resource="http://dbpedia.org/resource/Chancellor_of_the_Exchequer"/>
+    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
+    <rdfs:label xml:lang="en">Winston Churchill</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Privy_Council_of_the_United_Kingdom"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Leaders_of_the_Opposition_(United_Kingdom)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_King_Christian_X's_Liberty_Medal"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_Exchequer_of_the_United_Kingdom"/>
+    <dbpprop:birthname xml:lang="en">Winston Leonard Spencer-Churchill</dbpprop:birthname>
+    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Leah_Manning"/>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Leader_of_the_Opposition_(United_Kingdom)"/>
+    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1910-02-19</dbpedia-owl:activeYearsStartDate>
+    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Anthony_Eden"/>
+    <dbpedia-owl:abstract xml:lang="ru">Черчилль, Уинстон style="background: transparent" |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение ||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Кавалер Большого креста ордена Лепольда I||Ошибка: неверное или отсутствующее изображение||Кавалер ордена Слона |- |Кавалер французского ордена Освобождения || Военная медаль (Франция) || Военный крест 1939—1945 (Франция) |- |Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |Бельгийский Военный крест 1940||Ошибка: неверное или отсутствующее изображение||Ошибка: неверное или отсутствующее изображение |- |||Крест Свободы 1 класса |} |Commons = Winston Churchill }} Сэр Уи́нстон Леона́рд Спе́нсер-Че́рчилль — британский государственный и политический деятель, премьер-министр Великобритании в 1940—1945 и 1951—1955 годах; военный, журналист, писатель, почётный член Британской академии (1952), лауреат Нобелевской премии по литературе. По данным опроса, проведённого в 2002 году вещательной компанией Би-би-си, был назван величайшим британцем в истории.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="it">Conosciuto principalmente per aver guidato la Gran Bretagna durante la seconda guerra mondiale, è stato primo ministro del Regno Unito dal 1940 al 1945 e successivamente dal 1951 al 1955. Noto statista, oratore e stratega, Churchill fu inoltre un ufficiale dell'esercito britannico. Autore prolifico, vinse il Premio Nobel per la Letteratura nel 1953 per i suoi scritti storici.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Winston_Churchill"/>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Home_Secretary"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.chu.cam.ac.uk/archives/churchill_papers/biography/churchill_chronology.php"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_M%C3%A9daille_Militaire"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/QuEEn'sOwnOxfordshireHussarsOfficers"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/W._Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Lennox-Boyd,_1st_Viscount_Boyd_of_Merton">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Story_of_the_Malakand_Field_Force">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marigold_Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Morin">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Anderson,_1st_Viscount_Waverley">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Inskip,_1st_Viscount_Caldecote">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_Robertson,_1st_Baron_Lochee">
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Settling_Accounts">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Dalton">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Prime_Minister_Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Finest_Hours">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/WSC">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Grenfell">
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchill,_Winston">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Spencer_Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Nobel_laureates_by_university_affiliation">
-    <dbpprop:t rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/J._E._B._Seely,_1st_Baron_Mottistone">
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Marquis,_1st_Earl_of_Woolton">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernle_Chatfield,_1st_Baron_Chatfield__Minister_for_Coordination_of_Defence__1">
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Macmillan">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colonel_Warden">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/No._615_Squadron_RAF">
-    <dbpedia-owl:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_W._Moore">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Leonard_Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Weetman_Pearson,_1st_Viscount_Cowdray">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Winston_Churchill_Range">
-    <dbpprop:etymology rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Americans_in_the_United_Kingdom">
-    <dbpprop:caption rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Churchhill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Lyttelton,_1st_Viscount_Chandos">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_Manningham-Buller,_1st_Viscount_Dilhorne">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Hope,_2nd_Marquess_of_Linlithgow">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Crookshank,_1st_Viscount_Crookshank">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Haldane,_1st_Viscount_Haldane">
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Oldham_by-election,_1899">
-    <dbpprop:nominee rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingsley_Wood">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/WINSTON_CHURCHILL">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Winston_Churchill_(schooner)">
-    <dbpprop:shipNamesake rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Logan_(politician)">
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Thomas,_1st_Viscount_Cilcennin">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Winston_Leonard_Spencer_Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Weir,_1st_Baron_Inverforth">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Manchester_North_West_(UK_Parliament_constituency)">
-    <dbpprop:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_John_Gilmour,_2nd_Baronet">
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_S._Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clarissa_Eden,_Countess_of_Avon">
-    <dbpedia-owl:relation rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:relations rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonard_Jerome">
-    <dbpedia-owl:relative rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Lloyd_George">
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen's_Own_Oxfordshire_Hussars">
-    <dbpprop:colonelOfTheRegiment rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/E._F._L._Wood,_1st_Earl_of_Halifax">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Westminster_Abbey_by-election,_1924">
-    <dbpprop:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Boyd-Carpenter,_Baron_Boyd-Carpenter">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom_general_election,_1951">
-    <dbpedia-owl:firstLeader rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:afterElection rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:leader rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Winston_Churchill">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonard_Lyle,_1st_Baron_Lyle_of_Westbourne">
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden">
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Glowworm">
-    <dbpprop:source rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Somerset,_10th_Duke_of_Beaufort">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leo_Amery">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Cavendish,_9th_Duke_of_Devonshire">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_River_War">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwin_Scrymgeour">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Winston_Leonard_Spencer-Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Addison,_1st_Viscount_Addison">
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Somervell,_Baron_Somervell_of_Harrow">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Gathering_Storm_(1974_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_McKenna">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Warrender,_1st_Baron_Bruntisfield">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Simon,_1st_Viscount_Simon">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/P._J._Grigg">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Leonard_Spencer">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Gazette">
-    <dbpprop:editor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:editor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Cunliffe-Lister,_1st_Earl_of_Swinton">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Churchill_(grandson)">
-    <dbpedia-owl:relation rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Archibald_Sinclair,_1st_Viscount_Thurso">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Brendan_Bracken,_1st_Viscount_Bracken">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_Eden">
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Guinness,_1st_Baron_Moyne">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Randolph_Churchill">
-    <dbpprop:children rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:child rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom_general_election,_1950">
-    <dbpedia-owl:secondLeader rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:leader rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchillian">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rab_Butler">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Focus">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tehran_Conference">
-    <dbpprop:participants rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Gladstone,_1st_Viscount_Gladstone">
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Gascoyne-Cecil,_5th_Marquess_of_Salisbury">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_churchhill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Jagger">
-    <dbpprop:works rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Osbert_Peake,_1st_Viscount_Ingleby">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Rae_Duncan">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbrand_Sackville,_9th_Earl_De_La_Warr">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Alexander,_1st_Earl_Alexander_of_Tunis">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clementine_Churchill,_Baroness_Spencer-Churchill">
-    <dbpedia-owl:child rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:children rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arcot_Ramasamy_Mudaliar">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tango_(cat)">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Freeman_Freeman-Thomas,_1st_Marquess_of_Willingdon">
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Stafford_Cripps">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Margesson,_1st_Viscount_Margesson">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gavin_Simonds,_1st_Viscount_Simonds">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Duff_Cooper">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marigold_Frances_Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Live_After_Death">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leah_Manning">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Runciman,_1st_Viscount_Runciman_of_Doxford">
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.nytimes.com/N39589975027631193403">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Leonard_Spencer_Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom_general_election,_1945">
-    <dbpedia-owl:secondLeader rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:leader rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:beforeElection rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen's_Royal_Irish_Hussars">
-    <dbpprop:ceremonialChief rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Neville_Chamberlain">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_Head,_1st_Viscount_Head">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Samuel,_1st_Viscount_Samuel">
-    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Sidney,_1st_Viscount_De_L'Isle">
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Spencer-Churchill,_9th_Duke_of_Marlborough">
-    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gwilym_Lloyd_George,_1st_Viscount_Tenby">
-    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-    <dbpprop:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Leonard_Spencer-Churchill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Old_Man_and_the_Sea">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/KentuCkyColonels"/>
+    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/H._H._Asquith"/>
+    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Neville_Chamberlain"/>
+    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Lords_Commissioners_of_the_Admiralty"/>
+    <rdfs:comment xml:lang="uk">Ві́нстон Че́рчилль — державний діяч Великої Британії, письменник, найбільше відомий як прем'єр-міністр цієї країни у роки Другої світової війни. Нобелівська премія в галузі літератури 1953 року.</rdfs:comment>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Under-Secretary_of_State_for_the_Colonies"/>
+    <dbpprop:name xml:lang="en">Winston Churchill</dbpprop:name>
+    <dbpedia-owl:abstract xml:lang="ca">Sir Winston Leonard Spencer-Churchill va ser un polític britànic conegut pel seu lideratge del Regne Unit durant la Segona Guerra Mundial. Va servir com a Primer Ministre del Regne Unit de 1940 al 1945 i de nou de 1951 a 1955. Va ser un destacat home d'estat amb una notable oratòria, també va ser oficial a l'Exèrcit Britànic, historiador, escriptor (és l'únic Primer Ministre guardonat amb el Premi Nobel de Literatura el 1953) i artista. Va ser la segona persona en ser nomenada ciutadà Honorífic dels Estats Units. Gaudí dels següents honors orde de la Lligacama, orde del Mèrit, orde dels Companys d'Honor, Condecoració Territorial, Royal Society, Consell Privat del Regne Unit, Consell Privat del Canadà. Descendent del duc de Marlborough i fill de lord Randolph Churchill, després d'estudiar a Harrow ingressà a l'Exèrcit Britànic. Durant la seva carrera militar, entrà en combat a l'Índia, al Sudan i a la Segona Guerra Bòer. Adquirí fama i notorietat com a corresponsal de guerra i pels llibres que va escriure descrivint les campanyes. La popularitat que li atorgaren li permeté de dedicar-se a la política. També va servir breument al Front Occidental de la I Guerra Mundial, comandant el 6è Batalló dels Reials Fusellers Escocesos. Va estar a primera línia de l'escena política durant gairebé 60 anys, servint en diversos càrrecs i formant part del govern. Abans de la Primera Guerra Mundial serví com a secretari de Comerç, Secretari de l'Interior, Sots-Secretari d'Estat per a les Colònies i primer lord de l'Almirallat, formant part del govern liberal d'Asquith. Durant la guerra continuà sent el primer lord de l'Almirallat fins al desastre de Gal·lípoli, que causa la seva sortida del govern. Tornà com a ministre de Munició, secretari d'Estat de la Guerra i secretari d'Estat de l'Aire. Durant els anys d'entre guerres, serví com a canceller de l'Erari al govern conservador d'Stanley Baldwin. Tanmateix, a la dècada dels 30, cauria en desgràcia a causa de l'oposició a la política de tranquil·lització dels governs conservadors i laboristes del moment. L'arribada al poder d'Adolf Hitler a Alemanya augmentà les seves advertències, per bé que durant un temps no va ser més que una veu al desert. Després de l'esclat de la Segona Guerra Mundial, Churchill tornà a ser nomenat primer lord de l'Almirallat. Després de la dimissió de Neville Chamberlain el 10 de maig de 1940, Churchill esdevingué el primer ministre del Regne Unit, portant la Gran Bretanya a la victòria contra les Potències de l'Eix. Churchill sempre va destacar pels seus discursos, radiats a la població, en què els donava ànims per continuar la guerra fins al final. Després de perdre les eleccions de 1945, esdevingué Cap de l'Oposició. El 1951 tornà a ser primer ministre del Regne Unit, per bé que cada cop delegava més tasques en els seus ministres, fins que es retirà finalment el 1955 per motius de salut. En morir, la reina li atorgà l'honor d'un funeral d'estat (honor que durant el segle XX només reberen lord Roberts i ell), que provocà un dels aplecs més gran d'estadistes de tot el món. En un popular concurs televisiu anomenat 100 Greatest Britons, va ser votat com el britànic més important de la història, d'un total de 100 candidats. Curiosament, en una enquesta realitzada el 2008 per UKTV Gold, el 23% dels britànics menors de 20 anys creien que Churchill era un personatge de ficció perquè el consideraven massa talentós per ser real.</dbpedia-owl:abstract>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Leader_of_the_House_of_Commons"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Politician"/>
+    <dbpprop:name xml:lang="en">Sir Winston Churchill</dbpprop:name>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1941</dbpprop:years>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1931%E2%80%931935"/>
+    <dbpprop:successor rdf:resource="http://dbpedia.org/resource/William_Joynson-Hicks,_1st_Viscount_Brentford"/>
+    <dbpprop:religion rdf:resource="http://dbpedia.org/resource/Anglicanism"/>
+    <rdfs:comment xml:lang="fr">Sir Winston Leonard Spencer-Churchill,, né le 30 novembre 1874 et mort le 24 janvier 1965 à Londres, est un homme politique britannique. Surtout connu pour avoir dirigé le Royaume-Uni pendant la Seconde Guerre mondiale, cet homme d'État en est le Premier ministre de 1940 à 1945 et puis de 1951 à 1955. Il a également exercé les activités d'officier dans l'armée britannique, de journaliste, d'historien, d'écrivain lauréat du prix Nobel de littérature et d'artiste.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Winston_Churchill"/>
+    <dbpedia-owl:orderInOffice xml:lang="en">Chancellor of the Exchequer</dbpedia-owl:orderInOffice>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_military_personnel_of_the_Malakand_Frontier_War"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1921</dbpprop:years>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Winston_Churchill"/>
+    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1908-04-12</dbpedia-owl:activeYearsStartDate>
+    <dbpedia-owl:activeYearsEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1955-04-07</dbpedia-owl:activeYearsEndDate>
+    <dbpprop:nationality xml:lang="en">English</dbpprop:nationality>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.savrola.co.uk/bactable.php?sorted=author&amp;category=A"/>
+    <rdfs:label xml:lang="cs">Winston Churchill</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/browse/authors/c#a1601"/>
+    <dbpedia-owl:orderInOffice xml:lang="en">Minister of Defence</dbpedia-owl:orderInOffice>
+    <dbpprop:birthPlace xml:lang="en">England, United Kingdom</dbpprop:birthPlace>
+    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Neville_Chamberlain"/>
+    <dbpprop:order rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_Defence"/>
+    <dbpprop:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:rows>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/documents/cab_195_2_transcript.pdf"/>
+    <dbpprop:citizenship xml:lang="en">British</dbpprop:citizenship>
+    <dbpprop:order xml:lang="en">for Woodford</dbpprop:order>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RoyalScotsFusiliersOfficers"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://historicalpodcasts.googlepages.com/winstonchurchill"/>
+    <dbpprop:order rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_Business,_Innovation_and_Skills"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1945%E2%80%931950"/>
+    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
+    <rdfs:comment xml:lang="ko">윈스턴 레너드 스펜서-처칠 경은 영국의 정치인이며, 총리(1940~45, 1951~55)이다. 다이애나 스펜서는 그의 친척이다. 종교는 성공회(Anglican)이다.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishPrisonersOfWar"/>
+    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24</dbpprop:termStart>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1965_deaths"/>
+    <dbpedia-owl:abstract xml:lang="uk">Ві́нстон Че́рчилль — державний діяч Великої Британії, письменник, найбільше відомий як прем'єр-міністр цієї країни у роки Другої світової війни. Нобелівська премія в галузі літератури 1953 року.</dbpedia-owl:abstract>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Winston_Churchill"/>
+    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dbpprop:termStart>
+    <dbpprop:serviceyears rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1895</dbpprop:serviceyears>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://web.archive.org/web/20070912233119/http:/www.winstonchurchill.org/i4a/pages/index.cfm?pageid=892&amp;textonly=1"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/nra/searches/subjectView.asp?ID=P5659"/>
+    <dbpprop:primeminister xml:lang="en">Himself</dbpprop:primeminister>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SouthAfricanLightHorseOfficers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Harrow_School"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_United_Kingdom_Parliament_for_Dundee_constituencies"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1906</dbpprop:years>
+    <dbpprop:title xml:lang="en">with Alexander Wilkie</dbpprop:title>
+    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Manny_Shinwell,_Baron_Shinwell"/>
+    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-10-26</dbpedia-owl:activeYearsStartDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writer110794014"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Conservative_Party_(UK)_MPs"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_Duchy_of_Lancaster"/>
+    <dbpedia-owl:primeMinister rdf:resource="http://dbpedia.org/resource/Stanley_Baldwin"/>
+    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</dbpprop:termStart>
+    <dbpedia-owl:abstract xml:lang="it">Conosciuto principalmente per aver guidato la Gran Bretagna durante la seconda guerra mondiale, è stato primo ministro del Regno Unito dal 1940 al 1945 e successivamente dal 1951 al 1955. Noto statista, oratore e stratega, Churchill fu inoltre un ufficiale dell'esercito britannico. Autore prolifico, vinse il Premio Nobel per la Letteratura nel 1953 per i suoi scritti storici. Durante la sua carriera nell'esercito, Churchill combatté con il corpo di spedizione chiamato Malakand Field Force nella battaglia di Omdurman in Sudan e durante la seconda guerra boera in Sudafrica. In questo periodo riuscì inoltre a raggiungere la fama come corrispondente di guerra. Sulla scena politica per quasi sessant'anni, ricoprì numerose cariche politiche e di governo. Nei primi anni del Novecento, durante i governi liberali, fu a capo del Ministero per il commercio e l'industria (Board of Trade) e Segretario di Stato per gli Affari interni (Home Secretary). Durante la prima guerra mondiale fu Primo Lord dell'Ammiragliato e Ministro delle Munizioni (il ministero che sovrintendeva alla produzione bellica). Combatté anche con l'esercito sul fronte occidentale e comandò il 6th Battalion of the Royal Scots Fusiliers. Nel periodo tra le due guerre fu Ministro della Guerra e del'Aviazione, Ministro delle Colonie e Cancelliere dello Scacchiere (il Ministro delle Finanze britannico). Con lo scoppio della seconda guerra mondiale, Churchill fu nominato Primo Lord dell'Ammiragliato. Successivamente in seguito alle dimissioni di Neville Chamberlain il 10 maggio 1940, divenne Primo Ministro del Regno Unito e guidò la Gran Bretagna alla vittoria contro le Potenze dell'Asse. I suoi discorsi furono di grande ispirazione alle forze alleate impegnate in combattimento. Dopo la sconfitta alle elezioni del 1945, Churchill divenne leader dell'opposizione. Nel 1951 divenne nuovamente Primo Ministro fino al ritiro definitivo dalla scena politica nel 1955. Alla sua morte la Regina gli concesse gli onori del funerale di stato, al quale parteciparono un gran numero di statisti.</dbpedia-owl:abstract>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</dbpprop:years>
+    <dbpedia-owl:orderInOffice xml:lang="en">Prime Minister of the United Kingdom</dbpedia-owl:orderInOffice>
+    <dbpedia-owl:abstract xml:lang="no">Winston Leonard Spencer Churchill, Order of the Garter, Order of Merit, Order of the Companions of Honour, Territorial Decoration, Fellow of the Royal Society, Queen's Privy Council for Canada, var en engelsk politiker, offiser og forfatter, mest kjent som statsminister i Storbritannia under andre verdenskrig. Churchill var en fremragende taler, og hadde en karriere som offiser, forfatter og politiker. Churchill er regnet som en av de viktigste lederne i moderne tid. Han fikk nobelprisen i litteratur i 1953 for sine bøker om britisk historie og andre verdenskrig.</dbpedia-owl:abstract>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Lord_Warden_of_the_Cinque_Ports"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PrimeMinistersOfTheUnitedKingdom"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1924</dbpprop:years>
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Churchill_Winston_S_Sir_1874-1965"/>
+    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Leonard_Lyle,_1st_Baron_Lyle_of_Westbourne"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/etext/3029"/>
+    <dbpprop:title xml:lang="en">Member of Parliament for Oldham</dbpprop:title>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/KnightsOfTheElephant"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.history.com/topics/winston-churchill"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Historian110177150"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPainters"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Croix_de_Guerre_(France)"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PrimeMinister_HeadOfGovernment"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cardiovascular_disease_deaths_in_England"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/9/9c/Sir_Winston_S_Churchill.jpg"/>
+    <dbpedia-owl:abstract xml:lang="zh">温斯顿·伦纳德·斯宾塞·丘吉尔爵士，（Sir Winston Leonard Spencer Churchill，1874年11月30日－1965年1月24日），英國政治家、演說家、軍事家和作家，曾於1940年至1945年出任英国首相，任期內领導英国在第二次世界大战聯合美國、對抗德國，取得胜利，並自1951年至1955年再度出任英国首相。 邱吉爾被認為是20世紀最重要的政治领袖之一，對英國乃至於世界均影響深遠。此外，他在文学上也有很高的成就，曾於1953年获诺贝尔文学奖。在2002年，BBC舉行了一個名為「最偉大的100名英國人」的調查，結果邱吉爾獲選為有史以來最偉大的英國人。</dbpedia-owl:abstract>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Winston_Churchill?oldid=495305854"/>
+    <dbpprop:title xml:lang="en">Member of Parliament for Epping</dbpprop:title>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Statesman110650162"/>
+    <rdfs:label xml:lang="uk">Вінстон Черчилль</rdfs:label>
+    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</dbpprop:termStart>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26</dbpprop:years>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeorgistPoliticians"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_biographers"/>
+    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dbpprop:termEnd>
+    <rdfs:comment xml:lang="no">Winston Leonard Spencer Churchill, Order of the Garter, Order of Merit, Order of the Companions of Honour, Territorial Decoration, Fellow of the Royal Society, Queen's Privy Council for Canada, var en engelsk politiker, offiser og forfatter, mest kjent som statsminister i Storbritannia under andre verdenskrig. Churchill var en fremragende taler, og hadde en karriere som offiser, forfatter og politiker. Churchill er regnet som en av de viktigste lederne i moderne tid.</rdfs:comment>
+    <dbpprop:deputy xml:lang="en">Clement Attlee</dbpprop:deputy>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Royal_Military_Academy_Sandhurst"/>
+    <dbpprop:predecessor xml:lang="en">Alfred Emmott</dbpprop:predecessor>
+    <dbpprop:lccn xml:lang="en">n/78/85430</dbpprop:lccn>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://vault.fbi.gov/Winston%20Churchill"/>
+    <foaf:givenName xml:lang="en">Winston</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1924%E2%80%931929"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishNobelLaureates"/>
+    <dbpprop:predecessor xml:lang="en">New constituency</dbpprop:predecessor>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Minister_of_Defence_(United_Kingdom)"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
+    <dbpprop:order rdf:resource="http://dbpedia.org/resource/Leader_of_the_Opposition_(United_Kingdom)"/>
+    <rdfs:comment xml:lang="en">Sir Winston Leonard Spencer-Churchill, KG, OM, CH, TD, PC, DL, FRS, Hon. RA (30 November 1874 – 24 January 1965) was a British Conservative politician and statesman known for his leadership of the United Kingdom during the Second World War. Widely regarded as one of the greatest wartime leaders of the century, he served as Prime Minister twice. A noted statesman and orator, Churchill was also an officer in the British Army, a historian, a writer, and an artist.</rdfs:comment>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1939</dbpprop:years>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1911</dbpprop:years>
+    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26</dbpprop:termEnd>
+    <dbpprop:successor xml:lang="en">Clement Attlee</dbpprop:successor>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1"/>
+    <rdfs:comment xml:lang="ca">Sir Winston Leonard Spencer-Churchill va ser un polític britànic conegut pel seu lideratge del Regne Unit durant la Segona Guerra Mundial. Va servir com a Primer Ministre del Regne Unit de 1940 al 1945 i de nou de 1951 a 1955. Va ser un destacat home d'estat amb una notable oratòria, també va ser oficial a l'Exèrcit Britànic, historiador, escriptor (és l'únic Primer Ministre guardonat amb el Premi Nobel de Literatura el 1953) i artista.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Черчилль,_Уинстон"/>
+    <rdfs:label xml:lang="de">Winston Churchill</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SecondBoerWarPrisonersOfWar"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Blenheim_Palace"/>
+    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Herbert_Gladstone,_1st_Viscount_Gladstone"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Secretaries_of_State_for_the_Home_Department"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NaziEraScholarsAndWriters"/>
+    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishBiographers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cold_War_leaders"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1915</dbpprop:years>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deputy_Lieutenants_of_Kent"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1900%E2%80%931906"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/OfficeHolder"/>
+    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/William_Houldsworth"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:S-aft"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1929</dbpprop:years>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/University_of_Bristol"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1955%E2%80%931959"/>
+    <rdfs:comment xml:lang="vi">Sir Winston Leonard Spencer-Churchill là một nhà chính trị người Anh, nổi tiếng nhất với cương vị Thủ tướng Anh trong thời Thế chiến thứ hai. Ông từng là một người lính, nhà báo, tác giả, họa sĩ và chính trị gia. Churchill, nói chung, được coi là một trong những nhà lãnh đạo quan trọng nhất trong lịch sử Anh và lịch sử thế giới.</rdfs:comment>
+    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Harrow_School"/>
+    <dbpprop:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dbpprop:rank>
+    <rdfs:comment xml:lang="pl">Winston Leonard Spencer Churchill KG, OM – brytyjski polityk, mówca, strateg, pisarz i historyk, dwukrotny premier Zjednoczonego Królestwa, laureat literackiej Nagrody Nobla, honorowy obywatel Stanów Zjednoczonych. W 2002 w plebiscycie organizowanym przez BBC został uznany najwybitniejszym Brytyjczykiem wszech czasów.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/윈스턴_처칠"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1906%E2%80%931910"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.082xp"/>
+    <dbpprop:allegiance rdf:resource="http://dbpedia.org/resource/British_Empire"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Spencer-Churchill_family"/>
+    <dbpprop:shortDescription xml:lang="en">English statesman and author, best known as Prime Minister of the United Kingdom</dbpprop:shortDescription>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SecretariesOfStateForTheHomeDepartment"/>
+    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</dbpprop:termStart>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Air_Force_officers_holding_honorary_commissions"/>
+    <dbpedia-owl:abstract xml:lang="en">Sir Winston Leonard Spencer-Churchill, KG, OM, CH, TD, PC, DL, FRS, Hon. RA (30 November 1874 – 24 January 1965) was a British Conservative politician and statesman known for his leadership of the United Kingdom during the Second World War. Widely regarded as one of the greatest wartime leaders of the century, he served as Prime Minister twice. A noted statesman and orator, Churchill was also an officer in the British Army, a historian, a writer, and an artist. He is the only British prime minister to have received the Nobel Prize in Literature, and was the first person to be made an Honorary Citizen of the United States. Churchill was born into the aristocratic family of the Dukes of Marlborough. His father, Lord Randolph Churchill, was a charismatic politician who served as Chancellor of the Exchequer; his mother, Jenny Jerome, was an American socialite. As a young army officer, he saw action in British India, the Sudan, and the Second Boer War. He gained fame as a war correspondent and wrote books about his campaigns. At the forefront of politics for fifty years, he held many political and cabinet positions. Before the First World War, he served as President of the Board of Trade, Home Secretary, and First Lord of the Admiralty as part of the Asquith Liberal government. During the war, he continued as First Lord of the Admiralty until the disastrous Gallipoli Campaign, which he had sponsored, caused his departure from government. He then briefly resumed active army service on the Western Front as commander of the 6th Battalion of the Royal Scots Fusiliers. He returned to government as Minister of Munitions, Secretary of State for War, and Secretary of State for Air. After the War, Churchill served as Chancellor of the Exchequer in the Conservative government of 1924–29, controversially returning the pound sterling in 1925 to the gold standard at its pre-war parity, a move widely seen as creating deflationary pressure on the UK economy. Also controversial were Churchill's opposition to increased home rule for India and his resistance to the 1936 abdication of Edward VIII. Out of office and politically "in the wilderness" during the 1930s, Churchill took the lead in warning about Nazi Germany and in campaigning for rearmament. On the outbreak of the Second World War, he was again appointed First Lord of the Admiralty. Following the resignation of Neville Chamberlain on 10 May 1940, Churchill became Prime Minister. His steadfast refusal to consider defeat, surrender, or a compromise peace helped inspire British resistance, especially during the difficult early days of the War when Britain stood alone in its active opposition to Hitler. Churchill was particularly noted for his speeches and radio broadcasts, which helped inspire the British people. He led Britain as Prime Minister until victory over Nazi Germany had been secured. After the Conservative Party lost the 1945 election, he became Leader of the Opposition. In 1951, he again became Prime Minister, before retiring in 1955. Upon his death, Elizabeth II granted him the honour of a state funeral, which saw one of the largest assemblies of world statesmen in history. Named the Greatest Briton of all time in a 2002 poll, Churchill is widely regarded as being among the most influential persons in British history.</dbpedia-owl:abstract>
+    <dbpprop:monarch xml:lang="en">George VI</dbpprop:monarch>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.iwm.org.uk/"/>
+    <dbpedia-owl:restingPlace rdf:resource="http://dbpedia.org/resource/St_Martin's_Church,_Bladon"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SecretariesOfStateForTheColonies(UK)"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118520776</dbpedia-owl:individualisedPnd>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Sashes_of_the_Order_of_Sayyid_Muhammad_ibn_Ali_as-Senussi"/>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Chancellor_of_the_Duchy_of_Lancaster"/>
+    <dbpedia-owl:abstract xml:lang="pl">Winston Leonard Spencer Churchill KG, OM – brytyjski polityk, mówca, strateg, pisarz i historyk, dwukrotny premier Zjednoczonego Królestwa, laureat literackiej Nagrody Nobla, honorowy obywatel Stanów Zjednoczonych. W 2002 w plebiscycie organizowanym przez BBC został uznany najwybitniejszym Brytyjczykiem wszech czasów.</dbpedia-owl:abstract>
+    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Reginald_McKenna"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_war_correspondents"/>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1959</dbpprop:years>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1908</dbpprop:years>
+    <rdfs:comment xml:lang="hu">Sir Winston Leonard Spencer Churchill brit politikus, miniszterelnök 1940–1945 és 1951–1955 között. Kiemelkedő képességű államférfi, szónok és stratéga, a brit hadsereg tisztje. Élete egyedülálló számú és mélységű kutatás tárgya a brit és világtörténelemben betöltött szerepe miatt. Rendkívül termékeny író, történelmi tárgyú írásainak elismeréseként az irodalmi Nobel-díj birtokosa (1953).</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_historians"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Foreign_recipients_of_the_Distinguished_Service_Medal_(United_States)"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Winston_Churchill"/>
+    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Sydney_Buxton,_1st_Earl_Buxton"/>
+    <dbpprop:title xml:lang="en">Officer Commanding the 6th Battalion, Royal Scots Fusiliers</dbpprop:title>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Chancellor_of_the_Exchequer"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheRoyalSociety"/>
+    <dbpprop:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26</dbpprop:termStart>
+    <dbpedia-owl:successor rdf:resource="http://dbpedia.org/resource/Harold_Alexander,_1st_Earl_Alexander_of_Tunis"/>
+    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">94507588</dbpprop:viaf>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Graduates_of_the_Royal_Military_Academy_Sandhurst"/>
+    <dbpedia-owl:deputy rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
+    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</dbpprop:termEnd>
+    <dbpprop:predecessor rdf:resource="http://dbpedia.org/resource/Ernle_Chatfield,_1st_Baron_Chatfield"/>
+    <rdfs:comment xml:lang="es">Sir Winston Leonard Spencer-Churchill, KG, OM, CH, TD, FRS, PC fue un político y hombre de estado británico, conocido por su liderazgo del Reino Unido durante la Segunda Guerra Mundial. Es considerado uno de los grandes líderes de tiempos de guerra y fue Primer Ministro del Reino Unido en dos períodos (1940-45 y 1951-55). Notable hombre de estado y orador, Churchill fue también oficial del Ejército Británico, historiador, escritor y artista.</rdfs:comment>
+    <dbpprop:order xml:lang="en">for Dundee</dbpprop:order>
+    <foaf:surname xml:lang="en">Churchill</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FascistEraScholarsAndWriters"/>
+    <dbpedia-owl:orderInOffice xml:lang="en">Home Secretary</dbpedia-owl:orderInOffice>
+    <dbpedia-owl:activeYearsStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-05-10</dbpedia-owl:activeYearsStartDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishHistorians"/>
+    <foaf:name xml:lang="en">Winston Churchill</foaf:name>
+    <dbpedia-owl:profession rdf:resource="http://dbpedia.org/resource/Politician"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:South_African_Light_Horse_officers"/>
+    <dbpedia-owl:abstract xml:lang="cs">Sir Winston Leonard Spencer-Churchill byl britský politik, premiér Spojeného království v letech 1940–1945 a 1951–1955. Také spisovatel, historik, žurnalista, voják a zákonodárce. Je považován za jednoho z nejvýznamnějších státníků 20. století. Churchillovo celé jméno znělo Winston Leonardo Spencer-Churchill, ale po vzoru svého otce lorda Randolph Churchilla ve veřejném životě užíval jen příjmení Churchill. Jeho knihy vycházejí pod jménem Winston S. Churchill nebo Winston Spencer Churchill, protože pod jménem Winston Churchill publikoval již jiný autor.</dbpedia-owl:abstract>
+    <dbpprop:name xml:lang="en">Churchill, Winston</dbpprop:name>
+    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Clement_Attlee"/>
+    <rdfs:comment xml:lang="pt">Sir Winston Leonard Spencer-Churchill foi um político conservador e estadista britânico, famoso principalmente por sua atuação como primeiro-ministro do Reino Unido durante a Segunda Guerra Mundial. Ele foi primeiro-ministro por duas vezes (1940-45 e 1951-55). Orador e estadista notável, ele também foi Oficial no Exército Britânico, historiador, escritor e artista.</rdfs:comment>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom"/>
+    <dbpprop:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</dbpprop:termEnd>
+    <dbpprop:restingplace xml:lang="en">St Martin's Church, Bladon, Oxfordshire</dbpprop:restingplace>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_personnel_of_World_War_I"/>
+    <dbpprop:order rdf:resource="http://dbpedia.org/resource/Home_Secretary"/>
   </rdf:Description>
 </rdf:RDF>

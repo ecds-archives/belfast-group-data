@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/44259521">
+    <foaf:name>Maude, Caitlín, 1941-1982</foaf:name>
+    <foaf:name>Ní Mháidhbh, Caitlín, 1941-1982</foaf:name>
+    <rdaGr2:dateOfBirth>1941</rdaGr2:dateOfBirth>
+    <foaf:name>Ní Mháidhbh, Maighréad, 1941-1982</foaf:name>
+    <foaf:name>Maude, Caitlin</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Caitlín_Maude"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdaGr2:dateOfDeath>1982</rdaGr2:dateOfDeath>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/44259521/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/44259521"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CCaitlín_Maude#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44259521"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Maude, Caitlin</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cnr2006005220#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/nr2006005220"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44259521"/>
+    <skos:altLabel>Ní Mháidhbh, Caitlín, 1941-1982</skos:altLabel>
+    <skos:altLabel>Ní Mháidhbh, Maighréad, 1941-1982</skos:altLabel>
+    <skos:prefLabel>Maude, Caitlín, 1941-1982</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/44259521/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/44259521"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/44259521/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44259521"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjs20100304004#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/44259521"/>
+    <skos:prefLabel>Maude, Caitlín, 1941-1982</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

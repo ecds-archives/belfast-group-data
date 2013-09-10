@@ -8,95 +8,97 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/54656309">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/W._R._Rodgers"/>
-    <foaf:name>Rodgers, W. R. (1909-1969).</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/172347319"/>
-    <foaf:name>Rodgers, William R. 1909-1969</foaf:name>
-    <foaf:name>Rodgers, William Robert, 1909-1969</foaf:name>
-    <foaf:name>Rodgers, W. R. 1909-1969</foaf:name>
-    <foaf:name>Rodgers, William Robert.</foaf:name>
-    <foaf:name>Rodgers, Wr</foaf:name>
-    <foaf:name>Rodgers, William Robert, 1909-</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Rodgers, W. R. (William Robert), 1909-1969</foaf:name>
-    <rdaGr2:dateOfBirth>1909</rdaGr2:dateOfBirth>
-    <foaf:name>Rodgers, W. R.</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/144466597/id"/>
-    <rdaGr2:dateOfDeath>1969</rdaGr2:dateOfDeath>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CW._R._Rodgers#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Rodgers, Wr</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/54656309/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/54656309"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca23755295#skos:Concept">
+    <skos:altLabel>Rodgers, W. R.</skos:altLabel>
+    <skos:prefLabel>Rodgers, William Robert, 1909-1969</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/54656309/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035458506#skos:Concept">
-    <skos:prefLabel>Rodgers, William Robert, 1909-1969</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca23755295#skos:Concept">
-    <skos:prefLabel>Rodgers, William Robert, 1909-1969</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Rodgers, W. R.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0019J8481#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Rodgers, W. R. (William Robert), 1909-1969</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C144466597#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:prefLabel>Rodgers, William Robert, 1909-1969</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/54656309">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/W._R._Rodgers"/>
+    <foaf:name>Rodgers, Wr</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/237259234"/>
+    <foaf:name>Rodgers, W. R. 1909-1969</foaf:name>
+    <rdaGr2:dateOfBirth>1909</rdaGr2:dateOfBirth>
+    <foaf:name>Rodgers, W. R. (1909-1969).</foaf:name>
+    <foaf:name>Rodgers, William Robert, 1909-1969</foaf:name>
+    <foaf:name>Rodgers, William Robert.</foaf:name>
+    <foaf:name>Rodgers, William Robert, 1909-</foaf:name>
+    <foaf:name>Rodgers, William R. 1909-1969</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdaGr2:dateOfDeath>1969</rdaGr2:dateOfDeath>
+    <foaf:name>Rodgers, W. R. (William Robert), 1909-1969</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/144466597/id"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/172347319"/>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/237259234"/>
+    <foaf:name>Rodgers, W. R.</foaf:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50047819#skos:Concept">
     <skos:prefLabel>Rodgers, W. R. (William Robert), 1909-1969</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
     <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50047819"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <skos:altLabel>Rodgers, William Robert, 1909-1969</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/54656309/">
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/54656309"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C172347319#skos:Concept">
-    <skos:altLabel>Rodgers, William R. 1909-1969</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035458506#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Rodgers, William Robert, 1909-1969</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
-    <skos:altLabel>Rodgers, W. R. 1909-1969</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2004049987#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:prefLabel>Rodgers, W. R. (1909-1969).</skos:prefLabel>
-    <skos:altLabel>Rodgers, William Robert.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CW._R._Rodgers#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <skos:prefLabel>Rodgers, Wr</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072729120#skos:Concept">
-    <skos:prefLabel>Rodgers, William Robert, 1909-</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/54656309/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/54656309"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2004049987#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Rodgers, W. R. (1909-1969).</skos:prefLabel>
+    <skos:altLabel>Rodgers, William Robert.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C172347319#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Rodgers, William Robert, 1909-1969</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Rodgers, W. R. 1909-1969</skos:altLabel>
+    <skos:altLabel>Rodgers, William R. 1909-1969</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072729120#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
+    <skos:prefLabel>Rodgers, William Robert, 1909-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0019J8481#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
+    <skos:prefLabel>Rodgers, W. R. (William Robert), 1909-1969</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C144466597#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54656309"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Rodgers, William Robert, 1909-1969</skos:prefLabel>
   </rdf:Description>
 </rdf:RDF>

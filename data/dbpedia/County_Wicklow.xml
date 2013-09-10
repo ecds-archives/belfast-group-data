@@ -12,948 +12,131 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Laura_Whitmore">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Table_Mountain,_County_Wicklow">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/River_Avonmore">
-    <dbpedia-owl:origin rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wayne_O'Gorman">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_McCaffrey">
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shillelagh,_County_Wicklow">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wicklow_Mountains">
-    <dbpedia-owl:district rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:district rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Tighe">
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Ryan_(Irish_politician)">
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Powerscourt_Waterfall">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Annamoe">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shane_Byrne_(rugby_union)">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kildare%E2%80%93Wicklow_(D%C3%A1il_%C3%89ireann_constituency)">
-    <dbpprop:counties rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carrigvore">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wicklow">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Woodburn">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Greystones_railway_station">
-    <dbpprop:borough rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Turlough_Hill">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lough_Tay">
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bray_Wanderers_A.F.C.">
-    <dbpedia-owl:ground rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Greystones_RFC">
-    <dbpprop:region rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Woodenbridge">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/War_Hill">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Through_the_Devil_Softly">
-    <dbpedia-owl:recordedIn rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Kirwan">
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:cityofbirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cill_Mhant%C3%A1in_(county)">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Timmins">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arklow_Hill">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballinaclash">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Silsean">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Avoca_Handweavers">
-    <dbpprop:foundation rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:foundationPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Kennedy_(Dublin_politician)">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Glendalough">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bray_Cove_Halt_railway_station">
-    <dbpprop:borough rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Sugar_Loaf">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Laragh,_County_Wicklow">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Slievemaan">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Granville_Proby,_4th_Earl_of_Carysfort">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Byrne_(VC)">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mullaghcleevaun">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Druids_Glen">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonny_Condell">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Delgany">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wicklow_(D%C3%A1il_%C3%89ireann_constituency)">
-    <dbpprop:counties rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fergal_Devitt">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Macreddin">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lough_Dan">
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Co._Wicklow">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fiach_McHugh_O'Byrne">
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/River_Avonbeg">
-    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:origin rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Scoil_Chualann">
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/River_Vartry">
-    <dbpedia-owl:origin rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Baltinglass">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kilmacanogue">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Kevin's_Way">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Conavalla">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Massacre_of_Dunlavin_Green">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Joseph_Monck_Mason">
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hollywood,_County_Wicklow">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/O'Byrne_Park">
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rathnew">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vartry_Reservoir">
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Seefingan">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Brosnan_Walsh">
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/God_Is_an_Astronaut">
-    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_White_(Green_Party_politician)">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Corrigasleggaun">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Henrietta_Torlesse">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Presentation_College,_Bray">
-    <dbpprop:county rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:county rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Lyon">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maulin">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Corrs_Unplugged">
-    <dbpprop:recorded rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:recordedIn rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Wybrant">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Greenan,_County_Wicklow">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Seanie_Furlong_(Gaelic_footballer)">
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballyronan,_County_Wicklow">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Church_Mountain">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Enniskerry">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Brownrigg">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/R%C3%B3is%C3%ADn_Murphy">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Glenmama">
-    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Barndarrig">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Arklow">
-    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lobawn">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Stewart_Parnell">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lugnaquilla">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Barnacullian">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Camenabologue">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Col%C3%A1iste_Chroabh_Abhann">
-    <dbpedia-owl:county rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:county rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Eva_Birthistle">
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rathdrum,_County_Wicklow">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Newtownmountkennedy">
-    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Keadeen">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Camaderry">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Luan_Parle">
-    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carnew">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Co_Wicklow">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Old_Town_(song)__Old_Town_This_Boy_Is_Cracking_Up__1">
-    <dbpedia-owl:recordedIn rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Powerscourt_Estate">
-    <dbpprop:locationTown rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Moore_(boxer)">
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Greystones">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Valleymount">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Glenealy,_County_Wicklow">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/County_Wicklow">
+    <dbpedia-owl:abstract xml:lang="ko">위클로 주(County Wicklow)는 아일랜드의 주 중 하나이다.</dbpedia-owl:abstract>
     <dbpprop:subdivisionType xml:lang="en">EU Parliament</dbpprop:subdivisionType>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Condado_de_Wicklow"/>
-    <dbpedia-owl:abstract xml:lang="de">Wicklow ist eine Grafschaft in der Republik Irland.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Comté_de_Wicklow"/>
-    <dbpprop:seatType rdf:resource="http://dbpedia.org/resource/County_town"/>
-    <dbpedia-owl:abstract xml:lang="ja">ウィックロー州(County Wicklow)はアイルランド東部、レンスター地方の州。ダブリン州のすぐ南にある。人口126,330(2006)。</dbpedia-owl:abstract>
-    <dbpprop:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">136448</dbpprop:population>
-    <dbpedia-owl:abstract xml:lang="es">El Condado de Wicklow (/) ubicado en la costa medio-oriental de Irlanda, al sur del Condado de Dublín. Área: 2,024 km². La capital del condado es Wicklow (población 9.355), aunque la ciudad más grande es Bray (población 30.951). Otras ciudades importantes son Greystones (pob 11.913) y Arklow (pob 9.993), todas ellas en la costa este. Algunas de sus poblaciones forman parte del Gran Dublín. Se le conoce como 'el último condado' ya que fue el último en establecerse, en 1605. Anteriormente formaba parte de los condados de Carlow y Dublín. También se le conoce como 'el Jardín de Irlanda' por su naturaleza. El Parque Nacional Montañas de Wicklow y la Cascada Powerscourt (con 121 ms. , la más alta de Irlanda) se hallan en su territorio. En el condado tiene su sede el equipo ciclista profesional Colnago-CSF Inox.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="uk">Віклоу — графство на сході Ірландії.</rdfs:comment>
-    <dbpedia-owl:motto xml:lang="en">Meanma Saor(Irish)</dbpedia-owl:motto>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/County_Wicklow"/>
-    <dbpprop:centre xml:lang="en">County Wicklow</dbpprop:centre>
-    <rdfs:comment xml:lang="hu">Wicklow megye (írül Contae Chill Mhantáin) megye az Ír Köztársaságban Dublintól délre, az Ír-sziget keleti, ír-tengeri partvidékének közepén. A Nagy Dublin Övezethez szokták sorolni. Területe 2024 km². Lakossága 114 676. Szomszédai Carlow, Dun Laoghaire-Rathdown, Kildare, Dél-Dublin és Wexford megyék. A megye székhelye a 9355 lakosú Wicklow, legnagyobb városa a külvárosokkal együtt 30 951 lakosú (2002) Bray.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="fr">Le comté de Wicklow (en gaélique Contae Chill Mhantáin) est une circonscription administrative de la République d'Irlande située au sud de Dublin sur la côte est de l'île dans la province du Leinster. Sa superficie est de km² pour habitants. Il est bordé par la mer d'Irlande à l'est et des comtés de Wexford, Carlow, Kildare, Dublin-Sud et Dun Laoghaire-Rathdown. La capitale du comté est la ville de Wicklow (habitants) même si la ville la plus importante est Bray avec habitants. Bray, mais aussi Greystones et Arklow se trouvent dans l'immédiate limite sud de Dublin et bénéficient ainsi des transports de l'agglomération dublinoise. Le comté de Wicklow est souvent décrit comme le dernier comté de l'Irlande car il fut le dernier érigé en comté en 1605 reprenant alors des terres dépendant de Dublin. Le comté se décompose en deux entités très différentes : la côte d'une part et les Montagnes de Wicklow d'autre part. La première est une des zones de villégiatures favorites des Dublinois et la deuxième présente des paysages sauvages comme on peut en trouver dans le Connemara ou le Kerry. L'ancien monastère de Glendalough se trouve dans ces montagnes. Le comté fait partie du Grand Dublin (Greater Dublin area).</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Hrabství_Wicklow"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Local_administrative_units_of_the_Republic_of_Ireland"/>
-    <dbpedia-owl:abstract xml:lang="sv">Wicklow är ett grevskap på Irland. Huvudort är Wicklow, medan den största staden är Bray. Grevskapet är känt under namnet The Last County eftersom det är det sista grevskapet som upprättades på Irland. Wicklow bildades 1605 efter en delning av grevskapet Dublin. Grevskapet är även känt som Irlands hage. Under 1800-talet var Wicklow ett centrum för irländska uppror, och en militärväg anlades rakt igenom grevskapet så att de brittiska styrkorna lätt kunde röra sig i området. Ruinerna av klostret Glendalough ligger i Wicklow.</dbpedia-owl:abstract>
-    <dbpprop:subdivisionType rdf:resource="http://dbpedia.org/resource/Sovereign_state"/>
-    <dbpedia-owl:governmentType rdf:resource="http://dbpedia.org/resource/Wicklow_County_Council"/>
-    <dbpprop:motto xml:lang="en">"Free Spirits"</dbpprop:motto>
-    <dbpprop:areaTotalKm rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2024</dbpprop:areaTotalKm>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Leinster"/>
-    <dbpprop:populationRank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dbpprop:populationRank>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Wicklow_(D%C3%A1il_%C3%89ireann_constituency)"/>
-    <rdfs:comment xml:lang="cs">Hrabství Wicklow je hrabství na východě Irska, v bývalé irské provincii Leinster. Sousedí s hrabstvím Dublin na severu, s hrabstvím Limerick na jihu a hrabstvím Tipperary na východě. Východní pobřeží omývá Irské moře. Hlavním městem je Wicklow (9355 obyvatel), ačkoliv větším městským centrem je Bray (31 901). Další větší města jsou Greystones (11 913 obyvatel) a Arklow (11 721 obyvatel). Všechna tato města leží na východním pobřeží. Hrabství má rozlohu 2024 km² a žije v něm 136 448 obyvatel .</rdfs:comment>
-    <rdfs:comment xml:lang="ja">ウィックロー州(County Wicklow)はアイルランド東部、レンスター地方の州。ダブリン州のすぐ南にある。人口126,330(2006)。</rdfs:comment>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/WicklowCrest.png/200px-WicklowCrest.png"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Div_col"/>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-location-noun-1"/>
-    <rdfs:comment xml:lang="en">County Wicklow is a county in Ireland. It is part of the Mid-East Region and is also located in the province of Leinster. It is named after the town of Wicklow, which derives from the Old Norse name Víkingalág or Wykynlo. Wicklow County Council is the local authority for the county. The population of the county is 136,448 according to the 2011 census.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.visitwicklow.ie/"/>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Condado_de_Wicklow"/>
-    <ns9:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/County_Wicklow?oldid=494974898"/>
-    <dbpedia-owl:abstract xml:lang="hu">Wicklow megye (írül Contae Chill Mhantáin) megye az Ír Köztársaságban Dublintól délre, az Ír-sziget keleti, ír-tengeri partvidékének közepén. A Nagy Dublin Övezethez szokták sorolni. Területe 2024 km². Lakossága 114 676. Szomszédai Carlow, Dun Laoghaire-Rathdown, Kildare, Dél-Dublin és Wexford megyék. A megye székhelye a 9355 lakosú Wicklow, legnagyobb városa a külvárosokkal együtt 30 951 lakosú (2002) Bray. Fontos váraosai közt van még Greystones és Arklow (mindkettő valamivfel népesebb, mint Wicklow). Wicklowt szelíd dombjai, tavai, zöld vidékei miatt "Írország kertjének" is szokták nevezni. Egy másik ismert neve "az utolsó megye", mivel a hagyományos ír megyék közül utolsóként hozták létre. A megye területe évszázadokig az angol hódítókkal szembeni ellenállás egyik fészke volt. Az 1798-as ír felkelés leverését követően az angolok katonai utat építettek Rathfarnhamtől Aughavannaghig, hogy csapataik könnyebben felvonuljanak a lázadók ellen. a katonák elhelyezésére számos barakkot építettek az út mentén. Egy ilyen barakk maradványai mellett épült fel a Megbékélés Központja a Glencree-völgyben. Az Ír Hadsereg taktikai gyakorlatokra használja a megye lőpályáit, köztük a legnagyobbat a Glen of Imaal völgyben, amelyet az ír függetlenség elnyerése előtt a Brit Hadsereg használt. A megye nevezetessége a 6. században alapított kolostor, a 33 méter magas körtorony és a Szent Kevin kereszt Glendaloughban. A wicklow megyei helyi rádiócsatorna az East Coast FM.</dbpedia-owl:abstract>
-    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.0</geo:lat>
-    <dbpedia-owl:abstract xml:lang="nl">Wicklow is een graafschap aan de oostkust van Ierland, en ligt ten zuiden van county Dublin. Het heeft een oppervlakte van ongeveer 2024 km² en had in 2002 114.676 inwoners. De hoofdstad van de county is Wicklow (inw. 9355), alhoewel de grootste bevolkingsgroep (30.951) in Bray woont. Greystones (11.913 inw. ) en Bray liggen beide aan de DART-lijn: een stadsspoorweg die de regio Dublin doorkruist. Wicklow staat bekend als de laatste county omdat het de laatste was die werd opgericht. Een Military Road werd door het graafschap gelegd om het Britse leger snel toegang te kunnen geven tot de Ierse rebellen die tot in de 19e eeuw zich schuilhielden in de Wicklow Mountains. Wicklow staat ook bekend als De tuin van Ierland. De ruïnes van de abdij bij Glendalough zijn een bekende toeristische attractie.</dbpedia-owl:abstract>
-    <foaf:name xml:lang="en">County Wicklow</foaf:name>
-    <dbpedia-owl:abstract xml:lang="zh">威克洛郡 （County Wicklow；愛爾蘭語：Contae Chill Mhantáin），是愛爾蘭的一個郡，位於愛爾蘭島東部海岸。歷史上屬倫斯特省。 面積2,024平方公里，2006年人口114,676人。首府威克洛。</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="pl">Hrabstwo Wicklow jest hrabstwem na wschodnim wybrzeżu Irlandii, położonym bezpośrednio nad Morzem Irlandzkim. Hrabstwo Wicklow graniczy od północy z Hrabstwem Dun Laoghaire-Rathdown, od południa z Hrabstwem Wexford, a od zachodu z hrabstwami Carlow i Kildare. Centrum administracyjne hrabstwa znajduje się w mieście Wicklow.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Leinster"/>
-    <dbpprop:motto xml:lang="en">Meanma Saor</dbpprop:motto>
-    <dbpedia-owl:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2024000000.0</dbpedia-owl:areaTotal>
-    <ns4:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">2024.0</ns4:areaTotal>
-    <rdfs:comment xml:lang="ru">Уи́клоу — графство на востоке Ирландии. Входит в состав провинции Ленстер на территории Республики Ирландии. Столица — Уиклоу, крупнейший город — Брей. Население 115 тыс. человек (17-е место среди графств; данные 2002 г.).</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wicklow.ie/"/>
-    <rdfs:comment xml:lang="pt">Wicklow (em irlandês Cill Mhaintáin) é um condado da República da Irlanda, na província de Leinster, no leste do país. Seus limites são o Condado de South Dublin e o Condado de Dun Laoghaire-Rathdown a norte, o Mar da Irlanda a leste, o Condado de Wexford ao sul, o Condado de Carlow a sudoeste e o Condado de Kildare a noroeste. A capital tem o mesmo nome do condado, mas o centro urbano mais importante é Bray.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ウィックロー州"/>
-    <dbpedia-owl:abstract xml:lang="en">County Wicklow is a county in Ireland. It is part of the Mid-East Region and is also located in the province of Leinster. It is named after the town of Wicklow, which derives from the Old Norse name Víkingalág or Wykynlo. Wicklow County Council is the local authority for the county. The population of the county is 136,448 according to the 2011 census.</dbpedia-owl:abstract>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Leinster"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wicklowcounty.com"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Wicklow_(D%C3%A1il_%C3%89ireann_constituency)"/>
-    <rdfs:comment xml:lang="nl">Wicklow is een graafschap aan de oostkust van Ierland, en ligt ten zuiden van county Dublin. Het heeft een oppervlakte van ongeveer 2024 km² en had in 2002 114.676 inwoners. De hoofdstad van de county is Wicklow (inw. 9355), alhoewel de grootste bevolkingsgroep (30.951) in Bray woont. Greystones (11.913 inw. ) en Bray liggen beide aan de DART-lijn: een stadsspoorweg die de regio Dublin doorkruist. Wicklow staat bekend als de laatste county omdat het de laatste was die werd opgericht.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="pl">Hrabstwo Wicklow jest hrabstwem na wschodnim wybrzeżu Irlandii, położonym bezpośrednio nad Morzem Irlandzkim. Hrabstwo Wicklow graniczy od północy z Hrabstwem Dun Laoghaire-Rathdown, od południa z Hrabstwem Wexford, a od zachodu z hrabstwami Carlow i Kildare. Centrum administracyjne hrabstwa znajduje się w mieście Wicklow.</dbpedia-owl:abstract>
-    <dbpprop:subdivisionType xml:lang="en">Dáil Éireann</dbpprop:subdivisionType>
-    <dbpprop:imageShield xml:lang="en">WicklowCrest.png</dbpprop:imageShield>
-    <dbpedia-owl:abstract xml:lang="it">Il Wicklow (Contae Chill Mhantáin in gaelico irlandese) è una contea tradizionale e amministrativa della Repubblica d'Irlanda, più precisamente della provincia del Leinster. Deve il suo nome al capoluogo e ai celebri monti Wicklow, ed è conosciuta anche come Garden of Ireland ("Giardino d'Irlanda"). Confina ad est col Mar d'Irlanda ed il Canale di San Giorgio, a nord con Dun Laoghaire-Rathdown e South Dublin, ad ovest con Carlow e Kildare e sud con Wexford. La contea fa parte di quella che viene considerata "Greater Dublin Area".</dbpedia-owl:abstract>
-    <dbpprop:name xml:lang="en">County Wicklow</dbpprop:name>
-    <rdfs:comment xml:lang="zh">威克洛郡 （County Wicklow；愛爾蘭語：Contae Chill Mhantáin），是愛爾蘭的一個郡，位於愛爾蘭島東部海岸。歷史上屬倫斯特省。 面積2,024平方公里，2006年人口114,676人。首府威克洛。</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://freepages.genealogy.rootsweb.com/~claudiasfamily/wicklow%20map.gif"/>
     <rdfs:comment xml:lang="de">Wicklow ist eine Grafschaft in der Republik Irland.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wicklowcounty.com"/>
+    <rdfs:comment xml:lang="nl">Wicklow is een graafschap aan de oostkust van Ierland, en ligt ten zuiden van county Dublin. Het heeft een oppervlakte van ongeveer 2024 km² en had in 2002 114.676 inwoners. De hoofdstad van de county is Wicklow (inw. 9355), alhoewel de grootste bevolkingsgroep (30.951) in Bray woont. Greystones (11.913 inw. ) en Bray liggen beide aan de DART-lijn: een stadsspoorweg die de regio Dublin doorkruist. Wicklow staat bekend als de laatste county omdat het de laatste was die werd opgericht.</rdfs:comment>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-location-noun-1"/>
+    <rdfs:comment xml:lang="it">Il Wicklow (Contae Chill Mhantáin in gaelico irlandese) è una contea tradizionale e amministrativa della Repubblica d'Irlanda, più precisamente della provincia del Leinster. Deve il suo nome al capoluogo e ai celebri monti Wicklow, ed è conosciuta anche come Garden of Ireland ("Giardino d'Irlanda"). Confina ad est col Mar d'Irlanda ed il Canale di San Giorgio, a nord con Dun Laoghaire-Rathdown e South Dublin, ad ovest con Carlow e Kildare e sud con Wexford.</rdfs:comment>
+    <dbpprop:south rdf:resource="http://dbpedia.org/resource/County_Wexford"/>
+    <dbpprop:seatType rdf:resource="http://dbpedia.org/resource/County_town"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ウィックロー州"/>
+    <rdfs:comment xml:lang="pl">Hrabstwo Wicklow jest hrabstwem na wschodnim wybrzeżu Irlandii, położonym bezpośrednio nad Morzem Irlandzkim. Hrabstwo Wicklow graniczy od północy z Hrabstwem Dun Laoghaire-Rathdown, od południa z Hrabstwem Wexford, a od zachodu z hrabstwami Carlow i Kildare. Centrum administracyjne hrabstwa znajduje się w mieście Wicklow.</rdfs:comment>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-6.41667</geo:long>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Leinster"/>
+    <dbpprop:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">136448</dbpprop:population>
+    <rdfs:comment xml:lang="fi">County Wicklow, iiriksi Contae Cill Mhantáin, on yksi Irlannin 32:sta kreivikunnasta ja sijaitsee hieman Dublinista etelään, Irlannin itärannikolla, Leinsterin provinssissa. Wicklow’n kreivikunnassa sijaitsee mm. Wicklow-vuoret (Wicklow Mountains), jotka näkyvät kauniisti Dublinista etelään päin katsottaessa. Wicklow’n pääkaupunki on samaa nimeä kantava Wicklow’n kaupunki, mutta kreivikunnan suurin kaupunki on kuitenkin Bray, joka sijaitsee rannikolla.</rdfs:comment>
+    <grs:point xml:lang="en">53.0 -6.416666666666667</grs:point>
+    <rdfs:comment xml:lang="ja">ウィックロー州(County Wicklow)はアイルランド東部、レンスター地方の州。ダブリン州のすぐ南にある。人口126,330(2006)。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/위클로_주"/>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <dbpprop:areaRank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</dbpprop:areaRank>
+    <dbpedia-owl:governmentType rdf:resource="http://dbpedia.org/resource/Wicklow_County_Council"/>
+    <dbpedia-owl:abstract xml:lang="hu">Wicklow megye (írül Contae Chill Mhantáin) megye az Ír Köztársaságban Dublintól délre, az Ír-sziget keleti, ír-tengeri partvidékének közepén. A Nagy Dublin Övezethez szokták sorolni. Területe 2024 km². Lakossága 114 676. Szomszédai Carlow, Dun Laoghaire-Rathdown, Kildare, Dél-Dublin és Wexford megyék. A megye székhelye a 9355 lakosú Wicklow, legnagyobb városa a külvárosokkal együtt 30 951 lakosú (2002) Bray. Fontos váraosai közt van még Greystones és Arklow (mindkettő valamivfel népesebb, mint Wicklow). Wicklowt szelíd dombjai, tavai, zöld vidékei miatt "Írország kertjének" is szokták nevezni. Egy másik ismert neve "az utolsó megye", mivel a hagyományos ír megyék közül utolsóként hozták létre. A megye területe évszázadokig az angol hódítókkal szembeni ellenállás egyik fészke volt. Az 1798-as ír felkelés leverését követően az angolok katonai utat építettek Rathfarnhamtől Aughavannaghig, hogy csapataik könnyebben felvonuljanak a lázadók ellen. a katonák elhelyezésére számos barakkot építettek az út mentén. Egy ilyen barakk maradványai mellett épült fel a Megbékélés Központja a Glencree-völgyben. Az Ír Hadsereg taktikai gyakorlatokra használja a megye lőpályáit, köztük a legnagyobbat a Glen of Imaal völgyben, amelyet az ír függetlenség elnyerése előtt a Brit Hadsereg használt. A megye nevezetessége a 6. században alapított kolostor, a 33 méter magas körtorony és a Szent Kevin kereszt Glendaloughban. A wicklow megyei helyi rádiócsatorna az East Coast FM.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">Уи́клоу — графство на востоке Ирландии. Входит в состав провинции Ленстер на территории Республики Ирландии. Столица — Уиклоу, крупнейший город — Брей. Население 115 тыс. человек (17-е место среди графств; данные 2002 г.).</dbpedia-owl:abstract>
+    <dbpprop:subdivisionType rdf:resource="http://dbpedia.org/resource/Sovereign_state"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.visitwicklow.ie/"/>
+    <rdfs:comment xml:lang="es">El Condado de Wicklow (/) ubicado en la costa medio-oriental de Irlanda, al sur del Condado de Dublín. Área: 2,024 km². La capital del condado es Wicklow (población 9.355), aunque la ciudad más grande es Bray (población 30.951). Otras ciudades importantes son Greystones (pob 11.913) y Arklow (pob 9.993), todas ellas en la costa este. Algunas de sus poblaciones forman parte del Gran Dublín. Se le conoce como 'el último condado' ya que fue el último en establecerse, en 1605.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Hrabství_Wicklow"/>
+    <dbpedia-owl:abstract xml:lang="pl">Hrabstwo Wicklow jest hrabstwem na wschodnim wybrzeżu Irlandii, położonym bezpośrednio nad Morzem Irlandzkim. Hrabstwo Wicklow graniczy od północy z Hrabstwem Dun Laoghaire-Rathdown, od południa z Hrabstwem Wexford, a od zachodu z hrabstwami Carlow i Kildare. Centrum administracyjne hrabstwa znajduje się w mieście Wicklow.</dbpedia-owl:abstract>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Wicklow_(D%C3%A1il_%C3%89ireann_constituency)"/>
     <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-6.41667 53)</geo:geometry>
-    <dbpprop:seat rdf:resource="http://dbpedia.org/resource/Wicklow"/>
+    <rdfs:comment xml:lang="sv">Wicklow är ett grevskap på Irland. Huvudort är Wicklow, medan den största staden är Bray. Grevskapet är känt under namnet The Last County eftersom det är det sista grevskapet som upprättades på Irland. Wicklow bildades 1605 efter en delning av grevskapet Dublin. Grevskapet är även känt som Irlands hage. Under 1800-talet var Wicklow ett centrum för irländska uppror, och en militärväg anlades rakt igenom grevskapet så att de brittiska styrkorna lätt kunde röra sig i området.</rdfs:comment>
+    <dbpprop:centre xml:lang="en">County Wicklow</dbpprop:centre>
+    <dbpprop:populationRank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dbpprop:populationRank>
+    <dbpprop:governmentType rdf:resource="http://dbpedia.org/resource/Wicklow_County_Council"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/County_Wicklow"/>
+    <dbpprop:east rdf:resource="http://dbpedia.org/resource/Irish_Sea"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Comté_de_Wicklow"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Уиклоу_(графство)"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Condado_de_Wicklow"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <dbpedia-owl:abstract xml:lang="pt">Wicklow (em irlandês Cill Mhaintáin) é um condado da República da Irlanda, na província de Leinster, no leste do país. Seus limites são o Condado de South Dublin e o Condado de Dun Laoghaire-Rathdown a norte, o Mar da Irlanda a leste, o Condado de Wexford ao sul, o Condado de Carlow a sudoeste e o Condado de Kildare a noroeste. A capital tem o mesmo nome do condado, mas o centro urbano mais importante é Bray.</dbpedia-owl:abstract>
+    <ns9:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/County_Wicklow?oldid=494974898"/>
+    <rdfs:label xml:lang="cs">Hrabství Wicklow</rdfs:label>
     <dbpprop:imageMap xml:lang="en">Island of Ireland location map Wicklow.svg</dbpprop:imageMap>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/WicklowCrest.png/200px-WicklowCrest.png"/>
+    <rdfs:comment xml:lang="pt">Wicklow (em irlandês Cill Mhaintáin) é um condado da República da Irlanda, na província de Leinster, no leste do país. Seus limites são o Condado de South Dublin e o Condado de Dun Laoghaire-Rathdown a norte, o Mar da Irlanda a leste, o Condado de Wexford ao sul, o Condado de Carlow a sudoeste e o Condado de Kildare a noroeste. A capital tem o mesmo nome do condado, mas o centro urbano mais importante é Bray.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">威克洛郡 （County Wicklow；愛爾蘭語：Contae Chill Mhantáin），是愛爾蘭的一個郡，位於愛爾蘭島東部海岸。歷史上屬倫斯特省。 面積2,024平方公里，2006年人口114,676人。首府威克洛。</rdfs:comment>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <dbpprop:blankNameSec rdf:resource="http://dbpedia.org/resource/Vehicle_registration_plates_of_Ireland"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.0</geo:lat>
+    <rdfs:label xml:lang="en">County Wicklow</rdfs:label>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/County_Wicklow"/>
+    <rdfs:label xml:lang="zh">威克洛郡</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:County_Wicklow"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Condado_de_Wicklow"/>
+    <rdfs:comment xml:lang="fr">Le comté de Wicklow (en gaélique Contae Chill Mhantáin) est une circonscription administrative de la République d'Irlande située au sud de Dublin sur la côte est de l'île dans la province du Leinster. Sa superficie est de km² pour habitants. Il est bordé par la mer d'Irlande à l'est et des comtés de Wexford, Carlow, Kildare, Dublin-Sud et Dun Laoghaire-Rathdown. La capitale du comté est la ville de Wicklow (habitants) même si la ville la plus importante est Bray avec habitants.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="uk">Віклоу — графство на сході Ірландії.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="uk">Віклоу (графство)</rdfs:label>
+    <ns4:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">2024.0</ns4:areaTotal>
+    <rdfs:comment xml:lang="ca">El comtat de Wicklow (gaèlic irlandès Cill Mhantáin) és un comtat de la província de Leinster. És situat al sud del Comtat de Dublín. La capital del comtat és Wicklow (9.355 habitants), encara que la ciutat més gran és Bray (30.951 habitants). Altres ciutats importants són Greystones (11.913 habitants) i Arklow (9.993 habitants). Se'l coneix com 'el darrer comtat' perquè fou el darrer en establir-se, el 1605. Anteriorment formava part del Comtat de Dublín.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="de">Wicklow ist eine Grafschaft in der Republik Irland.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Counties_of_the_Republic_of_Ireland"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/Leinster"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Wicklow_(D%C3%A1il_%C3%89ireann_constituency)"/>
+    <dbpprop:north rdf:resource="http://dbpedia.org/resource/County_Dublin"/>
+    <dbpedia-owl:abstract xml:lang="ca">El comtat de Wicklow (gaèlic irlandès Cill Mhantáin) és un comtat de la província de Leinster. És situat al sud del Comtat de Dublín. La capital del comtat és Wicklow (9.355 habitants), encara que la ciutat més gran és Bray (30.951 habitants). Altres ciutats importants són Greystones (11.913 habitants) i Arklow (9.993 habitants). Se'l coneix com 'el darrer comtat' perquè fou el darrer en establir-se, el 1605. Anteriorment formava part del Comtat de Dublín.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="it">Il Wicklow (Contae Chill Mhantáin in gaelico irlandese) è una contea tradizionale e amministrativa della Repubblica d'Irlanda, più precisamente della provincia del Leinster. Deve il suo nome al capoluogo e ai celebri monti Wicklow, ed è conosciuta anche come Garden of Ireland ("Giardino d'Irlanda"). Confina ad est col Mar d'Irlanda ed il Canale di San Giorgio, a nord con Dun Laoghaire-Rathdown e South Dublin, ad ovest con Carlow e Kildare e sud con Wexford. La contea fa parte di quella che viene considerata "Greater Dublin Area".</dbpedia-owl:abstract>
+    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/East_(European_Parliament_constituency)"/>
+    <rdfs:comment xml:lang="no">Wicklow er et grevskap i Republikken Irland, i provinsen Leinster. Administrasjonsbyen er Wicklow, mens den største byen er Bray. Det er kjent under kallenavnet The last country, ettersom det er det siste som ble etablert, i 1605 på territorium som tidligere var del av grevskapet Dublin. Den er også kjent som Irlands hage. Inn i det 19. århundre var Wicklow et sentrum for irske opprørere, og en militærvei ble anlagt gjennom grevskapet for at britiske styrker raskt kunne flytte seg i området.</rdfs:comment>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Div_col"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://freepages.genealogy.rootsweb.com/~claudiasfamily/wicklow%20map.gif"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Leinster"/>
+    <dbpedia-owl:abstract xml:lang="sv">Wicklow är ett grevskap på Irland. Huvudort är Wicklow, medan den största staden är Bray. Grevskapet är känt under namnet The Last County eftersom det är det sista grevskapet som upprättades på Irland. Wicklow bildades 1605 efter en delning av grevskapet Dublin. Grevskapet är även känt som Irlands hage. Under 1800-talet var Wicklow ett centrum för irländska uppror, och en militärväg anlades rakt igenom grevskapet så att de brittiska styrkorna lätt kunde röra sig i området. Ruinerna av klostret Glendalough ligger i Wicklow.</dbpedia-owl:abstract>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <rdfs:comment xml:lang="cs">Hrabství Wicklow je hrabství na východě Irska, v bývalé irské provincii Leinster. Sousedí s hrabstvím Dublin na severu, s hrabstvím Limerick na jihu a hrabstvím Tipperary na východě. Východní pobřeží omývá Irské moře. Hlavním městem je Wicklow (9355 obyvatel), ačkoliv větším městským centrem je Bray (31 901). Další větší města jsou Greystones (11 913 obyvatel) a Arklow (11 721 obyvatel). Všechna tato města leží na východním pobřeží. Hrabství má rozlohu 2024 km² a žije v něm 136 448 obyvatel .</rdfs:comment>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/County_Wicklow"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.08314"/>
+    <dbpedia-owl:abstract xml:lang="cs">Hrabství Wicklow je hrabství na východě Irska, v bývalé irské provincii Leinster. Sousedí s hrabstvím Dublin na severu, s hrabstvím Limerick na jihu a hrabstvím Tipperary na východě. Východní pobřeží omývá Irské moře. Hlavním městem je Wicklow (9355 obyvatel), ačkoliv větším městským centrem je Bray (31 901). Další větší města jsou Greystones (11 913 obyvatel) a Arklow (11 721 obyvatel). Všechna tato města leží na východním pobřeží. Hrabství má rozlohu 2024 km² a žije v něm 136 448 obyvatel . County Wicklow je též známé jako the last county (poslední hrabství), protože byl založen jako poslední z okresů v roce 1606, z části bývalých hrabství Dublin a Carlow. Hrabství je taktéž součástí „Většího území Dublinu“ a je znám jako „Zahrada Irska“, díky svým scenériím. Mezi zajímavá místa patří například Powerscourtský vodopád a Glendalough, nacházející se ve Wicklow Mountains. Dvoupísmenná zkratka hrabství, používaná zejména na SPZ, je WW.</dbpedia-owl:abstract>
+    <dbpprop:west xml:lang="en">County Kildare and County Carlow</dbpprop:west>
+    <rdfs:comment xml:lang="ko">위클로 주(County Wicklow)는 아일랜드의 주 중 하나이다.</rdfs:comment>
+    <dbpprop:cols rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</dbpprop:cols>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wicklowwalks.com"/>
+    <dbpedia-owl:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2024000000.0</dbpedia-owl:areaTotal>
+    <dbpprop:motto xml:lang="en">Meanma Saor</dbpprop:motto>
     <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Hrabstwo_Wicklow"/>
     <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/9/9c/WicklowCrest.png"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Wicklow_(contea)"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Geographic_location"/>
-    <dbpedia-owl:abstract xml:lang="ru">Уи́клоу — графство на востоке Ирландии. Входит в состав провинции Ленстер на территории Республики Ирландии. Столица — Уиклоу, крупнейший город — Брей. Население 115 тыс. человек (17-е место среди графств; данные 2002 г.).</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="pt">Wicklow (em irlandês Cill Mhaintáin) é um condado da República da Irlanda, na província de Leinster, no leste do país. Seus limites são o Condado de South Dublin e o Condado de Dun Laoghaire-Rathdown a norte, o Mar da Irlanda a leste, o Condado de Wexford ao sul, o Condado de Carlow a sudoeste e o Condado de Kildare a noroeste. A capital tem o mesmo nome do condado, mas o centro urbano mais importante é Bray.</dbpedia-owl:abstract>
-    <dbpprop:small xml:lang="en">yes</dbpprop:small>
-    <dbpedia-owl:abstract xml:lang="cs">Hrabství Wicklow je hrabství na východě Irska, v bývalé irské provincii Leinster. Sousedí s hrabstvím Dublin na severu, s hrabstvím Limerick na jihu a hrabstvím Tipperary na východě. Východní pobřeží omývá Irské moře. Hlavním městem je Wicklow (9355 obyvatel), ačkoliv větším městským centrem je Bray (31 901). Další větší města jsou Greystones (11 913 obyvatel) a Arklow (11 721 obyvatel). Všechna tato města leží na východním pobřeží. Hrabství má rozlohu 2024 km² a žije v něm 136 448 obyvatel . County Wicklow je též známé jako the last county (poslední hrabství), protože byl založen jako poslední z okresů v roce 1606, z části bývalých hrabství Dublin a Carlow. Hrabství je taktéž součástí „Většího území Dublinu“ a je znám jako „Zahrada Irska“, díky svým scenériím. Mezi zajímavá místa patří například Powerscourtský vodopád a Glendalough, nacházející se ve Wicklow Mountains. Dvoupísmenná zkratka hrabství, používaná zejména na SPZ, je WW.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="fi">County Wicklow, iiriksi Contae Cill Mhantáin, on yksi Irlannin 32:sta kreivikunnasta ja sijaitsee hieman Dublinista etelään, Irlannin itärannikolla, Leinsterin provinssissa. Wicklow’n kreivikunnassa sijaitsee mm. Wicklow-vuoret (Wicklow Mountains), jotka näkyvät kauniisti Dublinista etelään päin katsottaessa. Wicklow’n pääkaupunki on samaa nimeä kantava Wicklow’n kaupunki, mutta kreivikunnan suurin kaupunki on kuitenkin Bray, joka sijaitsee rannikolla.</rdfs:comment>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
-    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
-    <rdfs:comment xml:lang="it">Il Wicklow (Contae Chill Mhantáin in gaelico irlandese) è una contea tradizionale e amministrativa della Repubblica d'Irlanda, più precisamente della provincia del Leinster. Deve il suo nome al capoluogo e ai celebri monti Wicklow, ed è conosciuta anche come Garden of Ireland ("Giardino d'Irlanda"). Confina ad est col Mar d'Irlanda ed il Canale di San Giorgio, a nord con Dun Laoghaire-Rathdown e South Dublin, ad ovest con Carlow e Kildare e sud con Wexford.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="ca">El comtat de Wicklow (gaèlic irlandès Cill Mhantáin) és un comtat de la província de Leinster. És situat al sud del Comtat de Dublín. La capital del comtat és Wicklow (9.355 habitants), encara que la ciutat més gran és Bray (30.951 habitants). Altres ciutats importants són Greystones (11.913 habitants) i Arklow (9.993 habitants). Se'l coneix com 'el darrer comtat' perquè fou el darrer en establir-se, el 1605. Anteriorment formava part del Comtat de Dublín.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wicklowwalks.com"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/County_Wicklow"/>
-    <dbpedia-owl:abstract xml:lang="fi">County Wicklow, iiriksi Contae Cill Mhantáin, on yksi Irlannin 32:sta kreivikunnasta ja sijaitsee hieman Dublinista etelään, Irlannin itärannikolla, Leinsterin provinssissa. Wicklow’n kreivikunnassa sijaitsee mm. Wicklow-vuoret (Wicklow Mountains), jotka näkyvät kauniisti Dublinista etelään päin katsottaessa. Wicklow’n pääkaupunki on samaa nimeä kantava Wicklow’n kaupunki, mutta kreivikunnan suurin kaupunki on kuitenkin Bray, joka sijaitsee rannikolla. Braysta on hyvät yhteydet Dubliniin DART-junan ansiosta.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="ko">위클로 주(County Wicklow)는 아일랜드의 주 중 하나이다.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="no">Wicklow er et grevskap i Republikken Irland, i provinsen Leinster. Administrasjonsbyen er Wicklow, mens den største byen er Bray. Det er kjent under kallenavnet The last country, ettersom det er det siste som ble etablert, i 1605 på territorium som tidligere var del av grevskapet Dublin. Den er også kjent som Irlands hage. Inn i det 19. århundre var Wicklow et sentrum for irske opprørere, og en militærvei ble anlagt gjennom grevskapet for at britiske styrker raskt kunne flytte seg i området. Ruinene av det store klosteret Glendalough ligger i Wicklow.</dbpedia-owl:abstract>
-    <dbpprop:north rdf:resource="http://dbpedia.org/resource/County_Dublin"/>
-    <dbpedia-owl:populationTotalRanking rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</dbpedia-owl:populationTotalRanking>
-    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-6.41667</geo:long>
-    <rdfs:comment xml:lang="sv">Wicklow är ett grevskap på Irland. Huvudort är Wicklow, medan den största staden är Bray. Grevskapet är känt under namnet The Last County eftersom det är det sista grevskapet som upprättades på Irland. Wicklow bildades 1605 efter en delning av grevskapet Dublin. Grevskapet är även känt som Irlands hage. Under 1800-talet var Wicklow ett centrum för irländska uppror, och en militärväg anlades rakt igenom grevskapet så att de brittiska styrkorna lätt kunde röra sig i området.</rdfs:comment>
-    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
-    <rdfs:comment xml:lang="es">El Condado de Wicklow (/) ubicado en la costa medio-oriental de Irlanda, al sur del Condado de Dublín. Área: 2,024 km². La capital del condado es Wicklow (población 9.355), aunque la ciudad más grande es Bray (población 30.951). Otras ciudades importantes son Greystones (pob 11.913) y Arklow (pob 9.993), todas ellas en la costa este. Algunas de sus poblaciones forman parte del Gran Dublín. Se le conoce como 'el último condado' ya que fue el último en establecerse, en 1605.</rdfs:comment>
-    <dbpprop:blankNameSec rdf:resource="http://dbpedia.org/resource/Vehicle_registration_plates_of_Ireland"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:governmentType rdf:resource="http://dbpedia.org/resource/Wicklow_County_Council"/>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Уиклоу_(графство)"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/East_(European_Parliament_constituency)"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountiesOfTheRepuBlicOfIreland"/>
-    <dbpprop:cols rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</dbpprop:cols>
-    <rdfs:label xml:lang="en">County Wicklow</rdfs:label>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/위클로_주"/>
-    <dbpprop:blankInfoSec xml:lang="en">WW</dbpprop:blankInfoSec>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_settlement"/>
-    <rdfs:comment xml:lang="ca">El comtat de Wicklow (gaèlic irlandès Cill Mhantáin) és un comtat de la província de Leinster. És situat al sud del Comtat de Dublín. La capital del comtat és Wicklow (9.355 habitants), encara que la ciutat més gran és Bray (30.951 habitants). Altres ciutats importants són Greystones (11.913 habitants) i Arklow (9.993 habitants). Se'l coneix com 'el darrer comtat' perquè fou el darrer en establir-se, el 1605. Anteriorment formava part del Comtat de Dublín.</rdfs:comment>
-    <grs:point xml:lang="en">53.0 -6.416666666666667</grs:point>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <rdfs:label xml:lang="cs">Hrabství Wicklow</rdfs:label>
-    <rdfs:comment xml:lang="fr">Le comté de Wicklow (en gaélique Contae Chill Mhantáin) est une circonscription administrative de la République d'Irlande située au sud de Dublin sur la côte est de l'île dans la province du Leinster. Sa superficie est de km² pour habitants. Il est bordé par la mer d'Irlande à l'est et des comtés de Wexford, Carlow, Kildare, Dublin-Sud et Dun Laoghaire-Rathdown. La capitale du comté est la ville de Wicklow (habitants) même si la ville la plus importante est Bray avec habitants.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement"/>
-    <rdfs:label xml:lang="zh">威克洛郡</rdfs:label>
-    <rdfs:comment xml:lang="no">Wicklow er et grevskap i Republikken Irland, i provinsen Leinster. Administrasjonsbyen er Wicklow, mens den største byen er Bray. Det er kjent under kallenavnet The last country, ettersom det er det siste som ble etablert, i 1605 på territorium som tidligere var del av grevskapet Dublin. Den er også kjent som Irlands hage. Inn i det 19. århundre var Wicklow et sentrum for irske opprørere, og en militærvei ble anlagt gjennom grevskapet for at britiske styrker raskt kunne flytte seg i området.</rdfs:comment>
-    <dbpprop:subdivisionType rdf:resource="http://dbpedia.org/resource/Provinces_of_Ireland"/>
-    <rdfs:label xml:lang="ca">Comtat de Wicklow</rdfs:label>
-    <dbpprop:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2011</dbpprop:populationAsOf>
-    <rdfs:label xml:lang="de">County Wicklow</rdfs:label>
-    <dbpedia-owl:abstract xml:lang="uk">Віклоу — графство на сході Ірландії.</dbpedia-owl:abstract>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/East_(European_Parliament_constituency)"/>
-    <rdfs:label xml:lang="uk">Віклоу (графство)</rdfs:label>
-    <dbpprop:west xml:lang="en">County Kildare and County Carlow</dbpprop:west>
-    <dbpprop:south rdf:resource="http://dbpedia.org/resource/County_Wexford"/>
-    <dbpedia-owl:abstract xml:lang="ko">위클로 주(County Wicklow)는 아일랜드의 주 중 하나이다.</dbpedia-owl:abstract>
-    <dbpprop:east rdf:resource="http://dbpedia.org/resource/Irish_Sea"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:County_Wicklow"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.08314"/>
-    <dbpprop:areaRank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</dbpprop:areaRank>
-    <dbpedia-owl:motto xml:lang="en">"Free Spirits"</dbpedia-owl:motto>
     <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_settlement"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountiesOfTheRepuBlicOfIreland"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Wicklow_(contea)"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wicklow.ie/"/>
+    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/East_(European_Parliament_constituency)"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Geographic_location"/>
+    <dbpprop:subdivisionType xml:lang="en">Dáil Éireann</dbpprop:subdivisionType>
+    <rdfs:label xml:lang="ca">Comtat de Wicklow</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="en">County Wicklow is a county in Ireland. It is part of the Mid-East Region and is also located in the province of Leinster. It is named after the town of Wicklow, which derives from the Old Norse name Víkingalág or Wykynlo. Wicklow County Council is the local authority for the county. The population of the county is 136,448 according to the 2011 census.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="en">County Wicklow is a county in Ireland. It is part of the Mid-East Region and is also located in the province of Leinster. It is named after the town of Wicklow, which derives from the Old Norse name Víkingalág or Wykynlo. Wicklow County Council is the local authority for the county. The population of the county is 136,448 according to the 2011 census.</rdfs:comment>
+    <rdfs:comment xml:lang="hu">Wicklow megye (írül Contae Chill Mhantáin) megye az Ír Köztársaságban Dublintól délre, az Ír-sziget keleti, ír-tengeri partvidékének közepén. A Nagy Dublin Övezethez szokták sorolni. Területe 2024 km². Lakossága 114 676. Szomszédai Carlow, Dun Laoghaire-Rathdown, Kildare, Dél-Dublin és Wexford megyék. A megye székhelye a 9355 lakosú Wicklow, legnagyobb városa a külvárosokkal együtt 30 951 lakosú (2002) Bray.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="zh">威克洛郡 （County Wicklow；愛爾蘭語：Contae Chill Mhantáin），是愛爾蘭的一個郡，位於愛爾蘭島東部海岸。歷史上屬倫斯特省。 面積2,024平方公里，2006年人口114,676人。首府威克洛。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fi">County Wicklow, iiriksi Contae Cill Mhantáin, on yksi Irlannin 32:sta kreivikunnasta ja sijaitsee hieman Dublinista etelään, Irlannin itärannikolla, Leinsterin provinssissa. Wicklow’n kreivikunnassa sijaitsee mm. Wicklow-vuoret (Wicklow Mountains), jotka näkyvät kauniisti Dublinista etelään päin katsottaessa. Wicklow’n pääkaupunki on samaa nimeä kantava Wicklow’n kaupunki, mutta kreivikunnan suurin kaupunki on kuitenkin Bray, joka sijaitsee rannikolla. Braysta on hyvät yhteydet Dubliniin DART-junan ansiosta.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">Le comté de Wicklow (en gaélique Contae Chill Mhantáin) est une circonscription administrative de la République d'Irlande située au sud de Dublin sur la côte est de l'île dans la province du Leinster. Sa superficie est de km² pour habitants. Il est bordé par la mer d'Irlande à l'est et des comtés de Wexford, Carlow, Kildare, Dublin-Sud et Dun Laoghaire-Rathdown. La capitale du comté est la ville de Wicklow (habitants) même si la ville la plus importante est Bray avec habitants. Bray, mais aussi Greystones et Arklow se trouvent dans l'immédiate limite sud de Dublin et bénéficient ainsi des transports de l'agglomération dublinoise. Le comté de Wicklow est souvent décrit comme le dernier comté de l'Irlande car il fut le dernier érigé en comté en 1605 reprenant alors des terres dépendant de Dublin. Le comté se décompose en deux entités très différentes : la côte d'une part et les Montagnes de Wicklow d'autre part. La première est une des zones de villégiatures favorites des Dublinois et la deuxième présente des paysages sauvages comme on peut en trouver dans le Connemara ou le Kerry. L'ancien monastère de Glendalough se trouve dans ces montagnes. Le comté fait partie du Grand Dublin (Greater Dublin area).</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="uk">Віклоу — графство на сході Ірландії.</rdfs:comment>
+    <dbpprop:blankInfoSec xml:lang="en">WW</dbpprop:blankInfoSec>
+    <dbpedia-owl:populationTotalRanking rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</dbpedia-owl:populationTotalRanking>
+    <dbpedia-owl:motto xml:lang="en">"Free Spirits"</dbpedia-owl:motto>
+    <dbpedia-owl:abstract xml:lang="ja">ウィックロー州(County Wicklow)はアイルランド東部、レンスター地方の州。ダブリン州のすぐ南にある。人口126,330(2006)。</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:label xml:lang="de">County Wicklow</rdfs:label>
+    <rdfs:comment xml:lang="ru">Уи́клоу — графство на востоке Ирландии. Входит в состав провинции Ленстер на территории Республики Ирландии. Столица — Уиклоу, крупнейший город — Брей. Население 115 тыс. человек (17-е место среди графств; данные 2002 г.).</rdfs:comment>
+    <foaf:name xml:lang="en">County Wicklow</foaf:name>
+    <dbpprop:seat rdf:resource="http://dbpedia.org/resource/Wicklow"/>
+    <dbpprop:name xml:lang="en">County Wicklow</dbpprop:name>
+    <dbpprop:small xml:lang="en">yes</dbpprop:small>
+    <dbpedia-owl:motto xml:lang="en">Meanma Saor(Irish)</dbpedia-owl:motto>
+    <dbpprop:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2011</dbpprop:populationAsOf>
+    <dbpedia-owl:abstract xml:lang="es">El Condado de Wicklow (/) ubicado en la costa medio-oriental de Irlanda, al sur del Condado de Dublín. Área: 2,024 km². La capital del condado es Wicklow (población 9.355), aunque la ciudad más grande es Bray (población 30.951). Otras ciudades importantes son Greystones (pob 11.913) y Arklow (pob 9.993), todas ellas en la costa este. Algunas de sus poblaciones forman parte del Gran Dublín. Se le conoce como 'el último condado' ya que fue el último en establecerse, en 1605. Anteriormente formaba parte de los condados de Carlow y Dublín. También se le conoce como 'el Jardín de Irlanda' por su naturaleza. El Parque Nacional Montañas de Wicklow y la Cascada Powerscourt (con 121 ms. , la más alta de Irlanda) se hallan en su territorio. En el condado tiene su sede el equipo ciclista profesional Colnago-CSF Inox.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="nl">Wicklow is een graafschap aan de oostkust van Ierland, en ligt ten zuiden van county Dublin. Het heeft een oppervlakte van ongeveer 2024 km² en had in 2002 114.676 inwoners. De hoofdstad van de county is Wicklow (inw. 9355), alhoewel de grootste bevolkingsgroep (30.951) in Bray woont. Greystones (11.913 inw. ) en Bray liggen beide aan de DART-lijn: een stadsspoorweg die de regio Dublin doorkruist. Wicklow staat bekend als de laatste county omdat het de laatste was die werd opgericht. Een Military Road werd door het graafschap gelegd om het Britse leger snel toegang te kunnen geven tot de Ierse rebellen die tot in de 19e eeuw zich schuilhielden in de Wicklow Mountains. Wicklow staat ook bekend als De tuin van Ierland. De ruïnes van de abdij bij Glendalough zijn een bekende toeristische attractie.</dbpedia-owl:abstract>
+    <dbpprop:subdivisionType rdf:resource="http://dbpedia.org/resource/Provinces_of_Ireland"/>
     <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Counties_of_the_Republic_of_Ireland"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sugarloaf_(West_Wicklow)">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Ballyellis">
-    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Redcross">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/KnockanStockan">
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wicklow_railway_station">
-    <dbpprop:borough rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leinster">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arklow">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Murphy_(Gaelic_football_manager)">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Blaquiere,_1st_Baron_de_Blaquiere">
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Yann_Goulet">
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mervyn_Travers">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bray">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Wexford">
-    <dbpprop:north rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ninette_de_Valois">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Buckley_(politician)">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Coolkenno">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Devlin">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fintan_Kilbride">
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Contae_Chill_Mhantain">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carnew_massacre">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lorenzo_Moore">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Navigation_(album)">
-    <dbpedia-owl:recordedIn rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fionn_Regan">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wicklow_Mountains_National_Park">
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ciar%C3%A1n_Hyland">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kippure">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joe_Behan">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Contae_Chill_Mhant%C3%A1in">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kilcoole_halt">
-    <dbpprop:borough rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Asgard_II">
-    <dbpedia-owl:builder rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tinahely">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/County_Wicklow">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/River_Liffey">
-    <dbpedia-owl:origin rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/County_Wicklow">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Newtownmountkennedy">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Butterhill">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Ernest_Bowen">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeofbirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Coolboy">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Glencree_Centre_for_Peace_and_Reconciliation">
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_MPs_elected_in_the_United_Kingdom_general_election,_1832/Constituencies_U%E2%80%93Z">
-    <dbpprop:county rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dirty_Epics">
-    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kilcoole">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leo_Cullen_(rugby_union)">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Caffrey">
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wicklow_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ronnie_O'Brien">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:cityofbirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hempstown">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Matthew_Darley">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Heffernan">
-    <dbpprop:cityofbirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/River_Aughrim">
-    <dbpedia-owl:origin rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_McCabe">
-    <dbpedia-owl:residence rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:residence rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Moran_(bishop)">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Croghan_Mountain">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiltegan">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Aughrim,_County_Wicklow">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Katie_Taylor">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Eamonn_Darcy">
-    <dbpprop:residence rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tonelagee">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dara_%C3%93_Briain">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carrick_Mountain">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Poulaphouca_Reservoir">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Edward_Crosbie">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dunlavin">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Duff_Hill">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arklow_railway_station">
-    <dbpprop:borough rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Cronan's_Boys'_National_School">
-    <dbpedia-owl:county rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:county rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Coolafancy">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Henry_Medcalf">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dean_Odlum_(Gaelic_footballer)">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%93rla_Fallon">
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/River_Slaney">
-    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:origin rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/J.P._Dalton">
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Denis_Dempsey">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mullacor">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_Sugar_Loaf">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Knockananna">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ina_Boyle">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashford,_County_Wicklow">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Djouce">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Dwyer">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Moanbane">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Wicklow,_Ireland">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Camelot_(TV_series)">
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Holt_(rebel)">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchtown,_Dublin">
-    <dbpprop:south rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cloghernagh">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kilpedder">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bray_Daly_Station">
-    <dbpprop:borough rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Barlow">
-    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gravale">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Arklow_(1649)">
-    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/East%E2%80%93West_Interconnector">
-    <dbpprop:finish rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Col%C3%A1iste_R%C3%A1ith%C3%ADn">
-    <dbpedia-owl:county rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:county rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Snip_Nua">
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Aughrim_Rugby">
-    <dbpprop:region rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Woods_(politician)">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Geraldine_Fitzgerald">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/River_Avoca">
-    <dbpedia-owl:origin rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Avoca,_County_Wicklow">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Poulaphouca">
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Carlow">
-    <dbpprop:east rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Luggala">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Blessington">
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Mackey_(Roman_Catholic_bishop)">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ray_McAnally">
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Kenny">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_Donnelly">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Newcastle,_County_Wicklow">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Donard">
-    <dbpprop:subdivisionName rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpedia-owl:isPartOf rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Benleagh">
-    <dbpedia-owl:locatedInArea rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Local_administrative_units_of_the_Republic_of_Ireland"/>
+    <dbpprop:motto xml:lang="en">"Free Spirits"</dbpprop:motto>
+    <dbpedia-owl:abstract xml:lang="no">Wicklow er et grevskap i Republikken Irland, i provinsen Leinster. Administrasjonsbyen er Wicklow, mens den største byen er Bray. Det er kjent under kallenavnet The last country, ettersom det er det siste som ble etablert, i 1605 på territorium som tidligere var del av grevskapet Dublin. Den er også kjent som Irlands hage. Inn i det 19. århundre var Wicklow et sentrum for irske opprørere, og en militærvei ble anlagt gjennom grevskapet for at britiske styrker raskt kunne flytte seg i området. Ruinene av det store klosteret Glendalough ligger i Wicklow.</dbpedia-owl:abstract>
+    <dbpprop:imageShield xml:lang="en">WicklowCrest.png</dbpprop:imageShield>
+    <dbpprop:areaTotalKm rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2024</dbpprop:areaTotalKm>
   </rdf:Description>
 </rdf:RDF>

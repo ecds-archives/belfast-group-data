@@ -9,92 +9,98 @@
    xmlns:void="http://rdfs.org/ns/void#"
 >
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Ckup19970000094278#skos:Concept">
+    <skos:prefLabel>Stallworthy, Jon, 1935-</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <skos:prefLabel>Stallworthy, Jon, 1935-</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/84480923">
-    <foaf:name>Stallworthy, Jon (Jon Howie), 1935-</foaf:name>
-    <foaf:name>Stallworthy, Jon.</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Stallworthy, Jon, 1935-</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jon_Stallworthy"/>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/121009386"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12030979t#foaf:Person"/>
-    <rdaGr2:dateOfBirth>1935-01-18</rdaGr2:dateOfBirth>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12030979#skos:Concept">
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12030979t"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12030979t"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:prefLabel>Stallworthy, Jon, 1935-</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/84480923/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0060K5388#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
-    <skos:prefLabel>Stallworthy, Jon.</skos:prefLabel>
-    <skos:altLabel>Stallworthy, Jon, 1935-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/84480923/">
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/84480923"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79065046#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
+    <skos:prefLabel>Stallworthy, Jon.</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79065046"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000420633#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Stallworthy, Jon.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00044564#skos:Concept">
+    <skos:prefLabel>Stallworthy, Jon.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C121009386#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
     <skos:prefLabel>Stallworthy, Jon, 1935-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJon_Stallworthy#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Stallworthy, Jon.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/84480923/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/84480923"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00044564#skos:Concept">
-    <skos:prefLabel>Stallworthy, Jon.</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/84480923/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036581448#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0060K5388#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
-    <skos:prefLabel>Stallworthy, Jon.</skos:prefLabel>
     <skos:altLabel>Stallworthy, Jon, 1935-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:prefLabel>Stallworthy, Jon.</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJon_Stallworthy#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12030979#skos:Concept">
+    <skos:prefLabel>Stallworthy, Jon, 1935-</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12030979t"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
-    <skos:prefLabel>Stallworthy, Jon.</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12030979t"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000420633#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
-    <skos:prefLabel>Stallworthy, Jon.</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/84480923">
+    <foaf:name>Stallworthy, Jon.</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12030979t#foaf:Person"/>
+    <foaf:name>Stallworthy, Jon (Jon Howie), 1935-</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jon_Stallworthy"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/121009386"/>
+    <rdaGr2:dateOfBirth>1935-01-18</rdaGr2:dateOfBirth>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Stallworthy, Jon, 1935-</foaf:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C06786399X#skos:Concept">
-    <skos:prefLabel>Stallworthy, Jon (Jon Howie), 1935-</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Stallworthy, Jon (Jon Howie), 1935-</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79065046#skos:Concept">
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79065046"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000019541#skos:Concept">
+    <skos:prefLabel>Stallworthy, Jon, 1935-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036581448#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:altLabel>Stallworthy, Jon, 1935-</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/84480923"/>
     <skos:prefLabel>Stallworthy, Jon.</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
 </rdf:RDF>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2962661/about.rdf">
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2962661/"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-10-08</dcterms:modified>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2962661/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2962661/">
+    <gn:name>Co Meath</gn:name>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/County_Meath"/>
+    <gn:shortName xml:lang="en">Co Meath</gn:shortName>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2962661/an-mhi.html"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521314/"/>
+    <gn:population>144185</gn:population>
+    <gn:shortName>Meath</gn:shortName>
+    <wgs84_pos:lat>53.66667</wgs84_pos:lat>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2962661/about.rdf"/>
+    <gn:alternateName>Contae na Mí</gn:alternateName>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:countryCode>IE</gn:countryCode>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/2962661/contains.rdf"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/County_Meath"/>
+    <wgs84_pos:long>-6.66667</wgs84_pos:long>
+    <gn:officialName xml:lang="en">County Meath</gn:officialName>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/7521314/"/>
+  </rdf:Description>
+</rdf:RDF>

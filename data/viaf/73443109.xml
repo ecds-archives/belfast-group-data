@@ -8,97 +8,97 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/73443109">
-    <foaf:name>オニール, ジョセフ</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Neill, Joseph O' 1964-</foaf:name>
-    <rdaGr2:dateOfBirth>1964</rdaGr2:dateOfBirth>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/031904483/id"/>
-    <foaf:name>O' Neill, Joseph 1964-</foaf:name>
-    <foaf:name>Oneill, Joseph</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Joseph_O'Neill_(writer)"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb123031824#foaf:Person"/>
-    <foaf:name>O'Neill, Joseph, 1964-....</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/124205828"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C01237813#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
+    <skos:prefLabel>Oneill, Joseph</skos:prefLabel>
+    <skos:altLabel>オニール, ジョセフ</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cno+96006071#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>O'Neill, Joseph, 1964-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/no96006071"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0083735#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:prefLabel>O'Neill, Joseph, 1964-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C031904483#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>O'Neill, Joseph, 1964-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/73443109/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/73443109"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C124205828#skos:Concept">
+    <skos:altLabel>O' Neill, Joseph 1964-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>O'Neill, Joseph, 1964-....</skos:prefLabel>
+    <skos:altLabel>Neill, Joseph O' 1964-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2010049293#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>O'Neill, Joseph, 1964-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12303182#skos:Concept">
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb123031824"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
     <skos:prefLabel>O'Neill, Joseph, 1964-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb123031824"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/73443109">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Neill, Joseph O' 1964-</foaf:name>
+    <foaf:name>オニール, ジョセフ</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb123031824#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/124205828"/>
+    <foaf:name>O' Neill, Joseph 1964-</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Joseph_O'Neill_(writer)"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/031904483/id"/>
+    <rdaGr2:dateOfBirth>1964</rdaGr2:dateOfBirth>
+    <foaf:name>O'Neill, Joseph, 1964-....</foaf:name>
+    <foaf:name>Oneill, Joseph</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJoseph_O'Neill_(writer)#skos:Concept">
+    <skos:prefLabel>Oneill, Joseph</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/73443109/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C01237813#skos:Concept">
-    <skos:altLabel>オニール, ジョセフ</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035911271#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Oneill, Joseph</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0083735#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
     <skos:prefLabel>O'Neill, Joseph, 1964-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/73443109/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/73443109"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C141522275#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <skos:prefLabel>O'Neill, Joseph, 1964-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cno+96006071#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:prefLabel>O'Neill, Joseph, 1964-....</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/no96006071"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035911271#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
-    <skos:prefLabel>O'Neill, Joseph, 1964-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJoseph_O'Neill_(writer)#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Oneill, Joseph</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2010049293#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>O'Neill, Joseph, 1964-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12303182#skos:Concept">
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb123031824"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb123031824"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
-    <skos:prefLabel>O'Neill, Joseph, 1964-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C124205828#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:altLabel>Neill, Joseph O' 1964-</skos:altLabel>
-    <skos:altLabel>O' Neill, Joseph 1964-</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>O'Neill, Joseph, 1964-....</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/73443109"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/73443109/">
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/73443109"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
 </rdf:RDF>

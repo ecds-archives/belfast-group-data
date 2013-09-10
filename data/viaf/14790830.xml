@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca21540834#skos:Concept">
+    <skos:altLabel>Maria, Robert de.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/14790830"/>
+    <skos:altLabel>De Maria, Robert.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>DeMaria, Robert.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000203392#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:prefLabel>DeMaria, Robert.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/14790830"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072793759#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>DeMaria, Robert, Jr.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/14790830"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/14790830">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>DeMaria, Robert.</foaf:name>
+    <foaf:name>De Maria, Robert.</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/13032745X"/>
+    <foaf:name>DeMaria, Robert, Jr.</foaf:name>
+    <foaf:name>Maria, Robert de.</foaf:name>
+    <rdaGr2:dateOfBirth>1948-11-30</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12057591p#foaf:Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++01095563#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>DeMaria, Robert.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/14790830"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/14790830/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/14790830"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0056D6167#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:prefLabel>DeMaria, Robert.</skos:prefLabel>
+    <skos:altLabel>Maria, Robert de.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/14790830"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12057591#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12057591p"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12057591p"/>
+    <skos:altLabel>De Maria, Robert.</skos:altLabel>
+    <skos:prefLabel>DeMaria, Robert.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/14790830"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/14790830/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/14790830"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++85272010#skos:Concept">
+    <skos:altLabel>De Maria, Robert.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>DeMaria, Robert.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/14790830"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n85272010"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/14790830/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/14790830"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C13032745X#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/14790830"/>
+    <skos:altLabel>Maria, Robert de.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>De Maria, Robert.</skos:altLabel>
+    <skos:prefLabel>DeMaria, Robert.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+</rdf:RDF>

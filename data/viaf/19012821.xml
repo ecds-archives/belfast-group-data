@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/19012821/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/19012821"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/19012821/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/19012821"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/19012821/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/19012821"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/19012821">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Yeats, Michael</foaf:name>
+    <foaf:name>Yeats, Michael B., 1921-2007</foaf:name>
+    <rdaGr2:dateOfDeath>2007-01-03</rdaGr2:dateOfDeath>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdaGr2:dateOfBirth>1921-08-22</rdaGr2:dateOfBirth>
+    <foaf:name>Yeats, Michael 1921-</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/17330902X"/>
+    <foaf:name>Yeats, Michael B. 1921-</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Michael_Yeats"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CMichael_Yeats#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/19012821"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Yeats, Michael</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C17330902X#skos:Concept">
+    <skos:prefLabel>Yeats, Michael B. 1921-</skos:prefLabel>
+    <skos:altLabel>Yeats, Michael 1921-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/19012821"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++99035165#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n99035165"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/19012821"/>
+    <skos:prefLabel>Yeats, Michael B., 1921-2007</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -8,55 +8,36 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CPeter_Kavanagh_(writer)#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Kavanagh, Peter.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73989149"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79041667#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79041667"/>
+    <skos:prefLabel>Kavanagh, Peter, 1916-2006</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73989149"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/73989149/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/73989149"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CPeter_Kavanagh_(writer)#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/73989149"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Kavanagh, Peter.</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068019394#skos:Concept">
-    <skos:prefLabel>Kavanagh, Peter, 1916-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/73989149"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/73989149/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/73989149"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79041667#skos:Concept">
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79041667"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Kavanagh, Peter, 1916-2006</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/73989149"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/73989149/#foaf:Person">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/73989149"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C029311497#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/73989149"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Kavanagh, Peter, 1916-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73989149"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12096450#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Kavanagh, Peter, 1916-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/73989149">
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/029311497/id"/>
-    <foaf:name>Kavanagh, Peter, 1916-2006</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Peter_Kavanagh_(writer)"/>
-    <foaf:name>Kavanagh, Peter.</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdaGr2:dateOfDeath>2006-01-27</rdaGr2:dateOfDeath>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12096450d#foaf:Person"/>
-    <foaf:name>Kavanagh, Peter, 1916-....</foaf:name>
-    <rdaGr2:dateOfBirth>1916-03-19</rdaGr2:dateOfBirth>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73989149"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12096450d"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12096450d"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2002053917#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -64,12 +45,31 @@
     <foaf:focus rdf:resource="http://viaf.org/viaf/73989149"/>
     <skos:prefLabel>Kavanagh, Peter.</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12096450#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/73989149/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/73989149"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/73989149">
+    <rdaGr2:dateOfDeath>2006-01-27</rdaGr2:dateOfDeath>
+    <rdaGr2:dateOfBirth>1916-03-19</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12096450d#foaf:Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/029311497/id"/>
+    <foaf:name>Kavanagh, Peter, 1916-2006</foaf:name>
+    <foaf:name>Kavanagh, Peter.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Peter_Kavanagh_(writer)"/>
+    <foaf:name>Kavanagh, Peter, 1916-....</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068019394#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Kavanagh, Peter, 1916-....</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/73989149"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12096450d"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12096450d"/>
-    <skos:prefLabel>Kavanagh, Peter, 1916-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/73989149/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/73989149"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
   </rdf:Description>
 </rdf:RDF>

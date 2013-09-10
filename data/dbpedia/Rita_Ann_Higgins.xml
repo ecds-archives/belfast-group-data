@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rita_Ann_Higgins">
+    <dbpprop:name xml:lang="en">Higgins, Rita Ann</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyGalway"/>
+    <foaf:name xml:lang="en">Rita Ann Higgins</foaf:name>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Rita_Ann_Higgins"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pgil-eirdata.org/html/pgil_datasets/authors/h/Higgins,RA/life.htm"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ritaannhiggins.com/profile.html"/>
+    <dbpedia-owl:abstract xml:lang="en">Rita Ann Higgins, Irish poet and playwright, born 1955.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishDramatistsAndPlaywrights"/>
+    <foaf:surname xml:lang="en">Higgins</foaf:surname>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:comment xml:lang="en">Rita Ann Higgins, Irish poet and playwright, born 1955.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Galway"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Rita_Ann_Higgins"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0bmbgss"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_women_poets"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Rita_Ann_Higgins?oldid=480246600"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_writers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1955_births"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <foaf:givenName xml:lang="en">Rita Ann</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_dramatists_and_playwrights"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1955</dbpprop:dateOfBirth>
+  </rdf:Description>
+</rdf:RDF>

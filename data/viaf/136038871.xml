@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C056398832#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Dublin Arts Festival</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/136038871"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/136038871/#rdaEnt:CorporateBody">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/136038871"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/136038871/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/136038871"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/136038871/#foaf:Organization">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/136038871"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80057880#skos:Concept">
+    <skos:prefLabel>Dublin Arts Festival</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80057880"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/136038871"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/136038871">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/16320432-9"/>
+    <foaf:name>Dublin Arts Festival</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/136038871/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/136038871"/>
+  </rdf:Description>
+</rdf:RDF>

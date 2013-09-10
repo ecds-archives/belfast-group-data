@@ -4,73 +4,73 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="N4ae3e9dd80b24234b6a25244eb0c1014">
-    <rdf:first>Post Mortem on a Mass Grave</rdf:first>
-    <rdf:rest rdf:nodeID="N6a3b1d6e02e147578a1c17b47851f5fd"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/1bc0v#carson1_1024">
-    <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>WHEEL</schema:name>
+  <rdf:Description rdf:nodeID="N0afc92f62dc0480f99c8e0ea662f184b">
+    <rdf:first>Wheel</rdf:first>
+    <rdf:rest rdf:nodeID="N47243b8a2935461fabf4b0e3a691d611"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/1bc0v#carson1_109">
-    <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:name>LETTER FROM ALASKA
                         </schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N237ef17aae294a0c8bfb44ae18397741">
-    <rdf:rest rdf:nodeID="N65b38d38c2ff49e7ad4bdf25820cf720"/>
-    <rdf:first>                     Aranmore Island                 </rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N6a3b1d6e02e147578a1c17b47851f5fd">
-    <rdf:first>The Clockwork Pigeon</rdf:first>
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/1bc0v#carson1_1014">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:name>
                             ARANMORE ISLAND
                         </schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/1bc0v#carson1_1034">
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/1bc0v#carson1_1024">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>THE CLOCKWORK PIGEON</schema:name>
+    <schema:name>WHEEL</schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/66d1e3ee911642a0d8f6aa9244ac7cca">
-    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/1bc0v"/>
-    <dc:title rdf:nodeID="N3334585295544bc18f4f589f461b4aaf"/>
-    <schema:name>POEMS BY CIARAN CARSON</schema:name>
-    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+  <rdf:Description rdf:nodeID="N47243b8a2935461fabf4b0e3a691d611">
+    <rdf:first>Post Mortem on a Mass Grave</rdf:first>
+    <rdf:rest rdf:nodeID="N2b96ba6b68fb42d498d11659c511ea32"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/85621766">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Ciaran Carson</schema:name>
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N29e75018562545aaaca09347436c58b4">
+    <rdf:first>Letter from Alaska                 </rdf:first>
+    <rdf:rest rdf:nodeID="N9bcdc481285b41788170fb22818deecd"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9bcdc481285b41788170fb22818deecd">
+    <rdf:rest rdf:nodeID="Nd3ae6f3e900c4ae78e65fd841c140d82"/>
+    <rdf:first>                     Aranmore Island                 </rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/1bc0v#carson1_1034">
+    <schema:name>THE CLOCKWORK PIGEON</schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2b96ba6b68fb42d498d11659c511ea32">
+    <rdf:first>The Clockwork Pigeon</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/1bc0v#carson1_1019">
     <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:name>THE ISLAND REVISITED</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N3909be4f76cb42209d6318213058a5b9">
-    <rdf:first>Wheel</rdf:first>
-    <rdf:rest rdf:nodeID="N4ae3e9dd80b24234b6a25244eb0c1014"/>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/66d1e3ee911642a0d8f6aa9244ac7cca">
+    <dc:title rdf:nodeID="N29e75018562545aaaca09347436c58b4"/>
+    <schema:name>POEMS BY CIARAN CARSON</schema:name>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/1bc0v"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N3334585295544bc18f4f589f461b4aaf">
-    <rdf:rest rdf:nodeID="N237ef17aae294a0c8bfb44ae18397741"/>
-    <rdf:first>Letter from Alaska                 </rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N65b38d38c2ff49e7ad4bdf25820cf720">
-    <rdf:rest rdf:nodeID="N3909be4f76cb42209d6318213058a5b9"/>
+  <rdf:Description rdf:nodeID="Nd3ae6f3e900c4ae78e65fd841c140d82">
     <rdf:first>The Island Revisited</rdf:first>
+    <rdf:rest rdf:nodeID="N0afc92f62dc0480f99c8e0ea662f184b"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/1bc0v#carson1_1029">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/85621766"/>
     <schema:name>POST MORTEM ON A MASS GRAVE</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/85621766">
-    <schema:name>Ciaran Carson</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
   </rdf:Description>
 </rdf:RDF>

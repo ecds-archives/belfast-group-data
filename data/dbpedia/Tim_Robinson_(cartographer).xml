@@ -9,51 +9,39 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Tim_Robinson_%28cartographer%29">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tim_Robinson_(cartographer)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Robinson_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Tim_Robinson_(cartographer)"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Robinson_(cartographer)">
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyGalway"/>
-    <foaf:givenName xml:lang="en">Tim</foaf:givenName>
-    <foaf:name xml:lang="en">Tim Robinson</foaf:name>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Tim_Robinson_(cartographer)"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishExpatriatesInIreland"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishCartographers"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1935_births"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_expatriates_in_Ireland"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Galway"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.foldinglandscapes.com/"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05b53wr"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/books/2006/oct/07/featuresreviews.guardianreview4"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.librarything.com/author/robinsontim"/>
-    <dbpedia-owl:abstract xml:lang="en">Tim Robinson (born in 1935) is a writer and cartographer. Born in Yorkshire, he studied mathematics at Cambridge University. After a career as a visual artist in Istanbul, Vienna and London he settled in the Aran Islands, off the coast of Co. Galway, and began a detailed study of the landscape of the West of Ireland. He has won two Irish Book Awards for his Connemara books.</dbpedia-owl:abstract>
-    <dbpprop:name xml:lang="en">Robinson, Tim</dbpprop:name>
     <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Tim_Robinson_(cartographer)?oldid=461306312"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/books/2005/may/14/featuresreviews.guardianreview34"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_cartographers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Galway"/>
+    <foaf:givenName xml:lang="en">Tim</foaf:givenName>
     <rdfs:comment xml:lang="en">Tim Robinson (born in 1935) is a writer and cartographer. Born in Yorkshire, he studied mathematics at Cambridge University. After a career as a visual artist in Istanbul, Vienna and London he settled in the Aran Islands, off the coast of Co. Galway, and began a detailed study of the landscape of the West of Ireland. He has won two Irish Book Awards for his Connemara books.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishGeographers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishExpatriatesInIreland"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_geographers"/>
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Tim_Robinson_(cartographer)"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://nyrb.typepad.com/classics/2009/10/tia-tim-robinsons-aran.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyGalway"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Yorkshire"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromYorkshire"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishCartographers"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://nyrb.typepad.com/classics/2009/10/tia-tim-robinsons-aran.html"/>
+    <foaf:name xml:lang="en">Tim Robinson</foaf:name>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Tim_Robinson_(cartographer)"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.foldinglandscapes.com/"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.librarything.com/author/robinsontim"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/books/2006/oct/07/featuresreviews.guardianreview4"/>
+    <dbpprop:name xml:lang="en">Robinson, Tim</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1935_births"/>
     <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1935</dbpprop:dateOfBirth>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05b53wr"/>
     <foaf:surname xml:lang="en">Robinson</foaf:surname>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Tim_Robinson_(cartographer)">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Tim_Robinson_(cartographer)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_robinson_b._1935">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tim_Robinson_(cartographer)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <dbpedia-owl:abstract xml:lang="en">Tim Robinson (born in 1935) is a writer and cartographer. Born in Yorkshire, he studied mathematics at Cambridge University. After a career as a visual artist in Istanbul, Vienna and London he settled in the Aran Islands, off the coast of Co. Galway, and began a detailed study of the landscape of the West of Ireland. He has won two Irish Book Awards for his Connemara books.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_cartographers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_expatriates_in_Ireland"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/books/2005/may/14/featuresreviews.guardianreview34"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromYorkshire"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishGeographers"/>
   </rdf:Description>
 </rdf:RDF>

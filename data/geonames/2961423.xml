@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2961423/about.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2961423/"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2961423/"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-05-29</dcterms:modified>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2961423/">
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521313/"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2961423/about.rdf"/>
+    <gn:alternateName xml:lang="ko">슬라이고</gn:alternateName>
+    <gn:alternateName xml:lang="no">Sligo</gn:alternateName>
+    <gn:alternateName xml:lang="gd">Sligeach</gn:alternateName>
+    <wgs84_pos:long>-8.46943</wgs84_pos:long>
+    <gn:alternateName xml:lang="eo">Sligo</gn:alternateName>
+    <gn:alternateName xml:lang="uk">Слайго</gn:alternateName>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:alternateName xml:lang="nl">Sligo</gn:alternateName>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Sligo"/>
+    <gn:alternateName xml:lang="bg">Слайгоу</gn:alternateName>
+    <gn:alternateName xml:lang="ar">سليجو</gn:alternateName>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLA2"/>
+    <gn:alternateName xml:lang="ga">Sligeach</gn:alternateName>
+    <gn:alternateName xml:lang="it">Sligo</gn:alternateName>
+    <gn:alternateName xml:lang="gv">Shliggagh</gn:alternateName>
+    <gn:alternateName xml:lang="en">Sligo</gn:alternateName>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2961422/"/>
+    <gn:alternateName xml:lang="es">Sligo</gn:alternateName>
+    <gn:alternateName xml:lang="sv">Sligo</gn:alternateName>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2961423/nearby.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:alternateName xml:lang="ja">スライゴ</gn:alternateName>
+    <gn:alternateName xml:lang="fa">اسلایگو</gn:alternateName>
+    <gn:alternateName xml:lang="pl">Sligo</gn:alternateName>
+    <gn:countryCode>IE</gn:countryCode>
+    <gn:alternateName xml:lang="ru">Слайго</gn:alternateName>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2961422/"/>
+    <gn:alternateName xml:lang="sr">Слајго</gn:alternateName>
+    <gn:alternateName xml:lang="os">Слайго</gn:alternateName>
+    <wgs84_pos:lat>54.26969</wgs84_pos:lat>
+    <gn:alternateName xml:lang="da">Sligo</gn:alternateName>
+    <gn:population>20228</gn:population>
+    <gn:alternateName xml:lang="de">Sligo</gn:alternateName>
+    <gn:name>Sligo</gn:name>
+    <wgs84_pos:alt>13</wgs84_pos:alt>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Sligo"/>
+    <gn:alternateName xml:lang="pt">Sligo</gn:alternateName>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2961423/sligo.html"/>
+    <gn:alternateName xml:lang="lt">Slaigo</gn:alternateName>
+    <gn:alternateName xml:lang="br">Sligeach</gn:alternateName>
+  </rdf:Description>
+</rdf:RDF>

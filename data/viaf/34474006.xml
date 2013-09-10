@@ -8,143 +8,149 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/34474006">
-    <foaf:name>エンプソン, ウィリアム</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>امبسون، ويليام، 1906-1984</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/185101"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/028578775/id"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb120386328#foaf:Person"/>
-    <foaf:name>ويليام امبسون، 1906-1984</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11868454X"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/William_Empson"/>
-    <foaf:name>Empson, William, 1906-1984</foaf:name>
-    <foaf:name>Empson, William</foaf:name>
-    <rdaGr2:dateOfDeath>1984-04-15</rdaGr2:dateOfDeath>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Empson, William.</foaf:name>
-    <rdaGr2:dateOfBirth>1906-09-27</rdaGr2:dateOfBirth>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/34474006/">
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/34474006"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CWilliam_Empson#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
     <skos:prefLabel>Empson, William.</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C11868454X#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
-    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12038632#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb120386328"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb120386328"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20011210154#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca22016259#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <skos:prefLabel>Empson, William.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/34474006/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035064412#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028578775#skos:Concept">
     <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C185101#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/185101#concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10214118#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001108180#skos:Concept">
-    <skos:altLabel>ويليام امبسون، 1906-1984</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
-    <skos:prefLabel>امبسون، ويليام، 1906-1984</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00040005#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80009882#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
     <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80009882"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/34474006/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/34474006"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C070465967#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00438891#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
-    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
     <skos:altLabel>エンプソン, ウィリアム</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
+    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028578775#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/34474006/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/34474006"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10214118#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/34474006/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/34474006"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001108180#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+    <skos:altLabel>ويليام امبسون، 1906-1984</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
+    <skos:prefLabel>امبسون، ويليام، 1906-1984</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C11868454X#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1006393#skos:Concept">
-    <skos:prefLabel>Empson, William.</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12038632#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb120386328"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C39856#skos:Concept">
     <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-    <skos:altLabel>Empson, William</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb120386328"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00040005#skos:Concept">
+    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000043566#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035064412#skos:Concept">
+    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca22016259#skos:Concept">
+    <skos:prefLabel>Empson, William.</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C070465967#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
+    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1006393#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
+    <skos:prefLabel>Empson, William.</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000065166#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/34474006">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>エンプソン, ウィリアム</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/185101"/>
+    <rdaGr2:dateOfBirth>1906-09-27</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/William_Empson"/>
+    <foaf:name>ويليام امبسون، 1906-1984</foaf:name>
+    <foaf:name>Empson, William, 1906-1984</foaf:name>
+    <foaf:name>Empson, William</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11868454X"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb120386328#foaf:Person"/>
+    <rdaGr2:dateOfDeath>1984-04-15</rdaGr2:dateOfDeath>
+    <foaf:name>Empson, William.</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/028578775/id"/>
+    <foaf:name>امبسون، ويليام، 1906-1984</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C39856#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Empson, William</skos:altLabel>
+    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C185101#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34474006"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Empson, William, 1906-1984</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/185101#concept"/>
   </rdf:Description>
 </rdf:RDF>

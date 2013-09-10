@@ -8,33 +8,33 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
 >
-  <rdf:Description rdf:about="http://sws.geonames.org/2964376/">
-    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521316/"/>
-    <gn:locationMap rdf:resource="http://www.geonames.org/2964376/fahan.html"/>
-    <gn:countryCode>IE</gn:countryCode>
-    <gn:name>Fahan</gn:name>
-    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
-    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2964376/nearby.rdf"/>
-    <wgs84_pos:long>-7.47417</wgs84_pos:long>
-    <gn:alternateName xml:lang="en">Fahan</gn:alternateName>
-    <wgs84_pos:lat>55.08861</wgs84_pos:lat>
-    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Fahan"/>
-    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2964751/"/>
-    <gn:parentFeature rdf:resource="http://sws.geonames.org/2964751/"/>
-    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fahan"/>
-    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
-    <gn:alternateName xml:lang="ga">Fathain</gn:alternateName>
-    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
-    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2964376/about.rdf"/>
-    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2964376/about.rdf">
-    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
-    <cc:attributionURL rdf:resource="http://sws.geonames.org/2964376/"/>
-    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2964376/"/>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-18</dcterms:modified>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-18</dcterms:modified>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2964376/"/>
     <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2964376/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2964376/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/2964376/fahan.html"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:countryCode>IE</gn:countryCode>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fahan"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521316/"/>
+    <wgs84_pos:long>-7.47417</wgs84_pos:long>
+    <gn:alternateName xml:lang="ga">Fathain</gn:alternateName>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2964751/"/>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2964376/about.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2964751/"/>
+    <gn:alternateName xml:lang="en">Fahan</gn:alternateName>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Fahan"/>
+    <gn:name>Fahan</gn:name>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2964376/nearby.rdf"/>
+    <wgs84_pos:lat>55.08861</wgs84_pos:lat>
   </rdf:Description>
 </rdf:RDF>

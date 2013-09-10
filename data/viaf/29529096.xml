@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/29529096/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CYehuda_Amichai#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Amichaï, Yehuda</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000023267#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+    <skos:prefLabel>Amichai, Yehuda, 1924-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11888674#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:altLabel>ʿAmiyḥay Yhwdah 1924-2000</skos:altLabel>
+    <skos:altLabel>Amihaj Ieguda 1924-2000</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11888674g"/>
+    <skos:altLabel>Amihaï Yehouda 1924-2000</skos:altLabel>
+    <skos:altLabel>ʿAmiḥai, Yehuda, 1924-2000</skos:altLabel>
+    <skos:altLabel>עמיחי יהודה 1924-2000</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+    <skos:prefLabel>Amichai, Yehuda, 1924-2000</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11888674g"/>
+    <skos:altLabel>Amihai Yehudah 1924-2000</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C176379#skos:Concept">
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/176379#concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+    <skos:altLabel>ʿAmiḥay, Yehudah, 1924-2000</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>עמיחי, יהודה</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:prefLabel>Amichai, Yehuda, 1924-2000</skos:prefLabel>
+    <skos:altLabel>Amikhai, Jehuda, 1924-2000</skos:altLabel>
+    <skos:altLabel>Amikhai, Yehuda, 1924-2000</skos:altLabel>
+    <skos:altLabel>Amihaï, Yehoudah, 1924-2000</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/29529096/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/29529096"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0002H3895#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Amichaï, Yehuda</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50021587#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+    <skos:altLabel>Amihai, Yehuda</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>עמיחי, יהודה־־ביקורת ופרוש</skos:altLabel>
+    <skos:altLabel>Foifer, Yehudah</skos:altLabel>
+    <skos:altLabel>Amijai, Iehuda</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50021587"/>
+    <skos:altLabel>Amichay, Jehuda</skos:altLabel>
+    <skos:altLabel>עמיחי, יהודה</skos:altLabel>
+    <skos:altLabel>Amijai, Yehuda</skos:altLabel>
+    <skos:altLabel>Amikhaĭ, Ieguda</skos:altLabel>
+    <skos:altLabel>Amichay, Yehuda</skos:altLabel>
+    <skos:prefLabel>Amichaï, Yehuda</skos:prefLabel>
+    <skos:altLabel>ʻAmiḥai, Yehudah</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls002925599#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Amichaï, Yehuda</skos:prefLabel>
+    <skos:altLabel>Amichai, Jehuda.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/VLACC%7C000000066#skos:Concept">
+    <skos:altLabel>Amichai, Yehuda</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/VLACC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+    <skos:prefLabel>Amichai, Juda</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/29529096">
+    <foaf:name>Amichai, Jehuda.</foaf:name>
+    <foaf:name>Amichaï, Yehuda</foaf:name>
+    <foaf:name>Amihai, Yehuda</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Ami-Hay, Yehuda</foaf:name>
+    <foaf:name>Amikhaĭ, Ieguda</foaf:name>
+    <foaf:name>Foifer, Yehudah</foaf:name>
+    <foaf:name>זיוה (יהודה עמיחי)</foaf:name>
+    <foaf:name>'Amiyhay, Yhwdah.</foaf:name>
+    <foaf:name>Amichaj, Jehuda.</foaf:name>
+    <foaf:name>Amichai, Jehuda, 1924-2000</foaf:name>
+    <foaf:name>Amikhai, Yehuda, 1924-2000</foaf:name>
+    <foaf:name>Amijai, Iehuda</foaf:name>
+    <foaf:name>עמיחי, יהודה־־ביקורת ופרוש</foaf:name>
+    <foaf:name>עמיחי, יהודה</foaf:name>
+    <foaf:name>Amihaï, Yehoudah, 1924-2000</foaf:name>
+    <foaf:name>Amihai, Iehuda</foaf:name>
+    <foaf:name>Foifer, Yehuda</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11888674g#foaf:Person"/>
+    <foaf:name>Amichay, Yehuda</foaf:name>
+    <foaf:name>Амихай, Иегуда, 1924-2000</foaf:name>
+    <foaf:name>Amichay, Jehuda</foaf:name>
+    <foaf:name>Amihaï, Yehouda</foaf:name>
+    <foaf:name>Amihai Yehudah 1924-2000</foaf:name>
+    <foaf:name>Amihay, Yehuda</foaf:name>
+    <foaf:name>עמיחי, יהודה, 1924-2000</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118859145"/>
+    <foaf:name>Amihaï Yehouda 1924-2000</foaf:name>
+    <foaf:name>Фойфер, Иегуда, 1924-2000</foaf:name>
+    <foaf:name>Amihaj, Jehuda</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>ʿAmmīḥay, Yhūdā 1924-2000</foaf:name>
+    <foaf:name>Amikhai, Iehuda</foaf:name>
+    <foaf:name>Amichay, Jehuda 1924-2000</foaf:name>
+    <foaf:name>Amihaj Ieguda 1924-2000</foaf:name>
+    <foaf:name>Amikhai, Jehuda, 1924-2000</foaf:name>
+    <foaf:name>Amichai͏̈, Yehuda 1924-2000</foaf:name>
+    <rdaGr2:dateOfDeath>2000-09-22</rdaGr2:dateOfDeath>
+    <foaf:name>ʿAmiyḥay Yhwdah 1924-2000</foaf:name>
+    <foaf:name>Amichay, Yehuda 1924-2000</foaf:name>
+    <foaf:name>ʻAmiḥai, Yehudah</foaf:name>
+    <foaf:name>ʿAmīḥay, Yěhūdā, 1924-2000</foaf:name>
+    <rdaGr2:dateOfBirth>1924-05-03</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/176379"/>
+    <foaf:name>Amichai, Yehuda, 1924-</foaf:name>
+    <foaf:name>Pfeuffer, Ludwig 1924-2000 Frueherer Name</foaf:name>
+    <foaf:name>Amijai, Yehuda</foaf:name>
+    <foaf:name>アミハイ, イェフダ</foaf:name>
+    <foaf:name>ʿAmiḥai, Yehuda, 1924-2000</foaf:name>
+    <foaf:name>ʿAmîḥay, Yeûdā 1924-2000</foaf:name>
+    <foaf:name>ʿAmiḥai, Yehudah 1924-2000</foaf:name>
+    <foaf:name>ʿAmmîḥay, Yehûdā 1924-2000</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Yehuda_Amichai"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/026684705/id"/>
+    <foaf:name>Amichai, Yehuda, 1924-2000</foaf:name>
+    <foaf:name>עמיחי יהודה 1924-2000</foaf:name>
+    <foaf:name>Amichai, Yehuda</foaf:name>
+    <foaf:name>ʿAmiḥay, Yehudah, 1924-2000</foaf:name>
+    <foaf:name>Amichai, Juda</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C073515531#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+    <skos:altLabel>ʿAmiḥay, Yehudah, 1924-2000</skos:altLabel>
+    <skos:prefLabel>Amichai, Yehuda, 1924-2000</skos:prefLabel>
+    <skos:altLabel>ʿAmīḥay, Yěhūdā, 1924-2000</skos:altLabel>
+    <skos:altLabel>Amichai, Jehuda, 1924-2000</skos:altLabel>
+    <skos:altLabel>ʿAmiḥai, Yehuda, 1924-2000</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00940290#skos:Concept">
+    <skos:prefLabel>Amichai, Yehuda, 1924-2000</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>アミハイ, イェフダ</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00052486#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+    <skos:altLabel>Amichaj, Jehuda.</skos:altLabel>
+    <skos:altLabel>Amichai, Jehuda.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>'Amiyhay, Yhwdah.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Amichai, Yehuda, 1924-2000</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/29529096/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/29529096"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000009768#skos:Concept">
+    <skos:altLabel>זיוה (יהודה עמיחי)</skos:altLabel>
+    <skos:altLabel>Amichai, Jehuda.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>Foifer, Yehuda</skos:altLabel>
+    <skos:altLabel>Amihai, Iehuda</skos:altLabel>
+    <skos:altLabel>Amikhai, Iehuda</skos:altLabel>
+    <skos:prefLabel>Amichai, Yehuda, 1924-2000</skos:prefLabel>
+    <skos:altLabel>Amihai, Yehuda</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Amijai, Yehuda</skos:altLabel>
+    <skos:altLabel>Фойфер, Иегуда, 1924-2000</skos:altLabel>
+    <skos:altLabel>Amihay, Yehuda</skos:altLabel>
+    <skos:altLabel>Ami-Hay, Yehuda</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+    <skos:altLabel>Amihaj, Jehuda</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026684705#skos:Concept">
+    <skos:prefLabel>Amichai, Yehuda, 1924-2000</skos:prefLabel>
+    <skos:altLabel>Amihaï, Yehouda</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>עמיחי, יהודה</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>ʻAmiḥai, Yehudah</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118859145#skos:Concept">
+    <skos:altLabel>Amichai͏̈, Yehuda 1924-2000</skos:altLabel>
+    <skos:altLabel>Pfeuffer, Ludwig 1924-2000 Frueherer Name</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+    <skos:altLabel>ʿAmîḥay, Yeûdā 1924-2000</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Amihaï Yehouda 1924-2000</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>ʿAmmîḥay, Yehûdā 1924-2000</skos:altLabel>
+    <skos:prefLabel>ʿAmiḥai, Yehudah 1924-2000</skos:prefLabel>
+    <skos:altLabel>Amichai, Jehuda, 1924-2000</skos:altLabel>
+    <skos:altLabel>ʿAmmīḥay, Yhūdā 1924-2000</skos:altLabel>
+    <skos:altLabel>Amichay, Yehuda 1924-2000</skos:altLabel>
+    <skos:altLabel>ʿAmīḥay, Yěhūdā, 1924-2000</skos:altLabel>
+    <skos:altLabel>Amichay, Jehuda 1924-2000</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca1144910x#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Amichaï, Yehuda</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <skos:altLabel>Amichaj, Jehuda.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990000158#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29529096"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Amichai, Yehuda, 1924-2000</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

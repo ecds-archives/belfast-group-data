@@ -8,78 +8,78 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/24668183/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/24668183"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/24668183/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/24668183"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118916211#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068424345#skos:Concept">
     <skos:prefLabel>Gold, Joseph, 1912-....</skos:prefLabel>
-    <skos:altLabel>Gold, J. 1912-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/24668183"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80030730#skos:Concept">
-    <skos:prefLabel>Gold, Joseph, 1912-....</skos:prefLabel>
-    <skos:altLabel>Gold, J. (Joseph), 1912-</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/24668183"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80030730"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12305761#skos:Concept">
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb123057619"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/24668183"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb123057619"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Gold, Joseph, 1912-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/24668183">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Gold, Joseph</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118916211"/>
-    <foaf:name>Gold, J. (Joseph), 1912-</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Joseph_Gold_(lawyer)"/>
-    <rdaGr2:dateOfBirth>1912-07-12</rdaGr2:dateOfBirth>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb123057619#foaf:Person"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/031933386/id"/>
-    <rdaGr2:dateOfDeath>2000-02-22</rdaGr2:dateOfDeath>
-    <foaf:name>Gold, J. 1912-</foaf:name>
-    <foaf:name>Gold, Joseph, 1912-....</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJoseph_Gold_(lawyer)#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/24668183"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Gold, Joseph</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/24668183/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/24668183"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2004002032#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/24668183/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/24668183"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118916211#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/24668183"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
     <skos:prefLabel>Gold, Joseph, 1912-....</skos:prefLabel>
+    <skos:altLabel>Gold, J. 1912-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2004002032#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24668183"/>
+    <skos:prefLabel>Gold, Joseph, 1912-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12305761#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24668183"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb123057619"/>
+    <skos:prefLabel>Gold, Joseph, 1912-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb123057619"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/24668183/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24668183"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJoseph_Gold_(lawyer)#skos:Concept">
+    <skos:prefLabel>Gold, Joseph</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/24668183"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C031933386#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Gold, Joseph, 1912-....</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/24668183"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068424345#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/24668183">
+    <owl:sameAs rdf:resource="http://www.idref.fr/031933386/id"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdaGr2:dateOfDeath>2000-02-22</rdaGr2:dateOfDeath>
+    <foaf:name>Gold, Joseph, 1912-....</foaf:name>
+    <foaf:name>Gold, J. (Joseph), 1912-</foaf:name>
+    <foaf:name>Gold, Joseph</foaf:name>
+    <rdaGr2:dateOfBirth>1912-07-12</rdaGr2:dateOfBirth>
+    <foaf:name>Gold, J. 1912-</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Joseph_Gold_(lawyer)"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb123057619#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118916211"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80030730#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80030730"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/24668183"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <skos:prefLabel>Gold, Joseph, 1912-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Gold, J. (Joseph), 1912-</skos:altLabel>
   </rdf:Description>
 </rdf:RDF>

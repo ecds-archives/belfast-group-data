@@ -8,53 +8,53 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
 >
-  <rdf:Description rdf:about="http://sws.geonames.org/2660928/about.rdf">
-    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
-    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2660928/"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <cc:attributionURL rdf:resource="http://sws.geonames.org/2660928/"/>
-    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-04-21</dcterms:modified>
-    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
-  </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2660928/">
-    <gn:alternateName xml:lang="zh">艾格峰</gn:alternateName>
-    <gn:alternateName xml:lang="bg">Айгер</gn:alternateName>
-    <gn:alternateName xml:lang="sv">Eiger</gn:alternateName>
-    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2660928/nearby.rdf"/>
-    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2660928/about.rdf"/>
-    <gn:alternateName xml:lang="pl">Eiger</gn:alternateName>
-    <gn:alternateName xml:lang="no">Eiger</gn:alternateName>
-    <gn:alternateName xml:lang="tr">Eiger Dağı</gn:alternateName>
-    <gn:parentFeature rdf:resource="http://sws.geonames.org/7286285/"/>
-    <gn:name>Eiger</gn:name>
-    <gn:alternateName xml:lang="lt">Eigeris</gn:alternateName>
-    <wgs84_pos:long>8.00529</wgs84_pos:long>
-    <gn:alternateName xml:lang="rm">Eiger</gn:alternateName>
-    <gn:countryCode>CH</gn:countryCode>
-    <gn:parentADM2 rdf:resource="http://sws.geonames.org/8260139/"/>
-    <wgs84_pos:alt>3970</wgs84_pos:alt>
-    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Eiger"/>
     <gn:alternateName xml:lang="ko">아이거 산</gn:alternateName>
-    <gn:alternateName xml:lang="ru">Эйгер</gn:alternateName>
-    <gn:locationMap rdf:resource="http://www.geonames.org/2660928/eiger.html"/>
     <gn:alternateName xml:lang="nl">Eiger</gn:alternateName>
-    <gn:alternateName xml:lang="he">אייגר</gn:alternateName>
-    <gn:parentADM3 rdf:resource="http://sws.geonames.org/7286285/"/>
-    <gn:alternateName xml:lang="es">Eiger</gn:alternateName>
-    <gn:alternateName xml:lang="en">Eiger</gn:alternateName>
-    <gn:alternateName xml:lang="pnb">آیگر</gn:alternateName>
-    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
-    <gn:alternateName xml:lang="fr">Eiger</gn:alternateName>
-    <gn:parentCountry rdf:resource="http://sws.geonames.org/2658434/"/>
-    <gn:alternateName xml:lang="lb">Eiger</gn:alternateName>
-    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Eiger"/>
-    <wgs84_pos:lat>46.57754</wgs84_pos:lat>
+    <gn:alternateName xml:lang="tr">Eiger Dağı</gn:alternateName>
+    <gn:alternateName xml:lang="bg">Айгер</gn:alternateName>
+    <gn:alternateName xml:lang="ja">アイガー</gn:alternateName>
     <gn:alternateName xml:lang="it">Eiger</gn:alternateName>
-    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#T"/>
+    <gn:alternateName xml:lang="he">אייגר</gn:alternateName>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/8260139/"/>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:alternateName xml:lang="lt">Eigeris</gn:alternateName>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2658434/"/>
     <gn:featureCode rdf:resource="http://www.geonames.org/ontology#T.MT"/>
     <gn:alternateName xml:lang="de">Eiger</gn:alternateName>
-    <gn:alternateName xml:lang="ja">アイガー</gn:alternateName>
+    <gn:alternateName xml:lang="ru">Эйгер</gn:alternateName>
+    <wgs84_pos:long>8.00529</wgs84_pos:long>
+    <gn:alternateName xml:lang="fr">Eiger</gn:alternateName>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2660928/nearby.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/7286285/"/>
+    <gn:alternateName xml:lang="rm">Eiger</gn:alternateName>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Eiger"/>
+    <gn:alternateName xml:lang="en">Eiger</gn:alternateName>
+    <wgs84_pos:alt>3970</wgs84_pos:alt>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2660928/about.rdf"/>
+    <gn:alternateName xml:lang="pl">Eiger</gn:alternateName>
+    <gn:parentADM3 rdf:resource="http://sws.geonames.org/7286285/"/>
+    <wgs84_pos:lat>46.57754</wgs84_pos:lat>
+    <gn:alternateName xml:lang="es">Eiger</gn:alternateName>
+    <gn:countryCode>CH</gn:countryCode>
+    <gn:alternateName xml:lang="pnb">آیگر</gn:alternateName>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#T"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2660928/eiger.html"/>
     <gn:parentADM1 rdf:resource="http://sws.geonames.org/2661551/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Eiger"/>
+    <gn:alternateName xml:lang="zh">艾格峰</gn:alternateName>
+    <gn:alternateName xml:lang="no">Eiger</gn:alternateName>
+    <gn:alternateName xml:lang="sv">Eiger</gn:alternateName>
+    <gn:alternateName xml:lang="lb">Eiger</gn:alternateName>
+    <gn:name>Eiger</gn:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2660928/about.rdf">
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2660928/"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-04-21</dcterms:modified>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2660928/"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
   </rdf:Description>
 </rdf:RDF>

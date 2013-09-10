@@ -4,72 +4,72 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="Nc4815bd4359e435a98a1b69a53d2effb">
-    <rdf:rest rdf:nodeID="N6af0f4f022e44934a2fa81a1e12477c5"/>
-    <rdf:first>At Cordelia's Grave</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mf5#simmons1_1068">
-    <schema:name>SOLILOQUY FOR A GHOST</schema:name>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2644688/"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/92591927">
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>JAMES SIMMONS</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mf5#simmons1_1057">
-    <schema:name>AT CORDELIA'S GRAVE</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N6af0f4f022e44934a2fa81a1e12477c5">
-    <rdf:first>Soliloquy for a Ghost</rdf:first>
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N4eccc0969b4c4a9183b54438a8fce252">
-    <rdf:first>One Man - Two Voices</rdf:first>
-    <rdf:rest rdf:nodeID="N8382bdb000274568bc5c03002afedc27"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2644688/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name>Leeds</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>AT CORDELIA'S GRAVE</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mf5#simmons1_1051">
     <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:name>ON GARDENS</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mf5#simmons1_1041">
-    <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mf5#simmons1_1046">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>SONNETS FOR THE CLASS OF 58</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/62cadfd24ade6ba48471e243f79bdee5">
-    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17mf5"/>
-    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
-    <dc:title rdf:nodeID="N719a7b1240cd4496b7b39511aae8f5cd"/>
-    <schema:name>POEMS BY JAMES SIMMONS
-        </schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
+    <schema:name>ONE MAN - TWO VOICES</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N719a7b1240cd4496b7b39511aae8f5cd">
-    <rdf:rest rdf:nodeID="N4eccc0969b4c4a9183b54438a8fce252"/>
+  <rdf:Description rdf:nodeID="N68bfb7913c6248adac50c59ce3c397dd">
+    <rdf:first>One Man - Two Voices</rdf:first>
+    <rdf:rest rdf:nodeID="N316f4a35e08f415389e6aa9260b0b30a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mf5#simmons1_1068">
+    <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2644688/"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>SOLILOQUY FOR A GHOST</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N764dbe2742ad4b6abcba0b0d757bf275">
+    <rdf:first>At Cordelia's Grave</rdf:first>
+    <rdf:rest rdf:nodeID="N990a19a1b146409c97a744f53046d5cf"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N316f4a35e08f415389e6aa9260b0b30a">
+    <rdf:rest rdf:nodeID="N764dbe2742ad4b6abcba0b0d757bf275"/>
+    <rdf:first>On Gardens</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N990a19a1b146409c97a744f53046d5cf">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first>Soliloquy for a Ghost</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nacc51e0b18e3420080a8ffd8b4b8f725">
     <rdf:first>Sonnets for the Class of 58</rdf:first>
+    <rdf:rest rdf:nodeID="N68bfb7913c6248adac50c59ce3c397dd"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mf5#simmons1_1062">
     <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:name>SINGING AT A COFFEE PARTY</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/92591927">
-    <schema:name>JAMES SIMMONS</schema:name>
-    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
+  <rdf:Description rdf:about="http://sws.geonames.org/2644688/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Leeds</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N8382bdb000274568bc5c03002afedc27">
-    <rdf:first>On Gardens</rdf:first>
-    <rdf:rest rdf:nodeID="Nc4815bd4359e435a98a1b69a53d2effb"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mf5#simmons1_1046">
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/62cadfd24ade6ba48471e243f79bdee5">
+    <dc:title rdf:nodeID="Nacc51e0b18e3420080a8ffd8b4b8f725"/>
     <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17mf5"/>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <schema:name>POEMS BY JAMES SIMMONS
+        </schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mf5#simmons1_1041">
+    <schema:author rdf:resource="http://viaf.org/viaf/92591927"/>
+    <schema:name>SONNETS FOR THE CLASS OF 58</schema:name>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>ONE MAN - TWO VOICES</schema:name>
   </rdf:Description>
 </rdf:RDF>

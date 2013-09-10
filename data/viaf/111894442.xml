@@ -8,248 +8,264 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C070700710#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C080786073#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Dylan, Bob</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000041704#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
-    <skos:altLabel>Zimmermann, Robert Allen</skos:altLabel>
-    <skos:altLabel>צימרמן, רוברט, 1941-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
     <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
-    <skos:altLabel>Thomas, Robert Milkwood</skos:altLabel>
-    <skos:altLabel>Landy, Bob</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca17609392#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
-    <skos:altLabel>Zimmerman, Robert Allen.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00438512#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <skos:altLabel>ディラン, ボブ</skos:altLabel>
-    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CBob_Dylan#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <skos:prefLabel>Dylan, Bob</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/111894442">
-    <foaf:name>Petrov, Sergei 1941- Pseudonym</foaf:name>
-    <foaf:name>Dylan, Bob, 1941-....</foaf:name>
-    <foaf:name>Dylan, Bob American musician, born 1941</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bob_Dylan"/>
-    <foaf:name>Blind Boy Grunt, 1941-</foaf:name>
-    <foaf:name>Dil''n, Bob.</foaf:name>
-    <foaf:name>Zimmerman, Robert, 1941 May 24-</foaf:name>
-    <foaf:name>Bob Dylan</foaf:name>
-    <foaf:name>Zimmerman, Robert, 1941-</foaf:name>
-    <foaf:name>Zimmerman, Roberto Allen, 1941-</foaf:name>
-    <foaf:name>Dylan, Bob, pseud</foaf:name>
-    <foaf:name>Zimmerman, Robert 1941- Wirklicher Name</foaf:name>
-    <foaf:name>צימרמן, רוברט, 1941-</foaf:name>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/145271566"/>
-    <foaf:name>Alias</foaf:name>
-    <foaf:name>Zimmerman, Robert Allen 1941- Wirklicher Name</foaf:name>
-    <foaf:name>דילן, בוב, 1941-</foaf:name>
-    <foaf:name>Dylan, Bob, pseud 1941-</foaf:name>
-    <foaf:name>Dylan, Bob</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb13893566v#foaf:Person"/>
-    <foaf:name>Zimmerman, Roberto Allen</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118528408"/>
-    <foaf:name>Gook, Roosevelt, 1941-</foaf:name>
-    <foaf:name>Petrov, Sergei.</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/080786073/id"/>
-    <foaf:name>Landy, Bob</foaf:name>
-    <rdaGr2:dateOfBirth>1941-05-24</rdaGr2:dateOfBirth>
-    <foaf:name>ディラン, ボブ</foaf:name>
-    <foaf:name>Landy, Bob, 1941-</foaf:name>
-    <foaf:name>Thomas, Robert Milkwood, 1941-</foaf:name>
-    <foaf:name>Zimmerman, Robert Allen.</foaf:name>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/145271566"/>
-    <foaf:name>Porterhouse, Tedham, 1941-</foaf:name>
-    <foaf:name>Dylan, B. 1941-</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Zimmermann, Robert Allen</foaf:name>
-    <foaf:name>Thomas, Robert Milkwood</foaf:name>
-    <foaf:name>Zimmerman, Robert Allen, 1941-</foaf:name>
-    <foaf:name>Petrov, Sergei 1941-</foaf:name>
-    <foaf:name>Blind Boy Grunt</foaf:name>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/172080102"/>
-    <foaf:name>Alias, 1941-</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/184248"/>
-    <foaf:name>Porterhouse, Tedham</foaf:name>
-    <foaf:name>Zimmerman, Robert</foaf:name>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/172080102"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C1270067#skos:Concept">
-    <skos:prefLabel>Dylan, Bob, pseud</skos:prefLabel>
-    <skos:altLabel>Zimmerman, Roberto Allen</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Zimmerman, Roberto Allen, 1941-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500341966#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
-    <skos:prefLabel>Dylan, Bob American musician, born 1941</skos:prefLabel>
-    <skos:altLabel>Thomas, Robert Milkwood</skos:altLabel>
-    <skos:altLabel>Bob Dylan</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
     <skos:altLabel>Zimmerman, Robert</skos:altLabel>
-    <skos:altLabel>Landy, Bob</skos:altLabel>
-    <skos:altLabel>Blind Boy Grunt</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
-    <skos:altLabel>Alias</skos:altLabel>
-    <skos:altLabel>Porterhouse, Tedham</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls003202280#skos:Concept">
-    <skos:altLabel>Zimmerman, Robert, 1941-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
-    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C184248#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+    <skos:altLabel>Zimmerman, Robert Allen, 1941-</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/184248#concept"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Zimmerman, Robert, 1941-</skos:altLabel>
+    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97087474#skos:Concept">
+    <skos:altLabel>Zimmerman, Robert, 1941-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Zimmerman, Robert Allen.</skos:altLabel>
+    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:altLabel>Dil''n, Bob.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+    <skos:altLabel>Petrov, Sergei.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C1435358#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Zimmerman, Roberto Allen</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+    <skos:altLabel>Zimmerman, Roberto Allen, 1941-</skos:altLabel>
+    <skos:prefLabel>Dylan, Bob, pseud</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118528408#skos:Concept">
+    <skos:altLabel>Dylan, B. 1941-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
+    <skos:altLabel>Petrov, Sergei 1941- Pseudonym</skos:altLabel>
+    <skos:altLabel>Zimmerman, Robert Allen 1941- Wirklicher Name</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+    <skos:altLabel>Zimmerman, Robert 1941- Wirklicher Name</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/111894442/">
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/111894442"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BIBSYS%7Cx90123409#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000072710#skos:Concept">
+    <skos:altLabel>Dilan, Bob, 1941-</skos:altLabel>
     <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BIBSYS"/>
+    <skos:altLabel>Dylan, B. (Bob), 1941-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+    <skos:altLabel>Zimmermann, Robert Allen, 1941-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Дилан, Боб, 1941-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C13893566#skos:Concept">
+    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb13893566v"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb13893566v"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C080786073#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
-    <skos:altLabel>Zimmerman, Robert</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50030190#skos:Concept">
-    <skos:altLabel>Landy, Bob, 1941-</skos:altLabel>
-    <skos:altLabel>Alias, 1941-</skos:altLabel>
-    <skos:altLabel>Thomas, Robert Milkwood, 1941-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
-    <skos:altLabel>Blind Boy Grunt, 1941-</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000700458#skos:Concept">
     <skos:altLabel>Porterhouse, Tedham, 1941-</skos:altLabel>
-    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50030190"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:altLabel>Zimmerman, Robert, 1941 May 24-</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0008D6165#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <skos:altLabel>Zimmerman, Robert, 1941-</skos:altLabel>
+    <skos:altLabel>Alias, 1941-</skos:altLabel>
+    <skos:altLabel>Landy, Bob, 1941-</skos:altLabel>
+    <skos:altLabel>Gook, Roosevelt, 1941-</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+    <skos:altLabel>Zimmerman, Robert Allen, 1941-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:altLabel>Thomas, Robert Milkwood, 1941-</skos:altLabel>
     <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
+    <skos:altLabel>Blind Boy Grunt, 1941-</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C1435358#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C1270067#skos:Concept">
+    <skos:altLabel>Zimmerman, Roberto Allen, 1941-</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
     <skos:prefLabel>Dylan, Bob, pseud</skos:prefLabel>
     <skos:altLabel>Zimmerman, Roberto Allen</skos:altLabel>
-    <skos:altLabel>Zimmerman, Roberto Allen, 1941-</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118528408#skos:Concept">
-    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
-    <skos:altLabel>Petrov, Sergei 1941- Pseudonym</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Dylan, B. 1941-</skos:altLabel>
-    <skos:altLabel>Zimmerman, Robert 1941- Wirklicher Name</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
-    <skos:altLabel>Zimmerman, Robert Allen 1941- Wirklicher Name</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500341966#skos:Concept">
+    <skos:altLabel>Thomas, Robert Milkwood</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+    <skos:altLabel>Landy, Bob</skos:altLabel>
+    <skos:altLabel>Blind Boy Grunt</skos:altLabel>
+    <skos:altLabel>Bob Dylan</skos:altLabel>
+    <skos:altLabel>Porterhouse, Tedham</skos:altLabel>
+    <skos:prefLabel>Dylan, Bob American musician, born 1941</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
+    <skos:altLabel>Alias</skos:altLabel>
+    <skos:altLabel>Zimmerman, Robert</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX821701#skos:Concept">
-    <skos:altLabel>Zimmerman, Robert, 1941-</skos:altLabel>
-    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <skos:altLabel>Zimmerman, Robert, 1941-</skos:altLabel>
     <skos:altLabel>Petrov, Sergei 1941-</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C13893566#skos:Concept">
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb13893566v"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb13893566v"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97087474#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/111894442">
+    <foaf:name>Dylan, Bob</foaf:name>
+    <foaf:name>Zimmerman, Robert, 1941-</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/145271566"/>
+    <foaf:name>Zimmerman, Roberto Allen, 1941-</foaf:name>
+    <foaf:name>Porterhouse, Tedham</foaf:name>
+    <foaf:name>Zimmerman, Robert 1941- Wirklicher Name</foaf:name>
+    <foaf:name>Zimmerman, Robert, 1941 May 24-</foaf:name>
+    <foaf:name>Gook, Roosevelt, 1941-</foaf:name>
+    <foaf:name>Dylan, B. 1941-</foaf:name>
+    <foaf:name>Landy, Bob, 1941-</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/184248"/>
+    <foaf:name>Alias, 1941-</foaf:name>
+    <foaf:name>Dylan, Bob, 1941-....</foaf:name>
+    <foaf:name>Dylan, Bob, pseud 1941-</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/272036058"/>
+    <foaf:name>Landy, Bob</foaf:name>
+    <foaf:name>Zimmerman, Robert Allen.</foaf:name>
+    <foaf:name>Zimmerman, Roberto Allen</foaf:name>
+    <foaf:name>Zimmerman, Robert Allen 1941- Wirklicher Name</foaf:name>
+    <foaf:name>ディラン, ボブ</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/145271566"/>
+    <foaf:name>Petrov, Sergei.</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/080786073/id"/>
+    <foaf:name>צימרמן, רוברט, 1941-</foaf:name>
+    <foaf:name>Thomas, Robert Milkwood</foaf:name>
+    <rdaGr2:dateOfBirth>1941-05-24</rdaGr2:dateOfBirth>
+    <foaf:name>Dil''n, Bob.</foaf:name>
+    <foaf:name>Thomas, Robert Milkwood, 1941-</foaf:name>
+    <foaf:name>Bob Dylan</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/172080102"/>
+    <foaf:name>Petrov, Sergei 1941-</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bob_Dylan"/>
+    <foaf:name>Dylan, B. (Bob), 1941-</foaf:name>
+    <foaf:name>Blind Boy Grunt</foaf:name>
+    <foaf:name>Zimmermann, Robert Allen, 1941-</foaf:name>
+    <foaf:name>Petrov, Sergei 1941- Pseudonym</foaf:name>
+    <foaf:name>Dylan, Bob American musician, born 1941</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb13893566v#foaf:Person"/>
+    <foaf:name>Dilan, Bob, 1941-</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/272036058"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118528408"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Zimmerman, Robert Allen, 1941-</foaf:name>
+    <foaf:name>Blind Boy Grunt, 1941-</foaf:name>
+    <foaf:name>Dylan, Bob, pseud</foaf:name>
+    <foaf:name>Zimmermann, Robert Allen</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/172080102"/>
+    <foaf:name>Zimmerman, Robert</foaf:name>
+    <foaf:name>Alias</foaf:name>
+    <foaf:name>דילן, בוב, 1941-</foaf:name>
+    <foaf:name>Porterhouse, Tedham, 1941-</foaf:name>
+    <foaf:name>Дилан, Боб, 1941-</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BIBSYS%7Cx90123409#skos:Concept">
+    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BIBSYS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000041704#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
+    <skos:altLabel>Thomas, Robert Milkwood</skos:altLabel>
+    <skos:altLabel>צימרמן, רוברט, 1941-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+    <skos:altLabel>Landy, Bob</skos:altLabel>
+    <skos:altLabel>Zimmermann, Robert Allen</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/111894442/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca17609392#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
     <skos:altLabel>Zimmerman, Robert Allen.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
-    <skos:altLabel>Petrov, Sergei.</skos:altLabel>
-    <skos:altLabel>Zimmerman, Robert, 1941-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Dil''n, Bob.</skos:altLabel>
     <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50030190#skos:Concept">
+    <skos:altLabel>Alias, 1941-</skos:altLabel>
+    <skos:altLabel>Landy, Bob, 1941-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Thomas, Robert Milkwood, 1941-</skos:altLabel>
+    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
+    <skos:altLabel>Porterhouse, Tedham, 1941-</skos:altLabel>
+    <skos:altLabel>Blind Boy Grunt, 1941-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50030190"/>
+    <skos:altLabel>Zimmerman, Robert, 1941 May 24-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00438512#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>ディラン, ボブ</skos:altLabel>
+    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0008D6165#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+    <skos:altLabel>Zimmerman, Robert, 1941-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls003202280#skos:Concept">
+    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+    <skos:altLabel>Zimmerman, Robert, 1941-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/111894442/#foaf:Person">
     <owl:sameAs rdf:resource="http://viaf.org/viaf/111894442"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C184248#skos:Concept">
-    <skos:altLabel>Zimmerman, Robert Allen, 1941-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/184248#concept"/>
-    <skos:altLabel>Zimmerman, Robert, 1941-</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CBob_Dylan#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/111894442/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000700458#skos:Concept">
-    <skos:altLabel>Porterhouse, Tedham, 1941-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
-    <skos:altLabel>Gook, Roosevelt, 1941-</skos:altLabel>
-    <skos:altLabel>Zimmerman, Robert Allen, 1941-</skos:altLabel>
-    <skos:altLabel>Thomas, Robert Milkwood, 1941-</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Blind Boy Grunt, 1941-</skos:altLabel>
-    <skos:altLabel>Landy, Bob, 1941-</skos:altLabel>
-    <skos:altLabel>Alias, 1941-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/VLACC%7C000000839#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/VLACC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
     <skos:prefLabel>Dylan, Bob</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035052711#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <skos:altLabel>Blind Boy Grunt, 1941-</skos:altLabel>
-    <skos:altLabel>Porterhouse, Tedham, 1941-</skos:altLabel>
-    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Landy, Bob, 1941-</skos:altLabel>
-    <skos:altLabel>Alias, 1941-</skos:altLabel>
-    <skos:altLabel>Zimmerman, Robert, 1941 May 24-</skos:altLabel>
-    <skos:altLabel>Thomas, Robert Milkwood, 1941-</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C070700710#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Dylan, Bob</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/VLACC%7C000000839#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/VLACC"/>
+    <skos:prefLabel>Dylan, Bob</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035052711#skos:Concept">
+    <skos:altLabel>Porterhouse, Tedham, 1941-</skos:altLabel>
+    <skos:altLabel>Thomas, Robert Milkwood, 1941-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
     <skos:altLabel>Gook, Roosevelt, 1941-</skos:altLabel>
+    <skos:altLabel>Blind Boy Grunt, 1941-</skos:altLabel>
+    <skos:altLabel>Zimmerman, Robert, 1941 May 24-</skos:altLabel>
+    <skos:altLabel>Alias, 1941-</skos:altLabel>
+    <skos:altLabel>Landy, Bob, 1941-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/111894442"/>
+    <skos:prefLabel>Dylan, Bob, 1941-....</skos:prefLabel>
   </rdf:Description>
 </rdf:RDF>

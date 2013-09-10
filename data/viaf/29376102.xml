@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/29376102">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Mc Cabe, Eugene</foaf:name>
+    <foaf:name>McCabe, Eugene, 1930-....</foaf:name>
+    <foaf:name>McCabe, Eugene</foaf:name>
+    <foaf:name>マッケイブ, ユージーン</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/033975205/id"/>
+    <rdaGr2:dateOfBirth>1930</rdaGr2:dateOfBirth>
+    <foaf:name>Mc Cabe, Eugene 1930-</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb124777602#foaf:Person"/>
+    <foaf:name>Mac Cabe, Eugene</foaf:name>
+    <foaf:name>MacCabe, Eugene, 1930-</foaf:name>
+    <foaf:name>MacCabe, Eugene</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/138239177"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Eugene_McCabe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C033975205#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Mac Cabe, Eugene</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Mc Cabe, Eugene</skos:altLabel>
+    <skos:prefLabel>McCabe, Eugene, 1930-....</skos:prefLabel>
+    <skos:altLabel>MacCabe, Eugene</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29376102"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cnr+88001153#skos:Concept">
+    <skos:prefLabel>McCabe, Eugene, 1930-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29376102"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/nr88001153"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12477760#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>McCabe, Eugene, 1930-....</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb124777602"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29376102"/>
+    <skos:altLabel>Mc Cabe, Eugene</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:altLabel>MacCabe, Eugene</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb124777602"/>
+    <skos:altLabel>Mac Cabe, Eugene</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/29376102/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/29376102"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/29376102/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29376102"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2004001573#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>McCabe, Eugene, 1930-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29376102"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00654935#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29376102"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:prefLabel>McCabe, Eugene, 1930-....</skos:prefLabel>
+    <skos:altLabel>マッケイブ, ユージーン</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C138239177#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Mc Cabe, Eugene 1930-</skos:altLabel>
+    <skos:prefLabel>McCabe, Eugene, 1930-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29376102"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>MacCabe, Eugene, 1930-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/29376102/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/29376102"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069988064#skos:Concept">
+    <skos:prefLabel>McCabe, Eugene, 1930-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>MacCabe, Eugene, 1930-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29376102"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CEugene_McCabe#skos:Concept">
+    <skos:prefLabel>McCabe, Eugene</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/29376102"/>
+  </rdf:Description>
+</rdf:RDF>

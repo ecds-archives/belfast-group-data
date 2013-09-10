@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C132319810#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68911711"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Weissbort, Daniel, 1935-....</skos:prefLabel>
+    <skos:altLabel>Waysbôrṭ, Dānîyyēl 1935-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50022746#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68911711"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50022746"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Weissbort, Daniel</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/68911711/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/68911711"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12247485#skos:Concept">
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12247485m"/>
+    <skos:prefLabel>Weissbort, Daniel, 1935-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12247485m"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68911711"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C07132075X#skos:Concept">
+    <skos:prefLabel>Weissbort, Daniel, 1935-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68911711"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/68911711/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68911711"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/68911711/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/68911711"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/68911711">
+    <owl:sameAs rdf:resource="http://www.idref.fr/031216919/id"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/132319810"/>
+    <foaf:name>Waysbôrṭ, Dānîyyēl 1935-</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdaGr2:dateOfBirth>1935</rdaGr2:dateOfBirth>
+    <foaf:name>Uajssbort, Dėniel, 1935-</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12247485m#foaf:Person"/>
+    <foaf:name>Weissbort, Daniel, 1935-....</foaf:name>
+    <foaf:name>Weissbort, Daniel</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/281295"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++94005582#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Weissbort, Daniel, 1935-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68911711"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11615576#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68911711"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Weissbort, Daniel, 1935-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C281295#skos:Concept">
+    <skos:altLabel>Uajssbort, Dėniel, 1935-</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/281295#concept"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68911711"/>
+    <skos:prefLabel>Weissbort, Daniel, 1935-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C031216919#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Weissbort, Daniel, 1935-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68911711"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000140764#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Weissbort, Daniel</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68911711"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990009027#skos:Concept">
+    <skos:prefLabel>Weissbort, Daniel, 1935-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68911711"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+  </rdf:Description>
+</rdf:RDF>

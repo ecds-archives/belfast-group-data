@@ -8,91 +8,20 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++84136729#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:prefLabel>Sweeney, Matthew, 1952-....</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n84136729"/>
-    <skos:altLabel>Sweeny, Matthew, 1952-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++99055031#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:prefLabel>Sweeney, Matthew, 1952-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072628081#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
-    <skos:prefLabel>Sweeney, Matthew, 1952-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/114341331/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/114341331">
-    <foaf:name>Sweeney, Matthew</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/128633840"/>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12075943v#foaf:Person"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Matthew_Sweeney"/>
-    <foaf:name>スウィーニー, マシュー</foaf:name>
-    <foaf:name>Sweeney, Matthew, 1952-....</foaf:name>
-    <foaf:name>Sweeny, Matthew, 1952-</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/069120609/id"/>
-    <rdaGr2:dateOfBirth>1952</rdaGr2:dateOfBirth>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/114341331/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/114341331"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C01220233#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
+    <skos:prefLabel>Sweeney, Matthew</skos:prefLabel>
     <skos:altLabel>スウィーニー, マシュー</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
-    <skos:prefLabel>Sweeney, Matthew</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CMatthew_Sweeney#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++84136729#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Sweeney, Matthew</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/114341331/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/114341331"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C069120609#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Sweeney, Matthew, 1952-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12075943#skos:Concept">
-    <skos:prefLabel>Sweeney, Matthew, 1952-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12075943v"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12075943v"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036373150#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Sweeney, Matthew, 1952-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
     <skos:altLabel>Sweeny, Matthew, 1952-</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11260610#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
-    <skos:prefLabel>Sweeney, Matthew, 1952-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n84136729"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C128633840#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -100,11 +29,90 @@
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0013792#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/114341331/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/114341331"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/114341331/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C069120609#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Sweeney, Matthew, 1952-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0013792#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <skos:prefLabel>Sweeney, Matthew, 1952-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
     <skos:altLabel>Sweeny, Matthew, 1952-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/114341331/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/114341331"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11260610#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
+    <skos:prefLabel>Sweeney, Matthew, 1952-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++99055031#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Sweeney, Matthew, 1952-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/114341331">
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12075943v#foaf:Person"/>
+    <rdaGr2:dateOfBirth>1952</rdaGr2:dateOfBirth>
+    <foaf:name>Sweeny, Matthew, 1952-</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Matthew_Sweeney"/>
+    <foaf:name>Sweeney, Matthew</foaf:name>
+    <foaf:name>Sweeney, Matthew, 1952-....</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/069120609/id"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/128633840"/>
+    <foaf:name>Svīnijs, Metjū, 1952-</foaf:name>
+    <foaf:name>スウィーニー, マシュー</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000025074#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Sweeney, Matthew, 1952-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
+    <skos:altLabel>Svīnijs, Metjū, 1952-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12075943#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12075943v"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
+    <skos:prefLabel>Sweeney, Matthew, 1952-....</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12075943v"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CMatthew_Sweeney#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
+    <skos:prefLabel>Sweeney, Matthew</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036373150#skos:Concept">
+    <skos:altLabel>Sweeny, Matthew, 1952-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
+    <skos:prefLabel>Sweeney, Matthew, 1952-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072628081#skos:Concept">
+    <skos:prefLabel>Sweeney, Matthew, 1952-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/114341331"/>
   </rdf:Description>
 </rdf:RDF>

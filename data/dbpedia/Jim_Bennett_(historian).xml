@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_Bennett_(historian)">
+    <rdfs:comment xml:lang="en">James Arthur Bennett PhD (born 1947) is a museum curator and historian of science. Jim Bennett is Director of the Museum of the History of Science at Oxford University. he was appointed on 1 October 1994, on the retirement of the previous director, Francis Maddison. He is also a member of the Faculty of History and Linacre College. Previously he was a fellow of Churchill College and curator of the Whipple Museum of the History of Science, both part of Cambridge University.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Historians_of_science"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1947</dbpprop:dateOfBirth>
+    <dbpprop:shortDescription xml:lang="en">Historian of science, museum curator</dbpprop:shortDescription>
+    <dc:description xml:lang="en">Historian of science, museum curator</dc:description>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1947_births"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/d/dd/Old_Ashmolean_2006.JPG"/>
+    <foaf:surname xml:lang="en">Bennett</foaf:surname>
+    <dbpprop:years rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1994</dbpprop:years>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_Linacre_College,_Oxford"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfLinacreCollege,Oxford"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_Churchill_College,_Cambridge"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HistoriansOfScience"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishHistorians"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishCurators"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Jim_Bennett_(historian)"/>
+    <dbpprop:title xml:lang="en">Director of the Museum of the History of Science, Oxford</dbpprop:title>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_historians"/>
+    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Francis_Maddison"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:label xml:lang="en">Jim Bennett (historian)</rdfs:label>
+    <foaf:givenName xml:lang="en">James Arthur</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_curators"/>
+    <dbpprop:alternativeNames xml:lang="en">Jim Bennett</dbpprop:alternativeNames>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfChurchillCollege,Cambridge"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jim_Bennett_(historian)"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Old_Ashmolean_2006.JPG/200px-Old_Ashmolean_2006.JPG"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:abstract xml:lang="en">James Arthur Bennett PhD (born 1947) is a museum curator and historian of science. Jim Bennett is Director of the Museum of the History of Science at Oxford University. he was appointed on 1 October 1994, on the retirement of the previous director, Francis Maddison. He is also a member of the Faculty of History and Linacre College. Previously he was a fellow of Churchill College and curator of the Whipple Museum of the History of Science, both part of Cambridge University. Bennett's interests lie in the history of practical mathematics from the 16th century to the 18th century, scientific instruments and astronomy. His work in Cambridge included hands-on use of scientific and navigational instruments, using the Whipple collection to teach undergraduates how instruments worked, and gaining insight into the difficulties faced by the historical teachers of those instruments. Jim Bennett has been President of the British Society for the History of Science.</dbpedia-owl:abstract>
+    <dbpprop:after xml:lang="en">incumbent</dbpprop:after>
+    <dbpprop:name xml:lang="en">Bennett, James Arthur</dbpprop:name>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.082rfk"/>
+    <foaf:name xml:lang="en">James Arthur Bennett</foaf:name>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Succession_box"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Jim_Bennett_(historian)?oldid=413141077"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+  </rdf:Description>
+</rdf:RDF>

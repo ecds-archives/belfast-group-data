@@ -9,60 +9,33 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bertie_Rodgers">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._R._Rodgers"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/W._R._Rodgers">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/W._R._Rodgers"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Robert_Rodgers">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._R._Rodgers"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_R._Rodgers">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._R._Rodgers"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/WR_Rodgers">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._R._Rodgers"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._R._Rodgers">
-    <foaf:name xml:lang="en">WR Rodgers</foaf:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1969_deaths"/>
-    <dbpprop:name xml:lang="en">Rodgers, WR</dbpprop:name>
-    <dbpedia-owl:abstract xml:lang="en">William Robert Rodgers (1909 – 1969), known as Bertie, and born in Belfast, Northern Ireland, was probably best known as a poet, but was also a prose essayist, a book reviewer, a radio broadcaster and script writer, a lecturer and, latterly, a teacher, as well as a former Presbyterian minister.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.046n2_"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <rdfs:comment xml:lang="en">William Robert Rodgers (1909 – 1969), known as Bertie, and born in Belfast, Northern Ireland, was probably best known as a poet, but was also a prose essayist, a book reviewer, a radio broadcaster and script writer, a lecturer and, latterly, a teacher, as well as a former Presbyterian minister.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belfast"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PresbyterianMinisters"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Presbyterian_ministers"/>
-    <foaf:givenName xml:lang="en">WR</foaf:givenName>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1969</dbpprop:dateOfDeath>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poets_from_Northern_Ireland"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfQuEEn'sUniversityBelfast"/>
-    <rdfs:label xml:lang="en">W. R. Rodgers</rdfs:label>
+    <rdfs:comment xml:lang="en">William Robert Rodgers (1909 – 1969), known as Bertie, and born in Belfast, Northern Ireland, was probably best known as a poet, but was also a prose essayist, a book reviewer, a radio broadcaster and script writer, a lecturer and, latterly, a teacher, as well as a former Presbyterian minister.</rdfs:comment>
+    <foaf:name xml:lang="en">WR Rodgers</foaf:name>
+    <dbpedia-owl:abstract xml:lang="en">William Robert Rodgers (1909 – 1969), known as Bertie, and born in Belfast, Northern Ireland, was probably best known as a poet, but was also a prose essayist, a book reviewer, a radio broadcaster and script writer, a lecturer and, latterly, a teacher, as well as a former Presbyterian minister.</dbpedia-owl:abstract>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Queen's_University_Belfast"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/W._R._Rodgers"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PoetsFromNorthernIreland"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1909_births"/>
-    <foaf:surname xml:lang="en">Rodgers</foaf:surname>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_Presbyterians"/>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/W._R._Rodgers?oldid=442000062"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belfast"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Presbyterian_ministers"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.046n2_"/>
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/W._R._Rodgers"/>
+    <foaf:givenName xml:lang="en">WR</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poets_from_Northern_Ireland"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PoetsFromNorthernIreland"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1969</dbpprop:dateOfDeath>
+    <foaf:surname xml:lang="en">Rodgers</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PresbyterianMinisters"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdfs:label xml:lang="en">W. R. Rodgers</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_Presbyterians"/>
     <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1909</dbpprop:dateOfBirth>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/W._R._Rodgers">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/W._R._Rodgers"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/W.R._Rodgers">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._R._Rodgers"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rodgers">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/W._R._Rodgers"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/W_R_Rodgers">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/W._R._Rodgers"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/W._R._Rodgers"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/W._R._Rodgers?oldid=442000062"/>
+    <dbpprop:name xml:lang="en">Rodgers, WR</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1909_births"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1969_deaths"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
   </rdf:Description>
 </rdf:RDF>

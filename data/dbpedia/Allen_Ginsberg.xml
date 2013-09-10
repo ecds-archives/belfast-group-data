@@ -10,380 +10,229 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Neal_Cassady">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wild_Combination:_A_Portrait_of_Arthur_Russell">
-    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Rimbaud">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Late_Night_with_Conan_O'Brien_episodes_Season_1">
-    <dbpprop:guests rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Diane_Wakoski">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Patchen">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chappaqua_(film)">
-    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ginsberg">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gelu_Vla%C5%9Fin">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Yage_Letters">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hedwig_Gorski">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Forrester">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Van_Doren">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tristan_Tzara">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Magic_Trip">
-    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Evans_Schultes">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Allan_Ginsberg">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Allen_Ginsburg">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Irwin_Allen_Ginsberg">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lalon">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.nytimes.com/27547725981655305013">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Silence_=_Death">
-    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Me_and_My_Brother_(film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Plymell">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Allen_Ginsberg">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mircea_C%C4%83rt%C4%83rescu">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Hall_(poet)">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lionel_Trilling">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Carlos_Williams">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawrence_Ferlinghetti">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ginsberg,_Allen">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Muruga_Booker">
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Allen_Ginsberg">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jon_Sholle">
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Irwin_Ginsberg">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_S._Burroughs">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_S._Hall">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Pinsky">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Blake">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Steven_Ford_Brown">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Istv%C3%A1n_Cs._Bartos">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Ginsberg">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Allen_Ginsberg"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Allen_Ginsberg">
-    <dbpedia-owl:abstract xml:lang="pl">Irwin Allen Ginsberg – amerykański poeta pochodzenia żydowskiego, aktor, scenarzysta i działacz społeczny, członek American Academy and Institute of Arts and Letters. Jeden z najważniejszych twórców tzw. poezji konfesyjnej i lider ruchu artystycznego określanego jako Beat Generation. Był również znaczącą postacią kontrkultury amerykańskiej, już za życia owianą barwną legendą i otaczaną kultem. Stał się jedną z głównych postaci powieści Jacka Kerouaca W drodze.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromNewYorkCity"/>
-    <rdfs:comment xml:lang="ru">Ирвин А́ллен Ги́нзберг — американский поэт второй половины XX века, основатель битничества и ключевой представитель бит-поколения наряду с Д. Керуаком и У. Берроузом. Автор знаменитой поэмы «Вопль». Принимал участие в работе над романом Уильяма Берроуза «Джанки».</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-06-03</dbpedia-owl:birthDate>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpprop:birthPlace xml:lang="en">Newark, New Jersey, United States</dbpprop:birthPlace>
-    <rdfs:comment xml:lang="de">Allen Ginsberg [ˈælən ˈgɪnzˌbɝg] war ein US-amerikanischer Dichter der Beat Generation.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Allen_Ginsberg"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com.au/books?id=5tjtDZ438h4C"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Blake"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_anarchists"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Manhattan"/>
-    <dbpedia-owl:abstract xml:lang="fi">Irwin Allen Ginsberg oli yhdysvaltalainen runoilija. Hän oli beat-liikkeen johtohahmoja ja oli myös vahvasti mukana 1960-luvun hippiliikkeessä. Ginsbergin isä oli tunnettu runoilija Louis Ginsberg. Mielisairaudesta kärsineestä äidistään Naomista Ginsberg kirjoitti runon Kaddish (sisältyy Pentti Saarikosken suomentamana Sammakon Ginsberg-valikoimaan Huuto ja muita runoja 1947–1971). Opiskellessaan 1940-luvulla Columbian yliopistossa Ginsberg tutustui William S. Burroughsiin, Jack Kerouaciin, Gregory Corsoon ja Gary Snyderiin. Ginsbergistä tuli beat-runouden johtohahmo, ja hän kannusti myös ystäväpiiriään entistä parempiin runosaavutuksiin. Työskenneltyään mm. markkinatutkijana ja merimiehenä Ginsberg julkaisi esikoiskokoelmansa Howl And Other Poems vuonna 1956. Kokoelma vei kustantaja-runoilija Lawrence Ferlinghettin useisiin sensuurioikeudenkäynteihin. Kohusta oli kuitenkin lopulta pelkkää hyötyä. Ginsbergin teoksesta tuli eräs vuosisadan luetuimmista runokirjoista kautta maailman. Huuto-runoa pidetään 1900-luvun kenties väkevimpänä yksilön mielenilmauksena. Avoimesti homoseksuaalinen Ginsberg oli monessa mukana. Vuonna 1965 hänet kruunattiin Prahassa Toukokuun kuninkaaksi ja karkotettiin Tšekkoslovakiasta, ja hän joutui FBI:n tarkkailulistalle. Ginsberg oli hippiliikkeen ja rauhanliikkeen guru, joka teki myös yhteistyötä monien muusikoiden ja säveltäjien kanssa. Ginsberg matkusti aktiivisesti opettamassa ja lukemassa runojaan, mutta hänen vakituisin kotinsa oli kuitenkin New Yorkin Lower East Side. Ginsberg oli American Academy of Arts and Lettersin jäsen. Vuonna 1993 Ranskan kulttuuriministeri myönsi hänelle Chevalier de l’Ordre des Arts et des Lettres -kunniamerkin. Vuonna 1994 hänet valittiin Harvardin yliopiston Phi Beta Kappa -runoilijaksi. Lisäksi hän sai lukuisia pienempiä suosionosoituksia. Ginsberg oli myös perustamassa Jack Kerouac -runokoulua Boulderin (Colorado) Naropa Instituuttiin (Anselm Hollo kuuluu koulun opettajakaartiin). Hän oli myös aikuisten miesten ja nuorten poikien välisten seksisuhteiden sallimista ajavan NAMBLAn jäsen. Allen Ginsberg kuoli maksasyöpään New Yorkissa 5. huhtikuuta 1997. Hän kirjoitti vielä muutamaa päivää ennen kuolemaansa. Runot olivat olleet olennainen osa hänen elämäänsä, kynä ja vihko seurasivat kaikkialle. Yksi viimeisistä beatnikeista poistui ystäviensä ympäröimänä. Ginsbergillä ei ollut perinteisessä mielessä yksityisyyttä.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Newark,_New_Jersey"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poets.org/agins"/>
-    <dbpedia-owl:abstract xml:lang="ko">앨런 긴즈버그(Allen Ginsberg)는 미국의 시인이자 1950년대 비트 제너레이션의 지도적인 시인들 가운데 한 명이다. 그는 군국주의, 물질주의, 성적 억압에 반대하였다.</dbpedia-owl:abstract>
-    <dbpprop:name xml:lang="en">Allen Ginsberg</dbpprop:name>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Bob_Dylan"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Postmodern_writers"/>
-    <dbpprop:signature xml:lang="en">Allen Ginsberg signature.svg</dbpprop:signature>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Jack_Kerouac"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Patti_Smith"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=kjzaAAAAMAAJ"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Gregory_Corso"/>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-04-05</dbpprop:deathDate>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Arthur_Rimbaud"/>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpedia-owl:abstract xml:lang="zh">艾伦·金斯堡（英语：Allen Ginsberg，1926年6月3日－1997年4月5日），美国诗人，最出名的作品是长诗《嚎叫》，在这首诗中他赞扬了垮掉派的伙伴们，对当时在美国泛滥的物质主义与墨守成规做出了猛烈批判。他在六七十年代的反越战抗议及左翼运动中亦扮演了重要角色。</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Outlaw_poets"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Hart_Crane"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromGreenwichVillage,NewYork"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Carlos_Williams"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/New_Jersey"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Walt_Whitman"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_anarchists"/>
-    <rdfs:comment xml:lang="pl">Irwin Allen Ginsberg – amerykański poeta pochodzenia żydowskiego, aktor, scenarzysta i działacz społeczny, członek American Academy and Institute of Arts and Letters. Jeden z najważniejszych twórców tzw. poezji konfesyjnej i lider ruchu artystycznego określanego jako Beat Generation. Był również znaczącą postacią kontrkultury amerykańskiej, już za życia owianą barwną legendą i otaczaną kultem. Stał się jedną z głównych postaci powieści Jacka Kerouaca W drodze.</rdfs:comment>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Allen_Ginsberg?oldid=495327885"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BeatWriters"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromManhattan"/>
-    <rdfs:comment xml:lang="it"></rdfs:comment>
-    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Beat_Generation"/>
-    <dbpedia-owl:abstract xml:lang="de">Allen Ginsberg [ˈælən ˈgɪnzˌbɝg] war ein US-amerikanischer Dichter der Beat Generation.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_spoken_word_artists"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanSpokenWordArtists"/>
     <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/앨런_긴즈버그"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Kenneth_Patchen"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanAnti-VietnamWarActivists"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?ei=17kkTYKqJYSgvgPQxNiQAg"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Jack_Kerouac"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Jack_Kerouac"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Gregory_Corso"/>
     <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Allen_Ginsberg"/>
-    <dbpedia-owl:abstract xml:lang="cs">Irwin Allen Ginsberg byl americký básník, jedna z vůdčích osobností beatnické generace.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Yippies"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_poets"/>
-    <rdfs:comment xml:lang="fr">Allen Ginsberg, né le 3 juin 1926 à Newark et mort le 5 avril 1997 à New York, est un poète américain et un membre fondateur de la Beat Generation.</rdfs:comment>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Hunter_S._Thompson"/>
-    <dbpedia-owl:abstract xml:lang="pt">Irwin Allen Ginsberg foi um poeta americano da geração beat, que ficou conhecido pelo seu livro de poesia Howl.</dbpedia-owl:abstract>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/William_S._Burroughs"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:LGBT_Buddhists"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Kenneth_Rexroth"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Gregory_Corso"/>
-    <rdfs:comment xml:lang="hu">Irwin Allen Ginsberg amerikai költő. A Columbia Egyetem elvégzése után bejárta a fél világot, és rengeteg foglalkozást űzött. Ezalatt tanulmányozta a klasszikus irodalmat, költészetet, a keleti filozófiákat és a kábítószerek hatását az emberi tudatállapotra. New Yorkban ismerkedett meg Jack Kerouackal, aki nagy hatással volt rá. 1955-ben San Franciscóban telepedett le.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <dbpedia-owl:abstract xml:lang="no">Irwin Allen Ginsberg var en amerikansk beat-poet. Han er mest kjent for diktet Howl om beat-generasjonen. Sønn av Naomi Ginsberg og dikteren Louis Ginsberg. I løpet av sitt første år ved Columbia-universitetet i New York møtte han flere fremtidige beat-forfattere, blant andre Jack Kerouac og William S. Burroughs.</dbpedia-owl:abstract>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_S._Burroughs"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1926_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromNewark,NewJersey"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
+    <dbpprop:shortDescription xml:lang="en">poet, activist, essayist</dbpprop:shortDescription>
     <dbpprop:caption xml:lang="en">Allen Ginsberg at the Miami Book Fair International of 1985</dbpprop:caption>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpedia-owl:abstract xml:lang="ru">Ирвин А́ллен Ги́нзберг — американский поэт второй половины XX века, основатель битничества и ключевой представитель бит-поколения наряду с Д. Керуаком и У. Берроузом. Автор знаменитой поэмы «Вопль». Принимал участие в работе над романом Уильяма Берроуза «Джанки».</dbpedia-owl:abstract>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Blake"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanAnti-VietnamWarActivists"/>
+    <rdfs:comment xml:lang="it"></rdfs:comment>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jack_Kerouac"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cancer_deaths_in_New_York"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://video.google.com/videoplay?docid=1011318964326139723"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Brooklyn_College_faculty"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GayWriters"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Carlos_Williams"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Blake"/>
+    <dbpedia-owl:abstract xml:lang="en">Irwin Allen Ginsberg was an American poet and one of the leading figures of the Beat Generation in the 1950s. He vigorously opposed militarism, materialism and sexual repression. Ginsberg is best known for his epic poem "Howl", in which he celebrated his fellow "angel-headed hipsters" and harshly denounced what he saw as the destructive forces of capitalism and conformity in the United States. This poem is one of the classic poems of the Beat Generation. The poem, which was dedicated to writer Carl Solomon, opens: I saw the best minds of my generation destroyed by madness, starving hysterical naked, dragging themselves through the negro streets at dawn looking for an angry fix... In October 1955, Ginsberg and five other unknown poets gave a free reading at an experimental art gallery in San Francisco. Ginsberg's "Howl" electrified the audience. According to fellow poet Michael McClure, it was clear "that a barrier had been broken, that a human voice and body had been hurled against the harsh wall of America and its supporting armies and navies and academies and institutions and ownership systems and power support bases. " In 1957, "Howl" attracted widespread publicity when it became the subject of an obscenity trial in which a San Francisco prosecutor argued it contained "filthy, vulgar, obscene, and disgusting language. " The poem seemed especially outrageous in 1950s America because it depicted both heterosexual and homosexual sex at a time when sodomy laws made homosexual acts a crime in every U.S. state. "Howl" reflected Ginsberg's own homosexuality and his relationships with a number of men, including Peter Orlovsky, his lifelong partner. Judge Clayton W. Horn ruled that "Howl" was not obscene, adding, "Would there be any freedom of press or speech if one must reduce his vocabulary to vapid innocuous euphemisms?" In "Howl" and in his other poetry, Ginsberg drew inspiration from the epic, free verse style of the 19th century American poet Walt Whitman. Both wrote passionately about the promise (and betrayal) of American democracy, the central importance of erotic experience, and the spiritual quest for the truth of everyday existence. J. D. McClatchy, editor of the Yale Review, called Ginsberg "the best-known American poet of his generation, as much a social force as a literary phenomenon. " McClatchy added that Ginsberg, like Whitman, "was a bard in the old manner – outsized, darkly prophetic, part exuberance, part prayer, part rant. His work is finally a history of our era's psyche, with all its contradictory urges. " Ginsberg was a practicing Buddhist who studied Eastern religious disciplines extensively. One of his most influential teachers was the Tibetan Buddhist, the Venerable Chögyam Trungpa, founder of the Naropa Institute, now Naropa University at Boulder, Colorado. At Trungpa's urging, Ginsberg and poet Anne Waldman started a poetry school there in 1974 which they called the "Jack Kerouac School of Disembodied Poetics". In spite of his attraction to Eastern religions, the journalist Jane Kramer argues that Ginsberg, like Whitman, adhered to an "American brand of mysticism" that was, in her words, "rooted in humanism and in a romantic and visionary ideal of harmony among men. " He lived modestly, buying his clothing in second-hand stores and residing in downscale apartments in New York’s East Village. Ginsberg's political activism was consistent with his religious beliefs. He took part in decades of non-violent political protest against everything from the Vietnam War to the War on Drugs. The literary critic Helen Vendler described Ginsberg as "tirelessly persistent in protesting censorship, imperial politics, and persecution of the powerless. " His achievements as a writer as well as his notoriety as an activist gained him honors from established institutions. For example, his collection The Fall of America shared the annual U.S. National Book Award for Poetry in 1974. Other honors included the National Arts Club gold medal and his induction into the American Academy and Institute of Arts and Letters, both in 1979. Ginsberg was a Pulitzer Prize finalist in 1995 for his book Cosmopolitan Greetings: Poems 1986–1992.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="cs">Irwin Allen Ginsberg byl americký básník, jedna z vůdčích osobností beatnické generace.</dbpedia-owl:abstract>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/William_S._Burroughs"/>
+    <rdfs:comment xml:lang="cs">Irwin Allen Ginsberg byl americký básník, jedna z vůdčích osobností beatnické generace.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="hu">Irwin Allen Ginsberg amerikai költő. A Columbia Egyetem elvégzése után bejárta a fél világot, és rengeteg foglalkozást űzött. Ezalatt tanulmányozta a klasszikus irodalmat, költészetet, a keleti filozófiákat és a kábítószerek hatását az emberi tudatállapotra. New Yorkban ismerkedett meg Jack Kerouackal, aki nagy hatással volt rá. 1955-ben San Franciscóban telepedett le. Itt és ekkor jelent meg a Howl and Other Poems, a ma már klasszikus költészeti antológia, többek között Ginsberg verseivel A kötetet követően Ginsberg a beat-nemzedék egyik irodalmi vezéralakjává vált. Költészetét az amerikai életforma és kultúra elutasítása, emellett később a miszticizmus jellemzi. Nagy hatással volt Hobóra is, aki lefordította és elénekelte egyes verseit is. Járt Magyarországon és fellépett Hobo-koncerten. „ Amikor Allen Ginsberg Magyarországon járt, nekem jutott az a boldogság osztályrészül, hogy levihettem Debrecenbe. És ott az autóban – rettenetes köd volt, eső, havas eső, nem láttunk semmit, össze voltunk zárva... Akkor Allen Ginsberg feltette nekem a kérdést, hogy szerintem mi a botránynak az az elviselhető foka Debrecenben, amiért őt nem utasítják még ki Magyarországról. Aztán elmondta, hogy már Kubából és Csehszlovákiából kiutasították… ” – írta róla legkiválóbb magyar fordítója, Eörsi István.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/JewishAmericanWriters"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MontclairStateUniversityAlumni"/>
+    <dc:description xml:lang="en">poet, activist, essayist</dc:description>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Allen_Ginsberg"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Michael_McClure"/>
+    <rdfs:label xml:lang="zh">艾伦·金斯堡</rdfs:label>
+    <dbpprop:alternativeNames xml:lang="en">Ginsberg, Irwin Allen</dbpprop:alternativeNames>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpprop:occupation xml:lang="en">Writer, poet</dbpprop:occupation>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.lensculture.com/ginsberg.html?thisPic=100"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_tax_resisters"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:LGBT_Buddhists"/>
+    <rdfs:comment xml:lang="pt">Irwin Allen Ginsberg foi um poeta americano da geração beat, que ficou conhecido pelo seu livro de poesia Howl.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Allen Ginsberg, né le 3 juin 1926 à Newark et mort le 5 avril 1997 à New York, est un poète américain et un membre fondateur de la Beat Generation.</rdfs:comment>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Arthur_Rimbaud"/>
+    <rdfs:comment xml:lang="ru">Ирвин А́ллен Ги́нзберг — американский поэт второй половины XX века, основатель битничества и ключевой представитель бит-поколения наряду с Д. Керуаком и У. Берроузом. Автор знаменитой поэмы «Вопль». Принимал участие в работе над романом Уильяма Берроуза «Джанки».</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
+    <dbpprop:deathPlace xml:lang="en">New York City, United States</dbpprop:deathPlace>
+    <dbpedia-owl:abstract xml:lang="ko">앨런 긴즈버그(Allen Ginsberg)는 미국의 시인이자 1950년대 비트 제너레이션의 지도적인 시인들 가운데 한 명이다. 그는 군국주의, 물질주의, 성적 억압에 반대하였다.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">Irwin Allen Ginsberg foi um poeta americano da geração beat, que ficou conhecido pelo seu livro de poesia Howl.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Columbia_University_alumni"/>
+    <dbpprop:name xml:lang="en">Ginsberg, Allen</dbpprop:name>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Kenneth_Patchen"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Michael_McClure"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BeatPoets"/>
+    <rdfs:label xml:lang="uk">Аллен Ґінсберґ</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="fi">Irwin Allen Ginsberg oli yhdysvaltalainen runoilija. Hän oli beat-liikkeen johtohahmoja ja oli myös vahvasti mukana 1960-luvun hippiliikkeessä. Ginsbergin isä oli tunnettu runoilija Louis Ginsberg. Mielisairaudesta kärsineestä äidistään Naomista Ginsberg kirjoitti runon Kaddish (sisältyy Pentti Saarikosken suomentamana Sammakon Ginsberg-valikoimaan Huuto ja muita runoja 1947–1971). Opiskellessaan 1940-luvulla Columbian yliopistossa Ginsberg tutustui William S. Burroughsiin, Jack Kerouaciin, Gregory Corsoon ja Gary Snyderiin. Ginsbergistä tuli beat-runouden johtohahmo, ja hän kannusti myös ystäväpiiriään entistä parempiin runosaavutuksiin. Työskenneltyään mm. markkinatutkijana ja merimiehenä Ginsberg julkaisi esikoiskokoelmansa Howl And Other Poems vuonna 1956. Kokoelma vei kustantaja-runoilija Lawrence Ferlinghettin useisiin sensuurioikeudenkäynteihin. Kohusta oli kuitenkin lopulta pelkkää hyötyä. Ginsbergin teoksesta tuli eräs vuosisadan luetuimmista runokirjoista kautta maailman. Huuto-runoa pidetään 1900-luvun kenties väkevimpänä yksilön mielenilmauksena. Avoimesti homoseksuaalinen Ginsberg oli monessa mukana. Vuonna 1965 hänet kruunattiin Prahassa Toukokuun kuninkaaksi ja karkotettiin Tšekkoslovakiasta, ja hän joutui FBI:n tarkkailulistalle. Ginsberg oli hippiliikkeen ja rauhanliikkeen guru, joka teki myös yhteistyötä monien muusikoiden ja säveltäjien kanssa. Ginsberg matkusti aktiivisesti opettamassa ja lukemassa runojaan, mutta hänen vakituisin kotinsa oli kuitenkin New Yorkin Lower East Side. Ginsberg oli American Academy of Arts and Lettersin jäsen. Vuonna 1993 Ranskan kulttuuriministeri myönsi hänelle Chevalier de l’Ordre des Arts et des Lettres -kunniamerkin. Vuonna 1994 hänet valittiin Harvardin yliopiston Phi Beta Kappa -runoilijaksi. Lisäksi hän sai lukuisia pienempiä suosionosoituksia. Ginsberg oli myös perustamassa Jack Kerouac -runokoulua Boulderin (Colorado) Naropa Instituuttiin (Anselm Hollo kuuluu koulun opettajakaartiin). Hän oli myös aikuisten miesten ja nuorten poikien välisten seksisuhteiden sallimista ajavan NAMBLAn jäsen. Allen Ginsberg kuoli maksasyöpään New Yorkissa 5. huhtikuuta 1997. Hän kirjoitti vielä muutamaa päivää ennen kuolemaansa. Runot olivat olleet olennainen osa hänen elämäänsä, kynä ja vihko seurasivat kaikkialle. Yksi viimeisistä beatnikeista poistui ystäviensä ympäröimänä. Ginsbergillä ei ollut perinteisessä mielessä yksityisyyttä.</dbpedia-owl:abstract>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.stanford.edu/"/>
     <dbpedia-owl:abstract xml:lang="uk">Аллен Ґінсберґ - культовий американський поет, один з основоположників рухів бітників і хіппі. Його називали «Волтом Вітменом ХХ століття».</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="fr">Allen Ginsberg, né le 3 juin 1926 à Newark et mort le 5 avril 1997 à New York, est un poète américain et un membre fondateur de la Beat Generation.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Blake"/>
-    <rdfs:label xml:lang="de">Allen Ginsberg</rdfs:label>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=HgFlebSZKLcC&amp;pg=PA213"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Bob_Dylan"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Montclair_State_University_alumni"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Jack_Kerouac"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Patti_Smith"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://video.google.com/videoplay?docid=1011318964326139723"/>
-    <rdfs:comment xml:lang="nl">Irwin Allen Ginsberg was een Amerikaans dichter van joodse afkomst. In de jaren '40 van de twintigste eeuw studeerde hij aan de Universiteit van Columbia waar hij vriendschap sloot met de schrijvers William S. Burroughs en Jack Kerouac. In het midden van de jaren vijftig zou hij het centrum vormen van de Beat Generation samen met dichters als Gary Snyder en Michael McClure. In 1956 publiceerde hij zijn eerste werk: Howl And Other Poems.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Allen_Ginsberg"/>
-    <owl:sameAs rdf:resource="http://zitgist.com/music/artist/8fc551bc-0c60-43fd-a234-2776561c2b18"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jack_Kerouac"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=Dw3-xD05wnoC"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_S._Burroughs"/>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Гинзберг,_Аллен"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanTaxResisters"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromPaterson,NewJersey"/>
-    <dbpprop:movement rdf:resource="http://dbpedia.org/resource/Beat_Generation"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Gay_writers"/>
-    <dbpedia-owl:abstract xml:lang="es">Irwin Allen Ginsberg fue un poeta beat estadounidense nacido en Paterson, New Jersey. Enlace entre el movimiento beat de los años cincuenta y los hippies de los años sesenta, compartió amistad con, entre otros, Jack Kerouac, Neal Cassady, William S. Burroughs, Patti Smith, Gregory Corso, Herbert Huncke y Bob Dylan.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="fi">Irwin Allen Ginsberg oli yhdysvaltalainen runoilija. Hän oli beat-liikkeen johtohahmoja ja oli myös vahvasti mukana 1960-luvun hippiliikkeessä. Ginsbergin isä oli tunnettu runoilija Louis Ginsberg. Mielisairaudesta kärsineestä äidistään Naomista Ginsberg kirjoitti runon Kaddish (sisältyy Pentti Saarikosken suomentamana Sammakon Ginsberg-valikoimaan Huuto ja muita runoja 1947–1971). Opiskellessaan 1940-luvulla Columbian yliopistossa Ginsberg tutustui William S.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychedelicDrugAdvocates"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=F-EuD3M2QYoC&amp;pg=PA106"/>
-    <rdfs:label xml:lang="uk">Аллен Ґінсберґ</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:National_Book_Award_winners"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Allen_Ginsberg"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Greenwich_Village,_New_York"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=2AkeAgAACAAJ"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BeatPoets"/>
-    <dbpprop:birthName xml:lang="en">Irwin Allen Ginsberg</dbpprop:birthName>
-    <dbpedia-owl:birthName xml:lang="en">Irwin Allen Ginsberg</dbpedia-owl:birthName>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBoulder,Colorado"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpedia-owl:abstract xml:lang="vi">Irwin Allen Ginsberg (3 tháng 6 năm 1926 – 5 tháng 4 năm 1997) là một nhà thơ Mỹ, tác giả của bài thơ Howl (Tiếng tru) nổi tiếng, là một trong những thủ lĩnh của "Thế hệ Beat" của thập niên 1960.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="ko">앨런 긴즈버그(Allen Ginsberg)는 미국의 시인이자 1950년대 비트 제너레이션의 지도적인 시인들 가운데 한 명이다. 그는 군국주의, 물질주의, 성적 억압에 반대하였다.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.vlib.us/beats/wsbginsberg.html"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://meaning.com/wiki/How_Allen_Died"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.stanford.edu/depts/spc/spc.html"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/JewishAnarchists"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0lrh"/>
-    <dbpedia-owl:abstract xml:lang="ja">アーウィン・アレン・ギンズバーグ（Irwin Allen Ginsberg, 1926年6月3日 - 1997年4月5日）は、アメリカの詩人。ジャック・ケルアックとともにビート文学の代表者のひとり。 ニュージャージー州パターソンにロシアからのユダヤ系移民のルイス・ギンズバーグとナオミ・リーヴィの子として生まれる。アイビー・リーグの構成校の一つとして名高いコロンビア大学を卒業。アメリカの詩人のウィリアム・カルロス・ウィリアムス（William Carlos Williamsやウォルト・ホイットマン(Walt Whitman)などは彼の詩文の書き方に影響を与えた。 代表作に、「吠える」等。 朗読の名人であった。</dbpedia-owl:abstract>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Michael_McClure"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:LGBT_Jews"/>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-04-05</dbpprop:dateOfDeath>
-    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvb4Pb5wpEbGdrcN5Y29ycA"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/William_S._Burroughs"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MontclairStateUniversityAlumni"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromNewark,NewJersey"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.oac.cdlib.org/findaid/ark:/13030/tf5c6004hb"/>
-    <dbpprop:placeOfDeath xml:lang="en">New York City</dbpprop:placeOfDeath>
-    <foaf:homepage rdf:resource="http://www.ginsbergmovie.com/"/>
-    <rdfs:comment xml:lang="ja">アーウィン・アレン・ギンズバーグ（Irwin Allen Ginsberg, 1926年6月3日 - 1997年4月5日）は、アメリカの詩人。ジャック・ケルアックとともにビート文学の代表者のひとり。 ニュージャージー州パターソンにロシアからのユダヤ系移民のルイス・ギンズバーグとナオミ・リーヴィの子として生まれる。アイビー・リーグの構成校の一つとして名高いコロンビア大学を卒業。アメリカの詩人のウィリアム・カルロス・ウィリアムス（William Carlos Williamsやウォルト・ホイットマン(Walt Whitman)などは彼の詩文の書き方に影響を与えた。 代表作に、「吠える」等。 朗読の名人であった。</rdfs:comment>
-    <dbpedia-owl:individualisedPnd xml:lang="de">11853940X</dbpedia-owl:individualisedPnd>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-04-05</dbpedia-owl:deathDate>
-    <rdfs:comment xml:lang="sv">Irwin Allen Ginsberg, född 3 juni 1926 i Newark, New Jersey, död 5 april 1997 i East Village på Manhattan, New York City, New York, var en amerikansk poet och författare.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/JewishPoets"/>
-    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-06-03</dbpprop:birthDate>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Allen_Ginsberg"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cancer_deaths_in_New_York"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Tibetan_Buddhists_from_the_United_States"/>
-    <rdfs:comment xml:lang="es">Irwin Allen Ginsberg fue un poeta beat estadounidense nacido en Paterson, New Jersey. Enlace entre el movimiento beat de los años cincuenta y los hippies de los años sesenta, compartió amistad con, entre otros, Jack Kerouac, Neal Cassady, William S. Burroughs, Patti Smith, Gregory Corso, Herbert Huncke y Bob Dylan.</rdfs:comment>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jack_Kerouac"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Michael_McClure"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Amiri_Baraka"/>
-    <rdfs:label xml:lang="en">Allen Ginsberg</rdfs:label>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.english.illinois.edu/maps/poets/g_l/ginsberg/interviews.htm"/>
-    <dbpedia-owl:abstract xml:lang="sv">Irwin Allen Ginsberg, född 3 juni 1926 i Newark, New Jersey, död 5 april 1997 i East Village på Manhattan, New York City, New York, var en amerikansk poet och författare.</dbpedia-owl:abstract>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Gregory_Corso"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Allenginsberg.jpg/200px-Allenginsberg.jpg"/>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Allen_Ginsberg"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.npr.org/templates/story/story.php?storyId=6393328"/>
-    <dbpprop:shortDescription xml:lang="en">poet, activist, essayist</dbpprop:shortDescription>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GayWriters"/>
-    <dbpprop:deathPlace xml:lang="en">New York City, United States</dbpprop:deathPlace>
-    <dbpprop:occupation xml:lang="en">Writer, poet</dbpprop:occupation>
-    <rdfs:comment xml:lang="vi">Irwin Allen Ginsberg (3 tháng 6 năm 1926 – 5 tháng 4 năm 1997) là một nhà thơ Mỹ, tác giả của bài thơ Howl (Tiếng tru) nổi tiếng, là một trong những thủ lĩnh của "Thế hệ Beat" của thập niên 1960.</rdfs:comment>
-    <rdfs:comment xml:lang="zh">艾伦·金斯堡（英语：Allen Ginsberg，1926年6月3日－1997年4月5日），美国诗人，最出名的作品是长诗《嚎叫》，在这首诗中他赞扬了垮掉派的伙伴们，对当时在美国泛滥的物质主义与墨守成规做出了猛烈批判。他在六七十年代的反越战抗议及左翼运动中亦扮演了重要角色。</rdfs:comment>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_S._Burroughs"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Kenneth_Rexroth"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/LGBTRightsActivistsFromTheUnitedStates"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.allenginsbergdvd.com/"/>
-    <rdfs:label xml:lang="vi">Allen Ginsberg</rdfs:label>
-    <rdfs:comment xml:lang="ca">Irwin Allen Ginsberg fou un poeta beat estatunidenc que va néixer a Paterson, Nova Jersey. Enllaç entre el moviment beat dels anys 50 i els hippies dels anys 60, va compartir amistat amb, entre d'altres, Jack Kerouac, Neal Cassady, William S. Burroughs, Patti Smith, Gregory Corso, Herbert Huncke, Rod McKuen i Bob Dylan. La poesia de Ginsberg estava molt influïda pel modernisme, el romanticisme, el beat i la cadència del jazz, a més per la seva pràctica del budisme Kagyu i el seu origen jueu.</rdfs:comment>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Walt_Whitman"/>
-    <foaf:name xml:lang="en">Allen Ginsberg</foaf:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_liver_cancer"/>
-    <dc:description xml:lang="en">poet, activist, essayist</dc:description>
-    <foaf:surname xml:lang="en">Ginsberg</foaf:surname>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/JewishAmericanWriters"/>
-    <foaf:givenName xml:lang="en">Allen</foaf:givenName>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
-    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Άλλεν_Γκίνσμπεργκ"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Kenneth_Patchen"/>
-    <dbpedia-owl:abstract xml:lang="hu">Irwin Allen Ginsberg amerikai költő. A Columbia Egyetem elvégzése után bejárta a fél világot, és rengeteg foglalkozást űzött. Ezalatt tanulmányozta a klasszikus irodalmat, költészetet, a keleti filozófiákat és a kábítószerek hatását az emberi tudatállapotra. New Yorkban ismerkedett meg Jack Kerouackal, aki nagy hatással volt rá. 1955-ben San Franciscóban telepedett le. Itt és ekkor jelent meg a Howl and Other Poems, a ma már klasszikus költészeti antológia, többek között Ginsberg verseivel A kötetet követően Ginsberg a beat-nemzedék egyik irodalmi vezéralakjává vált. Költészetét az amerikai életforma és kultúra elutasítása, emellett később a miszticizmus jellemzi. Nagy hatással volt Hobóra is, aki lefordította és elénekelte egyes verseit is. Járt Magyarországon és fellépett Hobo-koncerten. „ Amikor Allen Ginsberg Magyarországon járt, nekem jutott az a boldogság osztályrészül, hogy levihettem Debrecenbe. És ott az autóban – rettenetes köd volt, eső, havas eső, nem láttunk semmit, össze voltunk zárva... Akkor Allen Ginsberg feltette nekem a kérdést, hogy szerintem mi a botránynak az az elviselhető foka Debrecenben, amiért őt nem utasítják még ki Magyarországról. Aztán elmondta, hogy már Kubából és Csehszlovákiából kiutasították… ” – írta róla legkiválóbb magyar fordítója, Eörsi István.</dbpedia-owl:abstract>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-06-03</dbpprop:dateOfBirth>
-    <rdfs:comment xml:lang="pt">Irwin Allen Ginsberg foi um poeta americano da geração beat, que ficou conhecido pelo seu livro de poesia Howl.</rdfs:comment>
-    <rdfs:label xml:lang="cs">Allen Ginsberg</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Columbia_University_alumni"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Brooklyn_College_faculty"/>
-    <dbpprop:placeOfBirth xml:lang="en">Newark, New Jersey</dbpprop:placeOfBirth>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Hart_Crane"/>
-    <rdfs:label xml:lang="ca">Allen Ginsberg</rdfs:label>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Arthur_Rimbaud"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.kerouacalley.com/ginsberg.html"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ginsbergmovie.com/"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Paterson,_New_Jersey"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Gregory_Corso"/>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アレン・ギンズバーグ"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shambhalasun.com/index.php?option=com_content&amp;task=view&amp;id=3003&amp;Itemid=0"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Psychedelic_drug_advocates"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dbpedia-owl:abstract xml:lang="ca">Irwin Allen Ginsberg fou un poeta beat estatunidenc que va néixer a Paterson, Nova Jersey. Enllaç entre el moviment beat dels anys 50 i els hippies dels anys 60, va compartir amistat amb, entre d'altres, Jack Kerouac, Neal Cassady, William S. Burroughs, Patti Smith, Gregory Corso, Herbert Huncke, Rod McKuen i Bob Dylan. La poesia de Ginsberg estava molt influïda pel modernisme, el romanticisme, el beat i la cadència del jazz, a més per la seva pràctica del budisme Kagyu i el seu origen jueu. Es considerava hereu de William Blake i de Walt Whitman. La potència dels poemes de Ginsberg, els seus llargs versos i la seva exhuberància del Nou Món, reflectien la continuïtat de la inspiració que reclamava. Altres influències també incloïen al poeta estatunidenc William Carlos Williams. La principal obra de Ginsberg, "Howl", és molt coneguda per la seva frase d'obertura: "He vist les millors ments de la meva generació destruïdes per la bogeria". L'obra es va considerar escandalosa en el moment de la seva publicació per la cruesa del seu llenguatge, que sovint és explícit. Poc temps després de la seva publicació al 1956 per una petita editora de San Francisco, l'obra fou prohibida. La prohibició fou un cas cèlebre entre els defensors de la primera esmena de la Constitució del Estats Units; fou anul·lada, després de què el jutge Clayton W. Horn declarés que el poema posseïa importància social redemptora. Les idees polítiques llibertàries i en general anti-sistema de Ginsberg van atreure l'atenció de l'FBI, institució policial que el va considerar com una greu amenaça per la seguretat. És en part interessant ressaltar que la segona part de "Howl" va estar inspirada i escrita principalment durant una visió causada pel peyote. Ginsberg va intentar escriure nombrosos poemes sota la influència de diferents tipus de droga, incloent l'àcid lisèrgic o LSD. Aquesta pràctica era una manifestació específica del seu enfoc experimental de caràcter més general; per exemple, també va escriure poemes recitant-los, gravant-los en cintes i transcribint-ne els resultats. En els seus escrits i en la seva vida, Ginsberg defensava la llibertat i l'autenticitat. Molts dels seus poemes són extremadament sincers i directes. Per exemple, a "Kaddish", descriu la bogeria de la seva mare en termes ben clars. A "Many Loves", descriu el seu primer contacte sexual amb Neal Cassady, que fou el seu amant i amic. Algun dels seus poemes posteriors es centren en la seva relació amb Peter Orlovsky, el seu amant de tota la vida a qui va dedicar "Kaddish and Other Poems". El seu viatge espiritual aviat va començar amb visions espontànies i va continuar amb un viatge a l'Índia i una trobada casual en un carrer de Nova York amb Chögyam Trungpa, Rinpoche, un budista tibetà mestre de meditació de l'escola Vajrayana, que es va convertir en el seu amic i mestre durant tota la vida. En la seva vida política, fou un iconoclasta, utilitzant el seu ingeni i el seu humor per a lluitar per la causa de la llibertat personal dels altres, sovint arriscant-se a sí mateix. Ginsberg va ajudar a finançar l'School of Disenbodied Poetics de Jack Kerouac a la Universitat de Naropa, a Boulder, Colorado, una escola formada per Chögyam Trungpa, Rinpoche. També fou co-fundador, al costat del poeta francès Jean Jacques Lebel, d'un dels festivals de poesia més importants del món, conegut com Poliphonix. El Ministeri de Cultura francès el va nomenar Cavaller de l'Ordre de les Arts i les Lletres l'any 1993.</dbpedia-owl:abstract>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/5/51/Allenginsberg.jpg"/>
+    <owl:sameAs rdf:resource="http://zitgist.com/music/artist/8fc551bc-0c60-43fd-a234-2776561c2b18"/>
     <rdfs:comment xml:lang="no">Irwin Allen Ginsberg var en amerikansk beat-poet. Han er mest kjent for diktet Howl om beat-generasjonen. Sønn av Naomi Ginsberg og dikteren Louis Ginsberg. I løpet av sitt første år ved Columbia-universitetet i New York møtte han flere fremtidige beat-forfattere, blant andre Jack Kerouac og William S. Burroughs.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=BSZtZUWge-IC"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?ei=17kkTYKqJYSgvgPQxNiQAg"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Amiri_Baraka"/>
-    <dbpprop:name xml:lang="en">Ginsberg, Allen</dbpprop:name>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.lensculture.com/ginsberg.html?thisPic=100"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Carlos_Williams"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1926_births"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=S4_rodMYMygC&amp;pg=PA173"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_American_writers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_anti%E2%80%93Vietnam_War_activists"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Boulder,_Colorado"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1997_deaths"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Beat_Generation_poets"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_tax_resisters"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.allenginsberg.org/"/>
-    <rdfs:comment xml:lang="en">Irwin Allen Ginsberg was an American poet and one of the leading figures of the Beat Generation in the 1950s. He vigorously opposed militarism, materialism and sexual repression. Ginsberg is best known for his epic poem "Howl", in which he celebrated his fellow "angel-headed hipsters" and harshly denounced what he saw as the destructive forces of capitalism and conformity in the United States. This poem is one of the classic poems of the Beat Generation.</rdfs:comment>
-    <rdfs:comment xml:lang="cs">Irwin Allen Ginsberg byl americký básník, jedna z vůdčích osobností beatnické generace.</rdfs:comment>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-04-05</dbpprop:deathDate>
+    <dbpedia-owl:abstract xml:lang="ja">アーウィン・アレン・ギンズバーグ（Irwin Allen Ginsberg, 1926年6月3日 - 1997年4月5日）は、アメリカの詩人。ジャック・ケルアックとともにビート文学の代表者のひとり。 ニュージャージー州パターソンにロシアからのユダヤ系移民のルイス・ギンズバーグとナオミ・リーヴィの子として生まれる。アイビー・リーグの構成校の一つとして名高いコロンビア大学を卒業。アメリカの詩人のウィリアム・カルロス・ウィリアムス（William Carlos Williamsやウォルト・ホイットマン(Walt Whitman)などは彼の詩文の書き方に影響を与えた。 代表作に、「吠える」等。 朗読の名人であった。</dbpedia-owl:abstract>
+    <foaf:surname xml:lang="en">Ginsberg</foaf:surname>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Allen_Ginsberg"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=2AkeAgAACAAJ"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Gregory_Corso"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Bob_Dylan"/>
+    <dbpedia-owl:abstract xml:lang="ca">Irwin Allen Ginsberg fou un poeta beat estatunidenc que va néixer a Paterson, Nova Jersey. Enllaç entre el moviment beat dels anys 50 i els hippies dels anys 60, va compartir amistat amb, entre d'altres, Jack Kerouac, Neal Cassady, William S. Burroughs, Patti Smith, Gregory Corso, Herbert Huncke, Rod McKuen i Bob Dylan. La poesia de Ginsberg estava molt influïda pel modernisme, el romanticisme, el beat i la cadència del jazz, a més per la seva pràctica del budisme Kagyu i el seu origen jueu. Es considerava hereu de William Blake i de Walt Whitman. La potència dels poemes de Ginsberg, els seus llargs versos i la seva exhuberància del Nou Món, reflectien la continuïtat de la inspiració que reclamava. Altres influències també incloïen al poeta estatunidenc William Carlos Williams. La principal obra de Ginsberg, "Howl", és molt coneguda per la seva frase d'obertura: "He vist les millors ments de la meva generació destruïdes per la bogeria". L'obra es va considerar escandalosa en el moment de la seva publicació per la cruesa del seu llenguatge, que sovint és explícit. Poc temps després de la seva publicació al 1956 per una petita editora de San Francisco, l'obra fou prohibida. La prohibició fou un cas cèlebre entre els defensors de la primera esmena de la Constitució del Estats Units; fou anul·lada, després de què el jutge Clayton W. Horn declarés que el poema posseïa importància social redemptora. Les idees polítiques llibertàries i en general anti-sistema de Ginsberg van atreure l'atenció de l'FBI, institució policial que el va considerar com una greu amenaça per la seguretat. És en part interessant ressaltar que la segona part de "Howl" va estar inspirada i escrita principalment durant una visió causada pel peyote. Ginsberg va intentar escriure nombrosos poemes sota la influència de diferents tipus de droga, incloent l'àcid lisèrgic o LSD. Aquesta pràctica era una manifestació específica del seu enfoc experimental de caràcter més general; per exemple, també va escriure poemes recitant-los, gravant-los en cintes i transcribint-ne els resultats. En els seus escrits i en la seva vida, Ginsberg defensava la llibertat i l'autenticitat. Molts dels seus poemes són extremadament sincers i directes. Per exemple, a "Kaddish", descriu la bogeria de la seva mare en termes ben clars. A "Many Loves", descriu el seu primer contacte sexual amb Neal Cassady, que fou el seu amant i amic. Algun dels seus poemes posteriors es centren en la seva relació amb Peter Orlovsky, el seu amant de tota la vida a qui va dedicar "Kaddish and Other Poems". El seu viatge espiritual aviat va començar amb visions espontànies i va continuar amb un viatge a l'Índia i una trobada casual en un carrer de Nova York amb Chögyam Trungpa, Rinpoche, un budista tibetà mestre de meditació de l'escola Vajrayana, que es va convertir en el seu amic i mestre durant tota la vida. En la seva vida política, fou un iconoclasta, utilitzant el seu ingeni i el seu humor per a lluitar per la causa de la llibertat personal dels altres, sovint arriscant-se a sí mateix. Ginsberg va ajudar a finançar l'School of Disenbodied Poetics de Jack Kerouac a la Universitat de Naropa, a Boulder, Colorado, una escola formada per Chögyam Trungpa, Rinpoche. També fou co-fundador, al costat del poeta francès Jean Jacques Lebel, d'un dels festivals de poesia més importants del món, conegut com Poliphonix. El Ministeri de Cultura francès el va nomenar Cavaller de l'Ordre de les Arts i les Lletres l'any 1993.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0lrh"/>
+    <rdfs:comment xml:lang="vi">Irwin Allen Ginsberg (3 tháng 6 năm 1926 – 5 tháng 4 năm 1997) là một nhà thơ Mỹ, tác giả của bài thơ Howl (Tiếng tru) nổi tiếng, là một trong những thủ lĩnh của "Thế hệ Beat" của thập niên 1960.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Allen_Ginsberg"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=kjzaAAAAMAAJ"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:LGBT_Jews"/>
     <rdfs:comment xml:lang="uk">Аллен Ґінсберґ - культовий американський поет, один з основоположників рухів бітників і хіппі. Його називали «Волтом Вітменом ХХ століття».</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_anarchists"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.youtube.com/watch?v=s4dht8Nufx8"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dbpedia-owl:abstract xml:lang="nl">Irwin Allen Ginsberg was een Amerikaans dichter van joodse afkomst. In de jaren '40 van de twintigste eeuw studeerde hij aan de Universiteit van Columbia waar hij vriendschap sloot met de schrijvers William S. Burroughs en Jack Kerouac. In het midden van de jaren vijftig zou hij het centrum vormen van de Beat Generation samen met dichters als Gary Snyder en Michael McClure. In 1956 publiceerde hij zijn eerste werk: Howl And Other Poems. Hoewel het gedicht heftige reacties opriep wegens vermeende obsceniteit, werd het een groot succes. Ook Ginsbergs openheid over zijn homoseksualiteit – zo trouwde hij in 1954 met Peter Orlovsky – maakte hem controversieel. Zijn collega-schrijvers, met name Jack Kerouac, William Carlos Williams en Kenneth Rexroth hadden meer vertrouwen in hem. Hij werd zelf ook sterk beïnvloed door deze schrijvers. Ginsberg had een sterke drang om de grenzen van zijn bewustzijn te verkennen. Dat deed hij door het gebruik van drugs zoals marihuana, maar ook door het schrijven van gedichten. William Blake, de Engelse dichter, was hem daarbij een voorbeeld. Toch bevatten veel gedichten van Ginsberg elementen van oorlog. Onderwerpen als de gaskamers in de Tweede Wereldoorlog en de oorlog in Vietnam komen regelmatig voor in zijn gedichten. Ginsberg ontving talrijke prijzen waaronder de Woodbury Poetry Prize, de National Book Award for Poetry, NEA grants en een Lifetime Achievement Award van de Before Columbus Foundation. In zijn laatste jaren was Ginsberg professor aan de Universiteit van Brooklyn. Ginsberg die zich steeds meer ging interesseren voor het boeddhisme werd op latere leeftijd boeddhist.</dbpedia-owl:abstract>
-    <rdfs:label xml:lang="zh">艾伦·金斯堡</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Psychedelic_drug_advocates"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Postmodern_writers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Manhattan"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ginsbergmovie.com/"/>
     <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Newark,_New_Jersey"/>
-    <dbpprop:alternativeNames xml:lang="en">Ginsberg, Irwin Allen</dbpprop:alternativeNames>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <rdfs:comment xml:lang="de">Allen Ginsberg [ˈælən ˈgɪnzˌbɝg] war ein US-amerikanischer Dichter der Beat Generation.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="no">Irwin Allen Ginsberg var en amerikansk beat-poet. Han er mest kjent for diktet Howl om beat-generasjonen. Sønn av Naomi Ginsberg og dikteren Louis Ginsberg. I løpet av sitt første år ved Columbia-universitetet i New York møtte han flere fremtidige beat-forfattere, blant andre Jack Kerouac og William S. Burroughs.</dbpedia-owl:abstract>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Kenneth_Patchen"/>
+    <rdfs:comment xml:lang="ja">アーウィン・アレン・ギンズバーグ（Irwin Allen Ginsberg, 1926年6月3日 - 1997年4月5日）は、アメリカの詩人。ジャック・ケルアックとともにビート文学の代表者のひとり。 ニュージャージー州パターソンにロシアからのユダヤ系移民のルイス・ギンズバーグとナオミ・リーヴィの子として生まれる。アイビー・リーグの構成校の一つとして名高いコロンビア大学を卒業。アメリカの詩人のウィリアム・カルロス・ウィリアムス（William Carlos Williamsやウォルト・ホイットマン(Walt Whitman)などは彼の詩文の書き方に影響を与えた。 代表作に、「吠える」等。 朗読の名人であった。</rdfs:comment>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shambhalasun.com/index.php?option=com_content&amp;task=view&amp;id=3003&amp;Itemid=0"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.allenginsberg.org/"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Gregory_Corso"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Kenneth_Rexroth"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Allen_Ginsberg"/>
+    <dbpprop:signature xml:lang="en">Allen Ginsberg signature.svg</dbpprop:signature>
+    <rdfs:comment xml:lang="ko">앨런 긴즈버그(Allen Ginsberg)는 미국의 시인이자 1950년대 비트 제너레이션의 지도적인 시인들 가운데 한 명이다. 그는 군국주의, 물질주의, 성적 억압에 반대하였다.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_anarchists"/>
+    <dbpedia-owl:abstract xml:lang="pl">Irwin Allen Ginsberg – amerykański poeta pochodzenia żydowskiego, aktor, scenarzysta i działacz społeczny, członek American Academy and Institute of Arts and Letters. Jeden z najważniejszych twórców tzw. poezji konfesyjnej i lider ruchu artystycznego określanego jako Beat Generation. Był również znaczącą postacią kontrkultury amerykańskiej, już za życia owianą barwną legendą i otaczaną kultem. Stał się jedną z głównych postaci powieści Jacka Kerouaca W drodze.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://meaning.com/wiki/How_Allen_Died"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Arthur_Rimbaud"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Greenwich_Village,_New_York"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_American_writers"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アレン・ギンズバーグ"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Allen_Ginsberg"/>
+    <rdfs:comment xml:lang="nl">Irwin Allen Ginsberg was een Amerikaans dichter van joodse afkomst. In de jaren '40 van de twintigste eeuw studeerde hij aan de Universiteit van Columbia waar hij vriendschap sloot met de schrijvers William S. Burroughs en Jack Kerouac. In het midden van de jaren vijftig zou hij het centrum vormen van de Beat Generation samen met dichters als Gary Snyder en Michael McClure. In 1956 publiceerde hij zijn eerste werk: Howl And Other Poems.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvb4Pb5wpEbGdrcN5Y29ycA"/>
+    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Beat_Generation"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <dbpedia-owl:abstract xml:lang="ru">Ирвин А́ллен Ги́нзберг — американский поэт второй половины XX века, основатель битничества и ключевой представитель бит-поколения наряду с Д. Керуаком и У. Берроузом. Автор знаменитой поэмы «Вопль». Принимал участие в работе над романом Уильяма Берроуза «Джанки».</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BeatWriters"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Hart_Crane"/>
+    <rdfs:label xml:lang="en">Allen Ginsberg</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromPaterson,NewJersey"/>
+    <rdfs:label xml:lang="vi">Allen Ginsberg</rdfs:label>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Allen_Ginsberg"/>
+    <dbpprop:movement rdf:resource="http://dbpedia.org/resource/Beat_Generation"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=Dw3-xD05wnoC"/>
+    <dbpprop:name xml:lang="en">Allen Ginsberg</dbpprop:name>
+    <dbpedia-owl:individualisedPnd xml:lang="de">11853940X</dbpedia-owl:individualisedPnd>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Carlos_Williams"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:National_Book_Award_winners"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Robert_Lowell"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBoulder,Colorado"/>
+    <dbpedia-owl:abstract xml:lang="fr">Allen Ginsberg, né le 3 juin 1926 à Newark et mort le 5 avril 1997 à New York, est un poète américain et un membre fondateur de la Beat Generation.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poets.org/agins"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Amiri_Baraka"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=F-EuD3M2QYoC&amp;pg=PA106"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Hunter_S._Thompson"/>
+    <foaf:homepage rdf:resource="http://www.ginsbergmovie.com/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.kerouacalley.com/ginsberg.html"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jack_Kerouac"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanSpokenWordArtists"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Allen_Ginsberg?oldid=495327885"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Hart_Crane"/>
+    <rdfs:label xml:lang="de">Allen Ginsberg</rdfs:label>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/5/51/Allenginsberg.jpg"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_poets"/>
+    <foaf:givenName xml:lang="en">Allen</foaf:givenName>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-06-03</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromNewYorkCity"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:birthName xml:lang="en">Irwin Allen Ginsberg</dbpedia-owl:birthName>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-04-05</dbpedia-owl:deathDate>
+    <dbpprop:birthName xml:lang="en">Irwin Allen Ginsberg</dbpprop:birthName>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=HgFlebSZKLcC&amp;pg=PA213"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Gay_writers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Montclair_State_University_alumni"/>
+    <dbpedia-owl:abstract xml:lang="zh">艾伦·金斯堡（英语：Allen Ginsberg，1926年6月3日－1997年4月5日），美国诗人，最出名的作品是长诗《嚎叫》，在这首诗中他赞扬了垮掉派的伙伴们，对当时在美国泛滥的物质主义与墨守成规做出了猛烈批判。他在六七十年代的反越战抗议及左翼运动中亦扮演了重要角色。</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Beat_Generation_poets"/>
+    <rdfs:comment xml:lang="es">Irwin Allen Ginsberg fue un poeta beat estadounidense nacido en Paterson, New Jersey. Enlace entre el movimiento beat de los años cincuenta y los hippies de los años sesenta, compartió amistad con, entre otros, Jack Kerouac, Neal Cassady, William S. Burroughs, Patti Smith, Gregory Corso, Herbert Huncke y Bob Dylan.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychedelicDrugAdvocates"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Гинзберг,_Аллен"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Tibetan_Buddhists_from_the_United_States"/>
+    <dbpedia-owl:abstract xml:lang="de">Allen Ginsberg [ˈælən ˈgɪnzˌbɝg] war ein US-amerikanischer Dichter der Beat Generation.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="cs">Allen Ginsberg</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Paterson,_New_Jersey"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/JewishAnarchists"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_S._Burroughs"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Άλλεν_Γκίνσμπεργκ"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
+    <rdfs:comment xml:lang="sv">Irwin Allen Ginsberg, född 3 juni 1926 i Newark, New Jersey, död 5 april 1997 i East Village på Manhattan, New York City, New York, var en amerikansk poet och författare.</rdfs:comment>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Gregory_Corso"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Allen_Ginsberg"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.english.illinois.edu/maps/poets/g_l/ginsberg/interviews.htm"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Yippies"/>
+    <foaf:name xml:lang="en">Allen Ginsberg</foaf:name>
     <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Hunter_S._Thompson"/>
-    <dbpedia-owl:abstract xml:lang="en">Irwin Allen Ginsberg was an American poet and one of the leading figures of the Beat Generation in the 1950s. He vigorously opposed militarism, materialism and sexual repression. Ginsberg is best known for his epic poem "Howl", in which he celebrated his fellow "angel-headed hipsters" and harshly denounced what he saw as the destructive forces of capitalism and conformity in the United States. This poem is one of the classic poems of the Beat Generation. The poem, which was dedicated to writer Carl Solomon, opens: I saw the best minds of my generation destroyed by madness, starving hysterical naked, dragging themselves through the negro streets at dawn looking for an angry fix... In October 1955, Ginsberg and five other unknown poets gave a free reading at an experimental art gallery in San Francisco. Ginsberg's "Howl" electrified the audience. According to fellow poet Michael McClure, it was clear "that a barrier had been broken, that a human voice and body had been hurled against the harsh wall of America and its supporting armies and navies and academies and institutions and ownership systems and power support bases. " In 1957, "Howl" attracted widespread publicity when it became the subject of an obscenity trial in which a San Francisco prosecutor argued it contained "filthy, vulgar, obscene, and disgusting language. " The poem seemed especially outrageous in 1950s America because it depicted both heterosexual and homosexual sex at a time when sodomy laws made homosexual acts a crime in every U.S. state. "Howl" reflected Ginsberg's own homosexuality and his relationships with a number of men, including Peter Orlovsky, his lifelong partner. Judge Clayton W. Horn ruled that "Howl" was not obscene, adding, "Would there be any freedom of press or speech if one must reduce his vocabulary to vapid innocuous euphemisms?" In "Howl" and in his other poetry, Ginsberg drew inspiration from the epic, free verse style of the 19th century American poet Walt Whitman. Both wrote passionately about the promise (and betrayal) of American democracy, the central importance of erotic experience, and the spiritual quest for the truth of everyday existence. J. D. McClatchy, editor of the Yale Review, called Ginsberg "the best-known American poet of his generation, as much a social force as a literary phenomenon. " McClatchy added that Ginsberg, like Whitman, "was a bard in the old manner – outsized, darkly prophetic, part exuberance, part prayer, part rant. His work is finally a history of our era's psyche, with all its contradictory urges. " Ginsberg was a practicing Buddhist who studied Eastern religious disciplines extensively. One of his most influential teachers was the Tibetan Buddhist, the Venerable Chögyam Trungpa, founder of the Naropa Institute, now Naropa University at Boulder, Colorado. At Trungpa's urging, Ginsberg and poet Anne Waldman started a poetry school there in 1974 which they called the "Jack Kerouac School of Disembodied Poetics". In spite of his attraction to Eastern religions, the journalist Jane Kramer argues that Ginsberg, like Whitman, adhered to an "American brand of mysticism" that was, in her words, "rooted in humanism and in a romantic and visionary ideal of harmony among men. " He lived modestly, buying his clothing in second-hand stores and residing in downscale apartments in New York’s East Village. Ginsberg's political activism was consistent with his religious beliefs. He took part in decades of non-violent political protest against everything from the Vietnam War to the War on Drugs. The literary critic Helen Vendler described Ginsberg as "tirelessly persistent in protesting censorship, imperial politics, and persecution of the powerless. " His achievements as a writer as well as his notoriety as an activist gained him honors from established institutions. For example, his collection The Fall of America shared the annual U.S. National Book Award for Poetry in 1974. Other honors included the National Arts Club gold medal and his induction into the American Academy and Institute of Arts and Letters, both in 1979. Ginsberg was a Pulitzer Prize finalist in 1995 for his book Cosmopolitan Greetings: Poems 1986–1992.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1997_deaths"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanTaxResisters"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=BSZtZUWge-IC"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Allenginsberg.jpg/200px-Allenginsberg.jpg"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Patti_Smith"/>
+    <rdfs:comment xml:lang="ca">Irwin Allen Ginsberg fou un poeta beat estatunidenc que va néixer a Paterson, Nova Jersey. Enllaç entre el moviment beat dels anys 50 i els hippies dels anys 60, va compartir amistat amb, entre d'altres, Jack Kerouac, Neal Cassady, William S. Burroughs, Patti Smith, Gregory Corso, Herbert Huncke, Rod McKuen i Bob Dylan. La poesia de Ginsberg estava molt influïda pel modernisme, el romanticisme, el beat i la cadència del jazz, a més per la seva pràctica del budisme Kagyu i el seu origen jueu.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_anti%E2%80%93Vietnam_War_activists"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.stanford.edu/depts/spc/spc.html"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Amiri_Baraka"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Kenneth_Rexroth"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=S4_rodMYMygC&amp;pg=PA173"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/William_S._Burroughs"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Walt_Whitman"/>
+    <rdfs:comment xml:lang="hu">Irwin Allen Ginsberg amerikai költő. A Columbia Egyetem elvégzése után bejárta a fél világot, és rengeteg foglalkozást űzött. Ezalatt tanulmányozta a klasszikus irodalmat, költészetet, a keleti filozófiákat és a kábítószerek hatását az emberi tudatállapotra. New Yorkban ismerkedett meg Jack Kerouackal, aki nagy hatással volt rá. 1955-ben San Franciscóban telepedett le.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.npr.org/templates/story/story.php?storyId=6393328"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-06-03</dbpedia-owl:birthDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Newark,_New_Jersey"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Allen_Ginsberg"/>
+    <rdfs:label xml:lang="ca">Allen Ginsberg</rdfs:label>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Patti_Smith"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/JewishPoets"/>
+    <rdfs:comment xml:lang="pl">Irwin Allen Ginsberg – amerykański poeta pochodzenia żydowskiego, aktor, scenarzysta i działacz społeczny, członek American Academy and Institute of Arts and Letters. Jeden z najważniejszych twórców tzw. poezji konfesyjnej i lider ruchu artystycznego określanego jako Beat Generation. Był również znaczącą postacią kontrkultury amerykańskiej, już za życia owianą barwną legendą i otaczaną kultem. Stał się jedną z głównych postaci powieści Jacka Kerouaca W drodze.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromManhattan"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.vlib.us/beats/wsbginsberg.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromGreenwichVillage,NewYork"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-06-03</dbpprop:birthDate>
+    <dbpprop:birthPlace xml:lang="en">Newark, New Jersey, United States</dbpprop:birthPlace>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_liver_cancer"/>
+    <dbpedia-owl:abstract xml:lang="sv">Irwin Allen Ginsberg, född 3 juni 1926 i Newark, New Jersey, död 5 april 1997 i East Village på Manhattan, New York City, New York, var en amerikansk poet och författare.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_spoken_word_artists"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.allenginsbergdvd.com/"/>
+    <dbpprop:placeOfBirth xml:lang="en">Newark, New Jersey</dbpprop:placeOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Boulder,_Colorado"/>
+    <rdfs:comment xml:lang="fi">Irwin Allen Ginsberg oli yhdysvaltalainen runoilija. Hän oli beat-liikkeen johtohahmoja ja oli myös vahvasti mukana 1960-luvun hippiliikkeessä. Ginsbergin isä oli tunnettu runoilija Louis Ginsberg. Mielisairaudesta kärsineestä äidistään Naomista Ginsberg kirjoitti runon Kaddish (sisältyy Pentti Saarikosken suomentamana Sammakon Ginsberg-valikoimaan Huuto ja muita runoja 1947–1971). Opiskellessaan 1940-luvulla Columbian yliopistossa Ginsberg tutustui William S.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="vi">Irwin Allen Ginsberg (3 tháng 6 năm 1926 – 5 tháng 4 năm 1997) là một nhà thơ Mỹ, tác giả của bài thơ Howl (Tiếng tru) nổi tiếng, là một trong những thủ lĩnh của "Thế hệ Beat" của thập niên 1960.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="nl">Irwin Allen Ginsberg was een Amerikaans dichter van joodse afkomst. In de jaren '40 van de twintigste eeuw studeerde hij aan de Universiteit van Columbia waar hij vriendschap sloot met de schrijvers William S. Burroughs en Jack Kerouac. In het midden van de jaren vijftig zou hij het centrum vormen van de Beat Generation samen met dichters als Gary Snyder en Michael McClure. In 1956 publiceerde hij zijn eerste werk: Howl And Other Poems. Hoewel het gedicht heftige reacties opriep wegens vermeende obsceniteit, werd het een groot succes. Ook Ginsbergs openheid over zijn homoseksualiteit – zo trouwde hij in 1954 met Peter Orlovsky – maakte hem controversieel. Zijn collega-schrijvers, met name Jack Kerouac, William Carlos Williams en Kenneth Rexroth hadden meer vertrouwen in hem. Hij werd zelf ook sterk beïnvloed door deze schrijvers. Ginsberg had een sterke drang om de grenzen van zijn bewustzijn te verkennen. Dat deed hij door het gebruik van drugs zoals marihuana, maar ook door het schrijven van gedichten. William Blake, de Engelse dichter, was hem daarbij een voorbeeld. Toch bevatten veel gedichten van Ginsberg elementen van oorlog. Onderwerpen als de gaskamers in de Tweede Wereldoorlog en de oorlog in Vietnam komen regelmatig voor in zijn gedichten. Ginsberg ontving talrijke prijzen waaronder de Woodbury Poetry Prize, de National Book Award for Poetry, NEA grants en een Lifetime Achievement Award van de Before Columbus Foundation. In zijn laatste jaren was Ginsberg professor aan de Universiteit van Brooklyn. Ginsberg die zich steeds meer ging interesseren voor het boeddhisme werd op latere leeftijd boeddhist.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
+    <rdfs:comment xml:lang="en">Irwin Allen Ginsberg was an American poet and one of the leading figures of the Beat Generation in the 1950s. He vigorously opposed militarism, materialism and sexual repression. Ginsberg is best known for his epic poem "Howl", in which he celebrated his fellow "angel-headed hipsters" and harshly denounced what he saw as the destructive forces of capitalism and conformity in the United States. This poem is one of the classic poems of the Beat Generation.</rdfs:comment>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/New_Jersey"/>
+    <dbpprop:placeOfDeath xml:lang="en">New York City</dbpprop:placeOfDeath>
+    <dbpedia-owl:abstract xml:lang="es">Irwin Allen Ginsberg fue un poeta beat estadounidense nacido en Paterson, New Jersey. Enlace entre el movimiento beat de los años cincuenta y los hippies de los años sesenta, compartió amistad con, entre otros, Jack Kerouac, Neal Cassady, William S. Burroughs, Patti Smith, Gregory Corso, Herbert Huncke y Bob Dylan.</dbpedia-owl:abstract>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Walt_Whitman"/>
+    <rdfs:comment xml:lang="zh">艾伦·金斯堡（英语：Allen Ginsberg，1926年6月3日－1997年4月5日），美国诗人，最出名的作品是长诗《嚎叫》，在这首诗中他赞扬了垮掉派的伙伴们，对当时在美国泛滥的物质主义与墨守成规做出了猛烈批判。他在六七十年代的反越战抗议及左翼运动中亦扮演了重要角色。</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Outlaw_poets"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.oac.cdlib.org/findaid/ark:/13030/tf5c6004hb"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-04-05</dbpprop:dateOfDeath>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Bob_Dylan"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com.au/books?id=5tjtDZ438h4C"/>
   </rdf:Description>
 </rdf:RDF>

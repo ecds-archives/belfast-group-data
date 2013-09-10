@@ -9,69 +9,54 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Return_to_Glennascaul">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Hilton_Edwards"/>
-    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/Hilton_Edwards"/>
-    <dbpprop:director rdf:resource="http://dbpedia.org/resource/Hilton_Edwards"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Hilton_Edwards">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Hilton_Edwards"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hilton_Edwards">
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPeopleOfWelshDescent"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:LGBT_people_from_Ireland"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LGBTPeopleFromIreland"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jacob's_Award_winners"/>
     <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Hilton_Edwards"/>
-    <dbpedia-owl:abstract xml:lang="sv">Hilton Edwars, född 2 februari 1903 i London, död 18 november 1982 i Dublin, var en irländsk skådespelare och teaterproducent. Han medverkade i 15 filmer och skrev Orson Welles Return to Glennascaul 1951. Han är met känd för sitt teaterarbete. 1966 mottog han ett Tony Award för bästa dramaregissör för "Philadelphia, Here I Come!". Han grundade tillsammans med sin romantiska partner Micheál MacLiammoir Gate Theatre i Dublin år 1938.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hilton_Edwards"/>
-    <foaf:name xml:lang="en">Hilton Edwards</foaf:name>
-    <rdfs:label xml:lang="en">Hilton Edwards</rdfs:label>
-    <dbpedia-owl:abstract xml:lang="en">Hilton Edwards (2 February 1903 – 18 November 1982) was an English-born Irish actor and theatrical producer. He was the son of Thomas George Cecil Edwards and Emily Edwards (born Murphy). Edwards was born in London. He appeared in 15 films, including Captain Lightfoot (1955), David and Goliath (1960), Victim (1961) and Half a Sixpence (1967). He also wrote and directed Orson Welles's Return to Glennascaul (1951). However, he was primarily known for his theatre work; he was nominated for a Tony Award in 1966 for Best Director of a Drama for Philadelphia, Here I Come! Along with his romantic partner, Micheál MacLiammóir, Edwards co-founded the Gate Theatre in Dublin. In 1961, he became the first Head of Drama at Telefís Éireann and, a year later, he won a Jacob's Award for his television series, Self Portrait. Edwards and MacLiammoir were the subject of a biography, titled The Boys by Christophor Fitz-Simon. Hilton Edwards died in Dublin, Ireland.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_St._Fintan's_Cemetery,_Sutton"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/England"/>
-    <rdfs:comment xml:lang="sv">Hilton Edwars, född 2 februari 1903 i London, död 18 november 1982 i Dublin, var en irländsk skådespelare och teaterproducent. Han medverkade i 15 filmer och skrev Orson Welles Return to Glennascaul 1951. Han är met känd för sitt teaterarbete. 1966 mottog han ett Tony Award för bästa dramaregissör för "Philadelphia, Here I Come!". Han grundade tillsammans med sin romantiska partner Micheál MacLiammoir Gate Theatre i Dublin år 1938.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_theatre_managers_and_producers"/>
-    <dbpedia-owl:individualisedPnd xml:lang="de">124523277</dbpedia-owl:individualisedPnd>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LGBTPeopleFromIreland"/>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Hilton_Edwards?oldid=494926009"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishFilmActors"/>
-    <foaf:surname xml:lang="en">Edwards</foaf:surname>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_theatre_managers_and_producers"/>
     <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Dublin"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishTheatreManagersAndProduCErs"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_St._Fintan's_Cemetery,_Sutton"/>
     <rdfs:comment xml:lang="de">Hilton Edwards war ein irischer Schauspieler und Theaterregisseur.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1982_deaths"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1903_births"/>
     <rdfs:label xml:lang="de">Hilton Edwards</rdfs:label>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1903-02-02</dbpedia-owl:birthDate>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:LGBT_people_from_England"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_film_actors"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/London"/>
-    <rdfs:comment xml:lang="en">Hilton Edwards (2 February 1903 – 18 November 1982) was an English-born Irish actor and theatrical producer. He was the son of Thomas George Cecil Edwards and Emily Edwards (born Murphy). Edwards was born in London. He appeared in 15 films, including Captain Lightfoot (1955), David and Goliath (1960), Victim (1961) and Half a Sixpence (1967). He also wrote and directed Orson Welles's Return to Glennascaul (1951).</rdfs:comment>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01vnpn"/>
     <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1982-11-18</dbpedia-owl:deathDate>
-    <dbpedia-owl:abstract xml:lang="de">Hilton Edwards war ein irischer Schauspieler und Theaterregisseur.</dbpedia-owl:abstract>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Hilton_Edwards"/>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</dbpprop:dateOfDeath>
+    <foaf:name xml:lang="en">Hilton Edwards</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPeopleOfWelshDescent"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dbpprop:placeOfBirth xml:lang="en">London, England, UK</dbpprop:placeOfBirth>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_people_of_English_descent"/>
-    <dbpprop:name xml:lang="en">Edwards, Hilton</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishTheatreManagersAndProduCErs"/>
     <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_film_actors"/>
+    <dbpedia-owl:abstract xml:lang="de">Hilton Edwards war ein irischer Schauspieler und Theaterregisseur.</dbpedia-owl:abstract>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Naturalised_citizens_of_Ireland"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/England"/>
     <foaf:givenName xml:lang="en">Hilton</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:LGBT_people_from_Ireland"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01vnpn"/>
+    <dbpedia-owl:abstract xml:lang="en">Hilton Edwards (2 February 1903 – 18 November 1982) was an English-born Irish actor and theatrical producer. He was the son of Thomas George Cecil Edwards and Emily Edwards (born Murphy). Edwards was born in London. He appeared in 15 films, including Captain Lightfoot (1955), David and Goliath (1960), Victim (1961) and Half a Sixpence (1967). He also wrote and directed Orson Welles's Return to Glennascaul (1951). However, he was primarily known for his theatre work; he was nominated for a Tony Award in 1966 for Best Director of a Drama for Philadelphia, Here I Come! Along with his romantic partner, Micheál MacLiammóir, Edwards co-founded the Gate Theatre in Dublin. In 1961, he became the first Head of Drama at Telefís Éireann and, a year later, he won a Jacob's Award for his television series, Self Portrait. Edwards and MacLiammoir were the subject of a biography, titled The Boys by Christophor Fitz-Simon. Hilton Edwards died in Dublin, Ireland.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="en">Hilton Edwards</rdfs:label>
+    <dbpprop:placeOfBirth xml:lang="en">London, England, UK</dbpprop:placeOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_theatre_managers_and_producers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_theatre_managers_and_producers"/>
     <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Filming_Othello">
-    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/Hilton_Edwards"/>
-    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Hilton_Edwards"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Hilton_Edwards">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hilton_Edwards"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1903_births"/>
+    <foaf:surname xml:lang="en">Edwards</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_people_of_English_descent"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Hilton_Edwards"/>
+    <rdfs:comment xml:lang="sv">Hilton Edwars, född 2 februari 1903 i London, död 18 november 1982 i Dublin, var en irländsk skådespelare och teaterproducent. Han medverkade i 15 filmer och skrev Orson Welles Return to Glennascaul 1951. Han är met känd för sitt teaterarbete. 1966 mottog han ett Tony Award för bästa dramaregissör för "Philadelphia, Here I Come!". Han grundade tillsammans med sin romantiska partner Micheál MacLiammoir Gate Theatre i Dublin år 1938.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="sv">Hilton Edwars, född 2 februari 1903 i London, död 18 november 1982 i Dublin, var en irländsk skådespelare och teaterproducent. Han medverkade i 15 filmer och skrev Orson Welles Return to Glennascaul 1951. Han är met känd för sitt teaterarbete. 1966 mottog han ett Tony Award för bästa dramaregissör för "Philadelphia, Here I Come!". Han grundade tillsammans med sin romantiska partner Micheál MacLiammoir Gate Theatre i Dublin år 1938.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishFilmActors"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:dateOfBirth>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hilton_Edwards"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_film_actors"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1903-02-02</dbpedia-owl:birthDate>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Hilton_Edwards?oldid=494926009"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:LGBT_people_from_England"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</dbpprop:dateOfDeath>
+    <rdfs:comment xml:lang="en">Hilton Edwards (2 February 1903 – 18 November 1982) was an English-born Irish actor and theatrical producer. He was the son of Thomas George Cecil Edwards and Emily Edwards (born Murphy). Edwards was born in London. He appeared in 15 films, including Captain Lightfoot (1955), David and Goliath (1960), Victim (1961) and Half a Sixpence (1967). He also wrote and directed Orson Welles's Return to Glennascaul (1951).</rdfs:comment>
+    <dbpedia-owl:individualisedPnd xml:lang="de">124523277</dbpedia-owl:individualisedPnd>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_film_actors"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1982_deaths"/>
+    <dbpprop:name xml:lang="en">Edwards, Hilton</dbpprop:name>
   </rdf:Description>
 </rdf:RDF>

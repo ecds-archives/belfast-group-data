@@ -8,177 +8,189 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50022735#skos:Concept">
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50022735"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00621636#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:altLabel>Weill, Kurt Julian</skos:altLabel>
+    <skos:altLabel>ヴァイル, クルト</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:altLabel>וייל, קורט</skos:altLabel>
+    <skos:altLabel>Weill</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
-    <skos:altLabel>Weil, Kurt, 1900-1950</skos:altLabel>
+    <skos:altLabel>ワイル, クルト</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000042960#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
+    <skos:altLabel>Veils, Kurts, 1900-1950</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <skos:altLabel>Вайль, Курт, 1900-1950</skos:altLabel>
+    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
+    <skos:altLabel>Вейль, Курт, 1900-1950</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/76501825/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/76501825"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0004B1988#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50022735#skos:Concept">
+    <skos:altLabel>וייל, קורט</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50022735"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
     <skos:altLabel>Weill, Kurt (Julian Kurt), 1900-1950</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Weil, Kurt, 1900-1950</skos:altLabel>
+    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
     <skos:altLabel>Ṿail, Ḳurṭ, 1900-1950</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca12869181#skos:Concept">
+    <skos:altLabel>Weill, K.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000140359#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
-    <skos:altLabel>Weil, Kurt, 1900-1950</skos:altLabel>
-    <skos:altLabel>ויל, קורט, 1900-1950</skos:altLabel>
-    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <skos:altLabel>ויל, קורט יוליאן, 1900-1950</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2002098017#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
     <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035597247#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
     <skos:altLabel>Weil, Kurt, 1900-1950</skos:altLabel>
-    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>וייל, קורט</skos:altLabel>
-    <skos:altLabel>Ṿail, Ḳurṭ, 1900-1950</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca17647009#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Weill, K.</skos:altLabel>
-    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
+    <skos:altLabel>ויל, קורט יוליאן, 1900-1950</skos:altLabel>
+    <skos:altLabel>ויל, קורט, 1900-1950</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/76501825/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C139829#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-    <skos:altLabel>Weill, Kurt</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca12869181#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
-    <skos:altLabel>Weill, K.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000701946#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C13901071#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb13901071w"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb13901071w"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C101231#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/101231#concept"/>
-    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/76501825/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/76501825"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068546009#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C029207746#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
+    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
-    <skos:altLabel>Weill, Kurt Julian</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00621636#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <skos:altLabel>ワイル, クルト</skos:altLabel>
-    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
-    <skos:altLabel>Weill</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>ヴァイル, クルト</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
     <skos:altLabel>Weill, Kurt Julian</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SWNL%7Cvtls002490682#skos:Concept">
-    <skos:altLabel>Weill, Kurt Julian</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SWNL"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Weill, Kurt</skos:prefLabel>
+    <skos:altLabel>Weill, Kurt Julian</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SWNL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118630202#skos:Concept">
+    <skos:altLabel>וייל, קורט 1900-1950</skos:altLabel>
+    <skos:altLabel>Weil, Kurt, 1900-1950</skos:altLabel>
+    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Weill, K. 1900-1950</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Pail, K'urŭt'ŭ 1900-1950</skos:altLabel>
+    <skos:altLabel>Weill, Kurt Julian 1900-1950</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068546009#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CKurt_Weill#skos:Concept">
+    <skos:prefLabel>Weill, Kurt</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/76501825/#foaf:Person">
     <owl:sameAs rdf:resource="http://viaf.org/viaf/76501825"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118630202#skos:Concept">
-    <skos:altLabel>Weill, K. 1900-1950</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C101231#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/101231#concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C139829#skos:Concept">
+    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
+    <skos:altLabel>Weill, Kurt</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C13901071#skos:Concept">
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb13901071w"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb13901071w"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
+    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000701946#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
-    <skos:altLabel>וייל, קורט 1900-1950</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2002098017#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035597247#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
     <skos:altLabel>Weil, Kurt, 1900-1950</skos:altLabel>
-    <skos:altLabel>Pail, K'urŭt'ŭ 1900-1950</skos:altLabel>
-    <skos:altLabel>Weill, Kurt Julian 1900-1950</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
+    <skos:altLabel>וייל, קורט</skos:altLabel>
+    <skos:altLabel>Ṿail, Ḳurṭ, 1900-1950</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/76501825">
-    <foaf:name>ヴァイル, クルト</foaf:name>
-    <foaf:name>Weill, K.</foaf:name>
-    <foaf:name>וייל, קורט, 1900-1950</foaf:name>
-    <foaf:name>Weill, K. 1900-1950</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Weill, Kurt</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb13901071w#foaf:Person"/>
-    <foaf:name>ワイル, クルト</foaf:name>
-    <foaf:name>וייל, קורט 1900-1950</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118630202"/>
     <foaf:name>Weil, Kurt (1900-1950).</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb13901071w#foaf:Person"/>
     <foaf:name>Weill, Kurt, 1900-1950</foaf:name>
-    <foaf:name>ויל, קורט, 1900-1950</foaf:name>
-    <rdaGr2:dateOfDeath>1950-04-03</rdaGr2:dateOfDeath>
-    <foaf:name>Pail, K'urŭt'ŭ 1900-1950</foaf:name>
-    <foaf:name>Weill, Kurt Julian 1900-1950</foaf:name>
-    <foaf:name>Weill, Kurt (Julian Kurt), 1900-1950</foaf:name>
     <foaf:name>Weil, Kurt, 1900-1950</foaf:name>
-    <foaf:name>ויל, קורט יוליאן, 1900-1950</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <foaf:name>Weill, Kurt Julian</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Kurt_Weill"/>
-    <foaf:name>וייל, קורט</foaf:name>
-    <foaf:name>Ṿail, Ḳurṭ, 1900-1950</foaf:name>
+    <foaf:name>Weill, Kurt Julian 1900-1950</foaf:name>
     <foaf:name>Weill</foaf:name>
+    <foaf:name>ויל, קורט, 1900-1950</foaf:name>
+    <foaf:name>Weill, Kurt (Julian Kurt), 1900-1950</foaf:name>
+    <foaf:name>וייל, קורט, 1900-1950</foaf:name>
+    <foaf:name>Weill, Kurt</foaf:name>
     <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/101231"/>
     <rdaGr2:dateOfBirth>1900-03-02</rdaGr2:dateOfBirth>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Veils, Kurts, 1900-1950</foaf:name>
+    <foaf:name>ויל, קורט יוליאן, 1900-1950</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118630202"/>
+    <foaf:name>וייל, קורט 1900-1950</foaf:name>
+    <foaf:name>Вайль, Курт, 1900-1950</foaf:name>
+    <foaf:name>ヴァイル, クルト</foaf:name>
+    <foaf:name>ワイル, クルト</foaf:name>
+    <foaf:name>Pail, K'urŭt'ŭ 1900-1950</foaf:name>
     <owl:sameAs rdf:resource="http://www.idref.fr/029207746/id"/>
+    <foaf:name>Вейль, Курт, 1900-1950</foaf:name>
+    <foaf:name>Weill, K.</foaf:name>
+    <foaf:name>Ṿail, Ḳurṭ, 1900-1950</foaf:name>
+    <foaf:name>וייל, קורט</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Kurt_Weill"/>
+    <foaf:name>Weill, K. 1900-1950</foaf:name>
+    <rdaGr2:dateOfDeath>1950-04-03</rdaGr2:dateOfDeath>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0004B1988#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca17647009#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:altLabel>Weill, K.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
     <skos:prefLabel>Weill, Kurt, 1900-1950</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CKurt_Weill#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/76501825"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <skos:prefLabel>Weill, Kurt</skos:prefLabel>
   </rdf:Description>
 </rdf:RDF>

@@ -4,24 +4,37 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kvq#heaney1_10414">
+    <schema:mentions rdf:resource="http://sws.geonames.org/2657256/"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/3042225/"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2635259/"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/3373405/"/>
+    <schema:name>A LOUGH NEAGH SEQUENCE</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2657256/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
     <schema:name>Antrim</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/f7bc24c708f7ff3f691b763c3b95c39e">
+    <dc:title rdf:nodeID="N7cb05332daf141c78bec330e5757cbb9"/>
+    <schema:name>POEMS BY SEAMUS HEANEY</schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
     <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
-    <dc:title rdf:nodeID="N8e376a50bb11461e9bd5823d4179d04b"/>
-    <schema:name>POEMS BY SEAMUS HEANEY</schema:name>
     <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17kvq"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/3042225/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Isle of Man</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/3373405/">
     <schema:name>Atlantic</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N8e376a50bb11461e9bd5823d4179d04b">
-    <rdf:first>A Lough Neagh Sequence</rdf:first>
+  <rdf:Description rdf:nodeID="N7cb05332daf141c78bec330e5757cbb9">
     <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first>A Lough Neagh Sequence</rdf:first>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2635259/">
     <schema:name>Tyrone</schema:name>
@@ -29,20 +42,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name>Seamus Heaney</schema:name>
     <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kvq#heaney1_10414">
-    <schema:author rdf:resource="http://viaf.org/viaf/109557338"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/3042225/"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2635259/"/>
-    <schema:name>A LOUGH NEAGH SEQUENCE</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2657256/"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/3373405/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/3042225/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name>Isle of Man</schema:name>
+    <schema:name>Seamus Heaney</schema:name>
   </rdf:Description>
 </rdf:RDF>

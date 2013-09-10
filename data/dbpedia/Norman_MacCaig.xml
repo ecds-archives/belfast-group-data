@@ -10,70 +10,55 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Norman_MacCaig">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Norman_MacCaig"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Norman_MacCaig">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Norman_MacCaig"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_McCaig">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Norman_MacCaig"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_MacCaig">
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromEdinburgh"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1910-11-14</dbpedia-owl:birthDate>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Edinburgh"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_conscientious_objectors"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_Renaissance"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_the_University_of_Edinburgh"/>
-    <dbpprop:name xml:lang="en">MacCaig, Norman</dbpprop:name>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Edinburgh"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_poets"/>
-    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
-    <dbpprop:placeOfBirth xml:lang="en">Edinburgh, Scotland</dbpprop:placeOfBirth>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nls.uk/writestuff/index.html"/>
-    <dbpedia-owl:abstract xml:lang="en">Norman MacCaig (14 November 1910 – 23 January 1996) was a Scottish poet. His poetry, in modern English, is known for its humour, simplicity of language and great popularity.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.jacobite.org.uk/"/>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-01-23</dbpedia-owl:deathDate>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dc:description xml:lang="en">Poet</dc:description>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://textualities.net/writers/features-h-m/maccaign01.php"/>
+    <foaf:surname xml:lang="en">MacCaig</foaf:surname>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/RoyalHighSchoolAlumni"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_the_Royal_High_School,_Edinburgh"/>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/1/1b/NormanMacCaigPoetryBook.jpg"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1996_deaths"/>
-    <foaf:givenName xml:lang="en">Norman</foaf:givenName>
-    <rdfs:comment xml:lang="fr">Norman Alexander MacCaig est un poète écossais né à Édimbourg le 14 novembre 1910 et mort à Édimbourg le 23 janvier 1996.</rdfs:comment>
     <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
     <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Norman_MacCaig"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1910_births"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">14</dbpprop:dateOfBirth>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Norman_MacCaig"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://textualities.net/writers/features-h-m/maccaign01.php"/>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</dbpprop:dateOfDeath>
-    <dbpedia-owl:abstract xml:lang="fr">Norman Alexander MacCaig est un poète écossais né à Édimbourg le 14 novembre 1910 et mort à Édimbourg le 23 janvier 1996.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://findarticles.com/p/articles/mi_qn4158/is_/ai_n9640842"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.030v_0"/>
-    <foaf:name xml:lang="en">Norman MacCaig</foaf:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Edinburgh"/>
-    <foaf:surname xml:lang="en">MacCaig</foaf:surname>
-    <rdfs:comment xml:lang="en">Norman MacCaig (14 November 1910 – 23 January 1996) was a Scottish poet. His poetry, in modern English, is known for its humour, simplicity of language and great popularity.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Norman_MacCaig"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nationalgalleries.org/collection/portrait_of_the_month/4:8090/8099/"/>
+    <rdfs:comment xml:lang="fr">Norman Alexander MacCaig est un poète écossais né à Édimbourg le 14 novembre 1910 et mort à Édimbourg le 23 janvier 1996.</rdfs:comment>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_schoolteachers"/>
-    <rdfs:label xml:lang="en">Norman MacCaig</rdfs:label>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishConscientiousObjectors"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/scotland/arts/writingscotland/learning_journeys/place/norman_maccaig/"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishPoets"/>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Norman_MacCaig?oldid=484159671"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</dbpprop:dateOfDeath>
+    <dbpprop:name xml:lang="en">MacCaig, Norman</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-01-23</dbpedia-owl:deathDate>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1910-11-14</dbpedia-owl:birthDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1910_births"/>
     <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/NormanMacCaigPoetryBook.jpg/200px-NormanMacCaigPoetryBook.jpg"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Norman_MacCaig"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_poets"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://findarticles.com/p/articles/mi_qn4158/is_/ai_n9640842"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishPoets"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.030v_0"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_conscientious_objectors"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1996_deaths"/>
+    <dbpprop:placeOfBirth xml:lang="en">Edinburgh, Scotland</dbpprop:placeOfBirth>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.jacobite.org.uk/"/>
+    <foaf:name xml:lang="en">Norman MacCaig</foaf:name>
+    <rdfs:label xml:lang="en">Norman MacCaig</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Edinburgh"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Norman_MacCaig"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_the_Royal_High_School,_Edinburgh"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nls.uk/writestuff/index.html"/>
+    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishConscientiousObjectors"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Edinburgh"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_Renaissance"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Edinburgh"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nationalgalleries.org/collection/portrait_of_the_month/4:8090/8099/"/>
+    <rdfs:comment xml:lang="en">Norman MacCaig (14 November 1910 – 23 January 1996) was a Scottish poet. His poetry, in modern English, is known for its humour, simplicity of language and great popularity.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_the_University_of_Edinburgh"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromEdinburgh"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Norman_MacCaig?oldid=484159671"/>
+    <foaf:givenName xml:lang="en">Norman</foaf:givenName>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/1/1b/NormanMacCaigPoetryBook.jpg"/>
+    <dbpedia-owl:abstract xml:lang="en">Norman MacCaig (14 November 1910 – 23 January 1996) was a Scottish poet. His poetry, in modern English, is known for its humour, simplicity of language and great popularity.</dbpedia-owl:abstract>
+    <dc:description xml:lang="en">Poet</dc:description>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">14</dbpprop:dateOfBirth>
+    <dbpedia-owl:abstract xml:lang="fr">Norman Alexander MacCaig est un poète écossais né à Édimbourg le 14 novembre 1910 et mort à Édimbourg le 23 janvier 1996.</dbpedia-owl:abstract>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_the_University_of_Stirling"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Maccaig">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Norman_MacCaig"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Mac_Caig">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Norman_MacCaig"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/scotland/arts/writingscotland/learning_journeys/place/norman_maccaig/"/>
   </rdf:Description>
 </rdf:RDF>

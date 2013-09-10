@@ -11,504 +11,143 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Drew_Westen">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Rutland">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathy_Castor">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Andrew_Ross">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jody_Powell">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Emory_Center_for_Alternative_Investments">
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Center_for_Injury_Control">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/WMRE_emory">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Shane_Gunderson">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Mitnick">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhonda_Martini">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carte_Goodwin">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cherry_Logan_Emerson_(chemist)">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Clements_(politician)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Djuan_Rivers">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_M._Strozier">
-    <dbpprop:alumnus rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_L._Gulley">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Molecular_Vision">
-    <dbpedia-owl:publisher rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:publisher rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/2011%E2%80%9312_Mercer_Bears_men's_basketball_team">
-    <dbpprop:opponent rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Newt_Gingrich">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathy_Ashe">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Hodges">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Skip_Garibaldi">
-    <dbpprop:workInstitutions rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Grady_Memorial_Hospital">
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:affiliation rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Green_Park_Society">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_W._Fortson,_Jr.">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/H._Truman_Chafin">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Emory_University">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_McCandless">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Melvin_Konner">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Simpson_(meteorologist)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_C._Roberts">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jabari_Simama">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Larry_Edmondson">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lana_(chimpanzee)">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.nytimes.com/10676342650853335622">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gloria_Blackwell">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/WMRE_(Emory)">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alex_W._Bealer">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulric_Neisser">
-    <dbpprop:workInstitutions rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanford_Bishop">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Giles">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Buss">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Emory">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lado_Gurgenidze">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joel_Godard">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Price_Foley">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Boris_Jerkunica">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Cleland">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Goizueta_Business_School">
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucius_Quintus_Cincinatus_Lamar_II">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralph_E._Reed,_Jr.">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_W._Houghtaling_II">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Haslam">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_R._Lamar">
-    <dbpprop:alumnus rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Allen_Hunt">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_H._Daughdrill,_Jr.">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wyche_Fowler">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Omega_Psi_Phi_chapters">
-    <dbpprop:school rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fletcher_Thompson">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Kappa_Alpha_Psi_chapters">
-    <dbpprop:school rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Emory_University">
-    <dbpprop:website rdf:resource="http://www.emory.edu/"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:National_Association_of_Independent_Colleges_and_Universities_members"/>
-    <dbpprop:usnwrLaw rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30</dbpprop:usnwrLaw>
-    <dbpprop:athletics rdf:resource="http://dbpedia.org/resource/National_Collegiate_Athletic_Association"/>
-    <dbpprop:colors xml:lang="en">Blue and Gold</dbpprop:colors>
-    <rdf:type rdf:resource="http://schema.org/EducationalOrganization"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0bqxw"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UniversitiesAndCollegesAccreditedByTheSouthernAssociationOfCollegesAndSchools"/>
-    <rdfs:label xml:lang="de">Emory University</rdfs:label>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Université_Emory"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Emory_University"/>
-    <dbpprop:calendar xml:lang="en">Semester</dbpprop:calendar>
-    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvVyKe5wpEbGdrcN5Y29ycA"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/EducationalOrganization"/>
-    <rdfs:comment xml:lang="ru">Университет Эмори — частный исследовательский университет США, расположенный в Атланте, штат Джорджия. Основан как Колледж Эмори в 1836 году в Оксфорде, Джорджия небольшой группой методистов и был назван в честь Джона Эмори, известного епископа методистской церкви. В 1915 году благодаря помощи президента компании Coca-Cola небольшой колледж переезжает в пригород Атланты и получает статус университета.</rdfs:comment>
-    <dbpprop:endowment xml:lang="en">US $5.4 billion</dbpprop:endowment>
-    <dbpprop:imageName xml:lang="en">Emory University Seal.png</dbpprop:imageName>
-    <rdfs:comment xml:lang="fr">L'université Emory (Emory University), ou plus simplement Emory, est une université privée située à Atlanta dans le comté de DeKalb en Géorgie aux États-Unis. L'université Emory est régulièrement classée parmi les 10 meilleures des États-Unis et est 3 au niveau nationale en affaires selon Business Week.</rdfs:comment>
-    <dbpprop:country xml:lang="en">US</dbpprop:country>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/a/ae/Emory_University_Seal.png"/>
-    <dbpprop:title xml:lang="en">Links to related articles</dbpprop:title>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Association_of_American_Universities"/>
-    <rdfs:comment xml:lang="de">Die Emory University ist eine amerikanische Privatuniversität in Druid Hills, einem Vorort von Atlanta in Georgia. Die Hochschule ist Mitglied der Association of American Universities, einem seit 1900 bestehenden Verbund führender forschungsintensiver nordamerikanischer Universitäten.</rdfs:comment>
-    <dbpprop:nickname xml:lang="en">Emory Eagles</dbpprop:nickname>
-    <dbpprop:state rdf:resource="http://dbpedia.org/resource/Georgia_(U.S._state)"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution"/>
-    <grs:point xml:lang="en">33.791111111111114 -84.32333333333334</grs:point>
-    <dbpedia-owl:numberOfUndergraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7441</dbpedia-owl:numberOfUndergraduateStudents>
-    <dbpedia-owl:abstract xml:lang="pl">Emory University - amerykańska uczelnia wyższa o statusie uniwersytetu prywatnego, z siedzibą w Druid Hills w stanie Georgia, na przedmieściach Atlanty. Uczelnia powstała w 1836 roku i od początku jest powiązana ze środowiskiem amerykańskich metodystów. Patronem uczelni jest metodystyczny biskup John Emory. Obecnie szkoła należy do Zjednoczonego Kościoła Metodystycznego, będącego głównym Kościołem z tego nurtu protestantyzmu w USA. Uniwersytet kształci ok. 12,8 tysiąca studentów, w tym niespełna 7 tysięcy na studiach licencjackich oraz niecałe 6 tysięcy na studiach magisterskich i doktoranckich. Uniwersytet należy do NCAA Division III, gdzie rywalizuje w University Athletic Association. Uczelniane drużyny sportowe noszą nazwę Emory Eagles (Orły) i występują w złoto-niebieskich barwach.</dbpedia-owl:abstract>
-    <dbpedia-owl:officialSchoolColour xml:lang="en">Blue and Gold</dbpedia-owl:officialSchoolColour>
-    <rdfs:label xml:lang="en">Emory University</rdfs:label>
-    <dbpedia-owl:endowment rdf:datatype="http://dbpedia.org/datatype/usDollar">5.4E9</dbpedia-owl:endowment>
-    <dbpprop:type rdf:resource="http://dbpedia.org/resource/Private_university"/>
-    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Druid_Hills,_Georgia"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Universities_and_colleges_in_DeKalb_County,_Georgia"/>
-    <rdfs:comment xml:lang="ko">에모리 대학교(Emory University)는 미국 조지아 주 애틀랜타에 있는 미국의 연구 중심 사립 대학이다. 특히 이전부터 한국과 인연이 깊은 남부 대학이다.</rdfs:comment>
-    <rdfs:comment xml:lang="en">Emory University is a private research university in metropolitan Atlanta, located in the Druid Hills section of unincorporated DeKalb County, Georgia, United States. The university was founded as Emory College in 1836 in Oxford, Georgia by a small group of Methodists and was named in honor of Methodist bishop John Emory.</rdfs:comment>
-    <dbpprop:postgrad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6452</dbpprop:postgrad>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EduCAtionalInstitutionsEstablishedIn1836"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Navboxes"/>
-    <dbpedia-owl:motto xml:lang="en">The wise heart seeks knowledge</dbpedia-owl:motto>
-    <dbpedia-owl:abstract xml:lang="nl">De Emory-universiteit is een universiteit in de Verenigde Staten, gelegen vlakbij Atlanta. De universiteit is verbonden met de Verenigde Methodistische Kerk. De universiteit is opgericht in 1836, en is vernoemd naar John Emory, een bekende bisschop van de methodistische kerk. De universiteit kent negen academische divisies, waaronder scholen voor kunst, wetenschap en technologie. De Emory-universiteit staat bekend als een van de beste universiteiten van de Zuid-Oostelijke Verenigde Staten. Momenteel staat de universiteit op de 18e plaats van de nationale universiteiten volgens U.S. News &amp; World Report, en 62e op de lijst van beste universiteiten ter wereld.</dbpedia-owl:abstract>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Association_of_American_Universities"/>
-    <dbpedia-owl:abstract xml:lang="no">Emory University er et privat, kristent «first tier»-universitet i storbyen Atlanta, i delstaten Georgia i USA. Det ble grunnlagt i 1836 av metodister i Druid Hills i Atlanta, og er oppkalt etter metodistbiskopen John Emory. Universitetet har over 12 000 studenter. Skolepengene (2006) ved Emory er US$ 34 336, som er høyere enn ved Harvard University, og det tildeles grader opp til doktorgrad (Ph. D). Universitetet består av ni skoler innen bl.a. klassiske humaniorafag, jus, folkehelse, medisin, sykepleie, teologi og business College of Arts and Sciences Oxford College Laney Graduate School Emory University School of Law Emory University School of Medicine Nell Hodgson Woodruff School of Nursing Rollins School of Public Health Candler School of Theology Goizueta Business School De juridiske og medisinske fakultetene samt business-skolen rangeres konsistent blant de 25 beste i USA. Emory's undergraduate-program ble rangert som nr. 20 i USA i 2011-utgaven av U.S. News &amp; World Reports rangering, som tidligere har rangert Emory på 9. plass. Newsweek pekte ut Emory University som et av 25 «New Ivies». Den norske antropologen Fredrik Barth har vært professor ved Emory.</dbpedia-owl:abstract>
-    <dbpedia-owl:type rdf:resource="http://dbpedia.org/resource/Private_university"/>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Emory_University?oldid=493773341"/>
-    <dbpedia-owl:abstract xml:lang="sv">Emory University är ett privat forskningsuniversitet i Atlanta i USA, grundat i 1836. Enligt U.S. News &amp; World Report tillhör universitetet de högst ansedda i USA ("first tier") och utpekades av Newsweek som ett av 25 "New Ivies" i 2006.</dbpedia-owl:abstract>
-    <dbpprop:established rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1836</dbpprop:established>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/에모리_대학교"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_US_university_ranking"/>
-    <dbpprop:wamoNu rdf:datatype="http://www.w3.org/2001/XMLSchema#int">32</dbpprop:wamoNu>
-    <dbpprop:athletics rdf:resource="http://dbpedia.org/resource/Division_III_(NCAA)"/>
-    <dbpprop:usnwrMedr rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</dbpprop:usnwrMedr>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-84.3233</geo:long>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:abstract xml:lang="ru">Университет Эмори — частный исследовательский университет США, расположенный в Атланте, штат Джорджия. Основан как Колледж Эмори в 1836 году в Оксфорде, Джорджия небольшой группой методистов и был назван в честь Джона Эмори, известного епископа методистской церкви. В 1915 году благодаря помощи президента компании Coca-Cola небольшой колледж переезжает в пригород Атланты и получает статус университета. Его миссия заключается в «создании, сохранении, обучении и применении знаний на службе человечеству». На сегодняшний день в составе университета находятся 9 академических школ и колледжей: Колледж искусств и наук, Оксфордский колледж, Высшая школа Лани, Юридическая школа, Медицинская школа, Школа медсестёр Нилла Ходжсона Вудраффа, Школа общественного здравоохранения Роллинса, Школа богословия Кандлера, Бизнес-школа Роберто Гойзуета. В 2008 году университет был удостоен премии президента за преданность к общественным работам, образовательные программы и гражданскую активность. В 2010 году занял 20-ю позицию в рейтинге «Национальные университеты» издания U.S. News &amp;amp; World Report, 61-ю в общемировом рейтинге Times Higher Education World University Rankings&amp;#160;(англ. )русск. , а также входит во вторую сотню лучших вузов в Академическом рейтинге университетов мира.</dbpedia-owl:abstract>
-    <dbpprop:titlestyle xml:lang="en">background:#FFFFFF;color:#0F4D92;border:1px solid #0F4D92;</dbpprop:titlestyle>
-    <dbpedia-owl:abstract xml:lang="ja"></dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/エモリー大学"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Emory_University_Seal.png/200px-Emory_University_Seal.png"/>
-    <dbpprop:arwuW rdf:datatype="http://www.w3.org/2001/XMLSchema#int">102</dbpprop:arwuW>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Organization"/>
-    <dbpprop:usnwrNu rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</dbpprop:usnwrNu>
-    <dbpedia-owl:numberOfStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13893</dbpedia-owl:numberOfStudents>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"/>
-    <dbpedia-owl:abstract xml:lang="ko">에모리 대학교(Emory University)는 미국 조지아 주 애틀랜타에 있는 미국의 연구 중심 사립 대학이다. 특히 이전부터 한국과 인연이 깊은 남부 대학이다.</dbpedia-owl:abstract>
-    <foaf:homepage rdf:resource="http://www.emory.edu/"/>
-    <dbpedia-owl:abstract xml:lang="zh">艾默理大學（Emory University）或譯艾文理大學，創校於1836年，為一位於美國喬治亞州亞特蘭大之私立菁英大學。近一个世纪以来素享有“南哈佛”的美誉。根据2008年的美国新闻与世界报道大学排名，该校综合排名乃第17名，其中商学院本科课程排名为全国前四名，公共衛生學院則為全國前五名。该校的历史最高综合排名是全国前九名，素有南方長春藤之稱，與杜克大學、萊斯大學等大學齊名。同样来源于美国新闻与世界报道，幾乎在所有領域皆列為全美前二十強，研究生的数量和本科生的数量基本持平。向來以入學標準極端嚴格而聞名。 其学院结构如下： 牛津學院 Goizueta商學院 Candler神學院 艾默理文理研究院 Rollins公共衛生學院 艾默理護理學院 艾默理醫學院 艾默理法學院</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UniversitiesAndCollegesInGeorgia(U.S.State)"/>
-    <dbpedia-owl:abstract xml:lang="it">L'Università Emory è una facoltosa università privata degli Stati Uniti situata nell'area metropolitana della città di Atlanta, Georgia. L'università è stata fondata nel 1836 e prende il nome dal vescovo della Georgia Methodist Conference John Emory. È suddivisa in varie divisioni accademiche che comprendono la scuola d'arte e scienze, teologia, legge e medicina. L'università, che ha come sponsor la Coca-Cola Company, annovera tra i suoi insegnanti l'ex presidente degli Stati Uniti Jimmy Carter. Christopher McCandless, il giovane morto in Alaska durante la sua "fuga dalla civiltà" nel 1992 e protagonista del celebre film "Into the Wild - Nelle terre selvagge", diretto da Sean Penn, studiò in questa università, laureandosi nel 1990 in Storia e Antropologia. Dal 1997 l'Università Emory e l'Università di Siena sono legate da un accordo di cooperazione.</dbpedia-owl:abstract>
-    <dbpprop:logo rdf:resource="http://dbpedia.org/resource/File:Emory_U_Logo.svg"/>
-    <rdfs:comment xml:lang="nl">De Emory-universiteit is een universiteit in de Verenigde Staten, gelegen vlakbij Atlanta. De universiteit is verbonden met de Verenigde Methodistische Kerk. De universiteit is opgericht in 1836, en is vernoemd naar John Emory, een bekende bisschop van de methodistische kerk. De universiteit kent negen academische divisies, waaronder scholen voor kunst, wetenschap en technologie. De Emory-universiteit staat bekend als een van de beste universiteiten van de Zuid-Oostelijke Verenigde Staten.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://sws.geonames.org/4193413/"/>
-    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-84.3233 33.7911)</geo:geometry>
-    <rdfs:comment xml:lang="it">L'Università Emory è una facoltosa università privata degli Stati Uniti situata nell'area metropolitana della città di Atlanta, Georgia. L'università è stata fondata nel 1836 e prende il nome dal vescovo della Georgia Methodist Conference John Emory. È suddivisa in varie divisioni accademiche che comprendono la scuola d'arte e scienze, teologia, legge e medicina.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Emory_University"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_university"/>
-    <dbpprop:arwuN rdf:datatype="http://www.w3.org/2001/XMLSchema#int">54</dbpprop:arwuN>
-    <dbpprop:motto xml:lang="en">Cor prudentis possidebit scientiam</dbpprop:motto>
-    <dbpedia-owl:abstract xml:lang="fr">L'université Emory (Emory University), ou plus simplement Emory, est une université privée située à Atlanta dans le comté de DeKalb en Géorgie aux États-Unis. L'université Emory est régulièrement classée parmi les 10 meilleures des États-Unis et est 3 au niveau nationale en affaires selon Business Week.</dbpedia-owl:abstract>
-    <rdfs:label xml:lang="zh">艾默理大學</rdfs:label>
-    <dbpedia-owl:state rdf:resource="http://dbpedia.org/resource/Georgia_(U.S._state)"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Oak_Ridge_Associated_Universities"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/University108286163"/>
     <dbpedia-owl:abstract xml:lang="de">Die Emory University ist eine amerikanische Privatuniversität in Druid Hills, einem Vorort von Atlanta in Georgia. Die Hochschule ist Mitglied der Association of American Universities, einem seit 1900 bestehenden Verbund führender forschungsintensiver nordamerikanischer Universitäten.</dbpedia-owl:abstract>
-    <dbpprop:forbes rdf:datatype="http://www.w3.org/2001/XMLSchema#int">45</dbpprop:forbes>
-    <dbpedia-owl:president rdf:resource="http://dbpedia.org/resource/James_W._Wagner"/>
-    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
-    <foaf:nick xml:lang="en">Emory Eagles</foaf:nick>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Università_Emory"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1836"/>
-    <dbpprop:students rdf:datatype="http://www.w3.org/2001/XMLSchema#int">13893</dbpprop:students>
-    <dbpprop:qsW rdf:datatype="http://www.w3.org/2001/XMLSchema#int">114</dbpprop:qsW>
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2"/>
-    <dbpprop:undergrad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7441</dbpprop:undergrad>
-    <dbpedia-owl:campus rdf:resource="http://dbpedia.org/resource/Suburb"/>
-    <foaf:name xml:lang="en">Emory University</foaf:name>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Университет_Эмори"/>
-    <dbpprop:mottoeng xml:lang="en">The wise heart seeks knowledge</dbpprop:mottoeng>
-    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">33.7911</geo:lat>
-    <dbpprop:state xml:lang="en">autocollapse</dbpprop:state>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <dbpprop:campus rdf:datatype="http://dbpedia.org/datatype/acre">631.0</dbpprop:campus>
-    <dbpprop:thesW rdf:datatype="http://www.w3.org/2001/XMLSchema#int">75</dbpprop:thesW>
-    <owl:sameAs rdf:resource="http://linkedgeodata.org/triplify/node358710453"/>
-    <dbpprop:affiliation rdf:resource="http://dbpedia.org/resource/United_Methodist_Church"/>
-    <dbpedia-owl:abstract xml:lang="en">Emory University is a private research university in metropolitan Atlanta, located in the Druid Hills section of unincorporated DeKalb County, Georgia, United States. The university was founded as Emory College in 1836 in Oxford, Georgia by a small group of Methodists and was named in honor of Methodist bishop John Emory. A land-grant by Asa Candler, the president of The Coca-Cola Company, allowed the small college to move to metropolitan Atlanta in 1915 and become rechartered as Emory University. The university's mission statement is "to create, preserve, teach, and apply knowledge in the service of humanity. " Emory is ranked 20th among national universities in the U.S. News &amp; World Report. Newsweek named it one of its 25 "New Ivies" in 2006. The university has nearly 3,000 faculty members; awards and honors recognizing Emory faculty include the Nobel Prize, the Pulitzer Prize, National Humanities Medal, Guggenheim Fellowship, Fulbright Fellowship, and membership in the American Academy of Arts &amp; Sciences and the National Academy of Sciences. The university has nine academic divisions: Emory College of Arts and Sciences, Oxford College, Goizueta Business School, Laney Graduate School, School of Law, School of Medicine, Nell Hodgson Woodruff School of Nursing, Rollins School of Public Health, and the Candler School of Theology. The university has more than two million square feet of building space certified by the Leadership in Energy and Environmental Design program and has a commitment to having three-quarters of the food they serve on campus come from local or sustainable sources by 2015. The University holds the distinction of having one of the largest inventories by square footage of LEED-certified building space among campuses in America.</dbpedia-owl:abstract>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/United_Methodist_Church"/>
-    <rdfs:comment xml:lang="zh">艾默理大學（Emory University）或譯艾文理大學，創校於1836年，為一位於美國喬治亞州亞特蘭大之私立菁英大學。近一个世纪以来素享有“南哈佛”的美誉。根据2008年的美国新闻与世界报道大学排名，该校综合排名乃第17名，其中商学院本科课程排名为全国前四名，公共衛生學院則為全國前五名。该校的历史最高综合排名是全国前九名，素有南方長春藤之稱，與杜克大學、萊斯大學等大學齊名。同样来源于美国新闻与世界报道，幾乎在所有領域皆列為全美前二十強，研究生的数量和本科生的数量基本持平。向來以入學標準極端嚴格而聞名。 其学院结构如下： 牛津學院 Goizueta商學院 Candler神學院 艾默理文理研究院 Rollins公共衛生學院 艾默理護理學院 艾默理醫學院 艾默理法學院</rdfs:comment>
-    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Druid_Hills,_Georgia"/>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Southern_Association_of_Colleges_and_Schools"/>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Association_of_American_Universities"/>
+    <dbpprop:usnwrMedr rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</dbpprop:usnwrMedr>
+    <dbpedia-owl:abstract xml:lang="ko">에모리 대학교(Emory University)는 미국 조지아 주 애틀랜타에 있는 미국의 연구 중심 사립 대학이다. 특히 이전부터 한국과 인연이 깊은 남부 대학이다.</dbpedia-owl:abstract>
     <dbpedia-owl:motto xml:lang="en">Cor prudentis possidebit scientiam</dbpedia-owl:motto>
-    <dbpprop:usnwrBus rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</dbpprop:usnwrBus>
-    <dbpprop:caption xml:lang="en">The seal of Emory University</dbpprop:caption>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Southern_Association_of_Colleges_and_Schools"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/University"/>
-    <rdfs:comment xml:lang="no">Emory University er et privat, kristent «first tier»-universitet i storbyen Atlanta, i delstaten Georgia i USA. Det ble grunnlagt i 1836 av metodister i Druid Hills i Atlanta, og er oppkalt etter metodistbiskopen John Emory. Universitetet har over 12 000 studenter. Skolepengene (2006) ved Emory er US$ 34 336, som er høyere enn ved Harvard University, og det tildeles grader opp til doktorgrad (Ph. D). Universitetet består av ni skoler innen bl.a.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.emory.edu/"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Emory_University"/>
-    <dbpedia-owl:athletics rdf:resource="http://dbpedia.org/resource/National_Collegiate_Athletic_Association"/>
-    <dbpprop:name xml:lang="en">Emory University</dbpprop:name>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.georgiaencyclopedia.org/"/>
-    <rdfs:comment xml:lang="pl">Emory University - amerykańska uczelnia wyższa o statusie uniwersytetu prywatnego, z siedzibą w Druid Hills w stanie Georgia, na przedmieściach Atlanty. Uczelnia powstała w 1836 roku i od początku jest powiązana ze środowiskiem amerykańskich metodystów. Patronem uczelni jest metodystyczny biskup John Emory. Obecnie szkoła należy do Zjednoczonego Kościoła Metodystycznego, będącego głównym Kościołem z tego nurtu protestantyzmu w USA. Uniwersytet kształci ok.</rdfs:comment>
-    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity"/>
-    <dbpprop:president rdf:resource="http://dbpedia.org/resource/James_W._Wagner"/>
-    <dbpprop:athletics rdf:resource="http://dbpedia.org/resource/University_Athletic_Association"/>
-    <rdfs:comment xml:lang="ja"></rdfs:comment>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Emory_University"/>
-    <dbpprop:campus xml:lang="en">Suburban</dbpprop:campus>
-    <dbpedia-owl:numberOfPostgraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6452</dbpedia-owl:numberOfPostgraduateStudents>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Emory_University?oldid=493773341"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution"/>
+    <dbpedia-owl:president rdf:resource="http://dbpedia.org/resource/James_W._Wagner"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/エモリー大学"/>
+    <dbpprop:state xml:lang="en">autocollapse</dbpprop:state>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"/>
+    <rdfs:comment xml:lang="fr">L'université Emory (Emory University), ou plus simplement Emory, est une université privée située à Atlanta dans le comté de DeKalb en Géorgie aux États-Unis. L'université Emory est régulièrement classée parmi les 10 meilleures des États-Unis et est 3 au niveau nationale en affaires selon Business Week.</rdfs:comment>
+    <dbpedia-owl:numberOfStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13893</dbpedia-owl:numberOfStudents>
     <rdfs:comment xml:lang="sv">Emory University är ett privat forskningsuniversitet i Atlanta i USA, grundat i 1836. Enligt U.S. News &amp; World Report tillhör universitetet de högst ansedda i USA ("first tier") och utpekades av Newsweek som ett av 25 "New Ivies" i 2006.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="en">Emory University is a private research university in metropolitan Atlanta, located in the Druid Hills section of unincorporated DeKalb County, Georgia, United States. The university was founded as Emory College in 1836 in Oxford, Georgia by a small group of Methodists and was named in honor of Methodist bishop John Emory. A land-grant by Asa Candler, the president of The Coca-Cola Company, allowed the small college to move to metropolitan Atlanta in 1915 and become rechartered as Emory University. The university's mission statement is "to create, preserve, teach, and apply knowledge in the service of humanity. " Emory is ranked 20th among national universities in the U.S. News &amp; World Report. Newsweek named it one of its 25 "New Ivies" in 2006. The university has nearly 3,000 faculty members; awards and honors recognizing Emory faculty include the Nobel Prize, the Pulitzer Prize, National Humanities Medal, Guggenheim Fellowship, Fulbright Fellowship, and membership in the American Academy of Arts &amp; Sciences and the National Academy of Sciences. The university has nine academic divisions: Emory College of Arts and Sciences, Oxford College, Goizueta Business School, Laney Graduate School, School of Law, School of Medicine, Nell Hodgson Woodruff School of Nursing, Rollins School of Public Health, and the Candler School of Theology. The university has more than two million square feet of building space certified by the Leadership in Energy and Environmental Design program and has a commitment to having three-quarters of the food they serve on campus come from local or sustainable sources by 2015. The University holds the distinction of having one of the largest inventories by square footage of LEED-certified building space among campuses in America.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="en">Emory University</rdfs:label>
+    <dbpprop:arwuW rdf:datatype="http://www.w3.org/2001/XMLSchema#int">102</dbpprop:arwuW>
+    <dbpprop:endowment xml:lang="en">US $5.4 billion</dbpprop:endowment>
+    <dbpprop:usnwrBus rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</dbpprop:usnwrBus>
+    <dbpprop:state rdf:resource="http://dbpedia.org/resource/Georgia_(U.S._state)"/>
+    <dbpprop:undergrad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7441</dbpprop:undergrad>
+    <dbpprop:country xml:lang="en">US</dbpprop:country>
+    <rdfs:label xml:lang="de">Emory University</rdfs:label>
+    <dbpprop:title xml:lang="en">Links to related articles</dbpprop:title>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Университет_Эмори"/>
+    <rdfs:comment xml:lang="no">Emory University er et privat, kristent «first tier»-universitet i storbyen Atlanta, i delstaten Georgia i USA. Det ble grunnlagt i 1836 av metodister i Druid Hills i Atlanta, og er oppkalt etter metodistbiskopen John Emory. Universitetet har over 12 000 studenter. Skolepengene (2006) ved Emory er US$ 34 336, som er høyere enn ved Harvard University, og det tildeles grader opp til doktorgrad (Ph. D). Universitetet består av ni skoler innen bl.a.</rdfs:comment>
+    <dbpprop:website rdf:resource="http://www.emory.edu/"/>
+    <rdfs:comment xml:lang="it">L'Università Emory è una facoltosa università privata degli Stati Uniti situata nell'area metropolitana della città di Atlanta, Georgia. L'università è stata fondata nel 1836 e prende il nome dal vescovo della Georgia Methodist Conference John Emory. È suddivisa in varie divisioni accademiche che comprendono la scuola d'arte e scienze, teologia, legge e medicina.</rdfs:comment>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Organization"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Southern_Association_of_Colleges_and_Schools"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EduCAtionalInstitutionsEstablishedIn1836"/>
+    <dbpedia-owl:numberOfUndergraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7441</dbpedia-owl:numberOfUndergraduateStudents>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Oak_Ridge_Associated_Universities"/>
+    <rdfs:comment xml:lang="de">Die Emory University ist eine amerikanische Privatuniversität in Druid Hills, einem Vorort von Atlanta in Georgia. Die Hochschule ist Mitglied der Association of American Universities, einem seit 1900 bestehenden Verbund führender forschungsintensiver nordamerikanischer Universitäten.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="nl">De Emory-universiteit is een universiteit in de Verenigde Staten, gelegen vlakbij Atlanta. De universiteit is verbonden met de Verenigde Methodistische Kerk. De universiteit is opgericht in 1836, en is vernoemd naar John Emory, een bekende bisschop van de methodistische kerk. De universiteit kent negen academische divisies, waaronder scholen voor kunst, wetenschap en technologie. De Emory-universiteit staat bekend als een van de beste universiteiten van de Zuid-Oostelijke Verenigde Staten. Momenteel staat de universiteit op de 18e plaats van de nationale universiteiten volgens U.S. News &amp; World Report, en 62e op de lijst van beste universiteiten ter wereld.</dbpedia-owl:abstract>
+    <dbpedia-owl:type rdf:resource="http://dbpedia.org/resource/Private_university"/>
+    <dbpprop:athletics rdf:resource="http://dbpedia.org/resource/Division_III_(NCAA)"/>
+    <rdfs:comment xml:lang="pl">Emory University - amerykańska uczelnia wyższa o statusie uniwersytetu prywatnego, z siedzibą w Druid Hills w stanie Georgia, na przedmieściach Atlanty. Uczelnia powstała w 1836 roku i od początku jest powiązana ze środowiskiem amerykańskich metodystów. Patronem uczelni jest metodystyczny biskup John Emory. Obecnie szkoła należy do Zjednoczonego Kościoła Metodystycznego, będącego głównym Kościołem z tego nurtu protestantyzmu w USA. Uniwersytet kształci ok.</rdfs:comment>
+    <dbpprop:campus rdf:datatype="http://dbpedia.org/datatype/acre">631.0</dbpprop:campus>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/EducationalOrganization"/>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvVyKe5wpEbGdrcN5Y29ycA"/>
+    <rdfs:comment xml:lang="en">Emory University is a private research university in metropolitan Atlanta, located in the Druid Hills section of unincorporated DeKalb County, Georgia, United States. The university was founded as Emory College in 1836 in Oxford, Georgia by a small group of Methodists and was named in honor of Methodist bishop John Emory.</rdfs:comment>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Emory_University"/>
+    <dbpprop:campus xml:lang="en">Suburban</dbpprop:campus>
+    <dbpprop:logo rdf:resource="http://dbpedia.org/resource/File:Emory_U_Logo.svg"/>
+    <rdfs:comment xml:lang="ko">에모리 대학교(Emory University)는 미국 조지아 주 애틀랜타에 있는 미국의 연구 중심 사립 대학이다. 특히 이전부터 한국과 인연이 깊은 남부 대학이다.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.georgiaencyclopedia.org/"/>
+    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity"/>
+    <dbpprop:nickname xml:lang="en">Emory Eagles</dbpprop:nickname>
+    <dbpedia-owl:officialSchoolColour xml:lang="en">Blue and Gold</dbpedia-owl:officialSchoolColour>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Emory_University_Seal.png/200px-Emory_University_Seal.png"/>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-84.3233 33.7911)</geo:geometry>
+    <dbpprop:athletics rdf:resource="http://dbpedia.org/resource/National_Collegiate_Athletic_Association"/>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/United_Methodist_Church"/>
+    <owl:sameAs rdf:resource="http://linkedgeodata.org/triplify/node358710453"/>
+    <dbpedia-owl:campus rdf:resource="http://dbpedia.org/resource/Suburb"/>
+    <dbpedia-owl:abstract xml:lang="it">L'Università Emory è una facoltosa università privata degli Stati Uniti situata nell'area metropolitana della città di Atlanta, Georgia. L'università è stata fondata nel 1836 e prende il nome dal vescovo della Georgia Methodist Conference John Emory. È suddivisa in varie divisioni accademiche che comprendono la scuola d'arte e scienze, teologia, legge e medicina. L'università, che ha come sponsor la Coca-Cola Company, annovera tra i suoi insegnanti l'ex presidente degli Stati Uniti Jimmy Carter. Christopher McCandless, il giovane morto in Alaska durante la sua "fuga dalla civiltà" nel 1992 e protagonista del celebre film "Into the Wild - Nelle terre selvagge", diretto da Sean Penn, studiò in questa università, laureandosi nel 1990 in Storia e Antropologia. Dal 1997 l'Università Emory e l'Università di Siena sono legate da un accordo di cooperazione.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/University108286163"/>
+    <grs:point xml:lang="en">33.791111111111114 -84.32333333333334</grs:point>
+    <rdfs:comment xml:lang="zh">艾默理大學（Emory University）或譯艾文理大學，創校於1836年，為一位於美國喬治亞州亞特蘭大之私立菁英大學。近一个世纪以来素享有“南哈佛”的美誉。根据2008年的美国新闻与世界报道大学排名，该校综合排名乃第17名，其中商学院本科课程排名为全国前四名，公共衛生學院則為全國前五名。该校的历史最高综合排名是全国前九名，素有南方長春藤之稱，與杜克大學、萊斯大學等大學齊名。同样来源于美国新闻与世界报道，幾乎在所有領域皆列為全美前二十強，研究生的数量和本科生的数量基本持平。向來以入學標準極端嚴格而聞名。 其学院结构如下： 牛津學院 Goizueta商學院 Candler神學院 艾默理文理研究院 Rollins公共衛生學院 艾默理護理學院 艾默理醫學院 艾默理法學院</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Association_of_American_Universities"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_US_university_ranking"/>
+    <foaf:homepage rdf:resource="http://www.emory.edu/"/>
+    <dbpprop:motto xml:lang="en">Cor prudentis possidebit scientiam</dbpprop:motto>
+    <dbpedia-owl:state rdf:resource="http://dbpedia.org/resource/Georgia_(U.S._state)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
+    <foaf:nick xml:lang="en">Emory Eagles</foaf:nick>
+    <rdfs:comment xml:lang="ja"></rdfs:comment>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Southern_Association_of_Colleges_and_Schools"/>
+    <dbpprop:postgrad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6452</dbpprop:postgrad>
+    <dbpedia-owl:athletics rdf:resource="http://dbpedia.org/resource/National_Collegiate_Athletic_Association"/>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Association_of_American_Universities"/>
+    <dbpedia-owl:abstract xml:lang="ru">Университет Эмори — частный исследовательский университет США, расположенный в Атланте, штат Джорджия. Основан как Колледж Эмори в 1836 году в Оксфорде, Джорджия небольшой группой методистов и был назван в честь Джона Эмори, известного епископа методистской церкви. В 1915 году благодаря помощи президента компании Coca-Cola небольшой колледж переезжает в пригород Атланты и получает статус университета. Его миссия заключается в «создании, сохранении, обучении и применении знаний на службе человечеству». На сегодняшний день в составе университета находятся 9 академических школ и колледжей: Колледж искусств и наук, Оксфордский колледж, Высшая школа Лани, Юридическая школа, Медицинская школа, Школа медсестёр Нилла Ходжсона Вудраффа, Школа общественного здравоохранения Роллинса, Школа богословия Кандлера, Бизнес-школа Роберто Гойзуета. В 2008 году университет был удостоен премии президента за преданность к общественным работам, образовательные программы и гражданскую активность. В 2010 году занял 20-ю позицию в рейтинге «Национальные университеты» издания U.S. News &amp;amp; World Report, 61-ю в общемировом рейтинге Times Higher Education World University Rankings&amp;#160;(англ. )русск. , а также входит во вторую сотню лучших вузов в Академическом рейтинге университетов мира.</dbpedia-owl:abstract>
+    <dbpprop:name xml:lang="en">Emory University</dbpprop:name>
+    <rdfs:comment xml:lang="ru">Университет Эмори — частный исследовательский университет США, расположенный в Атланте, штат Джорджия. Основан как Колледж Эмори в 1836 году в Оксфорде, Джорджия небольшой группой методистов и был назван в честь Джона Эмори, известного епископа методистской церкви. В 1915 году благодаря помощи президента компании Coca-Cola небольшой колледж переезжает в пригород Атланты и получает статус университета.</rdfs:comment>
+    <dbpprop:arwuN rdf:datatype="http://www.w3.org/2001/XMLSchema#int">54</dbpprop:arwuN>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Druid_Hills,_Georgia"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Emory_University"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1836"/>
+    <dbpprop:imageName xml:lang="en">Emory University Seal.png</dbpprop:imageName>
+    <dbpedia-owl:abstract xml:lang="pl">Emory University - amerykańska uczelnia wyższa o statusie uniwersytetu prywatnego, z siedzibą w Druid Hills w stanie Georgia, na przedmieściach Atlanty. Uczelnia powstała w 1836 roku i od początku jest powiązana ze środowiskiem amerykańskich metodystów. Patronem uczelni jest metodystyczny biskup John Emory. Obecnie szkoła należy do Zjednoczonego Kościoła Metodystycznego, będącego głównym Kościołem z tego nurtu protestantyzmu w USA. Uniwersytet kształci ok. 12,8 tysiąca studentów, w tym niespełna 7 tysięcy na studiach licencjackich oraz niecałe 6 tysięcy na studiach magisterskich i doktoranckich. Uniwersytet należy do NCAA Division III, gdzie rywalizuje w University Athletic Association. Uczelniane drużyny sportowe noszą nazwę Emory Eagles (Orły) i występują w złoto-niebieskich barwach.</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_university"/>
+    <owl:sameAs rdf:resource="http://sws.geonames.org/4193413/"/>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Association_of_American_Universities"/>
+    <dbpprop:calendar xml:lang="en">Semester</dbpprop:calendar>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.emory.edu/"/>
+    <dbpprop:usnwrNu rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</dbpprop:usnwrNu>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:National_Association_of_Independent_Colleges_and_Universities_members"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/University"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Università_Emory"/>
+    <rdfs:label xml:lang="zh">艾默理大學</rdfs:label>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-84.3233</geo:long>
+    <dbpedia-owl:abstract xml:lang="zh">艾默理大學（Emory University）或譯艾文理大學，創校於1836年，為一位於美國喬治亞州亞特蘭大之私立菁英大學。近一个世纪以来素享有“南哈佛”的美誉。根据2008年的美国新闻与世界报道大学排名，该校综合排名乃第17名，其中商学院本科课程排名为全国前四名，公共衛生學院則為全國前五名。该校的历史最高综合排名是全国前九名，素有南方長春藤之稱，與杜克大學、萊斯大學等大學齊名。同样来源于美国新闻与世界报道，幾乎在所有領域皆列為全美前二十強，研究生的数量和本科生的数量基本持平。向來以入學標準極端嚴格而聞名。 其学院结构如下： 牛津學院 Goizueta商學院 Candler神學院 艾默理文理研究院 Rollins公共衛生學院 艾默理護理學院 艾默理醫學院 艾默理法學院</dbpedia-owl:abstract>
+    <dbpprop:forbes rdf:datatype="http://www.w3.org/2001/XMLSchema#int">45</dbpprop:forbes>
+    <rdfs:comment xml:lang="nl">De Emory-universiteit is een universiteit in de Verenigde Staten, gelegen vlakbij Atlanta. De universiteit is verbonden met de Verenigde Methodistische Kerk. De universiteit is opgericht in 1836, en is vernoemd naar John Emory, een bekende bisschop van de methodistische kerk. De universiteit kent negen academische divisies, waaronder scholen voor kunst, wetenschap en technologie. De Emory-universiteit staat bekend als een van de beste universiteiten van de Zuid-Oostelijke Verenigde Staten.</rdfs:comment>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Universities_and_colleges_accredited_by_the_Southern_Association_of_Colleges_and_Schools"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Raman_Parimala">
-    <dbpprop:workInstitutions rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marshall_Hall_(mathematician)">
-    <dbpprop:workInstitution rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Scottie_Mayfield">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Elliott_H._Levitas">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Spessard_Holland">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Ono">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maggie_Anderson_(activist)">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marilyn_Kaye">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Schanzer">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Agnew_(criminologist)">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lassie_Goodbread-Black">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeff_Frederick">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sam_Nunn">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Cole_(designer)">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Emory_University">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Eric_Weeks">
-    <dbpprop:workInstitution rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alben_W._Barkley">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeff_Solem">
-    <dbpprop:youthclubs rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:team rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Paul_Conn">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Khurram_Dara">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/EU_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Sledd">
-    <dbpprop:employer rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:employer rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Gustafson">
-    <dbpedia-owl:employer rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Bloodworth,_Jr.">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Delta_Sigma_Theta_chapters">
-    <dbpprop:school rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Page_(television_presenter)">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_LeMieux">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Giffin">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Larry_Leon_Palmer">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Preetha_Ram">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Warren_Kampf">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Southern_Spaces">
-    <dbpedia-owl:publisher rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Alpha_Epsilon_Pi_chapters">
-    <dbpprop:school rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robb_LaKritz">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Emory_Williams">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_L._Hill">
-    <dbpprop:workInstitution rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Glen_Browder">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Alpha_Tau_Omega_chapters">
-    <dbpprop:school rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bobby_Jones_(golfer)">
-    <dbpprop:college rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpedia-owl:college rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_L._Baker,_Jr.">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Y._Thompson">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Olin_Wellborn">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Lambda_Chi_Alpha_chapters">
-    <dbpprop:school rdf:resource="http://dbpedia.org/resource/Emory_University"/>
+    <dbpprop:qsW rdf:datatype="http://www.w3.org/2001/XMLSchema#int">114</dbpprop:qsW>
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Druid_Hills,_Georgia"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Navboxes"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/에모리_대학교"/>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <foaf:name xml:lang="en">Emory University</foaf:name>
+    <dbpprop:affiliation rdf:resource="http://dbpedia.org/resource/United_Methodist_Church"/>
+    <dbpedia-owl:motto xml:lang="en">The wise heart seeks knowledge</dbpedia-owl:motto>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Emory_University"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0bqxw"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">33.7911</geo:lat>
+    <dbpedia-owl:abstract xml:lang="ja"></dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">L'université Emory (Emory University), ou plus simplement Emory, est une université privée située à Atlanta dans le comté de DeKalb en Géorgie aux États-Unis. L'université Emory est régulièrement classée parmi les 10 meilleures des États-Unis et est 3 au niveau nationale en affaires selon Business Week.</dbpedia-owl:abstract>
+    <dbpprop:wamoNu rdf:datatype="http://www.w3.org/2001/XMLSchema#int">32</dbpprop:wamoNu>
+    <dbpedia-owl:abstract xml:lang="sv">Emory University är ett privat forskningsuniversitet i Atlanta i USA, grundat i 1836. Enligt U.S. News &amp; World Report tillhör universitetet de högst ansedda i USA ("first tier") och utpekades av Newsweek som ett av 25 "New Ivies" i 2006.</dbpedia-owl:abstract>
+    <dbpprop:students rdf:datatype="http://www.w3.org/2001/XMLSchema#int">13893</dbpprop:students>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Université_Emory"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <dbpprop:president rdf:resource="http://dbpedia.org/resource/James_W._Wagner"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UniversitiesAndCollegesInGeorgia(U.S.State)"/>
+    <dbpprop:colors xml:lang="en">Blue and Gold</dbpprop:colors>
+    <dbpprop:usnwrLaw rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30</dbpprop:usnwrLaw>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Emory_University"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Universities_and_colleges_in_DeKalb_County,_Georgia"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/a/ae/Emory_University_Seal.png"/>
+    <dbpprop:athletics rdf:resource="http://dbpedia.org/resource/University_Athletic_Association"/>
+    <dbpprop:titlestyle xml:lang="en">background:#FFFFFF;color:#0F4D92;border:1px solid #0F4D92;</dbpprop:titlestyle>
+    <dbpprop:mottoeng xml:lang="en">The wise heart seeks knowledge</dbpprop:mottoeng>
+    <dbpedia-owl:abstract xml:lang="no">Emory University er et privat, kristent «first tier»-universitet i storbyen Atlanta, i delstaten Georgia i USA. Det ble grunnlagt i 1836 av metodister i Druid Hills i Atlanta, og er oppkalt etter metodistbiskopen John Emory. Universitetet har over 12 000 studenter. Skolepengene (2006) ved Emory er US$ 34 336, som er høyere enn ved Harvard University, og det tildeles grader opp til doktorgrad (Ph. D). Universitetet består av ni skoler innen bl.a. klassiske humaniorafag, jus, folkehelse, medisin, sykepleie, teologi og business College of Arts and Sciences Oxford College Laney Graduate School Emory University School of Law Emory University School of Medicine Nell Hodgson Woodruff School of Nursing Rollins School of Public Health Candler School of Theology Goizueta Business School De juridiske og medisinske fakultetene samt business-skolen rangeres konsistent blant de 25 beste i USA. Emory's undergraduate-program ble rangert som nr. 20 i USA i 2011-utgaven av U.S. News &amp; World Reports rangering, som tidligere har rangert Emory på 9. plass. Newsweek pekte ut Emory University som et av 25 «New Ivies». Den norske antropologen Fredrik Barth har vært professor ved Emory.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UniversitiesAndCollegesAccreditedByTheSouthernAssociationOfCollegesAndSchools"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Emory_University"/>
+    <dbpedia-owl:endowment rdf:datatype="http://dbpedia.org/datatype/usDollar">5.4E9</dbpedia-owl:endowment>
+    <dbpprop:caption xml:lang="en">The seal of Emory University</dbpprop:caption>
+    <dbpprop:thesW rdf:datatype="http://www.w3.org/2001/XMLSchema#int">75</dbpprop:thesW>
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization"/>
+    <dbpprop:established rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1836</dbpprop:established>
+    <dbpprop:type rdf:resource="http://dbpedia.org/resource/Private_university"/>
+    <dbpedia-owl:numberOfPostgraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6452</dbpedia-owl:numberOfPostgraduateStudents>
   </rdf:Description>
 </rdf:RDF>

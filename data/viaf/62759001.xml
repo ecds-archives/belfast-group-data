@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/62759001/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/62759001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000491123#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/62759001"/>
+    <skos:prefLabel>Kitzinger, Rachel, 1948-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/62759001/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/62759001"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C05680430X#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Kitzinger, Rachel, 1948-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/62759001"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Kitzinger, Margaret  Rachel</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/62759001/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/62759001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++87939687#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n87939687"/>
+    <skos:prefLabel>Kitzinger, Rachel, 1948-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/62759001"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Kitzinger, Margaret Rachel, 1948-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10002232#skos:Concept">
+    <skos:prefLabel>Kitzinger, Rachel, 1948-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/62759001"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/62759001">
+    <rdaGr2:dateOfBirth>1948</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12928774t#foaf:Person"/>
+    <foaf:name>Kitzinger, Margaret Rachel</foaf:name>
+    <foaf:name>Kitzinger, Margaret  Rachel</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/05680430X/id"/>
+    <foaf:name>Kitzinger, Rachel (Margaret Rachel), 1948-</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Kitzinger, Rachel, 1948-....</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/158538080"/>
+    <foaf:name>Kitzinger, Margaret Rachel, 1948-</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C158538080#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/62759001"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Kitzinger, Margaret Rachel</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035186632#skos:Concept">
+    <skos:prefLabel>Kitzinger, Rachel, 1948-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/62759001"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12928774#skos:Concept">
+    <skos:altLabel>Kitzinger, Margaret Rachel, 1948-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12928774t"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12928774t"/>
+    <skos:prefLabel>Kitzinger, Rachel, 1948-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/62759001"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2002067283#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/62759001"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Kitzinger, Rachel, 1948-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C073967661#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Kitzinger, Rachel (Margaret Rachel), 1948-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/62759001"/>
+  </rdf:Description>
+</rdf:RDF>

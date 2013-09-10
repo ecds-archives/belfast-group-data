@@ -6,53 +6,42 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="Na1e1f56bd8ba4160a88d144513961662">
-    <schema:name xml:lang="en">Emory University</schema:name>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harvard_University">
+    <schema:name xml:lang="en">Harvard</schema:name>
     <rdf:type rdf:resource="http://schema.org/Organization"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/91907300">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Philip Hobsbaum</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/8zf2t">
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
     <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series2/"/>
-    <schema:name xml:lang="en">Seamus Heaney collection, 1972-1997</schema:name>
-    <schema:url xml:lang="en">http://pid.emory.edu/ark:/25593/8zf2t</schema:url>
-    <owl:sameAs rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/"/>
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
-    <schema:about rdf:nodeID="Ndf619bed4231485bb851a41c8977e823"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series3/"/>
+    <schema:about rdf:nodeID="Nb4bbb4b5988d43e8a62b9771f1144368"/>
+    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
     <schema:author xml:lang="en">Manuscript, Archives, and Rare Book     Library, Emory University</schema:author>
     <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series4/"/>
-    <schema:publisher rdf:nodeID="Na1e1f56bd8ba4160a88d144513961662"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series5/"/>
     <schema:about xml:lang="en">http://viaf.org/viaf/109557338</schema:about>
-    <schema:datePublished xml:lang="en">2005-05-05</schema:datePublished>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series5/"/>
+    <schema:name xml:lang="en">Seamus Heaney collection, 1972-1997</schema:name>
+    <schema:publisher rdf:nodeID="N6df45115f976404a998d5a9ae6e126cf"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series3/"/>
     <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series1/"/>
+    <schema:url xml:lang="en">http://pid.emory.edu/ark:/25593/8zf2t</schema:url>
+    <owl:sameAs rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/"/>
     <schema:dateCreated xml:lang="en">2005-05-05</schema:dateCreated>
-    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harvard_University">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Harvard</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/66495112">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Patrick Kavanagh</schema:name>
+    <schema:datePublished xml:lang="en">2005-05-05</schema:datePublished>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/76315726">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">Brian Friel</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2964574/">
-    <schema:name xml:lang="en">Dublin</schema:name>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Wicklow">
     <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">County Wicklow</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/108497368">
+  <rdf:Description rdf:about="http://viaf.org/viaf/35723133">
+    <schema:name xml:lang="en">Wordsworth,
+          William, 1770-1850.</schema:name>
+    <schema:name xml:lang="en">Wordsworth</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Kavanagh, P.
-          J. (Patrick Joseph), 1931-</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Emory_University">
     <rdf:type rdf:resource="http://schema.org/Organization"/>
@@ -60,22 +49,26 @@
 		University</schema:name>
     <schema:name xml:lang="en">Emory University</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/6269131/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">England</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/35723133">
+  <rdf:Description rdf:about="http://viaf.org/viaf/91907300">
+    <schema:name xml:lang="en">Philip Hobsbaum</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Wordsworth,
-          William, 1770-1850.</schema:name>
-    <schema:name xml:lang="en">Wordsworth</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2655984/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">Belfast</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/66495112">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Patrick Kavanagh</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Wicklow">
-    <schema:name xml:lang="en">County Wicklow</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/94933541">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Sebastian Barker</schema:name>
+    <schema:name xml:lang="en">Barker,
+          Sebastian.</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6df45115f976404a998d5a9ae6e126cf">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Emory University</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2641364/">
+    <schema:name xml:lang="en">Northern Ireland</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/92914532">
@@ -83,62 +76,73 @@
           Woolmer</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Londonderry">
+  <rdf:Description rdf:about="http://sws.geonames.org/2655984/">
+    <schema:name xml:lang="en">Belfast</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">County Derry</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108497368">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Kavanagh, P.
+          J. (Patrick Joseph), 1931-</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/6252001/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
     <schema:name xml:lang="en">United
           States</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2641364/">
     <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">Northern Ireland</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/6269131/">
+    <schema:name xml:lang="en">England</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2963597/">
+    <schema:name xml:lang="en">Ireland.</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/108232871">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">Ted
         Hughes</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/157168776">
+    <schema:name xml:lang="en">Field Day company</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/12366017">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Michael McLaverty</schema:name>
     <schema:name xml:lang="en">McLaverty,
           Michael.</schema:name>
+    <schema:name xml:lang="en">Michael McLaverty</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/39260346">
     <schema:name xml:lang="en">Marie Devlin</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2963597/">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Londonderry">
     <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">Ireland.</schema:name>
+    <schema:name xml:lang="en">County Derry</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/3292681/">
-    <schema:name xml:lang="en">Glanmore</schema:name>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sandymount">
+    <schema:name xml:lang="en">Sandymount</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
-    <schema:spouse rdf:resource="http://viaf.org/viaf/39260346"/>
-    <schema:homeLocation rdf:resource="http://sws.geonames.org/2641364/"/>
     <schema:homeLocation rdf:resource="http://dbpedia.org/resource/Sandymount"/>
-    <schema:workLocation rdf:resource="http://dbpedia.org/resource/Harvard_University"/>
-    <schema:name xml:lang="en">Heaney, Seamus, 1939-</schema:name>
-    <schema:workLocation rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <schema:homeLocation rdf:resource="http://sws.geonames.org/3292681/"/>
-    <schema:workLocation rdf:resource="http://sws.geonames.org/6252001/"/>
-    <schema:workLocation rdf:resource="http://sws.geonames.org/2964574/"/>
-    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/County_Londonderry"/>
-    <schema:workLocation rdf:resource="http://sws.geonames.org/6269131/"/>
-    <schema:jobTitle xml:lang="en">Poet</schema:jobTitle>
-    <schema:birthDate xml:lang="en">1939-04-13</schema:birthDate>
+    <schema:founder rdf:resource="http://viaf.org/viaf/157168776"/>
+    <dbp:birthPlace rdf:resource="http://sws.geonames.org/2655984/"/>
     <schema:knows rdf:resource="http://viaf.org/viaf/91907300"/>
+    <schema:workLocation rdf:resource="http://sws.geonames.org/6252001/"/>
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/County_Londonderry"/>
+    <schema:workLocation rdf:resource="http://dbpedia.org/resource/Emory_University"/>
+    <schema:workLocation rdf:resource="http://dbpedia.org/resource/Harvard_University"/>
+    <schema:colleague rdf:resource="http://viaf.org/viaf/76315726"/>
+    <schema:homeLocation rdf:resource="http://sws.geonames.org/3292681/"/>
     <schema:homeLocation rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:founder rdf:resource="http://viaf.org/viaf/157168776"/>
-    <schema:colleague rdf:resource="http://viaf.org/viaf/76315726"/>
-    <dbp:birthPlace rdf:resource="http://sws.geonames.org/2655984/"/>
+    <schema:name xml:lang="en">Heaney, Seamus, 1939-</schema:name>
+    <schema:jobTitle xml:lang="en">Poet</schema:jobTitle>
+    <schema:birthDate xml:lang="en">1939-04-13</schema:birthDate>
+    <schema:workLocation rdf:resource="http://sws.geonames.org/2964574/"/>
+    <schema:homeLocation rdf:resource="http://sws.geonames.org/2641364/"/>
     <schema:description xml:lang="en">
       
         Seamus Heaney was born on April 13, 1939, the eldest of nine children, to Margaret and Patrick Heaney, at the family farm, Mossbawn, northwest of Belfast in County Derry. He attended the local school at Anahorish until 1957 when he enrolled at Queens College, Belfast, where he studied English. After graduation he taught English at St. Joseph's College in Belfast.
@@ -152,62 +156,58 @@
         In 1988 Seamus Heaney visited Emory University where he inaugurated the Richard Ellmann Lectures in Modern Literature. These lectures were collected and published as The Place of Writing in 1989. In 1991 Heaney published a new collection Seeing Things, followed by the Redress of Poetry in 1995. In the fall of that year, Heaney was awarded the Nobel Prize in Literature.
       
     </schema:description>
+    <schema:workLocation rdf:resource="http://sws.geonames.org/6269131/"/>
+    <schema:spouse rdf:resource="http://viaf.org/viaf/39260346"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Ndf619bed4231485bb851a41c8977e823">
+  <rdf:Description rdf:about="http://sws.geonames.org/2964574/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">Dublin</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb4bbb4b5988d43e8a62b9771f1144368">
+    <schema:creator rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Emory_University"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/12366017"/>
+    <schema:keywords xml:lang="en">Irish literature--20th century.</schema:keywords>
     <schema:keywords xml:lang="en">Poet.</schema:keywords>
     <schema:mentions rdf:resource="http://viaf.org/viaf/94933541"/>
+    <schema:keywords xml:lang="en">Barker, Sebastian.</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series3/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/35723133"/>
+    <schema:jobTitle xml:lang="en">Poet.</schema:jobTitle>
+    <rdf:type rdf:resource="http://purl.org/archival/vocab/arch#Collection"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/92914532"/>
+    <schema:keywords xml:lang="en">Ireland.</schema:keywords>
     <schema:name xml:lang="en"> Seamus Heaney collection,
 		  1972-2005
             
              </schema:name>
-    <schema:keywords xml:lang="en">Manuscripts.</schema:keywords>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/108232871"/>
-    <rdf:type rdf:resource="http://purl.org/archival/vocab/arch#Collection"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series3/"/>
-    <schema:keywords xml:lang="en">English poetry--Irish authors--20th century.</schema:keywords>
-    <schema:about rdf:resource="http://viaf.org/viaf/12366017"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/66495112"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series2/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/35723133"/>
-    <schema:keywords xml:lang="en">Wordsworth, William, 1770-1850.</schema:keywords>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series4/"/>
-    <schema:keywords xml:lang="en">Irish literature--20th century.</schema:keywords>
-    <schema:about rdf:resource="http://sws.geonames.org/2963597/"/>
     <schema:keywords xml:lang="en">Kavanagh, P. J. (Patrick Joseph), 1931-</schema:keywords>
-    <schema:keywords xml:lang="en">Barker, Sebastian.</schema:keywords>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/35723133"/>
-    <schema:keywords xml:lang="en">Video recordings.</schema:keywords>
-    <schema:mentions rdf:resource="http://dbpedia.org/resource/Emory_University"/>
-    <schema:jobTitle xml:lang="en">Poet.</schema:jobTitle>
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/108497368"/>
-    <schema:creator rdf:resource="http://viaf.org/viaf/109557338"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/94933541"/>
-    <schema:keywords xml:lang="en">Poets, Irish--20th century.</schema:keywords>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series1/"/>
-    <schema:keywords xml:lang="en">Ireland.</schema:keywords>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/92914532"/>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series5/"/>
+    <schema:about rdf:resource="http://sws.geonames.org/2963597/"/>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:keywords xml:lang="en">Manuscripts.</schema:keywords>
+    <schema:keywords xml:lang="en">Video recordings.</schema:keywords>
+    <schema:keywords xml:lang="en">English poetry--Irish authors--20th century.</schema:keywords>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/66495112"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series5/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/108232871"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/12366017"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+    <schema:keywords xml:lang="en">Wordsworth, William, 1770-1850.</schema:keywords>
+    <schema:about rdf:resource="http://viaf.org/viaf/94933541"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series1/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/35723133"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series2/"/>
     <schema:description xml:lang="en">Collection of materials relating to Irish poet Seamus Heaney
 		  including correspondence, writings by Heaney, printed materials, and
 		  photographs.
             </schema:description>
     <schema:keywords xml:lang="en">McLaverty, Michael.</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/heaney653/series4/"/>
+    <schema:keywords xml:lang="en">Poets, Irish--20th century.</schema:keywords>
+    <schema:about rdf:resource="http://viaf.org/viaf/108497368"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/157168776">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Field Day company</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sandymount">
+  <rdf:Description rdf:about="http://sws.geonames.org/3292681/">
+    <schema:name xml:lang="en">Glanmore</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">Sandymount</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/94933541">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Barker,
-          Sebastian.</schema:name>
-    <schema:name xml:lang="en">Sebastian Barker</schema:name>
   </rdf:Description>
 </rdf:RDF>

@@ -8,42 +8,42 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/69855526/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/69855526"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/69855526">
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <rdaGr2:dateOfBirth>1809</rdaGr2:dateOfBirth>
-    <foaf:name>Matuszyński, Jan, 1809-1842</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Matuszynski, Johannes -1842</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/124222242"/>
-    <foaf:name>Matuszynski, J. -1842</foaf:name>
-    <rdaGr2:dateOfDeath>1842</rdaGr2:dateOfDeath>
-    <foaf:name>Matuszynski, Jan -1842</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/69855526/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/69855526"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C124222242#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:prefLabel>Matuszynski, Jan -1842</skos:prefLabel>
     <skos:altLabel>Matuszynski, J. -1842</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/69855526"/>
     <skos:altLabel>Matuszynski, Johannes -1842</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C329720848#skos:Concept">
-    <skos:prefLabel>Matuszyński, Jan, 1809-1842</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/69855526"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Matuszynski, Jan -1842</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/69855526/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/69855526"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/69855526/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/69855526"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C329720848#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/69855526"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Matuszyński, Jan, 1809-1842</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/69855526">
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/124222242"/>
+    <foaf:name>Matuszynski, Jan -1842</foaf:name>
+    <foaf:name>Matuszyński, Jan, 1809-1842</foaf:name>
+    <rdaGr2:dateOfBirth>1809</rdaGr2:dateOfBirth>
+    <foaf:name>Matuszynski, J. -1842</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Matuszynski, Johannes -1842</foaf:name>
+    <rdaGr2:dateOfDeath>1842</rdaGr2:dateOfDeath>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/69855526/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/69855526"/>
   </rdf:Description>
 </rdf:RDF>

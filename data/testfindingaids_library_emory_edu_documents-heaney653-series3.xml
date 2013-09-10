@@ -4,114 +4,114 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/39260346">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Marie Heaney</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/heaney653/series3/">
-    <schema:name xml:lang="en">Seamus Heaney collection, 1972-1997; Series 3: Photographs</schema:name>
-    <schema:mentions rdf:nodeID="N234ca1c17daa427b8a874348a2f87bd0"/>
-    <schema:mentions rdf:nodeID="Nf79d96c6be364d378da3a5330a30480d"/>
-    <schema:mentions rdf:nodeID="N9f1df1e1c3e246059461398588b6f834"/>
-    <schema:mentions rdf:nodeID="N3ac362aaf60a4f588890d91a89254051"/>
-    <schema:mentions rdf:nodeID="Nfc801257091848259310261e7de2ecff"/>
-    <schema:mentions rdf:nodeID="N60651f83db054e76a9fa0a01d873046e"/>
-    <schema:mentions rdf:nodeID="Nd50ba87a634c40ecbc5387c26cc7f8b1"/>
-    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
-    <schema:mentions rdf:nodeID="Naa4a072e37de46689d58300a28514079"/>
-    <schema:mentions rdf:nodeID="Na5f280a122b24909b97823a36caad20a"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Na5f280a122b24909b97823a36caad20a">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/25893594"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N9f1df1e1c3e246059461398588b6f834">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/4994312"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/34553683"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2964180/"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harvard_University">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
     <schema:name xml:lang="en">Harvard</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N3ac362aaf60a4f588890d91a89254051">
+  <rdf:Description rdf:nodeID="Nf935ef4230594309ae4cfbe8f2dfd09f">
     <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/9847864"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Howth">
-    <schema:name xml:lang="en">Howth</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nd50ba87a634c40ecbc5387c26cc7f8b1">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/39260346"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2643743/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/4994312"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/4994312">
+  <rdf:Description rdf:about="http://viaf.org/viaf/25893594">
+    <schema:name xml:lang="en">Polly Devlin</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">John Minihan</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/34553683">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Bernard O'Donoghue</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2964180/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name xml:lang="en">Galway, Ireland</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/27375105">
-    <schema:name xml:lang="en">Ted Walker</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/54238476">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Ron Schuchard</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/61545326">
-    <schema:name xml:lang="en">Richard Ellmann</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Naa4a072e37de46689d58300a28514079">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/4994312"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/31993687"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/9847864">
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">Gerard Manley
                 Hopkins</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/25893594">
-    <schema:name xml:lang="en">Polly Devlin</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/34553683">
     <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Bernard O'Donoghue</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nf79d96c6be364d378da3a5330a30480d">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  <rdf:Description rdf:nodeID="Naad655dd8b044b8fb7319d4e1065c1ac">
     <schema:mentions rdf:resource="http://dbpedia.org/resource/Harvard_University"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nfc801257091848259310261e7de2ecff">
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/heaney653/series3/">
+    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
+    <schema:mentions rdf:nodeID="N73c84866bf664c0da2200ba417b6bf49"/>
+    <schema:mentions rdf:nodeID="Naad655dd8b044b8fb7319d4e1065c1ac"/>
+    <schema:mentions rdf:nodeID="N88acabba7fa042ffaa10b141afa74e91"/>
+    <schema:mentions rdf:nodeID="N67a92fff34e24bd194b21bb8a5d8cddf"/>
+    <schema:mentions rdf:nodeID="N9f2f1c1915334b0aacbaf682878c2a34"/>
+    <schema:mentions rdf:nodeID="Nab5b3d561a21477aa4e9ae71456aef92"/>
+    <schema:mentions rdf:nodeID="Nf935ef4230594309ae4cfbe8f2dfd09f"/>
+    <schema:mentions rdf:nodeID="N8f18fa9818c3404c8ca1ab6c3d7296a3"/>
+    <schema:name xml:lang="en">Seamus Heaney collection, 1972-1997; Series 3: Photographs</schema:name>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:mentions rdf:nodeID="N6f4a8a6841464618a8cb4bb6daa6ab95"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8f18fa9818c3404c8ca1ab6c3d7296a3">
     <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/54238476"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9f2f1c1915334b0aacbaf682878c2a34">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Howth"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/61545326"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/27375105">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Ted Walker</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6f4a8a6841464618a8cb4bb6daa6ab95">
+    <dc:title xml:lang="en">Death of a Naturalist</dc:title>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/27375105"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Howth">
+    <schema:name xml:lang="en">Howth</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2964180/">
+    <schema:name xml:lang="en">Galway, Ireland</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/31993687">
+    <schema:name xml:lang="en">Joseph Brodsky</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2643743/">
     <rdf:type rdf:resource="http://schema.org/Place"/>
     <schema:name xml:lang="en">London</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N234ca1c17daa427b8a874348a2f87bd0">
-    <dc:title xml:lang="en">Death of a Naturalist</dc:title>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/27375105"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/31993687">
+  <rdf:Description rdf:about="http://viaf.org/viaf/54238476">
+    <schema:name xml:lang="en">Ron Schuchard</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Joseph Brodsky</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N60651f83db054e76a9fa0a01d873046e">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/61545326"/>
+  <rdf:Description rdf:nodeID="Nab5b3d561a21477aa4e9ae71456aef92">
+    <schema:mentions rdf:resource="http://sws.geonames.org/2643743/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/4994312"/>
     <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://dbpedia.org/resource/Howth"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/39260346"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39260346">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Marie Heaney</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/4994312">
+    <schema:name xml:lang="en">John Minihan</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/61545326">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Richard Ellmann</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N88acabba7fa042ffaa10b141afa74e91">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/25893594"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N73c84866bf664c0da2200ba417b6bf49">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/31993687"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/4994312"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N67a92fff34e24bd194b21bb8a5d8cddf">
+    <schema:mentions rdf:resource="http://sws.geonames.org/2964180/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/34553683"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/4994312"/>
   </rdf:Description>
 </rdf:RDF>

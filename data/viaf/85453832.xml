@@ -8,58 +8,58 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C190928727#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/85453832/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/85453832"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <skos:prefLabel>Groarke, Vona, 1964-</skos:prefLabel>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/85453832/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/85453832"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CVona_Groarke#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/85453832"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Groarke, Vona</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/85453832/#foaf:Person">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/85453832"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/85453832/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/85453832"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C190928727#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Groarke, Vona, 1964-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85453832"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cno+95019553#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Groarke, Vona</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/no95019553"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85453832"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/85453832">
+    <foaf:name>Groarke, Vona, 1964-</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdaGr2:dateOfBirth>1964</rdaGr2:dateOfBirth>
+    <foaf:name>Groarke, Vona, 1965-</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/172845335"/>
+    <foaf:name>Groarke, Vona</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Vona_Groarke"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0024505#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/85453832"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Groarke, Vona, 1965-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/85453832"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/85453832/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/85453832"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C172845335#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/85453832"/>
     <skos:prefLabel>Groarke, Vona, 1964-</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cno+95019553#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:prefLabel>Groarke, Vona</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/85453832"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/no95019553"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/85453832/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/85453832"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/85453832">
-    <foaf:name>Groarke, Vona, 1965-</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Groarke, Vona</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/172845335"/>
-    <rdaGr2:dateOfBirth>1964</rdaGr2:dateOfBirth>
-    <foaf:name>Groarke, Vona, 1964-</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Vona_Groarke"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
   </rdf:Description>
 </rdf:RDF>

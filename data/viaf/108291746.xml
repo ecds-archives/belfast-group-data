@@ -8,110 +8,116 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80067119#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Davie, Donald</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036247130#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80067119"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028420020#skos:Concept">
-    <skos:prefLabel>Davie, Donald, 1922-1995</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Davie, Donald, 1922-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++96022891#skos:Concept">
+    <skos:prefLabel>Davie, Donald, 1922-1995</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
+    <skos:altLabel>Davie, D.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80067119#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Davie, Donald</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80067119"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca10673428#skos:Concept">
+    <skos:prefLabel>Davie, Donald, 1922-1995</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118671138#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Davie, Donald, 1922-1995</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/108291746/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/108291746"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1014908#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cola2003172330#skos:Concept">
+    <skos:altLabel>Davie, Donald Alfred, 1922-1995</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:prefLabel>Davie, Donald, 1922-1995</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
-    <skos:prefLabel>Davie, Donald, 1922-1995</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000037331#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Davie, Donald</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++96022891#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028420020#skos:Concept">
     <skos:prefLabel>Davie, Donald, 1922-1995</skos:prefLabel>
-    <skos:altLabel>Davie, D.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca10673428#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <skos:prefLabel>Davie, Donald, 1922-1995</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CDonald_Davie#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <skos:prefLabel>Davie, Donald</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cola2003172330#skos:Concept">
-    <skos:altLabel>Davie, Donald Alfred, 1922-1995</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
-    <skos:prefLabel>Davie, Donald, 1922-1995</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/108291746/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/108291746"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/108291746">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Donald_Davie"/>
-    <foaf:name>Davie, Donald, 1922-</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118671138"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/028420020/id"/>
-    <foaf:name>Davie, Donald Alfred (Donald), 1922-1995</foaf:name>
-    <foaf:name>Davie, Donald, 1922-1995</foaf:name>
-    <rdaGr2:dateOfBirth>1922-07-17</rdaGr2:dateOfBirth>
-    <foaf:name>Davie, Donald</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Davie, D.</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12025879j#foaf:Person"/>
-    <rdaGr2:dateOfDeath>1995-09-18</rdaGr2:dateOfDeath>
-    <foaf:name>Davie, Donald Alfred, 1922-1995</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118671138#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
-    <skos:prefLabel>Davie, Donald, 1922-1995</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036247130#skos:Concept">
-    <skos:prefLabel>Davie, Donald, 1922-</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C070102465#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <skos:prefLabel>Davie, Donald Alfred (Donald), 1922-1995</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12025879#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12025879j"/>
-    <skos:prefLabel>Davie, Donald, 1922-1995</skos:prefLabel>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12025879j"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/108291746/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108291746">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Donald_Davie"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/028420020/id"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12025879j#foaf:Person"/>
+    <foaf:name>Davie, Donald, 1922-</foaf:name>
+    <foaf:name>Davie, Donald, 1922-1995</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Davie, Donald</foaf:name>
+    <rdaGr2:dateOfBirth>1922-07-17</rdaGr2:dateOfBirth>
+    <rdaGr2:dateOfDeath>1995-09-18</rdaGr2:dateOfDeath>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Davie, Donald Alfred (Donald), 1922-1995</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118671138"/>
+    <foaf:name>Davie, Donald Alfred, 1922-1995</foaf:name>
+    <foaf:name>Davie, D.</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C070102465#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
+    <skos:prefLabel>Davie, Donald Alfred (Donald), 1922-1995</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12025879#skos:Concept">
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12025879j"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12025879j"/>
+    <skos:prefLabel>Davie, Donald, 1922-1995</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000071510#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Davie, Donald, 1922-1995</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1014908#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Davie, Donald, 1922-1995</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CDonald_Davie#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Davie, Donald</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108291746"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108291746/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/108291746"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
 </rdf:RDF>

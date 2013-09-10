@@ -9,31 +9,19 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Northern_Ireland_Tourist_Board">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Northern_Ireland_Tourist_Board"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Northern_Ireland_Tourist_Board">
-    <rdfs:label xml:lang="en">Northern Ireland Tourist Board</rdfs:label>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Northern_Ireland_Tourist_Board?oldid=445335236"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gp8j5"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Tourism_agencies"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.discovernorthernireland.com/info_about.aspx"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Non-Departmental_Public_Bodies_of_the_Northern_Ireland_Executive"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Northern_Ireland_Tourist_Board"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TourismAgencies"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Tourism_in_Northern_Ireland"/>
-    <dbpedia-owl:abstract xml:lang="en">The Northern Ireland Tourist Board is a non-departmental public body of the Department of Enterprise Trade and Investment. Its primary objective is to promote Northern Ireland as a tourist destination. It provides a service to the public for information on tourist destinations within Northern Ireland, public transport, accommodation and the various tourist attractions throughout Northern Ireland. The board operates in close cooperation with equivalent agencies in the rest of the United Kingdom and Fáilte Ireland in the Republic of Ireland.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="en">The Northern Ireland Tourist Board is a non-departmental public body of the Department of Enterprise Trade and Investment. Its primary objective is to promote Northern Ireland as a tourist destination. It provides a service to the public for information on tourist destinations within Northern Ireland, public transport, accommodation and the various tourist attractions throughout Northern Ireland.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TourismAgencies"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Tourism_agencies"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nitb.com/"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gp8j5"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Northern_Ireland_Tourist_Board"/>
+    <dbpedia-owl:abstract xml:lang="en">The Northern Ireland Tourist Board is a non-departmental public body of the Department of Enterprise Trade and Investment. Its primary objective is to promote Northern Ireland as a tourist destination. It provides a service to the public for information on tourist destinations within Northern Ireland, public transport, accommodation and the various tourist attractions throughout Northern Ireland. The board operates in close cooperation with equivalent agencies in the rest of the United Kingdom and Fáilte Ireland in the Republic of Ireland.</dbpedia-owl:abstract>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Northern_Ireland_Tourist_Board?oldid=445335236"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Non-Departmental_Public_Bodies_of_the_Northern_Ireland_Executive"/>
+    <rdfs:comment xml:lang="en">The Northern Ireland Tourist Board is a non-departmental public body of the Department of Enterprise Trade and Investment. Its primary objective is to promote Northern Ireland as a tourist destination. It provides a service to the public for information on tourist destinations within Northern Ireland, public transport, accommodation and the various tourist attractions throughout Northern Ireland.</rdfs:comment>
+    <rdfs:label xml:lang="en">Northern Ireland Tourist Board</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.discovernorthernireland.com/info_about.aspx"/>
     <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Northern_Ireland_Tourist_Board"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Northern_Ireland_Tourist_Board">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Northern_Ireland_Tourist_Board"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/NITB">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Northern_Ireland_Tourist_Board"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Discover_Ireland">
-    <dbpprop:data rdf:resource="http://dbpedia.org/resource/Northern_Ireland_Tourist_Board"/>
   </rdf:Description>
 </rdf:RDF>

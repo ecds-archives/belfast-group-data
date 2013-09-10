@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Conor_O'Callaghan">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1968_births"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <foaf:surname xml:lang="en">Ocallaghan</foaf:surname>
+    <dbpprop:name xml:lang="en">Ocallaghan, Conor</dbpprop:name>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Conor_O'Callaghan?oldid=480364735"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02qyj4s"/>
+    <rdfs:comment xml:lang="en">Conor O'Callaghan is an Irish poet, born in Newry in 1968. He has published three collections of poetry: The History of Rain, Seatown (1999), and Fiction (2005). He is published in North America by Wake Forest University Press. He is also the author of Red Mist: Roy Keane and the Football Civil War (2004), an account of Roy Keane's departure from the 2002 FIFA World Cup squad in and its aftermath, and has written and broadcast on cricket.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:abstract xml:lang="en">Conor O'Callaghan is an Irish poet, born in Newry in 1968. He has published three collections of poetry: The History of Rain, Seatown (1999), and Fiction (2005). He is published in North America by Wake Forest University Press. He is also the author of Red Mist: Roy Keane and the Football Civil War (2004), an account of Roy Keane's departure from the 2002 FIFA World Cup squad in and its aftermath, and has written and broadcast on cricket. O'Callaghan is a former director of the Dún Laoghaire-Rathdown Poetry Now Festival and was shortlisted for the 2005 Poetry Now Award. He is also a former co-holder of the Heimbold Chair of Irish Studies at Villanova University. He currently lectures part-time both at Sheffield Hallam University in the UK and at Wake Forest University in North Carolina. He was awarded the 2007 Bess Hokin prize by Poetry magazine. He lives in Manchester.</dbpedia-owl:abstract>
+    <foaf:givenName xml:lang="en">Conor</foaf:givenName>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Conor_O'Callaghan"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Conor_O'Callaghan"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1968</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://wfupress.wfu.edu/authors/conor_ocallaghan.php"/>
+    <foaf:name xml:lang="en">Conor Ocallaghan</foaf:name>
+    <rdfs:label xml:lang="en">Conor O'Callaghan</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+  </rdf:Description>
+</rdf:RDF>

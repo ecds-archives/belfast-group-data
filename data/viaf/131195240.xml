@@ -7,43 +7,32 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/131195240/#foaf:Organization">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/131195240"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C983725101#skos:Concept">
-    <skos:altLabel>University of Saint Thomas Saint Paul Ehemalige Vorzugsbenennung SWD</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/131195240"/>
-    <skos:altLabel>University of Saint Thomas Saint Paul, Minn.</skos:altLabel>
-    <skos:prefLabel>University of Saint Thomas</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:altLabel>University of St. Thomas</skos:altLabel>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/131195240/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/131195240"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++91095575#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/131195240"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n91095575"/>
-    <skos:altLabel>University of Saint Thomas Saint Paul, Minn.</skos:altLabel>
-    <skos:prefLabel>University of St. Thomas (Saint Paul, Minn.)</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/131195240"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/131195240">
     <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/146648409"/>
+    <foaf:name>University of Saint Thomas</foaf:name>
+    <foaf:name>University of St. Thomas</foaf:name>
     <foaf:name>University of Saint Thomas Saint Paul, Minn.</foaf:name>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
-    <foaf:name>University of Saint Thomas Saint Paul Ehemalige Vorzugsbenennung SWD</foaf:name>
     <owl:sameAs rdf:resource="http://d-nb.info/gnd/10165771-7"/>
-    <foaf:name>University of Saint Thomas</foaf:name>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/146648409"/>
-    <foaf:name>University of St. Thomas (Saint Paul, Minn.)</foaf:name>
-    <foaf:name>University of St. Thomas</foaf:name>
+    <foaf:name>University of Saint Thomas Saint Paul Ehemalige Vorzugsbenennung SWD</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C983725101#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>University of Saint Thomas Saint Paul Ehemalige Vorzugsbenennung SWD</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/131195240"/>
+    <skos:altLabel>University of Saint Thomas Saint Paul, Minn.</skos:altLabel>
+    <skos:prefLabel>University of Saint Thomas</skos:prefLabel>
+    <skos:altLabel>University of St. Thomas</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/131195240/#foaf:Organization">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/131195240"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/131195240/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>

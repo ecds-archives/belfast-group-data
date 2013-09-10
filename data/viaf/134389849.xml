@@ -6,34 +6,34 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C008159165#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/134389849"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Yeats International Summer School 21 1980 Sligo</skos:prefLabel>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/134389849/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/134389849"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036204297#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Yeats International Summer School 21st 1980 Sligo, Ireland</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/134389849"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C118021826#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:prefLabel>Yeats International Summer School (21st : 1980 : Sligo)</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/134389849"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/134389849">
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/815916-6"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/118021826/id"/>
-    <foaf:name>Yeats International Summer School 21 1980 Sligo</foaf:name>
     <foaf:name>Yeats International Summer School 21st 1980 Sligo, Ireland</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/118021826/id"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/815916-6"/>
     <foaf:name>Yeats International Summer School (21st : 1980 : Sligo)</foaf:name>
+    <foaf:name>Yeats International Summer School 21 1980 Sligo</foaf:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C008159165#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C118021826#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:prefLabel>Yeats International Summer School 21 1980 Sligo</skos:prefLabel>
+    <skos:prefLabel>Yeats International Summer School (21st : 1980 : Sligo)</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/134389849"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
   </rdf:Description>
 </rdf:RDF>

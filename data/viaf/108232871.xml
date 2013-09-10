@@ -8,169 +8,179 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C11855459X#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068768591#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Hughes, Ted (Edward James), 1930-1998</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026927497#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
+    <skos:altLabel>Hughes, Edward James.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C58431#skos:Concept">
+    <skos:altLabel>Hughes, Ted</skos:altLabel>
+    <skos:prefLabel>Hughes, Ted, 1930-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <skos:altLabel>Hughes, Edward James.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C11855459X#skos:Concept">
     <skos:altLabel>Chʹjuz, Ted 1930-1998</skos:altLabel>
     <skos:altLabel>Hughes, Edward James, 1930-1998</skos:altLabel>
-    <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C219700#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/219700#concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/108232871/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/108232871"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11907956#skos:Concept">
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11907956n"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
-    <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
-    <skos:altLabel>Hughes, Edward James, 1930-1998</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11907956n"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035212225#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <skos:altLabel>Hughes, Edward James, 1930-</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0053H2447#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Hughes, Edward James, 1930-</skos:altLabel>
-    <skos:prefLabel>Hughes, Ted, 1930-</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++95007971#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
-    <skos:altLabel>Hughes, Edward James.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
     <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX874418#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
     <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001064494#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
-    <skos:altLabel>تيد هيوز، 1930-1998</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>هيوز، تيد، 1930-1998</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca1167233x#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
-    <skos:altLabel>Hughes, Edward James.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
+    <skos:altLabel>Hughes, Edward James.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035212225#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
+    <skos:altLabel>Hughes, Edward James, 1930-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108232871/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/108232871"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000023211#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+    <skos:prefLabel>Hughes, Ted, 1930-</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00443978#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>ヒューズ, テッド</skos:altLabel>
+    <skos:altLabel>ヒューズ, テド</skos:altLabel>
+    <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CTed_Hughes#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
     <skos:prefLabel>Hughes, Ted</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C58431#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
-    <skos:altLabel>Hughes, Edward James.</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0053H2447#skos:Concept">
     <skos:prefLabel>Hughes, Ted, 1930-</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Hughes, Ted</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/108232871">
-    <foaf:name>Hughes, Edward James, 1930-</foaf:name>
-    <foaf:name>Hughes, Ted (Edward James), 1930-1998</foaf:name>
-    <foaf:name>Chʹjuz, Ted 1930-1998</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/026927497/id"/>
-    <foaf:name>Hughes, Ted</foaf:name>
-    <foaf:name>היוז, טד</foaf:name>
-    <foaf:name>Hughes, Edward James, 1930-1998</foaf:name>
-    <foaf:name>Hughes, Ted, 1930-</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>יאז, טד, 1930-1998</foaf:name>
-    <rdaGr2:dateOfBirth>1930-08-17</rdaGr2:dateOfBirth>
-    <foaf:name>هيوز، تيد، 1930-1998</foaf:name>
-    <foaf:name>Hughes, Ted (Ted James), 1930-1998</foaf:name>
-    <foaf:name>Hughes, Edward James.</foaf:name>
-    <foaf:name>ヒューズ, テド</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/219700"/>
-    <foaf:name>تيد هيوز، 1930-1998</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11855459X"/>
-    <foaf:name>ヒューズ, テッド</foaf:name>
-    <rdaGr2:dateOfDeath>1998-10-28</rdaGr2:dateOfDeath>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
-    <foaf:name>יוז, טד, 1930-1998</foaf:name>
-    <foaf:name>Hughes, Ted, 1930-1998</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11907956n#foaf:Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/108232871/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026927497#skos:Concept">
-    <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
-    <skos:altLabel>Hughes, Edward James.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000065561#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>היוז, טד</skos:altLabel>
     <skos:altLabel>Hughes, Edward James, 1930-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <skos:altLabel>יאז, טד, 1930-1998</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11907956#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Hʹûz Ted 1930-1998</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11907956n"/>
+    <skos:altLabel>Hughes, Edward James, 1930-1998</skos:altLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11907956n"/>
+    <skos:altLabel>Хьюз Тед 1930-1998</skos:altLabel>
     <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990003737#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+    <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
     <skos:altLabel>Hughes, Edward James, 1930-1998</skos:altLabel>
-    <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00443978#skos:Concept">
-    <skos:altLabel>ヒューズ, テッド</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>ヒューズ, テド</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108232871/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/108232871"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000065561#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
+    <skos:altLabel>Hughes, Edward James, 1930-</skos:altLabel>
+    <skos:altLabel>יאז, טד, 1930-1998</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>היוז, טד</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108232871">
+    <foaf:name>Hughes, Ted (Ted James), 1930-1998</foaf:name>
+    <foaf:name>ヒューズ, テッド</foaf:name>
+    <foaf:name>تيد هيوز، 1930-1998</foaf:name>
+    <foaf:name>Хьюз Тед 1930-1998</foaf:name>
+    <foaf:name>Hughes, Edward James, 1930-</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ted_Hughes"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Hughes, Ted, 1930-1998</foaf:name>
+    <rdaGr2:dateOfBirth>1930-08-17</rdaGr2:dateOfBirth>
+    <foaf:name>Hughes, Ted (Edward James), 1930-1998</foaf:name>
+    <rdaGr2:dateOfDeath>1998-10-28</rdaGr2:dateOfDeath>
+    <foaf:name>Chʹjuz, Ted 1930-1998</foaf:name>
+    <foaf:name>Hughes, Edward James.</foaf:name>
+    <foaf:name>Hʹûz Ted 1930-1998</foaf:name>
+    <foaf:name>Hughes, Ted, 1930-</foaf:name>
+    <foaf:name>היוז, טד</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11907956n#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/026927497/id"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>ヒューズ, テド</foaf:name>
+    <foaf:name>هيوز، تيد، 1930-1998</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11855459X"/>
+    <foaf:name>Hughes, Edward James, 1930-1998</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/219700"/>
+    <foaf:name>Hughes, Ted</foaf:name>
+    <foaf:name>יאז, טד, 1930-1998</foaf:name>
+    <foaf:name>יוז, טד, 1930-1998</foaf:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79133824#skos:Concept">
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79133824"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:altLabel>Hughes, Edward James, 1930-1998</skos:altLabel>
-    <skos:altLabel>Hughes, Ted (Ted James), 1930-1998</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+    <skos:altLabel>Hughes, Ted (Ted James), 1930-1998</skos:altLabel>
+    <skos:altLabel>Hughes, Edward James, 1930-1998</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79133824"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C219700#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/219700#concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++95007971#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Hughes, Edward James.</skos:altLabel>
     <skos:prefLabel>Hughes, Ted, 1930-1998</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/108232871/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/108232871"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068768591#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <skos:prefLabel>Hughes, Ted (Edward James), 1930-1998</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001064494#skos:Concept">
+    <skos:prefLabel>هيوز، تيد، 1930-1998</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+    <skos:altLabel>تيد هيوز، 1930-1998</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108232871/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108232871"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
 </rdf:RDF>

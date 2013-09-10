@@ -9,42 +9,33 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Clifton_(poet)">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Harry_Clifton"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Clifton">
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Harry_Clifton?oldid=479499401"/>
-    <foaf:givenName xml:lang="en">Harry</foaf:givenName>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1952</dbpprop:dateOfBirth>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
-    <foaf:name xml:lang="en">Harry Clifton</foaf:name>
-    <dbpedia-owl:abstract xml:lang="en">Harry Clifton (born 1952) is an Irish poet. He was born in Dublin, but has lived in Africa and Asia, as well as more recently in continental Europe. He has published five collections of poems in Ireland and the United Kingdom, including The Liberal Cage (1988) and The Desert Route: Selected Poems 1973–1988 (1992). Wake Forest University Press, Clifton's publisher in North America, published his newest volume, Secular Eden: Paris Notebooks 1994-2004, in 2007, which won the 2008 Irish Times Poetry Now Award. His poems have been translated into several European languages, and Le Canto d'Ulysse, his selected poems in French, was published in 1996. Among many awards, he has received the Patrick Kavanagh Poetry Award, two Arts Council Bursaries in Literature, and the Irish Times Poetry Now Award, the top poetry prize in Ireland. Clifton was an International Fellow at the University of Iowa, has represented Ireland at the Iowa International Writers' Program, and has been Poet-in-Residence at The Frost Place in New Hampshire. He returned to Ireland in 2004, and now teaches at University College Dublin. He is a member of Aosdána. On June 30, 2010, Clifton was named as Ireland Professor of Poetry for a three-year tenure.</dbpedia-owl:abstract>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Harry_Clifton"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1952_births"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Harry_Clifton"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04145rx"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Iowa"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.qualm.co.uk/maincq.html#hclifton5"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
-    <foaf:surname xml:lang="en">Clifton</foaf:surname>
     <rdfs:comment xml:lang="en">Harry Clifton (born 1952) is an Irish poet. He was born in Dublin, but has lived in Africa and Asia, as well as more recently in continental Europe. He has published five collections of poems in Ireland and the United Kingdom, including The Liberal Cage (1988) and The Desert Route: Selected Poems 1973–1988 (1992).</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.qualm.co.uk/mainpr.html#hclifton"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_writers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.irishwriters-online.com/harryclifton.html"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wfu.edu/wfupress/"/>
-    <dbpprop:name xml:lang="en">Clifton, Harry</dbpprop:name>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Harry_Clifton?oldid=479499401"/>
+    <foaf:surname xml:lang="en">Clifton</foaf:surname>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.qualm.co.uk/maincq.html#hclifton5"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Dublin"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Harry_Clifton">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Harry_Clifton"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Harry_Clifton">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Harry_Clifton"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Harry_Clifton"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_writers"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.qualm.co.uk/mainpr.html#hclifton"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <foaf:givenName xml:lang="en">Harry</foaf:givenName>
+    <dbpedia-owl:abstract xml:lang="en">Harry Clifton (born 1952) is an Irish poet. He was born in Dublin, but has lived in Africa and Asia, as well as more recently in continental Europe. He has published five collections of poems in Ireland and the United Kingdom, including The Liberal Cage (1988) and The Desert Route: Selected Poems 1973–1988 (1992). Wake Forest University Press, Clifton's publisher in North America, published his newest volume, Secular Eden: Paris Notebooks 1994-2004, in 2007, which won the 2008 Irish Times Poetry Now Award. His poems have been translated into several European languages, and Le Canto d'Ulysse, his selected poems in French, was published in 1996. Among many awards, he has received the Patrick Kavanagh Poetry Award, two Arts Council Bursaries in Literature, and the Irish Times Poetry Now Award, the top poetry prize in Ireland. Clifton was an International Fellow at the University of Iowa, has represented Ireland at the Iowa International Writers' Program, and has been Poet-in-Residence at The Frost Place in New Hampshire. He returned to Ireland in 2004, and now teaches at University College Dublin. He is a member of Aosdána. On June 30, 2010, Clifton was named as Ireland Professor of Poetry for a three-year tenure.</dbpedia-owl:abstract>
+    <foaf:name xml:lang="en">Harry Clifton</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1952_births"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04145rx"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1952</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Iowa"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wfu.edu/wfupress/"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Harry_Clifton"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.irishwriters-online.com/harryclifton.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <dbpprop:name xml:lang="en">Clifton, Harry</dbpprop:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
   </rdf:Description>
 </rdf:RDF>

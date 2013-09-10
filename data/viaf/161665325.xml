@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJean_Valentine#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/161665325"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Valentine, Jean</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/161665325/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/161665325"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/161665325/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/161665325"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79027012#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79027012"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/161665325"/>
+    <skos:altLabel>Chace, Jean Valentine</skos:altLabel>
+    <skos:prefLabel>Valentine, Jean</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C083719962#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/161665325"/>
+    <skos:prefLabel>Valentine, Jean, 1934-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C17972567X#skos:Concept">
+    <skos:prefLabel>Valentine, Jean</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/161665325"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C14541960#skos:Concept">
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb145419600"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Valentine, Jean, 1934-....</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb145419600"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/161665325"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/161665325">
+    <owl:sameAs rdf:resource="http://www.idref.fr/083719962/id"/>
+    <foaf:name>Chace, Jean Valentine</foaf:name>
+    <foaf:name>Valentine, Jean</foaf:name>
+    <rdaGr2:dateOfBirth>1934-04-27</rdaGr2:dateOfBirth>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/17972567X"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jean_Valentine"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb145419600#foaf:Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Valentine, Jean, 1934-....</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/161665325/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/161665325"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+</rdf:RDF>

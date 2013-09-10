@@ -9,42 +9,28 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Great_Enigma">
-    <dbpedia-owl:translator rdf:resource="http://dbpedia.org/resource/Robin_Fulton"/>
-    <dbpprop:translator rdf:resource="http://dbpedia.org/resource/Robin_Fulton"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Robin_Fulton">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Robin_Fulton"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Robin_Fulton">
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <rdfs:label xml:lang="en">Robin Fulton</rdfs:label>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Robin_Fulton"/>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Robin_Fulton?oldid=454230533"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetenladen.de/robin-fulton.htm"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <foaf:givenName xml:lang="en">Robin</foaf:givenName>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02xbl3h"/>
-    <foaf:surname xml:lang="en">Fulton</foaf:surname>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1937_births"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
     <dbpedia-owl:abstract xml:lang="en">Robin Fulton (born 18 August 1937 on the Isle of Arran), is a Scottish poet and translator. He has lived in Stavanger, Norway, since 1973 working as a university lecturer- Fulton holds a PhD from Edinburgh University. He has published own collections and several translations of Scandinavian poetry into English, e.g. Olav H. Hauge, Tomas Tranströmer and Henrik Nordbrandt.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02xbl3h"/>
     <foaf:name xml:lang="en">Robin Fulton</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <dbpprop:name xml:lang="en">Fulton, Robin</dbpprop:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishPoets"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1937-05-06</dbpedia-owl:birthDate>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_poets"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Robin_Fulton"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dbpprop:dateOfBirth>
+    <foaf:givenName xml:lang="en">Robin</foaf:givenName>
     <rdfs:comment xml:lang="en">Robin Fulton (born 18 August 1937 on the Isle of Arran), is a Scottish poet and translator. He has lived in Stavanger, Norway, since 1973 working as a university lecturer- Fulton holds a PhD from Edinburgh University. He has published own collections and several translations of Scandinavian poetry into English, e.g. Olav H. Hauge, Tomas Tranströmer and Henrik Nordbrandt.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Robin_Fulton">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Robin_Fulton"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Sorrow_Gondola">
-    <dbpedia-owl:translator rdf:resource="http://dbpedia.org/resource/Robin_Fulton"/>
-    <dbpprop:translator rdf:resource="http://dbpedia.org/resource/Robin_Fulton"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Robin_Fulton?oldid=454230533"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1937-05-06</dbpedia-owl:birthDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <rdfs:label xml:lang="en">Robin Fulton</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1937_births"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Robin_Fulton"/>
+    <dbpprop:name xml:lang="en">Fulton, Robin</dbpprop:name>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Robin_Fulton"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishPoets"/>
+    <foaf:surname xml:lang="en">Fulton</foaf:surname>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetenladen.de/robin-fulton.htm"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dbpprop:dateOfBirth>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_poets"/>
   </rdf:Description>
 </rdf:RDF>

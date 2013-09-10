@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+   xmlns:grs="http://www.georss.org/georss/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Froebel_College_of_Education">
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.tcd.ie"/>
+    <dbpprop:established rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1943</dbpprop:established>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Blackrock,_Dublin"/>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/University_of_Dublin"/>
+    <dbpprop:nativeName xml:lang="en">Coláiste Oideachais Froebel</dbpprop:nativeName>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Froebel_College_of_Education"/>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-6.1892 53.3013)</geo:geometry>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/National_University_of_Ireland,_Maynooth"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.roehampton.ac.uk/froebel/index.html"/>
+    <rdfs:comment xml:lang="en">Froebel College of Education is one of five colleges in Ireland which is recognized by the Department of Education and Skills for the training and education of national school teachers. It is located at Sion Hill, Cross Avenue, Blackrock, Dublin and is run by the Dominican Order. Froebel College, along with Coláiste Mhuire of Marino and the Church of Ireland College of Education Rathmines has been associated with Trinity College, Dublin, which both awards the degree of Bachelor in Education (B.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
+    <dbpedia-owl:abstract xml:lang="en">Froebel College of Education is one of five colleges in Ireland which is recognized by the Department of Education and Skills for the training and education of national school teachers. It is located at Sion Hill, Cross Avenue, Blackrock, Dublin and is run by the Dominican Order. Froebel College, along with Coláiste Mhuire of Marino and the Church of Ireland College of Education Rathmines has been associated with Trinity College, Dublin, which both awards the degree of Bachelor in Education (B. Ed. ) and the Higher Diploma in Education (Primary Teaching). The College also runs a BA degree in Early Childhood - Teaching and Learning (NUIM) and a one year Post-Graduate Diploma in Special Education (NUIM). Since September 2010, incoming students of Froebel College are being accredited by National University of Ireland, Maynooth (NUIM). Froebel Education is associated with progressive child-centred education. It seeks to foster quality teaching and learning, creativity, integration and sound practical classroom management in whatever situations teachers work with children. Froebel College of Education takes its name from the 19th century German educator, and founder of Kindergarten, Friedrich Fröebel (1782 - 1852). He advocated reverence for the child, learning through activity, exploration of the environment, enjoyment of beauty in all its manifestations and acceptance of the gifts of each individual.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_universities_and_colleges_in_the_Republic_of_Ireland"/>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Collaborative_European_Research_Conference"/>
+    <dbpprop:imageName xml:lang="en">Froebel_College_of_Education.jpg</dbpprop:imageName>
+    <dbpprop:nickname xml:lang="en">Froebel</dbpprop:nickname>
+    <dbpedia-owl:numberOfStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbpedia-owl:numberOfStudents>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04mz7r2"/>
+    <dbpprop:type xml:lang="en">Public</dbpprop:type>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/University_of_Dublin"/>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/National_University_of_Ireland,_Maynooth"/>
+    <grs:point xml:lang="en">53.301286 -6.189203</grs:point>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Collaborative_European_Research_Conference"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:country rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization"/>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <foaf:nick xml:lang="en">Froebel</foaf:nick>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Education_schools_in_Ireland"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/2/28/Froebel_College_of_Education.jpg"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.3013</geo:lat>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Froebel_College_of_Education.jpg/200px-Froebel_College_of_Education.jpg"/>
+    <dbpprop:students rdf:datatype="http://www.w3.org/2001/XMLSchema#int">250</dbpprop:students>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.froebel.ie"/>
+    <dbpprop:campus xml:lang="en">Suburban</dbpprop:campus>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nuim.ie/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Universities_and_colleges_in_the_Republic_of_Ireland"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Froebel_College_of_Education?oldid=494642504"/>
+    <dbpprop:president xml:lang="en">Marie McLoughlin</dbpprop:president>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Froebel_College_of_Education"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/University"/>
+    <foaf:homepage rdf:resource="http://www.froebel.ie"/>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-6.1892</geo:long>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_university"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity"/>
+    <foaf:name xml:lang="en">Froebel College of Education</foaf:name>
+    <dbpprop:name xml:lang="en">Froebel College of Education</dbpprop:name>
+    <foaf:name xml:lang="en">Coláiste Oideachais Froebel</foaf:name>
+  </rdf:Description>
+</rdf:RDF>

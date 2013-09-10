@@ -7,12 +7,9 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_California_Berkeley">
-    <rdfs:label xml:lang="en">University of California Berkeley</rdfs:label>
     <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_California,_Berkeley"/>
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/University_of_California_Berkeley"/>
+    <rdfs:label xml:lang="en">University of California Berkeley</rdfs:label>
     <ns4:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/University_of_California_Berkeley?oldid=348827878"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/University_of_California_Berkeley">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/University_of_California_Berkeley"/>
   </rdf:Description>
 </rdf:RDF>

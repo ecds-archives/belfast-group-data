@@ -8,58 +8,58 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C083752994#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CGeoffrey_Squires#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Squires, Geoffrey</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/75170180"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:prefLabel>Squires, Geoffrey, 1942-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/75170180/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/75170180"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/75170180">
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Squires, Geoffrey, 1942-....</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Squires, Geoffrey</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/083752994/id"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Geoffrey_Squires"/>
-    <rdaGr2:dateOfBirth>1942</rdaGr2:dateOfBirth>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/112944981"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069408874#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/75170180"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Squires, Geoffrey, 1942-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/75170180/">
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/75170180"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++81043175#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/75170180"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:prefLabel>Squires, Geoffrey</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n81043175"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C112944981#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/75170180"/>
-    <skos:prefLabel>Squires, Geoffrey</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Squires, Geoffrey</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/75170180"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069408874#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Squires, Geoffrey, 1942-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/75170180"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/75170180/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/75170180"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CGeoffrey_Squires#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/75170180/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/75170180"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/75170180">
+    <owl:sameAs rdf:resource="http://www.idref.fr/083752994/id"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Geoffrey_Squires"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/112944981"/>
+    <foaf:name>Squires, Geoffrey</foaf:name>
+    <rdaGr2:dateOfBirth>1942</rdaGr2:dateOfBirth>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Squires, Geoffrey, 1942-....</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C083752994#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Squires, Geoffrey, 1942-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/75170180"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++81043175#skos:Concept">
     <skos:prefLabel>Squires, Geoffrey</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n81043175"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/75170180"/>
   </rdf:Description>
 </rdf:RDF>

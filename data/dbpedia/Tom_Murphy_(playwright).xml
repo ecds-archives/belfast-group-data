@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Murphy_(playwright)">
+    <dbpedia-owl:abstract xml:lang="en">Tom Murphy (born 1935) is an Irish dramatist who has worked closely with the Abbey Theatre in Dublin and with Druid Theatre, Galway. He was born in Tuam, County Galway, Ireland. His first successful play, A Whistle In the Dark was performed at the Theatre Royal Stratford East in London in 1961 and caused considerable controversy both there and in Dublin when it was later given its Irish premiere at the Abbey having initially been rejected by its artistic director. His play The Sanctuary Lamp is being shown at the Arcola Theatre in Dalston, London from 10 March - 03 April 2010, and is being directed by Tom Murphy himself.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03yrxs"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyGalway"/>
+    <foaf:surname xml:lang="en">Murphy</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdfs:comment xml:lang="en">Tom Murphy (born 1935) is an Irish dramatist who has worked closely with the Abbey Theatre in Dublin and with Druid Theatre, Galway. He was born in Tuam, County Galway, Ireland. His first successful play, A Whistle In the Dark was performed at the Theatre Royal Stratford East in London in 1961 and caused considerable controversy both there and in Dublin when it was later given its Irish premiere at the Abbey having initially been rejected by its artistic director.</rdfs:comment>
+    <rdfs:label xml:lang="en">Tom Murphy (playwright)</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Tuam"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1935</dbpprop:dateOfBirth>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Tom_Murphy_(playwright)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Abbey_Theatre"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Tom_Murphy_(playwright)"/>
+    <foaf:givenName xml:lang="en">Tom</foaf:givenName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishDramatistsAndPlaywrights"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <foaf:name xml:lang="en">Tom Murphy</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_dramatists_and_playwrights"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artscouncil.ie/aosdana/biogs/literature/thomasmurphy.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.irishwriters-online.com/tommurphy.html"/>
+    <dbpprop:name xml:lang="en">Murphy, Tom</dbpprop:name>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Tom_Murphy_(playwright)?oldid=477089337"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1935_births"/>
+  </rdf:Description>
+</rdf:RDF>

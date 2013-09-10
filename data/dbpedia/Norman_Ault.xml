@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Ault">
+    <foaf:name xml:lang="en">Norman Ault</foaf:name>
+    <rdfs:comment xml:lang="en">Norman Ault (December 17, 1880 – February 6, 1950) was a book illustrator and writer, now known best as a compiler of anthologies. He wrote children’s literature with his wife Lena, who died in 1904. He later was noted as a scholar of English poetry of the seventeenth century, and Alexander Pope.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishChildren'sWriters"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Norman_Ault?oldid=483851208"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1950_deaths"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Norman_Ault"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:name xml:lang="en">Ault, Norman</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_children's_writers"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1880-12-17</dbpedia-owl:birthDate>
+    <foaf:surname xml:lang="en">Ault</foaf:surname>
+    <dbpedia-owl:abstract xml:lang="en">Norman Ault (December 17, 1880 – February 6, 1950) was a book illustrator and writer, now known best as a compiler of anthologies. He wrote children’s literature with his wife Lena, who died in 1904. He later was noted as a scholar of English poetry of the seventeenth century, and Alexander Pope.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05v1vv"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishIllustrators"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1950-02-06</dbpprop:dateOfDeath>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1880-12-17</dbpprop:dateOfBirth>
+    <foaf:givenName xml:lang="en">Norman</foaf:givenName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1880_births"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1950-02-06</dbpedia-owl:deathDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_illustrators"/>
+    <rdfs:label xml:lang="en">Norman Ault</rdfs:label>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Norman_Ault"/>
+  </rdf:Description>
+</rdf:RDF>

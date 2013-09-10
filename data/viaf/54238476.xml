@@ -8,10 +8,36 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C152142851#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54238476"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Schuchard, Ronald.</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00887194#skos:Concept">
+    <skos:altLabel>シュハード, ロナルド</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54238476"/>
+    <skos:prefLabel>Schuchard, Ronald.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/54238476/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/54238476"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/54238476/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/54238476"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/54238476">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>シュハード, ロナルド</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12428274k#foaf:Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Schuchard, Ronald.</foaf:name>
+    <rdaGr2:dateOfBirth>1900</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/152142851"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++02061958#skos:Concept">
     <skos:prefLabel>Schuchard, Ronald.</skos:prefLabel>
@@ -19,55 +45,29 @@
     <foaf:focus rdf:resource="http://viaf.org/viaf/54238476"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12428274#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++94005016#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54238476"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Schuchard, Ronald.</skos:prefLabel>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12428274k"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n94005016"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12428274#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/54238476"/>
     <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12428274k"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++94005016#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n94005016"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54238476"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
     <skos:prefLabel>Schuchard, Ronald.</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12428274k"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/54238476/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/54238476"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/54238476">
-    <foaf:name>シュハード, ロナルド</foaf:name>
-    <foaf:name>Schuchard, Ronald.</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12428274k#foaf:Person"/>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/152142851"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <rdaGr2:dateOfBirth>1900</rdaGr2:dateOfBirth>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00887194#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C087861526#skos:Concept">
     <skos:prefLabel>Schuchard, Ronald.</skos:prefLabel>
-    <skos:altLabel>シュハード, ロナルド</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/54238476"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/54238476/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/54238476"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C152142851#skos:Concept">
-    <skos:prefLabel>Schuchard, Ronald.</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54238476"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C087861526#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54238476"/>
-    <skos:prefLabel>Schuchard, Ronald.</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
   </rdf:Description>
 </rdf:RDF>

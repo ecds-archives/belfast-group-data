@@ -9,63 +9,63 @@
    xmlns:void="http://rdfs.org/ns/void#"
 >
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C122162005#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Scott, David Victor, 1947-</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <skos:prefLabel>Scott, David, 1947-</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/92131910"/>
-    <skos:altLabel>Scott, David Victor, 1947-</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/92131910/#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035330392#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Scott, David, 1947-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/92131910"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500055162#skos:Concept">
-    <skos:altLabel>Scott, David</skos:altLabel>
-    <skos:prefLabel>Scott, David C. Canadian architect, active ca. 1987</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CDavid_Scott_(poet)#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/92131910"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>David C. Scott</skos:altLabel>
+    <skos:prefLabel>Scott, David</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/92131910/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/92131910"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CDavid_Scott_(poet)#skos:Concept">
-    <skos:prefLabel>Scott, David</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/92131910"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/92131910">
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <rdaGr2:dateOfBirth>1947</rdaGr2:dateOfBirth>
-    <foaf:name>Scott, David C. Canadian architect, active ca. 1987</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/122162005"/>
-    <foaf:name>Scott, David</foaf:name>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Scott, David, 1947-</foaf:name>
     <foaf:name>David C. Scott</foaf:name>
+    <foaf:name>Scott, David</foaf:name>
     <owl:sameAs rdf:resource="http://dbpedia.org/resource/David_Scott_(poet)"/>
+    <foaf:name>Scott, David C. Canadian architect, active ca. 1987</foaf:name>
+    <foaf:name>Scott, David, 1947-</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
     <foaf:name>Scott, David Victor, 1947-</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/122162005"/>
+    <rdaGr2:dateOfBirth>1947</rdaGr2:dateOfBirth>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/92131910/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/92131910"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035330392#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/92131910"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500055162#skos:Concept">
+    <skos:prefLabel>Scott, David C. Canadian architect, active ca. 1987</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Scott, David, 1947-</skos:prefLabel>
+    <skos:altLabel>David C. Scott</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/92131910"/>
+    <skos:altLabel>Scott, David</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++87813233#skos:Concept">
+    <skos:altLabel>Scott, David Victor, 1947-</skos:altLabel>
     <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n87813233"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Scott, David, 1947-</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:altLabel>Scott, David Victor, 1947-</skos:altLabel>
+    <skos:prefLabel>Scott, David, 1947-</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/92131910"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/92131910/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/92131910"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/92131910/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/92131910"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
   </rdf:Description>
 </rdf:RDF>

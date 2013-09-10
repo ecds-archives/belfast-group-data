@@ -10,88 +10,75 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Sharon_Olds">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Sharon_Olds"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Sharon_Olds">
-    <rdfs:comment xml:lang="it"></rdfs:comment>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1942-11-19</dbpedia-owl:birthDate>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.english.uiuc.edu/maps/poets/m_r/olds/olds.htm"/>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Sharon_Olds"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_New_York"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1942-11-19</dbpprop:dateOfBirth>
-    <dbpprop:shortDescription xml:lang="en">American poet</dbpprop:shortDescription>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Sharon_Olds"/>
+    <dbpprop:align xml:lang="en">right</dbpprop:align>
     <dbpprop:source xml:lang="en">From “I Go Back to May 1937”</dbpprop:source>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <foaf:surname xml:lang="en">Olds</foaf:surname>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poets_Laureate_of_New_York"/>
-    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
-    <dbpprop:source xml:lang="en">Strike Sparks: Selected Poems 1980-2002</dbpprop:source>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Quote_box"/>
-    <dbpprop:placeOfBirth xml:lang="en">San Francisco, California, United States</dbpprop:placeOfBirth>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryfoundation.org/archive/poet.html?id=5124"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StanfordUniversityAlumni"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dbpedia-owl:abstract xml:lang="es">Sharon Olds es una poeta americana en lengua inglesa, autora de ocho libros de poesía.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Columbia_University_alumni"/>
     <rdfs:comment xml:lang="en">Sharon Olds (born November 19, 1942) is an American poet.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Quote_box"/>
     <foaf:name xml:lang="en">Sharon Olds</foaf:name>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.albany.edu/writers-inst/olds.html"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.english.uiuc.edu/maps/poets/m_r/olds/critiques.htm"/>
-    <dbpprop:quoted xml:lang="en">true</dbpprop:quoted>
-    <dbpprop:salign xml:lang="en">center</dbpprop:salign>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WritersFromNewYork"/>
-    <rdfs:comment xml:lang="es">Sharon Olds es una poeta americana en lengua inglesa, autora de ocho libros de poesía.</rdfs:comment>
+    <rdfs:comment xml:lang="it"></rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WritersFromCalifornia"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sharon_Olds"/>
+    <dbpprop:source xml:lang="en">Strike Sparks: Selected Poems 1980-2002</dbpprop:source>
+    <foaf:surname xml:lang="en">Olds</foaf:surname>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.sharonolds.net"/>
+    <foaf:givenName xml:lang="en">Sharon</foaf:givenName>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/San_Francisco"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCalifornia"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poets.org/viewmedia.php/prmMID/21435"/>
     <dbpprop:quote xml:lang="en">I want to live. I   
 take them up like the male and female   
 paper dolls and bang them together   
 at the hips, like chips of flint, as if to   
 strike sparks from them, I say
 Do what you are going to do, and I will tell about it.</dbpprop:quote>
-    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">300</dbpprop:width>
-    <dbpedia-owl:abstract xml:lang="en">Sharon Olds (born November 19, 1942) is an American poet.</dbpedia-owl:abstract>
-    <dbpprop:name xml:lang="en">Olds, Sharon</dbpprop:name>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sharon_Olds"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.kwls.org/lit/kwls_blog/2008/04/podcast.cfm"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WritersFromCalifornia"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Sharon_Olds"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_New_York"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poets.org/viewmedia.php/prmMID/21435"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Sharon_Olds"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCalifornia"/>
-    <foaf:givenName xml:lang="en">Sharon</foaf:givenName>
-    <foaf:homepage rdf:resource="http://www.sharonolds.net"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1942_births"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.sharonolds.net"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.salon.com/weekly/interview960701.html"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"/>
-    <rdfs:label xml:lang="en">Sharon Olds</rdfs:label>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://podcast.lannan.org/2007/07/10/sharon-olds-with-michael-silverblatt/"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.051qgk"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromNewYork"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Stanford_University_alumni"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_California"/>
-    <dbpprop:bgcolor xml:lang="en">#FFFFF0</dbpprop:bgcolor>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/San_Francisco"/>
-    <dbpprop:align xml:lang="en">right</dbpprop:align>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sharon_Olds?oldid=491447209"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_California"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:New_York_University_faculty"/>
     <dc:description xml:lang="en">American poet</dc:description>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Diane_Wakoski">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Sharon_Olds"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Sharon_Olds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Sharon_Olds">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sharon_Olds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Olds">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Sharon_Olds"/>
+    <dbpedia-owl:abstract xml:lang="es">Sharon Olds es una poeta americana en lengua inglesa, autora de ocho libros de poesía.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StanfordUniversityAlumni"/>
+    <dbpprop:bgcolor xml:lang="en">#FFFFF0</dbpprop:bgcolor>
+    <dbpprop:placeOfBirth xml:lang="en">San Francisco, California, United States</dbpprop:placeOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dbpprop:name xml:lang="en">Olds, Sharon</dbpprop:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.kwls.org/lit/kwls_blog/2008/04/podcast.cfm"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.salon.com/weekly/interview960701.html"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Sharon_Olds"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_New_York"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_California"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Columbia_University_alumni"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1942_births"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Sharon_Olds"/>
+    <dbpedia-owl:abstract xml:lang="en">Sharon Olds (born November 19, 1942) is an American poet.</dbpedia-owl:abstract>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1942-11-19</dbpedia-owl:birthDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Stanford_University_alumni"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poets_Laureate_of_New_York"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.051qgk"/>
+    <foaf:homepage rdf:resource="http://www.sharonolds.net"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sharon_Olds?oldid=491447209"/>
+    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">300</dbpprop:width>
+    <dbpprop:shortDescription xml:lang="en">American poet</dbpprop:shortDescription>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1942-11-19</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_New_York"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.english.uiuc.edu/maps/poets/m_r/olds/critiques.htm"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryfoundation.org/archive/poet.html?id=5124"/>
+    <dbpprop:quoted xml:lang="en">true</dbpprop:quoted>
+    <rdfs:comment xml:lang="es">Sharon Olds es una poeta americana en lengua inglesa, autora de ocho libros de poesía.</rdfs:comment>
+    <dbpprop:salign xml:lang="en">center</dbpprop:salign>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WritersFromNewYork"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://podcast.lannan.org/2007/07/10/sharon-olds-with-michael-silverblatt/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.english.uiuc.edu/maps/poets/m_r/olds/olds.htm"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromNewYork"/>
+    <rdfs:label xml:lang="en">Sharon Olds</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.albany.edu/writers-inst/olds.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_California"/>
   </rdf:Description>
 </rdf:RDF>

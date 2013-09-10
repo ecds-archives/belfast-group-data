@@ -4,122 +4,122 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kx0#hobsbaum1_1034">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/172419710"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/89000553"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/27074806"/>
-    <schema:name>STOUT PERSON'S MEDITATION ON SEX</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/91907300"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/261824303"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/172419710">
+    <schema:name>King Henry</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Henry VIII</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kx0#hobsbaum1_1039">
-    <schema:mentions rdf:resource="http://sws.geonames.org/2510769/"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2643743/"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:mentions rdf:resource="http://sws.geonames.org/2964574/"/>
     <schema:author rdf:resource="http://viaf.org/viaf/91907300"/>
     <schema:name>COCK OF THE WALK</schema:name>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2510769/"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2643743/"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/172419710">
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/76d9300179a46cceec7c688e10e22993">
+    <schema:name>POEMS BY PHILIP HOBSBAUM</schema:name>
+    <dc:title rdf:nodeID="Naced5c28ff7941e4980af1146f8d711c"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/91907300"/>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17kx0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kx0#hobsbaum1_1029">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/111894442"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>UNDERGRADUATE PARTY</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/91907300"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2643743/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>London</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9f6e5bf798474acfa2ba37170102f5b3">
+    <rdf:rest rdf:nodeID="N32bfac89e77a46a08b8e9f4cd7cf7448"/>
+    <rdf:first>The Riding-Mistress</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kx0#hobsbaum1_1014">
+    <schema:name>
+                            DERRY CITY
+                        </schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/91907300"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kx0#hobsbaum1_1019">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>THE RIDING-MISTRESS</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/91907300"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kx0#hobsbaum1_1024">
+    <schema:name>A FALSE MARTYR</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/91907300"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N78c74f62e52f4702a4ec7b35b0b3c936">
+    <rdf:first>Derry City</rdf:first>
+    <rdf:rest rdf:nodeID="N9f6e5bf798474acfa2ba37170102f5b3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kx0#hobsbaum1_1034">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/89000553"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/27074806"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/261824303"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/172419710"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/91907300"/>
+    <schema:name>STOUT PERSON'S MEDITATION ON SEX</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndfa00a7314134708ad55d4fd8787562c">
+    <rdf:first>Stout Person's Meditation on Sex</rdf:first>
+    <rdf:rest rdf:nodeID="N9fe9d54f44a24cf2a5b11bd451869bb0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/89000553">
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name>Henry VIII</schema:name>
-    <schema:name>King Henry</schema:name>
+    <schema:name>George Eliot</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N32bfac89e77a46a08b8e9f4cd7cf7448">
+    <rdf:rest rdf:nodeID="N13bc8a92f77342a1b12eb9ea1bedd97c"/>
+    <rdf:first>A False Martyr</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2964574/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Dublin</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2510769/">
+    <schema:name>Spanish</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/27074806">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Herbert Spencer</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/261824303">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>King Edward</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/111894442">
+    <schema:name>Bob Dylan</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kx0#hobsbaum1_109">
     <schema:name>DEAD END</schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/91907300"/>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/261824303">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name>King Edward</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N7fc5f655b3f74a41854b38a57ff22804">
-    <rdf:first>The Riding-Mistress</rdf:first>
-    <rdf:rest rdf:nodeID="Na949844f693142e28428739c964bed30"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kx0#hobsbaum1_1019">
-    <schema:name>THE RIDING-MISTRESS</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/91907300"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N8ac093017d28482cb232878571b9a317">
-    <rdf:rest rdf:nodeID="N4fb59593b3954fc1b54bdf97188126fa"/>
-    <rdf:first>Dead End</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N4fb59593b3954fc1b54bdf97188126fa">
-    <rdf:first>Derry City</rdf:first>
-    <rdf:rest rdf:nodeID="N7fc5f655b3f74a41854b38a57ff22804"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N94082e85136a4ebd8853c3c476edbbb8">
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-    <rdf:first>Cock of the Walk</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/27074806">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name>Herbert Spencer</schema:name>
+  <rdf:Description rdf:nodeID="N13bc8a92f77342a1b12eb9ea1bedd97c">
+    <rdf:rest rdf:nodeID="Ndfa00a7314134708ad55d4fd8787562c"/>
+    <rdf:first>Undergraduate Party</rdf:first>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/91907300">
     <schema:name>Philip Hobsbaum</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nfcb4fa2934634fd08699fa98eefec06e">
-    <rdf:first>Stout Person's Meditation on Sex</rdf:first>
-    <rdf:rest rdf:nodeID="N94082e85136a4ebd8853c3c476edbbb8"/>
+  <rdf:Description rdf:nodeID="Naced5c28ff7941e4980af1146f8d711c">
+    <rdf:rest rdf:nodeID="N78c74f62e52f4702a4ec7b35b0b3c936"/>
+    <rdf:first>Dead End</rdf:first>
   </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2643743/">
-    <schema:name>London</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kx0#hobsbaum1_1029">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/111894442"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/91907300"/>
-    <schema:name>UNDERGRADUATE PARTY</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/111894442">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name>Bob Dylan</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2964574/">
-    <schema:name>Dublin</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N02df768c5baa4467ae51ec96d81a37c6">
-    <rdf:first>Undergraduate Party</rdf:first>
-    <rdf:rest rdf:nodeID="Nfcb4fa2934634fd08699fa98eefec06e"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Na949844f693142e28428739c964bed30">
-    <rdf:first>A False Martyr</rdf:first>
-    <rdf:rest rdf:nodeID="N02df768c5baa4467ae51ec96d81a37c6"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kx0#hobsbaum1_1014">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/91907300"/>
-    <schema:name>
-                            DERRY CITY
-                        </schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2510769/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name>Spanish</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/89000553">
-    <schema:name>George Eliot</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17kx0#hobsbaum1_1024">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/91907300"/>
-    <schema:name>A FALSE MARTYR</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/76d9300179a46cceec7c688e10e22993">
-    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17kx0"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/91907300"/>
-    <schema:name>POEMS BY PHILIP HOBSBAUM</schema:name>
-    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
-    <dc:title rdf:nodeID="N8ac093017d28482cb232878571b9a317"/>
+  <rdf:Description rdf:nodeID="N9fe9d54f44a24cf2a5b11bd451869bb0">
+    <rdf:first>Cock of the Walk</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
   </rdf:Description>
 </rdf:RDF>

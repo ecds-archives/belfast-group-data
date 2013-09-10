@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_College_Dublin">
+    <schema:name xml:lang="en">University College, Dublin</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108291535">
+    <schema:name xml:lang="en">Paulin, Tom.</schema:name>
+    <schema:name xml:lang="en">Tom
+          Paulin</schema:name>
+    <schema:name xml:lang="en">Tom Paulin</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/34500781">
+    <schema:name xml:lang="en">Thomas Kinsella</schema:name>
+    <schema:name xml:lang="en">Kinsella, Thomas.</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108344790">
+    <schema:birthPlace rdf:resource="http://sws.geonames.org/2643735/"/>
+    <schema:worksFor rdf:resource="http://dbpedia.org/resource/University_of_notre_dame"/>
+    <schema:colleague rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:alumniOf rdf:resource="http://dbpedia.org/resource/Queen%27s_University_Belfast"/>
+    <schema:colleague rdf:resource="http://viaf.org/viaf/108291535"/>
+    <schema:name xml:lang="en">Deane, Seamus, 1940-</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:colleague rdf:resource="http://viaf.org/viaf/38545317"/>
+    <schema:alumniOf rdf:resource="http://dbpedia.org/resource/University_of_Cambridge"/>
+    <schema:description xml:lang="en">
+      
+        Seamus Deane (1940-), Irish poet and educator, was born in Derry, Northern Ireland. He attended Queen's University, Belfast and Cambridge University. He was a professor of English and American Literature at University College, Dublin and a professor of Irish Studies at the University of Notre Dame. He was also a founding director of the Field Day Theatre Company, along with David Hammond, Seamus Heaney, and Tom Paulin. Deane has published several works of poetry and non-fiction, as well as one novel. His collections of poetry include Gradual Wars, Rumors and History Lessons; his non-fiction includes Heroic Styles: The Tradition of an Idea, Celtic Revivals: Essays in Modern Irish Literature, A Short History of Irish Literature, Strange Country, and French Revolution and Enlightenment in England, 1789-1832. His novel, Reading in the Dark, was nominated for a Booker Prize in 1996.
+      
+    </schema:description>
+    <schema:worksFor rdf:resource="http://dbpedia.org/resource/University_College_Dublin"/>
+    <schema:birthDate xml:lang="en">1940</schema:birthDate>
+    <schema:founderOf rdf:resource="http://dbpedia.org/resource/Field_Day_Theatre_Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109176234">
+    <schema:name xml:lang="en">Donoghue, Denis.</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Denis Donoghue</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/110228045">
+    <schema:name xml:lang="en">Mahon, Derek, 1941-</schema:name>
+    <schema:name xml:lang="en">Derek Mahon</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N426e4e1dbae94411b79554de31909634">
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Field_Day_Theatre_Company"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na6e1a9f7a4664f1faa393ac564069e8c">
+    <schema:name xml:lang="en">Emory University</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2ffbe010a0e94d25b2baee10b3993d21">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/76315726"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109956735">
+    <schema:name xml:lang="en">Longley, Edna.</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf206d2e4cc534c0d87b41962f2417dc1">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/91961511"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen%27s_University_Belfast">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Queen's
+          University, Belfast</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2643735/">
+    <schema:name xml:lang="en">Derry, Northern Ireland</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/38545317">
+    <schema:name xml:lang="en">David
+          Hammond</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Field_Day_Theatre_Company">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Field Day Theatre
+          Company</schema:name>
+    <schema:name xml:lang="en">Field
+              Day</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_notre_dame">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">University of Notre
+          Dame</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/120096893">
+    <schema:name xml:lang="en">Medbh McGuckian</schema:name>
+    <schema:name xml:lang="en">McGuckian, Medbh, 1950-</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N060b5b21c3a940429ddada8794668bcf">
+    <schema:about rdf:resource="http://viaf.org/viaf/120096893"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/268319582"/>
+    <schema:keywords xml:lang="en">Paulin, Tom.</schema:keywords>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/120096893"/>
+    <schema:keywords xml:lang="en">Authors, Irish--20th century.</schema:keywords>
+    <schema:mentions rdf:nodeID="Nf206d2e4cc534c0d87b41962f2417dc1"/>
+    <schema:mentions rdf:nodeID="N2ffbe010a0e94d25b2baee10b3993d21"/>
+    <schema:keywords xml:lang="en">Heaney, Seamus.</schema:keywords>
+    <schema:keywords xml:lang="en">Donoghue, Denis.</schema:keywords>
+    <schema:keywords xml:lang="en">McGuckian, Medbh, 1950-</schema:keywords>
+    <schema:keywords xml:lang="en">Manuscripts.</schema:keywords>
+    <schema:keywords xml:lang="en">Poets, Irish--20th century.</schema:keywords>
+    <schema:about rdf:resource="http://viaf.org/viaf/108291535"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/76315726"/>
+    <schema:keywords xml:lang="en">Friel, Brian.</schema:keywords>
+    <schema:keywords xml:lang="en">Longley, Edna.</schema:keywords>
+    <schema:keywords xml:lang="en">Mahon, Derek, 1941-</schema:keywords>
+    <schema:about rdf:resource="http://viaf.org/viaf/110228045"/>
+    <rdf:type rdf:resource="http://purl.org/archival/vocab/arch#Collection"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/110228045"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/109176234"/>
+    <schema:keywords xml:lang="en">Kilroy, Thomas.</schema:keywords>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/109176234"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/108291535"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/76315726"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/34500781"/>
+    <schema:mentions rdf:nodeID="N426e4e1dbae94411b79554de31909634"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/91961511"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/34500781"/>
+    <schema:keywords xml:lang="en">Kinsella, Thomas.</schema:keywords>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/91961511"/>
+    <schema:keywords xml:lang="en">Field Day Theatre Company.</schema:keywords>
+    <schema:keywords xml:lang="en">Irish poetry--20th century.</schema:keywords>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:keywords xml:lang="en">Poems.</schema:keywords>
+    <schema:creator rdf:resource="http://viaf.org/viaf/108344790"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/109557338"/>
+    <schema:description xml:lang="en">Papers of Irish poet and educator Seamus Deane, including writings, correspondence,
+        journals and business records
+            </schema:description>
+    <schema:name xml:lang="en"> Seamus Deane papers
+             </schema:name>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:keywords xml:lang="en">Longley, Michael, 1939-</schema:keywords>
+    <schema:about rdf:resource="http://viaf.org/viaf/109956735"/>
+    <schema:keywords xml:lang="en">Critics--Ireland.</schema:keywords>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Cambridge">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Cambridge University</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
+    <schema:name xml:lang="en">Heaney, Seamus.</schema:name>
+    <schema:name xml:lang="en">Seamus
+              Heaney</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Seamus Heaney</schema:name>
+    <schema:name xml:lang="en">Seamus
+          Heaney</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
+    <schema:name xml:lang="en">Longley, Michael, 1939-</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Michael</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/91961511">
+    <schema:name xml:lang="en">Thomas
+          Kilroy</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Thomas Kilroy</schema:name>
+    <schema:name xml:lang="en">Kilroy, Thomas.</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/268319582">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Field Day Theatre Company.</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/76315726">
+    <schema:name xml:lang="en">Brian
+              Friel</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Friel, Brian.</schema:name>
+    <schema:name xml:lang="en">Brian
+          Friel</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/bnj3q">
+    <schema:about rdf:nodeID="N060b5b21c3a940429ddada8794668bcf"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <schema:dateModified xml:lang="en">2013-09-09</schema:dateModified>
+    <schema:about xml:lang="en">http://viaf.org/viaf/108344790</schema:about>
+    <schema:name xml:lang="en">Seamus Deane papers</schema:name>
+    <schema:author xml:lang="en">Manuscript, Archives, and Rare Book Library, Emory           University</schema:author>
+    <schema:url xml:lang="en">http://pid.emory.edu/ark:/25593/bnj3q</schema:url>
+    <owl:sameAs rdf:resource="http://testfindingaids.library.emory.edu/documents/deane1210/"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:datePublished xml:lang="en">2012-01-06</schema:datePublished>
+    <schema:publisher rdf:nodeID="Na6e1a9f7a4664f1faa393ac564069e8c"/>
+    <schema:dateCreated xml:lang="en">2012-01-06</schema:dateCreated>
+  </rdf:Description>
+</rdf:RDF>

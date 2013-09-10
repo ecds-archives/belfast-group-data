@@ -11,61 +11,55 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="http://dbpedia.org/resource/Theo_Dorgan">
-    <rdfs:comment xml:lang="en">Theo Dorgan (born 1953) is an Irish poet, writer and lecturer. He currently lives in Dublin.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
-    <foaf:surname xml:lang="en">Dorgan</foaf:surname>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Theo_Dorgan?oldid=479961065"/>
-    <dbpprop:period rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1960</dbpprop:period>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <dc:description xml:lang="en">Irish poet</dc:description>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetrymagazines.org.uk/magazine/record.asp?id=18714"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://aosdana.artscouncil.ie/Members/Literature/Dorgan.aspx?Cnuas=1"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyDuBlin"/>
-    <foaf:name xml:lang="en">Theo Dorgan</foaf:name>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Theo_Dorgan"/>
-    <dbpprop:shortDescription xml:lang="en">Irish poet</dbpprop:shortDescription>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.047crq0"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cork_(city)"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Dublin"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cork_(city)"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.theodorgan.com/"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
-    <dbpprop:name xml:lang="en">Theo Dorgan</dbpprop:name>
-    <foaf:givenName xml:lang="en">Theo</foaf:givenName>
     <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1953</dbpprop:dateOfBirth>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Dublin"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cork_(city)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <dbpprop:shortDescription xml:lang="en">Irish poet</dbpprop:shortDescription>
     <dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1960-01-01T00:00:00+02:00</dbpedia-owl:activeYearsStartYear>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
-    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1953</dbpprop:birthDate>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Theo_Dorgan"/>
-    <dbpprop:occupation rdf:resource="http://dbpedia.org/resource/Poet"/>
-    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Poet"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1953_births"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dbpprop:name xml:lang="en">Dorgan, Theo</dbpprop:name>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Ireland"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://dedaluspress.blogspot.com/"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
     <dbpedia-owl:abstract xml:lang="en">Theo Dorgan (born 1953) is an Irish poet, writer and lecturer. He currently lives in Dublin.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:name xml:lang="en">Theo Dorgan</dbpprop:name>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <foaf:givenName xml:lang="en">Theo</foaf:givenName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://dedaluspress.blogspot.com/"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.047crq0"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1953</dbpprop:birthDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyDuBlin"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1953_births"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://aosdana.artscouncil.ie/Members/Literature/Dorgan.aspx?Cnuas=1"/>
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cork_(city)"/>
+    <dbpprop:occupation rdf:resource="http://dbpedia.org/resource/Poet"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetrymagazines.org.uk/magazine/record.asp?id=18714"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Poet"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Theo_Dorgan"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <foaf:surname xml:lang="en">Dorgan</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:comment xml:lang="en">Theo Dorgan (born 1953) is an Irish poet, writer and lecturer. He currently lives in Dublin.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.theodorgan.com/"/>
     <foaf:homepage rdf:resource="http://www.theodorgan.com/"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Theo_Dorgan">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Theo_Dorgan"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Theo_Dorgan">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Theo_Dorgan"/>
+    <dbpprop:name xml:lang="en">Dorgan, Theo</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Cork_(city)"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Theo_Dorgan?oldid=479961065"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cork_(city)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dc:description xml:lang="en">Irish poet</dc:description>
+    <foaf:name xml:lang="en">Theo Dorgan</foaf:name>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Theo_Dorgan"/>
+    <dbpprop:period rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1960</dbpprop:period>
   </rdf:Description>
 </rdf:RDF>

@@ -8,62 +8,62 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/72745764/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  <rdf:Description rdf:about="http://viaf.org/viaf/72745764">
+    <foaf:name>Magee, Wes</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Wes_Magee"/>
+    <rdaGr2:dateOfBirth>1939</rdaGr2:dateOfBirth>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Magee, Wes, 1939-</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035321697#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/72745764"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Magee, Wes, 1939-</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/72745764/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/72745764"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/72745764/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/72745764"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2007109028#skos:Concept">
+    <skos:prefLabel>Magee, Wes, 1939-</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/72745764"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CWes_Magee#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Magee, Wes</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/72745764"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++82129176#skos:Concept">
     <skos:prefLabel>Magee, Wes, 1939-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/72745764"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n82129176"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/72745764/#foaf:Person">
     <owl:sameAs rdf:resource="http://viaf.org/viaf/72745764"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035321697#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/72745764"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Magee, Wes, 1939-</skos:prefLabel>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0127467#skos:Concept">
-    <skos:prefLabel>Magee, Wes, 1939-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/72745764"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++82129176#skos:Concept">
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n82129176"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/72745764"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <skos:prefLabel>Magee, Wes, 1939-</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CWes_Magee#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/72745764"/>
-    <skos:prefLabel>Magee, Wes</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/72745764/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/72745764"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072746858#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Magee, Wes</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/72745764"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/72745764">
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <rdaGr2:dateOfBirth>1939</rdaGr2:dateOfBirth>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Wes_Magee"/>
-    <foaf:name>Magee, Wes</foaf:name>
-    <foaf:name>Magee, Wes, 1939-</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
   </rdf:Description>
 </rdf:RDF>

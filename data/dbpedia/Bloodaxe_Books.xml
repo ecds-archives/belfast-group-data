@@ -9,31 +9,25 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Bloodaxe_Books">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Bloodaxe_Books"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bloodaxe">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Bloodaxe_Books"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Bloodaxe_Books">
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.stanzapoetry.org/stanza06_archive/lecture.htm"/>
-    <rdfs:comment xml:lang="en">Bloodaxe Books is a British publishing house specialising in poetry.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wolfmagazine.co.uk/5_interview_na.php"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.spreadtheword.org.uk/freeverse/index.php?id=55"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/books/2008/may/10/poetry"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://bloodaxeblogs.blogspot.com/"/>
     <dbpedia-owl:abstract xml:lang="en">Bloodaxe Books is a British publishing house specialising in poetry.</dbpedia-owl:abstract>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Bloodaxe_Books"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.newstatesman.com/200610230043"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetrybooks.co.uk/poetry_portal/publisher_profile_february_2011_bloodaxe_books"/>
+    <rdfs:comment xml:lang="en">Bloodaxe Books is a British publishing house specialising in poetry.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://bloodaxeblogs.blogspot.com/"/>
+    <ns6:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Bloodaxe_Books?oldid=436888213"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/books/2008/sep/21/publishing.poetry.neilastley"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.facebook.com/pages/Bloodaxe-Books/17150289985?ref=s"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Bloodaxe_Books"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Book_publishing_companies_of_the_United_Kingdom"/>
-    <rdfs:label xml:lang="en">Bloodaxe Books</rdfs:label>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bloodaxebooks.com/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.newstatesman.com/200610230043"/>
     <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0kqmyk"/>
-    <ns6:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Bloodaxe_Books?oldid=436888213"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.spreadtheword.org.uk/freeverse/index.php?id=55"/>
     <foaf:homepage rdf:resource="http://www.bloodaxebooks.com/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Book_publishing_companies_of_the_United_Kingdom"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bloodaxebooks.com/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/books/2008/may/10/poetry"/>
+    <rdfs:label xml:lang="en">Bloodaxe Books</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.stanzapoetry.org/stanza06_archive/lecture.htm"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Bloodaxe_Books"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetrybooks.co.uk/poetry_portal/publisher_profile_february_2011_bloodaxe_books"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wolfmagazine.co.uk/5_interview_na.php"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Bloodaxe_Books"/>
   </rdf:Description>
 </rdf:RDF>

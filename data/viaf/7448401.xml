@@ -8,68 +8,68 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C151700036#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++87133431#skos:Concept">
+    <skos:prefLabel>Frazier, Adrian Woods.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Woods Frazier, Adrian</skos:altLabel>
+    <skos:altLabel>Frazier, Adrian.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7448401"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n87133431"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/7448401">
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Frazier, Adrian</foaf:name>
+    <rdaGr2:dateOfBirth>1900</rdaGr2:dateOfBirth>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Frazier, Adrian Woods.</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12263565q#foaf:Person"/>
+    <foaf:name>Frazier, Adrien</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/151700036"/>
+    <foaf:name>Woods Frazier, Adrian</foaf:name>
+    <foaf:name>Frazier, Adrian Woods</foaf:name>
+    <foaf:name>Frazier, Adrian.</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C151700036#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/7448401"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:altLabel>Frazier, Adrian Woods</skos:altLabel>
+    <skos:altLabel>Woods Frazier, Adrian</skos:altLabel>
     <skos:prefLabel>Frazier, Adrian</skos:prefLabel>
   </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C227518705#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7448401"/>
+    <skos:prefLabel>Frazier, Adrien</skos:prefLabel>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2013180985#skos:Concept">
-    <skos:prefLabel>Frazier, Adrian Woods.</skos:prefLabel>
-    <skos:altLabel>Frazier, Adrian.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:altLabel>Frazier, Adrian.</skos:altLabel>
+    <skos:prefLabel>Frazier, Adrian Woods.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/7448401"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12263565#skos:Concept">
+    <skos:altLabel>Frazier, Adrian.</skos:altLabel>
+    <skos:prefLabel>Frazier, Adrian Woods.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12263565q"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/7448401"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12263565q"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/7448401/#foaf:Person">
     <owl:sameAs rdf:resource="http://viaf.org/viaf/7448401"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C227518705#skos:Concept">
-    <skos:prefLabel>Frazier, Adrien</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/7448401"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/7448401/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/7448401"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/7448401/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/7448401"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/7448401">
-    <foaf:name>Frazier, Adrian</foaf:name>
-    <foaf:name>Frazier, Adrian.</foaf:name>
-    <foaf:name>Frazier, Adrian Woods</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/151700036"/>
-    <rdaGr2:dateOfBirth>1900</rdaGr2:dateOfBirth>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12263565q#foaf:Person"/>
-    <foaf:name>Frazier, Adrien</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Woods Frazier, Adrian</foaf:name>
-    <foaf:name>Frazier, Adrian Woods.</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12263565#skos:Concept">
-    <skos:prefLabel>Frazier, Adrian Woods.</skos:prefLabel>
-    <skos:altLabel>Frazier, Adrian.</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12263565q"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12263565q"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/7448401"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++87133431#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:altLabel>Frazier, Adrian.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/7448401"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n87133431"/>
-    <skos:prefLabel>Frazier, Adrian Woods.</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/7448401/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/7448401"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
 </rdf:RDF>

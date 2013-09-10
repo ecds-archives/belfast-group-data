@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+   xmlns:grs="http://www.georss.org/georss/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yaddo">
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Yaddo.jpg/200px-Yaddo.jpg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Yaddo"/>
+    <dbpprop:headquarters rdf:resource="http://dbpedia.org/resource/Saratoga_Springs,_New_York"/>
+    <rdfs:label xml:lang="de">Yaddo</rdfs:label>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Yaddo"/>
+    <dbpedia-owl:formationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1926-01-01T00:00:00+02:00</dbpedia-owl:formationYear>
+    <dbpedia-owl:regionServed rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dbpedia-owl:abstract xml:lang="fr">Yaddo est une célèbre colonie d'artistes située à Saratoga Springs dans l'État de New York aux États-Unis. Son but est de développer la créativité des artistes en mettant à leur disposition un environnement favorable au travail. Elle offre des résidences aux artistes de tous horizons : chorégraphie, peinture, cinéma, littérature, musique, théâtre, photographie, gravure, sculpture, et art vidéo.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_art"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Yaddo"/>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01ntkd"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1926_establishments"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Saratoga_Springs,_New_York"/>
+    <dbpprop:purpose xml:lang="en">To nurture the creative process by providing an opportunity for artists to work without interruption in a supportive environment</dbpprop:purpose>
+    <rdfs:label xml:lang="en">Yaddo</rdfs:label>
+    <rdfs:comment xml:lang="de">Yaddo ist eine 1,6 km² große Künstlerkolonie in Saratoga Springs, New York.</rdfs:comment>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-73.7581 43.0685)</geo:geometry>
+    <rdfs:comment xml:lang="fr">Yaddo est une célèbre colonie d'artistes située à Saratoga Springs dans l'État de New York aux États-Unis. Son but est de développer la créativité des artistes en mettant à leur disposition un environnement favorable au travail. Elle offre des résidences aux artistes de tous horizons : chorégraphie, peinture, cinéma, littérature, musique, théâtre, photographie, gravure, sculpture, et art vidéo.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:abstract xml:lang="en">Yaddo is an artists' community located on a 400 acre (1.6 km²) estate in Saratoga Springs, New York. Its mission is "to nurture the creative process by providing an opportunity for artists to work without interruption in a supportive environment. " It offers residencies to artists working in choreography, film, literature, musical composition, painting, performance art, photography, printmaking, sculpture, and video. Collectively, artists who have worked at Yaddo have won 66 Pulitzer Prizes, 27 MacArthur Fellowships, 61 National Book Awards, 24 National Book Critics Circle Awards, 108 Rome Prizes, 49 Whiting Writers' Awards, a Nobel Prize, and countless other honors. Yaddo is included in the Union Avenue Historic District.</dbpedia-owl:abstract>
+    <grs:point xml:lang="en">43.06848 -73.75813</grs:point>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Yaddo"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-73.7581</geo:long>
+    <dbpprop:formation rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1926</dbpprop:formation>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.yaddo.org"/>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/6/66/Yaddo.jpg"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Yaddo?oldid=484765800"/>
+    <dbpprop:caption xml:lang="en">Yaddo, Circa 1905</dbpprop:caption>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://yaddo.org/"/>
+    <dbpprop:regionServed rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:comment xml:lang="en">Yaddo is an artists' community located on a 400 acre (1.6 km²) estate in Saratoga Springs, New York. Its mission is "to nurture the creative process by providing an opportunity for artists to work without interruption in a supportive environment. " It offers residencies to artists working in choreography, film, literature, musical composition, painting, performance art, photography, printmaking, sculpture, and video.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="de">Yaddo ist eine 1,6 km² große Künstlerkolonie in Saratoga Springs, New York.</dbpedia-owl:abstract>
+    <dbpprop:website rdf:resource="http://yaddo.org/"/>
+    <foaf:name xml:lang="en">Yaddo</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Artist_colonies"/>
+    <dbpedia-owl:purpose xml:lang="en">To nurture the creative process by providing an opportunity for artists to work without interruption in a supportive environment</dbpedia-owl:purpose>
+    <dbpprop:type rdf:resource="http://dbpedia.org/resource/Art_colony"/>
+    <dbpprop:name xml:lang="en">Yaddo</dbpprop:name>
+    <dbpedia-owl:headquarter rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.0685</geo:lat>
+    <dbpprop:headquarters rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <dbpedia-owl:headquarter rdf:resource="http://dbpedia.org/resource/Saratoga_Springs,_New_York"/>
+    <dbpprop:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">250</dbpprop:size>
+    <dbpedia-owl:type rdf:resource="http://dbpedia.org/resource/Art_colony"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_organization"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
+    <foaf:homepage rdf:resource="http://yaddo.org/"/>
+  </rdf:Description>
+</rdf:RDF>

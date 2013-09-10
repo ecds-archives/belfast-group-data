@@ -8,159 +8,168 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00438211#skos:Concept">
-    <skos:altLabel>ドラブル, マーガレット</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>ドラブル, M</skos:altLabel>
-    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118527126#skos:Concept">
-    <skos:altLabel>Doraburu, Māgaretto, 1939-</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Swift, Margaret, 1939-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
-    <skos:altLabel>Drėbbl, Margaret, 1939-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11715984#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11900560#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb119005603"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>j Swift Margaret 1939-....</skos:altLabel>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb119005603"/>
-    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C237306#skos:Concept">
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/237306#concept"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
-    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0014C1051#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
-    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068345801#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
-    <skos:altLabel>Drabble Swift, Margaret, 1939-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79055075#skos:Concept">
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79055075"/>
-    <skos:altLabel>Doraburu, Māgaretto, 1939-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:altLabel>Swift, Margaret, 1939-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++96208524#skos:Concept">
     <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>드래블, 마거릿, 1939-</skos:altLabel>
-    <skos:altLabel>Drėbbl, Margaret, 1939-</skos:altLabel>
-    <skos:altLabel>Dŭraebŭl, Magŏrit, 1939-</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/10100">
-    <foaf:name>드래블, 마거릿, 1939-</foaf:name>
-    <foaf:name>ドラブル, マーガレット</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Drabble, Margaret</foaf:name>
-    <foaf:name>Drėbbl, Margaret, 1939-</foaf:name>
-    <foaf:name>ドラブル, M</foaf:name>
-    <foaf:name>Doraburu, Māgaretto, 1939-</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118527126"/>
-    <foaf:name>Dŭraebŭl, Magŏrit, 1939-</foaf:name>
-    <foaf:name>Drabble Swift, Margaret, 1939-</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/026836718/id"/>
-    <rdaGr2:dateOfBirth>1939-06-05</rdaGr2:dateOfBirth>
-    <foaf:name>j Swift Margaret 1939-....</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb119005603#foaf:Person"/>
-    <foaf:name>Drabblová, Margaret.</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/237306"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Margaret_Drabble"/>
-    <foaf:name>Swift, Margaret</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Drabble, Margaret, 1939-....</foaf:name>
-    <foaf:name>Swift, Margaret, 1939-</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CMargaret_Drabble#skos:Concept">
-    <skos:prefLabel>Drabble, Margaret</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/10100/">
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/10100"/>
+    <skos:altLabel>Drabblová, Margaret.</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/10100/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1100072#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <skos:prefLabel>Drabble, Margaret</skos:prefLabel>
-    <skos:altLabel>Swift, Margaret</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C88435#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Drabble, Margaret</skos:altLabel>
-    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035044328#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
-    <skos:altLabel>Swift, Margaret, 1939-</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990001857#skos:Concept">
-    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <skos:altLabel>Swift, Margaret, 1939-</skos:altLabel>
+    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026836718#skos:Concept">
-    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:altLabel>Swift, Margaret</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++96208524#skos:Concept">
-    <skos:altLabel>Drabblová, Margaret.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
     <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/10100/#foaf:Person">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/10100"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  <rdf:Description rdf:about="http://viaf.org/viaf/10100/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/10100"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000040651#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
     <skos:altLabel>Swift, Margaret, 1939-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11715984#skos:Concept">
+    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990001857#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:altLabel>Swift, Margaret, 1939-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
     <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/10100/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/10100"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0014C1051#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118527126#skos:Concept">
+    <skos:altLabel>Swift, Margaret, 1939-</skos:altLabel>
+    <skos:altLabel>Drėbbl, Margaret, 1939-</skos:altLabel>
+    <skos:altLabel>Doraburu, Māgaretto, 1939-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CMargaret_Drabble#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Drabble, Margaret</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/10100">
+    <foaf:name>Drable, Mārgarita, 1939-</foaf:name>
+    <foaf:name>Swift, Margaret</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Drėbbl, Margaret, 1939-</foaf:name>
+    <foaf:name>ドラブル, M</foaf:name>
+    <foaf:name>Swift, Margaret, 1939-</foaf:name>
+    <foaf:name>Drabble Swift, Margaret, 1939-</foaf:name>
+    <foaf:name>드래블, 마거릿, 1939-</foaf:name>
+    <foaf:name>Drabblová, Margaret.</foaf:name>
+    <foaf:name>Drabble, Margaret</foaf:name>
+    <foaf:name>ドラブル, マーガレット</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/026836718/id"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/237306"/>
+    <rdaGr2:dateOfBirth>1939-06-05</rdaGr2:dateOfBirth>
+    <foaf:name>Dŭraebŭl, Magŏrit, 1939-</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118527126"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Margaret_Drabble"/>
+    <foaf:name>Дрэббл, Маргарет, 1939-</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb119005603#foaf:Person"/>
+    <foaf:name>Drabble, Margaret, 1939-....</foaf:name>
+    <foaf:name>Doraburu, Māgaretto, 1939-</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1100072#skos:Concept">
+    <skos:altLabel>Swift, Margaret</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Drabble, Margaret</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79055075#skos:Concept">
+    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
+    <skos:altLabel>Drėbbl, Margaret, 1939-</skos:altLabel>
+    <skos:altLabel>Doraburu, Māgaretto, 1939-</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79055075"/>
+    <skos:altLabel>드래블, 마거릿, 1939-</skos:altLabel>
+    <skos:altLabel>Dŭraebŭl, Magŏrit, 1939-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Swift, Margaret, 1939-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000025226#skos:Concept">
+    <skos:altLabel>Drable, Mārgarita, 1939-</skos:altLabel>
+    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
+    <skos:altLabel>Дрэббл, Маргарет, 1939-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C237306#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
+    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/237306#concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068345801#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
+    <skos:altLabel>Drabble Swift, Margaret, 1939-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11900560#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
+    <skos:altLabel>Swift, Margaret, 1939-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb119005603"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb119005603"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00438211#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>ドラブル, M</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
+    <skos:altLabel>ドラブル, マーガレット</skos:altLabel>
+    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C88435#skos:Concept">
+    <skos:altLabel>Drabble, Margaret</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Drabble, Margaret, 1939-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/10100"/>
   </rdf:Description>
 </rdf:RDF>

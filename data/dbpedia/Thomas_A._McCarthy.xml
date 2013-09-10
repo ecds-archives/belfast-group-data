@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_A._McCarthy">
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1940</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdfs:comment xml:lang="en">Thomas McCarthy (born 1940) is John Shaffer Professor of Philosophy Emeritus at Northwestern University. Before joining Northwestern in 1985, he taught for four years at Munich University and for thirteen years at Boston University. After retiring from Northwestern in 2006, he served for three years as William H. Orrick Visiting Professor at Yale University.</rdfs:comment>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GuggenheimFellows"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Thomas_A._McCarthy"/>
+    <foaf:givenName xml:lang="en">Thomas A.</foaf:givenName>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Thomas_A._McCarthy?oldid=476195951"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Thomas_A._McCarthy"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.047sk5n"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_philosophy_academics"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1940_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPhilosophers"/>
+    <dbpprop:name xml:lang="en">McCarthy, Thomas A.</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Northwestern_University_faculty"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <foaf:name xml:lang="en">Thomas A. McCarthy</foaf:name>
+    <dbpedia-owl:abstract xml:lang="en">Thomas McCarthy (born 1940) is John Shaffer Professor of Philosophy Emeritus at Northwestern University. Before joining Northwestern in 1985, he taught for four years at Munich University and for thirteen years at Boston University. After retiring from Northwestern in 2006, he served for three years as William H. Orrick Visiting Professor at Yale University. Over the course of his academic career, McCarthy's work was supported by grants and fellowships from the National Endowment for the Humanities, the Alexander von Humboldt Foundation, the American Council of Learned Societies, and the Guggenheim Foundation. Early in his career he wrote and taught principally in the philosophy of logic and mathematics and then in the philosophy of the social sciences. Subsequently, and for the bulk of his career, he worked in the general area of critical social and political theory, and in particular on the work of Jürgen Habermas, of which he is widely regarded as the foremost English-language interpreter. During his last decade of teaching, McCarthy focused on theoretical issues in the history of racist and imperialist thought, and particularly on their interweaving in theories of progress and development.</dbpedia-owl:abstract>
+    <foaf:surname xml:lang="en">McCarthy</foaf:surname>
+  </rdf:Description>
+</rdf:RDF>

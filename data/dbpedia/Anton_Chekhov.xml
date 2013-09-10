@@ -10,634 +10,238 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joshua_Ferris">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Radu_Pavel_Gheo">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Greek_Church_and_Greek_School_(Taganrog)">
-    <dbpprop:graduates rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Checkov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Romance_with_a_Double_Bass">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gleb_Uspensky">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_tschechow">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_de_Maupassant">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Tschechow">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.nytimes.com/N39576966029044157403">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Checkov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Checkhov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dark_Eyes_(film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/%D0%90%D0%BD%D1%82%D0%BE%CC%81%D0%BD_%D0%9F%D0%B0%CC%81%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%A7%D0%B5%CC%81%D1%85%D0%BE%D0%B2">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_Munro">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Horton_Foote">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Chexov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Leskov">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Truman_Capote">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_Lili">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Chekhov">
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アントン・チェーホフ"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Raymond_Carver"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
-    <dbpedia-owl:abstract xml:lang="ko">안톤 파블로비치 체호프은 러시아의 단편 소설가이자 극작가이다.</dbpedia-owl:abstract>
-    <rdfs:label xml:lang="vi">Anton Pavlovich Chekhov</rdfs:label>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromTaganrog"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Anton_Czechow"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Alexander_Ostrovsky"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_novelists"/>
-    <rdfs:comment xml:lang="es">Antón Pávlovich Chéjov (en ruso Антон Павлович Чехов), fue un médico, escritor y dramaturgo ruso. Encuadrable en la corriente naturalista, fue maestro del relato corto, siendo considerado como uno de los más importantes escritores de cuentos de la historia de la literatura. Como dramaturgo escribió cuatro obras, y sus relatos cortos han sido aclamados por escritores y crítica.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="no">Anton Pavlovitsj Tsjekhov regnes som en av verdenslitteraturens fremste novelleforfattere og dramatikere; ved siden av Shakespeare og Ibsen blant de mest spilte dramatikerne i verden. Opprinnelig hadde ikke Tsjekhov ambisjoner om å bli forfatter i egentlig forstand; de tidlige fortellingene skrev han for å skaffe foreldrene og søsknene penger til livsopphold og til å finansiere studiene. Men etter hvert som de kunstneriske ambisjonene vokste, gjorde han formale innovasjoner som påvirket utviklingen av den moderne novellekunsten. Originaliteten ligger i en tidlig bruk av bevissthetsstrøm-teknikker – som senere ble brukt av James Joyce og andre modernistiske forfattere – kombinert med at han avviste den tradisjonelle historiestrukturens moralske finalitet og til gjengjeld insisterte på at forfatterens rolle var å stille spørsmål, ikke å svare på dem. De fire modne Tsjekhov-stykkene, Onkel Vanja, Måken, Tre søstre og Kirsebærhagen, er svært krevende både for skuespillerensemblene og for publikum fordi stykkene mangler tradisjonell, ytre handling. Istedet flyter det en understrøm av emosjoner under en dialog som gjerne dreier seg om dagligdagse, trivielle emner, og dette krever at publikum selv fyller ut, dikter med og lever seg inn i karakterenes verdensanskuelse og situasjon. Tsjekhov praktiserte som lege gjennom størstedelen av sin litterære karriere, men tjente lite på det, da han stort sett behandlet pasientene gratis; det var inntektene fra forfatterskapet han levde av.</dbpedia-owl:abstract>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Vladimir_Nabokov"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Virginia_Woolf"/>
-    <rdfs:comment xml:lang="ko">안톤 파블로비치 체호프은 러시아의 단편 소설가이자 극작가이다.</rdfs:comment>
-    <dbpprop:name xml:lang="en">Chekhov, Anton Pavlovich</dbpprop:name>
-    <rdfs:comment xml:lang="no">Anton Pavlovitsj Tsjekhov regnes som en av verdenslitteraturens fremste novelleforfattere og dramatikere; ved siden av Shakespeare og Ibsen blant de mest spilte dramatikerne i verden. Opprinnelig hadde ikke Tsjekhov ambisjoner om å bli forfatter i egentlig forstand; de tidlige fortellingene skrev han for å skaffe foreldrene og søsknene penger til livsopphold og til å finansiere studiene.</rdfs:comment>
-    <rdfs:label xml:lang="cs">Anton Pavlovič Čechov</rdfs:label>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Russia"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdfs:comment xml:lang="hu">Anton Pavlovics Csehov (Антон Павлович Чехов) orosz író, drámaíró. Gogol, Tolsztoj, Dosztojevszkij és Turgenyev mellett a 19. századi orosz irodalom legnagyobbjai közé tartozik. A 20. századi drámairodalom egyik legnagyobb hatású alakja, az úgynevezett „drámaiatlan” dráma megteremtője, a novella műfajának megújítója.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1860_births"/>
-    <rdfs:label xml:lang="en">Anton Chekhov</rdfs:label>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/John_Cheever"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Dramatist110030277"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Nikolai_Gogol"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Guy_de_Maupassant"/>
-    <dc:description xml:lang="en">Doctor, short-story writer, playwright</dc:description>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_tuberculosis"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MedicalWriters"/>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Anton_Tchekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Ivan_Turgenev"/>
-    <dbpprop:alt xml:lang="en">Chekhov seated at a desk</dbpprop:alt>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_theatre"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Anton_Čechov"/>
-    <rdfs:comment xml:lang="uk">Анто́н Па́влович Че́хов — російський драматург і прозаїк. Батько письменника (1823—1898) — Павло Ігорович Чехов. Мати письменника — Євгенія Яківна Морозова — (1835—1919). Лікар за фахом.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.archive.org/search.php?query=mediatype%3A%28texts%29%20-contributor%3Agutenberg%20AND%20%28subject%3A%22Chekhov%2C%20Anton%20Pavlovich%2C%201860-1904%22%20OR%20creator%3A%22Chekhov%2C%20Anton%20Pavlovich%2C%201860-1904%22%20OR%20creator%3A%22Anton%20Pavlovich%20Chekhov%22%20OR%20title%3A%22Anton%20Pavlovich%20Chekhov%22%20OR%20description%3A%22Anton%20Pavlovich%20Chekhov%22%20OR%20subject%3A%22Chekhov%2C%20Anton%201860-1904%22%20OR%20creator%3A%22Chekhov%2C%20Anton%2C%201860-1904%22%20OR%20creator%3A%22Anton%20Chekhov%22%20OR%20title%3A%22Anton%20Chekhov%22%20OR%20description%3A%22Anton%20Chekhov%22%29"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Moscow_Art_Theater"/>
-    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Αντόν_Τσέχωφ"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/etext/6408"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Jhumpa_Lahiri"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MoscowStateUniversityAlumni"/>
-    <rdfs:comment xml:lang="it"></rdfs:comment>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
-    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1860-01-29</dbpprop:birthDate>
-    <rdfs:comment xml:lang="ja">アントン・パーヴロヴィチ・チェーホフ（ロシア語Антон Павлович Чехов／ラテン文字（英文表記）Anton Pavlovich Chekhov、1860年1月29日・タガンログ - 1904年7月15日・バーデンワイラー）は、ロシアを代表する劇作家であり、短編小説家。</rdfs:comment>
-    <foaf:name xml:lang="en">Anton Chekhov</foaf:name>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/J._D._Salinger"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RussianDramatistsAndPlaywrights"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/German_Empire"/>
-    <rdfs:comment xml:lang="fr">Anton Pavlovitch Tchekhov, translittération scientifique Anton Pavlovič Čechov, né le 17/ 29 janvier 1860 à Taganrog et mort le 2/ 15 juillet 1904 à Badenweiler, est un écrivain, nouvelliste et dramaturge russe, médecin de profession. Tout en exerçant la médecine, principalement bénévolement, il publie entre 1880 et 1903 plus de 600 œuvres littéraires.</rdfs:comment>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Abdulla_Qahhor"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Honor%C3%A9_de_Balzac"/>
-    <dbpedia-owl:abstract xml:lang="uk">Анто́н Па́влович Че́хов — російський драматург і прозаїк. Батько письменника (1823—1898) — Павло Ігорович Чехов. Мати письменника — Євгенія Яківна Морозова — (1835—1919). Лікар за фахом.</dbpedia-owl:abstract>
-    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">95216565</dbpprop:viaf>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anton_Chekhov"/>
-    <dbpedia-owl:abstract xml:lang="hu">Anton Pavlovics Csehov (Антон Павлович Чехов) orosz író, drámaíró. Gogol, Tolsztoj, Dosztojevszkij és Turgenyev mellett a 19. századi orosz irodalom legnagyobbjai közé tartozik. A 20. századi drámairodalom egyik legnagyobb hatású alakja, az úgynevezett „drámaiatlan” dráma megteremtője, a novella műfajának megújítója.</dbpedia-owl:abstract>
-    <foaf:name xml:lang="en">Anton Pavlovich Chekhov</foaf:name>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Charles_Bukowski"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/J._D._Salinger"/>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/d/d3/Chekhov_140-190_for_collage.jpg"/>
-    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.kirjasto.sci.fi/tsehov.htm"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Guram_Dochanashvili"/>
-    <dbpedia-owl:abstract xml:lang="cs">Anton Pavlovič (také Iljevič) Čechov, rusky: Антон Павлович Чехов, 29. ledna (17. ledna podle juliánského kalendáře) 1860 Taganrog, Rusko – 15. (2. ) července 1904, Badenweiler, Německo, byl ruský dramatik, povídkář a prozaik. Čechov navštěvoval v letech 1868 až 1879 gymnázium v Taganrogu. Poté šel na univerzitu do Moskvy, kde vystudoval medicínu. Čechov pracoval jako lékař a přispíval do humoristických časopisů. Od roku 1882 psal pro petrohradské noviny. Na svém statku u Moskvy ošetřoval rolníky zdarma; od jednoho ze svých pacientů se nakazil tuberkulózou. Už nemocný v roce 1890 podnikl cestu na Sibiř, aby psal o nucených pracích na vězeňském ostrově Sachalin. Jeho zpráva z cesty popisuje otřesný život vyhnanců v carské říši. Roku 1901 se Čechov oženil s herečkou Olgou Knipperovou. Kvůli zhoršující se plicní tuberkulóze se přestěhoval do Jalty na Krymu. V létě 1904 odjel do německých lázní Badenweiler, kde 15. července zemřel. Je pohřben v Moskvě.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/David_Means"/>
-    <rdfs:comment xml:lang="de">Anton Pawlowitsch Tschechow [ˈtʃʲɛxəf] war ein Schriftsteller, Novellist und Dramatiker aus Russland. Er entstammte einer kleinbürgerlichen südrussischen Familie und war Arzt von Beruf, betrieb Medizin jedoch fast ausschließlich ehrenamtlich. Gleichzeitig schrieb und publizierte er zwischen 1880 und 1903 insgesamt über 600 literarische Werke. International ist Tschechow vor allem als Dramatiker durch seine Theaterstücke wie Drei Schwestern, Die Möwe oder Der Kirschgarten bekannt.</rdfs:comment>
-    <rdfs:comment xml:lang="sv">Anton Pavlovitj Tjechov, född 29 januari 1860 i Taganrog i Ryssland, död 15 juli 1904 i Badenweiler i Baden i Tyskland, var en rysk novellförfattare, dramatiker och läkare, ansedd som en av världens historiskt största novellförfattare. Hans karriär som dramatiker resulterade i fyra klassiker och hans främsta noveller högaktas av författare och kritiker.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="vi">Anton Pavlovich Chekhov là nhà viết kịch người Nga nổi tiếng và có ảnh hưởng lớn trên thế giới với thể loại truyện ngắn.</dbpedia-owl:abstract>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Ivan_Turgenev"/>
-    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rodczRCm2QdiCI8GYpwGT6A"/>
-    <dbpedia-owl:abstract xml:lang="pl">Anton Pawłowicz Czechow – rosyjski nowelista i dramatopisarz.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.archive.org/search.php?query=%28creator%3Achekhov%20OR%20title%3Achekhov%20OR%20subject%3Achekhov%20OR%20description%3Achekhov%29%20AND%20mediatype%3Aaudio"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Moscow_State_University_alumni"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.online-literature.com/anton_chekhov/"/>
-    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118638289</dbpprop:pnd>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Novodevichy_Cemetery"/>
-    <rdfs:comment xml:lang="pl">Anton Pawłowicz Czechow – rosyjski nowelista i dramatopisarz.</rdfs:comment>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Tennessee_Williams"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Chekhov_140-190_for_collage.jpg/200px-Chekhov_140-190_for_collage.jpg"/>
-    <dbpedia-owl:abstract xml:lang="ja">アントン・パーヴロヴィチ・チェーホフ（ロシア語Антон Павлович Чехов／ラテン文字（英文表記）Anton Pavlovich Chekhov、1860年1月29日・タガンログ - 1904年7月15日・バーデンワイラー）は、ロシアを代表する劇作家であり、短編小説家。</dbpedia-owl:abstract>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Maxim_Gorky"/>
-    <dbpprop:nationality xml:lang="en">Russian</dbpprop:nationality>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/안톤_체호프"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Henrik_Ibsen"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Alice_Munro"/>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Anton_Chekhov?oldid=494659889"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.eldritchpress.org/ac/gorky.htm"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Alexander_Ostrovsky"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Ivan_Bunin"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Frank_O'Connor"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Constantin_Stanislavski"/>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1904-07-15</dbpedia-owl:deathDate>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/etext/12494"/>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
-    <dbpprop:shortDescription xml:lang="en">Doctor, short-story writer, playwright</dbpprop:shortDescription>
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Badenweiler"/>
-    <rdfs:comment xml:lang="en">Anton Pavlovich Chekhov (29 January 1860 – 15 July 1904) was a Russian physician, dramatist and author who is considered to be among the greatest writers of short stories in history. His career as a dramatist produced four classics and his best short stories are held in high esteem by writers and critics. Chekhov practised as a doctor throughout most of his literary career: "Medicine is my lawful wife", he once said, "and literature is my mistress.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Anton_Pawlowitsch_Tschechow"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Sreda_(literary_group)"/>
-    <dbpedia-owl:abstract xml:lang="sv">Anton Pavlovitj Tjechov, född 29 januari 1860 i Taganrog i Ryssland, död 15 juli 1904 i Badenweiler i Baden i Tyskland, var en rysk novellförfattare, dramatiker och läkare, ansedd som en av världens historiskt största novellförfattare. Hans karriär som dramatiker resulterade i fyra klassiker och hans främsta noveller högaktas av författare och kritiker. Tjechov arbetade som läkare under större delen av sin litterära karriär, något han uttryckte som "medicinen är min äkta hustru och litteraturen min älskarinna" i ett brev till Aleksej Suvorin 1888. Tjechov slutade på teatern efter det katastrofala mottagandet av Måsen år 1896, men pjäsen hyllades 1898 av Konstantin Stanislavskijs Konstnärliga teatern i Moskva, som senare även framförde Onkel Vanja och uruppförde Tjechovs två sista pjäser, Tre systrar och Körsbärsträdgården. Dessa fyra verk utmanar skådespelarna såväl som publiken, då Tjechov istället för konventionella handlingar erbjuder en "stämningsfull teater", och ett "nedsänkt liv i texten". Tjechov skrev under sina tidigare år främst berättelser för att tjäna pengar. Under senare år utvecklades emellertid ambitionerna och hans verk kom att innebära en förnyelse inom litteraturen. Tjechov anses av många vara fader till den moderna novellen. Hans verk särpräglas av ett tidigt användande av inre monolog, något som senare även använts av James Joyce och andra modernistiska författare. Detta kombineras med att han motsatte sig den morala slutgiltigheten hos den traditionella berättelsen. Han ursäktade sig aldrig för de svårigheter som detta frambringade hos läsarna, utan vidhöll att en författarens främsta roll var att ställa läsaren inför ett dilemma, inte att lösa det. Anton Tjechov har fått en krater uppkallad efter sig på Merkurius, Chekovkratern.</dbpedia-owl:abstract>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Bob_Dylan"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_physicians"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Katherine_Mansfield"/>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-15</dbpedia-owl:deathDate>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://ilibrary.ru/author/chekhov/"/>
-    <dbpedia-owl:abstract xml:lang="fi">Anton Pavlovitš Tšehov oli venäläinen kirjailija, joka uudisti novellia ja näytelmäkirjallisuutta. Anton Tšehovin tuotanto sijoittuu realismin ja modernismin väliin: kerronta on realistista, mutta tapa hahmottaa maailma uudenlainen, usein impressionistiseksi kuvailtu. Sitä ei voi sijoittaa mihinkään tiettyyn virtaukseen. Tšehovin kerronta on puolueetonta, objektiivista ja tarkkaa. Kieli on konkreettista ja yksinkertaista. Kertomukset ovat tiiviitä, vailla johdantoja ja juonenkäänteitä. Tšehovin toistuvia teemoja ovat ihmisen eristyneisyys, yksinäisyys ja tarpeettomuus. Novellillaan ”Tarpeettomia ihmisiä” Tšehov liittyi tietoisesti venäläiseen tarpeettoman ihmisen kuvauksen perinteeseen. Hänen koko tuotantoaan voidaan pitää tutkielmana tarpeettomasta ihmisestä. Tarpeettomuus, eristyneisyys ja yksinäisyys ovat Tšehoville jotakin ihmisluontoon kuuluvaa, eivät poikkeuksellista. Ne näkyvät hahmojen keskinäisessä kommunikaatiossa tai sen puutteessa sekä heidän suhteessaan yhteiskuntaan.</dbpedia-owl:abstract>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Cornel_West"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Frank_O'Connor"/>
-    <rdfs:label xml:lang="zh">安东·帕夫洛维奇·契诃夫</rdfs:label>
-    <rdfs:comment xml:lang="ca">Anton Pàvlovitx Txèkhov, fou un dels principals dramaturgs i narradors de Rússia. Va nàixer a Taganrog, a la Rússia meridional, el 29 de gener de 1860, i va morir de tuberculosi al balneari de Badenweiler, Alemanya, el 15 de juliol de 1904. La seua carrera com a dramaturg va donar com a resultat quatre obres clàssiques del teatre, mentre que els seus millors contes són molt estimats per escriptors i crítics.</rdfs:comment>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Guram_Dochanashvili"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-17</dbpedia-owl:birthDate>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Nikolai_Leskov"/>
-    <dbpprop:caption rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</dbpprop:caption>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Nikolai_Leskov"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Constantin_Stanislavski"/>
-    <rdfs:label xml:lang="ca">Anton Txèkhov</rdfs:label>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Ivan_Bunin"/>
     <dbpedia-owl:individualisedPnd xml:lang="de">118638289</dbpedia-owl:individualisedPnd>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Cornel_West"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0zm1"/>
-    <dbpedia-owl:abstract xml:lang="nl">Anton Pavlovitsj Tsjechov was een Russisch schrijver, voornamelijk van toneelstukken en korte verhalen. Met name als schrijver van korte verhalen wordt Tsjechov door velen beschouwd als een der grootsten uit de literatuurgeschiedenis, zo niet de grootste.</dbpedia-owl:abstract>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Maxim_Gorky"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Anton_Chekhov"/>
-    <dbpedia-owl:abstract xml:lang="ca">Anton Pàvlovitx Txèkhov, fou un dels principals dramaturgs i narradors de Rússia. Va nàixer a Taganrog, a la Rússia meridional, el 29 de gener de 1860, i va morir de tuberculosi al balneari de Badenweiler, Alemanya, el 15 de juliol de 1904. La seua carrera com a dramaturg va donar com a resultat quatre obres clàssiques del teatre, mentre que els seus millors contes són molt estimats per escriptors i crítics. Va practicar la medicina durant gran part de la seua carrera literària: «La medicina és la meua legítima esposa», va dir, «i la literatura la meua amant»". Va renunciar al teatre després de la desastrosa acollida de La gavina l'any 1896; però l'obra va ser reestrenada amb èxit per Konstantín Stanislavski al Teatre d'art de Moscou. A conseqüència d'això, va produir L'oncle Vània i va estrenar les dues darreres obres de teatre de Txèkhov, Les tres germanes i L'hort dels cirerers. Aquestes quatre obres plantegen un especial repte tant per al conjunt actoral com per al públic, perquè en lloc d'una acció convencional Txèkhov ofereix un «teatre dels estats d'ànim» i una «vida submergida en el text». No tothom va apreciar el repte: se sap que Lev Tolstoi va dir a Txèkhov, «Saps?, no puc tolerar Shakespeare, però els teus drames són encara pitjors»". No obstant això, Tolstoi admirava els contes de Txèkhov. Al principi Txèkhov escrivia històries només per diners, però a mesura que la seua ambició artística va anar creixent, va fer innovacions formals que han influït en l'evolució del conte modern. La seua originalitat consisteix en un primerenc ús de la tècnica del corrent de consciència, posteriorment emprada per Virginia Woolf i d'altres modernistes, combinada amb el rebuig de la finalitat moral de l'estructura tradicional de la narració. No va excusar-se per les dificultats a què sotmetia els lectors, insistint que el paper d'un artista era plantejar preguntes, no contestar-les.</dbpedia-owl:abstract>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Alice_Munro"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.readmefree.com/anton-chekhov"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.tgpi.ttn.ru"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Dmitry_Grigorovich"/>
-    <rdfs:comment xml:lang="vi">Anton Pavlovich Chekhov là nhà viết kịch người Nga nổi tiếng và có ảnh hưởng lớn trên thế giới với thể loại truyện ngắn.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Anton_Pavlovič_Čechov"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Katherine_Mansfield"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Ernest_Hemingway"/>
-    <dbpprop:tsurl xml:lang="en">viaf/95216565</dbpprop:tsurl>
-    <rdfs:comment xml:lang="nl">Anton Pavlovitsj Tsjechov was een Russisch schrijver, voornamelijk van toneelstukken en korte verhalen. Met name als schrijver van korte verhalen wordt Tsjechov door velen beschouwd als een der grootsten uit de literatuurgeschiedenis, zo niet de grootste.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Bob_Dylan"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Ernest_Hemingway"/>
-    <dbpedia-owl:abstract xml:lang="en">Anton Pavlovich Chekhov (29 January 1860 – 15 July 1904) was a Russian physician, dramatist and author who is considered to be among the greatest writers of short stories in history. His career as a dramatist produced four classics and his best short stories are held in high esteem by writers and critics. Chekhov practised as a doctor throughout most of his literary career: "Medicine is my lawful wife", he once said, "and literature is my mistress. " Chekhov renounced the theatre after the disastrous reception of The Seagull in 1896, but the play was revived to acclaim in 1898 by Constantin Stanislavski's Moscow Art Theatre, which subsequently also produced Chekhov's Uncle Vanya and premiered his last two plays, Three Sisters and The Cherry Orchard. These four works present a challenge to the acting ensemble as well as to audiences, because in place of conventional action Chekhov offers a "theatre of mood" and a "submerged life in the text. " Chekhov had at first written stories only for financial gain, but as his artistic ambition grew, he made formal innovations which have influenced the evolution of the modern short story. His originality consists in an early use of the stream-of-consciousness technique, later adopted by James Joyce and other modernists, combined with a disavowal of the moral finality of traditional story structure. He made no apologies for the difficulties this posed to readers, insisting that the role of an artist was to ask questions, not to answer them.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="pt">Anton Pavlovitch Tchecov foi um médico, dramaturgo e escritor russo, considerado um dos maiores contistas de todos os tempos. Em sua carreira como dramaturgo criou quatro clássicos e seus contos tem sidos aclamados por escritores e críticos. Tchecov foi médico durante a maior parte de sua carreira literária, e em uma de suas cartas ele escreve a respeito: "A medicina é a minha legítima esposa; a literatura é apenas minha amante. " Tchecov renunciou do teatro e deixou de escrever obras teatrais após a péssima recepção de A Gaivota em 1896, mas a obra foi reencenada e aclamada em 1898, interpretada pela companhia Teatro de Arte de Moscou de Constantin Stanislavski que interpretaria também Tio Vânia (Дядя Ваня), As Três Irmãs (Три сестры) e O Jardim das Cerejeiras (Вишнëвый сад). Estas quatro obras representam um desafio para os atores, bem como para o público, porque no lugar da atuação convencional Tchecov oferece um "teatro de humores" e uma "vida submersa no texto. " Nem todos apreciaram o desafio: Liev Tolstói disse a Tchecov, "Sabe, eu não consigo tolerar Shakespeare, mas suas peças são ainda piores". No entanto, Tolstói admirava os contos de Tchecov. A princípio Tchecov escrevia simplesmente por razões financeiras, mas sua ambição artística cresceu, e ele fez inovações formais que influenciaram na evolução dos contos modernos. Sua originalidade consiste no uso da técnica de fluxo de consciência, mais tarde adotada por James Joyce e outros modernistas, além da rejeição do propósito moral presente na estrutura das obras tradicionais. Ele nunca fez nenhum pedido de desculpas pelas dificuldades impostas aos leitores, insistindo que o papel de um artista era o de fazer perguntas, não o de respondê-las.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_comedy_and_humour"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Fyodor_Dostoyevsky"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Sreda_(literary_group)"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RussianShortStoryWriters"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ibiblio.org/eldritch/ac/jr/index.htm"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Guy_de_Maupassant"/>
-    <rdfs:comment xml:lang="pt">Anton Pavlovitch Tchecov foi um médico, dramaturgo e escritor russo, considerado um dos maiores contistas de todos os tempos. Em sua carreira como dramaturgo criou quatro clássicos e seus contos tem sidos aclamados por escritores e críticos. Tchecov foi médico durante a maior parte de sua carreira literária, e em uma de suas cartas ele escreve a respeito: "A medicina é a minha legítima esposa; a literatura é apenas minha amante.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Chekhov_Anton_Pavlovich_1860-1904"/>
-    <dbpprop:id xml:lang="en">Anton+Pavlovich+Chekhov</dbpprop:id>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Henrik_Ibsen"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_dramatists_and_playwrights"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Taganrog"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Infectious_disease_deaths_in_Germany"/>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Anton_Tchekhov"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Чехов,_Антон_Павлович"/>
-    <rdfs:comment xml:lang="ru">Анто́н Па́влович Че́хов — выдающийся русский писатель, драматург, по профессии врач. Почётный академик Императорской Академии наук по Разряду изящной словесности. Является общепризнанным классиком мировой литературы. Его пьесы, в особенности «Вишнёвый сад», на протяжении ста лет ставятся во многих театрах мира. Один из самых известных мировых драматургов.</rdfs:comment>
-    <rdfs:comment xml:lang="fi">Anton Pavlovitš Tšehov oli venäläinen kirjailija, joka uudisti novellia ja näytelmäkirjallisuutta. Anton Tšehovin tuotanto sijoittuu realismin ja modernismin väliin: kerronta on realistista, mutta tapa hahmottaa maailma uudenlainen, usein impressionistiseksi kuvailtu. Sitä ei voi sijoittaa mihinkään tiettyyn virtaukseen. Tšehovin kerronta on puolueetonta, objektiivista ja tarkkaa. Kieli on konkreettista ja yksinkertaista. Kertomukset ovat tiiviitä, vailla johdantoja ja juonenkäänteitä.</rdfs:comment>
-    <dbpprop:lccn xml:lang="en">n/79/130807</dbpprop:lccn>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Tennessee_Williams"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-17</dbpprop:dateOfBirth>
-    <foaf:givenName xml:lang="en">Anton Pavlovich</foaf:givenName>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1904_deaths"/>
-    <dbpprop:occupation xml:lang="en">Physician, short story writer, playwright</dbpprop:occupation>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Leo_Tolstoy"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RussianPhysicians"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Anton_Chekhov"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/%C3%89mile_Zola"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_Orthodox_Christians"/>
-    <rdfs:comment xml:lang="cs">Anton Pavlovič (také Iljevič) Čechov, rusky: Антон Павлович Чехов, 29. ledna (17. ledna podle juliánského kalendáře) 1860 Taganrog, Rusko – 15. (2. ) července 1904, Badenweiler, Německo, byl ruský dramatik, povídkář a prozaik. Čechov navštěvoval v letech 1868 až 1879 gymnázium v Taganrogu. Poté šel na univerzitu do Moskvy, kde vystudoval medicínu. Čechov pracoval jako lékař a přispíval do humoristických časopisů. Od roku 1882 psal pro petrohradské noviny.</rdfs:comment>
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/German_Empire"/>
-    <dbpprop:alternativeNames xml:lang="en">Анто́н Па́влович Че́хов</dbpprop:alternativeNames>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Leo_Tolstoy"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Eastern_Orthodox_Christians_from_Russia"/>
-    <rdfs:label xml:lang="de">Anton Pawlowitsch Tschechow</rdfs:label>
-    <rdfs:comment xml:lang="zh">安东·帕夫洛维奇·契訶夫（俄文：Антон Павлович Чехов， 聆听，1860年1月29日－1904年7月15日），俄国的世界级短篇小说巨匠，其剧作也对20世纪戏剧产生了很大的影响。他坚持現實主義传统，注重描写俄国人民的日常生活，塑造具有典型性格的小人物，藉此忠實反映出當時俄國社會現況。他的作品的三大特征是对丑恶现象的嘲笑与对贫苦人民的深切的同情，以及作品的幽默性和艺术性。</rdfs:comment>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/David_Means"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.yaltachekhov.org"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Charles_Bukowski"/>
-    <dbpedia-owl:abstract xml:lang="ru">Анто́н Па́влович Че́хов — выдающийся русский писатель, драматург, по профессии врач. Почётный академик Императорской Академии наук по Разряду изящной словесности. Является общепризнанным классиком мировой литературы. Его пьесы, в особенности «Вишнёвый сад», на протяжении ста лет ставятся во многих театрах мира. Один из самых известных мировых драматургов. За 26 лет творчества Чехов создал около 900 различных произведений (коротких юмористических рассказов, серьёзных повестей, пьес), многие из которых стали классикой мировой литературы. Особенное внимание обратили на себя «Степь», «Скучная история», «Дуэль», «Палата № 6», «Рассказ неизвестного человека», «Мужики», «Человек в футляре», «В овраге», «Детвора», «Драма на охоте»; из пьес: «Иванов», «Чайка», «Дядя Ваня», «Три сестры», «Вишнёвый сад».</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RussianNovelists"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_short_story_writers"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Raymond_Carver"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Abdulla_Qahhor"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Honor%C3%A9_de_Balzac"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Badenweiler"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/John_Cheever"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Fyodor_Dostoyevsky"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/%C3%89mile_Zola"/>
-    <foaf:surname xml:lang="en">Chekhov</foaf:surname>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Jhumpa_Lahiri"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Taganrog"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Nikolai_Gogol"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Virginia_Woolf"/>
-    <dbpedia-owl:abstract xml:lang="de">Anton Pawlowitsch Tschechow [ˈtʃʲɛxəf] war ein Schriftsteller, Novellist und Dramatiker aus Russland. Er entstammte einer kleinbürgerlichen südrussischen Familie und war Arzt von Beruf, betrieb Medizin jedoch fast ausschließlich ehrenamtlich. Gleichzeitig schrieb und publizierte er zwischen 1880 und 1903 insgesamt über 600 literarische Werke. International ist Tschechow vor allem als Dramatiker durch seine Theaterstücke wie Drei Schwestern, Die Möwe oder Der Kirschgarten bekannt. Mit der für ihn typischen, wertneutralen und zurückhaltenden Art, Aspekte aus dem Leben und der Denkweise der Menschen in der russischen Provinz darzustellen, gilt Tschechow als einer der bedeutendsten Autoren der russischen Literatur.</dbpedia-owl:abstract>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1860-01-29</dbpedia-owl:birthDate>
-    <dbpedia-owl:birthName xml:lang="en">Anton Pavlovich Chekhov</dbpedia-owl:birthName>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Russian_Empire"/>
-    <dbpprop:birthName xml:lang="en">Anton Pavlovich Chekhov</dbpprop:birthName>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Vladimir_Nabokov"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.npr.org/templates/story/story.php?storyId=3845755"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Dmitry_Grigorovich"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Pushkin_Prize_winners"/>
+    <rdfs:comment xml:lang="fr">Anton Pavlovitch Tchekhov, translittération scientifique Anton Pavlovič Čechov, né le 17/ 29 janvier 1860 à Taganrog et mort le 2/ 15 juillet 1904 à Badenweiler, est un écrivain, nouvelliste et dramaturge russe, médecin de profession. Tout en exerçant la médecine, principalement bénévolement, il publie entre 1880 et 1903 plus de 600 œuvres littéraires.</rdfs:comment>
     <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Antón_Chéjov"/>
-    <dbpprop:signature xml:lang="en">Подпись_Антон_Чехов.png</dbpprop:signature>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1904-07-15</dbpprop:deathDate>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Russian_Empire"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_writers"/>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-15</dbpprop:dateOfDeath>
-    <rdfs:label xml:lang="uk">Чехов Антон Павлович</rdfs:label>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Taganrog"/>
-    <dbpedia-owl:abstract xml:lang="zh">安东·帕夫洛维奇·契訶夫（俄文：Антон Павлович Чехов， 聆听，1860年1月29日－1904年7月15日），俄国的世界级短篇小说巨匠，其剧作也对20世纪戏剧产生了很大的影响。他坚持現實主義传统，注重描写俄国人民的日常生活，塑造具有典型性格的小人物，藉此忠實反映出當時俄國社會現況。他的作品的三大特征是对丑恶现象的嘲笑与对贫苦人民的深切的同情，以及作品的幽默性和艺术性。</dbpedia-owl:abstract>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Mikhail_Bulgakov"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Taganrog"/>
-    <dbpedia-owl:abstract xml:lang="fr">Anton Pavlovitch Tchekhov, translittération scientifique Anton Pavlovič Čechov, né le 17/ 29 janvier 1860 à Taganrog et mort le 2/ 15 juillet 1904 à Badenweiler, est un écrivain, nouvelliste et dramaturge russe, médecin de profession. Tout en exerçant la médecine, principalement bénévolement, il publie entre 1880 et 1903 plus de 600 œuvres littéraires. Il est l’un des auteurs les plus connus de la littérature russe, notamment pour sa manière typique, neutre et retenue de décrire les aspects de la vie et de la pensée des hommes dans la province russe. Ami d’Ivan Bounine, de Maxime Gorki, de Fédor Chaliapine, d'Alexeï Souvorine, il est l’oncle de Mikhaïl Tchekhov.</dbpedia-owl:abstract>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpedia-owl:abstract xml:lang="es">Antón Pávlovich Chéjov (en ruso Антон Павлович Чехов), fue un médico, escritor y dramaturgo ruso. Encuadrable en la corriente naturalista, fue maestro del relato corto, siendo considerado como uno de los más importantes escritores de cuentos de la historia de la literatura. Como dramaturgo escribió cuatro obras, y sus relatos cortos han sido aclamados por escritores y crítica. Chéjov compaginó su carrera literaria con la medicina; en una de sus cartas escribió al respecto: La medicina es mi esposa legal; la literatura, sólo mi amante. Dejó de escribir obras teatrales después de la mala acogida que tuvo su obra La gaviota en el año 1896. Sin embargo, esta misma obra tuvo un gran éxito en el año 1898, interpretada por la compañía Teatro del Arte de Moscú de Konstantín Stanislavski, interpretando también Tío Vania ("Дядя Ваня"), Las tres hermanas ("Три сестры") y El jardín de los cerezos ("Вишнëвый сад"). Al principio Chéjov escribía simplemente por razones económicas, pero su ambición artística creció, introduciendo innovaciones que han influido en la evolución de los relatos cortos. Su originalidad consiste en el uso de la técnica del monólogo, adoptada más tarde por James Joyce y otros escritores del modernismo anglosajón, además del rechazo de la finalidad moral presente en la estructura de las obras tradicionales. No le preocupaban las dificultades que esto planteaba al lector, porque consideraba que el papel del artista es realizar preguntas, no responderlas.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Infectious_disease_deaths_in_Germany"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/etext/12494"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Αντόν_Τσέχωφ"/>
     <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Russia"/>
+    <rdfs:comment xml:lang="uk">Анто́н Па́влович Че́хов — російський драматург і прозаїк. Батько письменника (1823—1898) — Павло Ігорович Чехов. Мати письменника — Євгенія Яківна Морозова — (1835—1919). Лікар за фахом.</rdfs:comment>
+    <rdfs:comment xml:lang="it"></rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1904_deaths"/>
+    <rdfs:label xml:lang="vi">Anton Pavlovich Chekhov</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RussianNovelists"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-17</dbpedia-owl:birthDate>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Virginia_Woolf"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Cornel_West"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Pushkin_Prize_winners"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Fyodor_Dostoyevsky"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.npr.org/templates/story/story.php?storyId=3845755"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Nikolai_Leskov"/>
+    <rdfs:comment xml:lang="cs">Anton Pavlovič (také Iljevič) Čechov, rusky: Антон Павлович Чехов, 29. ledna (17. ledna podle juliánského kalendáře) 1860 Taganrog, Rusko – 15. (2. ) července 1904, Badenweiler, Německo, byl ruský dramatik, povídkář a prozaik. Čechov navštěvoval v letech 1868 až 1879 gymnázium v Taganrogu. Poté šel na univerzitu do Moskvy, kde vystudoval medicínu. Čechov pracoval jako lékař a přispíval do humoristických časopisů. Od roku 1882 psal pro petrohradské noviny.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://ilibrary.ru/author/chekhov/"/>
+    <dbpedia-owl:abstract xml:lang="de">Anton Pawlowitsch Tschechow [ˈtʃʲɛxəf] war ein Schriftsteller, Novellist und Dramatiker aus Russland. Er entstammte einer kleinbürgerlichen südrussischen Familie und war Arzt von Beruf, betrieb Medizin jedoch fast ausschließlich ehrenamtlich. Gleichzeitig schrieb und publizierte er zwischen 1880 und 1903 insgesamt über 600 literarische Werke. International ist Tschechow vor allem als Dramatiker durch seine Theaterstücke wie Drei Schwestern, Die Möwe oder Der Kirschgarten bekannt. Mit der für ihn typischen, wertneutralen und zurückhaltenden Art, Aspekte aus dem Leben und der Denkweise der Menschen in der russischen Provinz darzustellen, gilt Tschechow als einer der bedeutendsten Autoren der russischen Literatur.</dbpedia-owl:abstract>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Ivan_Bunin"/>
+    <rdfs:label xml:lang="zh">安东·帕夫洛维奇·契诃夫</rdfs:label>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アントン・チェーホフ"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Ernest_Hemingway"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.tgpi.ttn.ru"/>
+    <foaf:name xml:lang="en">Anton Chekhov</foaf:name>
+    <rdfs:comment xml:lang="ko">안톤 파블로비치 체호프은 러시아의 단편 소설가이자 극작가이다.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Anton_Tchekhov"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-17</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1860_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Katherine_Mansfield"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/안톤_체호프"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Novodevichy_Cemetery"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/John_Cheever"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Henrik_Ibsen"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Ivan_Turgenev"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Ivan_Bunin"/>
+    <rdfs:comment xml:lang="de">Anton Pawlowitsch Tschechow [ˈtʃʲɛxəf] war ein Schriftsteller, Novellist und Dramatiker aus Russland. Er entstammte einer kleinbürgerlichen südrussischen Familie und war Arzt von Beruf, betrieb Medizin jedoch fast ausschließlich ehrenamtlich. Gleichzeitig schrieb und publizierte er zwischen 1880 und 1903 insgesamt über 600 literarische Werke. International ist Tschechow vor allem als Dramatiker durch seine Theaterstücke wie Drei Schwestern, Die Möwe oder Der Kirschgarten bekannt.</rdfs:comment>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Tennessee_Williams"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_Orthodox_Christians"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Chekhov_140-190_for_collage.jpg/200px-Chekhov_140-190_for_collage.jpg"/>
+    <dbpedia-owl:abstract xml:lang="sv">Anton Pavlovitj Tjechov, född 29 januari 1860 i Taganrog i Ryssland, död 15 juli 1904 i Badenweiler i Baden i Tyskland, var en rysk novellförfattare, dramatiker och läkare, ansedd som en av världens historiskt största novellförfattare. Hans karriär som dramatiker resulterade i fyra klassiker och hans främsta noveller högaktas av författare och kritiker. Tjechov arbetade som läkare under större delen av sin litterära karriär, något han uttryckte som "medicinen är min äkta hustru och litteraturen min älskarinna" i ett brev till Aleksej Suvorin 1888. Tjechov slutade på teatern efter det katastrofala mottagandet av Måsen år 1896, men pjäsen hyllades 1898 av Konstantin Stanislavskijs Konstnärliga teatern i Moskva, som senare även framförde Onkel Vanja och uruppförde Tjechovs två sista pjäser, Tre systrar och Körsbärsträdgården. Dessa fyra verk utmanar skådespelarna såväl som publiken, då Tjechov istället för konventionella handlingar erbjuder en "stämningsfull teater", och ett "nedsänkt liv i texten". Tjechov skrev under sina tidigare år främst berättelser för att tjäna pengar. Under senare år utvecklades emellertid ambitionerna och hans verk kom att innebära en förnyelse inom litteraturen. Tjechov anses av många vara fader till den moderna novellen. Hans verk särpräglas av ett tidigt användande av inre monolog, något som senare även använts av James Joyce och andra modernistiska författare. Detta kombineras med att han motsatte sig den morala slutgiltigheten hos den traditionella berättelsen. Han ursäktade sig aldrig för de svårigheter som detta frambringade hos läsarna, utan vidhöll att en författarens främsta roll var att ställa läsaren inför ett dilemma, inte att lösa det. Anton Tjechov har fått en krater uppkallad efter sig på Merkurius, Chekovkratern.</dbpedia-owl:abstract>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Maxim_Gorky"/>
+    <foaf:surname xml:lang="en">Chekhov</foaf:surname>
+    <rdfs:label xml:lang="cs">Anton Pavlovič Čechov</rdfs:label>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rodczRCm2QdiCI8GYpwGT6A"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Anton_Čechov"/>
+    <dbpprop:birthName xml:lang="en">Anton Pavlovich Chekhov</dbpprop:birthName>
+    <dbpedia-owl:abstract xml:lang="pt">Anton Pavlovitch Tchecov foi um médico, dramaturgo e escritor russo, considerado um dos maiores contistas de todos os tempos. Em sua carreira como dramaturgo criou quatro clássicos e seus contos tem sidos aclamados por escritores e críticos. Tchecov foi médico durante a maior parte de sua carreira literária, e em uma de suas cartas ele escreve a respeito: "A medicina é a minha legítima esposa; a literatura é apenas minha amante. " Tchecov renunciou do teatro e deixou de escrever obras teatrais após a péssima recepção de A Gaivota em 1896, mas a obra foi reencenada e aclamada em 1898, interpretada pela companhia Teatro de Arte de Moscou de Constantin Stanislavski que interpretaria também Tio Vânia (Дядя Ваня), As Três Irmãs (Три сестры) e O Jardim das Cerejeiras (Вишнëвый сад). Estas quatro obras representam um desafio para os atores, bem como para o público, porque no lugar da atuação convencional Tchecov oferece um "teatro de humores" e uma "vida submersa no texto. " Nem todos apreciaram o desafio: Liev Tolstói disse a Tchecov, "Sabe, eu não consigo tolerar Shakespeare, mas suas peças são ainda piores". No entanto, Tolstói admirava os contos de Tchecov. A princípio Tchecov escrevia simplesmente por razões financeiras, mas sua ambição artística cresceu, e ele fez inovações formais que influenciaram na evolução dos contos modernos. Sua originalidade consiste no uso da técnica de fluxo de consciência, mais tarde adotada por James Joyce e outros modernistas, além da rejeição do propósito moral presente na estrutura das obras tradicionais. Ele nunca fez nenhum pedido de desculpas pelas dificuldades impostas aos leitores, insistindo que o papel de um artista era o de fazer perguntas, não o de respondê-las.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="no">Anton Pavlovitsj Tsjekhov regnes som en av verdenslitteraturens fremste novelleforfattere og dramatikere; ved siden av Shakespeare og Ibsen blant de mest spilte dramatikerne i verden. Opprinnelig hadde ikke Tsjekhov ambisjoner om å bli forfatter i egentlig forstand; de tidlige fortellingene skrev han for å skaffe foreldrene og søsknene penger til livsopphold og til å finansiere studiene.</rdfs:comment>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-15</dbpprop:dateOfDeath>
+    <dbpedia-owl:abstract xml:lang="fi">Anton Pavlovitš Tšehov oli venäläinen kirjailija, joka uudisti novellia ja näytelmäkirjallisuutta. Anton Tšehovin tuotanto sijoittuu realismin ja modernismin väliin: kerronta on realistista, mutta tapa hahmottaa maailma uudenlainen, usein impressionistiseksi kuvailtu. Sitä ei voi sijoittaa mihinkään tiettyyn virtaukseen. Tšehovin kerronta on puolueetonta, objektiivista ja tarkkaa. Kieli on konkreettista ja yksinkertaista. Kertomukset ovat tiiviitä, vailla johdantoja ja juonenkäänteitä. Tšehovin toistuvia teemoja ovat ihmisen eristyneisyys, yksinäisyys ja tarpeettomuus. Novellillaan ”Tarpeettomia ihmisiä” Tšehov liittyi tietoisesti venäläiseen tarpeettoman ihmisen kuvauksen perinteeseen. Hänen koko tuotantoaan voidaan pitää tutkielmana tarpeettomasta ihmisestä. Tarpeettomuus, eristyneisyys ja yksinäisyys ovat Tšehoville jotakin ihmisluontoon kuuluvaa, eivät poikkeuksellista. Ne näkyvät hahmojen keskinäisessä kommunikaatiossa tai sen puutteessa sekä heidän suhteessaan yhteiskuntaan.</dbpedia-owl:abstract>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Henrik_Ibsen"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/David_Means"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/German_Empire"/>
+    <rdfs:comment xml:lang="ja">アントン・パーヴロヴィチ・チェーホフ（ロシア語Антон Павлович Чехов／ラテン文字（英文表記）Anton Pavlovich Chekhov、1860年1月29日・タガンログ - 1904年7月15日・バーデンワイラー）は、ロシアを代表する劇作家であり、短編小説家。</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ibiblio.org/eldritch/ac/jr/index.htm"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_comedy_and_humour"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Eastern_Orthodox_Christians_from_Russia"/>
+    <dbpedia-owl:abstract xml:lang="es">Antón Pávlovich Chéjov (en ruso Антон Павлович Чехов), fue un médico, escritor y dramaturgo ruso. Encuadrable en la corriente naturalista, fue maestro del relato corto, siendo considerado como uno de los más importantes escritores de cuentos de la historia de la literatura. Como dramaturgo escribió cuatro obras, y sus relatos cortos han sido aclamados por escritores y crítica. Chéjov compaginó su carrera literaria con la medicina; en una de sus cartas escribió al respecto: La medicina es mi esposa legal; la literatura, sólo mi amante. Dejó de escribir obras teatrales después de la mala acogida que tuvo su obra La gaviota en el año 1896. Sin embargo, esta misma obra tuvo un gran éxito en el año 1898, interpretada por la compañía Teatro del Arte de Moscú de Konstantín Stanislavski, interpretando también Tío Vania ("Дядя Ваня"), Las tres hermanas ("Три сестры") y El jardín de los cerezos ("Вишнëвый сад"). Al principio Chéjov escribía simplemente por razones económicas, pero su ambición artística creció, introduciendo innovaciones que han influido en la evolución de los relatos cortos. Su originalidad consiste en el uso de la técnica del monólogo, adoptada más tarde por James Joyce y otros escritores del modernismo anglosajón, además del rechazo de la finalidad moral presente en la estructura de las obras tradicionales. No le preocupaban las dificultades que esto planteaba al lector, porque consideraba que el papel del artista es realizar preguntas, no responderlas.</dbpedia-owl:abstract>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-15</dbpedia-owl:deathDate>
+    <rdfs:comment xml:lang="fi">Anton Pavlovitš Tšehov oli venäläinen kirjailija, joka uudisti novellia ja näytelmäkirjallisuutta. Anton Tšehovin tuotanto sijoittuu realismin ja modernismin väliin: kerronta on realistista, mutta tapa hahmottaa maailma uudenlainen, usein impressionistiseksi kuvailtu. Sitä ei voi sijoittaa mihinkään tiettyyn virtaukseen. Tšehovin kerronta on puolueetonta, objektiivista ja tarkkaa. Kieli on konkreettista ja yksinkertaista. Kertomukset ovat tiiviitä, vailla johdantoja ja juonenkäänteitä.</rdfs:comment>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Honor%C3%A9_de_Balzac"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Jhumpa_Lahiri"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Anton_Czechow"/>
+    <dbpedia-owl:abstract xml:lang="nl">Anton Pavlovitsj Tsjechov was een Russisch schrijver, voornamelijk van toneelstukken en korte verhalen. Met name als schrijver van korte verhalen wordt Tsjechov door velen beschouwd als een der grootsten uit de literatuurgeschiedenis, zo niet de grootste.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromTaganrog"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Ivan_Turgenev"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Sreda_(literary_group)"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/German_Empire"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Moscow_Art_Theater"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdfs:comment xml:lang="ru">Анто́н Па́влович Че́хов — выдающийся русский писатель, драматург, по профессии врач. Почётный академик Императорской Академии наук по Разряду изящной словесности. Является общепризнанным классиком мировой литературы. Его пьесы, в особенности «Вишнёвый сад», на протяжении ста лет ставятся во многих театрах мира. Один из самых известных мировых драматургов.</rdfs:comment>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MoscowStateUniversityAlumni"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Anton_Chekhov"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/d/d3/Chekhov_140-190_for_collage.jpg"/>
+    <rdfs:comment xml:lang="pl">Anton Pawłowicz Czechow – rosyjski nowelista i dramatopisarz.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Antón Pávlovich Chéjov (en ruso Антон Павлович Чехов), fue un médico, escritor y dramaturgo ruso. Encuadrable en la corriente naturalista, fue maestro del relato corto, siendo considerado como uno de los más importantes escritores de cuentos de la historia de la literatura. Como dramaturgo escribió cuatro obras, y sus relatos cortos han sido aclamados por escritores y crítica.</rdfs:comment>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/J._D._Salinger"/>
+    <rdfs:comment xml:lang="pt">Anton Pavlovitch Tchecov foi um médico, dramaturgo e escritor russo, considerado um dos maiores contistas de todos os tempos. Em sua carreira como dramaturgo criou quatro clássicos e seus contos tem sidos aclamados por escritores e críticos. Tchecov foi médico durante a maior parte de sua carreira literária, e em uma de suas cartas ele escreve a respeito: "A medicina é a minha legítima esposa; a literatura é apenas minha amante.</rdfs:comment>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Ernest_Hemingway"/>
+    <dbpedia-owl:abstract xml:lang="zh">安东·帕夫洛维奇·契訶夫（俄文：Антон Павлович Чехов， 聆听，1860年1月29日－1904年7月15日），俄国的世界级短篇小说巨匠，其剧作也对20世纪戏剧产生了很大的影响。他坚持現實主義传统，注重描写俄国人民的日常生活，塑造具有典型性格的小人物，藉此忠實反映出當時俄國社會現況。他的作品的三大特征是对丑恶现象的嘲笑与对贫苦人民的深切的同情，以及作品的幽默性和艺术性。</dbpedia-owl:abstract>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Charles_Bukowski"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/etext/6408"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Mikhail_Bulgakov"/>
+    <dbpedia-owl:abstract xml:lang="vi">Anton Pavlovich Chekhov là nhà viết kịch người Nga nổi tiếng và có ảnh hưởng lớn trên thế giới với thể loại truyện ngắn.</dbpedia-owl:abstract>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Alice_Munro"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Abdulla_Qahhor"/>
     <dbpprop:placeOfDeath xml:lang="en">Badenweiler, Germany</dbpprop:placeOfDeath>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Moscow_State_University_alumni"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Alexander_Ostrovsky"/>
+    <dbpedia-owl:abstract xml:lang="ca">Anton Pàvlovitx Txèkhov, fou un dels principals dramaturgs i narradors de Rússia. Va nàixer a Taganrog, a la Rússia meridional, el 29 de gener de 1860, i va morir de tuberculosi al balneari de Badenweiler, Alemanya, el 15 de juliol de 1904. La seua carrera com a dramaturg va donar com a resultat quatre obres clàssiques del teatre, mentre que els seus millors contes són molt estimats per escriptors i crítics. Va practicar la medicina durant gran part de la seua carrera literària: «La medicina és la meua legítima esposa», va dir, «i la literatura la meua amant»". Va renunciar al teatre després de la desastrosa acollida de La gavina l'any 1896; però l'obra va ser reestrenada amb èxit per Konstantín Stanislavski al Teatre d'art de Moscou. A conseqüència d'això, va produir L'oncle Vània i va estrenar les dues darreres obres de teatre de Txèkhov, Les tres germanes i L'hort dels cirerers. Aquestes quatre obres plantegen un especial repte tant per al conjunt actoral com per al públic, perquè en lloc d'una acció convencional Txèkhov ofereix un «teatre dels estats d'ànim» i una «vida submergida en el text». No tothom va apreciar el repte: se sap que Lev Tolstoi va dir a Txèkhov, «Saps?, no puc tolerar Shakespeare, però els teus drames són encara pitjors»". No obstant això, Tolstoi admirava els contes de Txèkhov. Al principi Txèkhov escrivia històries només per diners, però a mesura que la seua ambició artística va anar creixent, va fer innovacions formals que han influït en l'evolució del conte modern. La seua originalitat consisteix en un primerenc ús de la tècnica del corrent de consciència, posteriorment emprada per Virginia Woolf i d'altres modernistes, combinada amb el rebuig de la finalitat moral de l'estructura tradicional de la narració. No va excusar-se per les dificultats a què sotmetia els lectors, insistint que el paper d'un artista era plantejar preguntes, no contestar-les.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ko">안톤 파블로비치 체호프은 러시아의 단편 소설가이자 극작가이다.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpedia-owl:abstract xml:lang="ja">アントン・パーヴロヴィチ・チェーホフ（ロシア語Антон Павлович Чехов／ラテン文字（英文表記）Anton Pavlovich Chekhov、1860年1月29日・タガンログ - 1904年7月15日・バーデンワイラー）は、ロシアを代表する劇作家であり、短編小説家。</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Chekhov_Anton_Pavlovich_1860-1904"/>
+    <dbpedia-owl:abstract xml:lang="en">Anton Pavlovich Chekhov (29 January 1860 – 15 July 1904) was a Russian physician, dramatist and author who is considered to be among the greatest writers of short stories in history. His career as a dramatist produced four classics and his best short stories are held in high esteem by writers and critics. Chekhov practised as a doctor throughout most of his literary career: "Medicine is my lawful wife", he once said, "and literature is my mistress. " Chekhov renounced the theatre after the disastrous reception of The Seagull in 1896, but the play was revived to acclaim in 1898 by Constantin Stanislavski's Moscow Art Theatre, which subsequently also produced Chekhov's Uncle Vanya and premiered his last two plays, Three Sisters and The Cherry Orchard. These four works present a challenge to the acting ensemble as well as to audiences, because in place of conventional action Chekhov offers a "theatre of mood" and a "submerged life in the text. " Chekhov had at first written stories only for financial gain, but as his artistic ambition grew, he made formal innovations which have influenced the evolution of the modern short story. His originality consists in an early use of the stream-of-consciousness technique, later adopted by James Joyce and other modernists, combined with a disavowal of the moral finality of traditional story structure. He made no apologies for the difficulties this posed to readers, insisting that the role of an artist was to ask questions, not to answer them.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="ca">Anton Txèkhov</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RussianShortStoryWriters"/>
+    <rdfs:comment xml:lang="en">Anton Pavlovich Chekhov (29 January 1860 – 15 July 1904) was a Russian physician, dramatist and author who is considered to be among the greatest writers of short stories in history. His career as a dramatist produced four classics and his best short stories are held in high esteem by writers and critics. Chekhov practised as a doctor throughout most of his literary career: "Medicine is my lawful wife", he once said, "and literature is my mistress.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0zm1"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Constantin_Stanislavski"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Dramatist110030277"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Russia"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Anton_Tchekhov"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_dramatists_and_playwrights"/>
+    <rdfs:comment xml:lang="ca">Anton Pàvlovitx Txèkhov, fou un dels principals dramaturgs i narradors de Rússia. Va nàixer a Taganrog, a la Rússia meridional, el 29 de gener de 1860, i va morir de tuberculosi al balneari de Badenweiler, Alemanya, el 15 de juliol de 1904. La seua carrera com a dramaturg va donar com a resultat quatre obres clàssiques del teatre, mentre que els seus millors contes són molt estimats per escriptors i crítics.</rdfs:comment>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Frank_O'Connor"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_theatre"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
+    <dbpprop:alt xml:lang="en">Chekhov seated at a desk</dbpprop:alt>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_tuberculosis"/>
+    <rdfs:label xml:lang="en">Anton Chekhov</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.online-literature.com/anton_chekhov/"/>
+    <dbpedia-owl:abstract xml:lang="cs">Anton Pavlovič (také Iljevič) Čechov, rusky: Антон Павлович Чехов, 29. ledna (17. ledna podle juliánského kalendáře) 1860 Taganrog, Rusko – 15. (2. ) července 1904, Badenweiler, Německo, byl ruský dramatik, povídkář a prozaik. Čechov navštěvoval v letech 1868 až 1879 gymnázium v Taganrogu. Poté šel na univerzitu do Moskvy, kde vystudoval medicínu. Čechov pracoval jako lékař a přispíval do humoristických časopisů. Od roku 1882 psal pro petrohradské noviny. Na svém statku u Moskvy ošetřoval rolníky zdarma; od jednoho ze svých pacientů se nakazil tuberkulózou. Už nemocný v roce 1890 podnikl cestu na Sibiř, aby psal o nucených pracích na vězeňském ostrově Sachalin. Jeho zpráva z cesty popisuje otřesný život vyhnanců v carské říši. Roku 1901 se Čechov oženil s herečkou Olgou Knipperovou. Kvůli zhoršující se plicní tuberkulóze se přestěhoval do Jalty na Krymu. V létě 1904 odjel do německých lázní Badenweiler, kde 15. července zemřel. Je pohřben v Moskvě.</dbpedia-owl:abstract>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1904-07-15</dbpprop:deathDate>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Taganrog"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Virginia_Woolf"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Nikolai_Gogol"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.archive.org/search.php?query=mediatype%3A%28texts%29%20-contributor%3Agutenberg%20AND%20%28subject%3A%22Chekhov%2C%20Anton%20Pavlovich%2C%201860-1904%22%20OR%20creator%3A%22Chekhov%2C%20Anton%20Pavlovich%2C%201860-1904%22%20OR%20creator%3A%22Anton%20Pavlovich%20Chekhov%22%20OR%20title%3A%22Anton%20Pavlovich%20Chekhov%22%20OR%20description%3A%22Anton%20Pavlovich%20Chekhov%22%20OR%20subject%3A%22Chekhov%2C%20Anton%201860-1904%22%20OR%20creator%3A%22Chekhov%2C%20Anton%2C%201860-1904%22%20OR%20creator%3A%22Anton%20Chekhov%22%20OR%20title%3A%22Anton%20Chekhov%22%20OR%20description%3A%22Anton%20Chekhov%22%29"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Constantin_Stanislavski"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Leo_Tolstoy"/>
+    <rdfs:comment xml:lang="hu">Anton Pavlovics Csehov (Антон Павлович Чехов) orosz író, drámaíró. Gogol, Tolsztoj, Dosztojevszkij és Turgenyev mellett a 19. századi orosz irodalom legnagyobbjai közé tartozik. A 20. századi drámairodalom egyik legnagyobb hatású alakja, az úgynevezett „drámaiatlan” dráma megteremtője, a novella műfajának megújítója.</rdfs:comment>
+    <dbpprop:name xml:lang="en">Chekhov, Anton Pavlovich</dbpprop:name>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Dmitry_Grigorovich"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Vladimir_Nabokov"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_short_story_writers"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Guy_de_Maupassant"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.yaltachekhov.org"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_physicians"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Anton_Pawlowitsch_Tschechow"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Guy_de_Maupassant"/>
+    <rdfs:comment xml:lang="vi">Anton Pavlovich Chekhov là nhà viết kịch người Nga nổi tiếng và có ảnh hưởng lớn trên thế giới với thể loại truyện ngắn.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpprop:occupation xml:lang="en">Physician, short story writer, playwright</dbpprop:occupation>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.eldritchpress.org/ac/gorky.htm"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Cornel_West"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Fyodor_Dostoyevsky"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Чехов,_Антон_Павлович"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Dmitry_Grigorovich"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Raymond_Carver"/>
+    <dbpprop:nationality xml:lang="en">Russian</dbpprop:nationality>
     <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Mikhail_Bulgakov"/>
+    <rdfs:comment xml:lang="nl">Anton Pavlovitsj Tsjechov was een Russisch schrijver, voornamelijk van toneelstukken en korte verhalen. Met name als schrijver van korte verhalen wordt Tsjechov door velen beschouwd als een der grootsten uit de literatuurgeschiedenis, zo niet de grootste.</rdfs:comment>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Leo_Tolstoy"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Tennessee_Williams"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Badenweiler"/>
+    <dbpprop:signature xml:lang="en">Подпись_Антон_Чехов.png</dbpprop:signature>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Anton_Chekhov"/>
+    <dbpprop:shortDescription xml:lang="en">Doctor, short-story writer, playwright</dbpprop:shortDescription>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Guram_Dochanashvili"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RussianDramatistsAndPlaywrights"/>
+    <rdfs:comment xml:lang="zh">安东·帕夫洛维奇·契訶夫（俄文：Антон Павлович Чехов， 聆听，1860年1月29日－1904年7月15日），俄国的世界级短篇小说巨匠，其剧作也对20世纪戏剧产生了很大的影响。他坚持現實主義传统，注重描写俄国人民的日常生活，塑造具有典型性格的小人物，藉此忠實反映出當時俄國社會現況。他的作品的三大特征是对丑恶现象的嘲笑与对贫苦人民的深切的同情，以及作品的幽默性和艺术性。</rdfs:comment>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/John_Cheever"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118638289</dbpprop:pnd>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.kirjasto.sci.fi/tsehov.htm"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Russian_Empire"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.archive.org/search.php?query=%28creator%3Achekhov%20OR%20title%3Achekhov%20OR%20subject%3Achekhov%20OR%20description%3Achekhov%29%20AND%20mediatype%3Aaudio"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Alice_Munro"/>
+    <dbpedia-owl:abstract xml:lang="pl">Anton Pawłowicz Czechow – rosyjski nowelista i dramatopisarz.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.readmefree.com/anton-chekhov"/>
+    <dc:description xml:lang="en">Doctor, short-story writer, playwright</dc:description>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Sreda_(literary_group)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_writers"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Bob_Dylan"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/J._D._Salinger"/>
+    <foaf:name xml:lang="en">Anton Pavlovich Chekhov</foaf:name>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Anton_Chekhov?oldid=494659889"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Badenweiler"/>
+    <dbpprop:lccn xml:lang="en">n/79/130807</dbpprop:lccn>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
+    <dbpedia-owl:abstract xml:lang="ru">Анто́н Па́влович Че́хов — выдающийся русский писатель, драматург, по профессии врач. Почётный академик Императорской Академии наук по Разряду изящной словесности. Является общепризнанным классиком мировой литературы. Его пьесы, в особенности «Вишнёвый сад», на протяжении ста лет ставятся во многих театрах мира. Один из самых известных мировых драматургов. За 26 лет творчества Чехов создал около 900 различных произведений (коротких юмористических рассказов, серьёзных повестей, пьес), многие из которых стали классикой мировой литературы. Особенное внимание обратили на себя «Степь», «Скучная история», «Дуэль», «Палата № 6», «Рассказ неизвестного человека», «Мужики», «Человек в футляре», «В овраге», «Детвора», «Драма на охоте»; из пьес: «Иванов», «Чайка», «Дядя Ваня», «Три сестры», «Вишнёвый сад».</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="hu">Anton Pavlovics Csehov (Антон Павлович Чехов) orosz író, drámaíró. Gogol, Tolsztoj, Dosztojevszkij és Turgenyev mellett a 19. századi orosz irodalom legnagyobbjai közé tartozik. A 20. századi drámairodalom egyik legnagyobb hatású alakja, az úgynevezett „drámaiatlan” dráma megteremtője, a novella műfajának megújítója.</dbpedia-owl:abstract>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/David_Means"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Frank_O'Connor"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Russian_Empire"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Bob_Dylan"/>
+    <dbpprop:id xml:lang="en">Anton+Pavlovich+Chekhov</dbpprop:id>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_novelists"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Jhumpa_Lahiri"/>
+    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1860-01-29</dbpprop:birthDate>
+    <foaf:givenName xml:lang="en">Anton Pavlovich</foaf:givenName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MedicalWriters"/>
+    <rdfs:label xml:lang="uk">Чехов Антон Павлович</rdfs:label>
+    <rdfs:label xml:lang="de">Anton Pawlowitsch Tschechow</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anton_Chekhov"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1860-01-29</dbpedia-owl:birthDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Taganrog"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/%C3%89mile_Zola"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Alexander_Ostrovsky"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Anton_Pavlovič_Čechov"/>
+    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">95216565</dbpprop:viaf>
+    <dbpprop:tsurl xml:lang="en">viaf/95216565</dbpprop:tsurl>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Maxim_Gorky"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RussianPhysicians"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/%C3%89mile_Zola"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Nikolai_Leskov"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Honor%C3%A9_de_Balzac"/>
+    <dbpprop:alternativeNames xml:lang="en">Анто́н Па́влович Че́хов</dbpprop:alternativeNames>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Charles_Bukowski"/>
+    <dbpedia-owl:abstract xml:lang="no">Anton Pavlovitsj Tsjekhov regnes som en av verdenslitteraturens fremste novelleforfattere og dramatikere; ved siden av Shakespeare og Ibsen blant de mest spilte dramatikerne i verden. Opprinnelig hadde ikke Tsjekhov ambisjoner om å bli forfatter i egentlig forstand; de tidlige fortellingene skrev han for å skaffe foreldrene og søsknene penger til livsopphold og til å finansiere studiene. Men etter hvert som de kunstneriske ambisjonene vokste, gjorde han formale innovasjoner som påvirket utviklingen av den moderne novellekunsten. Originaliteten ligger i en tidlig bruk av bevissthetsstrøm-teknikker – som senere ble brukt av James Joyce og andre modernistiske forfattere – kombinert med at han avviste den tradisjonelle historiestrukturens moralske finalitet og til gjengjeld insisterte på at forfatterens rolle var å stille spørsmål, ikke å svare på dem. De fire modne Tsjekhov-stykkene, Onkel Vanja, Måken, Tre søstre og Kirsebærhagen, er svært krevende både for skuespillerensemblene og for publikum fordi stykkene mangler tradisjonell, ytre handling. Istedet flyter det en understrøm av emosjoner under en dialog som gjerne dreier seg om dagligdagse, trivielle emner, og dette krever at publikum selv fyller ut, dikter med og lever seg inn i karakterenes verdensanskuelse og situasjon. Tsjekhov praktiserte som lege gjennom størstedelen av sin litterære karriere, men tjente lite på det, da han stort sett behandlet pasientene gratis; det var inntektene fra forfatterskapet han levde av.</dbpedia-owl:abstract>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Taganrog"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Katherine_Mansfield"/>
     <dbpprop:name xml:lang="en">Anton Chekhov</dbpprop:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ant%C3%B2n_P%C3%A0vlovi%C4%8D_Ch%C3%A9chov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Knipper">
-    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustave_Flaubert">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tschechow">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Friel">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Sea_Gull">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Pavlovich_Chekhov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Pushkin">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Three_Sisters_(1994_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Cehov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Tchekhof">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mr._Chekov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Czechov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Bear_(play)">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Seagull">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Three_Sisters_(1970_Messina_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Tchekoff">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Hunting_Accident">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Uncle_Vanya_(1957_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Love_and_Fear">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Marriage_Proposal">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ismat_Chughtai">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Tchekhov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Horia_G%C3%A2rbea">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nestor_Amarilla">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_%C3%93_Ceallaigh">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/August_(1996_film)">
-    <dbpprop:writers rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chekhov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mariam_Petrosyan">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_Bashevis_Singer">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ward_Six">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ba_Jin">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Uncle_Vanya">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdulla_Qodiriy">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Three_Sisters_(play)">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joe_Penhall">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Guram_Dochanashvili">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/2369_Chekhov">
-    <dbpprop:namedAfter rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chehov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chejov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%89mile_Zola">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_O'Connor">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Turgenev">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chekhov_Monument_in_Taganrog">
-    <dbpprop:dedicatedTo rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Country_Life_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Liviu_Rebreanu">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivanov_(play)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Cheever">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tchekhov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Roman_Baker">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Artsybashev">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/An_Event">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Yates_(novelist)">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jhumpa_Lahiri">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Mitchell_(author)">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksandr_Kuprin">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Nabokov">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsjechov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Uncle_Vanya_(1963_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_checkov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Three_Sisters_(1970_Olivier_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/M._T._Vasudevan_Nair">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Tchekov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tobias_Wolff">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Anton_Chekhov">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Andre_Dubus">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lady_with_the_Dog_(film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Tchechov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/La_steppa">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_checkhov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Anton_Chekhov">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chexov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/J._D._Salinger">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsjechow">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Haruki_Murakami">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_T%C5%A1ehov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Day_in_Hollywood_/_A_Night_in_the_Ukraine">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_McGuinness">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chekhov_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chekov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Woolf">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Forrester">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/H%C3%B4tel_de_France">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henrik_Ibsen">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/%D0%A7%D0%B5%D1%85%D0%BE%D0%B2">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Chekov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdulla_Qahhor">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Uncle_Vanya_(1970_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saul_Bellow">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_P._Chekhov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Tsehov">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Raymond_Carver">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
+    <rdfs:comment xml:lang="sv">Anton Pavlovitj Tjechov, född 29 januari 1860 i Taganrog i Ryssland, död 15 juli 1904 i Badenweiler i Baden i Tyskland, var en rysk novellförfattare, dramatiker och läkare, ansedd som en av världens historiskt största novellförfattare. Hans karriär som dramatiker resulterade i fyra klassiker och hans främsta noveller högaktas av författare och kritiker.</rdfs:comment>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Abdulla_Qahhor"/>
+    <dbpedia-owl:abstract xml:lang="uk">Анто́н Па́влович Че́хов — російський драматург і прозаїк. Батько письменника (1823—1898) — Павло Ігорович Чехов. Мати письменника — Євгенія Яківна Морозова — (1835—1919). Лікар за фахом.</dbpedia-owl:abstract>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Taganrog"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Raymond_Carver"/>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Guram_Dochanashvili"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Nikolai_Gogol"/>
+    <dbpprop:caption rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</dbpprop:caption>
+    <dbpedia-owl:birthName xml:lang="en">Anton Pavlovich Chekhov</dbpedia-owl:birthName>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
+    <dbpedia-owl:abstract xml:lang="fr">Anton Pavlovitch Tchekhov, translittération scientifique Anton Pavlovič Čechov, né le 17/ 29 janvier 1860 à Taganrog et mort le 2/ 15 juillet 1904 à Badenweiler, est un écrivain, nouvelliste et dramaturge russe, médecin de profession. Tout en exerçant la médecine, principalement bénévolement, il publie entre 1880 et 1903 plus de 600 œuvres littéraires. Il est l’un des auteurs les plus connus de la littérature russe, notamment pour sa manière typique, neutre et retenue de décrire les aspects de la vie et de la pensée des hommes dans la province russe. Ami d’Ivan Bounine, de Maxime Gorki, de Fédor Chaliapine, d'Alexeï Souvorine, il est l’oncle de Mikhaïl Tchekhov.</dbpedia-owl:abstract>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1904-07-15</dbpedia-owl:deathDate>
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Vladimir_Nabokov"/>
   </rdf:Description>
 </rdf:RDF>

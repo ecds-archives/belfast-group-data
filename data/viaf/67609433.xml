@@ -8,45 +8,41 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CGeorge_McWhirter#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>McWhirter, George</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/67609433"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C131794841#skos:Concept">
+    <skos:prefLabel>McWhirter, George, 1939-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/67609433"/>
+    <skos:altLabel>MacWhirter, George 1939-</skos:altLabel>
+    <skos:altLabel>Mc Whirter, George 1939-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2004031864#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>McWhirter, George, 1939-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/67609433"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50007913#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50007913"/>
+    <skos:prefLabel>McWhirter, George</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/67609433"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/67609433/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/67609433"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/67609433/">
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/67609433"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2004031864#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/67609433"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>McWhirter, George, 1939-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C131794841#skos:Concept">
-    <skos:prefLabel>McWhirter, George, 1939-....</skos:prefLabel>
-    <skos:altLabel>MacWhirter, George 1939-</skos:altLabel>
-    <skos:altLabel>Mc Whirter, George 1939-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/67609433"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/67609433/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/67609433"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CGeorge_McWhirter#skos:Concept">
-    <skos:prefLabel>McWhirter, George</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/67609433"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50007913#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50007913"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:prefLabel>McWhirter, George</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/67609433"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/67609433/#foaf:Person">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/67609433"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C169169170#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -55,29 +51,35 @@
     <skos:prefLabel>McWhirter, George, 1939-....</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C1199881#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/67609433"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <skos:altLabel>McWhirter, George</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/67609433"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>MacWhirter, George</skos:prefLabel>
-    <skos:altLabel>McWhirter, George</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/67609433">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_McWhirter"/>
-    <foaf:name>Mc Whirter, George 1939-</foaf:name>
-    <foaf:name>McWhirter, George, 1939-....</foaf:name>
-    <foaf:name>MacWhirter, George 1939-</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/131794841"/>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>MacWhirter, George</foaf:name>
-    <rdaGr2:dateOfBirth>1939-09-26</rdaGr2:dateOfBirth>
-    <owl:sameAs rdf:resource="http://www.idref.fr/169169170/id"/>
-    <foaf:name>McWhirter, George</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0100B5233#skos:Concept">
     <skos:prefLabel>McWhirter, George</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/67609433"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/67609433"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/67609433/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/67609433"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/67609433">
+    <foaf:name>McWhirter, George</foaf:name>
+    <foaf:name>MacWhirter, George 1939-</foaf:name>
+    <foaf:name>Mc Whirter, George 1939-</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/131794841"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/237259234"/>
+    <rdaGr2:dateOfBirth>1939-09-26</rdaGr2:dateOfBirth>
+    <foaf:name>McWhirter, George, 1939-....</foaf:name>
+    <foaf:name>MacWhirter, George</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_McWhirter"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/169169170/id"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/237259234"/>
   </rdf:Description>
 </rdf:RDF>

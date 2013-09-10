@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/117565020/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/117565020"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C091939666#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Wall, Eamonn, 1955-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/117565020"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/117565020/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/117565020"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++01095713#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Wall, Eamonn, 1955-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/117565020"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cno+95028554#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/117565020"/>
+    <skos:prefLabel>Wall, Eamonn, 1955-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/no95028554"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/117565020">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdaGr2:dateOfBirth>1955</rdaGr2:dateOfBirth>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/091939666/id"/>
+    <foaf:name>Wall, Eamonn, 1955-....</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/172832837"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb166499502#foaf:Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/117565020/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/117565020"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C172832837#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/117565020"/>
+    <skos:prefLabel>Wall, Eamonn, 1955-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C16649950#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:prefLabel>Wall, Eamonn, 1955-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/117565020"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb166499502"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb166499502"/>
+  </rdf:Description>
+</rdf:RDF>

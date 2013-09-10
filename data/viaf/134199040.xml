@@ -7,132 +7,138 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035022003#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <skos:altLabel>British Broadcasting Corporation. Home Service</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
-    <skos:altLabel>BBC.</skos:altLabel>
-    <skos:altLabel>Great Britain. British Broadcasting Corporation</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C457225#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
-    <skos:prefLabel>The British Broadcasting Corporation</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/134199040/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/134199040"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca24019495#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10235826#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
     <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
     <skos:altLabel>BBC.</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97080473#skos:Concept">
-    <skos:altLabel>Brytyjska Korporacja Nadawcza.</skos:altLabel>
-    <skos:altLabel>BBC.</skos:altLabel>
-    <skos:altLabel>Brytyjska Korporacja Radiofoniczna.</skos:altLabel>
-    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000024929#skos:Concept">
-    <skos:altLabel>B.B.C.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
-    <skos:altLabel>BBC.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C05609535X#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:altLabel>BBC.</skos:altLabel>
-    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/134199040/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX96350#skos:Concept">
-    <skos:altLabel>Radio Nacional de Londres</skos:altLabel>
-    <skos:altLabel>BBC.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
-    <skos:altLabel>Radio Londres</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C040082997#skos:Concept">
+    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>BBC.</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
-    <skos:altLabel>BBC.</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/134199040/#foaf:Organization">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/134199040"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/134199040">
-    <foaf:name>British Broadcasting Corporation.</foaf:name>
-    <foaf:name>The British Broadcasting Corporation</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
-    <foaf:name>Brytyjska Korporacja Radiofoniczna.</foaf:name>
-    <foaf:name>Great Britain. British Broadcasting Corporation</foaf:name>
-    <foaf:name>Radio Nacional de Londres</foaf:name>
-    <foaf:name>B.B.C.</foaf:name>
-    <foaf:name>BBC.</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/16290083-1"/>
-    <foaf:name>Radio Londres</foaf:name>
-    <foaf:name>Brytyjska Korporacja Nadawcza.</foaf:name>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/151778367"/>
-    <foaf:name>Velká Británie. British Broadcasting Corporation</foaf:name>
-    <foaf:name>British Broadcasting Corporation. Home Service</foaf:name>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/151778367"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
-    <foaf:name>BBC (GB)</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0104D4466#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
-    <skos:altLabel>B.B.C.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500274588#skos:Concept">
-    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>BBC.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cko2004238888#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <skos:altLabel>Velká Británie. British Broadcasting Corporation</skos:altLabel>
-    <skos:altLabel>British Broadcasting Corporation. Home Service</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
-    <skos:altLabel>BBC.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/134199040/#rdaEnt:CorporateBody">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/134199040"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls000023001#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97080473#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:altLabel>Brytyjska Korporacja Radiofoniczna.</skos:altLabel>
+    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>BBC.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
+    <skos:altLabel>Brytyjska Korporacja Nadawcza.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/134199040/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/134199040"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/134199040/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000024929#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
+    <skos:altLabel>BBC.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
+    <skos:altLabel>B.B.C.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000077455#skos:Concept">
+    <skos:altLabel>B.B.C.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
+    <skos:altLabel>BBC.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Lielbritānija. British Broadcasting Corporation</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls000023001#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:altLabel>BBC (GB)</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
     <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500274588#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
+    <skos:altLabel>BBC.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C05609535X#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
+    <skos:altLabel>BBC.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035022003#skos:Concept">
+    <skos:altLabel>British Broadcasting Corporation. Home Service</skos:altLabel>
+    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
+    <skos:altLabel>Great Britain. British Broadcasting Corporation</skos:altLabel>
+    <skos:altLabel>BBC.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cko2004238888#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:altLabel>BBC.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
+    <skos:altLabel>Velká Británie. British Broadcasting Corporation</skos:altLabel>
+    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
+    <skos:altLabel>British Broadcasting Corporation. Home Service</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca24019495#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <skos:altLabel>BBC.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0104D4466#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>B.B.C.</skos:altLabel>
+    <skos:prefLabel>British Broadcasting Corporation.</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C457225#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/134199040"/>
+    <skos:prefLabel>The British Broadcasting Corporation</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/134199040">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <foaf:name>British Broadcasting Corporation. Home Service</foaf:name>
+    <foaf:name>BBC (GB)</foaf:name>
+    <foaf:name>The British Broadcasting Corporation</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/151778367"/>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/151778367"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
+    <foaf:name>Great Britain. British Broadcasting Corporation</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4008299-4"/>
+    <foaf:name>B.B.C.</foaf:name>
+    <foaf:name>Brytyjska Korporacja Radiofoniczna.</foaf:name>
+    <foaf:name>Velká Británie. British Broadcasting Corporation</foaf:name>
+    <foaf:name>British Broadcasting Corporation.</foaf:name>
+    <foaf:name>Brytyjska Korporacja Nadawcza.</foaf:name>
+    <foaf:name>BBC.</foaf:name>
+    <foaf:name>Lielbritānija. British Broadcasting Corporation</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/134199040/#foaf:Organization">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/134199040"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
 </rdf:RDF>

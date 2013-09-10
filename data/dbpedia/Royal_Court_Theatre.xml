@@ -11,228 +11,103 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bent_(play)">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Court_Theatre">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Long_and_the_Short_and_the_Tall_(play)">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Trelawny_of_the_'Wells'">
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Press_the_Eject_and_Give_Me_the_Tape">
-    <dbpedia-owl:recordedIn rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mojo_(play_&amp;_film)">
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Court_Theatre_Downstairs">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Act_Without_Words_I">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Blasted">
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Our_Country's_Good">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Court">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Look_Back_in_Anger">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Court_Theatre_Upstairs">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gone_Too_Far!">
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Royal_Court_Theatre">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jerwood_Theatre">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Royal_Court_Theatre">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Court_Jerwood_Theatre">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hysteria_(play)">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Death_and_the_Maiden_(play)">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Weir">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Miracle">
-    <dbpprop:dateOfPremiere rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Court_Theater">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/4.48_Psychosis">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jerusalem_(play)">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Changing_Room">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Serious_Money">
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Chelsea_Theatre">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Priory_(play)">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Endgame_(play)">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Court_Theatre">
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.british-history.ac.uk/report.asp?compid=28709#s10"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_theatre"/>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Royal_Court_Theatre?oldid=492183357"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Theatres_where_Gilbert_or_Sullivan_works_premiered"/>
-    <dbpedia-owl:rebuildingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1888-01-01T00:00:00+02:00</dbpedia-owl:rebuildingYear>
-    <dbpprop:caption xml:lang="en">The Royal Court Theatre at dusk in 2007</dbpprop:caption>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TheatresInKensingtonAndChelsea"/>
-    <dbpedia-owl:abstract xml:lang="sv">The Royal Court Theatre är en teater vid Sloane Square i Chelsea i London. Det är en av Storbritanniens mest ansedda och välkända teatrar. Sedan teatern byggdes 1888 har den varit plantskola för nyskriven dramatik. Efter sekelskiftet 1800/1900 hade flera av George Bernard Shaws pjäser urpremiär på Royal Court, däribland Major Barbara. 1952 blev Royal Court hemmascen för The English Stage Company och George Devine blev teaterchef. 1956 hade John Osbornes Se dig om i vrede premiär på teatern som sedan blev hemmascenen för den generation brittiska dramatiker som blivit kända under beteckningen arga unga män. Bland dramatiker vars pjäser haft urpremiär på Royal Court Theatre kan nämnas John Arden, Edward Bond, Joe Orton, Arnold Wesker, Christopher Hampton, Nigel Williams, Howard Barker, Timberlake Wertenbaker, Jim Cartwright, Hanif Kureishi, Sarah Kane och Mark Ravenhill. 1973 hade musikalen Rocky Horror Show urpremiär här. En viktig del av Royal Court Theatres profil är att anställa husdramatiker (engelska writer in residence) som under en period får skriva direkt för teatern och som på så vis också får direktkontakt med det sceniska hantverket.</dbpedia-owl:abstract>
-    <dbpprop:name xml:lang="en">Royal Court Theatre</dbpprop:name>
-    <dbpedia-owl:abstract xml:lang="de">Das Royal Court Theatre ist ein Theater in London. Es befindet sich am Sloane Square im Stadtteil Chelsea.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Borough_of_Kensington_and_Chelsea"/>
-    <rdfs:comment xml:lang="sv">The Royal Court Theatre är en teater vid Sloane Square i Chelsea i London. Det är en av Storbritanniens mest ansedda och välkända teatrar. Sedan teatern byggdes 1888 har den varit plantskola för nyskriven dramatik. Efter sekelskiftet 1800/1900 hade flera av George Bernard Shaws pjäser urpremiär på Royal Court, däribland Major Barbara. 1952 blev Royal Court hemmascen för The English Stage Company och George Devine blev teaterchef.</rdfs:comment>
-    <dbpprop:opened rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1870</dbpprop:opened>
-    <foaf:name xml:lang="en">Royal Court Theatre</foaf:name>
-    <dbpprop:owner xml:lang="en">English Stage Company</dbpprop:owner>
-    <dbpedia-owl:abstract xml:lang="fr">Le Royal Court Theatre est un théâtre sans but lucratif londonien, dans le quartier de Chelsea. Au début du XX siècle, il abrita la révolution du new drama avant d'abriter celle des années 1950.</dbpedia-owl:abstract>
-    <dbpedia-owl:formerName xml:lang="en">1870 New Chelsea Theatre</dbpedia-owl:formerName>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Theatre_companies_in_London"/>
-    <dbpprop:city rdf:resource="http://dbpedia.org/resource/London"/>
-    <rdfs:comment xml:lang="ru">Ройал-Корт — театр на Слоан-сквер в Вест-Энде. Внёс заметный вклад в современное театральное искусство. С 1956 года принадлежит «English Stage Company».</rdfs:comment>
-    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
-    <dbpedia-owl:rebuildingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2000-01-01T00:00:00+02:00</dbpedia-owl:rebuildingYear>
-    <rdfs:label xml:lang="cs">Divadlo Royal Court</rdfs:label>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ProduCingHouseTheatresInLondon"/>
-    <dbpprop:designation rdf:resource="http://dbpedia.org/resource/Listed_building"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.arthurlloyd.co.uk/RoyalCourtTheatreLondon.htm"/>
-    <dbpedia-owl:abstract xml:lang="ko">로열코트 극장(The Royal Court Theatre)은 1870년에 창립된 오래된 극장으로서 영국 런던시 슬로언스퀘어에 있다. 1920년대에는 배리 잭슨경이 버밍엄 극단을 인솔하여 버나드 쇼의 &lt;메서셀러로 돌아가라&gt;와 현대복(現代服)에 의한 셰익스피어극 상연 등으로 극장사(劇場史)에 이름을 남겼으며, 더욱이 1956년부터 조지 셰데빈, 토니 리처드슨의 지도 아래 잉글리시 스테이지 컴페니(The English Stage Company)가 이 극장을 차지하여 오즈번의 &lt;성난 얼굴로 돌아보라&gt;를 공연한 후 아든, 웨스커, 핀터 등 새로운 젊은 작가들의 등용문이 되었고, 한편 베케트, 이오네스코, 주네 등 외국 전위작가들의 작품을 공연함으로써 영국 연극사에 획기적 영향과 공헌을 남긴 극장이 되었다.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05nslh"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.royalcourttheatre.com/international.asp"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Buildings_and_structures_completed_in_1888"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Building"/>
-    <rdfs:comment xml:lang="es">El Royal Court Theatre es un teatro británico de Londres, Inglaterra, ubicado en Sloane Square, en el barrio de Kensington y Chelsea. Es un teatro no comercial, cuyo objetivo principal es la promoción del teatro contemporáneo. Desde 1956, es propiedad de su compañía residente, the English Stage Company.</rdfs:comment>
-    <rdfs:comment xml:lang="no">Royal Court Theatre er et ikke-kommersielt teater på Sloane Square i Chelsea i London. Teateret har gjennom hele det 20. århundre vært kjent som et av Londons mest progressive teatre, og en ledende scene for ny britisk dramatikk. Royal Court Theatre er det faste tilholdsstedet for teaterkompaniet English Stage Company. Royal Courts historie går tilbake til 1870-åra. Etter at teateret noen år hadde hatt tilhold i en tidligere frikirke på Sloane Square, ble dagens teaterbygning reist i 1888.</rdfs:comment>
-    <rdfs:comment xml:lang="cs">Divadlo Royal Court je nekomerční divadlo ve West Endu v Londýně, leží na Sloane Square ve čtvrti Royal Borough of Kensington and Chelsea. Je známé svým přínosem modernímu divadlu. Od roku 1956 ho provozuje divadelní společnost English Stage Company.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Theatres_in_Kensington_and_Chelsea"/>
-    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.156583</geo:long>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Divadlo_Royal_Court"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/stage/2009/jul/21/royal-court-upstairs-40-years"/>
     <dbpprop:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</dbpprop:longitude>
-    <dbpedia-owl:abstract xml:lang="it">Il Royal Court Theatre è un teatro londinese, situato nel Royal Borough of Kensington and Chelsea, edificato nel 1870 con il nome "The New Chelsea Theatre", e noto per il suo contributo allo sviluppo della drammaturgia moderna.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="en">The Royal Court Theatre is a non-commercial theatre on Sloane Square, in the Royal Borough of Kensington and Chelsea, London. It is noted for its contributions to modern theatre. In 1956 it was acquired by and is home to a resident company, the English Stage Company.</dbpedia-owl:abstract>
-    <dbpprop:capacity xml:lang="en">Theatre Upstairs 85</dbpprop:capacity>
-    <dbpedia-owl:address xml:lang="en">Sloane Square</dbpedia-owl:address>
-    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Royal_Borough_of_Kensington_and_Chelsea"/>
-    <rdfs:label xml:lang="de">Royal Court Theatre</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Producing_house_theatres_in_London"/>
-    <dbpprop:rebuilt rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2000</dbpprop:rebuilt>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Theatre"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Grade_II_listed_theatres"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Grade_II_listed_buildings_in_London"/>
-    <dbpedia-owl:type rdf:resource="http://dbpedia.org/resource/West_End_theatre"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Royal_Court_Theatre"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Royal_Court_Theatre"/>
-    <dbpprop:address rdf:resource="http://dbpedia.org/resource/Sloane_Square"/>
-    <dbpedia-owl:openingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1870-01-01T00:00:00+02:00</dbpedia-owl:openingYear>
-    <dbpprop:othernames rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1871</dbpprop:othernames>
-    <dbpprop:production xml:lang="en">Red Bud/Tribes</dbpprop:production>
-    <grs:point xml:lang="en">51.492583 -0.156583</grs:point>
-    <rdfs:comment xml:lang="de">Das Royal Court Theatre ist ein Theater in London. Es befindet sich am Sloane Square im Stadtteil Chelsea.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="es">El Royal Court Theatre es un teatro británico de Londres, Inglaterra, ubicado en Sloane Square, en el barrio de Kensington y Chelsea. Es un teatro no comercial, cuyo objetivo principal es la promoción del teatro contemporáneo. Desde 1956, es propiedad de su compañía residente, the English Stage Company.</dbpedia-owl:abstract>
-    <rdfs:label xml:lang="en">Royal Court Theatre</rdfs:label>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://archiveshub.ac.uk/search/record.html?recid=thm-273&amp;rsid=1067665524"/>
-    <rdfs:comment xml:lang="fr">Le Royal Court Theatre est un théâtre sans but lucratif londonien, dans le quartier de Chelsea. Au début du XX siècle, il abrita la révolution du new drama avant d'abriter celle des années 1950.</rdfs:comment>
-    <rdfs:comment xml:lang="it">Il Royal Court Theatre è un teatro londinese, situato nel Royal Borough of Kensington and Chelsea, edificato nel 1870 con il nome "The New Chelsea Theatre", e noto per il suo contributo allo sviluppo della drammaturgia moderna.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Royal_Court_Theatre"/>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.victorianweb.org/mt/theaters/pva234.html"/>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/로열코트_극장"/>
-    <dbpprop:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#int">51</dbpprop:latitude>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.royalcourttheatre.com/default.asp"/>
-    <dbpedia-owl:locationCity rdf:resource="http://dbpedia.org/resource/London"/>
-    <dbpedia-owl:abstract xml:lang="ru">Ройал-Корт — театр на Слоан-сквер в Вест-Энде. Внёс заметный вклад в современное театральное искусство. С 1956 года принадлежит «English Stage Company».</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/6/69/Royalcourttheatre.jpg"/>
-    <dbpedia-owl:abstract xml:lang="cs">Divadlo Royal Court je nekomerční divadlo ve West Endu v Londýně, leží na Sloane Square ve čtvrti Royal Borough of Kensington and Chelsea. Je známé svým přínosem modernímu divadlu. Od roku 1956 ho provozuje divadelní společnost English Stage Company.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure"/>
-    <dbpprop:website xml:lang="en">www.royalcourttheatre.com</dbpprop:website>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-0.156583 51.4926)</geo:geometry>
-    <dbpedia-owl:abstract xml:lang="no">Royal Court Theatre er et ikke-kommersielt teater på Sloane Square i Chelsea i London. Teateret har gjennom hele det 20. århundre vært kjent som et av Londons mest progressive teatre, og en ledende scene for ny britisk dramatikk. Royal Court Theatre er det faste tilholdsstedet for teaterkompaniet English Stage Company. Royal Courts historie går tilbake til 1870-åra. Etter at teateret noen år hadde hatt tilhold i en tidligere frikirke på Sloane Square, ble dagens teaterbygning reist i 1888. I 1904 ble teateret overtatt av Harley Granville-Barker, som satte opp flere stykker av George Bernard Shaw – blant dem Major Barbara, Heartbreak House og Candida. Etter et mellomspill som kinolokale og etter bombing under krigen, ble Royal Court gjenåpna som teater i 1952. Den nye eieren George Devine skapte furore med John Osbornes stykke Look Back in Anger og flere nyskrevne stykker som utfordra den tidas offentlige sensur. Royal Court har satt opp tidlige stykker av John Arden, Arnold Wesker, Athol Fugard, Caryl Churchill, Sam Shepard og Martin McDonagh. The Rocky Horror Show hadde sin urpremiere på Royal Court. Teateret har to saler; en tradisjonell scene («Theatre Downstairs») med 400 plasser og en studioscene («Theatre Upstairs») med 80 plasser.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="en">The Royal Court Theatre is a non-commercial theatre on Sloane Square, in the Royal Borough of Kensington and Chelsea, London. It is noted for its contributions to modern theatre. In 1956 it was acquired by and is home to a resident company, the English Stage Company.</rdfs:comment>
-    <rdfs:comment xml:lang="ko">로열코트 극장(The Royal Court Theatre)은 1870년에 창립된 오래된 극장으로서 영국 런던시 슬로언스퀘어에 있다. 1920년대에는 배리 잭슨경이 버밍엄 극단을 인솔하여 버나드 쇼의 &lt;메서셀러로 돌아가라&gt;와 현대복(現代服)에 의한 셰익스피어극 상연 등으로 극장사(劇場史)에 이름을 남겼으며, 더욱이 1956년부터 조지 셰데빈, 토니 리처드슨의 지도 아래 잉글리시 스테이지 컴페니(The English Stage Company)가 이 극장을 차지하여 오즈번의 &lt;성난 얼굴로 돌아보라&gt;를 공연한 후 아든, 웨스커, 핀터 등 새로운 젊은 작가들의 등용문이 되었고, 한편 베케트, 이오네스코, 주네 등 외국 전위작가들의 작품을 공연함으로써 영국 연극사에 획기적 영향과 공헌을 남긴 극장이 되었다.</rdfs:comment>
-    <dbpprop:artisticDirector rdf:resource="http://dbpedia.org/resource/Dominic_Cooke"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1870_establishments"/>
     <rdf:type rdf:resource="http://schema.org/Place"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Grade_II_listed_theatres"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.royalcourttheatre.com/international.asp"/>
+    <dbpedia-owl:locationCity rdf:resource="http://dbpedia.org/resource/London"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.156583</geo:long>
+    <rdfs:label xml:lang="de">Royal Court Theatre</rdfs:label>
+    <rdfs:comment xml:lang="ru">Ройал-Корт — театр на Слоан-сквер в Вест-Энде. Внёс заметный вклад в современное театральное искусство. С 1956 года принадлежит «English Stage Company».</rdfs:comment>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/6/69/Royalcourttheatre.jpg"/>
     <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Royalcourttheatre.jpg/200px-Royalcourttheatre.jpg"/>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Ройал-Корт"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GradeIIListedBuildingsInLondon"/>
-    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.4926</geo:lat>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Royal_Court_Theatre"/>
+    <rdfs:comment xml:lang="sv">The Royal Court Theatre är en teater vid Sloane Square i Chelsea i London. Det är en av Storbritanniens mest ansedda och välkända teatrar. Sedan teatern byggdes 1888 har den varit plantskola för nyskriven dramatik. Efter sekelskiftet 1800/1900 hade flera av George Bernard Shaws pjäser urpremiär på Royal Court, däribland Major Barbara. 1952 blev Royal Court hemmascen för The English Stage Company och George Devine blev teaterchef.</rdfs:comment>
+    <rdfs:comment xml:lang="no">Royal Court Theatre er et ikke-kommersielt teater på Sloane Square i Chelsea i London. Teateret har gjennom hele det 20. århundre vært kjent som et av Londons mest progressive teatre, og en ledende scene for ny britisk dramatikk. Royal Court Theatre er det faste tilholdsstedet for teaterkompaniet English Stage Company. Royal Courts historie går tilbake til 1870-åra. Etter at teateret noen år hadde hatt tilhold i en tidligere frikirke på Sloane Square, ble dagens teaterbygning reist i 1888.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.british-history.ac.uk/report.asp?compid=28709#s10"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Theatres_where_Gilbert_or_Sullivan_works_premiered"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1870_establishments"/>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/London"/>
+    <dbpedia-owl:abstract xml:lang="es">El Royal Court Theatre es un teatro británico de Londres, Inglaterra, ubicado en Sloane Square, en el barrio de Kensington y Chelsea. Es un teatro no comercial, cuyo objetivo principal es la promoción del teatro contemporáneo. Desde 1956, es propiedad de su compañía residente, the English Stage Company.</dbpedia-owl:abstract>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-0.156583 51.4926)</geo:geometry>
+    <dbpprop:capacity xml:lang="en">Theatre Upstairs 85</dbpprop:capacity>
+    <dbpedia-owl:abstract xml:lang="cs">Divadlo Royal Court je nekomerční divadlo ve West Endu v Londýně, leží na Sloane Square ve čtvrti Royal Borough of Kensington and Chelsea. Je známé svým přínosem modernímu divadlu. Od roku 1956 ho provozuje divadelní společnost English Stage Company.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://archiveshub.ac.uk/search/record.html?recid=thm-273&amp;rsid=1067665524"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <dbpprop:opened rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1870</dbpprop:opened>
+    <dbpprop:website xml:lang="en">www.royalcourttheatre.com</dbpprop:website>
+    <rdfs:comment xml:lang="fr">Le Royal Court Theatre est un théâtre sans but lucratif londonien, dans le quartier de Chelsea. Au début du XX siècle, il abrita la révolution du new drama avant d'abriter celle des années 1950.</rdfs:comment>
+    <dbpprop:othernames rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1871</dbpprop:othernames>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Royal_Court_Theatre"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/stage/2009/jul/21/royal-court-upstairs-40-years"/>
+    <rdfs:label xml:lang="en">Royal Court Theatre</rdfs:label>
+    <dbpprop:caption xml:lang="en">The Royal Court Theatre at dusk in 2007</dbpprop:caption>
+    <dbpedia-owl:abstract xml:lang="no">Royal Court Theatre er et ikke-kommersielt teater på Sloane Square i Chelsea i London. Teateret har gjennom hele det 20. århundre vært kjent som et av Londons mest progressive teatre, og en ledende scene for ny britisk dramatikk. Royal Court Theatre er det faste tilholdsstedet for teaterkompaniet English Stage Company. Royal Courts historie går tilbake til 1870-åra. Etter at teateret noen år hadde hatt tilhold i en tidligere frikirke på Sloane Square, ble dagens teaterbygning reist i 1888. I 1904 ble teateret overtatt av Harley Granville-Barker, som satte opp flere stykker av George Bernard Shaw – blant dem Major Barbara, Heartbreak House og Candida. Etter et mellomspill som kinolokale og etter bombing under krigen, ble Royal Court gjenåpna som teater i 1952. Den nye eieren George Devine skapte furore med John Osbornes stykke Look Back in Anger og flere nyskrevne stykker som utfordra den tidas offentlige sensur. Royal Court har satt opp tidlige stykker av John Arden, Arnold Wesker, Athol Fugard, Caryl Churchill, Sam Shepard og Martin McDonagh. The Rocky Horror Show hadde sin urpremiere på Royal Court. Teateret har to saler; en tradisjonell scene («Theatre Downstairs») med 400 plasser og en studioscene («Theatre Upstairs») med 80 plasser.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Royal_Court_Theatre"/>
+    <grs:point xml:lang="en">51.492583 -0.156583</grs:point>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Theatres_in_Kensington_and_Chelsea"/>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Royal_Borough_of_Kensington_and_Chelsea"/>
+    <dbpedia-owl:rebuildingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2000-01-01T00:00:00+02:00</dbpedia-owl:rebuildingYear>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure"/>
+    <rdfs:label xml:lang="cs">Divadlo Royal Court</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="sv">The Royal Court Theatre är en teater vid Sloane Square i Chelsea i London. Det är en av Storbritanniens mest ansedda och välkända teatrar. Sedan teatern byggdes 1888 har den varit plantskola för nyskriven dramatik. Efter sekelskiftet 1800/1900 hade flera av George Bernard Shaws pjäser urpremiär på Royal Court, däribland Major Barbara. 1952 blev Royal Court hemmascen för The English Stage Company och George Devine blev teaterchef. 1956 hade John Osbornes Se dig om i vrede premiär på teatern som sedan blev hemmascenen för den generation brittiska dramatiker som blivit kända under beteckningen arga unga män. Bland dramatiker vars pjäser haft urpremiär på Royal Court Theatre kan nämnas John Arden, Edward Bond, Joe Orton, Arnold Wesker, Christopher Hampton, Nigel Williams, Howard Barker, Timberlake Wertenbaker, Jim Cartwright, Hanif Kureishi, Sarah Kane och Mark Ravenhill. 1973 hade musikalen Rocky Horror Show urpremiär här. En viktig del av Royal Court Theatres profil är att anställa husdramatiker (engelska writer in residence) som under en period får skriva direkt för teatern och som på så vis också får direktkontakt med det sceniska hantverket.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="it">Il Royal Court Theatre è un teatro londinese, situato nel Royal Borough of Kensington and Chelsea, edificato nel 1870 con il nome "The New Chelsea Theatre", e noto per il suo contributo allo sviluppo della drammaturgia moderna.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Grade_II_listed_buildings_in_London"/>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Borough_of_Kensington_and_Chelsea"/>
+    <dbpedia-owl:openingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1870-01-01T00:00:00+02:00</dbpedia-owl:openingYear>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Theatre"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Royal_Court_Theatre"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Divadlo_Royal_Court"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.victorianweb.org/mt/theaters/pva234.html"/>
+    <dbpedia-owl:abstract xml:lang="ko">로열코트 극장(The Royal Court Theatre)은 1870년에 창립된 오래된 극장으로서 영국 런던시 슬로언스퀘어에 있다. 1920년대에는 배리 잭슨경이 버밍엄 극단을 인솔하여 버나드 쇼의 &lt;메서셀러로 돌아가라&gt;와 현대복(現代服)에 의한 셰익스피어극 상연 등으로 극장사(劇場史)에 이름을 남겼으며, 더욱이 1956년부터 조지 셰데빈, 토니 리처드슨의 지도 아래 잉글리시 스테이지 컴페니(The English Stage Company)가 이 극장을 차지하여 오즈번의 &lt;성난 얼굴로 돌아보라&gt;를 공연한 후 아든, 웨스커, 핀터 등 새로운 젊은 작가들의 등용문이 되었고, 한편 베케트, 이오네스코, 주네 등 외국 전위작가들의 작품을 공연함으로써 영국 연극사에 획기적 영향과 공헌을 남긴 극장이 되었다.</dbpedia-owl:abstract>
+    <dbpprop:designation rdf:resource="http://dbpedia.org/resource/Listed_building"/>
+    <dbpprop:artisticDirector rdf:resource="http://dbpedia.org/resource/Dominic_Cooke"/>
+    <rdfs:comment xml:lang="es">El Royal Court Theatre es un teatro británico de Londres, Inglaterra, ubicado en Sloane Square, en el barrio de Kensington y Chelsea. Es un teatro no comercial, cuyo objetivo principal es la promoción del teatro contemporáneo. Desde 1956, es propiedad de su compañía residente, the English Stage Company.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:comment xml:lang="it">Il Royal Court Theatre è un teatro londinese, situato nel Royal Borough of Kensington and Chelsea, edificato nel 1870 con il nome "The New Chelsea Theatre", e noto per il suo contributo allo sviluppo della drammaturgia moderna.</rdfs:comment>
+    <dbpprop:name xml:lang="en">Royal Court Theatre</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Producing_house_theatres_in_London"/>
+    <dbpedia-owl:abstract xml:lang="de">Das Royal Court Theatre ist ein Theater in London. Es befindet sich am Sloane Square im Stadtteil Chelsea.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TheatresInKensingtonAndChelsea"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/로열코트_극장"/>
+    <rdfs:comment xml:lang="cs">Divadlo Royal Court je nekomerční divadlo ve West Endu v Londýně, leží na Sloane Square ve čtvrti Royal Borough of Kensington and Chelsea. Je známé svým přínosem modernímu divadlu. Od roku 1956 ho provozuje divadelní společnost English Stage Company.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.arthurlloyd.co.uk/RoyalCourtTheatreLondon.htm"/>
+    <rdfs:comment xml:lang="ko">로열코트 극장(The Royal Court Theatre)은 1870년에 창립된 오래된 극장으로서 영국 런던시 슬로언스퀘어에 있다. 1920년대에는 배리 잭슨경이 버밍엄 극단을 인솔하여 버나드 쇼의 &lt;메서셀러로 돌아가라&gt;와 현대복(現代服)에 의한 셰익스피어극 상연 등으로 극장사(劇場史)에 이름을 남겼으며, 더욱이 1956년부터 조지 셰데빈, 토니 리처드슨의 지도 아래 잉글리시 스테이지 컴페니(The English Stage Company)가 이 극장을 차지하여 오즈번의 &lt;성난 얼굴로 돌아보라&gt;를 공연한 후 아든, 웨스커, 핀터 등 새로운 젊은 작가들의 등용문이 되었고, 한편 베케트, 이오네스코, 주네 등 외국 전위작가들의 작품을 공연함으로써 영국 연극사에 획기적 영향과 공헌을 남긴 극장이 되었다.</rdfs:comment>
     <dbpprop:othernames rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1870</dbpprop:othernames>
-    <dbpprop:capacity xml:lang="en">Theatre Downstairs 380</dbpprop:capacity>
-    <dbpprop:rebuilt rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1888</dbpprop:rebuilt>
-    <dbpedia-owl:formerName xml:lang="en">1871 Belgravia Theatre</dbpedia-owl:formerName>
+    <dbpedia-owl:abstract xml:lang="en">The Royal Court Theatre is a non-commercial theatre on Sloane Square, in the Royal Borough of Kensington and Chelsea, London. It is noted for its contributions to modern theatre. In 1956 it was acquired by and is home to a resident company, the English Stage Company.</dbpedia-owl:abstract>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Royal_Court_Theatre"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ProduCingHouseTheatresInLondon"/>
     <dbpprop:type rdf:resource="http://dbpedia.org/resource/West_End_theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Home_(play)">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cleansed">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/English_Stage_Company">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jerwood_Theatre_Upstairs">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/My_Night_with_Reg">
-    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Haworth_Tompkins">
-    <dbpprop:significantBuildings rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Empire_(play)">
-    <dbpedia-owl:premierePlace rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
+    <dbpedia-owl:abstract xml:lang="fr">Le Royal Court Theatre est un théâtre sans but lucratif londonien, dans le quartier de Chelsea. Au début du XX siècle, il abrita la révolution du new drama avant d'abriter celle des années 1950.</dbpedia-owl:abstract>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.4926</geo:lat>
+    <dbpprop:address rdf:resource="http://dbpedia.org/resource/Sloane_Square"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Royal_Court_Theatre?oldid=492183357"/>
+    <dbpedia-owl:formerName xml:lang="en">1870 New Chelsea Theatre</dbpedia-owl:formerName>
+    <dbpedia-owl:abstract xml:lang="ru">Ройал-Корт — театр на Слоан-сквер в Вест-Энде. Внёс заметный вклад в современное театральное искусство. С 1956 года принадлежит «English Stage Company».</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Theatre_companies_in_London"/>
+    <dbpprop:rebuilt rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2000</dbpprop:rebuilt>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Building"/>
+    <dbpprop:production xml:lang="en">Red Bud/Tribes</dbpprop:production>
+    <rdfs:comment xml:lang="de">Das Royal Court Theatre ist ein Theater in London. Es befindet sich am Sloane Square im Stadtteil Chelsea.</rdfs:comment>
+    <dbpprop:owner xml:lang="en">English Stage Company</dbpprop:owner>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05nslh"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GradeIIListedBuildingsInLondon"/>
+    <dbpedia-owl:formerName xml:lang="en">1871 Belgravia Theatre</dbpedia-owl:formerName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Buildings_and_structures_completed_in_1888"/>
+    <dbpedia-owl:rebuildingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1888-01-01T00:00:00+02:00</dbpedia-owl:rebuildingYear>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.royalcourttheatre.com/default.asp"/>
+    <dbpedia-owl:type rdf:resource="http://dbpedia.org/resource/West_End_theatre"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Royal_Court_Theatre"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Ройал-Корт"/>
+    <foaf:name xml:lang="en">Royal Court Theatre</foaf:name>
+    <dbpedia-owl:address xml:lang="en">Sloane Square</dbpedia-owl:address>
+    <dbpprop:capacity xml:lang="en">Theatre Downstairs 380</dbpprop:capacity>
+    <dbpprop:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#int">51</dbpprop:latitude>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_theatre"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdfs:comment xml:lang="en">The Royal Court Theatre is a non-commercial theatre on Sloane Square, in the Royal Borough of Kensington and Chelsea, London. It is noted for its contributions to modern theatre. In 1956 it was acquired by and is home to a resident company, the English Stage Company.</rdfs:comment>
+    <dbpprop:rebuilt rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1888</dbpprop:rebuilt>
   </rdf:Description>
 </rdf:RDF>

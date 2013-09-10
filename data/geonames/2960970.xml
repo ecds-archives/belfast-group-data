@@ -8,38 +8,38 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
 >
-  <rdf:Description rdf:about="http://sws.geonames.org/2960970/">
-    <gn:alternateName xml:lang="gv">Caair ny Mart</gn:alternateName>
-    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2962666/"/>
-    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Westport%2C_County_Mayo"/>
-    <gn:population>6200</gn:population>
-    <gn:locationMap rdf:resource="http://www.geonames.org/2960970/westport.html"/>
-    <gn:alternateName xml:lang="en">Westport</gn:alternateName>
-    <gn:alternateName xml:lang="ga">Cathair na Mart</gn:alternateName>
-    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
-    <wgs84_pos:lat>53.8</wgs84_pos:lat>
-    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2960970/about.rdf"/>
-    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521313/"/>
-    <gn:parentFeature rdf:resource="http://sws.geonames.org/2962666/"/>
-    <gn:alternateName xml:lang="bg">Уестпорт</gn:alternateName>
-    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2960970/nearby.rdf"/>
-    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
-    <wgs84_pos:long>-9.51667</wgs84_pos:long>
-    <gn:name>Westport</gn:name>
-    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Westport%2C_County_Mayo"/>
-    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
-    <gn:countryCode>IE</gn:countryCode>
-    <gn:alternateName xml:lang="br">Cathair na Mart</gn:alternateName>
-    <gn:alternateName xml:lang="ru">Уэстпорт</gn:alternateName>
-    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2960970/about.rdf">
     <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-02-28</dcterms:modified>
-    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2960970/"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
     <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2960970/"/>
     <cc:attributionURL rdf:resource="http://sws.geonames.org/2960970/"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-02-28</dcterms:modified>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2960970/">
+    <gn:locationMap rdf:resource="http://www.geonames.org/2960970/westport.html"/>
+    <gn:alternateName xml:lang="ga">Cathair na Mart</gn:alternateName>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
+    <gn:population>6200</gn:population>
+    <wgs84_pos:lat>53.8</wgs84_pos:lat>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2960970/nearby.rdf"/>
+    <gn:alternateName xml:lang="br">Cathair na Mart</gn:alternateName>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Westport%2C_County_Mayo"/>
+    <gn:countryCode>IE</gn:countryCode>
+    <gn:alternateName xml:lang="en">Westport</gn:alternateName>
+    <gn:alternateName xml:lang="ru">Уэстпорт</gn:alternateName>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2962666/"/>
+    <gn:alternateName xml:lang="gv">Caair ny Mart</gn:alternateName>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521313/"/>
+    <wgs84_pos:long>-9.51667</wgs84_pos:long>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:alternateName xml:lang="bg">Уестпорт</gn:alternateName>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2962666/"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2960970/about.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:name>Westport</gn:name>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Westport%2C_County_Mayo"/>
   </rdf:Description>
 </rdf:RDF>

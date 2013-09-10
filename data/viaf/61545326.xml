@@ -8,143 +8,149 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca12491974#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000232673#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10124720#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072590181#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Ellmann, Richard (Richard David), 1918-1987</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026850222#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CRichard_Ellmann#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Ellmann, Richard</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++96030022#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cskuk0000360#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000039368#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/61545326/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/61545326"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca12491974#skos:Concept">
+    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX915078#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00438838#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
     <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C221014#skos:Concept">
-    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/221014#concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026850222#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79086281#skos:Concept">
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79086281"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
-    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/61545326/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
+    <skos:altLabel>エルマン, リチャード</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/61545326/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/61545326"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072590181#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Ellmann, Richard (Richard David), 1918-1987</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/61545326/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00438838#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C221014#skos:Concept">
     <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
-    <skos:altLabel>エルマン, リチャード</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118918729#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/221014#concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000232673#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/61545326/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/61545326"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10124720#skos:Concept">
-    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035062907#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
-    <skos:altLabel>Ellmann, Richard</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
-    <skos:altLabel>Ellmann, Richard, 1918-</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0004A9211#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CRichard_Ellmann#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Ellmann, Richard</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11901686#skos:Concept">
     <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb119016869"/>
+    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
     <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb119016869"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C56879#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035062907#skos:Concept">
+    <skos:altLabel>Ellmann, Richard</skos:altLabel>
+    <skos:altLabel>Ellmann, Richard, 1918-</skos:altLabel>
     <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Ellmann, Richard</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX915078#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C56879#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <skos:altLabel>Ellmann, Richard</skos:altLabel>
+    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79086281#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79086281"/>
+    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118918729#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cskuk0000360#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
     <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/61545326">
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118918729"/>
-    <foaf:name>Ellmann, Richard, 1918-</foaf:name>
-    <foaf:name>Ellmann, Richard (Richard David), 1918-1987</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/221014"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Richard_Ellmann"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
     <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb119016869#foaf:Person"/>
-    <rdaGr2:dateOfDeath>1987-05-13</rdaGr2:dateOfDeath>
-    <foaf:name>エルマン, リチャード</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Richard_Ellmann"/>
+    <foaf:name>Ellmann, Richard, 1918-</foaf:name>
     <foaf:name>Ellmann, Richard, 1918-1987</foaf:name>
     <owl:sameAs rdf:resource="http://www.idref.fr/026850222/id"/>
-    <foaf:name>Ellmann, Richard</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
     <rdaGr2:dateOfBirth>1918-03-15</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/221014"/>
+    <foaf:name>エルマン, リチャード</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Ellmann, Richard (Richard David), 1918-1987</foaf:name>
+    <foaf:name>Ellmann, Richard</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118918729"/>
+    <rdaGr2:dateOfDeath>1987-05-13</rdaGr2:dateOfDeath>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0004A9211#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:prefLabel>Ellmann, Richard, 1918-1987</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/61545326"/>
   </rdf:Description>
 </rdf:RDF>

@@ -4,14 +4,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/carson746/series7/">
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/carson746/index1/"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:name xml:lang="en">Ciaran Carson papers, circa 1970-2010; Series 7: Personal materials, 1975-2003</schema:name>
-    <schema:about rdf:resource="http://viaf.org/viaf/85621766"/>
-    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/85621766">
     <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/carson746/series7/">
+    <schema:about rdf:resource="http://viaf.org/viaf/85621766"/>
+    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/carson746/index1/"/>
+    <schema:name xml:lang="en">Ciaran Carson papers, circa 1970-2010; Series 7: Personal materials, 1975-2003</schema:name>
   </rdf:Description>
 </rdf:RDF>

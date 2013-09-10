@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Hayes">
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.oreillyfoundation.ie/index.php?c_id=7"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <rdfs:label xml:lang="en">Maurice Hayes</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_22nd_Seanad"/>
+    <rdfs:comment xml:lang="en">Maurice Hayes (born 8 July 1927) is an Irish politician and was an independent member of the 21st and 22nd Seanads, nominated as a senator by the Taoiseach.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:O'Reilly_Foundation"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WritersFromNorthernIreland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Down"/>
+    <foaf:surname xml:lang="en">Hayes</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IndependentPoliticiansInIreland"/>
+    <dbpprop:name xml:lang="en">Hayes, Maurice</dbpprop:name>
+    <foaf:name xml:lang="en">Maurice Hayes</foaf:name>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.056t0k"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Maurice_Hayes?oldid=453872681"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_21st_Seanad"/>
+    <dbpedia-owl:abstract xml:lang="en">Maurice Hayes (born 8 July 1927) is an Irish politician and was an independent member of the 21st and 22nd Seanads, nominated as a senator by the Taoiseach.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1927-07-08</dbpedia-owl:birthDate>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</dbpprop:dateOfBirth>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Maurice_Hayes"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyDown"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CivilServantsFromNorthernIreland"/>
+    <foaf:givenName xml:lang="en">Maurice</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_Northern_Ireland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Independent_politicians_in_Ireland"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Maurice_Hayes"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Civil_servants_from_Northern_Ireland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1927_births"/>
+  </rdf:Description>
+</rdf:RDF>

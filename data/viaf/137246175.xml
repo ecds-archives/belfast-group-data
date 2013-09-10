@@ -7,33 +7,33 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/137246175/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/137246175"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/137246175/#rdaEnt:CorporateBody">
     <owl:sameAs rdf:resource="http://viaf.org/viaf/137246175"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/137246175/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/137246175"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/137246175/#foaf:Organization">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/137246175"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++83176075#skos:Concept">
+    <skos:prefLabel>Irish Theatre Company (Dublin, Ireland)</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n83176075"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/137246175"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/137246175/">
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/137246175"/>
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/137246175"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/137246175">
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
-    <foaf:name>Irish Theatre Company (Dublin, Ireland)</foaf:name>
     <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++83176075#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:prefLabel>Irish Theatre Company (Dublin, Ireland)</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n83176075"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/137246175"/>
+    <foaf:name>Irish Theatre Company (Dublin, Ireland)</foaf:name>
   </rdf:Description>
 </rdf:RDF>

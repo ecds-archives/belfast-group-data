@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/2960936/about.rdf">
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2960936/"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-03-01</dcterms:modified>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2960936/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2960936/">
+    <gn:alternateName>Cill Maintáinn</gn:alternateName>
+    <wgs84_pos:lat>52.975</wgs84_pos:lat>
+    <gn:alternateName xml:lang="en">Wicklow</gn:alternateName>
+    <gn:countryCode>IE</gn:countryCode>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Wicklow"/>
+    <gn:alternateName>Cill Maintain</gn:alternateName>
+    <gn:population>10461</gn:population>
+    <gn:alternateName xml:lang="ga">Cill Mhantáin</gn:alternateName>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2960936/nearby.rdf"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2960935/"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLA2"/>
+    <gn:alternateName>Cill Mhanntain</gn:alternateName>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2960936/about.rdf"/>
+    <gn:name>Wicklow</gn:name>
+    <gn:alternateName>Cill Manntéin</gn:alternateName>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521314/"/>
+    <gn:alternateName>Cill Mantan</gn:alternateName>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Wicklow"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2960935/"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2960936/wicklow.html"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
+    <wgs84_pos:long>-6.04944</wgs84_pos:long>
+  </rdf:Description>
+</rdf:RDF>

@@ -4,79 +4,79 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="N770dd6da281d49ce86440a7123ebaa63">
-    <rdf:first>Orpheus</rdf:first>
-    <rdf:rest rdf:nodeID="N0eecb9229c7446aa8d13c372420940ac"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1068">
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>THE CENTAURS</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N987d0a3696c0456285601e857a0e25a8">
-    <rdf:first>Circe</rdf:first>
-    <rdf:rest rdf:nodeID="N3f53887c818742fd978f97d9fc7208bf"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N0eecb9229c7446aa8d13c372420940ac">
-    <rdf:rest rdf:nodeID="N05e66b6951f24d9d9ae99dc810692a80"/>
-    <rdf:first>A Personal Statement</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
-    <schema:name>MICHAEL LONGLEY</schema:name>
-    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1063">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
     <schema:name>A PERSONAL STATEMENT</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4a6d01c6fa544105b7365becc5e6a134">
+    <rdf:first>Christopher at Birth</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>MICHAEL LONGLEY</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1053">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
     <schema:name>THE ORNITHOLOGICAL SECTION</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N05e66b6951f24d9d9ae99dc810692a80">
-    <rdf:first>The Centaurs</rdf:first>
-    <rdf:rest rdf:nodeID="N75b977f0d6e44ff898fc59d957234581"/>
+  <rdf:Description rdf:nodeID="N1913c1677f1744b1ae3b5fbe09f8cd49">
+    <rdf:first>Orpheus</rdf:first>
+    <rdf:rest rdf:nodeID="Nf0d1d4158b4b4a068ad88757eb7cb927"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1068">
+    <schema:name>THE CENTAURS</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1078">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
     <schema:name>CHRISTOPHER AT BIRTH</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1048">
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <schema:name>CIRCE</schema:name>
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/6a737caa21790f6b0ab9daae73bf09c2">
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m1h"/>
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <dc:title rdf:nodeID="N1fc404338ba949f5af4c18c5d2571714"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2674172e23fe4573ab00bbd196795555">
+    <rdf:first>The Ornithological Section</rdf:first>
+    <rdf:rest rdf:nodeID="N1913c1677f1744b1ae3b5fbe09f8cd49"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1058">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:name>ORPHEUS</schema:name>
     <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1073">
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <schema:name>THE HOUSEWIFE'S TESTAMENT</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  <rdf:Description rdf:nodeID="Nf0d1d4158b4b4a068ad88757eb7cb927">
+    <rdf:first>A Personal Statement</rdf:first>
+    <rdf:rest rdf:nodeID="Ncccf60cacb1342089b6dd890de8432a6"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/6a737caa21790f6b0ab9daae73bf09c2">
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m1h"/>
-    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
-    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
-    <dc:title rdf:nodeID="N987d0a3696c0456285601e857a0e25a8"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N3f53887c818742fd978f97d9fc7208bf">
-    <rdf:rest rdf:nodeID="N770dd6da281d49ce86440a7123ebaa63"/>
-    <rdf:first>The Ornithological Section</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc32101a564184097aa22b8da3edb868a">
-    <rdf:first>Christopher at Birth</rdf:first>
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N75b977f0d6e44ff898fc59d957234581">
+  <rdf:Description rdf:nodeID="Nf132d7dc87114d95aca716368067fe8d">
     <rdf:first>The Housewife's Testament</rdf:first>
-    <rdf:rest rdf:nodeID="Nc32101a564184097aa22b8da3edb868a"/>
+    <rdf:rest rdf:nodeID="N4a6d01c6fa544105b7365becc5e6a134"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncccf60cacb1342089b6dd890de8432a6">
+    <rdf:first>The Centaurs</rdf:first>
+    <rdf:rest rdf:nodeID="Nf132d7dc87114d95aca716368067fe8d"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1fc404338ba949f5af4c18c5d2571714">
+    <rdf:first>Circe</rdf:first>
+    <rdf:rest rdf:nodeID="N2674172e23fe4573ab00bbd196795555"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1073">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>THE HOUSEWIFE'S TESTAMENT</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m1h#longley1_1048">
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>CIRCE</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
 </rdf:RDF>

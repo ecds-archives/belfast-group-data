@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C056533829#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109992610"/>
+    <skos:prefLabel>Ridler, Anne, 1912-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2002033907#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109992610"/>
+    <skos:altLabel>Bradby, Anne.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Ridler, Anne, 1912-2001</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CAnne_Ridler#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109992610"/>
+    <skos:prefLabel>Ridler, Anne</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109992610/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109992610"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++83063103#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Bradby, Anne, 1912-2001</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109992610"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n83063103"/>
+    <skos:altLabel>Ridler, Anne Bradby, 1912-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Ridler, Anne, 1912-2001</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000111435#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109992610"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Ridler, Anne Bradby, 1912-</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109992610">
+    <foaf:name>Ridler, Anne, 1912-2001</foaf:name>
+    <rdaGr2:dateOfBirth>1912-07-30</rdaGr2:dateOfBirth>
+    <foaf:name>Ridler, Anne Bradby, 1912-2001</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/056533829/id"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdaGr2:dateOfDeath>2001-10-15</rdaGr2:dateOfDeath>
+    <foaf:name>Ridler, Anne Bradby, 1912-</foaf:name>
+    <foaf:name>Bradby, Anne.</foaf:name>
+    <foaf:name>Bradby, Anne (Anne Barbara Bradby), 1912-2001</foaf:name>
+    <foaf:name>Ridler, Anne, 1912-....</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Bradby, Anne, 1912-2001</foaf:name>
+    <foaf:name>Ridler, Anne</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Anne_Ridler"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/131622455"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109992610/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/109992610"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109992610/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/109992610"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C131622455#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Bradby, Anne, 1912-2001</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109992610"/>
+    <skos:altLabel>Ridler, Anne Bradby, 1912-2001</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Ridler, Anne, 1912-2001</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035452360#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109992610"/>
+    <skos:prefLabel>Ridler, Anne, 1912-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Ridler, Anne Bradby, 1912-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV11469243#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109992610"/>
+    <skos:prefLabel>Ridler, Anne, 1912-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C074758640#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:altLabel>Ridler, Anne Bradby, 1912-2001</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109992610"/>
+    <skos:prefLabel>Bradby, Anne (Anne Barbara Bradby), 1912-2001</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

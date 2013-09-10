@@ -8,159 +8,169 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036245614#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C27071#skos:Concept">
+    <skos:altLabel>Banville, John</skos:altLabel>
+    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12186116#skos:Concept">
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12186116c"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12186116c"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJohn_Banville#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Banville, John</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++99027949#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
-    <skos:altLabel>Black, Benjamin.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118904469#skos:Concept">
-    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
-    <skos:altLabel>Black, Benjamin 1945- Pseudonym</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
-    <skos:altLabel>Banṿil, G'on 1945-</skos:altLabel>
-    <skos:altLabel>Blaḳ, Beng'amin 1945-</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000015043#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
-    <skos:altLabel>באנוויל, ג'ון, 1945-</skos:altLabel>
-    <skos:altLabel>בלק, בנג'מין, 1945-</skos:altLabel>
-    <skos:prefLabel>Banville, John</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C281314#skos:Concept">
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/281314#concept"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001636160#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
-    <skos:altLabel>جون بانفيل</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
-    <skos:prefLabel>بانفيل، جون</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/46805211">
-    <foaf:name>Banville, John</foaf:name>
-    <foaf:name>Banville, John, 1945-....</foaf:name>
-    <foaf:name>Blaḳ, Beng'amin 1945-</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/John_Banville"/>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118904469"/>
-    <foaf:name>بانفيل، جون</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/4358084"/>
-    <foaf:name>جون بانفيل</foaf:name>
-    <foaf:name>Banṿil, G'on 1945-</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>בנויל, ג'ון, 1945-</foaf:name>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/4358084"/>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/281314"/>
-    <foaf:name>באנוויל, ג'ון, 1945-</foaf:name>
-    <foaf:name>Black, Benjamin 1945- Pseudonym</foaf:name>
-    <rdaGr2:dateOfBirth>1945-12-08</rdaGr2:dateOfBirth>
-    <foaf:name>Black, Benjamin, 1945-....</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/030449189/id"/>
-    <foaf:name>Black, Benjamin.</foaf:name>
-    <foaf:name>בלק, בנג'מין, 1945-</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12186116c#foaf:Person"/>
-    <foaf:name>バンヴィル, ジョン</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/46805211/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/46805211/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/46805211"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX845098#skos:Concept">
+    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C071735771#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000040852#skos:Concept">
+    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <skos:altLabel>Бэнвилл, Джон, 1945-</skos:altLabel>
+    <skos:altLabel>Benvils, Džons, 1945-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C030449189#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Black, Benjamin, 1945-....</skos:altLabel>
     <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/VLACC%7C000000156#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/VLACC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
     <skos:prefLabel>Banville, John</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50022076#skos:Concept">
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50022076"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Banville, John</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/46805211/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/46805211"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C27071#skos:Concept">
-    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
-    <skos:altLabel>Banville, John</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C030449189#skos:Concept">
-    <skos:altLabel>Black, Benjamin, 1945-....</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJohn_Banville#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
-    <skos:prefLabel>Banville, John</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000600629#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca10341407#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
     <skos:altLabel>Black, Benjamin.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12186116#skos:Concept">
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12186116c"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12186116c"/>
+    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/46805211">
+    <foaf:name>جون بانفيل</foaf:name>
+    <foaf:name>Black, Benjamin 1945- Pseudonym</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/John_Banville"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/281314"/>
+    <foaf:name>بانفيل، جون</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12186116c#foaf:Person"/>
+    <foaf:name>バンヴィル, ジョン</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118904469"/>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/4358084"/>
+    <foaf:name>Benvils, Džons, 1945-</foaf:name>
+    <foaf:name>Black, Benjamin, 1945-....</foaf:name>
+    <foaf:name>Blaḳ, Beng'amin 1945-</foaf:name>
+    <foaf:name>בנויל, ג'ון, 1945-</foaf:name>
+    <foaf:name>Banṿil, G'on 1945-</foaf:name>
+    <rdaGr2:dateOfBirth>1945-12-08</rdaGr2:dateOfBirth>
+    <foaf:name>Banville, John, 1945-....</foaf:name>
+    <foaf:name>באנוויל, ג'ון, 1945-</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/030449189/id"/>
+    <foaf:name>Бэнвилл, Джон, 1945-</foaf:name>
+    <foaf:name>Banville, John</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/4358084"/>
+    <foaf:name>בלק, בנג'מין, 1945-</foaf:name>
+    <foaf:name>Black, Benjamin.</foaf:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00462761#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
     <skos:altLabel>バンヴィル, ジョン</skos:altLabel>
     <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/46805211/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/46805211"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000015043#skos:Concept">
+    <skos:altLabel>באנוויל, ג'ון, 1945-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:prefLabel>Banville, John</skos:prefLabel>
+    <skos:altLabel>בלק, בנג'מין, 1945-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C281314#skos:Concept">
+    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/281314#concept"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/46805211/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/46805211/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/46805211"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++99027949#skos:Concept">
+    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:altLabel>Black, Benjamin.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000600629#skos:Concept">
+    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001636160#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+    <skos:prefLabel>بانفيل، جون</skos:prefLabel>
+    <skos:altLabel>جون بانفيل</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036245614#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Banville, John</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50022076#skos:Concept">
+    <skos:prefLabel>Banville, John</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50022076"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C071735771#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118904469#skos:Concept">
+    <skos:altLabel>Black, Benjamin 1945- Pseudonym</skos:altLabel>
+    <skos:prefLabel>Banville, John, 1945-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/46805211"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Blaḳ, Beng'amin 1945-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Banṿil, G'on 1945-</skos:altLabel>
   </rdf:Description>
 </rdf:RDF>

@@ -5,200 +5,200 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Welsh_Arts_Council">
-    <schema:name xml:lang="en">Welsh Arts Council</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/longley744/series9/subseries9.3/">
+    <schema:dateModified xml:lang="en">2013-09-09</schema:dateModified>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/longley744/index1/"/>
+    <schema:name xml:lang="en">Michael Longley papers, 1960-2000; Subseries 9.3: Correspondence, 1969-1991</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Patrick%27s_Grammar_School,_Armagh">
-    <schema:name xml:lang="en">Saint Patrick's Grammar School</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Keele">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">University of Keele</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulster_Polytechnic">
-    <schema:name xml:lang="en">Ulster Polytechnic</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Honest_Ulsterman">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">The Honest Ulsterman</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arts_Council_of_Ireland">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">The Arts Council</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/130247428">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Blackstaff Press</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Poetry_Society">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">The Poetry Society</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chatto_%26_Windus">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Chatto &amp; Windus Ltd.</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen%27s_University_of_Belfast">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Queen's University of Belfast</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/O%27Brien_Press">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">The O'Brien Press</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Scottish_Arts_Council"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/British_Council"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Northern_Ireland_Tourist_Board"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Fortnight_Magazine"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/University_College_Dublin"/>
-    <arch:correspondedWith rdf:nodeID="N386c78748b7946c3b256866d32a2a9f9"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Bloodaxe_Books"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Welsh_Arts_Council"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/University_of_Keele"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/British_Council"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Great_Britain"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Lyric_Theatre_(Belfast)"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Queen%27s_University_of_Belfast"/>
-    <schema:knows rdf:nodeID="N386c78748b7946c3b256866d32a2a9f9"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/St._Patrick%27s_Grammar_School,_Armagh"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Great_Britain"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Poetry_Ireland_Review"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/University_College_Dublin"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Ulster_Polytechnic"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Poetry_Ireland_Review"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/The_Lilliput_Press"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Scottish_Arts_Council"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Ireland"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/The_Lilliput_Press"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Association_of_Little_Presses"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/The_Honest_Ulsterman"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Chatto_%26_Windus"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Cabin_Hill"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Queen%27s_University_of_Belfast"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Welsh_Arts_Council"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Faber_and_Faber"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Chatto_%26_Windus"/>
-    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/125997026"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Fortnight_Magazine"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Institute_of_Contemporary_Arts"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Association_of_Little_Presses"/>
-    <schema:knows rdf:resource="http://viaf.org/viaf/125997026"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Public_Record_Office_of_Northern_Ireland"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/O%27Brien_Press"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Cabin_Hill"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Ulster_Polytechnic"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/University_of_Keele"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Faber_and_Faber"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/O%27Brien_Press"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Poetry_Society"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Bloodaxe_Books"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Institute_of_Contemporary_Arts"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/The_Honest_Ulsterman"/>
-    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/130247428"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Northern_Ireland_Tourist_Board"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Public_Record_Office_of_Northern_Ireland"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Ireland"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Lyric_Theatre_(Belfast)"/>
-    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/138529390"/>
-    <schema:knows rdf:resource="http://viaf.org/viaf/130247428"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
-    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/St._Patrick%27s_Grammar_School,_Armagh"/>
-    <schema:knows rdf:resource="http://dbpedia.org/resource/Poetry_Society"/>
-    <schema:knows rdf:resource="http://viaf.org/viaf/138529390"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)">
-    <schema:name xml:lang="en">Department of Foreign Affairs</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lilliput_Press">
-    <schema:name xml:lang="en">The Lilliput Press Ltd.</schema:name>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_College_Dublin">
+    <schema:name xml:lang="en">University College</schema:name>
     <rdf:type rdf:resource="http://schema.org/Organization"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Lyric_Theatre_(Belfast)">
     <rdf:type rdf:resource="http://schema.org/Organization"/>
     <schema:name xml:lang="en">Lyric Players Theatre</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fortnight_Magazine">
-    <schema:name xml:lang="en">Fortnight</schema:name>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Association_of_Little_Presses">
     <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Association of Little Presses</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Institute_of_Contemporary_Arts">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O%27Brien_Press">
+    <schema:name xml:lang="en">The O'Brien Press</schema:name>
     <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Institute of Contemporary Arts</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arts_Council_of_Great_Britain">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Arts Council of Great Britain</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/138529390">
     <rdf:type rdf:resource="http://schema.org/Organization"/>
     <schema:name xml:lang="en">Appletree Press</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Northern_Ireland_Tourist_Board">
-    <schema:name xml:lang="en">Northern Ireland Tourist Board</schema:name>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Honest_Ulsterman">
+    <schema:name xml:lang="en">The Honest Ulsterman</schema:name>
     <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/130247428">
+    <schema:name xml:lang="en">Blackstaff Press</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faber_and_Faber">
+    <schema:name xml:lang="en">Faber &amp; Faber Ltd.</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Institute_of_Contemporary_Arts">
+    <schema:name xml:lang="en">Institute of Contemporary Arts</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chatto_%26_Windus">
+    <schema:name xml:lang="en">Chatto &amp; Windus Ltd.</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Court_Theatre">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Royal Court Theatre</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fortnight_Magazine">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Fortnight</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Welsh_Arts_Council">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Welsh Arts Council</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poetry_Ireland_Review">
+    <schema:name xml:lang="en">Poetry Ireland</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arts_Council_of_Great_Britain">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Arts Council of Great Britain</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arts_Council_of_Ireland">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">The Arts Council</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scottish_Arts_Council">
+    <schema:name xml:lang="en">The Scottish Arts Council</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)">
+    <schema:name xml:lang="en">Department of Foreign Affairs</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen%27s_University_of_Belfast">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Queen's University of Belfast</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poetry_Society">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">The Poetry Society</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Bloodaxe_Books">
     <rdf:type rdf:resource="http://schema.org/Organization"/>
     <schema:name xml:lang="en">Bloodaxe Books</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Poetry_Ireland_Review">
+  <rdf:Description rdf:nodeID="Nad9bbd47bcab453faed2b0870559e525">
     <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Poetry Ireland</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N386c78748b7946c3b256866d32a2a9f9">
     <schema:name xml:lang="en">Workers Educational Association</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Patrick%27s_Grammar_School,_Armagh">
+    <schema:name xml:lang="en">Saint Patrick's Grammar School</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cabin_Hill">
+    <schema:name xml:lang="en">Cabin Hill School</schema:name>
     <rdf:type rdf:resource="http://schema.org/Organization"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/British_Council">
     <schema:name xml:lang="en">The British Council</schema:name>
     <rdf:type rdf:resource="http://schema.org/Organization"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Public_Record_Office_of_Northern_Ireland">
-    <schema:name xml:lang="en">Public Record Office of Northern
-                                Ireland</schema:name>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Keele">
+    <schema:name xml:lang="en">University of Keele</schema:name>
     <rdf:type rdf:resource="http://schema.org/Organization"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/longley744/series9/subseries9.3/">
-    <schema:dateModified xml:lang="en">2013-08-12</schema:dateModified>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/longley744/index1/"/>
-    <schema:name xml:lang="en">Michael Longley papers, 1960-2000; Subseries 9.3: Correspondence, 1969-1991</schema:name>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Association_of_Little_Presses">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northern_Ireland_Tourist_Board">
+    <schema:name xml:lang="en">Northern Ireland Tourist Board</schema:name>
     <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Association of Little Presses</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Faber_and_Faber">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lilliput_Press">
+    <schema:name xml:lang="en">The Lilliput Press Ltd.</schema:name>
     <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Faber &amp; Faber Ltd.</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulster_Polytechnic">
+    <schema:name xml:lang="en">Ulster Polytechnic</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Bloodaxe_Books"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/University_of_Keele"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Northern_Ireland_Tourist_Board"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Bloodaxe_Books"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Poetry_Ireland_Review"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/University_College_Dublin"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/University_of_Keele"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/St._Patrick%27s_Grammar_School,_Armagh"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Ulster_Polytechnic"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Scottish_Arts_Council"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Royal_Court_Theatre"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Ireland"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Poetry_Society"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Great_Britain"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Lyric_Theatre_(Belfast)"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Public_Record_Office_of_Northern_Ireland"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Great_Britain"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Institute_of_Contemporary_Arts"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Scottish_Arts_Council"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Faber_and_Faber"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/125997026"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Queen%27s_University_of_Belfast"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/130247428"/>
+    <schema:knows rdf:nodeID="Nad9bbd47bcab453faed2b0870559e525"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Arts_Council_of_Ireland"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/British_Council"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/138529390"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/The_Lilliput_Press"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Public_Record_Office_of_Northern_Ireland"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Chatto_%26_Windus"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/The_Lilliput_Press"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Poetry_Society"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/The_Honest_Ulsterman"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Department_of_Foreign_Affairs_and_Trade_(Ireland)"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Chatto_%26_Windus"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/125997026"/>
+    <arch:correspondedWith rdf:nodeID="Nad9bbd47bcab453faed2b0870559e525"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Poetry_Ireland_Review"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/British_Council"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Cabin_Hill"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/130247428"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Faber_and_Faber"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Fortnight_Magazine"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Cabin_Hill"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Lyric_Theatre_(Belfast)"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/St._Patrick%27s_Grammar_School,_Armagh"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Welsh_Arts_Council"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Fortnight_Magazine"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Queen%27s_University_of_Belfast"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/The_Honest_Ulsterman"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Association_of_Little_Presses"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Northern_Ireland_Tourist_Board"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Ulster_Polytechnic"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/138529390"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Institute_of_Contemporary_Arts"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/O%27Brien_Press"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/University_College_Dublin"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/Association_of_Little_Presses"/>
+    <arch:correspondedWith rdf:resource="http://dbpedia.org/resource/O%27Brien_Press"/>
+    <schema:knows rdf:resource="http://dbpedia.org/resource/Welsh_Arts_Council"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/125997026">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
     <schema:name xml:lang="en">Charabanc Theatre Company</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Court_Theatre">
-    <schema:name xml:lang="en">Royal Court Theatre</schema:name>
     <rdf:type rdf:resource="http://schema.org/Organization"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Scottish_Arts_Council">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Public_Record_Office_of_Northern_Ireland">
     <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">The Scottish Arts Council</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/University_College_Dublin">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">University College</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cabin_Hill">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Cabin Hill School</schema:name>
+    <schema:name xml:lang="en">Public Record Office of Northern
+                                Ireland</schema:name>
   </rdf:Description>
 </rdf:RDF>

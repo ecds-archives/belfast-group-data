@@ -10,55 +10,49 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Anne_Stevenson">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Anne_Stevenson"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Anne_Stevenson">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Anne_Stevenson"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Stevenson">
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryarchive.org/poetryarchive/singlePoet.do?poetId=32"/>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Anne_Stevenson"/>
-    <dbpedia-owl:abstract xml:lang="es">Anne Stevenson es una escritora y poeta británica, hija de estadounidenses y criada en los Estados Unidos.</dbpedia-owl:abstract>
-    <dc:description xml:lang="en">Poet</dc:description>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_women_writers"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poeticmind.co.uk/interviews-1/rising-to-the-surface"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1933_births"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1933-01-03</dbpprop:dateOfBirth>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanWomenWriters"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1933-01-03</dbpedia-owl:birthDate>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Anne_Stevenson?oldid=491700670"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.anne-stevenson.co.uk"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05mgvf"/>
-    <foaf:givenName xml:lang="en">Anne</foaf:givenName>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cortlandreview.com/issue/14/stevenson14.htm"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_women_writers"/>
-    <foaf:surname xml:lang="en">Stevenson</foaf:surname>
-    <rdfs:label xml:lang="en">Anne Stevenson</rdfs:label>
-    <rdfs:comment xml:lang="es">Anne Stevenson es una escritora y poeta británica, hija de estadounidenses y criada en los Estados Unidos.</rdfs:comment>
-    <foaf:name xml:lang="en">Anne Stevenson</foaf:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPoets"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Anne_Stevenson.jpg/200px-Anne_Stevenson.jpg"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Women_poets"/>
-    <dbpprop:name xml:lang="en">Stevenson, Anne</dbpprop:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishWomenWriters"/>
-    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
-    <rdfs:comment xml:lang="en">Anne Stevenson (born January 3, 1933) is an American-British poet and writer.</rdfs:comment>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1933-01-03</dbpedia-owl:birthDate>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poetryarchive.org/poetryarchive/singlePoet.do?poetId=32"/>
     <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/c/c4/Anne_Stevenson.jpg"/>
-    <dbpedia-owl:abstract xml:lang="en">Anne Stevenson (born January 3, 1933) is an American-British poet and writer.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WomenPoets"/>
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Anne_Stevenson"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cambridge"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Anne_Stevenson"/>
+    <rdfs:label xml:lang="en">Anne Stevenson</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanWomenWriters"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPoets"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1933-01-03</dbpprop:dateOfBirth>
+    <rdfs:comment xml:lang="es">Anne Stevenson es una escritora y poeta británica, hija de estadounidenses y criada en los Estados Unidos.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPoets"/>
+    <foaf:name xml:lang="en">Anne Stevenson</foaf:name>
+    <dc:description xml:lang="en">Poet</dc:description>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cortlandreview.com/issue/14/stevenson14.htm"/>
+    <foaf:surname xml:lang="en">Stevenson</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishWomenWriters"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Anne_Stevenson?oldid=491700670"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Cambridge"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_poets"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Anne_Stevenson"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Women_poets"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_women_writers"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05mgvf"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1933_births"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cholmondeley_Award_winners"/>
+    <dbpprop:name xml:lang="en">Stevenson, Anne</dbpprop:name>
+    <foaf:givenName xml:lang="en">Anne</foaf:givenName>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.poeticmind.co.uk/interviews-1/rising-to-the-surface"/>
+    <dbpprop:shortDescription xml:lang="en">Poet</dbpprop:shortDescription>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.anne-stevenson.co.uk"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Anne_Stevenson.jpg/200px-Anne_Stevenson.jpg"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Anne_Stevenson"/>
+    <dbpedia-owl:abstract xml:lang="en">Anne Stevenson (born January 3, 1933) is an American-British poet and writer.</dbpedia-owl:abstract>
     <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Cambridge"/>
+    <dbpedia-owl:abstract xml:lang="es">Anne Stevenson es una escritora y poeta británica, hija de estadounidenses y criada en los Estados Unidos.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="en">Anne Stevenson (born January 3, 1933) is an American-British poet and writer.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_women_writers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WomenPoets"/>
   </rdf:Description>
 </rdf:RDF>

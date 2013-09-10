@@ -8,31 +8,31 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
 >
-  <rdf:Description rdf:about="http://sws.geonames.org/2965905/about.rdf">
-    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-18</dcterms:modified>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
-    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2965905/"/>
-    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
-    <cc:attributionURL rdf:resource="http://sws.geonames.org/2965905/"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2965905/">
-    <gn:alternateName xml:lang="en">Burnfoot</gn:alternateName>
+    <gn:alternateName xml:lang="ga">Bun na hAbhann</gn:alternateName>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2965905/nearby.rdf"/>
     <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
+    <gn:alternateName xml:lang="en">Burnfoot</gn:alternateName>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2964751/"/>
     <gn:parentADM2 rdf:resource="http://sws.geonames.org/2964751/"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2965905/about.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
     <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521316/"/>
+    <wgs84_pos:long>-7.4</wgs84_pos:long>
     <gn:locationMap rdf:resource="http://www.geonames.org/2965905/burnfoot.html"/>
     <gn:countryCode>IE</gn:countryCode>
-    <wgs84_pos:long>-7.4</wgs84_pos:long>
-    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
-    <gn:alternateName xml:lang="ga">Bun na hAbhann</gn:alternateName>
-    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2965905/about.rdf"/>
-    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2965905/nearby.rdf"/>
     <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
-    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521316/"/>
-    <wgs84_pos:lat>55.05</wgs84_pos:lat>
-    <gn:parentFeature rdf:resource="http://sws.geonames.org/2964751/"/>
     <gn:name>Burnfoot</gn:name>
+    <wgs84_pos:lat>55.05</wgs84_pos:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2965905/about.rdf">
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2965905/"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-18</dcterms:modified>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2965905/"/>
   </rdf:Description>
 </rdf:RDF>

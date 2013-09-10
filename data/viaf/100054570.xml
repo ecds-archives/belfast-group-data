@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000420766#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:prefLabel>Gunn, Thom</skos:prefLabel>
+    <skos:altLabel>Gunn, Thomson William.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100054570"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++01038775#skos:Concept">
+    <skos:altLabel>Gunn, Thomson William.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100054570"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Gunn, Thom, 1929-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0053L3335#skos:Concept">
+    <skos:prefLabel>Gunn, Thom</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Gunn, Thomson William.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100054570"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100054570/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100054570"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100054570/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/100054570"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C188907#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100054570"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Gunn, Thom</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/188907#concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028412311#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Gunn, Thom, 1929-2004</skos:prefLabel>
+    <skos:altLabel>Gunn, Thomson William.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100054570"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000700646#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:prefLabel>Gunn, Thom, 1929-2004</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100054570"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118543644#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100054570"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Gunn, Thomson William 1929-2004</skos:altLabel>
+    <skos:prefLabel>Gunn, Thom, 1929-2004</skos:prefLabel>
+    <skos:altLabel>Gunn, Thomson W. 1929-2004</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069626561#skos:Concept">
+    <skos:prefLabel>Gunn, Thom (Thomson William), 1929-2004</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100054570"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls000076726#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100054570"/>
+    <skos:altLabel>Gunn, Thomas</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Gunn, Thom</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C92389#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <skos:altLabel>Gunn, Thom</skos:altLabel>
+    <skos:prefLabel>Gunn, Thom, 1929-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100054570"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CThom_Gunn#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100054570"/>
+    <skos:prefLabel>Gunn, Thom</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100054570">
+    <foaf:name>Gunn, Thom, 1929-</foaf:name>
+    <foaf:name>Gunn, Thom, 1929-2004</foaf:name>
+    <foaf:name>Gunn, Thomson W. 1929-2004</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12025229b#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/028412311/id"/>
+    <foaf:name>Gunn, Thomson William.</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Gunn, Thom</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118543644"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/188907"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Thom_Gunn"/>
+    <rdaGr2:dateOfBirth>1929-08-29</rdaGr2:dateOfBirth>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Gunn, Thom (Thomson William), 1929-2004</foaf:name>
+    <foaf:name>Gunn, Thomson William 1929-2004</foaf:name>
+    <rdaGr2:dateOfDeath>2004-04-25</rdaGr2:dateOfDeath>
+    <foaf:name>Gunn, Thomas</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca23061856#skos:Concept">
+    <skos:altLabel>Gunn, Thomson William.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100054570"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <skos:prefLabel>Gunn, Thom, 1929-2004</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79066390#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100054570"/>
+    <skos:prefLabel>Gunn, Thom</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Gunn, Thomson William.</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79066390"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100054570/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/100054570"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12025229#skos:Concept">
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12025229b"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/100054570"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12025229b"/>
+    <skos:altLabel>Gunn, Thomson William 1929-2004</skos:altLabel>
+    <skos:prefLabel>Gunn, Thom, 1929-2004</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

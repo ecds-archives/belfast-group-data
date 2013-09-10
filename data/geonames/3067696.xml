@@ -8,101 +8,101 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
 >
+  <rdf:Description rdf:about="http://sws.geonames.org/3067696/about.rdf">
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-01-02</dcterms:modified>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/3067696/"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/3067696/"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/3067696/">
+    <gn:alternateName xml:lang="eo">Prago</gn:alternateName>
+    <gn:alternateName xml:lang="hr">Prag</gn:alternateName>
+    <gn:name>Prague</gn:name>
+    <gn:alternateName xml:lang="tl">Prague</gn:alternateName>
+    <gn:alternateName xml:lang="ca">Praga</gn:alternateName>
+    <gn:alternateName xml:lang="bg">Прага</gn:alternateName>
     <gn:alternateName xml:lang="ia">Praga</gn:alternateName>
-    <gn:countryCode>CZ</gn:countryCode>
-    <gn:alternateName xml:lang="da">Prag</gn:alternateName>
-    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3067695/"/>
-    <gn:alternateName xml:lang="gd">Pràg</gn:alternateName>
-    <gn:alternateName xml:lang="zh">布拉格</gn:alternateName>
-    <gn:alternateName xml:lang="am">ፕራግ</gn:alternateName>
-    <gn:alternateName xml:lang="no">Praha</gn:alternateName>
-    <gn:alternateName xml:lang="it">Praga</gn:alternateName>
-    <gn:alternateName xml:lang="ko">프라하</gn:alternateName>
-    <gn:alternateName xml:lang="ja">プラハ</gn:alternateName>
-    <gn:population>1165581</gn:population>
-    <gn:alternateName xml:lang="cy">Prag</gn:alternateName>
-    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLC"/>
-    <gn:alternateName xml:lang="be">Прага</gn:alternateName>
-    <gn:alternateName xml:lang="pt">Praga</gn:alternateName>
-    <gn:alternateName xml:lang="lb">Prag</gn:alternateName>
-    <gn:alternateName xml:lang="nn">Praha</gn:alternateName>
-    <gn:alternateName xml:lang="uk">Прага</gn:alternateName>
-    <gn:alternateName xml:lang="fr">Prague</gn:alternateName>
-    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Prague"/>
+    <gn:alternateName xml:lang="es">Praga</gn:alternateName>
     <gn:alternateName xml:lang="ar">براغ</gn:alternateName>
-    <gn:alternateName xml:lang="hsb">Praha</gn:alternateName>
-    <gn:alternateName xml:lang="ru">Прага</gn:alternateName>
-    <gn:alternateName xml:lang="os">Прагæ</gn:alternateName>
-    <gn:alternateName xml:lang="ug">پراگا</gn:alternateName>
-    <gn:alternateName xml:lang="sq">Praga</gn:alternateName>
-    <gn:alternateName xml:lang="na">Praha</gn:alternateName>
-    <gn:alternateName xml:lang="is">Prag</gn:alternateName>
-    <gn:alternateName xml:lang="vi">Praha</gn:alternateName>
-    <gn:alternateName xml:lang="en">Prague</gn:alternateName>
-    <gn:alternateName xml:lang="hu">Prága</gn:alternateName>
-    <gn:alternateName xml:lang="sr">Праг</gn:alternateName>
-    <gn:alternateName xml:lang="hbs">Prag</gn:alternateName>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLC"/>
     <gn:alternateName xml:lang="fi">Praha</gn:alternateName>
-    <gn:alternateName xml:lang="sl">Praga</gn:alternateName>
+    <gn:alternateName xml:lang="tr">Prag</gn:alternateName>
+    <gn:alternateName xml:lang="os">Прагæ</gn:alternateName>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Prague"/>
+    <gn:alternateName xml:lang="hbs">Prag</gn:alternateName>
+    <gn:alternateName xml:lang="th">ปราก</gn:alternateName>
+    <gn:alternateName xml:lang="sr">Праг</gn:alternateName>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:countryCode>CZ</gn:countryCode>
+    <gn:alternateName xml:lang="oc">Praga</gn:alternateName>
+    <gn:alternateName xml:lang="fr">Prague</gn:alternateName>
+    <gn:alternateName xml:lang="cs">Praha</gn:alternateName>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/3067695/"/>
     <gn:alternateName xml:lang="arc">ܦܪܓ</gn:alternateName>
-    <gn:alternateName xml:lang="ro">Praga</gn:alternateName>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3067696/about.rdf"/>
+    <gn:alternateName xml:lang="sv">Prag</gn:alternateName>
+    <gn:alternateName xml:lang="cy">Prag</gn:alternateName>
     <gn:alternateName xml:lang="bs">Prag</gn:alternateName>
+    <gn:alternateName xml:lang="ja">プラハ</gn:alternateName>
+    <gn:alternateName xml:lang="ga">Prág</gn:alternateName>
+    <gn:alternateName xml:lang="nl">Praag</gn:alternateName>
+    <gn:alternateName xml:lang="vi">Praha</gn:alternateName>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/3067695/"/>
+    <gn:officialName xml:lang="cy">Prâg</gn:officialName>
     <gn:alternateName xml:lang="la">Praga</gn:alternateName>
     <gn:alternateName xml:lang="de">Prag</gn:alternateName>
-    <gn:alternateName xml:lang="tg">Прага</gn:alternateName>
-    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
-    <gn:officialName xml:lang="cy">Prâg</gn:officialName>
-    <gn:alternateName xml:lang="id">Praha</gn:alternateName>
-    <gn:alternateName xml:lang="sv">Prag</gn:alternateName>
-    <wgs84_pos:lat>50.08804</wgs84_pos:lat>
-    <gn:alternateName xml:lang="ka">პრაღა</gn:alternateName>
-    <gn:alternateName xml:lang="tl">Prague</gn:alternateName>
-    <gn:alternateName xml:lang="gl">Praga</gn:alternateName>
-    <gn:alternateName xml:lang="bg">Прага</gn:alternateName>
-    <gn:alternateName xml:lang="ku">Prag</gn:alternateName>
-    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3067696/nearby.rdf"/>
-    <gn:alternateName xml:lang="oc">Praga</gn:alternateName>
-    <gn:alternateName xml:lang="he">פראג</gn:alternateName>
-    <gn:officialName>Praha</gn:officialName>
-    <gn:locationMap rdf:resource="http://www.geonames.org/3067696/prague.html"/>
-    <gn:parentFeature rdf:resource="http://sws.geonames.org/3067695/"/>
-    <gn:alternateName xml:lang="th">ปราก</gn:alternateName>
-    <gn:alternateName xml:lang="bo">པུ་ལ་ཁེ</gn:alternateName>
-    <gn:parentCountry rdf:resource="http://sws.geonames.org/3077311/"/>
-    <gn:alternateName xml:lang="nl">Praag</gn:alternateName>
-    <gn:alternateName xml:lang="lv">Prāga</gn:alternateName>
-    <gn:alternateName xml:lang="ga">Prág</gn:alternateName>
-    <gn:alternateName xml:lang="lt">Praha</gn:alternateName>
-    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Prague"/>
-    <gn:name>Prague</gn:name>
-    <gn:alternateName xml:lang="eu">Praga</gn:alternateName>
-    <gn:alternateName xml:lang="eo">Prago</gn:alternateName>
-    <wgs84_pos:long>14.42076</wgs84_pos:long>
-    <gn:alternateName xml:lang="ca">Praga</gn:alternateName>
-    <gn:alternateName xml:lang="cs">Praha</gn:alternateName>
-    <gn:alternateName xml:lang="csb">Praga</gn:alternateName>
-    <gn:alternateName xml:lang="nrm">Prague</gn:alternateName>
-    <gn:alternateName xml:lang="hr">Prag</gn:alternateName>
-    <gn:alternateName xml:lang="es">Praga</gn:alternateName>
+    <gn:alternateName xml:lang="hsb">Praha</gn:alternateName>
     <gn:alternateName xml:lang="el">Πράγα</gn:alternateName>
+    <gn:alternateName xml:lang="na">Praha</gn:alternateName>
+    <gn:alternateName xml:lang="bo">པུ་ལ་ཁེ</gn:alternateName>
+    <gn:alternateName xml:lang="id">Praha</gn:alternateName>
+    <gn:alternateName xml:lang="ko">프라하</gn:alternateName>
+    <gn:alternateName xml:lang="uk">Прага</gn:alternateName>
+    <gn:alternateName xml:lang="da">Prag</gn:alternateName>
+    <gn:alternateName xml:lang="sq">Praga</gn:alternateName>
+    <gn:alternateName xml:lang="eu">Praga</gn:alternateName>
+    <gn:alternateName xml:lang="ku">Prag</gn:alternateName>
+    <gn:alternateName xml:lang="be">Прага</gn:alternateName>
+    <gn:alternateName xml:lang="ru">Прага</gn:alternateName>
+    <gn:alternateName xml:lang="is">Prag</gn:alternateName>
+    <gn:alternateName xml:lang="nrm">Prague</gn:alternateName>
+    <gn:alternateName xml:lang="zh">布拉格</gn:alternateName>
+    <gn:alternateName xml:lang="ro">Praga</gn:alternateName>
+    <gn:alternateName xml:lang="hu">Prága</gn:alternateName>
+    <gn:alternateName xml:lang="sl">Praga</gn:alternateName>
     <gn:alternateName xml:lang="fa">پراگ</gn:alternateName>
-    <gn:alternateName xml:lang="et">Praha</gn:alternateName>
-    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
-    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3067696/about.rdf"/>
-    <gn:alternateName xml:lang="tr">Prag</gn:alternateName>
     <gn:alternateName xml:lang="sk">Praha</gn:alternateName>
-    <gn:alternateName xml:lang="io">Praha</gn:alternateName>
-    <gn:alternateName xml:lang="pl">Praga</gn:alternateName>
     <gn:alternateName xml:lang="li">Praag</gn:alternateName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/3067696/about.rdf">
-    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-01-02</dcterms:modified>
-    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/3067696/"/>
-    <cc:attributionURL rdf:resource="http://sws.geonames.org/3067696/"/>
-    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
-    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <gn:alternateName xml:lang="tg">Прага</gn:alternateName>
+    <gn:alternateName xml:lang="he">פראג</gn:alternateName>
+    <gn:alternateName xml:lang="gl">Praga</gn:alternateName>
+    <gn:alternateName xml:lang="pl">Praga</gn:alternateName>
+    <gn:population>1165581</gn:population>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3067696/nearby.rdf"/>
+    <gn:alternateName xml:lang="am">ፕራግ</gn:alternateName>
+    <gn:officialName>Praha</gn:officialName>
+    <gn:alternateName xml:lang="et">Praha</gn:alternateName>
+    <gn:alternateName xml:lang="lt">Praha</gn:alternateName>
+    <gn:alternateName xml:lang="it">Praga</gn:alternateName>
+    <gn:locationMap rdf:resource="http://www.geonames.org/3067696/prague.html"/>
+    <gn:alternateName xml:lang="pt">Praga</gn:alternateName>
+    <gn:alternateName xml:lang="nn">Praha</gn:alternateName>
+    <gn:alternateName xml:lang="no">Praha</gn:alternateName>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Prague"/>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:alternateName xml:lang="lv">Prāga</gn:alternateName>
+    <gn:alternateName xml:lang="lb">Prag</gn:alternateName>
+    <wgs84_pos:long>14.42076</wgs84_pos:long>
+    <gn:alternateName xml:lang="ug">پراگا</gn:alternateName>
+    <wgs84_pos:lat>50.08804</wgs84_pos:lat>
+    <gn:alternateName xml:lang="csb">Praga</gn:alternateName>
+    <gn:alternateName xml:lang="gd">Pràg</gn:alternateName>
+    <gn:alternateName xml:lang="en">Prague</gn:alternateName>
+    <gn:alternateName xml:lang="ka">პრაღა</gn:alternateName>
+    <gn:alternateName xml:lang="io">Praha</gn:alternateName>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/3077311/"/>
   </rdf:Description>
 </rdf:RDF>

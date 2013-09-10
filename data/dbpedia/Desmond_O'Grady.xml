@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Desmond_O'Grady">
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Desmond_O'Grady__1"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.theaustralian.com.au/"/>
+    <dbpedia-owl:abstract xml:lang="ru">Десмонд Майкл О’Грэйди  — австрало-итальянский журналист, писатель и драматург.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:comment xml:lang="en">Desmond M. O'Grady is an Australian journalist, author, and playwright who has resided and worked in Rome since 1962.</rdfs:comment>
+    <dbpedia-owl:nationality rdf:resource="http://dbpedia.org/resource/Australians"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Desmond_O'Grady"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Australian_dramatists_and_playwrights"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</dbpprop:dateOfBirth>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1929-12-11</dbpedia-owl:birthDate>
+    <dbpprop:occupation xml:lang="en">Journalist, author, and playwright</dbpprop:occupation>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Australian_journalists"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpprop:name xml:lang="en">Desmond O'Grady</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Australian_writers"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1929-12-11</dbpprop:birthDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1929_births"/>
+    <foaf:name xml:lang="en">Desmond O'Grady</foaf:name>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Melbourne"/>
+    <dbpprop:nationality rdf:resource="http://dbpedia.org/resource/Australians"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Melbourne"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/О’Грэйди,_Десмонд"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Desmond_O'Grady"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpprop:caption xml:lang="en">Autstralian Journalist Desmond O'Grady</dbpprop:caption>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_person"/>
+    <dbpedia-owl:abstract xml:lang="en">Desmond M. O'Grady is an Australian journalist, author, and playwright who has resided and worked in Rome since 1962.</dbpedia-owl:abstract>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Melbourne"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdfs:comment xml:lang="ru">Десмонд Майкл О’Грэйди  — австрало-итальянский журналист, писатель и драматург.</rdfs:comment>
+    <dbpprop:name xml:lang="en">Desmond M. O'Grady</dbpprop:name>
+    <dbpedia-owl:stateOfOrigin rdf:resource="http://dbpedia.org/resource/Australians"/>
+    <dbpprop:knownFor xml:lang="en">Books, articles, and plays</dbpprop:knownFor>
+    <foaf:name xml:lang="en">Desmond M. O'Grady</foaf:name>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gh6r0h"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Desmond_O'Grady?oldid=483387441"/>
+    <dbpedia-owl:birthYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1929-01-01T00:00:00+02:00</dbpedia-owl:birthYear>
+  </rdf:Description>
+</rdf:RDF>

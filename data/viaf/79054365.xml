@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C071074791#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Kelly, Rita, Mae</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79054365"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C321975#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:prefLabel>Kelly, Rita Mae, 1939-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79054365"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/321975#concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C158455916#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79054365"/>
+    <skos:prefLabel>Kelly, Rita Mae Cawley</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C074343793#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79054365"/>
+    <skos:prefLabel>Kelly, Rita Mae, 1939-2001</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50048159#skos:Concept">
+    <skos:prefLabel>Kelly, Rita, Mae</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79054365"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50048159"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/79054365">
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb120617136#foaf:Person"/>
+    <foaf:name>Kelly, Rita Mae, 1939-</foaf:name>
+    <rdaGr2:dateOfDeath>2001</rdaGr2:dateOfDeath>
+    <foaf:name>Kelly, Rita Mae Cawley</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Kelly, Rita Mae, 1939-2001</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/071074791/id"/>
+    <rdaGr2:dateOfBirth>1939</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/321975"/>
+    <foaf:name>Kelly, Rita, Mae</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/158455916"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/79054365/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/79054365"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/79054365/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79054365"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/79054365/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/79054365"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2013195628#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79054365"/>
+    <skos:prefLabel>Kelly, Rita Mae, 1939-2001</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12061713#skos:Concept">
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb120617136"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb120617136"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/79054365"/>
+    <skos:prefLabel>Kelly, Rita Mae, 1939-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+  </rdf:Description>
+</rdf:RDF>

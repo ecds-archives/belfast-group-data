@@ -10,65 +10,56 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Philip_Hobsbaum">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Philip_Hobsbaum"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Philip_Hobsbaum">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Philip_Hobsbaum"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Hobsbaum">
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2005</dbpprop:dateOfDeath>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nytimes.com/2005/07/02/books/02hobsbaum.html?ex=1127448000&amp;en=be0169a65043860b&amp;ei=5070"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/JewishPoets"/>
-    <rdfs:label xml:lang="en">Philip Hobsbaum</rdfs:label>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1932</dbpprop:dateOfBirth>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://news.independent.co.uk"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_Jews"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.uvic.ca/site/spcoll/guides/sc057.html"/>
-    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
     <dbpprop:name xml:lang="en">Hobsbaum, Philip</dbpprop:name>
-    <rdfs:comment xml:lang="en">Philip Dennis Hobsbaum (29 June 1932 – 28 June 2005) was a British teacher, poet and critic.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.055spz"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thejc.com/"/>
-    <dc:description xml:lang="en">Teacher, poet and critic</dc:description>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_the_University_of_Glasgow"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Philip_Hobsbaum"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishLiteraryCritics"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/London"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.star.ac.uk/darkhorse.html"/>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Philip_Hobsbaum?oldid=437320236"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfDowningCollege,Cambridge"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_Jews"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Downing_College,_Cambridge"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1932_births"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Philip_Hobsbaum"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.qub.ac.uk/directorates/InformationServices/TheLibrary/FileStore/Filetoupload,195850,en.pdf"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.theherald.co.uk"/>
-    <foaf:surname xml:lang="en">Hobsbaum</foaf:surname>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_literary_critics"/>
-    <dbpedia-owl:abstract xml:lang="en">Philip Dennis Hobsbaum (29 June 1932 – 28 June 2005) was a British teacher, poet and critic.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2005_deaths"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.star.ac.uk/darkhorse/archive/HobsbaumInterview.pdf"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_poets"/>
-    <rdfs:comment xml:lang="it"></rdfs:comment>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Philip_Hobsbaum"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://scotsman.com"/>
-    <dbpprop:shortDescription xml:lang="en">Teacher, poet and critic</dbpprop:shortDescription>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Glasgow"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Sheffield"/>
-    <dbpprop:placeOfDeath xml:lang="en">Glasgow, UK</dbpprop:placeOfDeath>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.hrc.utexas.edu/research/fa/hobsbaum.html"/>
-    <dbpprop:placeOfBirth xml:lang="en">London, UK</dbpprop:placeOfBirth>
-    <foaf:name xml:lang="en">Philip Hobsbaum</foaf:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTheUniversityOfSheffield"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPoets"/>
     <foaf:givenName xml:lang="en">Philip</foaf:givenName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Group_(poetry)">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Philip_Hobsbaum"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2005</dbpprop:dateOfDeath>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://scotsman.com"/>
+    <rdfs:comment xml:lang="en">Philip Dennis Hobsbaum (29 June 1932 – 28 June 2005) was a British teacher, poet and critic.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="en">Philip Dennis Hobsbaum (29 June 1932 – 28 June 2005) was a British teacher, poet and critic.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_literary_critics"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.055spz"/>
+    <dbpprop:shortDescription xml:lang="en">Teacher, poet and critic</dbpprop:shortDescription>
+    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2005_deaths"/>
+    <dbpprop:placeOfBirth xml:lang="en">London, UK</dbpprop:placeOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPoets"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfDowningCollege,Cambridge"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.star.ac.uk/darkhorse/archive/HobsbaumInterview.pdf"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nytimes.com/2005/07/02/books/02hobsbaum.html?ex=1127448000&amp;en=be0169a65043860b&amp;ei=5070"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.theherald.co.uk"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/JewishPoets"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_Jews"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Philip_Hobsbaum"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1932</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishLiteraryCritics"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdfs:comment xml:lang="it"></rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Philip_Hobsbaum"/>
+    <foaf:surname xml:lang="en">Hobsbaum</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Philip_Hobsbaum"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.star.ac.uk/darkhorse.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTheUniversityOfSheffield"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Sheffield"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_Jews"/>
+    <foaf:name xml:lang="en">Philip Hobsbaum</foaf:name>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.qub.ac.uk/directorates/InformationServices/TheLibrary/FileStore/Filetoupload,195850,en.pdf"/>
+    <dc:description xml:lang="en">Teacher, poet and critic</dc:description>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://news.independent.co.uk"/>
+    <rdfs:label xml:lang="en">Philip Hobsbaum</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thejc.com/"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Philip_Hobsbaum?oldid=437320236"/>
+    <dbpprop:placeOfDeath xml:lang="en">Glasgow, UK</dbpprop:placeOfDeath>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1932_births"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.uvic.ca/site/spcoll/guides/sc057.html"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Glasgow"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_the_University_of_Glasgow"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.hrc.utexas.edu/research/fa/hobsbaum.html"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Downing_College,_Cambridge"/>
   </rdf:Description>
 </rdf:RDF>

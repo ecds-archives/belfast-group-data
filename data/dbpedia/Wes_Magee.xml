@@ -9,38 +9,29 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Wes_Magee">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Wes_Magee"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wes_Magee">
-    <foaf:surname xml:lang="en">Magee</foaf:surname>
-    <foaf:name xml:lang="en">Wes Magee</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_poets"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1939_births"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <rdfs:label xml:lang="en">Wes Magee</rdfs:label>
-    <dbpprop:name xml:lang="en">Magee, Wes</dbpprop:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishPoets"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1939</dbpprop:dateOfBirth>
-    <dbpedia-owl:abstract xml:lang="en">Wes Magee is a poet and children's author who was born in Greenock, Scotland in July, 1939. He has published 6 collections of poetry for adults, and more than 90 books for children including poetry, fiction, plays, picture books, and anthologies. He now lives in the hamlet of Thorgill, on the North Yorkshire Moors.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_children's_writers"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Wes_Magee"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
     <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Wes_Magee?oldid=466152802"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_poets"/>
+    <rdfs:label xml:lang="en">Wes Magee</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1939_births"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Wes_Magee"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
     <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02qvw1v"/>
-    <rdfs:comment xml:lang="en">Wes Magee is a poet and children's author who was born in Greenock, Scotland in July, 1939. He has published 6 collections of poetry for adults, and more than 90 books for children including poetry, fiction, plays, picture books, and anthologies. He now lives in the hamlet of Thorgill, on the North Yorkshire Moors.</rdfs:comment>
-    <foaf:givenName xml:lang="en">Wes</foaf:givenName>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishChildren'sWriters"/>
-    <dbpprop:placeOfBirth xml:lang="en">Scotland</dbpprop:placeOfBirth>
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Wes_Magee"/>
+    <foaf:givenName xml:lang="en">Wes</foaf:givenName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:abstract xml:lang="en">Wes Magee is a poet and children's author who was born in Greenock, Scotland in July, 1939. He has published 6 collections of poetry for adults, and more than 90 books for children including poetry, fiction, plays, picture books, and anthologies. He now lives in the hamlet of Thorgill, on the North Yorkshire Moors.</dbpedia-owl:abstract>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1939</dbpprop:dateOfBirth>
+    <foaf:surname xml:lang="en">Magee</foaf:surname>
+    <dbpprop:placeOfBirth xml:lang="en">Scotland</dbpprop:placeOfBirth>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_children's_writers"/>
+    <rdfs:comment xml:lang="en">Wes Magee is a poet and children's author who was born in Greenock, Scotland in July, 1939. He has published 6 collections of poetry for adults, and more than 90 books for children including poetry, fiction, plays, picture books, and anthologies. He now lives in the hamlet of Thorgill, on the North Yorkshire Moors.</rdfs:comment>
+    <foaf:name xml:lang="en">Wes Magee</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishChildren'sWriters"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScottishPoets"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wes_magee">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Wes_Magee"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Wes_Magee">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Wes_Magee"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dbpprop:name xml:lang="en">Magee, Wes</dbpprop:name>
   </rdf:Description>
 </rdf:RDF>

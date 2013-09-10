@@ -7,45 +7,45 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/141903176/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/141903176"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++81071225#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n81071225"/>
+    <skos:altLabel>Great Britain. Army. London Regiment, 14th</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/141903176"/>
     <skos:altLabel>London Scottish Regiment</skos:altLabel>
     <skos:prefLabel>Great Britain. Army. London Scottish Regiment</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/141903176"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:altLabel>Great Britain. Army. London Regiment, 14th</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/141903176/#foaf:Organization">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/141903176"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000333098#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>London Scottish Regiment</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/141903176"/>
+    <skos:prefLabel>Great Britain. Army. London Scottish Regiment</skos:prefLabel>
+    <skos:altLabel>Great Britain. Army. London Regiment, 14th</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/141903176">
+    <foaf:name>Great Britain. Army. London Regiment, 14th</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <foaf:name>Great Britain. Army. London Scottish Regiment</foaf:name>
+    <foaf:name>London Scottish Regiment</foaf:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/141903176/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/141903176"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/141903176">
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
-    <foaf:name>Great Britain. Army. London Scottish Regiment</foaf:name>
-    <foaf:name>Great Britain. Army. London Regiment, 14th</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
-    <foaf:name>London Scottish Regiment</foaf:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/141903176/#foaf:Organization">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/141903176"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/141903176/#rdaEnt:CorporateBody">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/141903176"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000333098#skos:Concept">
-    <skos:altLabel>London Scottish Regiment</skos:altLabel>
-    <skos:altLabel>Great Britain. Army. London Regiment, 14th</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Great Britain. Army. London Scottish Regiment</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/141903176"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/141903176/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/141903176"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/141903176"/>
   </rdf:Description>
 </rdf:RDF>

@@ -9,38 +9,32 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Edna_Longley">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Edna_Longley"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Edna_Longley">
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0crd63p"/>
-    <dbpedia-owl:abstract xml:lang="en">Edna Longley (born 1940) is an Irish literary critic and cultural commentator specialising in modern Irish and British poetry. Now Professor Emerita at Queen's University Belfast, as a lecturer and later Professor of English at Queen's, Longley exerted a significant moderating and enabling influence on the literary and political culture of Northern Ireland both during and since the years of The Troubles. While she was a teacher at the Queen's University, the Seamus Heaney Centre for Poetry was founded. She gained particular renown in Ireland for her public criticism of "depredatory ideologies" both in their political and the literary aspects. In her Lip pamphlet From Cathleen to Anorexia (1990) she was scathingly critical of the identification of feminism with Irish nationalism. At the Yeats Summer School in 1993 she attacked The Field Day Anthology of Irish Writing for 'a propensity to censorship and an obsession with colonialism', developing those arguments in her 1994 collection of essays The Living Stream: Literature and Revisionism in Ireland, an extended critique of nationalism in Irish writing. She has also been one of the foremost scholars in Edward Thomas studies, publishing two editions of his poetry (1973 and 2008) and one of his prose (1981), and is one of the editors of the planned Oxford University Press series, Edward Thomas: The Essential Prose. Writing in Dublin's Sunday Business Post, Seamus Heaney called her 2008 Annotated Collected Poems the "definite new edition of Edward Thomas... a crowning achievement by Thomas's best advocate". Born in Cork in 1940, the daughter of mathematics professor T.S. Broderick and a Scottish Presbyterian mother, she was baptised a Catholic but brought up in "the Anglican compromise" (Church of Ireland). She studied at Trinity College Dublin during the 1960s, where her contemporaries included the poets Michael Longley, Derek Mahon and Eavan Boland. After her marriage to Michael Longley, she moved with him to Belfast and obtained her first teaching post at Queen's University Belfast. From 1989 to 1994 she was Academic Director of the John Hewitt Summer School. Trinity College Dublin gave her an honorary doctorate in 2003.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Cork"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1940</dbpprop:dateOfBirth>
-    <dbpprop:name xml:lang="en">Longley, Edna</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishLiteraryCritics"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1940_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <foaf:surname xml:lang="en">Longley</foaf:surname>
     <foaf:name xml:lang="en">Edna Longley</foaf:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_scholars_and_academics"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyCork"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_literary_critics"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Edna_Longley"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Edna_Longley?oldid=412302856"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.qub.ac.uk/schools/SeamusHeaneyCentreforPoetry/Staff/ProfessorEdnaLongley/"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTrinityCollege,DuBlin"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Trinity_College,_Dublin"/>
     <rdfs:comment xml:lang="en">Edna Longley (born 1940) is an Irish literary critic and cultural commentator specialising in modern Irish and British poetry. Now Professor Emerita at Queen's University Belfast, as a lecturer and later Professor of English at Queen's, Longley exerted a significant moderating and enabling influence on the literary and political culture of Northern Ireland both during and since the years of The Troubles.</rdfs:comment>
     <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Edna_Longley"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1940</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_scholars_and_academics"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpprop:name xml:lang="en">Longley, Edna</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Cork"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishScholarsAndAcademics"/>
-    <foaf:surname xml:lang="en">Longley</foaf:surname>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0crd63p"/>
+    <foaf:givenName xml:lang="en">Edna</foaf:givenName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyCork"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Edna_Longley?oldid=412302856"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Edna_Longley"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.qub.ac.uk/schools/SeamusHeaneyCentreforPoetry/Staff/ProfessorEdnaLongley/"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTrinityCollege,DuBlin"/>
     <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <foaf:givenName xml:lang="en">Edna</foaf:givenName>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1940_births"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishLiteraryCritics"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Edna_Longley">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Edna_Longley"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_literary_critics"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Trinity_College,_Dublin"/>
+    <dbpedia-owl:abstract xml:lang="en">Edna Longley (born 1940) is an Irish literary critic and cultural commentator specialising in modern Irish and British poetry. Now Professor Emerita at Queen's University Belfast, as a lecturer and later Professor of English at Queen's, Longley exerted a significant moderating and enabling influence on the literary and political culture of Northern Ireland both during and since the years of The Troubles. While she was a teacher at the Queen's University, the Seamus Heaney Centre for Poetry was founded. She gained particular renown in Ireland for her public criticism of "depredatory ideologies" both in their political and the literary aspects. In her Lip pamphlet From Cathleen to Anorexia (1990) she was scathingly critical of the identification of feminism with Irish nationalism. At the Yeats Summer School in 1993 she attacked The Field Day Anthology of Irish Writing for 'a propensity to censorship and an obsession with colonialism', developing those arguments in her 1994 collection of essays The Living Stream: Literature and Revisionism in Ireland, an extended critique of nationalism in Irish writing. She has also been one of the foremost scholars in Edward Thomas studies, publishing two editions of his poetry (1973 and 2008) and one of his prose (1981), and is one of the editors of the planned Oxford University Press series, Edward Thomas: The Essential Prose. Writing in Dublin's Sunday Business Post, Seamus Heaney called her 2008 Annotated Collected Poems the "definite new edition of Edward Thomas... a crowning achievement by Thomas's best advocate". Born in Cork in 1940, the daughter of mathematics professor T.S. Broderick and a Scottish Presbyterian mother, she was baptised a Catholic but brought up in "the Anglican compromise" (Church of Ireland). She studied at Trinity College Dublin during the 1960s, where her contemporaries included the poets Michael Longley, Derek Mahon and Eavan Boland. After her marriage to Michael Longley, she moved with him to Belfast and obtained her first teaching post at Queen's University Belfast. From 1989 to 1994 she was Academic Director of the John Hewitt Summer School. Trinity College Dublin gave her an honorary doctorate in 2003.</dbpedia-owl:abstract>
   </rdf:Description>
 </rdf:RDF>

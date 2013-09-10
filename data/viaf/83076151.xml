@@ -8,141 +8,72 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0061F1551#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <skos:prefLabel>Pinter, Harold, 1930-</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CHarold_Pinter#skos:Concept">
-    <skos:prefLabel>Pinter, Harold</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/83076151/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C90492#skos:Concept">
-    <skos:altLabel>Pinto, Harold</skos:altLabel>
-    <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++96403042#skos:Concept">
-    <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/83076151/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/83076151"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1098907#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <skos:altLabel>Пинтер, Гарольд, 1930-2008</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
     <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
-    <skos:altLabel>Bintar, Hārūld 1930-2008</skos:altLabel>
-    <skos:altLabel>פינטר, הרולד, 1930-2008</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990006574#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C06839814X#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001085570#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+    <skos:altLabel>بينتر، هارولد، 1930-2008</skos:altLabel>
+    <skos:prefLabel>بنتر، هارولد، 1930-2008</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>هارولد بنتر، 1930-2008</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035423930#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
     <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/83076151/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/83076151"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11919883#skos:Concept">
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11919883z"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000158199#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11919883z"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <skos:altLabel>Пинтер, Гарольд, 1930-2008</skos:altLabel>
     <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001085570#skos:Concept">
-    <skos:altLabel>هارولد بنتر، 1930-2008</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>بينتر، هارولد، 1930-2008</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
-    <skos:prefLabel>بنتر، هارولد، 1930-2008</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C209267#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/209267#concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
     <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/209267#concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/83076151">
-    <owl:sameAs rdf:resource="http://www.idref.fr/027074617/id"/>
-    <rdaGr2:dateOfDeath>2008-12-24</rdaGr2:dateOfDeath>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11919883z#foaf:Person"/>
-    <foaf:name>פינטר, הרולד, 1930-2008</foaf:name>
-    <foaf:name>هارولد بنتر، 1930-2008</foaf:name>
-    <rdaGr2:dateOfBirth>1930-10-10</rdaGr2:dateOfBirth>
-    <foaf:name>Pinter, Harold</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/209267"/>
-    <foaf:name>ピンター, ハロルド</foaf:name>
-    <foaf:name>بينتر، هارولد، 1930-2008</foaf:name>
-    <foaf:name>Pinter, Harold, 1930-2008</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118594494"/>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Pinter, Harold, 1930-</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>بنتر، هارولد، 1930-2008</foaf:name>
-    <foaf:name>Bintar, Hārūld 1930-2008</foaf:name>
-    <foaf:name>Пинтер, Гарольд, 1930-2008</foaf:name>
-    <foaf:name>פינטר, הרולד</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Harold_Pinter_and_academia"/>
-    <foaf:name>Pinto, Harold</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00452867#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11919883#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11919883z"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11919883z"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <skos:altLabel>ピンター, ハロルド</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/83076151/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035423930#skos:Concept">
-    <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca1902695x#skos:Concept">
-    <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000105964#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/83076151/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/83076151"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027074617#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0061F1551#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
+    <skos:prefLabel>Pinter, Harold, 1930-</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CHarold_Pinter_and_academia#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
@@ -150,22 +81,98 @@
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Pinter, Harold</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79125182#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C90492#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Pinto, Harold</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca1902695x#skos:Concept">
+    <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990006574#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/83076151">
+    <foaf:name>بينتر، هارولد، 1930-2008</foaf:name>
+    <foaf:name>Pinto, Harold</foaf:name>
+    <foaf:name>Bintar, Hārūld 1930-2008</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdaGr2:dateOfBirth>1930-10-10</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://www.idref.fr/027074617/id"/>
+    <foaf:name>بنتر، هارولد، 1930-2008</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/209267"/>
+    <foaf:name>Pinter, Harold</foaf:name>
+    <rdaGr2:dateOfDeath>2008-12-24</rdaGr2:dateOfDeath>
+    <foaf:name>Pinter, Harold, 1930-2008</foaf:name>
+    <foaf:name>פינטר, הרולד, 1930-2008</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118594494"/>
+    <foaf:name>Pinter, Harold, 1930-</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11919883z#foaf:Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Пинтер, Гарольд, 1930-2008</foaf:name>
+    <foaf:name>ピンター, ハロルド</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Harold_Pinter"/>
+    <foaf:name>هارولد بنتر، 1930-2008</foaf:name>
+    <foaf:name>פינטר, הרולד</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79125182#skos:Concept">
+    <skos:altLabel>Bintar, Hārūld 1930-2008</skos:altLabel>
     <skos:altLabel>פינטר, הרולד</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <skos:altLabel>Пинтер, Гарольд, 1930-2008</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
     <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79125182"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>פינטר, הרולד, 1930-2008</skos:altLabel>
+    <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CHarold_Pinter#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Pinter, Harold</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000105964#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C06839814X#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
+    <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00452867#skos:Concept">
+    <skos:altLabel>ピンター, ハロルド</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1098907#skos:Concept">
     <skos:altLabel>פינטר, הרולד, 1930-2008</skos:altLabel>
     <skos:altLabel>Bintar, Hārūld 1930-2008</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <skos:altLabel>Пинтер, Гарольд, 1930-2008</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118594494#skos:Concept">
     <skos:prefLabel>Pinter, Harold, 1930-2008</skos:prefLabel>
-    <skos:altLabel>Bintar, Hārūld 1930-2008</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Bintar, Hārūld 1930-2008</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/83076151"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
   </rdf:Description>
 </rdf:RDF>

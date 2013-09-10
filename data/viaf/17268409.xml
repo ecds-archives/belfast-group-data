@@ -8,192 +8,192 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C260633#skos:Concept">
-    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/260633#concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CWilliam_Hogarth#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hogarth, William</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990003586#skos:Concept">
-    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
-    <skos:altLabel>Chogard, U., 1697-1764 czerus</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068491387#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
-    <skos:altLabel>Hogarth, Wilhelm, 1697-1764</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/17268409/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/17268409"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118552805#skos:Concept">
-    <skos:altLabel>Hogarth, Guglielmo, 1697-1764</skos:altLabel>
-    <skos:altLabel>Hogarth, ... 1697-1764</skos:altLabel>
-    <skos:altLabel>Hogarth, Wm. 1697-1764</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
-    <skos:altLabel>Hogarth, Guillaume 1697-1764</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
-    <skos:altLabel>Hogarth, W. 1697-1764</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/17268409/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/17268409"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10233805#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
-    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/17268409">
-    <foaf:name>Hogarth, Wm. 1697-1764</foaf:name>
-    <foaf:name>Khogart, 1697-1764</foaf:name>
-    <foaf:name>Hogarth, W. 1697-1764</foaf:name>
-    <foaf:name>Khogart, Uilʹi︠a︡m, 1697-1764</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/03051312X/id"/>
-    <foaf:name>Hogarth, W.</foaf:name>
-    <foaf:name>Hogarth, William</foaf:name>
-    <foaf:name>Hogarth, Wiliam.</foaf:name>
-    <foaf:name>Chogard, U., 1697-1764 czerus</foaf:name>
-    <foaf:name>Khogart</foaf:name>
-    <foaf:name>Hogart, V.</foaf:name>
-    <foaf:name>Hogarth, Guglielmo, 1697-1764</foaf:name>
-    <foaf:name>Hogarth, William English painter and engraver, 1697-1764</foaf:name>
-    <rdaGr2:dateOfBirth>1697-11-10</rdaGr2:dateOfBirth>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118552805"/>
-    <foaf:name>Hogarth, Wilhelm, 1697-1764</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/260633"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb121912488#foaf:Person"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Hogarth, William, 1697-1764</foaf:name>
-    <foaf:name>Khogart, Uilʹi︠a︡m</foaf:name>
-    <foaf:name>Horarth, William</foaf:name>
-    <foaf:name>Hogarth, Guglielmo</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/William_Hogarth"/>
-    <foaf:name>ホガース, ウィリアム</foaf:name>
-    <foaf:name>Hogarth, ... 1697-1764</foaf:name>
-    <foaf:name>Hogarth.</foaf:name>
-    <foaf:name>William Hogarth</foaf:name>
-    <rdaGr2:dateOfDeath>1764-10-26</rdaGr2:dateOfDeath>
-    <foaf:name>ホガース</foaf:name>
-    <foaf:name>Hogarth, Guillaume 1697-1764</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035201047#skos:Concept">
-    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C244075#skos:Concept">
-    <skos:altLabel>Hogarth, W.</skos:altLabel>
+    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <skos:altLabel>Hogarth, W.</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000064243#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118552805#skos:Concept">
+    <skos:altLabel>Hogarth, W. 1697-1764</skos:altLabel>
+    <skos:altLabel>Hogarth, Guillaume 1697-1764</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Hogarth, Wm. 1697-1764</skos:altLabel>
     <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>Hogarth, Guglielmo, 1697-1764</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <skos:altLabel>Hogarth, ... 1697-1764</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00468453#skos:Concept">
+    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
+    <skos:altLabel>ホガース, ウィリアム</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:altLabel>ホガース</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/17268409/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/17268409"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500004242#skos:Concept">
     <skos:altLabel>Horarth, William</skos:altLabel>
-    <skos:altLabel>Hogarth, Guglielmo</skos:altLabel>
-    <skos:prefLabel>Hogarth, William English painter and engraver, 1697-1764</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
-    <skos:altLabel>Khogart</skos:altLabel>
     <skos:altLabel>William Hogarth</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <skos:prefLabel>Hogarth, William English painter and engraver, 1697-1764</skos:prefLabel>
     <skos:altLabel>Khogart, Uilʹi︠a︡m</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1115646#skos:Concept">
-    <skos:altLabel>Hogarth, ... 1697-1764</skos:altLabel>
-    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
+    <skos:altLabel>Khogart</skos:altLabel>
+    <skos:altLabel>Hogarth, Guglielmo</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97009571#skos:Concept">
-    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
-    <skos:altLabel>Hogart, V.</skos:altLabel>
-    <skos:altLabel>Hogarth.</skos:altLabel>
+    <skos:altLabel>Hogarth, W.</skos:altLabel>
     <skos:altLabel>Hogarth, Wiliam.</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Hogarth, W.</skos:altLabel>
+    <skos:altLabel>Hogarth.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:altLabel>Hogart, V.</skos:altLabel>
+    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls017349028#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10233805#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000064243#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1115646#skos:Concept">
+    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <skos:altLabel>Hogarth, ... 1697-1764</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/17268409">
+    <foaf:name>Chogard, U., 1697-1764</foaf:name>
+    <foaf:name>Khogart</foaf:name>
+    <foaf:name>Hogarth, Guillaume 1697-1764</foaf:name>
+    <foaf:name>Hogarth, William</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/03051312X/id"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdaGr2:dateOfBirth>1697-11-10</rdaGr2:dateOfBirth>
+    <foaf:name>Hogarth.</foaf:name>
+    <foaf:name>Hogart, V.</foaf:name>
+    <foaf:name>Hogarth, Wiliam.</foaf:name>
+    <foaf:name>Hogarth, W.</foaf:name>
+    <foaf:name>Hogarth, William, 1697-1764</foaf:name>
+    <foaf:name>Hogarth, Wm. 1697-1764</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb121912488#foaf:Person"/>
+    <foaf:name>Khogart, Uilʹi︠a︡m</foaf:name>
+    <foaf:name>Horarth, William</foaf:name>
+    <foaf:name>Khogart, Uilʹi︠a︡m, 1697-1764</foaf:name>
+    <foaf:name>Hogarth, William English painter and engraver, 1697-1764</foaf:name>
+    <foaf:name>Khogart, 1697-1764</foaf:name>
+    <foaf:name>William Hogarth</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/260633"/>
+    <rdaGr2:dateOfDeath>1764-10-26</rdaGr2:dateOfDeath>
+    <foaf:name>ホガース, ウィリアム</foaf:name>
+    <foaf:name>Hogarth, Wilhelm, 1697-1764</foaf:name>
+    <foaf:name>Hogarth, W. 1697-1764</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118552805"/>
+    <foaf:name>Hogarth, ... 1697-1764</foaf:name>
+    <foaf:name>Hogarth, Guglielmo, 1697-1764</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>ホガース</foaf:name>
+    <foaf:name>Hogarth, Guglielmo</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/William_Hogarth"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C03051312X#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
-    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00468453#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068491387#skos:Concept">
     <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
-    <skos:altLabel>ホガース</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>ホガース, ウィリアム</skos:altLabel>
+    <skos:altLabel>Hogarth, Wilhelm, 1697-1764</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/17268409/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990003586#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Chogard, U., 1697-1764</skos:altLabel>
+    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80126106#skos:Concept">
-    <skos:altLabel>Khogart, 1697-1764</skos:altLabel>
-    <skos:altLabel>Hogarth, Guglielmo, 1697-1764</skos:altLabel>
-    <skos:altLabel>Khogart, Uilʹi︠a︡m, 1697-1764</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80126106"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca12303975#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
+    <skos:altLabel>Khogart, Uilʹi︠a︡m, 1697-1764</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80126106"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Hogarth, Guglielmo, 1697-1764</skos:altLabel>
+    <skos:altLabel>Khogart, 1697-1764</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0013E0392#skos:Concept">
-    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/17268409/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/17268409"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls017349028#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C260633#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/260633#concept"/>
+    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CWilliam_Hogarth#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hogarth, William</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12191248#skos:Concept">
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb121912488"/>
-    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb121912488"/>
+    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb121912488"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb121912488"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035201047#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca12303975#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hogarth, William, 1697-1764</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/17268409"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
   </rdf:Description>
 </rdf:RDF>

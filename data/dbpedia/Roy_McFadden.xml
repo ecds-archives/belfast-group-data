@@ -10,32 +10,29 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="http://dbpedia.org/resource/Roy_McFadden">
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pgil-eirdata.org/html/pgil_datasets/authors/Mc/McFadden,R/life.htm"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.sarahferris.co.uk/pages/roymcfadden.htm"/>
-    <dbpedia-owl:abstract xml:lang="en">Roy McFadden, Irish poet, 14 November 1921-15 September 1999.</dbpedia-owl:abstract>
-    <foaf:surname xml:lang="en">McFadden</foaf:surname>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1921</dbpprop:dateOfBirth>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Roy_McFadden?oldid=475235607"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Roy_McFadden"/>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1999</dbpprop:dateOfDeath>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1999_deaths"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.jstor.org/pss/29735944"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1921_births"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <dbpprop:name xml:lang="en">McFadden, Roy</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1999_deaths"/>
     <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0g5r0md"/>
+    <rdfs:comment xml:lang="en">Roy McFadden, Irish poet, 14 November 1921-15 September 1999.</rdfs:comment>
+    <foaf:name xml:lang="en">Roy McFadden</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Roy_McFadden"/>
+    <foaf:givenName xml:lang="en">Roy</foaf:givenName>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.kennys.ie/categories/irishwriters/mcfaddenroy.php"/>
+    <foaf:surname xml:lang="en">McFadden</foaf:surname>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1999</dbpprop:dateOfDeath>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.sarahferris.co.uk/pages/roymcfadden.htm"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1921</dbpprop:dateOfBirth>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Roy_McFadden"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Roy_McFadden?oldid=475235607"/>
     <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ranker.com/list/roy-mcfadden-books-and-stories-and-written-works/reference"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pgil-eirdata.org/html/pgil_datasets/authors/Mc/McFadden,R/life.htm"/>
+    <dbpedia-owl:abstract xml:lang="en">Roy McFadden, Irish poet, 14 November 1921-15 September 1999.</dbpedia-owl:abstract>
     <dbpprop:placeOfBirth xml:lang="en">Belfast</dbpprop:placeOfBirth>
     <dbpprop:placeOfDeath xml:lang="en">Belfast</dbpprop:placeOfDeath>
-    <rdfs:comment xml:lang="en">Roy McFadden, Irish poet, 14 November 1921-15 September 1999.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.kennys.ie/categories/irishwriters/mcfaddenroy.php"/>
-    <foaf:givenName xml:lang="en">Roy</foaf:givenName>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1921_births"/>
-    <foaf:name xml:lang="en">Roy McFadden</foaf:name>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Roy_McFadden"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ranker.com/list/roy-mcfadden-books-and-stories-and-written-works/reference"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Roy_McFadden">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Roy_McFadden"/>
   </rdf:Description>
 </rdf:RDF>

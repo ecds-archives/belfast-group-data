@@ -3,13 +3,13 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/mahon689/series3/">
+    <schema:name xml:lang="en">Derek Mahon papers, circa 1948-2008; Series 3: Writings by others</schema:name>
+    <schema:about rdf:resource="http://viaf.org/viaf/110228045"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/110228045">
     <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/mahon689/series3/">
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:name xml:lang="en">Derek Mahon papers, circa 1948-2008; Series 3: Writings by others</schema:name>
-    <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
-    <schema:about rdf:resource="http://viaf.org/viaf/110228045"/>
   </rdf:Description>
 </rdf:RDF>

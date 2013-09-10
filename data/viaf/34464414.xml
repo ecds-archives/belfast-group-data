@@ -8,410 +8,434 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500094070#skos:Concept">
-    <skos:prefLabel>Wilde, Oscar Irish writer, 1854-1900</skos:prefLabel>
-    <skos:altLabel>Wilde, Oscar Fingall O'Flahertie Wills</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027196984#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Oxoniensis.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+    <skos:altLabel>Wilde, Oscar Fingal O'Flahertie Wills.</skos:altLabel>
     <skos:altLabel>Melmoth, Sebastian.</skos:altLabel>
-    <skos:altLabel>C. 3. 3.</skos:altLabel>
-    <skos:altLabel>Vailds, Oskars</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
-    <skos:altLabel>Ouailnt, Oskar</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C206000#skos:Concept">
+    <skos:altLabel>Ṿaild, Osḳar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Ṿayld, Osḳar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Uajlʹd, Oskar, 1854-1900</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Wayld, Oskar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Uailld, Oskar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Wilde, Oscar O' Flahertie Wills, 1854-1900</skos:altLabel>
+    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/206000#concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX978693#skos:Concept">
+    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
+    <skos:altLabel>Melmoth, Sebastian, 1854-1900</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00460913#skos:Concept">
+    <skos:altLabel>ワイルド, オスカア</skos:altLabel>
+    <skos:altLabel>Wilde, Oscar Fingal O'Flahertie Wills.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>ワイルド, オスカー</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:altLabel>ワイルド</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
+    <skos:altLabel>Wilde, Oscar O'Flahertie Wills</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500094070#skos:Concept">
     <skos:altLabel>C. Three Three.</skos:altLabel>
-    <skos:altLabel>Oscar Wilde</skos:altLabel>
-    <skos:altLabel>Vaildas, Oskaras</skos:altLabel>
     <skos:altLabel>Wilde, Oscar Fingal O'Flahertie Wills.</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+    <skos:altLabel>Wilde, Oscar Fingall O'Flahertie Wills</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Vailds, Oskars</skos:altLabel>
+    <skos:altLabel>Vaildas, Oskaras</skos:altLabel>
+    <skos:altLabel>Melmoth, Sebastian.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
+    <skos:altLabel>Ouailnt, Oskar</skos:altLabel>
+    <skos:prefLabel>Wilde, Oscar Irish writer, 1854-1900</skos:prefLabel>
+    <skos:altLabel>C. 3. 3.</skos:altLabel>
+    <skos:altLabel>Oscar Wilde</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/34464414">
+    <foaf:name>Author of Lady Windermere's fan, 1854-1900</foaf:name>
+    <foaf:name>וילד, אסקר, 1854־1900</foaf:name>
+    <foaf:name>וויילד, אסקאר, 1854־1900</foaf:name>
+    <foaf:name>Wilde, Oscar Fingal O'Flahertie Wills.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>オスカー・ワイルド</foaf:name>
+    <foaf:name>C. Three Three.</foaf:name>
+    <foaf:name>Wang, Erde 1854-1900</foaf:name>
+    <foaf:name>Vaildas, Oskaras</foaf:name>
+    <foaf:name>וויילד, אסקאר</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/206000"/>
+    <foaf:name>ويلد، اوسكار</foaf:name>
+    <foaf:name>Wilde, Oscar F. 1854-1900</foaf:name>
+    <foaf:name>Vailds, Oskars, 1854-1900</foaf:name>
+    <foaf:name>Wilde, Oscar Fingal O'Flahertie Wills, 1854-1900</foaf:name>
+    <foaf:name>وايلد، أوسكار، 1854-1900</foaf:name>
+    <foaf:name>ワイルド, オスカー</foaf:name>
+    <foaf:name>Wilde, Oskar.</foaf:name>
+    <foaf:name>C. Drei Drei 1854-1900</foaf:name>
+    <foaf:name>Wangerde, 1854-1900</foaf:name>
+    <foaf:name>Ṿaild, Osḳar, 1854-1900</foaf:name>
+    <foaf:name>Уальд, Оскар, 1854-1900</foaf:name>
+    <foaf:name>Wilde, Oscar</foaf:name>
+    <foaf:name>وايلد، اسكار</foaf:name>
+    <foaf:name>Уайльд, Оскар, 1854-1900</foaf:name>
+    <foaf:name>Wilde, Oscar O. 1854-1900</foaf:name>
+    <foaf:name>Wilde, Oscar Irish writer, 1854-1900</foaf:name>
+    <foaf:name>ワイルド, オスカア</foaf:name>
+    <foaf:name>Wilde, Oscar Fingall O'Flahertie Wills</foaf:name>
+    <foaf:name>Wilde, Oscar Fingall O'Flahertie Wills, 1854-1900</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/027196984/id"/>
+    <foaf:name>Vayld, Oskar.</foaf:name>
+    <foaf:name>Guailant, Oskar 1854-1900</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118632779"/>
+    <foaf:name>Wilde, Óscar</foaf:name>
+    <foaf:name>Уайлд, Оскар 1854-1900</foaf:name>
+    <foaf:name>Wairudo 1854-1900</foaf:name>
+    <foaf:name>Wilde, Oscar Fingal O'Flaherty Wills 1854-1900</foaf:name>
+    <foaf:name>C. 3. 3.</foaf:name>
+    <foaf:name>Melmoth, Sebastian.</foaf:name>
+    <foaf:name>王尔德, 1854-1900</foaf:name>
+    <foaf:name>Wilde, Óscar, 1854-1900</foaf:name>
+    <foaf:name>וויילד, אוסקר, 1854-1900</foaf:name>
+    <foaf:name>Uajlʹd, Oskar</foaf:name>
+    <foaf:name>Wayld, Oskar, 1854-1900</foaf:name>
+    <foaf:name>Uaĭlʹd, Oskar, 1854-1900</foaf:name>
+    <foaf:name>ווילד, אוסקר, 1854-1900</foaf:name>
+    <foaf:name>C. 3. 3. 1854-1900 Pseudonym</foaf:name>
+    <foaf:name>Wilde, Oskar, 1854-1900</foaf:name>
+    <foaf:name>Wilde, O. 1854-1900</foaf:name>
+    <foaf:name>Vailds, Oskars</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Waild, Oskar 1854-1900</foaf:name>
+    <foaf:name>Ṿild, Osḳar, 1854-1900</foaf:name>
+    <foaf:name>ויילד, אוסקר, 1900־1854</foaf:name>
+    <foaf:name>Ṿayld, Osḳar, 1854-1900</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/284358313"/>
+    <foaf:name>Wayld, Ôsqar 1854-1900</foaf:name>
+    <foaf:name>وايلد، أوسكار</foaf:name>
+    <foaf:name>Vajld, Oskar 1854-1900</foaf:name>
+    <foaf:name>وايلد، اوسكار (Wilde, Oscar)</foaf:name>
+    <rdaGr2:dateOfDeath>1900-11-30</rdaGr2:dateOfDeath>
+    <foaf:name>װײלד, אסקאר</foaf:name>
+    <foaf:name>Uaildi, Oskar, 1854-1900</foaf:name>
+    <foaf:name>Wilde, Oscar Fingall O'Flahertie Wills Wilde 1854-1900</foaf:name>
+    <foaf:name>C. Three Three, 1854-1900</foaf:name>
+    <foaf:name>Gualant, Oskar 1854-1900</foaf:name>
+    <foaf:name>וילד, אוסקר</foaf:name>
+    <rdaGr2:dateOfBirth>1854-10-16</rdaGr2:dateOfBirth>
+    <foaf:name>Oscar Wilde</foaf:name>
+    <foaf:name>Wilde, Oscar Finegal O'Flahertie Wills Wilde 1854-1900</foaf:name>
+    <foaf:name>Uaylt, Ōskʻar, 1854-1900</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11929190h#foaf:Person"/>
+    <foaf:name>Uailds, Oskars, 1854-1900</foaf:name>
+    <foaf:name>Oxoniensis 1854-1900</foaf:name>
+    <foaf:name>ויילד, אוסקר</foaf:name>
+    <foaf:name>Ouai͏̈ld, Oscar, 1854-1900</foaf:name>
+    <foaf:name>Uajlʹd, Oskar, 1854-1900</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/284358313"/>
+    <foaf:name>Vild, Oskar.</foaf:name>
+    <foaf:name>Uailld, Oskar, 1854-1900</foaf:name>
+    <foaf:name>Oxoniensis.</foaf:name>
+    <foaf:name>Wilde, Oscar O' Flahertie Wills, 1854-1900</foaf:name>
+    <foaf:name>Wilde, ... 1854-1900</foaf:name>
+    <foaf:name>וילד, אוסקר, 1854־1900</foaf:name>
+    <foaf:name>Wills Wilde, Oscar O. 1854-1900</foaf:name>
+    <foaf:name>Uafil’d, Oskar.</foaf:name>
+    <foaf:name>Ouailnt, Oskar, 1854-1900</foaf:name>
+    <foaf:name>Уайлд, Оскар Фингал О'Флаэрти Уиллс 1854-1900</foaf:name>
+    <foaf:name>O'Flahertie Wills Wilde, Oscar 1854-1900</foaf:name>
+    <foaf:name>Lady Windermere's fan, Author of, 1854-1900</foaf:name>
+    <foaf:name>أوسكار وايلد، 1854-1900</foaf:name>
+    <foaf:name>Vāilḍa, Āskara 1854-1900</foaf:name>
+    <foaf:name>Уайльд, Оскар, 1845-1900</foaf:name>
+    <foaf:name>Vaildas, Oskaras, 1854-1900</foaf:name>
+    <foaf:name>Uajlld, Oskar 1854-1900</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
+    <foaf:name>Ouailnt, Oskar</foaf:name>
+    <foaf:name>Melmoth, Sebastian 1854-1900 Pseudonym</foaf:name>
+    <foaf:name>Wilde, Oscar O'Flahertie Wills</foaf:name>
+    <foaf:name>ווילד, אסקאר</foaf:name>
+    <foaf:name>C. 3. 3, 1854-1900</foaf:name>
+    <foaf:name>Wilde, Oscar (Oscar Fingall O'Flahertie Wills), 1854-1900</foaf:name>
+    <foaf:name>Uafilď, Oskar.</foaf:name>
+    <foaf:name>Wilde, Oscar Fingall O'Flahertie Willis</foaf:name>
+    <foaf:name>ויילד, אוסקר, 1854־1900</foaf:name>
+    <foaf:name>O'Flahertie Wills Wilde, Oscar F. 1854-1900</foaf:name>
+    <foaf:name>Wilde, O.</foaf:name>
+    <foaf:name>Melmoth, Sebastian, 1854-1900</foaf:name>
+    <foaf:name>ワイルド</foaf:name>
+    <foaf:name>Uailnt, Oskar 1854-1900</foaf:name>
+    <foaf:name>Wilde, Oskar F. 1854-1900</foaf:name>
+    <foaf:name>ויילד, אוסקר, 1854-1900</foaf:name>
+    <foaf:name>װײלד, אסקאר, 1854־1900</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118632779#skos:Concept">
+    <skos:altLabel>Wilde, Oskar F. 1854-1900</skos:altLabel>
+    <skos:altLabel>王尔德, 1854-1900</skos:altLabel>
+    <skos:altLabel>Wilde, Oscar Finegal O'Flahertie Wills Wilde 1854-1900</skos:altLabel>
+    <skos:altLabel>Wairudo 1854-1900</skos:altLabel>
+    <skos:altLabel>C. Drei Drei 1854-1900</skos:altLabel>
+    <skos:altLabel>Uailnt, Oskar 1854-1900</skos:altLabel>
+    <skos:altLabel>Ouailnt, Oskar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Vailds, Oskars, 1854-1900</skos:altLabel>
+    <skos:altLabel>O'Flahertie Wills Wilde, Oscar F. 1854-1900</skos:altLabel>
+    <skos:altLabel>O'Flahertie Wills Wilde, Oscar 1854-1900</skos:altLabel>
+    <skos:altLabel>Wilde, Oscar Fingal O'Flahertie Wills, 1854-1900</skos:altLabel>
+    <skos:altLabel>Wayld, Ôsqar 1854-1900</skos:altLabel>
+    <skos:altLabel>Waild, Oskar 1854-1900</skos:altLabel>
+    <skos:altLabel>Uaĭlʹd, Oskar, 1854-1900</skos:altLabel>
+    <skos:altLabel>C. Three Three, 1854-1900</skos:altLabel>
+    <skos:altLabel>Wills Wilde, Oscar O. 1854-1900</skos:altLabel>
+    <skos:altLabel>Melmoth, Sebastian 1854-1900 Pseudonym</skos:altLabel>
+    <skos:altLabel>Wilde, ... 1854-1900</skos:altLabel>
+    <skos:altLabel>Wilde, Oscar Fingall O'Flahertie Wills Wilde 1854-1900</skos:altLabel>
+    <skos:altLabel>Vāilḍa, Āskara 1854-1900</skos:altLabel>
+    <skos:altLabel>Ṿaild, Osḳar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Uajlʹd, Oskar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Wilde, Oscar F. 1854-1900</skos:altLabel>
+    <skos:altLabel>Wilde, O. 1854-1900</skos:altLabel>
+    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
+    <skos:altLabel>Wilde, Oskar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Ṿayld, Osḳar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Wangerde, 1854-1900</skos:altLabel>
+    <skos:altLabel>Wilde, Oscar O. 1854-1900</skos:altLabel>
+    <skos:altLabel>Ṿild, Osḳar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Vajld, Oskar 1854-1900</skos:altLabel>
+    <skos:altLabel>Gualant, Oskar 1854-1900</skos:altLabel>
+    <skos:altLabel>Wilde, Oscar Fingal O'Flaherty Wills 1854-1900</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+    <skos:altLabel>Vaildas, Oskaras, 1854-1900</skos:altLabel>
+    <skos:altLabel>Wang, Erde 1854-1900</skos:altLabel>
+    <skos:altLabel>Guailant, Oskar 1854-1900</skos:altLabel>
+    <skos:altLabel>C. 3. 3. 1854-1900 Pseudonym</skos:altLabel>
+    <skos:altLabel>Uajlld, Oskar 1854-1900</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0004D6406#skos:Concept">
+    <skos:altLabel>Wilde, Oscar Fingall O'Flahertie Wills</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls000176595#skos:Concept">
+    <skos:altLabel>Uajlʹd, Oskar</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Wilde, Oscar</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000012152#skos:Concept">
+    <skos:altLabel>Уайльд, Оскар, 1845-1900</skos:altLabel>
+    <skos:altLabel>Vailds, Oskars, 1854-1900</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+    <skos:altLabel>Uailds, Oskars, 1854-1900</skos:altLabel>
+    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BIBSYS%7Cx90053575#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BIBSYS"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C24755#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:altLabel>Wilde, Óscar</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
     <skos:altLabel>Wilde, Oscar Fingall O'Flahertie Willis</skos:altLabel>
-    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00460913#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10215611#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-    <skos:altLabel>Wilde, Oscar Fingal O'Flahertie Wills.</skos:altLabel>
-    <skos:altLabel>Wilde, Oscar O'Flahertie Wills</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
     <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
-    <skos:altLabel>ワイルド, オスカー</skos:altLabel>
-    <skos:altLabel>ワイルド, オスカア</skos:altLabel>
-    <skos:altLabel>ワイルド</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001070619#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-    <skos:prefLabel>وايلد، أوسكار، 1854-1900</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>أوسكار وايلد، 1854-1900</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0004D6406#skos:Concept">
-    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-    <skos:altLabel>Wilde, Oscar Fingall O'Flahertie Wills</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11929190#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:altLabel>e Oxoniensis 1854-1900</skos:altLabel>
-    <skos:altLabel>Wilde, Oscar Fingal O'Flahertie Wills, 1854-1900</skos:altLabel>
-    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
-    <skos:altLabel>e Melmoth Sebastian 1854-1900</skos:altLabel>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11929190h"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11929190h"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/34464414/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/34464414"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/34464414"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027196984#skos:Concept">
-    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
-    <skos:altLabel>Oxoniensis.</skos:altLabel>
-    <skos:altLabel>Melmoth, Sebastian.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++94201869#skos:Concept">
+    <skos:altLabel>Wilde, ... 1854-1900</skos:altLabel>
     <skos:altLabel>Wilde, Oscar Fingal O'Flahertie Wills.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C206000#skos:Concept">
-    <skos:altLabel>Wayld, Oskar, 1854-1900</skos:altLabel>
-    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <skos:altLabel>Wilde, Oscar O' Flahertie Wills, 1854-1900</skos:altLabel>
-    <skos:altLabel>Uajlʹd, Oskar, 1854-1900</skos:altLabel>
-    <skos:altLabel>Ṿayld, Osḳar, 1854-1900</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-    <skos:altLabel>Uailld, Oskar, 1854-1900</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/206000#concept"/>
-    <skos:altLabel>Ṿaild, Osḳar, 1854-1900</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000557473#skos:Concept">
-    <skos:altLabel>ווילד, אוסקר, 1854-1900</skos:altLabel>
-    <skos:altLabel>Ṿild, Osḳar, 1854-1900</skos:altLabel>
-    <skos:altLabel>Author of Lady Windermere's fan, 1854-1900</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <skos:altLabel>Wilde, Oscar Fingall O'Flahertie Wills, 1854-1900</skos:altLabel>
-    <skos:altLabel>Vailds, Oskars, 1854-1900</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-    <skos:altLabel>Ṿaild, Osḳar, 1854-1900</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>וילד, אוסקר, 1854־1900</skos:altLabel>
-    <skos:altLabel>Lady Windermere's fan, Author of, 1854-1900</skos:altLabel>
-    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
-    <skos:altLabel>Ouailnt, Oskar, 1854-1900</skos:altLabel>
-    <skos:altLabel>Vaildas, Oskaras, 1854-1900</skos:altLabel>
-    <skos:altLabel>ويلد، اوسكار</skos:altLabel>
-    <skos:altLabel>Uaylt, Ōskʻar, 1854-1900</skos:altLabel>
-    <skos:altLabel>C. 3. 3, 1854-1900</skos:altLabel>
-    <skos:altLabel>C. Three Three, 1854-1900</skos:altLabel>
-    <skos:altLabel>Uaĭlʹd, Oskar, 1854-1900</skos:altLabel>
-    <skos:altLabel>וויילד, אוסקר, 1854-1900</skos:altLabel>
-    <skos:altLabel>Melmoth, Sebastian, 1854-1900</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RSL%7Cnafpn-000082072#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-    <skos:altLabel>Уальд, Оскар, 1854-1900</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RSL"/>
-    <skos:altLabel>Уайлд, Оскар 1854-1900</skos:altLabel>
-    <skos:prefLabel>Уайльд, Оскар, 1854-1900</skos:prefLabel>
-    <skos:altLabel>Уайлд, Оскар Фингал О'Флаэрти Уиллс 1854-1900</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BIBSYS%7Cx90053575#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BIBSYS"/>
+    <skos:altLabel>Wilde, O.</skos:altLabel>
+    <skos:altLabel>Wilde, Oskar.</skos:altLabel>
+    <skos:altLabel>C. 3. 3.</skos:altLabel>
+    <skos:altLabel>Vild, Oskar.</skos:altLabel>
+    <skos:altLabel>Melmoth, Sebastian.</skos:altLabel>
+    <skos:altLabel>Oxoniensis.</skos:altLabel>
+    <skos:altLabel>Uafil’d, Oskar.</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
+    <skos:altLabel>C. Three Three.</skos:altLabel>
+    <skos:altLabel>Uajlʹd, Oskar</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/34464414/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:altLabel>Vayld, Oskar.</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/34464414/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/34464414"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX978693#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <skos:altLabel>Melmoth, Sebastian, 1854-1900</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035607711#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-    <skos:altLabel>Melmoth, Sebastian, 1854-1900</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++94201869#skos:Concept">
-    <skos:altLabel>Wilde, Oscar Fingal O'Flahertie Wills.</skos:altLabel>
-    <skos:altLabel>C. Three Three.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:altLabel>Wilde, ... 1854-1900</skos:altLabel>
-    <skos:altLabel>Vild, Oskar.</skos:altLabel>
-    <skos:altLabel>Wilde, Oskar.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-    <skos:altLabel>Wilde, O.</skos:altLabel>
-    <skos:altLabel>Oxoniensis.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Uafil’d, Oskar.</skos:altLabel>
-    <skos:altLabel>C. 3. 3.</skos:altLabel>
-    <skos:altLabel>Uajl'd, Oskar.</skos:altLabel>
-    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
-    <skos:altLabel>Vayld, Oskar.</skos:altLabel>
-    <skos:altLabel>Melmoth, Sebastian.</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79042038#skos:Concept">
-    <skos:altLabel>ויילד, אוסקר, 1900־1854</skos:altLabel>
-    <skos:altLabel>וילד, אוסקר, 1854־1900</skos:altLabel>
-    <skos:altLabel>Wilde, Oscar Fingall O'Flahertie Wills, 1854-1900</skos:altLabel>
-    <skos:altLabel>װײלד, אסקאר</skos:altLabel>
-    <skos:altLabel>ויילד, אוסקר, 1854־1900</skos:altLabel>
-    <skos:altLabel>Uaylt, Ōskʻar, 1854-1900</skos:altLabel>
-    <skos:altLabel>Ṿild, Osḳar, 1854-1900</skos:altLabel>
-    <skos:altLabel>װײלד, אסקאר, 1854־1900</skos:altLabel>
-    <skos:altLabel>Melmoth, Sebastian, 1854-1900</skos:altLabel>
-    <skos:altLabel>وايلد، اسكار</skos:altLabel>
-    <skos:altLabel>וילד, אוסקר</skos:altLabel>
-    <skos:altLabel>Uaĭlʹd, Oskar, 1854-1900</skos:altLabel>
-    <skos:altLabel>Ṿaild, Osḳar, 1854-1900</skos:altLabel>
-    <skos:altLabel>ויילד, אוסקר</skos:altLabel>
-    <skos:altLabel>Уальд, Оскар, 1854-1900</skos:altLabel>
-    <skos:altLabel>Vailds, Oskars, 1854-1900</skos:altLabel>
-    <skos:altLabel>オスカー・ワイルド</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:altLabel>ווילד, אסקאר</skos:altLabel>
-    <skos:altLabel>Уайльд, Оскар, 1854-1900</skos:altLabel>
-    <skos:altLabel>וויילד, אסקאר, 1854־1900</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
-    <skos:altLabel>C. 3. 3, 1854-1900</skos:altLabel>
-    <skos:altLabel>וויילד, אסקאר</skos:altLabel>
-    <skos:altLabel>Author of Lady Windermere's fan, 1854-1900</skos:altLabel>
-    <skos:altLabel>וילד, אסקר, 1854־1900</skos:altLabel>
-    <skos:altLabel>Vaildas, Oskaras, 1854-1900</skos:altLabel>
-    <skos:altLabel>C. Three Three, 1854-1900</skos:altLabel>
-    <skos:altLabel>Ouailnt, Oskar, 1854-1900</skos:altLabel>
-    <skos:altLabel>Lady Windermere's fan, Author of, 1854-1900</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>וויילד, אוסקר, 1854-1900</skos:altLabel>
-    <skos:altLabel>وايلد، أوسكار</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79042038"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19981002409#skos:Concept">
-    <skos:altLabel>Wilde, Oscar Fingal O'Flahertie Wills, 1854-1900</skos:altLabel>
-    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <skos:altLabel>Wilde, Oskar, 1854-1900</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10215611#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7COscar_Wilde#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Wilde, Oscar</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RSL%7Cnafpn-000082072#skos:Concept">
+    <skos:altLabel>Уайлд, Оскар 1854-1900</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Уайльд, Оскар, 1854-1900</skos:prefLabel>
+    <skos:altLabel>Уальд, Оскар, 1854-1900</skos:altLabel>
+    <skos:altLabel>Уайлд, Оскар Фингал О'Флаэрти Уиллс 1854-1900</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RSL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000557473#skos:Concept">
+    <skos:altLabel>Lady Windermere's fan, Author of, 1854-1900</skos:altLabel>
+    <skos:altLabel>Uaĭlʹd, Oskar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Ṿaild, Osḳar, 1854-1900</skos:altLabel>
+    <skos:altLabel>C. 3. 3, 1854-1900</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+    <skos:altLabel>Vaildas, Oskaras, 1854-1900</skos:altLabel>
+    <skos:altLabel>C. Three Three, 1854-1900</skos:altLabel>
+    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
+    <skos:altLabel>Melmoth, Sebastian, 1854-1900</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Author of Lady Windermere's fan, 1854-1900</skos:altLabel>
+    <skos:altLabel>Uaylt, Ōskʻar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Ouailnt, Oskar, 1854-1900</skos:altLabel>
+    <skos:altLabel>ווילד, אוסקר, 1854-1900</skos:altLabel>
+    <skos:altLabel>Ṿild, Osḳar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Wilde, Oscar Fingall O'Flahertie Wills, 1854-1900</skos:altLabel>
+    <skos:altLabel>Vailds, Oskars, 1854-1900</skos:altLabel>
+    <skos:altLabel>וילד, אוסקר, 1854־1900</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>וויילד, אוסקר, 1854-1900</skos:altLabel>
+    <skos:altLabel>ويلد، اوسكار</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035607711#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Melmoth, Sebastian, 1854-1900</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11929190#skos:Concept">
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11929190h"/>
+    <skos:altLabel>Oxoniensis 1854-1900</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11929190h"/>
+    <skos:altLabel>Wilde, Oscar Fingal O'Flahertie Wills, 1854-1900</skos:altLabel>
+    <skos:altLabel>Melmoth, Sebastian, 1854-1900</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/34464414/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001070619#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>أوسكار وايلد، 1854-1900</skos:altLabel>
+    <skos:prefLabel>وايلد، أوسكار، 1854-1900</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11536469#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <skos:altLabel>Uajlʹd, Oskar</skos:altLabel>
+    <skos:altLabel>Vayld, Oskar.</skos:altLabel>
+    <skos:altLabel>C. 3. 3.</skos:altLabel>
+    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
+    <skos:altLabel>Vild, Oskar.</skos:altLabel>
+    <skos:altLabel>Melmoth, Sebastian.</skos:altLabel>
+    <skos:altLabel>Wilde, Oskar.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Uafilď, Oskar.</skos:altLabel>
+    <skos:altLabel>C. Three Three.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79042038#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>וויילד, אסקאר</skos:altLabel>
+    <skos:altLabel>Ouailnt, Oskar, 1854-1900</skos:altLabel>
+    <skos:altLabel>וילד, אוסקר, 1854־1900</skos:altLabel>
+    <skos:altLabel>וויילד, אוסקר, 1854-1900</skos:altLabel>
+    <skos:altLabel>C. Three Three, 1854-1900</skos:altLabel>
+    <skos:altLabel>ויילד, אוסקר, 1900־1854</skos:altLabel>
+    <skos:altLabel>وايلد، اسكار</skos:altLabel>
+    <skos:altLabel>ויילד, אוסקר</skos:altLabel>
+    <skos:altLabel>וילד, אוסקר</skos:altLabel>
+    <skos:altLabel>Уальд, Оскар, 1854-1900</skos:altLabel>
+    <skos:altLabel>C. 3. 3, 1854-1900</skos:altLabel>
+    <skos:altLabel>ווילד, אסקאר</skos:altLabel>
+    <skos:altLabel>Vailds, Oskars, 1854-1900</skos:altLabel>
+    <skos:altLabel>وايلد، أوسكار</skos:altLabel>
+    <skos:altLabel>Uaylt, Ōskʻar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Lady Windermere's fan, Author of, 1854-1900</skos:altLabel>
+    <skos:altLabel>オスカー・ワイルド</skos:altLabel>
+    <skos:altLabel>Uaĭlʹd, Oskar, 1854-1900</skos:altLabel>
+    <skos:altLabel>װײלד, אסקאר</skos:altLabel>
+    <skos:altLabel>וויילד, אסקאר, 1854־1900</skos:altLabel>
+    <skos:altLabel>וילד, אסקר, 1854־1900</skos:altLabel>
+    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
+    <skos:altLabel>Author of Lady Windermere's fan, 1854-1900</skos:altLabel>
+    <skos:altLabel>Ṿild, Osḳar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Wilde, Oscar Fingall O'Flahertie Wills, 1854-1900</skos:altLabel>
+    <skos:altLabel>װײלד, אסקאר, 1854־1900</skos:altLabel>
+    <skos:altLabel>Vaildas, Oskaras, 1854-1900</skos:altLabel>
+    <skos:altLabel>Уайльд, Оскар, 1854-1900</skos:altLabel>
+    <skos:altLabel>Melmoth, Sebastian, 1854-1900</skos:altLabel>
+    <skos:altLabel>ויילד, אוסקר, 1854־1900</skos:altLabel>
+    <skos:altLabel>Ṿaild, Osḳar, 1854-1900</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79042038"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SWNL%7Cvtls000228984#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SWNL"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+    <skos:altLabel>Wilde, Oscar O'Flahertie Wills</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Wilde, Oscar</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11536469#skos:Concept">
-    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
-    <skos:altLabel>C. Three Three.</skos:altLabel>
-    <skos:altLabel>Melmoth, Sebastian.</skos:altLabel>
-    <skos:altLabel>Vild, Oskar.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Uafilď, Oskar.</skos:altLabel>
-    <skos:altLabel>Wilde, Oskar.</skos:altLabel>
-    <skos:altLabel>Vayld, Oskar.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <skos:altLabel>C. 3. 3.</skos:altLabel>
-    <skos:altLabel>Uajl'd, Oskar.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/34464414">
-    <foaf:name>Waild, Oskar 1854-1900</foaf:name>
-    <foaf:name>Ṿild, Osḳar, 1854-1900</foaf:name>
-    <foaf:name>Wilde, Oscar Fingall O'Flahertie Wills</foaf:name>
-    <foaf:name>Vaildas, Oskaras</foaf:name>
-    <foaf:name>Wilde, Oscar Fingall O'Flahertie Wills, 1854-1900</foaf:name>
-    <foaf:name>Wilde, Oscar O'Flahertie Wills</foaf:name>
-    <foaf:name>Wilde, O. 1854-1900</foaf:name>
-    <foaf:name>Ouai͏̈ld, Oscar, 1854-1900</foaf:name>
-    <foaf:name>وايلد، أوسكار</foaf:name>
-    <foaf:name>Wilde, Óscar, 1854-1900</foaf:name>
-    <foaf:name>וויילד, אסקאר</foaf:name>
-    <foaf:name>Wairudo 1854-1900</foaf:name>
-    <foaf:name>ワイルド, オスカア</foaf:name>
-    <foaf:name>Uaylt, Ōskʻar, 1854-1900</foaf:name>
-    <foaf:name>ויילד, אוסקר</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Oscar_Wilde"/>
-    <foaf:name>Wilde, Oskar F. 1854-1900</foaf:name>
-    <foaf:name>O'Flahertie Wills Wilde, Oscar 1854-1900</foaf:name>
-    <foaf:name>וילד, אוסקר, 1854־1900</foaf:name>
-    <foaf:name>王尔德, 1854-1900</foaf:name>
-    <foaf:name>Уайлд, Оскар Фингал О'Флаэрти Уиллс 1854-1900</foaf:name>
-    <foaf:name>Wilde, Oscar Fingal O'Flahertie Wills, 1854-1900</foaf:name>
-    <foaf:name>Wilde, Oscar O' Flahertie Wills, 1854-1900</foaf:name>
-    <rdaGr2:dateOfDeath>1900-11-30</rdaGr2:dateOfDeath>
-    <foaf:name>וויילד, אסקאר, 1854־1900</foaf:name>
-    <foaf:name>Уайлд, Оскар 1854-1900</foaf:name>
-    <foaf:name>Wilde, Oscar O. 1854-1900</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Wang, Erde 1854-1900</foaf:name>
-    <foaf:name>Wilde, Oscar Irish writer, 1854-1900</foaf:name>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/284358313"/>
-    <foaf:name>オスカー・ワイルド</foaf:name>
-    <foaf:name>Guailant, Oskar 1854-1900</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Wilde, Oscar</foaf:name>
-    <foaf:name>Wills Wilde, Oscar O. 1854-1900</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11929190h#foaf:Person"/>
-    <foaf:name>Oxoniensis.</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/027196984/id"/>
-    <foaf:name>e Melmoth Sebastian 1854-1900</foaf:name>
-    <foaf:name>ワイルド, オスカー</foaf:name>
-    <foaf:name>Author of Lady Windermere's fan, 1854-1900</foaf:name>
-    <foaf:name>Vailds, Oskars</foaf:name>
-    <foaf:name>ويلد، اوسكار</foaf:name>
-    <foaf:name>װײלד, אסקאר, 1854־1900</foaf:name>
-    <foaf:name>Vāilḍa, Āskara 1854-1900</foaf:name>
-    <foaf:name>Wilde, Oskar.</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/206000"/>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118632779"/>
-    <foaf:name>Wilde, Oskar, 1854-1900</foaf:name>
-    <foaf:name>Wangerde, 1854-1900</foaf:name>
-    <foaf:name>Vild, Oskar.</foaf:name>
-    <foaf:name>Wilde, Oscar Fingall O'Flahertie Wills Wilde 1854-1900</foaf:name>
-    <foaf:name>Wayld, Oskar, 1854-1900</foaf:name>
-    <foaf:name>Vailds, Oskars, 1854-1900</foaf:name>
-    <foaf:name>Uajlld, Oskar 1854-1900</foaf:name>
-    <foaf:name>Uailnt, Oskar 1854-1900</foaf:name>
-    <rdaGr2:dateOfBirth>1854-10-16</rdaGr2:dateOfBirth>
-    <foaf:name>Wilde, Oscar Fingall O'Flahertie Willis</foaf:name>
-    <foaf:name>Oscar Wilde</foaf:name>
-    <foaf:name>Melmoth, Sebastian 1854-1900 Pseudonym</foaf:name>
-    <foaf:name>Melmoth, Sebastian, 1854-1900</foaf:name>
-    <foaf:name>ווילד, אוסקר, 1854-1900</foaf:name>
-    <foaf:name>وايلد، اوسكار (Wilde, Oscar)</foaf:name>
-    <foaf:name>Uafilď, Oskar.</foaf:name>
-    <foaf:name>ויילד, אוסקר, 1900־1854</foaf:name>
-    <foaf:name>C. 3. 3.</foaf:name>
-    <foaf:name>Wilde, ... 1854-1900</foaf:name>
-    <foaf:name>Ṿayld, Osḳar, 1854-1900</foaf:name>
-    <foaf:name>Vajld, Oskar 1854-1900</foaf:name>
-    <foaf:name>Уальд, Оскар, 1854-1900</foaf:name>
-    <foaf:name>C. Three Three.</foaf:name>
-    <foaf:name>Wilde, Oscar Fingal O'Flaherty Wills 1854-1900</foaf:name>
-    <foaf:name>Uajl'd, Oskar.</foaf:name>
-    <foaf:name>Wayld, Ôsqar 1854-1900</foaf:name>
-    <foaf:name>Uaildi, Oskar, 1854-1900</foaf:name>
-    <foaf:name>Ouailnt, Oskar</foaf:name>
-    <foaf:name>وايلد، اسكار</foaf:name>
-    <foaf:name>Wilde, Oscar F. 1854-1900</foaf:name>
-    <foaf:name>Melmoth, Sebastian.</foaf:name>
-    <foaf:name>Uailld, Oskar, 1854-1900</foaf:name>
-    <foaf:name>Wilde, Oscar Finegal O'Flahertie Wills Wilde 1854-1900</foaf:name>
-    <foaf:name>Uafil’d, Oskar.</foaf:name>
-    <foaf:name>װײלד, אסקאר</foaf:name>
-    <foaf:name>Gualant, Oskar 1854-1900</foaf:name>
-    <foaf:name>Vaildas, Oskaras, 1854-1900</foaf:name>
-    <foaf:name>וילד, אסקר, 1854־1900</foaf:name>
-    <foaf:name>ויילד, אוסקר, 1854־1900</foaf:name>
-    <foaf:name>ווילד, אסקאר</foaf:name>
-    <foaf:name>C. Three Three, 1854-1900</foaf:name>
-    <foaf:name>ויילד, אוסקר, 1854-1900</foaf:name>
-    <foaf:name>C. 3. 3. 1854-1900 Pseudonym</foaf:name>
-    <foaf:name>Wilde, Oscar Fingal O'Flahertie Wills.</foaf:name>
-    <foaf:name>e Oxoniensis 1854-1900</foaf:name>
-    <foaf:name>Wilde, Oscar (Oscar Fingall O'Flahertie Wills), 1854-1900</foaf:name>
-    <foaf:name>וויילד, אוסקר, 1854-1900</foaf:name>
-    <foaf:name>Ṿaild, Osḳar, 1854-1900</foaf:name>
-    <foaf:name>Uaĭlʹd, Oskar, 1854-1900</foaf:name>
-    <foaf:name>Wilde, Óscar</foaf:name>
-    <foaf:name>Vayld, Oskar.</foaf:name>
-    <foaf:name>Уайльд, Оскар, 1854-1900</foaf:name>
-    <foaf:name>أوسكار وايلد، 1854-1900</foaf:name>
-    <foaf:name>C. Drei Drei 1854-1900</foaf:name>
-    <foaf:name>وايلد، أوسكار، 1854-1900</foaf:name>
-    <foaf:name>ワイルド</foaf:name>
-    <foaf:name>C. 3. 3, 1854-1900</foaf:name>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/284358313"/>
-    <foaf:name>Lady Windermere's fan, Author of, 1854-1900</foaf:name>
-    <foaf:name>Uajlʹd, Oskar, 1854-1900</foaf:name>
-    <foaf:name>O'Flahertie Wills Wilde, Oscar F. 1854-1900</foaf:name>
-    <foaf:name>וילד, אוסקר</foaf:name>
-    <foaf:name>Ouailnt, Oskar, 1854-1900</foaf:name>
-    <foaf:name>Wilde, O.</foaf:name>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068589514#skos:Concept">
+    <skos:altLabel>Ouai͏̈ld, Oscar, 1854-1900</skos:altLabel>
     <skos:altLabel>Wilde, Oskar, 1854-1900</skos:altLabel>
     <skos:altLabel>Uaildi, Oskar, 1854-1900</skos:altLabel>
+    <skos:altLabel>Wilde, Oscar Fingal O'Flahertie Wills, 1854-1900</skos:altLabel>
+    <skos:altLabel>Wangerde, 1854-1900</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <skos:prefLabel>Wilde, Oscar (Oscar Fingall O'Flahertie Wills), 1854-1900</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Ouai͏̈ld, Oscar, 1854-1900</skos:altLabel>
     <skos:altLabel>王尔德, 1854-1900</skos:altLabel>
     <skos:altLabel>Uajlʹd, Oskar, 1854-1900</skos:altLabel>
-    <skos:altLabel>Wilde, Oscar Fingal O'Flahertie Wills, 1854-1900</skos:altLabel>
-    <skos:altLabel>Wangerde, 1854-1900</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118632779#skos:Concept">
-    <skos:altLabel>C. Three Three, 1854-1900</skos:altLabel>
-    <skos:altLabel>Vailds, Oskars, 1854-1900</skos:altLabel>
-    <skos:altLabel>Guailant, Oskar 1854-1900</skos:altLabel>
-    <skos:altLabel>Wilde, ... 1854-1900</skos:altLabel>
-    <skos:altLabel>Gualant, Oskar 1854-1900</skos:altLabel>
-    <skos:altLabel>Wangerde, 1854-1900</skos:altLabel>
-    <skos:altLabel>Wilde, Oscar F. 1854-1900</skos:altLabel>
-    <skos:altLabel>Wilde, Oscar Fingal O'Flaherty Wills 1854-1900</skos:altLabel>
-    <skos:altLabel>Ṿild, Osḳar, 1854-1900</skos:altLabel>
-    <skos:altLabel>Wilde, Oscar O. 1854-1900</skos:altLabel>
-    <skos:altLabel>Wilde, Oskar F. 1854-1900</skos:altLabel>
-    <skos:altLabel>Wairudo 1854-1900</skos:altLabel>
-    <skos:altLabel>王尔德, 1854-1900</skos:altLabel>
-    <skos:altLabel>Wang, Erde 1854-1900</skos:altLabel>
-    <skos:altLabel>Melmoth, Sebastian 1854-1900 Pseudonym</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
-    <skos:altLabel>O'Flahertie Wills Wilde, Oscar 1854-1900</skos:altLabel>
-    <skos:altLabel>Uajlld, Oskar 1854-1900</skos:altLabel>
-    <skos:altLabel>Uaĭlʹd, Oskar, 1854-1900</skos:altLabel>
-    <skos:altLabel>Vāilḍa, Āskara 1854-1900</skos:altLabel>
-    <skos:altLabel>Vajld, Oskar 1854-1900</skos:altLabel>
-    <skos:altLabel>C. Drei Drei 1854-1900</skos:altLabel>
-    <skos:altLabel>Wills Wilde, Oscar O. 1854-1900</skos:altLabel>
-    <skos:altLabel>Wilde, Oscar Finegal O'Flahertie Wills Wilde 1854-1900</skos:altLabel>
-    <skos:altLabel>Wilde, Oscar Fingall O'Flahertie Wills Wilde 1854-1900</skos:altLabel>
-    <skos:altLabel>Ṿayld, Osḳar, 1854-1900</skos:altLabel>
-    <skos:altLabel>Wilde, Oskar, 1854-1900</skos:altLabel>
-    <skos:altLabel>Uailnt, Oskar 1854-1900</skos:altLabel>
-    <skos:altLabel>Uajlʹd, Oskar, 1854-1900</skos:altLabel>
-    <skos:altLabel>Vaildas, Oskaras, 1854-1900</skos:altLabel>
-    <skos:altLabel>Waild, Oskar 1854-1900</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19981002409#skos:Concept">
     <skos:altLabel>Wilde, Oscar Fingal O'Flahertie Wills, 1854-1900</skos:altLabel>
-    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
-    <skos:altLabel>Ouailnt, Oskar, 1854-1900</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>O'Flahertie Wills Wilde, Oscar F. 1854-1900</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:altLabel>Ṿaild, Osḳar, 1854-1900</skos:altLabel>
-    <skos:altLabel>Wayld, Ôsqar 1854-1900</skos:altLabel>
-    <skos:altLabel>Wilde, O. 1854-1900</skos:altLabel>
-    <skos:altLabel>C. 3. 3. 1854-1900 Pseudonym</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/34464414"/>
+    <skos:prefLabel>Wilde, Óscar, 1854-1900</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:altLabel>Wilde, Oskar, 1854-1900</skos:altLabel>
   </rdf:Description>
 </rdf:RDF>

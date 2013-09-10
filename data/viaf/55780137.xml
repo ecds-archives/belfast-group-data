@@ -7,38 +7,38 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/55780137/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/55780137"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/55780137">
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
     <foaf:name>Cook, Jon</foaf:name>
     <foaf:name>Cook, Jon (Jonathan)</foaf:name>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
     <foaf:name>Cook, Jonathan</foaf:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068494084#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Cook, Jon (Jonathan)</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/55780137"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/55780137/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/55780137"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++90705071#skos:Concept">
-    <skos:altLabel>Cook, Jonathan</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/55780137"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n90705071"/>
     <skos:prefLabel>Cook, Jon</skos:prefLabel>
+    <skos:altLabel>Cook, Jonathan</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/55780137"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/55780137/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/55780137"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068494084#skos:Concept">
+    <skos:prefLabel>Cook, Jon (Jonathan)</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/55780137"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/55780137/#foaf:Person">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/55780137"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/55780137"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/55780137/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/55780137"/>
   </rdf:Description>
 </rdf:RDF>

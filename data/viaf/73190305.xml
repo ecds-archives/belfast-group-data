@@ -9,29 +9,29 @@
    xmlns:void="http://rdfs.org/ns/void#"
 >
   <rdf:Description rdf:about="http://viaf.org/viaf/73190305">
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <foaf:name>Keller, David, 1941-</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
     <rdaGr2:dateOfBirth>1941-05-26</rdaGr2:dateOfBirth>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/73190305/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/73190305"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++99264398#skos:Concept">
-    <skos:prefLabel>Keller, David, 1941-</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n99264398"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/73190305"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/73190305/#foaf:Person">
     <owl:sameAs rdf:resource="http://viaf.org/viaf/73190305"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/73190305/#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++99264398#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Keller, David, 1941-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n99264398"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/73190305"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/73190305/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/73190305"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/73190305/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73190305"/>
   </rdf:Description>
 </rdf:RDF>

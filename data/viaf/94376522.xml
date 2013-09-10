@@ -7,39 +7,39 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072736801#skos:Concept">
-    <skos:prefLabel>Bredin, Hugh.</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/94376522"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/94376522/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/94376522"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++96025435#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:prefLabel>Bredin, Hugh.</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/94376522"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/94376522">
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Bredin, Hugh.</foaf:name>
+    <foaf:name>Bredin, Hugh (Hugh Terence)</foaf:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/94376522/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/94376522"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/94376522">
-    <foaf:name>Bredin, Hugh.</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Bredin, Hugh (Hugh Terence)</foaf:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072736801#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Bredin, Hugh.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/94376522"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cnr2001013613#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Bredin, Hugh (Hugh Terence)</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/94376522"/>
     <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/nr2001013613"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/94376522"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++96025435#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/94376522"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Bredin, Hugh.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/94376522/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/94376522"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/94376522/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>

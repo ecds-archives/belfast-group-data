@@ -10,347 +10,181 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Feast_Day_of_Saint_Francis_of_Assisi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_of_Assisi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Francis_of_Assisi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_of_Assisi">
-    <dbpedia-owl:abstract xml:lang="it">Fondatore dell'ordine che da lui poi prese il nome, è venerato come santo dalla Chiesa cattolica. Il 4 ottobre ne viene celebrata la memoria liturgica in tutta la Chiesa cattolica (festa in Italia; solennità per la Famiglia francescana). È stato proclamato, assieme a Santa Caterina da Siena, patrono principale d'Italia il 18 giugno 1939 da papa Pio XII. Conosciuto anche come "il poverello d'Assisi", la sua tomba è meta di pellegrinaggio per decine di migliaia di devoti ogni anno. La città di Assisi, a motivo del suo illustre cittadino, è assurta a simbolo di pace, soprattutto dopo aver ospitato i due grandi incontri tra gli esponenti delle maggiori religioni del mondo, promossi da Giovanni Paolo II nel 1986 e nel 2002, e da Benedetto XVI nel 2011. Oggi, S. Francesco d'Assisi è uno dei santi più popolari e venerati del mondo. Oltre all'opera spirituale, Francesco, grazie al Cantico delle creature, è riconosciuto come uno degli iniziatori della tradizione letteraria italiana.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_deacons"/>
-    <dbpprop:attributes xml:lang="en">Cross, Dove, birds, animals, wolf at feet, Pax et Bonum,</dbpprop:attributes>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Francisco_de_Assis"/>
-    <dbpprop:caption xml:lang="en">Painting by Jusepe de Ribera</dbpprop:caption>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dbpprop:deathDate>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_theologians"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MedievalItalianSaints"/>
     <dbpedia-owl:abstract xml:lang="uk">Франци́ск (Франц) Ассі́зький, Святий — засновник ордену францисканців.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/13th-centuryChristianSaints"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.catholic.org/saints/saint.php?saint_id=50"/>
-    <rdfs:comment xml:lang="uk">Франци́ск (Франц) Ассі́зький, Святий — засновник ордену францисканців.</rdfs:comment>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Papal_States"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SaintsOfTheGoldenLegend"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ascetics"/>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Francis_of_Assisi_by_Jusepe_de_Ribera.jpg"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medieval_Italian_saints"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Assisi"/>
-    <dbpedia-owl:abstract xml:lang="nl">Franciscus van Assisi leefde als religieus, werd de stichter van de kloosterorde van de franciscanen of minderbroeders, en werd heilig verklaard door paus Gregorius IX op 16 juli 1228.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Franciszek_z_Asyżu"/>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/아시시의_프란체스코"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dbpedia-owl:individualisedPnd xml:lang="de">118534963</dbpedia-owl:individualisedPnd>
-    <rdfs:label xml:lang="de">Franz von Assisi</rdfs:label>
-    <dbpedia-owl:abstract xml:lang="ru">Франциск АссизскийДжованни ди Пьетро Бернардоне thumbpx Старейшее из известных изображений Франциска, созданное ещё при его жизни; находится на стене монастыря св. Бенедикта в СубиакоРождение: 1181/1182 Папская область Смерть: 3&amp;#160;октября 1226(1226-10-03) Ассизи, Папская область Почитается: Католической церковью Часть серии статей о ХристианствеСоциальное Христианство50pxОсновные представителиФранциск Ассизский Вильгельм Эммануил фон Кеттелер • Лев XIII Адольф Кольпинг • Эдвард Беллами Маргарет Бенн • Филлип Берриман Джеймс Хал Коун • Дороти Дэй • Антонио Негри Лев Толстой • Оскар Ромеро • Густаво Гутиеррес Абрахам Кёйпер • Даниель Берриган Филип Берриган • Мартин Лютер Кинг Вальтер Раушенбуш • Десмонд Туту Томми Дуглас ОрганизацииКонфедерация христианских профсоюзов Католическое рабочее движение Христианский социализм Ключевые концепцииСубсидиарность Христианский анархизм • Марксизм Теология освобождения • Школа праксиса Precarity • Человеческое достоинство Социально-ориентированная рыночная экономика Коммунитаризм • Распределение Католическое социальное учение Нео-кальвинизм Неотомизм Ключевые документыRerum Novarum Princeton Stone Lectures Populorum Progressio Centesimus Annus Caritas in Veritate Портал:Христианствоп·о·р Франци́ск Асси́зский — католический святой, учредитель названного его именем нищенствующего ордена. Знаменует собой перелом в истории аскетического идеала, а потому и новую эпоху в истории западного монашества.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="no">Frans av Assisi, den hellige Frans (it. San Francesco d'Assisi), egentlig Giovanni Francesco di Bernardone, italiensk ordensgrunnlegger, erklært helgen 1228. Han er kjent som grunnlegger av fransiskanerordenen (Ordo Fratrum Minorum, O.F.M.). Hans ettermæle er ut over dette todelt: dels huskes han som ekstatisk mystiker, som var den første kjente helgen som mottok stigmata; dels huskes han som de fattiges og sykes venn, og som en forkjemper for et konsekvent fattigdomsideal for sin orden. Hans eget forfatterskap er beskjedent, og består i hovedsak av forordninger for ordenslivet. Den mest kjente teksten er Solsangen Canticum fratris solis som han skrev i klosterhaven i San Damiano i 1224, og denne er regnet som det første betydningsfulle dikt på italiensk. Diktet ble senere endret til en salme, i norsk versjon kalt Takk, gode Gud, for alt som finnes. Hans minnedag feires den 4. oktober og er markert med et halvkors på primstaven.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="it">Fondatore dell'ordine che da lui poi prese il nome, è venerato come santo dalla Chiesa cattolica. Il 4 ottobre ne viene celebrata la memoria liturgica in tutta la Chiesa cattolica (festa in Italia; solennità per la Famiglia francescana). È stato proclamato, assieme a Santa Caterina da Siena, patrono principale d'Italia il 18 giugno 1939 da papa Pio XII. Conosciuto anche come "il poverello d'Assisi", la sua tomba è meta di pellegrinaggio per decine di migliaia di devoti ogni anno.</rdfs:comment>
-    <dbpprop:attributes rdf:resource="http://dbpedia.org/resource/Stigmata"/>
-    <rdfs:label xml:lang="uk">Франциск Ассізький</rdfs:label>
-    <dbpprop:name xml:lang="en">Saint Francis of Assisi</dbpprop:name>
-    <rdfs:comment xml:lang="de">Franz von Assisi lebte streng nach dem Vorbild des Jesus von Nazaret, wie er selbst sagte, das Evangelium sine glossa, das heißt nach der Bibel ohne aufgesetzter Deutung. Diese Lebensweise zog gleichgesinnte Gefährten und Nachahmer an. Franziskus gründete den Orden der Minderen Brüder und war Mitbegründer des Frauenordens der Klarissen. Er wurde von der katholischen Kirche heiliggesprochen.</rdfs:comment>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Francis_of_Assisi"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Christian_philosophers"/>
-    <dbpprop:placeOfBirth xml:lang="en">Assisi, Italy</dbpprop:placeOfBirth>
-    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1181</dbpprop:birthDate>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Saint"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Cleric"/>
-    <dbpedia-owl:majorShrine rdf:resource="http://dbpedia.org/resource/Basilica_of_San_Francesco_d'Assisi"/>
-    <dbpedia-owl:abstract xml:lang="ca">Francesc d'Assís —en italià Francesco d'Assisi—, és un sant italià que va fundar l'orde franciscà i un segon orde, femení, conegut com el de les Germanes Clarisses. A més, és un dels primers autors literaris que fa servir la llengua italiana. Va ser canonitzat per l'Església Catòlica el 1228, i la seva festivitat se celebra el 4 d'octubre. En italià, és conegut també com il poverello d'Assisi ("el pobret d'Assís»). És el sant patró dels animals i el medi ambient.</dbpedia-owl:abstract>
-    <dbpedia-owl:canonizedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1228-07-16</dbpedia-owl:canonizedDate>
-    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4raI02Lit-S9mm3I9sC3sLdQ"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Beggars"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Christian_mystics"/>
-    <dbpedia-owl:abstract xml:lang="cs">Svatý František z Assisi (vlastním jménem Giovanni Battista Bernardone), zvaný někdy též sv. František Serafinský, byl mnich, zakladatel žebravého řádu františkánů a mystik.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="pt">Giovanni di Pietro di Bernardone, mais conhecido como São Francisco de Assis, foi um frade católico da Itália. Depois de uma juventude irrequieta e mundana, voltou-se para uma vida religiosa de completa pobreza, fundando a ordem mendicante dos Frades Menores, mais conhecidos como Franciscanos, que renovaram o Catolicismo de seu tempo.</rdfs:comment>
-    <dbpprop:patronage xml:lang="en">animals; the environment; Italy; merchants; stowaways; cub scouts</dbpprop:patronage>
-    <dbpprop:birthName xml:lang="en">Giovanni Francesco di Bernardone</dbpprop:birthName>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1180s_births"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Francis_of_Assisi"/>
-    <dbpprop:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">200</dbpprop:imagesize>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Stigmatics"/>
-    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Old_Catholic_Church"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ChristianPhilosophers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:13th-century_Christian_saints"/>
-    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Lutheranism"/>
-    <rdfs:comment xml:lang="nl">Franciscus van Assisi leefde als religieus, werd de stichter van de kloosterorde van de franciscanen of minderbroeders, en werd heilig verklaard door paus Gregorius IX op 16 juli 1228.</rdfs:comment>
-    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Old_Catholic_Church"/>
-    <rdfs:comment xml:lang="sv">Franciskus av Assisi, den helige Franciskus (italienska San Francesco d'Assisi), född Giovanni di Bernardone 1181 eller 1182 i Assisi, Umbrien, Italien, död 3 oktober 1226 i Assisi, var en italiensk botpredikant. Han grundade franciskanorden, och vördas som helgon i Katolska kyrkan. Hans helgondag firas 4 oktober. Franciskus betraktas som ett av de mest Kristus-lika helgonen i historien av Katolska kyrkan. Till hans ära är San Francisco uppkallad.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_philosophers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Christian_radicals"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Christian_hymnwriters"/>
-    <dbpprop:canonizedBy rdf:resource="http://dbpedia.org/resource/Pope_Gregory_IX"/>
-    <rdfs:label xml:lang="vi">Phanxicô thành Assisi</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_writers"/>
-    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Catholic_Church"/>
-    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Anglican_Communion"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://franciscan-archive.org/"/>
-    <rdfs:comment xml:lang="en">Saint Francis of Assisi (born Giovanni Francesco di Bernardone; 1181/1182 – October 3, 1226) was an Italian Catholic friar and preacher. He founded the men's Franciscan Order, the women’s Order of St. Clare, and the lay Third Order of Saint Francis. St. Francis is one of the most venerated religious figures in history. Francis was the son of a wealthy cloth merchant in Assisi, and he lived the high-spirited life typical of a wealthy young man, even fighting as a soldier for Assisi.</rdfs:comment>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Assisi"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Stigmatics"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Italy"/>
-    <rdfs:comment xml:lang="fi">Franciscus Assisilainen, "Jumalan pieni köyhä", ("Poverello", oikealta nimeltään Giovanni Francesco di Bernardone) perusti fransiskaanisen veljeskunnan. Paavi Gregorius IX julisti hänet pyhimykseksi 16. heinäkuuta 1228. Franciscus Assisilaisen pyhimyskalenterin mukainen muistopäivä on 4. lokakuuta, joka on myöhemmin hänen vuokseen otettu myös kansainväliseksi eläinten päiväksi.</rdfs:comment>
-    <dbpprop:majorShrine rdf:resource="http://dbpedia.org/resource/Basilica_of_San_Francesco_d'Assisi"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anglican_saints"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Italy"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.catholicrevelations.com/category/saints/the-life-of-st-francis-of-assisi-patron-saint-of-the-catholic-church-who-received-the-stigmata-of-jesus-christ.html"/>
-    <dbpprop:canonizedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1228-07-16</dbpprop:canonizedDate>
-    <foaf:name xml:lang="en">St. Francis of Assisi</foaf:name>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-saint-noun-2"/>
-    <dbpedia-owl:abstract xml:lang="pt">Giovanni di Pietro di Bernardone, mais conhecido como São Francisco de Assis, foi um frade católico da Itália. Depois de uma juventude irrequieta e mundana, voltou-se para uma vida religiosa de completa pobreza, fundando a ordem mendicante dos Frades Menores, mais conhecidos como Franciscanos, que renovaram o Catolicismo de seu tempo. Com o hábito da pregação itinerante, quando os religiosos de seu tempo costumavam fixar-se em mosteiros, e com sua crença de que o Evangelho devia ser seguido à risca, imitando-se a vida de Cristo, desenvolveu uma profunda identificação com os problemas de seus semelhantes e com a humanidade do próprio Cristo. Sua atitude foi original também quando afirmou a bondade e a maravilha da Criação num tempo em que o mundo era visto como essencialmente mau, quando se dedicou aos mais pobres dos pobres, e quando amou todas as criaturas chamando-as de irmãos. Alguns estudiosos afirmam que sua visão positiva da natureza e do homem, que impregnou a imaginação de toda a sociedade de sua época, foi uma das forças primeiras que levaram à formação da filosofia da Renascença. Dante Alighieri disse que ele foi uma "luz que brilhou sobre o mundo", e para muitos ele foi a maior figura do Cristianismo desde Jesus, mas a despeito do enorme prestígio de que ele desfruta até os dias de hoje nos círculos cristãos, que fez sua vida e mensagem serem envoltas em copioso folclore e darem origem a inumeráveis representações na arte, a pesquisa acadêmica moderna sugere que ainda há muito por elucidar quanto aos aspectos políticos de sua atuação, e que devem ser mais exploradas as conexões desses aspectos com o seu misticismo pessoal. Sua vida é reconstituída a partir de biografias escritas pouco após sua morte mas, segundo alguns estudiosos, essas fontes primitivas ainda estão à espera de edições críticas mais profundas e completas, pois apresentam contradições factuais e tendem a fazer uma apologia de seu caráter e obras; assim, deveriam ser analisadas sob uma óptica mais científica e mais isenta de apreciações emocionais do que tem ocorrido até agora, a fim de que sua verdadeira estatura como figura histórica e social, e não apenas religiosa, se esclareça. De qualquer forma, sua posição como um dos grandes santos da Cristandade se firmou enquanto ele ainda era vivo, e permanece inabalada. Foi canonizado pela Igreja Católica menos de dois anos após falecer, em 1228, e por seu apreço à natureza é mundialmente conhecido como o santo patrono dos animais e do meio ambiente.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.032p8"/>
-    <dbpedia-owl:abstract xml:lang="zh">亞西西的方濟各（意大利文：Francesco d'Assisi），簡稱方濟，生於1182年7月5日, 義大利亚西西（Assisi，天主教译名外的中文一译“阿西西”），卒於1226年10月3日，是動物、商人、天主教教會運動、美國舊金山市以及自然環境的守護聖人，也是方濟各會（又稱「小兄弟會」）的創辦者。</dbpedia-owl:abstract>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1226-10-03</dbpedia-owl:deathDate>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromAssisi"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Francesco_d'Assisi"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Saint"/>
-    <dbpprop:name xml:lang="en">St. Francis of Assisi</dbpprop:name>
-    <dbpedia-owl:abstract xml:lang="fi">Franciscus Assisilainen, "Jumalan pieni köyhä", ("Poverello", oikealta nimeltään Giovanni Francesco di Bernardone) perusti fransiskaanisen veljeskunnan. Paavi Gregorius IX julisti hänet pyhimykseksi 16. heinäkuuta 1228. Franciscus Assisilaisen pyhimyskalenterin mukainen muistopäivä on 4. lokakuuta, joka on myöhemmin hänen vuokseen otettu myös kansainväliseksi eläinten päiväksi.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="hu">Assisi Szent Ferenc a ferences rend megalapítója; Itália, az állatok, a kereskedők és a természet védőszentje.</rdfs:comment>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Anglican_Communion"/>
-    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Φραγκίσκος_της_Ασίζης"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ItalianChristianPacifists"/>
     <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Lutheranism"/>
-    <dbpedia-owl:abstract xml:lang="en">Saint Francis of Assisi (born Giovanni Francesco di Bernardone; 1181/1182 – October 3, 1226) was an Italian Catholic friar and preacher. He founded the men's Franciscan Order, the women’s Order of St. Clare, and the lay Third Order of Saint Francis. St. Francis is one of the most venerated religious figures in history. Francis was the son of a wealthy cloth merchant in Assisi, and he lived the high-spirited life typical of a wealthy young man, even fighting as a soldier for Assisi. While going off to war in 1204, Francis had a vision that directed him back to Assisi, where he lost his taste for his worldly life. On a pilgrimage to Rome, he begged with the beggars at St. Peter's. The experience moved him to live in poverty. Francis returned home, began preaching on the streets, and soon amassed a following. His order was endorsed by Pope Innocent III in 1210. He then founded the Order of Poor Clares, which was an enclosed order for women, as well as the Third Order of Brothers and Sisters of Penance. In 1219, he went to Egypt in an attempt to convert the Sultan. By this point, the Franciscan Order had grown to such an extent that its primitive organizational structure was no longer sufficient. He returned to Italy to organize the order. Once his organization was endorsed by the Pope, he withdrew increasingly from external affairs. In 1223, Francis arranged for the first Christmas manger scene. In 1224, he received the stigmata, making him the first recorded person to bear the wounds of Christ's Passion. He died in 1226 while preaching Psalm 141. On July 16, 1228, he was pronounced a saint by Pope Gregory IX. He is known as the patron saint of animals, the environment and one of the two patrons of Italy, and it is customary for Catholic and Anglican churches to hold ceremonies blessing animals on his feast day of 4 October.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1226_deaths"/>
+    <dbpprop:alternativeNames xml:lang="en">Bernardone, Giovanni di</dbpprop:alternativeNames>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Francis_of_Assisi"/>
+    <rdfs:comment xml:lang="en">Saint Francis of Assisi (born Giovanni Francesco di Bernardone; 1181/1182 – October 3, 1226) was an Italian Catholic friar and preacher. He founded the men's Franciscan Order, the women’s Order of St. Clare, and the lay Third Order of Saint Francis. St. Francis is one of the most venerated religious figures in history. Francis was the son of a wealthy cloth merchant in Assisi, and he lived the high-spirited life typical of a wealthy young man, even fighting as a soldier for Assisi.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="nl">Franciscus van Assisi leefde als religieus, werd de stichter van de kloosterorde van de franciscanen of minderbroeders, en werd heilig verklaard door paus Gregorius IX op 16 juli 1228.</dbpedia-owl:abstract>
+    <dbpedia-owl:canonizedPlace rdf:resource="http://dbpedia.org/resource/Assisi"/>
     <dbpprop:attributes rdf:resource="http://dbpedia.org/resource/Cross_of_Tau"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_saint"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Beggars"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AnglicanSaints"/>
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Papal_States"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ChristianMystics"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Cleric"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint_Francis_of_Assisi_by_Jusepe_de_Ribera.jpg/200px-Saint_Francis_of_Assisi_by_Jusepe_de_Ribera.jpg"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ChristianTheologians"/>
-    <dbpedia-owl:abstract xml:lang="hu">Assisi Szent Ferenc a ferences rend megalapítója; Itália, az állatok, a kereskedők és a természet védőszentje.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="cs">František z Assisi</rdfs:label>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Assisi"/>
     <rdfs:comment xml:lang="ru">Франциск АссизскийДжованни ди Пьетро Бернардоне thumbpx Старейшее из известных изображений Франциска, созданное ещё при его жизни; находится на стене монастыря св.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/François_d'Assise"/>
-    <rdfs:comment xml:lang="es">Francisco de Asís (en italiano Francesco d’Assisi), santo italiano, que fue diácono, fundador de la Orden Franciscana y de una segunda orden conocida como Hermanas Clarisas, ambas surgidas bajo la autoridad de la Iglesia Católica en la Edad Media, al contrario de otras hermandades —como los cátaros— que fueron consideradas herejes. De ser hijo de un rico comerciante de la ciudad en su juventud, pasó a vivir bajo la más estricta pobreza y observancia de los Evangelios.</rdfs:comment>
-    <rdfs:comment xml:lang="cs">Svatý František z Assisi (vlastním jménem Giovanni Battista Bernardone), zvaný někdy též sv. František Serafinský, byl mnich, zakladatel žebravého řádu františkánů a mystik.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Franciscan_spirituality"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_devotions"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Italy"/>
+    <dbpedia-owl:abstract xml:lang="ko">아시시의 성 프란체스코는 로마 가톨릭의 수도사이다. 성 프란치스코, 성 프란치스꼬, 프란시스(영어식 표현) 등으로도 음역된다. 13세기 초에 프란체스코회(프란체스코 수도회) 설립으로 세속화된 로마 가톨릭교회의 개혁 운동을 이끈 교회개혁가이기도 하다. 1209년 교황 인노첸시오 3세로부터 구두로 수도규칙을 인준받고, 복음의 생활양식을 기초로 살아갔는데, 지금까지로 프란치스코의 뒤를 따르는 작은형제회(프란치스코회)가 있다. 1회(작은형제회, 꼰벤투왈 프란치스코회, 카푸친 작은형제회)와 2회(클라라 수녀회), 3회(수도3회, 율수회, 재속프란치스코회)와 재속회가 있다. 그 이외의 기독교 교파들에서도 존경을 받아서, 대한 성공회의 수도원 가운데에도 성 프란시스 수도회라는 성공회수도원이 있다. 성 프란체스코는 로마 가톨릭, 성공회의 성인이고, 세상을 떠난 10월 3일에는 추도식을, 축일인 10월 4일에는 가톨릭 교회에서 동물들을 축복하는 예식을 개최한다. 흔히 갈색 수도복에 밧줄 허리띠를 매고 오상이 있는 모습으로 그려지는데, 프란치스코가 입었던 수도복은 회색이었다. 상징물은 비둘기·5개의 성흔(오상)·프란체스코회 수도복·십자가·해골이다.</dbpedia-owl:abstract>
+    <dbpedia-owl:canonizedBy rdf:resource="http://dbpedia.org/resource/Pope_Gregory_IX"/>
+    <rdfs:comment xml:lang="uk">Франци́ск (Франц) Ассі́зький, Святий — засновник ордену францисканців.</rdfs:comment>
     <dbpedia-owl:abstract xml:lang="es">Francisco de Asís (en italiano Francesco d’Assisi), santo italiano, que fue diácono, fundador de la Orden Franciscana y de una segunda orden conocida como Hermanas Clarisas, ambas surgidas bajo la autoridad de la Iglesia Católica en la Edad Media, al contrario de otras hermandades —como los cátaros— que fueron consideradas herejes. De ser hijo de un rico comerciante de la ciudad en su juventud, pasó a vivir bajo la más estricta pobreza y observancia de los Evangelios. En Egipto, intentó infructuosamente la conversión de musulmanes al cristianismo. Su vida religiosa fue austera y simple, por lo que animaba a sus seguidores a hacerlo de igual manera. Tal forma de vivir no fue aceptada por algunos de los nuevos miembros de la orden mientras ésta crecía; aun así, Francisco no fue reticente a una reorganización. Es el primer caso conocido en la historia de estigmatizaciones visibles y externas. Fue canonizado por la Iglesia Católica en 1228, y su festividad se celebra el 4 de octubre. Es conocido también como il poverello d'Assisi («el pobrecillo de Asís», en italiano).</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="en">Francis of Assisi</rdfs:label>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:abstract xml:lang="it">Fondatore dell'ordine che da lui poi prese il nome, è venerato come santo dalla Chiesa cattolica. Il 4 ottobre ne viene celebrata la memoria liturgica in tutta la Chiesa cattolica (festa in Italia; solennità per la Famiglia francescana). È stato proclamato, assieme a Santa Caterina da Siena, patrono principale d'Italia il 18 giugno 1939 da papa Pio XII. Conosciuto anche come "il poverello d'Assisi", la sua tomba è meta di pellegrinaggio per decine di migliaia di devoti ogni anno. La città di Assisi, a motivo del suo illustre cittadino, è assurta a simbolo di pace, soprattutto dopo aver ospitato i due grandi incontri tra gli esponenti delle maggiori religioni del mondo, promossi da Giovanni Paolo II nel 1986 e nel 2002, e da Benedetto XVI nel 2011. Oggi, S. Francesco d'Assisi è uno dei santi più popolari e venerati del mondo. Oltre all'opera spirituale, Francesco, grazie al Cantico delle creature, è riconosciuto come uno degli iniziatori della tradizione letteraria italiana.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="fr">François d'Assise (San Francesco d'Assisi, né Giovanni di Pietro Bernardone), est un religieux catholique italien, fondateur de l'ordre des frères mineurs (o.f.m. , couramment appelé ordre franciscain) caractérisé par la prière, la pauvreté, l'évangélisation et le respect de la création. Il est canonisé dès 1228 par le pape Grégoire IX et fêté le 4 octobre dans le calendrier liturgique catholique.</rdfs:comment>
     <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Assisi"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:13th-century_philosophers"/>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/František_z_Assisi"/>
-    <dbpprop:attributes rdf:resource="http://dbpedia.org/resource/Religious_habit"/>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アッシジのフランチェスコ"/>
-    <dbpedia-owl:abstract xml:lang="pl">Franciszek z Asyżu, właśc. włos. Giovanni Bernardone, nazywany Biedaczyną z Asyżu – włoski duchowny katolicki, diakon, założyciel zakonu franciszkanów, a pośrednio także: klarysek i tercjarzy, misjonarz, mistyk średniowieczny, stygmatyk, święty Kościoła katolickiego, uważany za prekursora ekologii.</dbpedia-owl:abstract>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Francis_of_Assisi?oldid=494846168"/>
+    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Anglican_Communion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromAssisi"/>
+    <rdfs:label xml:lang="uk">Франциск Ассізький</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Founders_of_Roman_Catholic_religious_communities"/>
+    <dbpprop:attributes rdf:resource="http://dbpedia.org/resource/Stigmata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_devotions"/>
+    <dbpedia-owl:majorShrine rdf:resource="http://dbpedia.org/resource/Basilica_of_San_Francesco_d'Assisi"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Beggars"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-saint-noun-2"/>
+    <dbpprop:attributes xml:lang="en">Cross, Dove, birds, animals, wolf at feet, Pax et Bonum,</dbpprop:attributes>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medieval_Italian_saints"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_theologians"/>
+    <rdfs:comment xml:lang="ja">アッシジのフランチェスコ（伊：Francesco d'Assisi、ラテン語：Franciscus Assisiensis、本名 ジョヴァンニ・ディ・ベルナルドーネ Giovanni di Bernardone、1182年 7月5日 - 1226年10月3日）は、フランシスコ会の創設者として知られるカトリック修道士。悔悛と神の国を説き、中世イタリアにおける最も著名な聖人のひとりであり、カトリック教会と聖公会で崇敬される。シエナのカタリナと共にイタリアの守護聖人。 原音主義に従い、ここではイタリア語の「フランチェスコ」という表記を採っているが、一般には「フランシスコ」と表記されることが多い。フランシスコ会でも伝統的に「聖フランシスコ」と表記している。</rdfs:comment>
+    <rdfs:label xml:lang="de">Franz von Assisi</rdfs:label>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
     <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <dbpedia-owl:abstract xml:lang="ja">アッシジのフランチェスコ（伊：Francesco d'Assisi、ラテン語：Franciscus Assisiensis、本名 ジョヴァンニ・ディ・ベルナルドーネ Giovanni di Bernardone、1182年 7月5日 - 1226年10月3日）は、フランシスコ会の創設者として知られるカトリック修道士。悔悛と神の国を説き、中世イタリアにおける最も著名な聖人のひとりであり、カトリック教会と聖公会で崇敬される。シエナのカタリナと共にイタリアの守護聖人。 原音主義に従い、ここではイタリア語の「フランチェスコ」という表記を採っているが、一般には「フランシスコ」と表記されることが多い。フランシスコ会でも伝統的に「聖フランシスコ」と表記している。</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="ko">아시시의 성 프란체스코는 로마 가톨릭의 수도사이다. 성 프란치스코, 성 프란치스꼬, 프란시스(영어식 표현) 등으로도 음역된다. 13세기 초에 프란체스코회(프란체스코 수도회) 설립으로 세속화된 로마 가톨릭교회의 개혁 운동을 이끈 교회개혁가이기도 하다. 1209년 교황 인노첸시오 3세로부터 구두로 수도규칙을 인준받고, 복음의 생활양식을 기초로 살아갔는데, 지금까지로 프란치스코의 뒤를 따르는 작은형제회(프란치스코회)가 있다. 1회(작은형제회, 꼰벤투왈 프란치스코회, 카푸친 작은형제회)와 2회(클라라 수녀회), 3회(수도3회, 율수회, 재속프란치스코회)와 재속회가 있다. 그 이외의 기독교 교파들에서도 존경을 받아서, 대한 성공회의 수도원 가운데에도 성 프란시스 수도회라는 성공회수도원이 있다. 성 프란체스코는 로마 가톨릭, 성공회의 성인이고, 세상을 떠난 10월 3일에는 추도식을, 축일인 10월 4일에는 가톨릭 교회에서 동물들을 축복하는 예식을 개최한다.</rdfs:comment>
-    <rdfs:comment xml:lang="ja">アッシジのフランチェスコ（伊：Francesco d'Assisi、ラテン語：Franciscus Assisiensis、本名 ジョヴァンニ・ディ・ベルナルドーネ Giovanni di Bernardone、1182年 7月5日 - 1226年10月3日）は、フランシスコ会の創設者として知られるカトリック修道士。悔悛と神の国を説き、中世イタリアにおける最も著名な聖人のひとりであり、カトリック教会と聖公会で崇敬される。シエナのカタリナと共にイタリアの守護聖人。 原音主義に従い、ここではイタリア語の「フランチェスコ」という表記を採っているが、一般には「フランシスコ」と表記されることが多い。フランシスコ会でも伝統的に「聖フランシスコ」と表記している。</rdfs:comment>
-    <rdfs:comment xml:lang="zh">亞西西的方濟各（意大利文：Francesco d'Assisi），簡稱方濟，生於1182年7月5日, 義大利亚西西（Assisi，天主教译名外的中文一译“阿西西”），卒於1226年10月3日，是動物、商人、天主教教會運動、美國舊金山市以及自然環境的守護聖人，也是方濟各會（又稱「小兄弟會」）的創辦者。</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1180s_births"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1226-10-03</dbpedia-owl:deathDate>
+    <dbpedia-owl:abstract xml:lang="hu">Assisi Szent Ferenc a ferences rend megalapítója; Itália, az állatok, a kereskedők és a természet védőszentje.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Cleric"/>
+    <dbpprop:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">200</dbpprop:imagesize>
+    <rdfs:comment xml:lang="nl">Franciscus van Assisi leefde als religieus, werd de stichter van de kloosterorde van de franciscanen of minderbroeders, en werd heilig verklaard door paus Gregorius IX op 16 juli 1228.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Saint"/>
     <dbpedia-owl:abstract xml:lang="de">Franz von Assisi lebte streng nach dem Vorbild des Jesus von Nazaret, wie er selbst sagte, das Evangelium sine glossa, das heißt nach der Bibel ohne aufgesetzter Deutung. Diese Lebensweise zog gleichgesinnte Gefährten und Nachahmer an. Franziskus gründete den Orden der Minderen Brüder und war Mitbegründer des Frauenordens der Klarissen. Er wurde von der katholischen Kirche heiliggesprochen. Sein Gedenktag ist in der römisch-katholischen, der alt-katholischen, der anglikanischen und einigen evangelischen Kirchen am 4.  Oktober.</dbpedia-owl:abstract>
-    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Catholic_Church"/>
-    <dbpedia-owl:title xml:lang="en">Mystic, Confessor, and Founder</dbpedia-owl:title>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Stigmatics"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118534963</dbpedia-owl:individualisedPnd>
+    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Catholic_Church"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アッシジのフランチェスコ"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:13th-century_Christian_saints"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Beggars"/>
     <dbpprop:feastDay rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-04</dbpprop:feastDay>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Italian_Christian_pacifists"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Papal_States"/>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dbpprop:dateOfDeath>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ascetics"/>
-    <dbpprop:canonizedPlace xml:lang="en">Assisi</dbpprop:canonizedPlace>
-    <dbpedia-owl:abstract xml:lang="sv">Franciskus av Assisi, den helige Franciskus (italienska San Francesco d'Assisi), född Giovanni di Bernardone 1181 eller 1182 i Assisi, Umbrien, Italien, död 3 oktober 1226 i Assisi, var en italiensk botpredikant. Han grundade franciskanorden, och vördas som helgon i Katolska kyrkan. Hans helgondag firas 4 oktober. Franciskus betraktas som ett av de mest Kristus-lika helgonen i historien av Katolska kyrkan. Till hans ära är San Francisco uppkallad.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Founders_of_Roman_Catholic_religious_communities"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Papal_States"/>
-    <rdfs:label xml:lang="ca">Francesc d'Assís</rdfs:label>
-    <rdfs:label xml:lang="zh">亞西西的方濟各</rdfs:label>
-    <rdfs:comment xml:lang="vi">Phanxicô thành Assisi, còn gọi là Thánh Phanxicô Khó Khăn, là một tu sĩ Công giáo Rôma sáng lập ra Dòng Anh Em Hèn Mọn (Order of Friars Minor), được biết đến nhiều hơn với tên Dòng Phan Sinh. Giáo hội Công giáo xem ông là thánh bổn mạng loài vật, chim trời, môi trường, và nước Ý. Ngày 4 tháng 10 hằng năm là ngày lễ kính Thánh Phanxicô.</rdfs:comment>
-    <dbpedia-owl:canonizedBy rdf:resource="http://dbpedia.org/resource/Pope_Gregory_IX"/>
-    <dbpedia-owl:abstract xml:lang="fr">François d'Assise (San Francesco d'Assisi, né Giovanni di Pietro Bernardone), est un religieux catholique italien, fondateur de l'ordre des frères mineurs (o.f.m. , couramment appelé ordre franciscain) caractérisé par la prière, la pauvreté, l'évangélisation et le respect de la création. Il est canonisé dès 1228 par le pape Grégoire IX et fêté le 4 octobre dans le calendrier liturgique catholique. Un jour en écoutant un passage de l'Évangile, il lui vient une réponse à ce qu'il cherche : passer sa vie à aimer toute la création. Il transforme alors sa vie, il se fait pauvre, se soucie d'annoncer les messages de joie, d'espoir et d'amour contenus dans la Bible, et de porter la paix aux gens et à toute la Création. Il s'habille d'un vêtement gris et se ceint la taille d'un cordon. Il porte ainsi le vêtement du pauvre de son époque.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Franz_von_Assisi"/>
-    <dbpprop:bornIn xml:lang="en">Umbria</dbpprop:bornIn>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Renewers_of_the_church"/>
-    <rdfs:comment xml:lang="ca">Francesc d'Assís —en italià Francesco d'Assisi—, és un sant italià que va fundar l'orde franciscà i un segon orde, femení, conegut com el de les Germanes Clarisses. A més, és un dels primers autors literaris que fa servir la llengua italiana. Va ser canonitzat per l'Església Catòlica el 1228, i la seva festivitat se celebra el 4 d'octubre. En italià, és conegut també com il poverello d'Assisi ("el pobret d'Assís»). És el sant patró dels animals i el medi ambient.</rdfs:comment>
-    <rdfs:label xml:lang="cs">František z Assisi</rdfs:label>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Франциск_Ассизский"/>
-    <dbpprop:shortDescription xml:lang="en">Catholic saint and founder of the Franciscan order</dbpprop:shortDescription>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1226_deaths"/>
-    <rdfs:comment xml:lang="pl">Franciszek z Asyżu, właśc. włos. Giovanni Bernardone, nazywany Biedaczyną z Asyżu – włoski duchowny katolicki, diakon, założyciel zakonu franciszkanów, a pośrednio także: klarysek i tercjarzy, misjonarz, mistyk średniowieczny, stygmatyk, święty Kościoła katolickiego, uważany za prekursora ekologii.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/13th-centuryPhilosophers"/>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Francisco_de_Asís"/>
-    <dbpprop:placeOfDeath xml:lang="en">Assisi, Italy</dbpprop:placeOfDeath>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Francis_of_Assisi"/>
-    <rdfs:label xml:lang="en">Francis of Assisi</rdfs:label>
-    <dbpprop:alternativeNames xml:lang="en">Bernardone, Giovanni di</dbpprop:alternativeNames>
-    <dbpprop:dateOfBirth xml:lang="en">ca.1181</dbpprop:dateOfBirth>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.britannica.com/EBchecked/topic/216793/Saint-Francis-of-Assisi"/>
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Assisi"/>
-    <dc:description xml:lang="en">Catholic saint and founder of the Franciscan order</dc:description>
-    <dbpedia-owl:abstract xml:lang="ko">아시시의 성 프란체스코는 로마 가톨릭의 수도사이다. 성 프란치스코, 성 프란치스꼬, 프란시스(영어식 표현) 등으로도 음역된다. 13세기 초에 프란체스코회(프란체스코 수도회) 설립으로 세속화된 로마 가톨릭교회의 개혁 운동을 이끈 교회개혁가이기도 하다. 1209년 교황 인노첸시오 3세로부터 구두로 수도규칙을 인준받고, 복음의 생활양식을 기초로 살아갔는데, 지금까지로 프란치스코의 뒤를 따르는 작은형제회(프란치스코회)가 있다. 1회(작은형제회, 꼰벤투왈 프란치스코회, 카푸친 작은형제회)와 2회(클라라 수녀회), 3회(수도3회, 율수회, 재속프란치스코회)와 재속회가 있다. 그 이외의 기독교 교파들에서도 존경을 받아서, 대한 성공회의 수도원 가운데에도 성 프란시스 수도회라는 성공회수도원이 있다. 성 프란체스코는 로마 가톨릭, 성공회의 성인이고, 세상을 떠난 10월 3일에는 추도식을, 축일인 10월 4일에는 가톨릭 교회에서 동물들을 축복하는 예식을 개최한다. 흔히 갈색 수도복에 밧줄 허리띠를 매고 오상이 있는 모습으로 그려지는데, 프란치스코가 입었던 수도복은 회색이었다. 상징물은 비둘기·5개의 성흔(오상)·프란체스코회 수도복·십자가·해골이다.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Assisi"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_deacons"/>
+    <dbpedia-owl:abstract xml:lang="no">Frans av Assisi, den hellige Frans (it. San Francesco d'Assisi), egentlig Giovanni Francesco di Bernardone, italiensk ordensgrunnlegger, erklært helgen 1228. Han er kjent som grunnlegger av fransiskanerordenen (Ordo Fratrum Minorum, O.F.M.). Hans ettermæle er ut over dette todelt: dels huskes han som ekstatisk mystiker, som var den første kjente helgen som mottok stigmata; dels huskes han som de fattiges og sykes venn, og som en forkjemper for et konsekvent fattigdomsideal for sin orden. Hans eget forfatterskap er beskjedent, og består i hovedsak av forordninger for ordenslivet. Den mest kjente teksten er Solsangen Canticum fratris solis som han skrev i klosterhaven i San Damiano i 1224, og denne er regnet som det første betydningsfulle dikt på italiensk. Diktet ble senere endret til en salme, i norsk versjon kalt Takk, gode Gud, for alt som finnes. Hans minnedag feires den 4. oktober og er markert med et halvkors på primstaven.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="vi">Phanxicô thành Assisi</rdfs:label>
+    <rdfs:comment xml:lang="ko">아시시의 성 프란체스코는 로마 가톨릭의 수도사이다. 성 프란치스코, 성 프란치스꼬, 프란시스(영어식 표현) 등으로도 음역된다. 13세기 초에 프란체스코회(프란체스코 수도회) 설립으로 세속화된 로마 가톨릭교회의 개혁 운동을 이끈 교회개혁가이기도 하다. 1209년 교황 인노첸시오 3세로부터 구두로 수도규칙을 인준받고, 복음의 생활양식을 기초로 살아갔는데, 지금까지로 프란치스코의 뒤를 따르는 작은형제회(프란치스코회)가 있다. 1회(작은형제회, 꼰벤투왈 프란치스코회, 카푸친 작은형제회)와 2회(클라라 수녀회), 3회(수도3회, 율수회, 재속프란치스코회)와 재속회가 있다. 그 이외의 기독교 교파들에서도 존경을 받아서, 대한 성공회의 수도원 가운데에도 성 프란시스 수도회라는 성공회수도원이 있다. 성 프란체스코는 로마 가톨릭, 성공회의 성인이고, 세상을 떠난 10월 3일에는 추도식을, 축일인 10월 4일에는 가톨릭 교회에서 동물들을 축복하는 예식을 개최한다.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="ja">アッシジのフランチェスコ（伊：Francesco d'Assisi、ラテン語：Franciscus Assisiensis、本名 ジョヴァンニ・ディ・ベルナルドーネ Giovanni di Bernardone、1182年 7月5日 - 1226年10月3日）は、フランシスコ会の創設者として知られるカトリック修道士。悔悛と神の国を説き、中世イタリアにおける最も著名な聖人のひとりであり、カトリック教会と聖公会で崇敬される。シエナのカタリナと共にイタリアの守護聖人。 原音主義に従い、ここではイタリア語の「フランチェスコ」という表記を採っているが、一般には「フランシスコ」と表記されることが多い。フランシスコ会でも伝統的に「聖フランシスコ」と表記している。</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Francisco_de_Assis"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Franciscans"/>
-    <dbpedia-owl:abstract xml:lang="vi">Phanxicô thành Assisi, còn gọi là Thánh Phanxicô Khó Khăn, là một tu sĩ Công giáo Rôma sáng lập ra Dòng Anh Em Hèn Mọn (Order of Friars Minor), được biết đến nhiều hơn với tên Dòng Phan Sinh. Giáo hội Công giáo xem ông là thánh bổn mạng loài vật, chim trời, môi trường, và nước Ý. Ngày 4 tháng 10 hằng năm là ngày lễ kính Thánh Phanxicô.</dbpedia-owl:abstract>
-    <dbpedia-owl:canonizedPlace rdf:resource="http://dbpedia.org/resource/Assisi"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/210/10/041.html"/>
-    <rdfs:comment xml:lang="fr">François d'Assise (San Francesco d'Assisi, né Giovanni di Pietro Bernardone), est un religieux catholique italien, fondateur de l'ordre des frères mineurs (o.f.m. , couramment appelé ordre franciscain) caractérisé par la prière, la pauvreté, l'évangélisation et le respect de la création. Il est canonisé dès 1228 par le pape Grégoire IX et fêté le 4 octobre dans le calendrier liturgique catholique.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Francisco_de_Asís"/>
+    <dbpprop:majorShrine rdf:resource="http://dbpedia.org/resource/Basilica_of_San_Francesco_d'Assisi"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Italian_Christian_pacifists"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Francis_of_Assisi"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1181</dbpprop:birthDate>
+    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Old_Catholic_Church"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Franz_von_Assisi"/>
+    <dbpprop:dateOfBirth xml:lang="en">ca.1181</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Christian_philosophers"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Francesco_d'Assisi"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_writers"/>
+    <rdfs:comment xml:lang="pt">Giovanni di Pietro di Bernardone, mais conhecido como São Francisco de Assis, foi um frade católico da Itália. Depois de uma juventude irrequieta e mundana, voltou-se para uma vida religiosa de completa pobreza, fundando a ordem mendicante dos Frades Menores, mais conhecidos como Franciscanos, que renovaram o Catolicismo de seu tempo.</rdfs:comment>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_saint"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_philosophers"/>
+    <dbpedia-owl:abstract xml:lang="ca">Francesc d'Assís —en italià Francesco d'Assisi—, és un sant italià que va fundar l'orde franciscà i un segon orde, femení, conegut com el de les Germanes Clarisses. A més, és un dels primers autors literaris que fa servir la llengua italiana. Va ser canonitzat per l'Església Catòlica el 1228, i la seva festivitat se celebra el 4 d'octubre. En italià, és conegut també com il poverello d'Assisi ("el pobret d'Assís»). És el sant patró dels animals i el medi ambient.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.catholicrevelations.com/category/saints/the-life-of-st-francis-of-assisi-patron-saint-of-the-catholic-church-who-received-the-stigmata-of-jesus-christ.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.britannica.com/EBchecked/topic/216793/Saint-Francis-of-Assisi"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Saints_of_the_Golden_Legend"/>
+    <rdfs:comment xml:lang="de">Franz von Assisi lebte streng nach dem Vorbild des Jesus von Nazaret, wie er selbst sagte, das Evangelium sine glossa, das heißt nach der Bibel ohne aufgesetzter Deutung. Diese Lebensweise zog gleichgesinnte Gefährten und Nachahmer an. Franziskus gründete den Orden der Minderen Brüder und war Mitbegründer des Frauenordens der Klarissen. Er wurde von der katholischen Kirche heiliggesprochen.</rdfs:comment>
+    <dbpprop:placeOfDeath xml:lang="en">Assisi, Italy</dbpprop:placeOfDeath>
+    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Old_Catholic_Church"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/아시시의_프란체스코"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Stigmatics"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/František_z_Assisi"/>
+    <dbpedia-owl:abstract xml:lang="sv">Franciskus av Assisi, den helige Franciskus (italienska San Francesco d'Assisi), född Giovanni di Bernardone 1181 eller 1182 i Assisi, Umbrien, Italien, död 3 oktober 1226 i Assisi, var en italiensk botpredikant. Han grundade franciskanorden, och vördas som helgon i Katolska kyrkan. Hans helgondag firas 4 oktober. Franciskus betraktas som ett av de mest Kristus-lika helgonen i historien av Katolska kyrkan. Till hans ära är San Francisco uppkallad.</dbpedia-owl:abstract>
+    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Catholic_Church"/>
+    <rdfs:label xml:lang="zh">亞西西的方濟各</rdfs:label>
+    <rdfs:comment xml:lang="es">Francisco de Asís (en italiano Francesco d’Assisi), santo italiano, que fue diácono, fundador de la Orden Franciscana y de una segunda orden conocida como Hermanas Clarisas, ambas surgidas bajo la autoridad de la Iglesia Católica en la Edad Media, al contrario de otras hermandades —como los cátaros— que fueron consideradas herejes. De ser hijo de un rico comerciante de la ciudad en su juventud, pasó a vivir bajo la más estricta pobreza y observancia de los Evangelios.</rdfs:comment>
+    <rdfs:comment xml:lang="cs">Svatý František z Assisi (vlastním jménem Giovanni Battista Bernardone), zvaný někdy též sv. František Serafinský, byl mnich, zakladatel žebravého řádu františkánů a mystik.</rdfs:comment>
+    <foaf:name xml:lang="en">St. Francis of Assisi</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ChristianPhilosophers"/>
+    <dbpedia-owl:abstract xml:lang="ru">Франциск АссизскийДжованни ди Пьетро Бернардоне thumbpx Старейшее из известных изображений Франциска, созданное ещё при его жизни; находится на стене монастыря св. Бенедикта в СубиакоРождение: 1181/1182 Папская область Смерть: 3&amp;#160;октября 1226(1226-10-03) Ассизи, Папская область Почитается: Католической церковью Часть серии статей о ХристианствеСоциальное Христианство50pxОсновные представителиФранциск Ассизский Вильгельм Эммануил фон Кеттелер • Лев XIII Адольф Кольпинг • Эдвард Беллами Маргарет Бенн • Филлип Берриман Джеймс Хал Коун • Дороти Дэй • Антонио Негри Лев Толстой • Оскар Ромеро • Густаво Гутиеррес Абрахам Кёйпер • Даниель Берриган Филип Берриган • Мартин Лютер Кинг Вальтер Раушенбуш • Десмонд Туту Томми Дуглас ОрганизацииКонфедерация христианских профсоюзов Католическое рабочее движение Христианский социализм Ключевые концепцииСубсидиарность Христианский анархизм • Марксизм Теология освобождения • Школа праксиса Precarity • Человеческое достоинство Социально-ориентированная рыночная экономика Коммунитаризм • Распределение Католическое социальное учение Нео-кальвинизм Неотомизм Ключевые документыRerum Novarum Princeton Stone Lectures Populorum Progressio Centesimus Annus Caritas in Veritate Портал:Христианствоп·о·р Франци́ск Асси́зский — католический святой, учредитель названного его именем нищенствующего ордена. Знаменует собой перелом в истории аскетического идеала, а потому и новую эпоху в истории западного монашества.</dbpedia-owl:abstract>
+    <dbpprop:name xml:lang="en">Saint Francis of Assisi</dbpprop:name>
     <dbpprop:titles xml:lang="en">Mystic, Confessor, and Founder</dbpprop:titles>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4raI02Lit-S9mm3I9sC3sLdQ"/>
+    <rdfs:comment xml:lang="vi">Phanxicô thành Assisi, còn gọi là Thánh Phanxicô Khó Khăn, là một tu sĩ Công giáo Rôma sáng lập ra Dòng Anh Em Hèn Mọn (Order of Friars Minor), được biết đến nhiều hơn với tên Dòng Phan Sinh. Giáo hội Công giáo xem ông là thánh bổn mạng loài vật, chim trời, môi trường, và nước Ý. Ngày 4 tháng 10 hằng năm là ngày lễ kính Thánh Phanxicô.</rdfs:comment>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dbpprop:dateOfDeath>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Assisi"/>
+    <dbpprop:attributes rdf:resource="http://dbpedia.org/resource/Religious_habit"/>
+    <rdfs:comment xml:lang="zh">亞西西的方濟各（意大利文：Francesco d'Assisi），簡稱方濟，生於1182年7月5日, 義大利亚西西（Assisi，天主教译名外的中文一译“阿西西”），卒於1226年10月3日，是動物、商人、天主教教會運動、美國舊金山市以及自然環境的守護聖人，也是方濟各會（又稱「小兄弟會」）的創辦者。</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="pt">Giovanni di Pietro di Bernardone, mais conhecido como São Francisco de Assis, foi um frade católico da Itália. Depois de uma juventude irrequieta e mundana, voltou-se para uma vida religiosa de completa pobreza, fundando a ordem mendicante dos Frades Menores, mais conhecidos como Franciscanos, que renovaram o Catolicismo de seu tempo. Com o hábito da pregação itinerante, quando os religiosos de seu tempo costumavam fixar-se em mosteiros, e com sua crença de que o Evangelho devia ser seguido à risca, imitando-se a vida de Cristo, desenvolveu uma profunda identificação com os problemas de seus semelhantes e com a humanidade do próprio Cristo. Sua atitude foi original também quando afirmou a bondade e a maravilha da Criação num tempo em que o mundo era visto como essencialmente mau, quando se dedicou aos mais pobres dos pobres, e quando amou todas as criaturas chamando-as de irmãos. Alguns estudiosos afirmam que sua visão positiva da natureza e do homem, que impregnou a imaginação de toda a sociedade de sua época, foi uma das forças primeiras que levaram à formação da filosofia da Renascença. Dante Alighieri disse que ele foi uma "luz que brilhou sobre o mundo", e para muitos ele foi a maior figura do Cristianismo desde Jesus, mas a despeito do enorme prestígio de que ele desfruta até os dias de hoje nos círculos cristãos, que fez sua vida e mensagem serem envoltas em copioso folclore e darem origem a inumeráveis representações na arte, a pesquisa acadêmica moderna sugere que ainda há muito por elucidar quanto aos aspectos políticos de sua atuação, e que devem ser mais exploradas as conexões desses aspectos com o seu misticismo pessoal. Sua vida é reconstituída a partir de biografias escritas pouco após sua morte mas, segundo alguns estudiosos, essas fontes primitivas ainda estão à espera de edições críticas mais profundas e completas, pois apresentam contradições factuais e tendem a fazer uma apologia de seu caráter e obras; assim, deveriam ser analisadas sob uma óptica mais científica e mais isenta de apreciações emocionais do que tem ocorrido até agora, a fim de que sua verdadeira estatura como figura histórica e social, e não apenas religiosa, se esclareça. De qualquer forma, sua posição como um dos grandes santos da Cristandade se firmou enquanto ele ainda era vivo, e permanece inabalada. Foi canonizado pela Igreja Católica menos de dois anos após falecer, em 1228, e por seu apreço à natureza é mundialmente conhecido como o santo patrono dos animais e do meio ambiente.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">François d'Assise (San Francesco d'Assisi, né Giovanni di Pietro Bernardone), est un religieux catholique italien, fondateur de l'ordre des frères mineurs (o.f.m. , couramment appelé ordre franciscain) caractérisé par la prière, la pauvreté, l'évangélisation et le respect de la création. Il est canonisé dès 1228 par le pape Grégoire IX et fêté le 4 octobre dans le calendrier liturgique catholique. Un jour en écoutant un passage de l'Évangile, il lui vient une réponse à ce qu'il cherche : passer sa vie à aimer toute la création. Il transforme alors sa vie, il se fait pauvre, se soucie d'annoncer les messages de joie, d'espoir et d'amour contenus dans la Bible, et de porter la paix aux gens et à toute la Création. Il s'habille d'un vêtement gris et se ceint la taille d'un cordon. Il porte ainsi le vêtement du pauvre de son époque.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="sv">Franciskus av Assisi, den helige Franciskus (italienska San Francesco d'Assisi), född Giovanni di Bernardone 1181 eller 1182 i Assisi, Umbrien, Italien, död 3 oktober 1226 i Assisi, var en italiensk botpredikant. Han grundade franciskanorden, och vördas som helgon i Katolska kyrkan. Hans helgondag firas 4 oktober. Franciskus betraktas som ett av de mest Kristus-lika helgonen i historien av Katolska kyrkan. Till hans ära är San Francisco uppkallad.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Christian_hymnwriters"/>
+    <rdfs:comment xml:lang="fi">Franciscus Assisilainen, "Jumalan pieni köyhä", ("Poverello", oikealta nimeltään Giovanni Francesco di Bernardone) perusti fransiskaanisen veljeskunnan. Paavi Gregorius IX julisti hänet pyhimykseksi 16. heinäkuuta 1228. Franciscus Assisilaisen pyhimyskalenterin mukainen muistopäivä on 4. lokakuuta, joka on myöhemmin hänen vuokseen otettu myös kansainväliseksi eläinten päiväksi.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ItalianChristianPacifists"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Italy"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Christian_mystics"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.catholic.org/saints/saint.php?saint_id=50"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ascetics"/>
     <rdfs:comment xml:lang="no">Frans av Assisi, den hellige Frans (it. San Francesco d'Assisi), egentlig Giovanni Francesco di Bernardone, italiensk ordensgrunnlegger, erklært helgen 1228. Han er kjent som grunnlegger av fransiskanerordenen (Ordo Fratrum Minorum, O.F.M.). Hans ettermæle er ut over dette todelt: dels huskes han som ekstatisk mystiker, som var den første kjente helgen som mottok stigmata; dels huskes han som de fattiges og sykes venn, og som en forkjemper for et konsekvent fattigdomsideal for sin orden.</rdfs:comment>
+    <dbpprop:birthName xml:lang="en">Giovanni Francesco di Bernardone</dbpprop:birthName>
+    <dbpprop:caption xml:lang="en">Painting by Jusepe de Ribera</dbpprop:caption>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Saint"/>
+    <dbpprop:bornIn xml:lang="en">Umbria</dbpprop:bornIn>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/13th-centuryPhilosophers"/>
+    <dbpprop:canonizedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1228-07-16</dbpprop:canonizedDate>
+    <dbpprop:name xml:lang="en">St. Francis of Assisi</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MedievalItalianSaints"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:abstract xml:lang="zh">亞西西的方濟各（意大利文：Francesco d'Assisi），簡稱方濟，生於1182年7月5日, 義大利亚西西（Assisi，天主教译名外的中文一译“阿西西”），卒於1226年10月3日，是動物、商人、天主教教會運動、美國舊金山市以及自然環境的守護聖人，也是方濟各會（又稱「小兄弟會」）的創辦者。</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="it">Fondatore dell'ordine che da lui poi prese il nome, è venerato come santo dalla Chiesa cattolica. Il 4 ottobre ne viene celebrata la memoria liturgica in tutta la Chiesa cattolica (festa in Italia; solennità per la Famiglia francescana). È stato proclamato, assieme a Santa Caterina da Siena, patrono principale d'Italia il 18 giugno 1939 da papa Pio XII. Conosciuto anche come "il poverello d'Assisi", la sua tomba è meta di pellegrinaggio per decine di migliaia di devoti ogni anno.</rdfs:comment>
+    <dbpedia-owl:canonizedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1228-07-16</dbpedia-owl:canonizedDate>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Francis_of_Assisi?oldid=494846168"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Renewers_of_the_church"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:13th-century_philosophers"/>
+    <dbpedia-owl:abstract xml:lang="vi">Phanxicô thành Assisi, còn gọi là Thánh Phanxicô Khó Khăn, là một tu sĩ Công giáo Rôma sáng lập ra Dòng Anh Em Hèn Mọn (Order of Friars Minor), được biết đến nhiều hơn với tên Dòng Phan Sinh. Giáo hội Công giáo xem ông là thánh bổn mạng loài vật, chim trời, môi trường, và nước Ý. Ngày 4 tháng 10 hằng năm là ngày lễ kính Thánh Phanxicô.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Франциск_Ассизский"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Papal_States"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ascetics"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Papal_States"/>
+    <dbpedia-owl:abstract xml:lang="pl">Franciszek z Asyżu, właśc. włos. Giovanni Bernardone, nazywany Biedaczyną z Asyżu – włoski duchowny katolicki, diakon, założyciel zakonu franciszkanów, a pośrednio także: klarysek i tercjarzy, misjonarz, mistyk średniowieczny, stygmatyk, święty Kościoła katolickiego, uważany za prekursora ekologii.</dbpedia-owl:abstract>
+    <dbpprop:canonizedPlace xml:lang="en">Assisi</dbpprop:canonizedPlace>
+    <dbpedia-owl:abstract xml:lang="cs">Svatý František z Assisi (vlastním jménem Giovanni Battista Bernardone), zvaný někdy též sv. František Serafinský, byl mnich, zakladatel žebravého řádu františkánů a mystik.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/13th-centuryChristianSaints"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Francis_of_Assisi"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Papal_States"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint_Francis_of_Assisi_by_Jusepe_de_Ribera.jpg/200px-Saint_Francis_of_Assisi_by_Jusepe_de_Ribera.jpg"/>
+    <rdfs:comment xml:lang="hu">Assisi Szent Ferenc a ferences rend megalapítója; Itália, az állatok, a kereskedők és a természet védőszentje.</rdfs:comment>
+    <rdfs:label xml:lang="ca">Francesc d'Assís</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ChristianMystics"/>
+    <rdfs:comment xml:lang="ca">Francesc d'Assís —en italià Francesco d'Assisi—, és un sant italià que va fundar l'orde franciscà i un segon orde, femení, conegut com el de les Germanes Clarisses. A més, és un dels primers autors literaris que fa servir la llengua italiana. Va ser canonitzat per l'Església Catòlica el 1228, i la seva festivitat se celebra el 4 d'octubre. En italià, és conegut també com il poverello d'Assisi ("el pobret d'Assís»). És el sant patró dels animals i el medi ambient.</rdfs:comment>
+    <dbpprop:shortDescription xml:lang="en">Catholic saint and founder of the Franciscan order</dbpprop:shortDescription>
+    <rdfs:comment xml:lang="pl">Franciszek z Asyżu, właśc. włos. Giovanni Bernardone, nazywany Biedaczyną z Asyżu – włoski duchowny katolicki, diakon, założyciel zakonu franciszkanów, a pośrednio także: klarysek i tercjarzy, misjonarz, mistyk średniowieczny, stygmatyk, święty Kościoła katolickiego, uważany za prekursora ekologii.</rdfs:comment>
+    <dbpedia-owl:title xml:lang="en">Mystic, Confessor, and Founder</dbpedia-owl:title>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Papal_States"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/François_d'Assise"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Francis_of_Assisi_by_Jusepe_de_Ribera.jpg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AnglicanSaints"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ChristianTheologians"/>
+    <dbpprop:patronage xml:lang="en">animals; the environment; Italy; merchants; stowaways; cub scouts</dbpprop:patronage>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Cleric"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anglican_saints"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://franciscan-archive.org/"/>
+    <dbpedia-owl:abstract xml:lang="en">Saint Francis of Assisi (born Giovanni Francesco di Bernardone; 1181/1182 – October 3, 1226) was an Italian Catholic friar and preacher. He founded the men's Franciscan Order, the women’s Order of St. Clare, and the lay Third Order of Saint Francis. St. Francis is one of the most venerated religious figures in history. Francis was the son of a wealthy cloth merchant in Assisi, and he lived the high-spirited life typical of a wealthy young man, even fighting as a soldier for Assisi. While going off to war in 1204, Francis had a vision that directed him back to Assisi, where he lost his taste for his worldly life. On a pilgrimage to Rome, he begged with the beggars at St. Peter's. The experience moved him to live in poverty. Francis returned home, began preaching on the streets, and soon amassed a following. His order was endorsed by Pope Innocent III in 1210. He then founded the Order of Poor Clares, which was an enclosed order for women, as well as the Third Order of Brothers and Sisters of Penance. In 1219, he went to Egypt in an attempt to convert the Sultan. By this point, the Franciscan Order had grown to such an extent that its primitive organizational structure was no longer sufficient. He returned to Italy to organize the order. Once his organization was endorsed by the Pope, he withdrew increasingly from external affairs. In 1223, Francis arranged for the first Christmas manger scene. In 1224, he received the stigmata, making him the first recorded person to bear the wounds of Christ's Passion. He died in 1226 while preaching Psalm 141. On July 16, 1228, he was pronounced a saint by Pope Gregory IX. He is known as the patron saint of animals, the environment and one of the two patrons of Italy, and it is customary for Catholic and Anglican churches to hold ceremonies blessing animals on his feast day of 4 October.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Φραγκίσκος_της_Ασίζης"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.032p8"/>
+    <dc:description xml:lang="en">Catholic saint and founder of the Franciscan order</dc:description>
+    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Anglican_Communion"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Franciszek_z_Asyżu"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Christian_radicals"/>
+    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Lutheranism"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Franciscan_spirituality"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dbpprop:deathDate>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/210/10/041.html"/>
+    <dbpedia-owl:abstract xml:lang="fi">Franciscus Assisilainen, "Jumalan pieni köyhä", ("Poverello", oikealta nimeltään Giovanni Francesco di Bernardone) perusti fransiskaanisen veljeskunnan. Paavi Gregorius IX julisti hänet pyhimykseksi 16. heinäkuuta 1228. Franciscus Assisilaisen pyhimyskalenterin mukainen muistopäivä on 4. lokakuuta, joka on myöhemmin hänen vuokseen otettu myös kansainväliseksi eläinten päiväksi.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
     <foaf:name xml:lang="en">Saint Francis of Assisi</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_francis_of_assisi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Francis_Of_Assisi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Francis_of_Assissi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_of_Assissi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Francis_of_Assisi_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Baronissi">
-    <dbpprop:saint rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-    <dbpedia-owl:saint rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Denver">
-    <dbpprop:patron rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_D._Kirylo">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_of_Assisi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Francisco">
-    <dbpprop:namedFor rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gu%C4%8Da_Gora_Monastery">
-    <dbpprop:dedication rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lourdes_School_of_Mandaluyong">
-    <dbpedia-owl:schoolPatron rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Franciscus_de_Assisio">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Francis_of_Assisi">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_D%E2%80%99Assissi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Francis_of_Assisi">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Kasprowicz">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Santa_Fe">
-    <dbpprop:patron rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_of_assisi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Francis_Of_Assisi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Francis_Of_Assisi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_San_Francisco">
-    <dbpprop:patron rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Massa">
-    <dbpedia-owl:saint rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Francis_of_Assis">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Spanish_ship_San_Francisco_de_Asis_(1767)">
-    <dbpprop:shipNamesake rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Francis_of_Assisi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Francis'_Church,_Chester">
-    <dbpprop:dedication rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Bernardone">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Of_Assisi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_of_Asissi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Francesco_Bernadone">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Francis_High_School_(Mountain_View)">
-    <dbpprop:patron rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-    <dbpedia-owl:schoolPatron rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Francis_High_School_(La_Ca%C3%B1ada_Flintridge)">
-    <dbpprop:patron rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-    <dbpedia-owl:schoolPatron rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Francis_of_Assisi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_of_Assis">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Serino">
-    <dbpedia-owl:saint rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-    <dbpprop:saint rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Francesco">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St_francis_of_assisi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chiusi_della_Verna">
-    <dbpedia-owl:saint rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-    <dbpprop:saint rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_francis_early_adulthood">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Qawra">
-    <dbpprop:blankInfoSec rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mission_San_Francisco_de_As%C3%ADs">
-    <dbpprop:namesake rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Guastalla">
-    <dbpedia-owl:saint rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-    <dbpprop:saint rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Francis_of_Assisi's_Church,_Bournville">
-    <dbpprop:dedication rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Francesco_di_Bernardone">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_d'Assisi">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Terranova_da_Sibari">
-    <dbpedia-owl:saint rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-    <dbpprop:saint rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Bernadone">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Brignano_Gera_d'Adda">
-    <dbpprop:saint rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
-    <dbpedia-owl:saint rdf:resource="http://dbpedia.org/resource/Francis_of_Assisi"/>
+    <dbpprop:canonizedBy rdf:resource="http://dbpedia.org/resource/Pope_Gregory_IX"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SaintsOfTheGoldenLegend"/>
+    <dbpprop:placeOfBirth xml:lang="en">Assisi, Italy</dbpprop:placeOfBirth>
   </rdf:Description>
 </rdf:RDF>

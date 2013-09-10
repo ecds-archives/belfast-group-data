@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hubert_Butler">
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:dateOfBirth>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Hubert_Butler"/>
+    <rdfs:label xml:lang="en">Hubert Butler</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Hubert_Butler?oldid=483507372"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_historians"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_writers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Christopher_Ewart-Biggs_Memorial_Prize_recipients"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anglo-Irish_people"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</dbpprop:dateOfDeath>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1900-10-02</dbpedia-owl:birthDate>
+    <dbpprop:name xml:lang="en">Butler, Hubert</dbpprop:name>
+    <dbpedia-owl:abstract xml:lang="en">Hubert Marshal Butler (2 October 1900 – 5 January 1991) was an Irish essayist who wrote on a wide-range of topics, from local history and archaeology to the political and religious affairs of eastern Europe before and during World War II.</dbpedia-owl:abstract>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-01-05</dbpedia-owl:deathDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_Anglicans"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_St_John's_College,_Oxford"/>
+    <foaf:givenName xml:lang="en">Hubert</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1991_deaths"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hubert_Butler"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Kilkenny"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wikimapia.org/#lat=52.5776018&amp;lon=-7.1859169&amp;z=13&amp;l=0&amp;m=b&amp;v=8"/>
+    <foaf:name xml:lang="en">Hubert Butler</foaf:name>
+    <foaf:surname xml:lang="en">Butler</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1900_births"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0dx61w"/>
+    <rdfs:comment xml:lang="en">Hubert Marshal Butler (2 October 1900 – 5 January 1991) was an Irish essayist who wrote on a wide-range of topics, from local history and archaeology to the political and religious affairs of eastern Europe before and during World War II.</rdfs:comment>
+  </rdf:Description>
+</rdf:RDF>

@@ -9,44 +9,38 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Padraic_Fiacc">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Padraic_Fiacc"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Padraic_Fiacc">
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromNewYorkCity"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1924_births"/>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Padraic_Fiacc?oldid=449963226"/>
-    <foaf:name xml:lang="en">Padraic Fiacc</foaf:name>
-    <dbpprop:name xml:lang="en">Fiacc, Padraic</dbpprop:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <dbpedia-owl:abstract xml:lang="en">Padraic Fiacc is an Irish poet, and member of Aosdána, the exclusive Irish Arts Academy.</dbpedia-owl:abstract>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Padraic_Fiacc"/>
-    <rdfs:label xml:lang="en">Padraic Fiacc</rdfs:label>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PoetsFromNorthernIreland"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.blackmountainreview.com/issues/issues0120/issue09/is09prosmaviri.html"/>
-    <foaf:surname xml:lang="en">Fiacc</foaf:surname>
-    <rdfs:comment xml:lang="pl">Padraic Fiacc – irlandzki poeta, członek elitarnego stowarzyszenia Aosdána.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Padraic_Fiacc"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
     <rdfs:comment xml:lang="en">Padraic Fiacc is an Irish poet, and member of Aosdána, the exclusive Irish Arts Academy.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_New_York_City"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artscouncil.ie/aosdana/"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poets_from_Northern_Ireland"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1924</dbpprop:dateOfBirth>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belfast"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <rdfs:label xml:lang="en">Padraic Fiacc</rdfs:label>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
     <dbpedia-owl:abstract xml:lang="pl">Padraic Fiacc – irlandzki poeta, członek elitarnego stowarzyszenia Aosdána.</dbpedia-owl:abstract>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Padraic_Fiacc"/>
+    <dbpprop:name xml:lang="en">Fiacc, Padraic</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1924_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromNewYorkCity"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Padraic_Fiacc"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.blackmountainreview.com/issues/issues0120/issue09/is09prosmaviri.html"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Padraic_Fiacc"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PoetsFromNorthernIreland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_New_York_City"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+    <foaf:surname xml:lang="en">Fiacc</foaf:surname>
     <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0dz89w"/>
     <foaf:givenName xml:lang="en">Padraic</foaf:givenName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Padraic_Fiacc">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Padraic_Fiacc"/>
+    <dbpedia-owl:abstract xml:lang="en">Padraic Fiacc is an Irish poet, and member of Aosdána, the exclusive Irish Arts Academy.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artscouncil.ie/aosdana/"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name xml:lang="en">Padraic Fiacc</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belfast"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1924</dbpprop:dateOfBirth>
+    <rdfs:comment xml:lang="pl">Padraic Fiacc – irlandzki poeta, członek elitarnego stowarzyszenia Aosdána.</rdfs:comment>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Padraic_Fiacc"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Poets_from_Northern_Ireland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Padraic_Fiacc?oldid=449963226"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
   </rdf:Description>
 </rdf:RDF>

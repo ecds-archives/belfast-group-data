@@ -11,372 +11,130 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rachel_Jordan">
-    <dbpprop:training rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:training rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arts_Tower">
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:owner rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:owner rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Mellanby">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Sherratt">
-    <dbpprop:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gable_CAD">
-    <dbpedia-owl:developer rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Hughes_(politician)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Bourne">
-    <dbpprop:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_and_Plant_Sciences,_University_of_Sheffield">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_Daldry">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Sheffield">
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
-    <dbpprop:chancellor xml:lang="en">Sir Peter Middleton</dbpprop:chancellor>
-    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.3814</geo:lat>
-    <dbpprop:formerNames xml:lang="en">University College of Sheffield</dbpprop:formerNames>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Yorkshire_Universities"/>
-    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-1.48827 53.3814)</geo:geometry>
-    <rdfs:comment xml:lang="en">The University of Sheffield is a research university based in the city of Sheffield in South Yorkshire, England. It is one of the original 'red brick' universities and is a member of the Russell Group of leading research intensive universities. The university ranked 17th in the United Kingdom in the 2008 Research Assessment Exercise (RAE) and is consistently ranked in the top 20 universities in the United Kingdom according to The Good University Guide.</rdfs:comment>
-    <dbpedia-owl:numberOfStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26960</dbpedia-owl:numberOfStudents>
-    <rdfs:comment xml:lang="zh">谢菲尔德大学（University of Sheffield）是一間位於英國雪菲爾的大學。經過一百多年的發展，雪菲爾大學在教學與研究方面建立起卓越的聲譽，是英國6所最佳研究型大學之一，是英國最受海外學生歡迎的5所大學之一，也是英國眾多百年大學中，最具國際聲望的名校之一。</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="es">La Universidad de Sheffield es una universidad de investigación ubicada en Sheffield, South Yorkshire, Inglaterra.</dbpedia-owl:abstract>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/European_Quality_Improvement_System"/>
     <rdfs:label xml:lang="zh">谢菲尔德大学</rdfs:label>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
-    <rdfs:comment xml:lang="de">Die Universität Sheffield ist eine im Jahre 1905 gegründete staatliche Universität in der englischen Industriestadt Sheffield mit heute rund 26.000 Studenten und 1.300 wissenschaftlichen Angestellten. Die Universität Sheffield bildet einen lokalen Verband mit anderen mittelenglischen Universitäten und ist außerdem Mitglied der Russell-Gruppe britischer Forschungsuniversitäten.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shef.ac.uk/union/"/>
+    <dbpedia-owl:numberOfPostgraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8950</dbpedia-owl:numberOfPostgraduateStudents>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/University_of_Sheffield_coat_of_arms.png/200px-University_of_Sheffield_coat_of_arms.png"/>
+    <dbpedia-owl:officialSchoolColour xml:lang="en">Black &amp; Gold</dbpedia-owl:officialSchoolColour>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Sheffield"/>
+    <dbpprop:students rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26960</dbpprop:students>
+    <dbpedia-owl:abstract xml:lang="es">La Universidad de Sheffield es una universidad de investigación ubicada en Sheffield, South Yorkshire, Inglaterra.</dbpedia-owl:abstract>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.3814</geo:lat>
+    <dbpedia-owl:motto xml:lang="en">To discover the causes of things</dbpedia-owl:motto>
     <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/White_Rose_University_Consortium"/>
-    <dbpprop:logo rdf:resource="http://dbpedia.org/resource/File:University_of_Sheffield_logo.png"/>
-    <dbpprop:undergrad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18005</dbpprop:undergrad>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1897_establishments_in_England"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_university"/>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/4/44/University_of_Sheffield_coat_of_arms.png"/>
-    <dbpprop:campus xml:lang="en">Urban</dbpprop:campus>
-    <dbpedia-owl:viceChancellor rdf:resource="http://dbpedia.org/resource/Keith_Burnett"/>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Université_de_Sheffield"/>
-    <rdfs:comment xml:lang="sv">University of Sheffield är ett universitet beläget i Sheffield, England med över 25 000 studenter. Det blev rankat som nummer 40 av världens topp-100 universitet. Stor fokus läggs på forskning. Universiy of Sheffield har fem fakulteter; Konst och humaniora Ingenjörsvetenskap Medicin, tandvård och hälsa Vetenskap Samhällsvetenskap samt en internationell fakultet i Grekland.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Association_of_Commonwealth_Universities"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/University_of_Sheffield"/>
-    <dbpprop:mottoeng xml:lang="en">To discover the causes of things</dbpprop:mottoeng>
-    <rdfs:label xml:lang="de">University of Sheffield</rdfs:label>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/N8_Research_Partnership"/>
+    <foaf:homepage rdf:resource="http://www.sheffield.ac.uk/"/>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/England"/>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Association_of_MBAs"/>
+    <rdfs:comment xml:lang="fr">L'université de Sheffield (en anglais, University of Sheffield) est une université anglaise, à Sheffield dans le Yorkshire du Sud. Classée parmi les 100 plus grandes universités au monde elle est aussi dans le top 20 des universités britanniques. C'est l'une des Red brick university et est également membre du Russell Group. Elle a été élue "University of the Year" au Royaume-Uni le 25 novembre 2011 par le Times Higher Education. http://www. timeshighereducation. co. uk/story.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://pl.dbpedia.org/resource/University_of_Sheffield"/>
     <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <dbpprop:colours xml:lang="en">Black &amp; Gold</dbpprop:colours>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.sheffield.ac.uk/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1897_establishments_in_England"/>
     <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Worldwide_Universities_Network"/>
+    <grs:point xml:lang="en">53.381389 -1.488272</grs:point>
+    <rdfs:comment xml:lang="de">Die Universität Sheffield ist eine im Jahre 1905 gegründete staatliche Universität in der englischen Industriestadt Sheffield mit heute rund 26.000 Studenten und 1.300 wissenschaftlichen Angestellten. Die Universität Sheffield bildet einen lokalen Verband mit anderen mittelenglischen Universitäten und ist außerdem Mitglied der Russell-Gruppe britischer Forschungsuniversitäten.</rdfs:comment>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/European_Quality_Improvement_System"/>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Association_of_Commonwealth_Universities"/>
+    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpedia-owl:abstract xml:lang="zh">谢菲尔德大学（University of Sheffield）是一間位於英國雪菲爾的大學。經過一百多年的發展，雪菲爾大學在教學與研究方面建立起卓越的聲譽，是英國6所最佳研究型大學之一，是英國最受海外學生歡迎的5所大學之一，也是英國眾多百年大學中，最具國際聲望的名校之一。</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Université_de_Sheffield"/>
+    <dbpprop:type rdf:resource="http://dbpedia.org/resource/Public_university"/>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/European_University_Association"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://aikido.union.shef.ac.uk"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/シェフィールド大学"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/University_of_Sheffield"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russell_Group"/>
+    <dbpprop:chancellor xml:lang="en">Sir Peter Middleton</dbpprop:chancellor>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01t38b"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shef.ac.uk/union/"/>
+    <dbpprop:undergrad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18005</dbpprop:undergrad>
+    <dbpedia-owl:viceChancellor rdf:resource="http://dbpedia.org/resource/Keith_Burnett"/>
+    <rdfs:comment xml:lang="ja">シェフィールド大学 (The University of Sheffield) は、イギリス、シェフィールドにある国立大学。昔からの赤れんが造り大学の１つであり、ラッセルグループのメンバー。QS・ワールド・ユニバーシティ・ランキングから出版された世界のトップ70大学にランクインしており、またグッド・ユニバーシティ・ガイドによるイギリス・ヨーロッパの大学トップ20にも常時ランクインしている。これまでに卒業生から5人のノーベル賞受賞者を輩出している。</rdfs:comment>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/University_of_Sheffield"/>
+    <dbpprop:logo rdf:resource="http://dbpedia.org/resource/File:University_of_Sheffield_logo.png"/>
+    <dbpedia-owl:abstract xml:lang="fr">L'université de Sheffield (en anglais, University of Sheffield) est une université anglaise, à Sheffield dans le Yorkshire du Sud. Classée parmi les 100 plus grandes universités au monde elle est aussi dans le top 20 des universités britanniques. C'est l'une des Red brick university et est également membre du Russell Group. Elle a été élue "University of the Year" au Royaume-Uni le 25 novembre 2011 par le Times Higher Education. http://www. timeshighereducation. co. uk/story. asp?storycode=418247</dbpedia-owl:abstract>
+    <dbpedia-owl:type rdf:resource="http://dbpedia.org/resource/Public_university"/>
+    <rdfs:comment xml:lang="es">La Universidad de Sheffield es una universidad de investigación ubicada en Sheffield, South Yorkshire, Inglaterra.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shl.lon.ac.uk/specialcollections/archives/studentrecords.shtml"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
+    <dbpprop:postgrad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8950</dbpprop:postgrad>
+    <dbpedia-owl:abstract xml:lang="fi">Sheffieldin yliopisto (University of Sheffield) on vuonna 1897 perustettu yliopisto Sheffieldin kaupungissa Englannin pohjoisosassa. Yliopisto on yksi Yhdistyneen kuningaskunnan arvostetuimmista: se kuuluu maan huippuyliopistojen muodostamaan Russell-ryhmään ja sijoittuu tutkimuksen tasossa maan kolmanneksi Oxfordin ja Cambridgen yliopistojen jälkeen. Erityisesti sen arkeologian, arkkitehtuurin ja politiikan laitokset ovat tunnettuja maanlaajuisesti. Yliopistossa on opiskelijoita yhteensä noin 26 000. Se työllistää 5 500 henkilöä, joista noin 1 300 on opettavaa henkilökuntaa. Yliopisto perustettiin alun perin vuonna 1897 nimellä University College of Sheffield kolmen sheffieldiläisen eri aloille erikoistuneiden oppilaitosten yhdistyessä. Yliopiston kuninkaallinen perustamiskirja allekirjoitettiin vuonna 1905, ja se nimettiin Sheffieldin yliopistoksi. Oppilasmäärän raju kasvu 1950- ja 1960-luvuilla johti siihen, että yliopisto sai monia uusia rakennuksia, kuten 20-kerroksisen Arts Tower -tornitalon, joka on vielä nykyäänkin Sheffieldin korkein rakennus. Sheffieldin yliopistolla ei ole erityistä kampusaluetta, mutta suurin osa sen rakennuksista sijaitsee samalla alueella, Sheffieldin keskustan läntisellä laidalla noin kaksi kilometriä kaupungin ydinkeskustasta. Kuuluisia Sheffieldin yliopistosta valmistuneita ovat muiden muassa poliitikko David Blunkett, Nobel-kemisti Harold Kroto ja kirjailija Joanne Harris.</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_university"/>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-1.48827 53.3814)</geo:geometry>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Yorkshire_Universities"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/University108286163"/>
+    <rdfs:label xml:lang="de">University of Sheffield</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EduCAtionalInstitutionsEstablishedIn1897"/>
+    <dbpedia-owl:numberOfStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26960</dbpedia-owl:numberOfStudents>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shef.ac.uk"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Universidad_de_Sheffield"/>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.48827</geo:long>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/N8_Research_Partnership"/>
+    <dbpprop:name xml:lang="en">University of Sheffield</dbpprop:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/education/table/2008/dec/18/rae-2008-results-uk-universities"/>
+    <rdfs:comment xml:lang="nl">De Universiteit van Sheffield is een onderzoeksuniversiteit in de Britse stad Sheffield in het graafschap South Yorkshire. Ze behoort tot de oorspronkelijke groep van de zogenoemde red brick-universiteiten en is lid van de Russellgroep. Ze stond als 40e gerangschikt in de Global Universities Ranking en wordt steeds geplaatst bij de top 20 van universiteiten in het Verenigd Koninkrijk en Europa volgens The Good University Guide.</rdfs:comment>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/European_University_Association"/>
+    <rdfs:comment xml:lang="fi">Sheffieldin yliopisto (University of Sheffield) on vuonna 1897 perustettu yliopisto Sheffieldin kaupungissa Englannin pohjoisosassa. Yliopisto on yksi Yhdistyneen kuningaskunnan arvostetuimmista: se kuuluu maan huippuyliopistojen muodostamaan Russell-ryhmään ja sijoittuu tutkimuksen tasossa maan kolmanneksi Oxfordin ja Cambridgen yliopistojen jälkeen. Erityisesti sen arkeologian, arkkitehtuurin ja politiikan laitokset ovat tunnettuja maanlaajuisesti.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="en">The University of Sheffield is a research university based in the city of Sheffield in South Yorkshire, England. It is one of the original 'red brick' universities and is a member of the Russell Group of leading research intensive universities. The university ranked 17th in the United Kingdom in the 2008 Research Assessment Exercise (RAE) and is consistently ranked in the top 20 universities in the United Kingdom according to The Good University Guide. It was the Sunday Times University of the Year in 2001. In 2011, QS World University Rankings placed Sheffield as the 72nd university worldwide. It was named 'University of the Year' 2011 in the Times Higher Education awards. Furthermore, the university is ranked amongst both the UK's and world's Top 100 universities by the Shanghai Jiao Tong (SJTU) and Times Higher Education (THE) World University Rankings, and the 2008 Research Assessment Exercise found 41 submissions out of 49 of Sheffield's research to contain more than 50% of "world-leading" and "internationally excellent" research, which made Sheffield among the Top Ten in the Russell Group. The university has produced five Nobel Prize winners so far.</dbpedia-owl:abstract>
+    <dbpedia-owl:staff rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5306</dbpedia-owl:staff>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Worldwide_Universities_Network"/>
     <foaf:name xml:lang="en">University of Sheffield</foaf:name>
     <dbpedia-owl:chancellor rdf:resource="http://dbpedia.org/resource/Peter_Middleton"/>
     <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/University_of_Sheffield?oldid=494179501"/>
-    <rdfs:comment xml:lang="ja">シェフィールド大学 (The University of Sheffield) は、イギリス、シェフィールドにある国立大学。昔からの赤れんが造り大学の１つであり、ラッセルグループのメンバー。QS・ワールド・ユニバーシティ・ランキングから出版された世界のトップ70大学にランクインしており、またグッド・ユニバーシティ・ガイドによるイギリス・ヨーロッパの大学トップ20にも常時ランクインしている。これまでに卒業生から5人のノーベル賞受賞者を輩出している。</rdfs:comment>
-    <dbpprop:staff rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5306</dbpprop:staff>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/University108286163"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01t38b"/>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Association_of_MBAs"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Russell_Group"/>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Association_of_Commonwealth_Universities"/>
-    <dbpedia-owl:officialSchoolColour xml:lang="en">Black &amp; Gold</dbpedia-owl:officialSchoolColour>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Universidad_de_Sheffield"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shl.lon.ac.uk/specialcollections/archives/studentrecords.shtml"/>
-    <dbpedia-owl:abstract xml:lang="de">Die Universität Sheffield ist eine im Jahre 1905 gegründete staatliche Universität in der englischen Industriestadt Sheffield mit heute rund 26.000 Studenten und 1.300 wissenschaftlichen Angestellten. Die Universität Sheffield bildet einen lokalen Verband mit anderen mittelenglischen Universitäten und ist außerdem Mitglied der Russell-Gruppe britischer Forschungsuniversitäten. Sie unterhält auch internationale Hochschulpartnerschaften (unter anderem durch das Hochschulnetzwerk Worldwide Universities Network), weshalb rund 10% aller Studenten aus Übersee - zumeist Malaysia - stammen.</dbpedia-owl:abstract>
-    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.48827</geo:long>
-    <rdfs:comment xml:lang="es">La Universidad de Sheffield es una universidad de investigación ubicada en Sheffield, South Yorkshire, Inglaterra.</rdfs:comment>
-    <dbpedia-owl:motto xml:lang="en">To discover the causes of things</dbpedia-owl:motto>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/White_Rose_University_Consortium"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/education/table/2008/dec/18/rae-2008-results-uk-universities"/>
-    <dbpedia-owl:abstract xml:lang="zh">谢菲尔德大学（University of Sheffield）是一間位於英國雪菲爾的大學。經過一百多年的發展，雪菲爾大學在教學與研究方面建立起卓越的聲譽，是英國6所最佳研究型大學之一，是英國最受海外學生歡迎的5所大學之一，也是英國眾多百年大學中，最具國際聲望的名校之一。</dbpedia-owl:abstract>
-    <rdfs:seeAlso rdf:resource="http://pl.dbpedia.org/resource/University_of_Sheffield"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GlassScienceInstitutes"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Organization"/>
-    <dbpprop:country rdf:resource="http://dbpedia.org/resource/England"/>
-    <rdf:type rdf:resource="http://schema.org/EducationalOrganization"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shef.ac.uk"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.sheffield.ac.uk/"/>
-    <dbpprop:postgrad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8950</dbpprop:postgrad>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russell_Group"/>
-    <rdfs:comment xml:lang="fr">L'université de Sheffield (en anglais, University of Sheffield) est une université anglaise, à Sheffield dans le Yorkshire du Sud. Classée parmi les 100 plus grandes universités au monde elle est aussi dans le top 20 des universités britanniques. C'est l'une des Red brick university et est également membre du Russell Group. Elle a été élue "University of the Year" au Royaume-Uni le 25 novembre 2011 par le Times Higher Education. http://www. timeshighereducation. co. uk/story.</rdfs:comment>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/University_of_Sheffield"/>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/N8_Research_Partnership"/>
-    <dbpprop:imageName xml:lang="en">University of Sheffield coat of arms.png</dbpprop:imageName>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Association_of_MBAs"/>
-    <dbpprop:state rdf:resource="http://dbpedia.org/resource/South_Yorkshire"/>
-    <dbpedia-owl:state rdf:resource="http://dbpedia.org/resource/South_Yorkshire"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.city.academic.gr"/>
-    <foaf:homepage rdf:resource="http://www.sheffield.ac.uk/"/>
-    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/England"/>
-    <dbpprop:name xml:lang="en">University of Sheffield</dbpprop:name>
-    <dbpedia-owl:numberOfUndergraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18005</dbpedia-owl:numberOfUndergraduateStudents>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/University"/>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/European_University_Association"/>
-    <dbpedia-owl:abstract xml:lang="en">The University of Sheffield is a research university based in the city of Sheffield in South Yorkshire, England. It is one of the original 'red brick' universities and is a member of the Russell Group of leading research intensive universities. The university ranked 17th in the United Kingdom in the 2008 Research Assessment Exercise (RAE) and is consistently ranked in the top 20 universities in the United Kingdom according to The Good University Guide. It was the Sunday Times University of the Year in 2001. In 2011, QS World University Rankings placed Sheffield as the 72nd university worldwide. It was named 'University of the Year' 2011 in the Times Higher Education awards. Furthermore, the university is ranked amongst both the UK's and world's Top 100 universities by the Shanghai Jiao Tong (SJTU) and Times Higher Education (THE) World University Rankings, and the 2008 Research Assessment Exercise found 41 submissions out of 49 of Sheffield's research to contain more than 50% of "world-leading" and "internationally excellent" research, which made Sheffield among the Top Ten in the Russell Group. The university has produced five Nobel Prize winners so far.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EduCAtionalInstitutionsEstablishedIn1897"/>
-    <rdfs:comment xml:lang="fi">Sheffieldin yliopisto (University of Sheffield) on vuonna 1897 perustettu yliopisto Sheffieldin kaupungissa Englannin pohjoisosassa. Yliopisto on yksi Yhdistyneen kuningaskunnan arvostetuimmista: se kuuluu maan huippuyliopistojen muodostamaan Russell-ryhmään ja sijoittuu tutkimuksen tasossa maan kolmanneksi Oxfordin ja Cambridgen yliopistojen jälkeen. Erityisesti sen arkeologian, arkkitehtuurin ja politiikan laitokset ovat tunnettuja maanlaajuisesti.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Glass_science_institutes"/>
-    <dbpprop:income rdf:datatype="http://dbpedia.org/datatype/poundSterling">3.216E8</dbpprop:income>
-    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
-    <dbpprop:type rdf:resource="http://dbpedia.org/resource/Public_university"/>
     <rdfs:label xml:lang="en">University of Sheffield</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Sheffield"/>
-    <dbpedia-owl:abstract xml:lang="fr">L'université de Sheffield (en anglais, University of Sheffield) est une université anglaise, à Sheffield dans le Yorkshire du Sud. Classée parmi les 100 plus grandes universités au monde elle est aussi dans le top 20 des universités britanniques. C'est l'une des Red brick university et est également membre du Russell Group. Elle a été élue "University of the Year" au Royaume-Uni le 25 novembre 2011 par le Times Higher Education. http://www. timeshighereducation. co. uk/story. asp?storycode=418247</dbpedia-owl:abstract>
-    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Sheffield"/>
-    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Sheffield"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://aikido.union.shef.ac.uk"/>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/European_Quality_Improvement_System"/>
-    <dbpprop:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
-    <dbpedia-owl:abstract xml:lang="sv">University of Sheffield är ett universitet beläget i Sheffield, England med över 25 000 studenter. Det blev rankat som nummer 40 av världens topp-100 universitet. Stor fokus läggs på forskning. Universiy of Sheffield har fem fakulteter; Konst och humaniora Ingenjörsvetenskap Medicin, tandvård och hälsa Vetenskap Samhällsvetenskap samt en internationell fakultet i Grekland. Universitetet grundades som University College of Sheffield år 1897 och fick sitt nuvarande namn 1905 när full universitetsstatus uppnåddes.</dbpedia-owl:abstract>
-    <dbpprop:colours xml:lang="en">Black &amp; Gold</dbpprop:colours>
-    <dbpedia-owl:endowment rdf:datatype="http://dbpedia.org/datatype/poundSterling">3.6E7</dbpedia-owl:endowment>
-    <dbpedia-owl:abstract xml:lang="ja">シェフィールド大学 (The University of Sheffield) は、イギリス、シェフィールドにある国立大学。昔からの赤れんが造り大学の１つであり、ラッセルグループのメンバー。QS・ワールド・ユニバーシティ・ランキングから出版された世界のトップ70大学にランクインしており、またグッド・ユニバーシティ・ガイドによるイギリス・ヨーロッパの大学トップ20にも常時ランクインしている。これまでに卒業生から5人のノーベル賞受賞者を輩出している。</dbpedia-owl:abstract>
-    <grs:point xml:lang="en">53.381389 -1.488272</grs:point>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/N8_Research_Partnership"/>
-    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity"/>
-    <dbpedia-owl:numberOfPostgraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8950</dbpedia-owl:numberOfPostgraduateStudents>
-    <dbpedia-owl:type rdf:resource="http://dbpedia.org/resource/Public_university"/>
-    <dbpprop:website rdf:resource="http://www.sheffield.ac.uk/"/>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/シェフィールド大学"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1897"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/University_of_Sheffield_coat_of_arms.png/200px-University_of_Sheffield_coat_of_arms.png"/>
     <dbpprop:established xml:lang="en">- University College of Sheffield</dbpprop:established>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Worldwide_Universities_Network"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Yorkshire_Universities"/>
-    <dbpedia-owl:formerName xml:lang="en">University College of Sheffield</dbpedia-owl:formerName>
-    <dbpprop:endowment rdf:datatype="http://dbpedia.org/datatype/poundSterling">3.6E7</dbpprop:endowment>
-    <dbpedia-owl:abstract xml:lang="nl">De Universiteit van Sheffield is een onderzoeksuniversiteit in de Britse stad Sheffield in het graafschap South Yorkshire. Ze behoort tot de oorspronkelijke groep van de zogenoemde red brick-universiteiten en is lid van de Russellgroep. Ze stond als 40e gerangschikt in de Global Universities Ranking en wordt steeds geplaatst bij de top 20 van universiteiten in het Verenigd Koninkrijk en Europa volgens The Good University Guide. Verder plaatsten gezaghebbende ranglijsten van de Sjanghai Jiao Tong Universiteit en de Times Higher Education World University Rankings de universiteit in de top 10 van het Verenigd Koninkrijk en de top 100 van de wereld. De universiteit bracht tot nog toe vijf Nobelprijswinnaars voort. In 2008 oordeelde een onderzoeksevaluatie dat 41 van de 49 ingediende onderzoeken "wereldwijd toonaangevend" of "internationaal uitstekend" waren. Hiermee komt de universiteit van Sheffield bij de top 10 van de Russellgroep te liggen.</dbpedia-owl:abstract>
     <rdf:type rdf:resource="http://umbel.org/umbel/rc/EducationalOrganization"/>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Association_of_Commonwealth_Universities"/>
-    <dbpprop:students rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26960</dbpprop:students>
-    <dbpedia-owl:staff rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5306</dbpedia-owl:staff>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Russell_Group"/>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2"/>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/European_University_Association"/>
-    <rdfs:comment xml:lang="nl">De Universiteit van Sheffield is een onderzoeksuniversiteit in de Britse stad Sheffield in het graafschap South Yorkshire. Ze behoort tot de oorspronkelijke groep van de zogenoemde red brick-universiteiten en is lid van de Russellgroep. Ze stond als 40e gerangschikt in de Global Universities Ranking en wordt steeds geplaatst bij de top 20 van universiteiten in het Verenigd Koninkrijk en Europa volgens The Good University Guide.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="fi">Sheffieldin yliopisto (University of Sheffield) on vuonna 1897 perustettu yliopisto Sheffieldin kaupungissa Englannin pohjoisosassa. Yliopisto on yksi Yhdistyneen kuningaskunnan arvostetuimmista: se kuuluu maan huippuyliopistojen muodostamaan Russell-ryhmään ja sijoittuu tutkimuksen tasossa maan kolmanneksi Oxfordin ja Cambridgen yliopistojen jälkeen. Erityisesti sen arkeologian, arkkitehtuurin ja politiikan laitokset ovat tunnettuja maanlaajuisesti. Yliopistossa on opiskelijoita yhteensä noin 26 000. Se työllistää 5 500 henkilöä, joista noin 1 300 on opettavaa henkilökuntaa. Yliopisto perustettiin alun perin vuonna 1897 nimellä University College of Sheffield kolmen sheffieldiläisen eri aloille erikoistuneiden oppilaitosten yhdistyessä. Yliopiston kuninkaallinen perustamiskirja allekirjoitettiin vuonna 1905, ja se nimettiin Sheffieldin yliopistoksi. Oppilasmäärän raju kasvu 1950- ja 1960-luvuilla johti siihen, että yliopisto sai monia uusia rakennuksia, kuten 20-kerroksisen Arts Tower -tornitalon, joka on vielä nykyäänkin Sheffieldin korkein rakennus. Sheffieldin yliopistolla ei ole erityistä kampusaluetta, mutta suurin osa sen rakennuksista sijaitsee samalla alueella, Sheffieldin keskustan läntisellä laidalla noin kaksi kilometriä kaupungin ydinkeskustasta. Kuuluisia Sheffieldin yliopistosta valmistuneita ovat muiden muassa poliitikko David Blunkett, Nobel-kemisti Harold Kroto ja kirjailija Joanne Harris.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/University"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Organization"/>
     <dbpprop:established xml:lang="en">– University of Sheffield</dbpprop:established>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/University_of_Sheffield"/>
+    <dbpprop:imageName xml:lang="en">University of Sheffield coat of arms.png</dbpprop:imageName>
+    <dbpedia-owl:formerName xml:lang="en">University College of Sheffield</dbpedia-owl:formerName>
+    <dbpedia-owl:abstract xml:lang="ja">シェフィールド大学 (The University of Sheffield) は、イギリス、シェフィールドにある国立大学。昔からの赤れんが造り大学の１つであり、ラッセルグループのメンバー。QS・ワールド・ユニバーシティ・ランキングから出版された世界のトップ70大学にランクインしており、またグッド・ユニバーシティ・ガイドによるイギリス・ヨーロッパの大学トップ20にも常時ランクインしている。これまでに卒業生から5人のノーベル賞受賞者を輩出している。</dbpedia-owl:abstract>
+    <dbpprop:country rdf:resource="http://dbpedia.org/resource/England"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Glass_science_institutes"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1897"/>
+    <rdfs:comment xml:lang="sv">University of Sheffield är ett universitet beläget i Sheffield, England med över 25 000 studenter. Det blev rankat som nummer 40 av världens topp-100 universitet. Stor fokus läggs på forskning. Universiy of Sheffield har fem fakulteter; Konst och humaniora Ingenjörsvetenskap Medicin, tandvård och hälsa Vetenskap Samhällsvetenskap samt en internationell fakultet i Grekland.</rdfs:comment>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/White_Rose_University_Consortium"/>
+    <dbpedia-owl:abstract xml:lang="nl">De Universiteit van Sheffield is een onderzoeksuniversiteit in de Britse stad Sheffield in het graafschap South Yorkshire. Ze behoort tot de oorspronkelijke groep van de zogenoemde red brick-universiteiten en is lid van de Russellgroep. Ze stond als 40e gerangschikt in de Global Universities Ranking en wordt steeds geplaatst bij de top 20 van universiteiten in het Verenigd Koninkrijk en Europa volgens The Good University Guide. Verder plaatsten gezaghebbende ranglijsten van de Sjanghai Jiao Tong Universiteit en de Times Higher Education World University Rankings de universiteit in de top 10 van het Verenigd Koninkrijk en de top 100 van de wereld. De universiteit bracht tot nog toe vijf Nobelprijswinnaars voort. In 2008 oordeelde een onderzoeksevaluatie dat 41 van de 49 ingediende onderzoeken "wereldwijd toonaangevend" of "internationaal uitstekend" waren. Hiermee komt de universiteit van Sheffield bij de top 10 van de Russellgroep te liggen.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Association_of_Commonwealth_Universities"/>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Association_of_MBAs"/>
+    <dbpedia-owl:abstract xml:lang="de">Die Universität Sheffield ist eine im Jahre 1905 gegründete staatliche Universität in der englischen Industriestadt Sheffield mit heute rund 26.000 Studenten und 1.300 wissenschaftlichen Angestellten. Die Universität Sheffield bildet einen lokalen Verband mit anderen mittelenglischen Universitäten und ist außerdem Mitglied der Russell-Gruppe britischer Forschungsuniversitäten. Sie unterhält auch internationale Hochschulpartnerschaften (unter anderem durch das Hochschulnetzwerk Worldwide Universities Network), weshalb rund 10% aller Studenten aus Übersee - zumeist Malaysia - stammen.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GlassScienceInstitutes"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/4/44/University_of_Sheffield_coat_of_arms.png"/>
+    <dbpedia-owl:abstract xml:lang="sv">University of Sheffield är ett universitet beläget i Sheffield, England med över 25 000 studenter. Det blev rankat som nummer 40 av världens topp-100 universitet. Stor fokus läggs på forskning. Universiy of Sheffield har fem fakulteter; Konst och humaniora Ingenjörsvetenskap Medicin, tandvård och hälsa Vetenskap Samhällsvetenskap samt en internationell fakultet i Grekland. Universitetet grundades som University College of Sheffield år 1897 och fick sitt nuvarande namn 1905 när full universitetsstatus uppnåddes.</dbpedia-owl:abstract>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Russell_Group"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution"/>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Yorkshire_Universities"/>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/European_Quality_Improvement_System"/>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Association_of_Commonwealth_Universities"/>
+    <dbpprop:income rdf:datatype="http://dbpedia.org/datatype/poundSterling">3.216E8</dbpprop:income>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Russell_Group"/>
+    <rdfs:comment xml:lang="zh">谢菲尔德大学（University of Sheffield）是一間位於英國雪菲爾的大學。經過一百多年的發展，雪菲爾大學在教學與研究方面建立起卓越的聲譽，是英國6所最佳研究型大學之一，是英國最受海外學生歡迎的5所大學之一，也是英國眾多百年大學中，最具國際聲望的名校之一。</rdfs:comment>
+    <dbpedia-owl:state rdf:resource="http://dbpedia.org/resource/South_Yorkshire"/>
+    <dbpprop:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <dbpprop:endowment rdf:datatype="http://dbpedia.org/datatype/poundSterling">3.6E7</dbpprop:endowment>
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Sheffield"/>
+    <dbpprop:state rdf:resource="http://dbpedia.org/resource/South_Yorkshire"/>
+    <rdfs:comment xml:lang="en">The University of Sheffield is a research university based in the city of Sheffield in South Yorkshire, England. It is one of the original 'red brick' universities and is a member of the Russell Group of leading research intensive universities. The university ranked 17th in the United Kingdom in the 2008 Research Assessment Exercise (RAE) and is consistently ranked in the top 20 universities in the United Kingdom according to The Good University Guide.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Sheffield"/>
+    <dbpprop:mottoeng xml:lang="en">To discover the causes of things</dbpprop:mottoeng>
+    <dbpedia-owl:endowment rdf:datatype="http://dbpedia.org/datatype/poundSterling">3.6E7</dbpedia-owl:endowment>
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:formerNames xml:lang="en">University College of Sheffield</dbpprop:formerNames>
+    <dbpprop:campus xml:lang="en">Urban</dbpprop:campus>
+    <dbpedia-owl:numberOfUndergraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18005</dbpedia-owl:numberOfUndergraduateStudents>
+    <dbpprop:website rdf:resource="http://www.sheffield.ac.uk/"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
     <dbpprop:viceChancellor xml:lang="en">Prof. Keith Burnett</dbpprop:viceChancellor>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder">
-    <dbpedia-owl:award rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Heyde">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Feast">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alicia_Nitecki">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucius_Trant_O%E2%80%99Shea">
-    <dbpprop:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_University_Of_Sheffield.">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_sheffield">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheffield_University">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arifin_Zakaria">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Roy_Dean">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Main">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Craig_(classicist)">
-    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Holmes_(politician)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jake_Berry">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_P_Mahon">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_O'Neill_(economist)">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_R._Jennings">
-    <dbpprop:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/University_College_of_Sheffield">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Kroto">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saleh_Uddin">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/SU">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Adolf_Krebs">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Liverpool">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Route_57_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leon_Mirsky">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hilary_Mantel">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/University_of_Sheffield">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Kornberg">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Hogan-Howe">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Roy_Clapham">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/UoS">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheffield_Medical_School">
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jody_Byrne_(academic)">
-    <dbpprop:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_W._Garland">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheffield_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheffield_Uni">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Aditi_Shankardass">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Sheffield_Students'_Union">
-    <dbpprop:institution rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Bond_(physician)">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Forge_Radio">
-    <dbpprop:university rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Clark,_Baron_Clark_of_Windermere">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Steel_Press">
-    <dbpprop:owners rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:owner rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Route_57_(magazine)">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ling_Sie_Kiong">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Winton">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kadi_Sesay">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Blunkett">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/R._I._Moore">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Rosenthal">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_A._O'Neill">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fuad_Issa_al-Jouni">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Green_(statistician)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_Stringer">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ijaz_Chaudhry">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheffield_University_Orienteering_Club">
-    <dbpprop:areaServed rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/University_of_Sheffield">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_University_of_Sheffield">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Woffinden">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerry_Bermingham">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_university_of_sheffield">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/CITY_College,_International_Faculty_of_the_University_of_Sheffield">
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
+    <dbpprop:staff rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5306</dbpprop:staff>
   </rdf:Description>
 </rdf:RDF>

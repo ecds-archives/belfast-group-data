@@ -10,49 +10,37 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Kavanagh_(writer)">
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Wisconsin%E2%80%93Stout_faculty"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishImmigrantsToTheUnitedStates"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Trinity_College,_Dublin"/>
-    <foaf:surname xml:lang="en">Kavanagh</foaf:surname>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <foaf:name xml:lang="en">Peter Kavanagh</foaf:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_National_University_of_Ireland"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1916-03-19</dbpprop:dateOfBirth>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1916_births"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Peter_Kavanagh_(writer)"/>
-    <rdfs:comment xml:lang="en">Peter Kavanagh (March 19, 1916 – January 27, 2006) was a writer, scholar, and publisher who collected, edited, and published the works of his brother, poet Patrick Kavanagh.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_St_Patrick's_College_of_Education,_Drumcondra"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Loyola_University_Chicago_faculty"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:St._Francis_College"/>
-    <foaf:givenName xml:lang="en">Peter</foaf:givenName>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1916-03-19</dbpedia-owl:birthDate>
-    <dbpedia-owl:abstract xml:lang="en">Peter Kavanagh (March 19, 1916 – January 27, 2006) was a writer, scholar, and publisher who collected, edited, and published the works of his brother, poet Patrick Kavanagh.</dbpedia-owl:abstract>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Peter_Kavanagh_(writer)?oldid=491470401"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2006_deaths"/>
-    <rdfs:label xml:lang="en">Peter Kavanagh (writer)</rdfs:label>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishNon-fictionWriters"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Peter_Kavanagh_(writer)"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_non-fiction_writers"/>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-27</dbpedia-owl:deathDate>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-27</dbpprop:dateOfDeath>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Gannon_University_faculty"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.027rwtm"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_emigrants_to_the_United_States"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Monaghan"/>
     <dbpprop:name xml:lang="en">Kavanagh, Peter</dbpprop:name>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Peter_Kavanagh_(writer)"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.027rwtm"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2006_deaths"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Peter_Kavanagh_(writer)?oldid=491470401"/>
+    <rdfs:comment xml:lang="en">Peter Kavanagh (March 19, 1916 – January 27, 2006) was a writer, scholar, and publisher who collected, edited, and published the works of his brother, poet Patrick Kavanagh.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="en">Peter Kavanagh (March 19, 1916 – January 27, 2006) was a writer, scholar, and publisher who collected, edited, and published the works of his brother, poet Patrick Kavanagh.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="en">Peter Kavanagh (writer)</rdfs:label>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Peter_Kavanagh_(writer)"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:givenName xml:lang="en">Peter</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_non-fiction_writers"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-27</dbpprop:dateOfDeath>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_emigrants_to_the_United_States"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishImmigrantsToTheUnitedStates"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1916-03-19</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Gannon_University_faculty"/>
+    <foaf:surname xml:lang="en">Kavanagh</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishNon-fictionWriters"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-27</dbpedia-owl:deathDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1916_births"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Wisconsin%E2%80%93Stout_faculty"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dr._Peter_Kavanagh">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Peter_Kavanagh_(writer)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Kavanagh">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Peter_Kavanagh_(writer)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Peter_Kavanagh_(writer)">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Peter_Kavanagh_(writer)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Peter_Kavanagh_%28writer%29">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Peter_Kavanagh_(writer)"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1916-03-19</dbpedia-owl:birthDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:St._Francis_College"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_National_University_of_Ireland"/>
+    <foaf:name xml:lang="en">Peter Kavanagh</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Trinity_College,_Dublin"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Monaghan"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Loyola_University_Chicago_faculty"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_St_Patrick's_College_of_Education,_Drumcondra"/>
   </rdf:Description>
 </rdf:RDF>

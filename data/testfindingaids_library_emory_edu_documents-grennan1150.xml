@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbp="http://dbpedia.org/ontology/"
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://sws.geonames.org/3169070/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">Rome</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vassar_College">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Vassar College</schema:name>
+    <schema:name xml:lang="en">Vassar College--Faculty.</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/60577">
+    <schema:children rdf:resource="http://viaf.org/viaf/149172027"/>
+    <schema:birthDate xml:lang="en">1941-11-13</schema:birthDate>
+    <schema:workLocation rdf:resource="http://dbpedia.org/resource/Lehman_College"/>
+    <schema:homeLocation rdf:resource="http://sws.geonames.org/6252001/"/>
+    <schema:workLocation rdf:resource="http://dbpedia.org/resource/Vassar_College"/>
+    <schema:alumniOf rdf:resource="http://dbpedia.org/resource/Harvard_university"/>
+    <schema:homeLocation rdf:resource="http://sws.geonames.org/3169070/"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/62759001"/>
+    <dbp:birthPlace rdf:resource="http://sws.geonames.org/2964574/"/>
+    <schema:name xml:lang="en">Grennan, Eamon, 1941-</schema:name>
+    <schema:alumniOf rdf:resource="http://dbpedia.org/resource/University_College_Dublin"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:description xml:lang="en">
+      
+        Eamon Grennan, Irish poet and professor, was born on November 13, 1941 in Dublin, Ireland, to Thomas P. and Evelyn Grennan. Grennan received a B.A. and M.A. in English from University College, Dublin, in 1963 and 1964 respectively. He lived in Rome from 1965-1966, then moved to the United States for graduate school. He received his Ph.D. from Harvard University in 1973. He married Joan Perkins, whom he met in Rome, in 1972. The couple had two children, Kate Grennan and Conor Grennan. They divorced in 1985. He subsequently met long time companion, classicist Rachel Kitzinger, with whom he has one daughter, Kira Grennan.
+      
+        Grennan taught at Herbert Lehman College, City University of New York, from 1971-1974. In 1974, he accepted a position with Vassar College, where he taught English until his retirement in 2004. During a year's leave from Vassar in 1977, which he spent in Ireland, he began writing poetry seriously for the first time. Grennan published his first volume of poetry, Wildly for Days, in 1983. He has published numerous volumes of poetry since, including What Light There Is (1987), As If It Matters (1991), So It Goes (1995), Relations: New &amp; Selected Poems (1998), Selected &amp; New Poems (2000), The Quick of It (2005), Out of Breath (2007), Matter of Fact (2008), and Out of Sight: New and Selected Poems (2010). His What Light There Is and Other Poems (1989) was a finalist for a Los Angeles Times Book Prize, and Still Life with Waterfall (2002) won the Lenore Marshall Poetry Prize in 2003.
+      
+        Grennan has also edited several volumes including New Irish Writing: Essays in Memory of Raymond J. Porter (1989), and Facing the Music: Irish Poetry in the Twentieth Century (2004). He has also translated numerous works by Italian poet Giacomo Leopardi, as well as an edition of Oedipus at Colonus (2004) on which he partnered with Kitzinger.
+      
+    </schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109557338">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Heaney, Seamus, 1939-</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/85878653">
+    <schema:name xml:lang="en">Tom MacIntyre</schema:name>
+    <schema:name xml:lang="en">Mac Intyre, Tom, 1931-</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/24613408">
+    <schema:name xml:lang="en">Fallon, Peter, 1951-</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Peter Fallon</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harvard_university">
+    <schema:name xml:lang="en">Harvard University</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Naf6b950acccf4fbbbeb009153f6bc3a5">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Emory University</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2964574/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">Dublin, Ireland</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/8zc8f">
+    <schema:dateCreated xml:lang="en">2010-07-12</schema:dateCreated>
+    <schema:about rdf:nodeID="Neccacac67d344ff6a7b2fa6956c107af"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series5/"/>
+    <schema:url xml:lang="en">http://pid.emory.edu/ark:/25593/8zc8f</schema:url>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series6/"/>
+    <schema:about xml:lang="en">http://viaf.org/viaf/60577</schema:about>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series4/"/>
+    <schema:datePublished xml:lang="en">2010-07-12</schema:datePublished>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series1/"/>
+    <schema:publisher rdf:nodeID="Naf6b950acccf4fbbbeb009153f6bc3a5"/>
+    <schema:name xml:lang="en">Eamon Grennan papers, 1964-2010</schema:name>
+    <owl:sameAs rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series3/"/>
+    <schema:author xml:lang="en">Manuscript, Archives, and Rare Book Library, Emory           University</schema:author>
+    <schema:dateModified xml:lang="en">2013-09-09</schema:dateModified>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series2/"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Neccacac67d344ff6a7b2fa6956c107af">
+    <schema:keywords xml:lang="en">Mac Intyre, Tom, 1931-</schema:keywords>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/24613408"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series2/subseries2.1/subseries2.1a/"/>
+    <schema:name xml:lang="en"> Eamon Grennan papers, 1943-2010
+            
+             </schema:name>
+    <schema:description xml:lang="en">Papers of Eamon Grennan, Irish poet and professor, including correspondence,
+        diaries, writings by Grennan, writings by others, teaching and lecture files, and printed
+        material. 
+            </schema:description>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series2/subseries2.1/subseries2.1c/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series1/"/>
+    <rdf:type rdf:resource="http://purl.org/archival/vocab/arch#Collection"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series2/subseries2.5/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/9071711"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series2/subseries2.1/subseries2.1b/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series4/"/>
+    <schema:keywords xml:lang="en">Manuscripts</schema:keywords>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/85878653"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:keywords xml:lang="en">English poetry--Irish authors--20th century.</schema:keywords>
+    <schema:keywords xml:lang="en">Vassar College--Faculty.</schema:keywords>
+    <schema:keywords xml:lang="en">Heaney, Seamus, 1939-</schema:keywords>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series2/"/>
+    <schema:keywords xml:lang="en">Fallon, Peter, 1951-</schema:keywords>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/9071711"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series2/subseries2.3/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series6/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/109557338"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series2/subseries2.4/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series5/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series3/"/>
+    <schema:keywords xml:lang="en">Irish poetry--20th century.</schema:keywords>
+    <schema:keywords xml:lang="en">Poems</schema:keywords>
+    <schema:keywords xml:lang="en">Asekoff, L. S. (Louis S.), 1939-</schema:keywords>
+    <schema:about rdf:resource="http://viaf.org/viaf/62759001"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/5069483"/>
+    <schema:creator rdf:resource="http://viaf.org/viaf/60577"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series2/subseries2.1/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/5069483"/>
+    <schema:about rdf:resource="http://dbpedia.org/resource/Vassar_College"/>
+    <schema:keywords xml:lang="en">O'Grady, Desmond, 1935-</schema:keywords>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+    <schema:keywords xml:lang="en">Poets, Irish--20th century.</schema:keywords>
+    <schema:keywords xml:lang="en">Kitzinger, Rachel, 1948-</schema:keywords>
+    <schema:about rdf:resource="http://viaf.org/viaf/24613408"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/85878653"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/grennan1150/series2/subseries2.2/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/9071711">
+    <schema:name xml:lang="en">Asekoff, L. S. (Louis S.), 1939-</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Louis
+          Asekoff</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/6252001/">
+    <schema:name xml:lang="en">United States</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_College_Dublin">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">University
+        College, Dublin</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/62759001">
+    <schema:name xml:lang="en">Kitzinger, Rachel, 1948- </schema:name>
+    <schema:name xml:lang="en">Rachel Kitzinger</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/5069483">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Desmond O'Grady</schema:name>
+    <schema:name xml:lang="en">O'Grady, Desmond, 1935-</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/149172027">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Conor Grennan</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lehman_College">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Herbert Lehman College, City University of New York</schema:name>
+  </rdf:Description>
+</rdf:RDF>

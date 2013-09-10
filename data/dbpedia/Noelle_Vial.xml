@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noelle_Vial">
+    <foaf:givenName xml:lang="en">Noelle</foaf:givenName>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1959</dbpprop:dateOfBirth>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Noelle_Vial"/>
+    <foaf:surname xml:lang="en">Vial</foaf:surname>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2003</dbpprop:dateOfDeath>
+    <rdfs:label xml:lang="en">Noelle Vial</rdfs:label>
+    <dbpprop:shortDescription xml:lang="en">Irish poet</dbpprop:shortDescription>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdfs:comment xml:lang="en">Noelle Vial (1959-January 19, 2003) was an Irish poet. Born in County Donegal, she was the recipient of [The Evening Herald's] Hennessy Literary Award for best emerging poet in 1994. Her book Promiscuous Winds was published in 1996 by Story Line Press in the USA. She was awarded the Irish Pushkin Prize for poetry, established by Pushkin's descendant, the Duchess of Abercorn. Vial later became a judge for those awards, and traveled with Lady Abercorn to Russia.</rdfs:comment>
+    <dbpprop:name xml:lang="en">Vial, Noelle</dbpprop:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://web.archive.org/web/20071119225435/http:/marinetimes.ie/Assets/_archive_2003/0203_killybegs.htm"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1959_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+    <dc:description xml:lang="en">Irish poet</dc:description>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Noelle_Vial?oldid=495440561"/>
+    <dbpedia-owl:abstract xml:lang="en">Noelle Vial (1959-January 19, 2003) was an Irish poet. Born in County Donegal, she was the recipient of [The Evening Herald's] Hennessy Literary Award for best emerging poet in 1994. Her book Promiscuous Winds was published in 1996 by Story Line Press in the USA. She was awarded the Irish Pushkin Prize for poetry, established by Pushkin's descendant, the Duchess of Abercorn. Vial later became a judge for those awards, and traveled with Lady Abercorn to Russia. Several of her poems have been translated into Russian.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Donegal"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_women_poets"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Noelle_Vial"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2003_deaths"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="https://www.cs.tcd.ie/Micheal.MacanAirchinnigh/Web%20Pages/POETICS/VIAL_Noelle/20011213.html"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02q46y8"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.marinetimes.ie/Assets/_archive_2003/0203_killybegs.htm"/>
+    <foaf:name xml:lang="en">Noelle Vial</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+  </rdf:Description>
+</rdf:RDF>

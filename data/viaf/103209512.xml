@@ -8,274 +8,284 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CHugo_von_Hofmannsthal#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <skos:prefLabel>Hofmannsthal, Hugo von</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C06869377X#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11907636#skos:Concept">
-    <skos:altLabel>Hofmannsthal Hugo de 1874-1929</skos:altLabel>
-    <skos:altLabel>Hofmansthal, Hugo von, 1874-1929</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb119076366"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/103209512/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
-    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb119076366"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Hofmannstahl, Hugo von, 1874-1929</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036334189#skos:Concept">
-    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Hofmannsthals, Hugo von, 1874-1929</skos:altLabel>
-    <skos:altLabel>Hoffmannsthal, Hugo von, 1874-1929</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10136152#skos:Concept">
-    <skos:altLabel>von Hofmannsthal, Hugo, 1874-1929</skos:altLabel>
-    <skos:altLabel>Hoffmannsthal, Hugo von, 1874-1929</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
-    <skos:altLabel>Hofmannstahl, Hugo von, 1874-1929</skos:altLabel>
-    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
-    <skos:altLabel>Hofmann, Hugo, 1874-1929</skos:altLabel>
-    <skos:altLabel>Morren, Théophil, 1874-1929</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C57664#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118552759#skos:Concept">
-    <skos:altLabel>Hofmannthal, Hugo von 1874-1929</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:altLabel>Hoffmansthal, Hugo von 1874-1929</skos:altLabel>
-    <skos:altLabel>Hofmannsthal-Schnitzler, ... 1874-1929</skos:altLabel>
-    <skos:altLabel>Hofmann von Hofmannsthal, Hugo von 1874-1929</skos:altLabel>
-    <skos:altLabel>Hoffmannsthal, Hugo von, 1874-1929</skos:altLabel>
-    <skos:altLabel>フーゴ・フォン・ホーフマンスタール 1874-1929</skos:altLabel>
-    <skos:altLabel>Hofmannsthal, Hugo 1874-1929</skos:altLabel>
-    <skos:altLabel>Hofmannstal, Hugo von 1874-1929</skos:altLabel>
-    <skos:altLabel>Hofumansutāru, ... 1874-1929</skos:altLabel>
-    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
-    <skos:altLabel>Melikow, Loris 1874-1929 Pseudonym</skos:altLabel>
-    <skos:altLabel>Hofmannsthal, Hugo von H. 1874-1929</skos:altLabel>
-    <skos:altLabel>Hofmannsthal, Hugo H. von 1874-1929</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
-    <skos:altLabel>Hofmansthal, Hugo von, 1874-1929</skos:altLabel>
-    <skos:altLabel>Morren, Theophil 1874-1929 Pseudonym</skos:altLabel>
-    <skos:altLabel>Hofmanstal, Hugo fon 1874-1929</skos:altLabel>
-    <skos:altLabel>Hofmann, Hugo Laurenz August 1874-1929</skos:altLabel>
-    <skos:altLabel>Chofmanstal, Chugo von 1874-1929</skos:altLabel>
-    <skos:altLabel>Loris 1874-1929 Pseudonym</skos:altLabel>
-    <skos:altLabel>Hoffmann von Hofmannsthal, Hugo 1874-1929</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca21096028#skos:Concept">
-    <skos:altLabel>Hofmannsthal, Hugo v.</skos:altLabel>
-    <skos:altLabel>Hoffmannsthal, H. v.</skos:altLabel>
-    <skos:altLabel>Hofmannsthal, Hugo.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Gofmanstal', Gugo.</skos:altLabel>
-    <skos:altLabel>Hofmannsthal, George.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
-    <skos:altLabel>Morren, Theophil.</skos:altLabel>
-    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <skos:altLabel>Hofmannsthal.</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0013337#skos:Concept">
-    <skos:altLabel>Hofmann, Hugo, 1874-1929</skos:altLabel>
-    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
-    <skos:altLabel>von Hofmannsthal, Hugo, 1874-1929</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Loris, 1874-1929</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
-    <skos:altLabel>Morren, Théophil, 1874-1929</skos:altLabel>
-    <skos:altLabel>Hoffmannsthal, Hugo von, 1874-1929</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CHugo_von_Hofmannsthal#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <skos:prefLabel>Hofmannsthal, Hugo von</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000171697#skos:Concept">
-    <skos:altLabel>הופמנסתל, הוגו פון</skos:altLabel>
-    <skos:altLabel>Morren, Théophil, 1874-1929</skos:altLabel>
+    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
     <skos:altLabel>Hoffmannsthal, Hugo von, 1874-1929</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <skos:altLabel>Morren, Théophil, 1874-1929</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
     <skos:altLabel>Hofmannsthal, Hugo Hofmann, Edler von, 1874-1929</skos:altLabel>
     <skos:altLabel>Хофмансталь, Хуго фон, 1874-1929</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
+    <skos:altLabel>הופמנסתל, הוגו פון</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0055D9004#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79072867#skos:Concept">
+    <skos:altLabel>Hofmann, Hugo, 1874-1929</skos:altLabel>
+    <skos:altLabel>Chophmanstal, Ounko phon, 1874-1929</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Hofmannstahl, Hugo von, 1874-1929</skos:altLabel>
+    <skos:altLabel>von Hofmannsthal, Hugo, 1874-1929</skos:altLabel>
+    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <skos:altLabel>Hofmansthal, Hugo von, 1874-1929</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Morren, Théophil, 1874-1929</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79072867"/>
+    <skos:altLabel>Hoffmannsthal, Hugo von, 1874-1929</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C207224#skos:Concept">
+    <skos:altLabel>von Hofmannsthal, Hugo, 1874-1929</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/207224#concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/103209512">
+    <foaf:name>von Hofmannsthal, Hugo, 1874-1929</foaf:name>
+    <foaf:name>Hofmannsthals, Hugo von, 1874-1929</foaf:name>
+    <foaf:name>Гофмансталь, Гуго фон, 1874-1929</foaf:name>
+    <foaf:name>Melikow, Loris</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/242243942"/>
+    <foaf:name>フーゴ・フォン・ホーフマンスタール 1874-1929</foaf:name>
+    <foaf:name>Morren, Theophil 1874-1929 Pseudonym</foaf:name>
+    <foaf:name>הופמנסטל, הוגו פון, 1874-1929</foaf:name>
+    <foaf:name>Hofmannsthal, George.</foaf:name>
+    <foaf:name>Hofmannsthal, Hugo.</foaf:name>
+    <foaf:name>Hoffmann von Hofmannsthal, Hugo 1874-1929</foaf:name>
+    <foaf:name>Hofmannsthal, Hugo von 1874-1929</foaf:name>
+    <foaf:name>Hofmanstal, Hugo fon 1874-1929</foaf:name>
+    <foaf:name>Hofmann, Hugo, 1874-1929</foaf:name>
+    <foaf:name>Hofmannsthal.</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118552759"/>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/242243942"/>
+    <foaf:name>Hofmannsthal, Hugo Hofmann, Edler von, 1874-1929</foaf:name>
+    <foaf:name>Melikow, Loris 1874-1929 Pseudonym</foaf:name>
+    <foaf:name>Hofmannthal, Hugo von 1874-1929</foaf:name>
+    <foaf:name>Hoffmannsthal, Hugo von</foaf:name>
+    <rdaGr2:dateOfDeath>1929-07-15</rdaGr2:dateOfDeath>
+    <foaf:name>Melikow, Loris, 1874-1929</foaf:name>
+    <foaf:name>Hofmannsthal, Hugo H. von 1874-1929</foaf:name>
+    <foaf:name>Hofmannsthal, Hugo v.</foaf:name>
+    <foaf:name>Morren, Théophil, 1874-1929</foaf:name>
+    <foaf:name>Gofmanstal', Gugo.</foaf:name>
+    <foaf:name>Hofmannsthal-Schnitzler, ... 1874-1929</foaf:name>
+    <foaf:name>Хофмансталь, Хуго фон, 1874-1929</foaf:name>
+    <foaf:name>Hofmannsthal Hugo de 1874-1929</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Hofumansutāru, ... 1874-1929</foaf:name>
+    <foaf:name>Chofmanstal, Chugo von 1874-1929</foaf:name>
+    <foaf:name>Hofmannsthal, Hugo von H. 1874-1929</foaf:name>
+    <foaf:name>Hofmannstahl, Hugo von, 1874-1929</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Hoffmansthal, Hugo von 1874-1929</foaf:name>
+    <foaf:name>Hofmansthal, Hugo von, 1874-1929</foaf:name>
+    <foaf:name>Hofmannsthal, Hugo von</foaf:name>
+    <foaf:name>Loris, pseudonyme</foaf:name>
+    <rdaGr2:dateOfBirth>1874-02-01</rdaGr2:dateOfBirth>
+    <foaf:name>Loris, 1874-1929</foaf:name>
+    <foaf:name>הופמנסתל, הוגו פון</foaf:name>
+    <foaf:name>Hofsmantāls, Hugo fon, 1874-1929</foaf:name>
+    <foaf:name>Loris Melikow</foaf:name>
+    <foaf:name>Hofmannsthal, Hugo, 1874-1929</foaf:name>
+    <foaf:name>Hoffmannsthal, Hugo von, 1874-1929</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/026923483/id"/>
+    <foaf:name>Chophmanstal, Ounko phon, 1874-1929</foaf:name>
+    <foaf:name>Hofmann, Hugo Laurenz August 1874-1929</foaf:name>
+    <foaf:name>Morren, Theophil.</foaf:name>
+    <foaf:name>Hoffmannsthal, H. v.</foaf:name>
+    <foaf:name>Loris 1874-1929 Pseudonym</foaf:name>
+    <foaf:name>Hofmann von Hofmannsthal, Hugo von 1874-1929</foaf:name>
+    <foaf:name>Hofmannstaal, Hugo von 1874-1929</foaf:name>
+    <foaf:name>Hofmannstal, Hugo von 1874-1929</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/207224"/>
+    <foaf:name>Hofmannsthal, Hugo H. von</foaf:name>
+    <foaf:name>ホフマンスタール, フーゴー・フォン</foaf:name>
+    <foaf:name>ホーフマンスタール</foaf:name>
+    <foaf:name>Von Hofmannsthal, Hugo</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hugo_von_Hofmannsthal"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb119076366#foaf:Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118552759#skos:Concept">
+    <skos:altLabel>Hofmanstal, Hugo fon 1874-1929</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Hoffmann von Hofmannsthal, Hugo 1874-1929</skos:altLabel>
+    <skos:altLabel>Hofmansthal, Hugo von, 1874-1929</skos:altLabel>
+    <skos:altLabel>Hoffmansthal, Hugo von 1874-1929</skos:altLabel>
+    <skos:altLabel>Morren, Theophil 1874-1929 Pseudonym</skos:altLabel>
+    <skos:altLabel>Hofmannsthal, Hugo von H. 1874-1929</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Chofmanstal, Chugo von 1874-1929</skos:altLabel>
+    <skos:altLabel>Hofumansutāru, ... 1874-1929</skos:altLabel>
+    <skos:altLabel>Hofmann, Hugo Laurenz August 1874-1929</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <skos:altLabel>Hofmannsthal-Schnitzler, ... 1874-1929</skos:altLabel>
+    <skos:altLabel>Loris 1874-1929 Pseudonym</skos:altLabel>
+    <skos:altLabel>Hofmannsthal, Hugo H. von 1874-1929</skos:altLabel>
+    <skos:altLabel>Hofmannstal, Hugo von 1874-1929</skos:altLabel>
+    <skos:altLabel>Hofmann von Hofmannsthal, Hugo von 1874-1929</skos:altLabel>
+    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
+    <skos:altLabel>Hofmannthal, Hugo von 1874-1929</skos:altLabel>
+    <skos:altLabel>Melikow, Loris 1874-1929 Pseudonym</skos:altLabel>
+    <skos:altLabel>フーゴ・フォン・ホーフマンスタール 1874-1929</skos:altLabel>
+    <skos:altLabel>Hoffmannsthal, Hugo von, 1874-1929</skos:altLabel>
+    <skos:altLabel>Hofmannsthal, Hugo, 1874-1929</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00443560#skos:Concept">
+    <skos:prefLabel>Hofmannsthal, Hugo Hofmann, Edler von, 1874-1929</skos:prefLabel>
+    <skos:altLabel>ホーフマンスタール</skos:altLabel>
+    <skos:altLabel>Hofmannsthal, Hugo von</skos:altLabel>
+    <skos:altLabel>ホフマンスタール, フーゴー・フォン</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX880078#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
     <skos:altLabel>Hofmannsthal, Hugo Hofmann, Edler von, 1874-1929</skos:altLabel>
-    <skos:altLabel>Von Hofmannsthal, Hugo</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
     <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls000080906#skos:Concept">
-    <skos:altLabel>Loris, pseudonyme</skos:altLabel>
-    <skos:prefLabel>Hofmannsthal, Hugo von</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Hofmannsthal, Hugo H. von</skos:altLabel>
-    <skos:altLabel>Melikow, Loris</skos:altLabel>
-    <skos:altLabel>Loris Melikow</skos:altLabel>
-    <skos:altLabel>Morren, Theophil.</skos:altLabel>
+    <skos:altLabel>Hofmann, Hugo, 1874-1929</skos:altLabel>
+    <skos:altLabel>Hofmannstaal, Hugo von 1874-1929</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10136152#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Morren, Théophil, 1874-1929</skos:altLabel>
+    <skos:altLabel>Hofmannstahl, Hugo von, 1874-1929</skos:altLabel>
+    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <skos:altLabel>von Hofmannsthal, Hugo, 1874-1929</skos:altLabel>
+    <skos:altLabel>Hofmann, Hugo, 1874-1929</skos:altLabel>
+    <skos:altLabel>Hoffmannsthal, Hugo von, 1874-1929</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026923483#skos:Concept">
     <skos:altLabel>Hofmansthal, Hugo von, 1874-1929</skos:altLabel>
     <skos:altLabel>Melikow, Loris, 1874-1929</skos:altLabel>
-    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
-    <skos:altLabel>Morren, Théophil, 1874-1929</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Morren, Théophil, 1874-1929</skos:altLabel>
+    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/103209512/#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca21096028#skos:Concept">
+    <skos:altLabel>Hofmannsthal, Hugo.</skos:altLabel>
+    <skos:altLabel>Hofmannsthal.</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <skos:altLabel>Morren, Theophil.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
+    <skos:altLabel>Hofmannsthal, George.</skos:altLabel>
+    <skos:altLabel>Hoffmannsthal, H. v.</skos:altLabel>
+    <skos:altLabel>Hofmannsthal, Hugo v.</skos:altLabel>
+    <skos:altLabel>Gofmanstal', Gugo.</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/103209512">
-    <foaf:name>von Hofmannsthal, Hugo, 1874-1929</foaf:name>
-    <foaf:name>Hofmannsthal-Schnitzler, ... 1874-1929</foaf:name>
-    <foaf:name>Hofmansthal, Hugo von, 1874-1929</foaf:name>
-    <foaf:name>Hofmannsthals, Hugo von, 1874-1929</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118552759"/>
-    <foaf:name>Hofmannsthal, Hugo.</foaf:name>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/242243942"/>
-    <foaf:name>Hofmannsthal, Hugo v.</foaf:name>
-    <foaf:name>Hofumansutāru, ... 1874-1929</foaf:name>
-    <foaf:name>Hofmanstal, Hugo fon 1874-1929</foaf:name>
-    <foaf:name>Loris, pseudonyme</foaf:name>
-    <foaf:name>Hofmann von Hofmannsthal, Hugo von 1874-1929</foaf:name>
-    <foaf:name>Hofmannstahl, Hugo von, 1874-1929</foaf:name>
-    <foaf:name>Hofmannsthal, Hugo 1874-1929</foaf:name>
-    <foaf:name>Hofmann, Hugo, 1874-1929</foaf:name>
-    <foaf:name>Von Hofmannsthal, Hugo</foaf:name>
-    <foaf:name>Гофмансталь, Гуго фон, 1874-1929</foaf:name>
-    <foaf:name>Hoffmannsthal, Hugo von, 1874-1929</foaf:name>
-    <foaf:name>ホフマンスタール, フーゴー・フォン</foaf:name>
-    <foaf:name>Morren, Theophil.</foaf:name>
-    <foaf:name>Loris, 1874-1929</foaf:name>
-    <foaf:name>Хофмансталь, Хуго фон, 1874-1929</foaf:name>
-    <foaf:name>Hofmann, Hugo Laurenz August 1874-1929</foaf:name>
-    <foaf:name>Hofmannsthal, Hugo Hofmann, Edler von, 1874-1929</foaf:name>
-    <foaf:name>Melikow, Loris, 1874-1929</foaf:name>
-    <foaf:name>Morren, Theophil 1874-1929 Pseudonym</foaf:name>
-    <foaf:name>Loris Melikow</foaf:name>
-    <foaf:name>הופמנסתל, הוגו פון</foaf:name>
-    <foaf:name>Hofmannstal, Hugo von 1874-1929</foaf:name>
-    <rdaGr2:dateOfBirth>1874-02-01</rdaGr2:dateOfBirth>
-    <foaf:name>フーゴ・フォン・ホーフマンスタール 1874-1929</foaf:name>
-    <foaf:name>Chophmanstal, Ounko phon, 1874-1929</foaf:name>
-    <foaf:name>Hofmannsthal, Hugo H. von</foaf:name>
-    <foaf:name>Hofmannsthal, Hugo H. von 1874-1929</foaf:name>
-    <foaf:name>Hofmannsthal, Hugo von 1874-1929</foaf:name>
-    <foaf:name>Hofmannsthal, Hugo von</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Morren, Théophil, 1874-1929</foaf:name>
-    <foaf:name>Melikow, Loris</foaf:name>
-    <foaf:name>Hofmannsthal, George.</foaf:name>
-    <foaf:name>Hofmannsthal Hugo de 1874-1929</foaf:name>
-    <foaf:name>Gofmanstal', Gugo.</foaf:name>
-    <foaf:name>Hofmannsthal.</foaf:name>
-    <foaf:name>הופמנסטל, הוגו פון, 1874-1929</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb119076366#foaf:Person"/>
-    <foaf:name>Loris 1874-1929 Pseudonym</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/207224"/>
-    <foaf:name>Hoffmannsthal, H. v.</foaf:name>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/242243942"/>
-    <foaf:name>Chofmanstal, Chugo von 1874-1929</foaf:name>
-    <foaf:name>Melikow, Loris 1874-1929 Pseudonym</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/026923483/id"/>
-    <foaf:name>Hofmannstaal, Hugo von 1874-1929</foaf:name>
-    <foaf:name>Hoffmann von Hofmannsthal, Hugo 1874-1929</foaf:name>
-    <foaf:name>Hoffmansthal, Hugo von 1874-1929</foaf:name>
-    <foaf:name>Hofmannthal, Hugo von 1874-1929</foaf:name>
-    <foaf:name>Hofmannsthal, Hugo von H. 1874-1929</foaf:name>
-    <rdaGr2:dateOfDeath>1929-07-15</rdaGr2:dateOfDeath>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hugo_von_Hofmannsthal"/>
-    <foaf:name>ホーフマンスタール</foaf:name>
-    <foaf:name>Hoffmannsthal, Hugo von</foaf:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11907636#skos:Concept">
+    <skos:altLabel>Hofmansthal, Hugo von, 1874-1929</skos:altLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb119076366"/>
+    <skos:altLabel>Hofmannstahl, Hugo von, 1874-1929</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb119076366"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:altLabel>Hofmannsthal Hugo de 1874-1929</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0055D9004#skos:Concept">
+    <skos:altLabel>Hofmannsthal, Hugo Hofmann, Edler von, 1874-1929</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
+    <skos:altLabel>Von Hofmannsthal, Hugo</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000072566#skos:Concept">
+    <skos:altLabel>Hofmannsthal, Hugo, 1874-1929</skos:altLabel>
+    <skos:altLabel>von Hofmannsthal, Hugo, 1874-1929</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
+    <skos:altLabel>Hofsmantāls, Hugo fon, 1874-1929</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++93126700#skos:Concept">
     <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
-    <skos:altLabel>Hofmannsthal.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
     <skos:altLabel>Morren, Theophil.</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Hofmannsthal.</skos:altLabel>
     <skos:altLabel>Hofmannsthal, Hugo v.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SWNL%7Cvtls000105057#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls000080906#skos:Concept">
+    <skos:altLabel>Morren, Theophil.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+    <skos:altLabel>Loris, pseudonyme</skos:altLabel>
     <skos:prefLabel>Hofmannsthal, Hugo von</skos:prefLabel>
-    <skos:altLabel>Hoffmannsthal, Hugo von</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SWNL"/>
-    <skos:altLabel>Von Hofmannsthal, Hugo</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/103209512/">
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/103209512"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00443560#skos:Concept">
-    <skos:prefLabel>Hofmannsthal, Hugo Hofmann, Edler von, 1874-1929</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>ホフマンスタール, フーゴー・フォン</skos:altLabel>
-    <skos:altLabel>Hofmannsthal, Hugo von</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
-    <skos:altLabel>ホーフマンスタール</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79072867#skos:Concept">
-    <skos:altLabel>Hofmann, Hugo, 1874-1929</skos:altLabel>
-    <skos:altLabel>Hoffmannsthal, Hugo von, 1874-1929</skos:altLabel>
-    <skos:altLabel>Hofmannstahl, Hugo von, 1874-1929</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79072867"/>
-    <skos:altLabel>von Hofmannsthal, Hugo, 1874-1929</skos:altLabel>
-    <skos:altLabel>Hofmansthal, Hugo von, 1874-1929</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Chophmanstal, Ounko phon, 1874-1929</skos:altLabel>
-    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
-    <skos:altLabel>Morren, Théophil, 1874-1929</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX880078#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
-    <skos:altLabel>Hofmann, Hugo, 1874-1929</skos:altLabel>
-    <skos:altLabel>Hofmannstaal, Hugo von 1874-1929</skos:altLabel>
-    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Hofmannsthal, Hugo Hofmann, Edler von, 1874-1929</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C207224#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
-    <skos:altLabel>von Hofmannsthal, Hugo, 1874-1929</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/207224#concept"/>
+    <skos:altLabel>Hofmannsthal, Hugo H. von</skos:altLabel>
+    <skos:altLabel>Loris Melikow</skos:altLabel>
+    <skos:altLabel>Melikow, Loris</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/103209512/#foaf:Person">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/103209512"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/103209512"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036334189#skos:Concept">
+    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:altLabel>Hoffmannsthal, Hugo von, 1874-1929</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Hofmannsthals, Hugo von, 1874-1929</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C57664#skos:Concept">
+    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/103209512/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/103209512"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0013337#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:prefLabel>Hofmannsthal, Hugo von 1874-1929</skos:prefLabel>
+    <skos:altLabel>Hofmann, Hugo, 1874-1929</skos:altLabel>
+    <skos:altLabel>Hoffmannsthal, Hugo von, 1874-1929</skos:altLabel>
+    <skos:altLabel>Morren, Théophil, 1874-1929</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>von Hofmannsthal, Hugo, 1874-1929</skos:altLabel>
+    <skos:altLabel>Loris, 1874-1929</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SWNL%7Cvtls000105057#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SWNL"/>
+    <skos:prefLabel>Hofmannsthal, Hugo von</skos:prefLabel>
+    <skos:altLabel>Von Hofmannsthal, Hugo</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/103209512"/>
+    <skos:altLabel>Hoffmannsthal, Hugo von</skos:altLabel>
   </rdf:Description>
 </rdf:RDF>

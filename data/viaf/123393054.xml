@@ -7,33 +7,33 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/123393054/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/123393054"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  <rdf:Description rdf:about="http://viaf.org/viaf/123393054">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
+    <foaf:name>Belfast Group</foaf:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/123393054/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/123393054"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/123393054/#foaf:Organization">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/123393054"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/123393054/#rdaEnt:CorporateBody">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/123393054"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn+2010040081#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/123393054"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n2010040081"/>
     <skos:prefLabel>Belfast Group</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n2010040081"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/123393054"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/123393054/#foaf:Organization">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/123393054"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/123393054/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/123393054"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/123393054">
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
-    <foaf:name>Belfast Group</foaf:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/123393054/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/123393054"/>
   </rdf:Description>
 </rdf:RDF>

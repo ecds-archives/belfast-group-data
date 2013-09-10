@@ -8,85 +8,85 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12973219#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C123512115#skos:Concept">
     <skos:prefLabel>Sommer, Piotr, 1948-....</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb129732194"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb129732194"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/101760846"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++78011186#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/101760846"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n78011186"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Ckup19940000093225#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <skos:prefLabel>Sommer, Piotr, 1948-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101760846"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca17683282#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Sommer, Piotr, 1948-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101760846"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/101760846">
     <foaf:name>Sommer, Piotr, 1948-....</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb129732194#foaf:Person"/>
+    <rdaGr2:dateOfBirth>1948</rdaGr2:dateOfBirth>
     <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/335564"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/059815566/id"/>
     <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb129732194#foaf:Person"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/059815566/id"/>
-    <rdaGr2:dateOfBirth>1948</rdaGr2:dateOfBirth>
     <owl:sameAs rdf:resource="http://d-nb.info/gnd/123512115"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Ckup19940000093225#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Sommer, Piotr, 1948-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/101760846/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/101760846"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++78011186#skos:Concept">
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n78011186"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101760846"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Sommer, Piotr, 1948-....</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++94201642#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Sommer, Piotr, 1948-....</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/101760846"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:prefLabel>Sommer, Piotr, 1948-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/101760846/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/101760846"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035848027#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Sommer, Piotr, 1948-....</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Sommer, Piotr, 1948-....</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/101760846"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C123512115#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/101760846"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C335564#skos:Concept">
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/335564#concept"/>
     <skos:prefLabel>Sommer, Piotr, 1948-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C059815566#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Sommer, Piotr, 1948-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/101760846"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/101760846/#foaf:Person">
     <owl:sameAs rdf:resource="http://viaf.org/viaf/101760846"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca17683282#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/101760846"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C059815566#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/101760846"/>
     <skos:prefLabel>Sommer, Piotr, 1948-....</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/101760846/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/101760846"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C335564#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12973219#skos:Concept">
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb129732194"/>
     <skos:prefLabel>Sommer, Piotr, 1948-....</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/101760846"/>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/335564#concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/101760846/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/101760846"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb129732194"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
   </rdf:Description>
 </rdf:RDF>

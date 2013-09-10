@@ -10,571 +10,217 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/All_or_Nothing_at_All_(album)">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Holliday">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mysteries_and_Scandals_(Season_1)">
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lena_Horne">
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Preston_Love">
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_DeViese">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Sings_the_Blues_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Please_Don't_Do_It_Here">
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ella_Fitzgerald_and_Billie_Holiday_at_Newport">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joe_Wilder">
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gloomy_Sunday">
-    <dbpprop:event rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Sings_the_Blues_(Billie_Holiday_album)">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/An_Evening_with_Billie_Holiday">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Holiday_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Who_Needs_You_(Baby)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Orleans_(film)">
-    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Songs_for_Distingu%C3%A9_Lovers">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Essential_Billie_Holiday:_Carnegie_Hall_Concert_Recorded_Live">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_in_Autumn:_The_Best_of_the_Verve_Years">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Body_and_Soul_(Billie_Holiday_album)">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bobby_Tucker">
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carmen_McRae">
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Day:_The_Complete_Billie_Holiday_on_Columbia_1933%E2%80%931944">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Eleanora_Fagan">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Velvet_Mood">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lady_Sings">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gil_Scott-Heron">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Holiday,_Billie">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Granz">
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Billie_Holiday_(album)">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Faye_Carol">
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Love_for_Sale_(song)">
-    <dbpprop:recordedBy rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Billie_Holiday">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fagan">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Stormy_Blues">
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Now_or_Never_(Billie_Holiday_song)">
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Teddy_Wilson">
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.nytimes.com/63060868659207286613">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Givin'_It_Up">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Billie's_Blues_(song)">
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Watchmen:_Music_from_the_Motion_Picture">
-    <dbpprop:extra rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fine_and_Mellow_(song)">
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Benny_Carter">
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Billie_Holiday_Sings__olitude__1">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Billie_Holiday">
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
-    <rdfs:comment xml:lang="cs">Billie Holiday, dříve také známá pod pseudonymem Lady Day byla americká jazzová zpěvačka s emotivním, dojemným hlasem. Společně se Sarah Vaughanovou a Ellou Fitzgeraldovou je označována jako jedna z největších jazzových zpěvaček všech dob.</rdfs:comment>
-    <rdfs:comment xml:lang="uk">Бі́ллі Хо́лідей — видатна афроамериканська джазова вокалістка. Будь-яку популярну пісню могла перетворити на шедевр завдяки вільній ритмічній інтерпретації, інструментальному тембру та яскравій емоційності виконання. Сиплуватий через зловживання алкоголем та наркотиками тембр її голосу не був вадою. Він ніби уособлював тендітність та беззахисність чорношкірої жінки у тодішньому американському суспільстві і разом з текстами пісень та неповторною манерою виконання творив цілісний образ.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Билли_Холидей"/>
-    <dbpprop:website rdf:resource="http://www.cmgww.com/music/holiday/"/>
-    <rdf:type rdf:resource="http://schema.org/MusicGroup"/>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/빌리_홀리데이"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <rdfs:label xml:lang="de">Billie Holiday</rdfs:label>
-    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1915-04-07</dbpprop:birthDate>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
-    <dbpedia-owl:abstract xml:lang="ko">빌리 홀리데이는 미국의 재즈가수이자 작곡가이다. 음악적 동료인 레스터 영이 지어준 'Lady Day'라는 별명을 갖고있으며, 재즈역사에서 가장 영향력있는 보컬로 평가받는다. 억양과 템포를 조절하는 새로운 보컬 형식을 창조하였으며, 무엇보다 자신의 현실을 노래에 이입하여 진심어린 감정을 표현하였다. 이에 대해 평론가 존 부시는 "미국의 팝 보컬의 예술을 영원히 바꿔놓았다" 라고 평하였다.</dbpedia-owl:abstract>
-    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Decca_Records"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <dbpedia-owl:abstract xml:lang="es">Eleanora Fagan Gough, conocida como Billie Holiday y apodada Lady Day fue una cantante estadounidense de jazz. Junto con Sarah Vaughan y Ella Fitzgerald, está considerada entre las más importantes e influyentes voces femeninas del jazz. El tema “Strange Fruit” fue considerado como la mejor canción del Siglo XX, por la revista “Time” en 1999. El valor artístico de Billie Holiday reside en su capacidad interpretativa, en su dominio del swing y en la adaptación de sus cualidades vocales al contenido de la canción. Billie Holiday transmite a sus canciones una intensidad inigualable que, en muchos casos, es fruto de una traslación de sus vivencias personales a las letras cantadas. Esta personalización de lo cantado hace que su estilo esté muy vinculado a intérpretes clásicos de blues como Bessie Smith o Ma Rainey; también está clara su deuda, confirmada por ella misma, con Louis Armstrong y, desde luego, con quien sería su principal acompañante: el saxofonista tenor y clarinetista Lester Young.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_buskers"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/VocalionRecordsArtists"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:African_American_singer-songwriters"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MusiciansFromPhiladelphia,Pennsylvania"/>
-    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Vocal_jazz"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Musicians_from_Philadelphia,_Pennsylvania"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <foaf:name xml:lang="en">Billie Holiday</foaf:name>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Billie_Holiday"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Swing_singers"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TorchSingers"/>
-    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Aladdin_Records"/>
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Sarah_Vaughan"/>
-    <dbpprop:deathPlace xml:lang="en">New York City, New York, United States</dbpprop:deathPlace>
-    <dbpedia-owl:abstract xml:lang="de">Billie Holiday zählt zu den bedeutendsten Jazzsängerinnen.</dbpedia-owl:abstract>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <dbpprop:shortDescription xml:lang="en">Jazz singer, composer</dbpprop:shortDescription>
-    <dbpedia-owl:individualisedPnd xml:lang="de">118706454</dbpedia-owl:individualisedPnd>
-    <rdfs:comment xml:lang="pt">Billie Holiday, Lady Day para os fãs, é por muitos considerada a maior de todas as cantoras do jazz.</rdfs:comment>
-    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Vocal_jazz"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
-    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Commodore_Records"/>
-    <dbpedia-owl:alias xml:lang="en">Lady Day</dbpedia-owl:alias>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Billie_Holiday"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MusiciansFromBaltimore,Maryland"/>
-    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Columbia_Records"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Torch_singers"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0dbb3"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_musical_artist"/>
-    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Bluebird_Records"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanBuskers"/>
-    <rdfs:comment xml:lang="zh">比莉·霍利戴（Billie Holiday，1915年4月7日－1959年7月17日）是美國爵士歌手及作曲家。 綽號"戴夫人" ，霍利戴是一個開創性的爵士樂及流行歌手。影評人John Bush寫道，她"永遠改變了美國流行歌唱的藝術" 。 她的聲樂風格是強烈的靈感樂，開創了一種新的方式操縱的字眼和節奏，也推廣了更個性化和親密的歌唱方式。 霍利戴被公認為20世紀最重要的爵士樂歌手之一，與艾拉·費茲潔拉（Ella J Fitzgerald) 和莎拉·沃恩（Sarah Vaughan）齊名。</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:African_American_female_singers"/>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-musician-noun-1"/>
-    <foaf:givenName xml:lang="en">Eleanora Harris</foaf:givenName>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DeccaRecordsArtists"/>
-    <dbpprop:placeOfDeath xml:lang="en">New York City, New York, U.S.</dbpprop:placeOfDeath>
-    <dbpprop:alternativeNames xml:lang="en">Fagan, Eleanora; Lady Day</dbpprop:alternativeNames>
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Lena_Horne"/>
-    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Torch_song"/>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/1/12/Billie_Holiday_0001_original.jpg"/>
-    <dbpedia-owl:instrument rdf:resource="http://dbpedia.org/resource/Singing"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1915-04-07</dbpedia-owl:birthDate>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_jazz_singers"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanJazzSingers"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/English-languAgeSingers"/>
-    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Blues"/>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1959-07-17</dbpprop:deathDate>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Sarah_Vaughan"/>
-    <rdfs:comment xml:lang="it"></rdfs:comment>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Lena_Horne"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WomenInJazz"/>
-    <dbpedia-owl:abstract xml:lang="zh">比莉·霍利戴（Billie Holiday，1915年4月7日－1959年7月17日）是美國爵士歌手及作曲家。 綽號"戴夫人" ，霍利戴是一個開創性的爵士樂及流行歌手。影評人John Bush寫道，她"永遠改變了美國流行歌唱的藝術" 。 她的聲樂風格是強烈的靈感樂，開創了一種新的方式操縱的字眼和節奏，也推廣了更個性化和親密的歌唱方式。 霍利戴被公認為20世紀最重要的爵士樂歌手之一，與艾拉·費茲潔拉（Ella J Fitzgerald) 和莎拉·沃恩（Sarah Vaughan）齊名。</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="ru">Би́лли Хо́лидей, настоящее имя Элеоно́ра Фэ́гэн — американская певица, творчество которой составляет целую эпоху в истории джаза.</rdfs:comment>
     <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/New_York"/>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Billie_Holiday"/>
-    <rdfs:comment xml:lang="pl">Billie Holiday, właściwie Elinore Harris – amerykańska śpiewaczka jazzowa; przedstawicielka "miejskiej", swingowej odmiany wokalistyki jazzowej. Przez Lestera Younga, lojalnego przyjaciela i partnera muzycznego, nazywana także Lady Day. Utwory, do których napisała teksty – m. in. "God Bless the Child", "Don't Explain" i "Lady Sings the Blues" – na przestrzeni lat stały się jazzowymi klasykami. Kiedy się urodziła, jej matka, Sadie Fagan, miała 13 lat, a ojciec, Clarence Holiday – 15.</rdfs:comment>
-    <dbpprop:name xml:lang="en">Holiday, Billie</dbpprop:name>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.jazz.com/dozens/b-holiday-dozens"/>
-    <rdfs:comment xml:lang="no">Billie Holiday, egentlig Eleanora Fagan Gough, kalt «Lady Day» var en amerikansk jazzsangerinne og låtskriver. Hun ble født i Philadelphia, men vokste opp i bydelen Falls Point i Baltimore, Maryland. Hun debuterte på obskure nattklubber i Harlem i New York tidlig i 1930-årene, og tok scenenavnet Billie Holiday. 7. februar 1954 holdt Billie Holiday konsert i Colosseum kino i Oslo.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Decca_Records_artists"/>
-    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Brunswick_Records"/>
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Carmen_McRae"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/MusicalArtist"/>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:abstract xml:lang="ja">ビリー・ホリデイ（Billie Holiday, 1915年4月7日 - 1959年7月17日）は、アメリカ合衆国の黒人女性ジャズ歌手。 「レディ・デイ」の呼称で知られる。サラ・ヴォーンやエラ・フィッツジェラルドと並んで、女性ジャズ・ヴォーカリスト御三家の1人に数えられる。人種差別や、麻薬・アルコール依存症との闘いなど壮絶な人生を送った彼女は、多くの人々を魅了したその声も晩年にはかれ、音域も極端に狭くなっていた。しかし、なお情感豊かな唄声は他に並ぶ者がないほどの高い評価を与えられ、ジャニス・ジョプリンをはじめとする多くのミュージシャンに影響を与えた。 彼女の生涯に於いて代表的なレパートリーであった「Strange Fruit」や「God Bless' the Child」、「I Love You, Porgy」、「Fine and Mellow」は、後年、多くのミュージシャンに取り上げられるジャズ・ヴォーカルの古典となった。 ジョン・ハモンドに見出され、初レコーディングはベニー・グッドマン楽団と行う。その後、テディ・ウィルソン楽団、カウント・ベイシー楽団らと共演した。特に、著名なミュージシャン達から大きな目標とされていたサックス奏者レスター・ヤングとの共演が名高い。 従兄は、プロボクサーのヘンリー・アームストロング。 2000年に、ロックの殿堂入りを果たした。</dbpedia-owl:abstract>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Billie_Holiday"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Rock_and_Roll_Hall_of_Fame_inductees"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ClassicFemaleBluEsSingers"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Philadelphia"/>
-    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Songwriter"/>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1959-07-17</dbpprop:dateOfDeath>
-    <rdfs:comment xml:lang="es">Eleanora Fagan Gough, conocida como Billie Holiday y apodada Lady Day fue una cantante estadounidense de jazz. Junto con Sarah Vaughan y Ella Fitzgerald, está considerada entre las más importantes e influyentes voces femeninas del jazz. El tema “Strange Fruit” fue considerado como la mejor canción del Siglo XX, por la revista “Time” en 1999.</rdfs:comment>
-    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Aladdin_Records"/>
-    <dbpedia-owl:abstract xml:lang="ru">Би́лли Хо́лидей, настоящее имя Элеоно́ра Фэ́гэн — американская певица, творчество которой составляет целую эпоху в истории джаза.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Classic_female_blues_singers"/>
-    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Twelve-bar_blues"/>
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Carmen_McRae"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Songwriter110624540"/>
-    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Capitol_Records"/>
-    <rdfs:label xml:lang="cs">Billie Holiday</rdfs:label>
-    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rv_haiJwpEbGdrcN5Y29ycA"/>
-    <dbpprop:background xml:lang="en">solo_singer</dbpprop:background>
-    <dbpedia-owl:abstract xml:lang="ca">Eleanora Fagan Gough (Filadelfia, 7 de abril de 1915 - Nueva York, 17 de julio de 1959), coneguda com Billie Holiday i anomenada també Lady Day, va ser una cantant nord-americana de jazz. Juntament amb Sarah Vaughan i Ella Fitzgerald, està considerada entre les més importants i influents veus femenines del jazz. El tema "Strange Fruit" va ser considerat com la millor cançó del segle XX per la revista "Time" al 1999. El valor artístic de Billie Holiday resideix en la seva capacitat interpretativa, en el seu domini del swing i en l'adaptació de les seves qualitats vocals al contingut de la cançó. Billie Holiday transmet a les seves cançons una intensitat inigualable que, en molts casos, és fruit d'una translació de les seves vivències personals a les lletres cantades. Això fa que el seu estil estigui molt vinculat a intèrprets clàssics del blues com Bessie Smith o Ma Rainey; també està clara el seu deute, confirmat per ella mateixa amb Louis Armstrong i evidentment amb qui seria el seu principal acompanyant: el saxofonista tenor i clarinetista Lester Young. La seva veu única, aspre i lírica a la vegada, portava els estigmes d'una vida dolorosa. Marcada pels seus patiments, excessiva, fràgil, Billie va trobar en el cant la poca pau i llibertat que li va ser promesa, abans de la seva mort prematura als quaranta-quatre anys. És coneguda la seva addicció als opiacis -heroïna i morfina- com la d'un (s i unes) -i tants (molts - moltes) altres- contemporanis i contemporànies seves en la història del jazz, el saxofonista Charlie Parker, també "revolucionari" en el seu camp -i gran improvisador que crearia una línia que seguirien després altres grans com ara Miles Davis, que també cauria en l'heroïna, i que actuaria a Barcelona cap els 80- (se li pot dir "cool", bebop, free-jazz, totes etiquetes per definir el free-jazz, com a "unitat"), amb qui Billie va "coincidir" al final de la seva vida.. I que temps després (seguim parlant de Charlie Parker) Julio Cortázar dibuixaria magistralment en la novel·la curta "El Perseguidor". Però tornant a Billie Holiday, objecte d'aquest article, ningú pot dubtar del seu grau de diferenciació, en positiu, entre les i els més grans del jazz. Va treballar puntualment o de forma continuada, en diferents períodes de la seva trajectòria, amb alguns d'aquests "grans", com Count Basie, Artie Shaw, Benny Goodman, Lester Young, o el productor/director d'orquestra Ray Ellis, en un moment que es pot anomenar mític en la història del jazz. Un moment clau de transició, des dels blues i swing al free-jazz.</dbpedia-owl:abstract>
-    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Columbia_Records"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1915-04-07</dbpprop:dateOfBirth>
-    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Commodore_Records"/>
-    <dbpedia-owl:abstract xml:lang="cs">Billie Holiday, dříve také známá pod pseudonymem Lady Day byla americká jazzová zpěvačka s emotivním, dojemným hlasem. Společně se Sarah Vaughanovou a Ellou Fitzgeraldovou je označována jako jedna z největších jazzových zpěvaček všech dob.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="no">Billie Holiday, egentlig Eleanora Fagan Gough, kalt «Lady Day» var en amerikansk jazzsangerinne og låtskriver. Hun ble født i Philadelphia, men vokste opp i bydelen Falls Point i Baltimore, Maryland. Hun debuterte på obskure nattklubber i Harlem i New York tidlig i 1930-årene, og tok scenenavnet Billie Holiday. 7. februar 1954 holdt Billie Holiday konsert i Colosseum kino i Oslo.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="en">For the Canadian radio personality with the same name, see Billie Holiday (broadcaster) Billie Holiday Portrait from Down Beat magazine, ca. February 1947Portrait from Down Beat magazine, ca. February 1947Background informationBirth name Eleanora HarrisAlso known as Lady DayBorn (1915-04-07)April 7, 1915Philadelphia, Pennsylvania, United StatesOrigin Harlem, New York, United StatesDied July 17, 1959(1959-07-17) (aged 44)New York City, New York, United StatesGenres Vocal jazz, jazz blues, torch songs, swing, bluesOccupations Singer, songwriter, actressInstruments VocalsYears active 1933–1959Labels Brunswick, Vocalion, Okeh, Bluebird, Commodore, Capitol, Decca, Aladdin, Verve, Columbia, MGMAssociated acts Ella Fitzgerald, Sarah Vaughan, Lena Horne, Carmen McRaeWebsite Billie Holiday Official Site Billie Holiday (born Eleanora Harris April 7, 1915 – July 17, 1959) was an American jazz singer and songwriter. Nicknamed "Lady Day" by her friend and musical partner Lester Young, Holiday had a seminal influence on jazz and pop singing. Her vocal style, strongly inspired by jazz instrumentalists, pioneered a new way of manipulating phrasing and tempo. Critic John Bush wrote that Holiday "changed the art of American pop vocals forever. " She co-wrote only a few songs, but several of them have become jazz standards, notably "God Bless the Child", "Don't Explain", "Fine and Mellow", and "Lady Sings the Blues". She also became famous for singing "Easy Living", "Good Morning Heartache", and "Strange Fruit", a protest song which became one of her standards and was made famous with her 1939 recording.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Musicians_from_Baltimore,_Maryland"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.billie-holiday.net/"/>
-    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Swing_music"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Okeh_Records"/>
-    <rdfs:comment xml:lang="ja">ビリー・ホリデイ（Billie Holiday, 1915年4月7日 - 1959年7月17日）は、アメリカ合衆国の黒人女性ジャズ歌手。 「レディ・デイ」の呼称で知られる。サラ・ヴォーンやエラ・フィッツジェラルドと並んで、女性ジャズ・ヴォーカリスト御三家の1人に数えられる。人種差別や、麻薬・アルコール依存症との闘いなど壮絶な人生を送った彼女は、多くの人々を魅了したその声も晩年にはかれ、音域も極端に狭くなっていた。しかし、なお情感豊かな唄声は他に並ぶ者がないほどの高い評価を与えられ、ジャニス・ジョプリンをはじめとする多くのミュージシャンに影響を与えた。 彼女の生涯に於いて代表的なレパートリーであった「Strange Fruit」や「God Bless' the Child」、「I Love You, Porgy」、「Fine and Mellow」は、後年、多くのミュージシャンに取り上げられるジャズ・ヴォーカルの古典となった。 ジョン・ハモンドに見出され、初レコーディングはベニー・グッドマン楽団と行う。その後、テディ・ウィルソン楽団、カウント・ベイシー楽団らと共演した。特に、著名なミュージシャン達から大きな目標とされていたサックス奏者レスター・ヤングとの共演が名高い。 従兄は、プロボクサーのヘンリー・アームストロング。 2000年に、ロックの殿堂入りを果たした。</rdfs:comment>
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Sarah_Vaughan"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TraditionalPopMusicSingers"/>
-    <dbpedia-owl:abstract xml:lang="sv">Billie Holiday, eg. Eleanora Fagan Gough, även känd som "Lady Day", född 7 april 1915 i Philadelphia, Pennsylvania, död 17 juli 1959 i New York City, New York, var en amerikansk jazzsångerska och låtskrivare.</dbpedia-owl:abstract>
-    <dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1933-01-01T00:00:00+02:00</dbpedia-owl:activeYearsStartYear>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Composer109947232"/>
-    <rdfs:comment xml:lang="ca">Eleanora Fagan Gough (Filadelfia, 7 de abril de 1915 - Nueva York, 17 de julio de 1959), coneguda com Billie Holiday i anomenada també Lady Day, va ser una cantant nord-americana de jazz. Juntament amb Sarah Vaughan i Ella Fitzgerald, està considerada entre les més importants i influents veus femenines del jazz. El tema "Strange Fruit" va ser considerat com la millor cançó del segle XX per la revista "Time" al 1999.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Grammy_Lifetime_Achievement_Award_winners"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_cirrhosis"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Musicians_from_Philadelphia,_Pennsylvania"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanJazzSingers"/>
+    <rdfs:comment xml:lang="zh">比莉·霍利戴（Billie Holiday，1915年4月7日－1959年7月17日）是美國爵士歌手及作曲家。 綽號"戴夫人" ，霍利戴是一個開創性的爵士樂及流行歌手。影評人John Bush寫道，她"永遠改變了美國流行歌唱的藝術" 。 她的聲樂風格是強烈的靈感樂，開創了一種新的方式操縱的字眼和節奏，也推廣了更個性化和親密的歌唱方式。 霍利戴被公認為20世紀最重要的爵士樂歌手之一，與艾拉·費茲潔拉（Ella J Fitzgerald) 和莎拉·沃恩（Sarah Vaughan）齊名。</rdfs:comment>
     <dbpprop:label rdf:resource="http://dbpedia.org/resource/Brunswick_Records"/>
-    <dbpprop:birthName xml:lang="en">Eleanora Harris</dbpprop:birthName>
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Lena_Horne"/>
-    <dbpedia-owl:abstract xml:lang="hu">Billie Holiday az első híres jazz énekesnő, aki hangjával visszaadta a klasszikus blues erejét, az erőt, amivel mindenkihez szólt. Nehéz hozzá hasonló személyiséget találni, hiszen neve mellett talán csak Bessie Smith és Ma Rainey kerül szóba.</dbpedia-owl:abstract>
-    <dbpedia-owl:background xml:lang="en">solo_singer</dbpedia-owl:background>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.sorabji.com/pictures/cemeteries/Saint_Raymonds/DSCN0556.JPG.html"/>
-    <rdfs:comment xml:lang="en">For the Canadian radio personality with the same name, see Billie Holiday (broadcaster) Billie Holiday Portrait from Down Beat magazine, ca. February 1947Portrait from Down Beat magazine, ca.</rdfs:comment>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <rdfs:comment xml:lang="hu">Billie Holiday az első híres jazz énekesnő, aki hangjával visszaadta a klasszikus blues erejét, az erőt, amivel mindenkihez szólt. Nehéz hozzá hasonló személyiséget találni, hiszen neve mellett talán csak Bessie Smith és Ma Rainey kerül szóba.</rdfs:comment>
-    <rdfs:label xml:lang="zh">比莉·霍利戴</rdfs:label>
-    <dbpprop:yearsActive rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1933</dbpprop:yearsActive>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Carmen_McRae"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.billieholiday.be/"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/MusicalPerformer"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Vocalion_Records_artists"/>
-    <dc:description xml:lang="en">Jazz singer, composer</dc:description>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Traditional_pop_music_singers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Blues_Hall_of_Fame_inductees"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SwingSingers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1915_births"/>
-    <rdfs:comment xml:lang="de">Billie Holiday zählt zu den bedeutendsten Jazzsängerinnen.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Columbia_Records_artists"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1959-07-17</dbpprop:dateOfDeath>
+    <dbpedia-owl:abstract xml:lang="ca">Eleanora Fagan Gough (Filadelfia, 7 de abril de 1915 - Nueva York, 17 de julio de 1959), coneguda com Billie Holiday i anomenada també Lady Day, va ser una cantant nord-americana de jazz. Juntament amb Sarah Vaughan i Ella Fitzgerald, està considerada entre les més importants i influents veus femenines del jazz. El tema "Strange Fruit" va ser considerat com la millor cançó del segle XX per la revista "Time" al 1999. El valor artístic de Billie Holiday resideix en la seva capacitat interpretativa, en el seu domini del swing i en l'adaptació de les seves qualitats vocals al contingut de la cançó. Billie Holiday transmet a les seves cançons una intensitat inigualable que, en molts casos, és fruit d'una translació de les seves vivències personals a les lletres cantades. Això fa que el seu estil estigui molt vinculat a intèrprets clàssics del blues com Bessie Smith o Ma Rainey; també està clara el seu deute, confirmat per ella mateixa amb Louis Armstrong i evidentment amb qui seria el seu principal acompanyant: el saxofonista tenor i clarinetista Lester Young. La seva veu única, aspre i lírica a la vegada, portava els estigmes d'una vida dolorosa. Marcada pels seus patiments, excessiva, fràgil, Billie va trobar en el cant la poca pau i llibertat que li va ser promesa, abans de la seva mort prematura als quaranta-quatre anys. És coneguda la seva addicció als opiacis -heroïna i morfina- com la d'un (s i unes) -i tants (molts - moltes) altres- contemporanis i contemporànies seves en la història del jazz, el saxofonista Charlie Parker, també "revolucionari" en el seu camp -i gran improvisador que crearia una línia que seguirien després altres grans com ara Miles Davis, que també cauria en l'heroïna, i que actuaria a Barcelona cap els 80- (se li pot dir "cool", bebop, free-jazz, totes etiquetes per definir el free-jazz, com a "unitat"), amb qui Billie va "coincidir" al final de la seva vida.. I que temps després (seguim parlant de Charlie Parker) Julio Cortázar dibuixaria magistralment en la novel·la curta "El Perseguidor". Però tornant a Billie Holiday, objecte d'aquest article, ningú pot dubtar del seu grau de diferenciació, en positiu, entre les i els més grans del jazz. Va treballar puntualment o de forma continuada, en diferents períodes de la seva trajectòria, amb alguns d'aquests "grans", com Count Basie, Artie Shaw, Benny Goodman, Lester Young, o el productor/director d'orquestra Ray Ellis, en un moment que es pot anomenar mític en la història del jazz. Un moment clau de transició, des dels blues i swing al free-jazz.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanBuskers"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/ColumbiaRecordsArtists"/>
-    <dbpedia-owl:abstract xml:lang="nl">Billie Holiday, werkelijke naam: Eleanora Fagan Gough wordt algemeen beschouwd als een van de belangrijkste en invloedrijkste Amerikaanse jazz-zangeressen. Zij werd, behalve als Billie Holiday, ook bekend onder de bijnaam Lady Day die tenorsaxofonist Lester Young haar had gegeven. Holiday, op haar beurt, was verantwoordelijk voor Youngs bijnaam Pres of Prez (afkorting van President).</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="sv">Billie Holiday, eg. Eleanora Fagan Gough, även känd som "Lady Day", född 7 april 1915 i Philadelphia, Pennsylvania, död 17 juli 1959 i New York City, New York, var en amerikansk jazzsångerska och låtskrivare.</rdfs:comment>
-    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Okeh_Records"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
-    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Decca_Records"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cmgww.com/music/holiday/"/>
-    <dbpprop:origin xml:lang="en">Harlem, New York, United States</dbpprop:origin>
-    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Swing_music"/>
-    <rdfs:label xml:lang="en">Billie Holiday</rdfs:label>
-    <dbpprop:caption xml:lang="en">Portrait from Down Beat magazine, ca. February 1947</dbpprop:caption>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1959_deaths"/>
-    <rdfs:comment xml:lang="fr">Billie Holiday, de son vrai nom Eleanora Fagan, née à Baltimore le 7 avril 1915 et morte à New York le 17 juillet 1959, est une chanteuse de jazz américaine considérée comme l'une des plus grandes chanteuses que le jazz ait connu.</rdfs:comment>
-    <dbpprop:name xml:lang="en">Billie Holiday</dbpprop:name>
-    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Μπίλι_Χόλιντεϊ"/>
-    <foaf:surname xml:lang="en">Holiday</foaf:surname>
-    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Twelve-bar_blues"/>
-    <dbpedia-owl:abstract xml:lang="fr">Billie Holiday, de son vrai nom Eleanora Fagan, née à Baltimore le 7 avril 1915 et morte à New York le 17 juillet 1959, est une chanteuse de jazz américaine considérée comme l'une des plus grandes chanteuses que le jazz ait connu.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Torch_song"/>
-    <dbpprop:alias xml:lang="en">Lady Day</dbpprop:alias>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Female_jazz_musicians"/>
-    <dbpprop:instrument rdf:resource="http://dbpedia.org/resource/Singing"/>
-    <dbpedia-owl:abstract xml:lang="fi">Billie Holiday, joka tunnetaan myös saksofonisti Lester Youngin hänelle antamalla nimellä Lady Day, oli yhdysvaltalainen laulaja, jota edelleen pidetään yhtenä kaikkien aikojen parhaista jazz-solisteista.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ビリー・ホリデイ"/>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Billie_Holiday?oldid=495559682"/>
-    <dbpprop:label rdf:resource="http://dbpedia.org/resource/MGM_Records"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <dbpprop:placeOfBirth xml:lang="en">Philadelphia, Pennsylvania, U.S.</dbpprop:placeOfBirth>
-    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Vocalion_Records"/>
-    <rdfs:label xml:lang="uk">Біллі Холідей</rdfs:label>
-    <rdfs:comment xml:lang="nl">Billie Holiday, werkelijke naam: Eleanora Fagan Gough wordt algemeen beschouwd als een van de belangrijkste en invloedrijkste Amerikaanse jazz-zangeressen. Zij werd, behalve als Billie Holiday, ook bekend onder de bijnaam Lady Day die tenorsaxofonist Lester Young haar had gegeven. Holiday, op haar beurt, was verantwoordelijk voor Youngs bijnaam Pres of Prez (afkorting van President).</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="uk">Бі́ллі Хо́лідей — видатна афроамериканська джазова вокалістка. Будь-яку популярну пісню могла перетворити на шедевр завдяки вільній ритмічній інтерпретації, інструментальному тембру та яскравій емоційності виконання. Сиплуватий через зловживання алкоголем та наркотиками тембр її голосу не був вадою. Він ніби уособлював тендітність та беззахисність чорношкірої жінки у тодішньому американському суспільстві і разом з текстами пісень та неповторною манерою виконання творив цілісний образ. Кожна пісня Біллі Холідей ставала особистою сповіддю, попри те, що співачка не була автором слів і до неї ці тексти побували в репертуарі десятків інших виконавців. Ім'я «Біллі» Елеонора запозичила у популярної акторки Біллі Доув, котрою захоплювалася в підлітковому віці. Для сцени переробила прізвище батька (Hallyday). Від відомого джазмена і свого коханого чоловіка Лестера Янга Біллі отримала прізвисько «Lady Day».</dbpedia-owl:abstract>
-    <rdfs:label xml:lang="ca">Billie Holiday</rdfs:label>
-    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Capitol_Records"/>
-    <dbpedia-owl:abstract xml:lang="pl">Billie Holiday, właściwie Elinore Harris – amerykańska śpiewaczka jazzowa; przedstawicielka "miejskiej", swingowej odmiany wokalistyki jazzowej. Przez Lestera Younga, lojalnego przyjaciela i partnera muzycznego, nazywana także Lady Day. Utwory, do których napisała teksty – m. in. "God Bless the Child", "Don't Explain" i "Lady Sings the Blues" – na przestrzeni lat stały się jazzowymi klasykami. Kiedy się urodziła, jej matka, Sadie Fagan, miała 13 lat, a ojciec, Clarence Holiday – 15. W wieku 10 lat przyznała się, że została zgwałcona. W 1926 dostała się do katolickiego domu poprawczego, z którego później uciekła. Po przeprowadzce wraz z matką do Nowego Jorku, dostała pracę jako wokalistka w jednym z klubów Harlemu, co spowodowało, że zaczęła poświęcać muzyce coraz więcej uwagi. W 1933 została dostrzeżona przez Johna Hammonda, który pomógł jej w nagraniu pierwszych utworów. Od 1935 współpracowała z grupą Teddy'ego Wilsona, w 1937 została wokalistką big bandu Counta Basiego, a w 1938 dołączyła do grupy Artiego Shawa. W międzyczasie śpiewała też u boku takich artystów jak: Ben Webster, Johnny Hodges, Bunny Berigan, Roy Eldridge i Lester Young. W roku 1943 została wybrana w ankiecie magazynu Esquire "najlepszą wokalistką", przed Mildred Bailey i Ellą Fitzgerald. Uzależnienie od alkoholu i narkotyków stały się przyczyną narastających kłopotów zdrowotnych. Była również kilkakrotnie aresztowana za posiadanie narkotyków, a wyrok za ich zażywanie łączył się także z odebraniem pozwolenia na występy na żywo. W maju 1958 roku trafiła do szpitala z powodu dolegliwości serca i marskości wątroby, która stała się również przyczyną jej śmierci 17 lipca 1959. Była osobą biseksualną. Billie Holiday nagrała ponad 350 płyt, w tym około 70 z Teddym Wilsonem i Lesterm Youngiem. Spopularyzowała pieśń Strange Fruit, protest przeciwko dyskryminacji rasowej mówiący o ciele zlinczowanego murzyna zwisającym z drzewa. W 2000 Billie Holiday została wprowadzona do Rock and Roll Hall of Fame.</dbpedia-owl:abstract>
-    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Verve_Records"/>
-    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Blues"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pbs.org/jazz/biography/artist_id_holiday_billie.htm"/>
-    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Bluebird_Records"/>
-    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Singing"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Vocalion_Records_artists"/>
     <rdfs:comment xml:lang="ko">빌리 홀리데이는 미국의 재즈가수이자 작곡가이다. 음악적 동료인 레스터 영이 지어준 'Lady Day'라는 별명을 갖고있으며, 재즈역사에서 가장 영향력있는 보컬로 평가받는다. 억양과 템포를 조절하는 새로운 보컬 형식을 창조하였으며, 무엇보다 자신의 현실을 노래에 이입하여 진심어린 감정을 표현하였다. 이에 대해 평론가 존 부시는 "미국의 팝 보컬의 예술을 영원히 바꿔놓았다" 라고 평하였다.</rdfs:comment>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Billie_Holiday_0001_original.jpg/200px-Billie_Holiday_0001_original.jpg"/>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Billie_Holiday"/>
+    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Capitol_Records"/>
+    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Decca_Records"/>
+    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Aladdin_Records"/>
+    <dbpprop:name xml:lang="en">Holiday, Billie</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MusiciansFromBaltimore,Maryland"/>
+    <rdfs:comment xml:lang="pl">Billie Holiday, właściwie Elinore Harris – amerykańska śpiewaczka jazzowa; przedstawicielka "miejskiej", swingowej odmiany wokalistyki jazzowej. Przez Lestera Younga, lojalnego przyjaciela i partnera muzycznego, nazywana także Lady Day. Utwory, do których napisała teksty – m. in. "God Bless the Child", "Don't Explain" i "Lady Sings the Blues" – na przestrzeni lat stały się jazzowymi klasykami. Kiedy się urodziła, jej matka, Sadie Fagan, miała 13 lat, a ojciec, Clarence Holiday – 15.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Billie Holiday, de son vrai nom Eleanora Fagan, née à Baltimore le 7 avril 1915 et morte à New York le 17 juillet 1959, est une chanteuse de jazz américaine considérée comme l'une des plus grandes chanteuses que le jazz ait connu.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Billie_Holiday"/>
+    <rdfs:comment xml:lang="es">Eleanora Fagan Gough, conocida como Billie Holiday y apodada Lady Day fue una cantante estadounidense de jazz. Junto con Sarah Vaughan y Ella Fitzgerald, está considerada entre las más importantes e influyentes voces femeninas del jazz. El tema “Strange Fruit” fue considerado como la mejor canción del Siglo XX, por la revista “Time” en 1999.</rdfs:comment>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Billie_Holiday"/>
     <dbpedia-owl:abstract xml:lang="pt">Billie Holiday, Lady Day para os fãs, é por muitos considerada a maior de todas as cantoras do jazz.</dbpedia-owl:abstract>
-    <foaf:homepage rdf:resource="http://www.cmgww.com/music/holiday/"/>
     <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/MGM_Records"/>
-    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Vocalion_Records"/>
-    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/United_States"/>
-    <foaf:givenName xml:lang="en">Billie</foaf:givenName>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Philadelphia"/>
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Ella_Fitzgerald"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Billie_Holiday"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1959_deaths"/>
+    <dbpedia-owl:abstract xml:lang="ru">Би́лли Хо́лидей, настоящее имя Элеоно́ра Фэ́гэн — американская певица, творчество которой составляет целую эпоху в истории джаза.</dbpedia-owl:abstract>
+    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Columbia_Records"/>
     <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1959-07-17</dbpedia-owl:deathDate>
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Ella_Fitzgerald"/>
+    <rdfs:comment xml:lang="no">Billie Holiday, egentlig Eleanora Fagan Gough, kalt «Lady Day» var en amerikansk jazzsangerinne og låtskriver. Hun ble født i Philadelphia, men vokste opp i bydelen Falls Point i Baltimore, Maryland. Hun debuterte på obskure nattklubber i Harlem i New York tidlig i 1930-årene, og tok scenenavnet Billie Holiday. 7. februar 1954 holdt Billie Holiday konsert i Colosseum kino i Oslo.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="no">Billie Holiday, egentlig Eleanora Fagan Gough, kalt «Lady Day» var en amerikansk jazzsangerinne og låtskriver. Hun ble født i Philadelphia, men vokste opp i bydelen Falls Point i Baltimore, Maryland. Hun debuterte på obskure nattklubber i Harlem i New York tidlig i 1930-årene, og tok scenenavnet Billie Holiday. 7. februar 1954 holdt Billie Holiday konsert i Colosseum kino i Oslo.</dbpedia-owl:abstract>
     <rdfs:comment xml:lang="fi">Billie Holiday, joka tunnetaan myös saksofonisti Lester Youngin hänelle antamalla nimellä Lady Day, oli yhdysvaltalainen laulaja, jota edelleen pidetään yhtenä kaikkien aikojen parhaista jazz-solisteista.</rdfs:comment>
-    <dbpprop:occupation xml:lang="en">Singer, songwriter, actress</dbpprop:occupation>
-    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Harlem"/>
+    <rdfs:comment xml:lang="nl">Billie Holiday, werkelijke naam: Eleanora Fagan Gough wordt algemeen beschouwd als een van de belangrijkste en invloedrijkste Amerikaanse jazz-zangeressen. Zij werd, behalve als Billie Holiday, ook bekend onder de bijnaam Lady Day die tenorsaxofonist Lester Young haar had gegeven. Holiday, op haar beurt, was verantwoordelijk voor Youngs bijnaam Pres of Prez (afkorting van President).</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:African_American_female_singers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_cirrhosis"/>
+    <rdfs:comment xml:lang="ca">Eleanora Fagan Gough (Filadelfia, 7 de abril de 1915 - Nueva York, 17 de julio de 1959), coneguda com Billie Holiday i anomenada també Lady Day, va ser una cantant nord-americana de jazz. Juntament amb Sarah Vaughan i Ella Fitzgerald, està considerada entre les més importants i influents veus femenines del jazz. El tema "Strange Fruit" va ser considerat com la millor cançó del segle XX per la revista "Time" al 1999.</rdfs:comment>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Billie_Holiday"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/English-languAgeSingers"/>
+    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Twelve-bar_blues"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118706454</dbpedia-owl:individualisedPnd>
     <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Ella_Fitzgerald"/>
-    <dbpedia-owl:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1959-01-01T00:00:00+02:00</dbpedia-owl:activeYearsEndYear>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AfricanAmericanFemaleSingers"/>
+    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Verve_Records"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <rdfs:comment xml:lang="pt">Billie Holiday, Lady Day para os fãs, é por muitos considerada a maior de todas as cantoras do jazz.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Torch_singers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Columbia_Records_artists"/>
+    <dbpprop:instrument rdf:resource="http://dbpedia.org/resource/Singing"/>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rv_haiJwpEbGdrcN5Y29ycA"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Billie_Holiday"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:abstract xml:lang="hu">Billie Holiday az első híres jazz énekesnő, aki hangjával visszaadta a klasszikus blues erejét, az erőt, amivel mindenkihez szólt. Nehéz hozzá hasonló személyiséget találni, hiszen neve mellett talán csak Bessie Smith és Ma Rainey kerül szóba.</dbpedia-owl:abstract>
+    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Swing_music"/>
+    <dbpedia-owl:abstract xml:lang="ko">빌리 홀리데이는 미국의 재즈가수이자 작곡가이다. 음악적 동료인 레스터 영이 지어준 'Lady Day'라는 별명을 갖고있으며, 재즈역사에서 가장 영향력있는 보컬로 평가받는다. 억양과 템포를 조절하는 새로운 보컬 형식을 창조하였으며, 무엇보다 자신의 현실을 노래에 이입하여 진심어린 감정을 표현하였다. 이에 대해 평론가 존 부시는 "미국의 팝 보컬의 예술을 영원히 바꿔놓았다" 라고 평하였다.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Billie_Holiday"/>
+    <dbpedia-owl:abstract xml:lang="de">Billie Holiday zählt zu den bedeutendsten Jazzsängerinnen.</dbpedia-owl:abstract>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Billie_Holiday"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Carmen_McRae"/>
+    <dbpedia-owl:abstract xml:lang="zh">比莉·霍利戴（Billie Holiday，1915年4月7日－1959年7月17日）是美國爵士歌手及作曲家。 綽號"戴夫人" ，霍利戴是一個開創性的爵士樂及流行歌手。影評人John Bush寫道，她"永遠改變了美國流行歌唱的藝術" 。 她的聲樂風格是強烈的靈感樂，開創了一種新的方式操縱的字眼和節奏，也推廣了更個性化和親密的歌唱方式。 霍利戴被公認為20世紀最重要的爵士樂歌手之一，與艾拉·費茲潔拉（Ella J Fitzgerald) 和莎拉·沃恩（Sarah Vaughan）齊名。</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="en">For the Canadian radio personality with the same name, see Billie Holiday (broadcaster) Billie Holiday Portrait from Down Beat magazine, ca. February 1947Portrait from Down Beat magazine, ca.</rdfs:comment>
+    <dbpprop:yearsActive rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1933</dbpprop:yearsActive>
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Songwriter"/>
+    <dbpedia-owl:abstract xml:lang="cs">Billie Holiday, dříve také známá pod pseudonymem Lady Day byla americká jazzová zpěvačka s emotivním, dojemným hlasem. Společně se Sarah Vaughanovou a Ellou Fitzgeraldovou je označována jako jedna z největších jazzových zpěvaček všech dob.</dbpedia-owl:abstract>
+    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Okeh_Records"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dbpprop:deathPlace xml:lang="en">New York City, New York, United States</dbpprop:deathPlace>
+    <dbpedia-owl:abstract xml:lang="pl">Billie Holiday, właściwie Elinore Harris – amerykańska śpiewaczka jazzowa; przedstawicielka "miejskiej", swingowej odmiany wokalistyki jazzowej. Przez Lestera Younga, lojalnego przyjaciela i partnera muzycznego, nazywana także Lady Day. Utwory, do których napisała teksty – m. in. "God Bless the Child", "Don't Explain" i "Lady Sings the Blues" – na przestrzeni lat stały się jazzowymi klasykami. Kiedy się urodziła, jej matka, Sadie Fagan, miała 13 lat, a ojciec, Clarence Holiday – 15. W wieku 10 lat przyznała się, że została zgwałcona. W 1926 dostała się do katolickiego domu poprawczego, z którego później uciekła. Po przeprowadzce wraz z matką do Nowego Jorku, dostała pracę jako wokalistka w jednym z klubów Harlemu, co spowodowało, że zaczęła poświęcać muzyce coraz więcej uwagi. W 1933 została dostrzeżona przez Johna Hammonda, który pomógł jej w nagraniu pierwszych utworów. Od 1935 współpracowała z grupą Teddy'ego Wilsona, w 1937 została wokalistką big bandu Counta Basiego, a w 1938 dołączyła do grupy Artiego Shawa. W międzyczasie śpiewała też u boku takich artystów jak: Ben Webster, Johnny Hodges, Bunny Berigan, Roy Eldridge i Lester Young. W roku 1943 została wybrana w ankiecie magazynu Esquire "najlepszą wokalistką", przed Mildred Bailey i Ellą Fitzgerald. Uzależnienie od alkoholu i narkotyków stały się przyczyną narastających kłopotów zdrowotnych. Była również kilkakrotnie aresztowana za posiadanie narkotyków, a wyrok za ich zażywanie łączył się także z odebraniem pozwolenia na występy na żywo. W maju 1958 roku trafiła do szpitala z powodu dolegliwości serca i marskości wątroby, która stała się również przyczyną jej śmierci 17 lipca 1959. Była osobą biseksualną. Billie Holiday nagrała ponad 350 płyt, w tym około 70 z Teddym Wilsonem i Lesterm Youngiem. Spopularyzowała pieśń Strange Fruit, protest przeciwko dyskryminacji rasowej mówiący o ciele zlinczowanego murzyna zwisającym z drzewa. W 2000 Billie Holiday została wprowadzona do Rock and Roll Hall of Fame.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Classic_female_blues_singers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Decca_Records_artists"/>
+    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ja">ビリー・ホリデイ（Billie Holiday, 1915年4月7日 - 1959年7月17日）は、アメリカ合衆国の黒人女性ジャズ歌手。 「レディ・デイ」の呼称で知られる。サラ・ヴォーンやエラ・フィッツジェラルドと並んで、女性ジャズ・ヴォーカリスト御三家の1人に数えられる。人種差別や、麻薬・アルコール依存症との闘いなど壮絶な人生を送った彼女は、多くの人々を魅了したその声も晩年にはかれ、音域も極端に狭くなっていた。しかし、なお情感豊かな唄声は他に並ぶ者がないほどの高い評価を与えられ、ジャニス・ジョプリンをはじめとする多くのミュージシャンに影響を与えた。 彼女の生涯に於いて代表的なレパートリーであった「Strange Fruit」や「God Bless' the Child」、「I Love You, Porgy」、「Fine and Mellow」は、後年、多くのミュージシャンに取り上げられるジャズ・ヴォーカルの古典となった。 ジョン・ハモンドに見出され、初レコーディングはベニー・グッドマン楽団と行う。その後、テディ・ウィルソン楽団、カウント・ベイシー楽団らと共演した。特に、著名なミュージシャン達から大きな目標とされていたサックス奏者レスター・ヤングとの共演が名高い。 従兄は、プロボクサーのヘンリー・アームストロング。 2000年に、ロックの殿堂入りを果たした。</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Musicians_from_Baltimore,_Maryland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:African_American_singer-songwriters"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
+    <dbpprop:birthName xml:lang="en">Eleanora Harris</dbpprop:birthName>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpprop:background xml:lang="en">solo_singer</dbpprop:background>
+    <foaf:homepage rdf:resource="http://www.cmgww.com/music/holiday/"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1959-07-17</dbpprop:deathDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/VocalionRecordsArtists"/>
+    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Lena_Horne"/>
+    <rdfs:label xml:lang="zh">比莉·霍利戴</rdfs:label>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_musical_artist"/>
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Harlem"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Billie_Holiday"/>
+    <rdfs:label xml:lang="ca">Billie Holiday</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="uk">Бі́ллі Хо́лідей — видатна афроамериканська джазова вокалістка. Будь-яку популярну пісню могла перетворити на шедевр завдяки вільній ритмічній інтерпретації, інструментальному тембру та яскравій емоційності виконання. Сиплуватий через зловживання алкоголем та наркотиками тембр її голосу не був вадою. Він ніби уособлював тендітність та беззахисність чорношкірої жінки у тодішньому американському суспільстві і разом з текстами пісень та неповторною манерою виконання творив цілісний образ. Кожна пісня Біллі Холідей ставала особистою сповіддю, попри те, що співачка не була автором слів і до неї ці тексти побували в репертуарі десятків інших виконавців. Ім'я «Біллі» Елеонора запозичила у популярної акторки Біллі Доув, котрою захоплювалася в підлітковому віці. Для сцени переробила прізвище батька (Hallyday). Від відомого джазмена і свого коханого чоловіка Лестера Янга Біллі отримала прізвисько «Lady Day».</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Μπίλι_Χόλιντεϊ"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Female_jazz_musicians"/>
+    <rdfs:label xml:lang="en">Billie Holiday</rdfs:label>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/MusicalPerformer"/>
+    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Sarah_Vaughan"/>
+    <rdfs:comment xml:lang="sv">Billie Holiday, eg. Eleanora Fagan Gough, även känd som "Lady Day", född 7 april 1915 i Philadelphia, Pennsylvania, död 17 juli 1959 i New York City, New York, var en amerikansk jazzsångerska och låtskrivare.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="es">Eleanora Fagan Gough, conocida como Billie Holiday y apodada Lady Day fue una cantante estadounidense de jazz. Junto con Sarah Vaughan y Ella Fitzgerald, está considerada entre las más importantes e influyentes voces femeninas del jazz. El tema “Strange Fruit” fue considerado como la mejor canción del Siglo XX, por la revista “Time” en 1999. El valor artístico de Billie Holiday reside en su capacidad interpretativa, en su dominio del swing y en la adaptación de sus cualidades vocales al contenido de la canción. Billie Holiday transmite a sus canciones una intensidad inigualable que, en muchos casos, es fruto de una traslación de sus vivencias personales a las letras cantadas. Esta personalización de lo cantado hace que su estilo esté muy vinculado a intérpretes clásicos de blues como Bessie Smith o Ma Rainey; también está clara su deuda, confirmada por ella misma, con Louis Armstrong y, desde luego, con quien sería su principal acompañante: el saxofonista tenor y clarinetista Lester Young.</dbpedia-owl:abstract>
+    <dbpprop:website rdf:resource="http://www.cmgww.com/music/holiday/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Traditional_pop_music_singers"/>
+    <rdfs:comment xml:lang="it"></rdfs:comment>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
     <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Verve_Records"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Don't_Explain_(Joe_Bonamassa_and_Beth_Hart_album)">
-    <dbpprop:extra rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/I'm_Left_Alone">
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Remixed_and_Reimagined_(Billie_Holiday_album)">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Stay_with_Me_(Billie_Holiday_album)">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/L.A._Noire">
-    <dbpprop:extra rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Music_for_Torching_(album)">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Billie_Holliday">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_holliday">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Billie_halliday">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/April_in_Paris_(song)">
-    <dbpprop:recordedBy rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Don't_Explain_(song)">
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Sound_of_Jazz">
-    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Our_Love_Is_Different">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ain't_Nobody's_Business">
-    <dbpprop:performedBy rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Larry_Bunker">
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Billie_Holiday_Sings">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Good_Morning_Heartache">
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Billie_Holiday_at_JATP">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Holiday">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Sings_the_Blues_(book)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Somewhere_(Eva_Cassidy_album)">
-    <dbpprop:extra rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/God_Bless_the_Child_(Billie_Holiday_song)">
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Sings_the_Blues_(song)">
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_in_Satin">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Last_Recordings">
-    <dbpedia-owl:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Stan_Levey">
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Eleanora_Fagan_Gough">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mousey_Alexander">
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Everything_Happens_for_the_Best">
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Billie_Holiday">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/God_Bless_the_Child_(Billie_Holiday_song)__God_Bless_the_Child__1">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Billie_Holiday_discography">
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Through_the_Looking_Glass_(Siouxsie_and_the_Banshees_album)">
-    <dbpprop:extra rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Let's_Stay_Here">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Malcolm_X_(soundtrack)">
-    <dbpprop:note rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Thornhill">
-    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Preacher_Boy">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Movie_Songbook">
-    <dbpprop:extra rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Strange_Fruit">
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lover_Man_(Oh,_Where_Can_You_Be%3F)">
-    <dbpedia-owl:musicalBand rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpedia-owl:musicalArtist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
-    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Billie_Holiday"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ビリー・ホリデイ"/>
+    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Swing_music"/>
+    <rdfs:label xml:lang="de">Billie Holiday</rdfs:label>
+    <foaf:name xml:lang="en">Billie Holiday</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WomenInJazz"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Composer109947232"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MusiciansFromPhiladelphia,Pennsylvania"/>
+    <rdfs:comment xml:lang="ru">Би́лли Хо́лидей, настоящее имя Элеоно́ра Фэ́гэн — американская певица, творчество которой составляет целую эпоху в истории джаза.</rdfs:comment>
+    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Sarah_Vaughan"/>
+    <dbpedia-owl:alias xml:lang="en">Lady Day</dbpedia-owl:alias>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Rock_and_Roll_Hall_of_Fame_inductees"/>
+    <dbpedia-owl:abstract xml:lang="sv">Billie Holiday, eg. Eleanora Fagan Gough, även känd som "Lady Day", född 7 april 1915 i Philadelphia, Pennsylvania, död 17 juli 1959 i New York City, New York, var en amerikansk jazzsångerska och låtskrivare.</dbpedia-owl:abstract>
+    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Torch_song"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
+    <dbpprop:origin xml:lang="en">Harlem, New York, United States</dbpprop:origin>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Billie_Holiday"/>
+    <rdfs:label xml:lang="uk">Біллі Холідей</rdfs:label>
+    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Bluebird_Records"/>
+    <rdfs:comment xml:lang="de">Billie Holiday zählt zu den bedeutendsten Jazzsängerinnen.</rdfs:comment>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Philadelphia"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Swing_singers"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Билли_Холидей"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1915-04-07</dbpprop:dateOfBirth>
+    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Vocal_jazz"/>
+    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Okeh_Records"/>
+    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Blues"/>
+    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Vocalion_Records"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0dbb3"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.billieholiday.be/"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Billie_Holiday_0001_original.jpg/200px-Billie_Holiday_0001_original.jpg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TorchSingers"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ClassicFemaleBluEsSingers"/>
+    <dbpedia-owl:instrument rdf:resource="http://dbpedia.org/resource/Singing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AfricanAmericanFemaleSingers"/>
+    <rdfs:label xml:lang="cs">Billie Holiday</rdfs:label>
+    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Ella_Fitzgerald"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Billie_Holiday"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/MusicalArtist"/>
+    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Brunswick_Records"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Philadelphia"/>
+    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Commodore_Records"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/빌리_홀리데이"/>
+    <dbpedia-owl:abstract xml:lang="nl">Billie Holiday, werkelijke naam: Eleanora Fagan Gough wordt algemeen beschouwd als een van de belangrijkste en invloedrijkste Amerikaanse jazz-zangeressen. Zij werd, behalve als Billie Holiday, ook bekend onder de bijnaam Lady Day die tenorsaxofonist Lester Young haar had gegeven. Holiday, op haar beurt, was verantwoordelijk voor Youngs bijnaam Pres of Prez (afkorting van President).</dbpedia-owl:abstract>
+    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Carmen_McRae"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:abstract xml:lang="en">For the Canadian radio personality with the same name, see Billie Holiday (broadcaster) Billie Holiday Portrait from Down Beat magazine, ca. February 1947Portrait from Down Beat magazine, ca. February 1947Background informationBirth name Eleanora HarrisAlso known as Lady DayBorn (1915-04-07)April 7, 1915Philadelphia, Pennsylvania, United StatesOrigin Harlem, New York, United StatesDied July 17, 1959(1959-07-17) (aged 44)New York City, New York, United StatesGenres Vocal jazz, jazz blues, torch songs, swing, bluesOccupations Singer, songwriter, actressInstruments VocalsYears active 1933–1959Labels Brunswick, Vocalion, Okeh, Bluebird, Commodore, Capitol, Decca, Aladdin, Verve, Columbia, MGMAssociated acts Ella Fitzgerald, Sarah Vaughan, Lena Horne, Carmen McRaeWebsite Billie Holiday Official Site Billie Holiday (born Eleanora Harris April 7, 1915 – July 17, 1959) was an American jazz singer and songwriter. Nicknamed "Lady Day" by her friend and musical partner Lester Young, Holiday had a seminal influence on jazz and pop singing. Her vocal style, strongly inspired by jazz instrumentalists, pioneered a new way of manipulating phrasing and tempo. Critic John Bush wrote that Holiday "changed the art of American pop vocals forever. " She co-wrote only a few songs, but several of them have become jazz standards, notably "God Bless the Child", "Don't Explain", "Fine and Mellow", and "Lady Sings the Blues". She also became famous for singing "Easy Living", "Good Morning Heartache", and "Strange Fruit", a protest song which became one of her standards and was made famous with her 1939 recording.</dbpedia-owl:abstract>
+    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Capitol_Records"/>
+    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Aladdin_Records"/>
+    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Ella_Fitzgerald"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DeccaRecordsArtists"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cmgww.com/music/holiday/"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TraditionalPopMusicSingers"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.billie-holiday.net/"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1915-04-07</dbpprop:birthDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.jazz.com/dozens/b-holiday-dozens"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Decca_Records"/>
+    <dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1933-01-01T00:00:00+02:00</dbpedia-owl:activeYearsStartYear>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_jazz_singers"/>
+    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Lena_Horne"/>
+    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Columbia_Records"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Songwriter110624540"/>
+    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Lena_Horne"/>
+    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Sarah_Vaughan"/>
+    <dbpprop:placeOfBirth xml:lang="en">Philadelphia, Pennsylvania, U.S.</dbpprop:placeOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_buskers"/>
+    <dbpedia-owl:background xml:lang="en">solo_singer</dbpedia-owl:background>
+    <dbpprop:occupation xml:lang="en">Singer, songwriter, actress</dbpprop:occupation>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpedia-owl:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1959-01-01T00:00:00+02:00</dbpedia-owl:activeYearsEndYear>
+    <dbpprop:label rdf:resource="http://dbpedia.org/resource/MGM_Records"/>
+    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Bluebird_Records"/>
+    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Torch_song"/>
+    <foaf:givenName xml:lang="en">Billie</foaf:givenName>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/1/12/Billie_Holiday_0001_original.jpg"/>
+    <dbpprop:name xml:lang="en">Billie Holiday</dbpprop:name>
+    <dbpedia-owl:abstract xml:lang="fi">Billie Holiday, joka tunnetaan myös saksofonisti Lester Youngin hänelle antamalla nimellä Lady Day, oli yhdysvaltalainen laulaja, jota edelleen pidetään yhtenä kaikkien aikojen parhaista jazz-solisteista.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Blues_Hall_of_Fame_inductees"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Grammy_Lifetime_Achievement_Award_winners"/>
+    <rdfs:comment xml:lang="uk">Бі́ллі Хо́лідей — видатна афроамериканська джазова вокалістка. Будь-яку популярну пісню могла перетворити на шедевр завдяки вільній ритмічній інтерпретації, інструментальному тембру та яскравій емоційності виконання. Сиплуватий через зловживання алкоголем та наркотиками тембр її голосу не був вадою. Він ніби уособлював тендітність та беззахисність чорношкірої жінки у тодішньому американському суспільстві і разом з текстами пісень та неповторною манерою виконання творив цілісний образ.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1915_births"/>
+    <foaf:givenName xml:lang="en">Eleanora Harris</foaf:givenName>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Billie_Holiday?oldid=495559682"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1915-04-07</dbpedia-owl:birthDate>
+    <rdfs:comment xml:lang="hu">Billie Holiday az első híres jazz énekesnő, aki hangjával visszaadta a klasszikus blues erejét, az erőt, amivel mindenkihez szólt. Nehéz hozzá hasonló személyiséget találni, hiszen neve mellett talán csak Bessie Smith és Ma Rainey kerül szóba.</rdfs:comment>
+    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Vocal_jazz"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-musician-noun-1"/>
+    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Blues"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Twelve-bar_blues"/>
+    <dbpprop:alternativeNames xml:lang="en">Fagan, Eleanora; Lady Day</dbpprop:alternativeNames>
+    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Vocalion_Records"/>
+    <dbpprop:caption xml:lang="en">Portrait from Down Beat magazine, ca. February 1947</dbpprop:caption>
+    <rdf:type rdf:resource="http://schema.org/MusicGroup"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pbs.org/jazz/biography/artist_id_holiday_billie.htm"/>
+    <dbpprop:alias xml:lang="en">Lady Day</dbpprop:alias>
+    <dbpprop:shortDescription xml:lang="en">Jazz singer, composer</dbpprop:shortDescription>
+    <dbpedia-owl:abstract xml:lang="fr">Billie Holiday, de son vrai nom Eleanora Fagan, née à Baltimore le 7 avril 1915 et morte à New York le 17 juillet 1959, est une chanteuse de jazz américaine considérée comme l'une des plus grandes chanteuses que le jazz ait connu.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="ja">ビリー・ホリデイ（Billie Holiday, 1915年4月7日 - 1959年7月17日）は、アメリカ合衆国の黒人女性ジャズ歌手。 「レディ・デイ」の呼称で知られる。サラ・ヴォーンやエラ・フィッツジェラルドと並んで、女性ジャズ・ヴォーカリスト御三家の1人に数えられる。人種差別や、麻薬・アルコール依存症との闘いなど壮絶な人生を送った彼女は、多くの人々を魅了したその声も晩年にはかれ、音域も極端に狭くなっていた。しかし、なお情感豊かな唄声は他に並ぶ者がないほどの高い評価を与えられ、ジャニス・ジョプリンをはじめとする多くのミュージシャンに影響を与えた。 彼女の生涯に於いて代表的なレパートリーであった「Strange Fruit」や「God Bless' the Child」、「I Love You, Porgy」、「Fine and Mellow」は、後年、多くのミュージシャンに取り上げられるジャズ・ヴォーカルの古典となった。 ジョン・ハモンドに見出され、初レコーディングはベニー・グッドマン楽団と行う。その後、テディ・ウィルソン楽団、カウント・ベイシー楽団らと共演した。特に、著名なミュージシャン達から大きな目標とされていたサックス奏者レスター・ヤングとの共演が名高い。 従兄は、プロボクサーのヘンリー・アームストロング。 2000年に、ロックの殿堂入りを果たした。</rdfs:comment>
+    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Commodore_Records"/>
+    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Carmen_McRae"/>
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Singing"/>
+    <dc:description xml:lang="en">Jazz singer, composer</dc:description>
+    <rdfs:comment xml:lang="cs">Billie Holiday, dříve také známá pod pseudonymem Lady Day byla americká jazzová zpěvačka s emotivním, dojemným hlasem. Společně se Sarah Vaughanovou a Ellou Fitzgeraldovou je označována jako jedna z největších jazzových zpěvaček všech dob.</rdfs:comment>
+    <dbpprop:placeOfDeath xml:lang="en">New York City, New York, U.S.</dbpprop:placeOfDeath>
+    <foaf:surname xml:lang="en">Holiday</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SwingSingers"/>
   </rdf:Description>
 </rdf:RDF>

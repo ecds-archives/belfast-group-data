@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C075932059#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35403901"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>O'Malley, Mary, 1954-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/35403901">
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/124999409"/>
+    <foaf:name>O'Malley, Mary, 1954-....</foaf:name>
+    <rdaGr2:dateOfBirth>1954</rdaGr2:dateOfBirth>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Omalley, Mary</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb129710073#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/075932059/id"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Mary_O'Malley_(poet)"/>
+    <foaf:name>Ernest Mary O'Malley 1954-....</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/35403901/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/35403901"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CMary_O'Malley_(poet)#skos:Concept">
+    <skos:prefLabel>Omalley, Mary</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35403901"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/35403901/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35403901"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12971007#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35403901"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb129710073"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb129710073"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Ernest Mary O'Malley 1954-....</skos:altLabel>
+    <skos:prefLabel>O'Malley, Mary, 1954-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn+2004022515#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n2004022515"/>
+    <skos:prefLabel>O'Malley, Mary, 1954-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35403901"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C124999409#skos:Concept">
+    <skos:prefLabel>O'Malley, Mary, 1954-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35403901"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/35403901/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/35403901"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+</rdf:RDF>

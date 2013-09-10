@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_Poetry_in_Translation">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Magazine"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/WrittenWork"/>
+    <foaf:name xml:lang="en">Modern Poetry in Translation</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Biannual_magazines"/>
+    <dbpprop:language xml:lang="en">English</dbpprop:language>
+    <foaf:homepage rdf:resource="http://www.mptmagazine.com"/>
+    <dbpprop:based rdf:resource="http://dbpedia.org/resource/Oxford"/>
+    <dbpprop:frequency xml:lang="en">Bi-annually</dbpprop:frequency>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.mptmagazine.com/"/>
+    <dbpedia-owl:abstract xml:lang="en">Modern Poetry in Translation is a literary magazine and publisher based in the United Kingdom dedicated to publishing contemporary poetry from all around the world, in English.</dbpedia-owl:abstract>
+    <dbpprop:category rdf:resource="http://dbpedia.org/resource/Literary_magazine"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0j46k4w"/>
+    <dbpprop:title xml:lang="en">Modern Poetry in Translation</dbpprop:title>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Modern_Poetry_in_Translation?oldid=485345839"/>
+    <dbpprop:editors xml:lang="en">David &amp; Helen Constantine</dbpprop:editors>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work"/>
+    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Literary_magazine"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Literary_magazines"/>
+    <dbpprop:country xml:lang="en">United Kingdom</dbpprop:country>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PeriodicalLiterature"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.mptmagazine.com"/>
+    <dbpprop:founded rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1965</dbpprop:founded>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English-language_magazines"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Magazines_established_in_1965"/>
+    <rdfs:comment xml:lang="en">Modern Poetry in Translation is a literary magazine and publisher based in the United Kingdom dedicated to publishing contemporary poetry from all around the world, in English.</rdfs:comment>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Modern_Poetry_in_Translation"/>
+    <dbpprop:firstdate rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1965</dbpprop:firstdate>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_magazine"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Modern_Poetry_in_Translation"/>
+  </rdf:Description>
+</rdf:RDF>

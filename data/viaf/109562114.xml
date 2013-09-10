@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12027578#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12027578v"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:altLabel>Creeley Bobbie 1926-2005</skos:altLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12027578v"/>
+    <skos:prefLabel>Creeley, Robert, 1926-2005</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068636105#skos:Concept">
+    <skos:prefLabel>Creeley, Robert, 1926-2005</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00098341#skos:Concept">
+    <skos:prefLabel>Creeley, Robert, 1926-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109562114/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028441230#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <skos:altLabel>Creeley, Bobbie</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Creeley, Robert, 1926-2005</skos:prefLabel>
+    <skos:altLabel>Creeley, Robert White</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109562114">
+    <foaf:name>Creeley, Robert</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/182455"/>
+    <foaf:name>Creely, Robert 1926-2005</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/028441230/id"/>
+    <rdaGr2:dateOfDeath>2005-03-30</rdaGr2:dateOfDeath>
+    <foaf:name>Creeley, Robert, 1926-2005</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Robert_Creeley"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12027578v#foaf:Person"/>
+    <foaf:name>Creeley, Robert White 1926-2005</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdaGr2:dateOfBirth>1926-05-21</rdaGr2:dateOfBirth>
+    <foaf:name>Creeley Bobbie 1926-2005</foaf:name>
+    <foaf:name>Creeley, Robert White</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Creeley, Bobbie</foaf:name>
+    <foaf:name>Creeley, Robert, 1926-</foaf:name>
+    <foaf:name>Creeley, Robert W. 1926-2005</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118670514"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118670514#skos:Concept">
+    <skos:altLabel>Creeley, Robert White 1926-2005</skos:altLabel>
+    <skos:altLabel>Creely, Robert 1926-2005</skos:altLabel>
+    <skos:altLabel>Creeley, Robert W. 1926-2005</skos:altLabel>
+    <skos:prefLabel>Creeley, Robert, 1926-2005</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109562114/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/109562114"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000601225#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:prefLabel>Creeley, Robert, 1926-2005</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/109562114/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/109562114"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035032098#skos:Concept">
+    <skos:prefLabel>Creeley, Robert, 1926-2005</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV11998944#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <skos:prefLabel>Creeley, Robert</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C182455#skos:Concept">
+    <skos:prefLabel>Creeley, Robert, 1926-2005</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/182455#concept"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CRobert_Creeley#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <skos:prefLabel>Creeley, Robert</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX868874#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Creeley, Robert, 1926-2005</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79043504#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79043504"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Creeley, Robert, 1926-2005</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11499977#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <skos:prefLabel>Creeley, Robert, 1926-2005</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000035592#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Creeley, Robert, 1926-2005</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0051B7958#skos:Concept">
+    <skos:prefLabel>Creeley, Robert, 1926-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/109562114"/>
+    <skos:altLabel>Creeley, Robert White</skos:altLabel>
+  </rdf:Description>
+</rdf:RDF>

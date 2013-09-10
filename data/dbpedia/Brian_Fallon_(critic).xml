@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Fallon_(critic)">
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Brian_Fallon_(critic)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:The_Irish_Times_people"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Brian_Fallon_(critic)"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.irishtimes.com/newspaper/weekend/2008/1122/1227276708311.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishJournalists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1933_births"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.irishartsreview.com/html/vol22_no4/cias/cias_feature.htm"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishArtCritics"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_art_critics"/>
+    <foaf:surname xml:lang="en">Fallon</foaf:surname>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0b6jsgp"/>
+    <foaf:givenName xml:lang="en">Brian</foaf:givenName>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.independent.co.uk/news/obituaries/conor-fallon-758762.html"/>
+    <foaf:name xml:lang="en">Brian Fallon</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_literary_critics"/>
+    <rdfs:comment xml:lang="en">Brian Fallon (born 1933) is one of Ireland's foremost art critics. He was born in 1933 at Cootehill, County Cavan, the second son of the poet Padraic Fallon, and was educated at St Peter’s College, Wexford, and Trinity College, Dublin. He was Chief Critic of The Irish Times for 35 years and its Literary Editor for 11 years (1977 to 1988). He has written numerous books on Irish art and frequently lectures on the subject of art.</rdfs:comment>
+    <dbpprop:name xml:lang="en">Fallon, Brian</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishLiteraryCritics"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1933</dbpprop:dateOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Trinity_College,_Dublin"/>
+    <dbpedia-owl:abstract xml:lang="en">Brian Fallon (born 1933) is one of Ireland's foremost art critics. He was born in 1933 at Cootehill, County Cavan, the second son of the poet Padraic Fallon, and was educated at St Peter’s College, Wexford, and Trinity College, Dublin. He was Chief Critic of The Irish Times for 35 years and its Literary Editor for 11 years (1977 to 1988). He has written numerous books on Irish art and frequently lectures on the subject of art.</dbpedia-owl:abstract>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Brian_Fallon_(critic)?oldid=474205003"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -9,33 +9,33 @@
    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
 >
   <rdf:Description rdf:about="http://sws.geonames.org/2961301/">
+    <wgs84_pos:long>-7.53333</wgs84_pos:long>
+    <gn:name>Lough Swilly</gn:name>
+    <wgs84_pos:lat>55.16667</wgs84_pos:lat>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2964751/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521316/"/>
     <gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.INLT"/>
     <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2961301/about.rdf"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Lough_Swilly"/>
     <gn:parentFeature rdf:resource="http://sws.geonames.org/2964751/"/>
     <gn:alternateName xml:lang="en">Lough Swilly</gn:alternateName>
-    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Lough_Swilly"/>
     <gn:alternateName xml:lang="ga">Loch Súilí</gn:alternateName>
-    <wgs84_pos:lat>55.16667</wgs84_pos:lat>
-    <gn:parentCountry rdf:resource="http://sws.geonames.org/2963597/"/>
-    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2964751/"/>
-    <gn:alternateName>The Lake of Shadows</gn:alternateName>
-    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Lough_Swilly"/>
-    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
-    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2961301/nearby.rdf"/>
-    <gn:name>Lough Swilly</gn:name>
     <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
-    <gn:locationMap rdf:resource="http://www.geonames.org/2961301/lough-swilly.html"/>
     <gn:countryCode>IE</gn:countryCode>
-    <wgs84_pos:long>-7.53333</wgs84_pos:long>
-    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7521316/"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2961301/lough-swilly.html"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Lough_Swilly"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2961301/nearby.rdf"/>
+    <gn:alternateName>The Lake of Shadows</gn:alternateName>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2961301/about.rdf">
-    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
-    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-18</dcterms:modified>
     <cc:attributionURL rdf:resource="http://sws.geonames.org/2961301/"/>
-    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2961301/"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-18</dcterms:modified>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
   </rdf:Description>
 </rdf:RDF>

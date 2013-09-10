@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000504289#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54434634"/>
+    <skos:prefLabel>Watters, Eugene</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C15057590#skos:Concept">
+    <skos:prefLabel>Ó Tuairisc, Eoghan, 1919-1982</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb15057590r"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb15057590r"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54434634"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Tuairisc Eoghan Ó 1919-1982</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CEoghan_Ó_Tuairisc#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54434634"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Otuairisc, Eoghan</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118899198#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54434634"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Ó'Tuairisc, Eoghan 1919-1982</skos:prefLabel>
+    <skos:altLabel>O'Tuairisc, Eoghan 1919-1982</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/54434634/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54434634"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++88253502#skos:Concept">
+    <skos:altLabel>Watters, Eugene</skos:altLabel>
+    <skos:altLabel>Watters, Rutherford</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n88253502"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54434634"/>
+    <skos:prefLabel>Ó Tuairisc, Eoghan</skos:prefLabel>
+    <skos:altLabel>O'Tuairisc, Eoghan</skos:altLabel>
+    <skos:altLabel>O'Tuairisc, E.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/54434634/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/54434634"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/54434634/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/54434634"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C07268139X#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54434634"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:prefLabel>Ó Tuairisc, Eoghan</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/54434634">
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>O'Tuairisc, E.</foaf:name>
+    <rdaGr2:dateOfDeath>1982</rdaGr2:dateOfDeath>
+    <foaf:name>Tuairisc Eoghan Ó 1919-1982</foaf:name>
+    <foaf:name>Ó Tuairisc, Eoghan</foaf:name>
+    <foaf:name>Ó Tuairisc, Eoghan, 1919-1982</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb15057590r#foaf:Person"/>
+    <foaf:name>O'Tuairisc, Eoghan 1919-1982</foaf:name>
+    <foaf:name>O'Tuairisc, Eoghan</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Eoghan_Ó_Tuairisc"/>
+    <foaf:name>Watters, Rutherford</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118899198"/>
+    <foaf:name>Watters, Eugene</foaf:name>
+    <foaf:name>Otuairisc, Eoghan</foaf:name>
+    <rdaGr2:dateOfBirth>1919-04-03</rdaGr2:dateOfBirth>
+    <foaf:name>Waters, Eugene Rutheford Louis, 1919-1982</foaf:name>
+    <foaf:name>Ó'Tuairisc, Eoghan 1919-1982</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cxx0060320#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Ó Tuairisc, Eoghan, 1919-1982</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54434634"/>
+    <skos:altLabel>Waters, Eugene Rutheford Louis, 1919-1982</skos:altLabel>
+  </rdf:Description>
+</rdf:RDF>

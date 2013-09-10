@@ -7,65 +7,65 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++84236929#skos:Concept">
-    <skos:prefLabel>Arts Council of Northern Ireland</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n84236929"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/129928623"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/129928623/#rdaEnt:CorporateBody">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/129928623"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/129928623"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12210507#skos:Concept">
-    <skos:altLabel>Irlande du Nord. Arts Council</skos:altLabel>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12210507s"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Arts Council of Northern Ireland</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12210507s"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/129928623"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C004100735#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:prefLabel>Arts Council of Northern Ireland</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/129928623"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/129928623/#foaf:Organization">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/129928623"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C030751799#skos:Concept">
-    <skos:altLabel>Irlande du Nord. Arts Council</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/129928623"/>
-    <skos:prefLabel>Arts Council of Northern Ireland</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/129928623/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/129928623"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035008699#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/129928623/#foaf:Organization">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/129928623"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C004100735#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/129928623"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Arts Council of Northern Ireland</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C030751799#skos:Concept">
+    <skos:altLabel>Irlande du Nord. Arts Council</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
     <skos:prefLabel>Arts Council of Northern Ireland</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/129928623"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12210507#skos:Concept">
+    <skos:altLabel>Irlande du Nord. Arts Council</skos:altLabel>
+    <skos:prefLabel>Arts Council of Northern Ireland</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12210507s"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/129928623"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12210507s"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/129928623">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
+    <foaf:name>Arts Council of Northern Ireland</foaf:name>
     <owl:sameAs rdf:resource="http://www.idref.fr/030751799/id"/>
     <foaf:name>Irlande du Nord. Arts Council</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
-    <foaf:name>Arts Council of Northern Ireland</foaf:name>
     <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12210507s#foaf:Person"/>
     <owl:sameAs rdf:resource="http://d-nb.info/gnd/1017779-6"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035008699#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:prefLabel>Arts Council of Northern Ireland</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/129928623"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/129928623/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/129928623"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++84236929#skos:Concept">
+    <skos:prefLabel>Arts Council of Northern Ireland</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/129928623"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n84236929"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
   </rdf:Description>
 </rdf:RDF>

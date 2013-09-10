@@ -7,147 +7,147 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10149052#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
-    <skos:prefLabel>University of Leeds.</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/135669116/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/135669116"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035297768#skos:Concept">
-    <skos:altLabel>Leeds (West Yorkshire). University</skos:altLabel>
-    <skos:altLabel>Leeds. University</skos:altLabel>
-    <skos:altLabel>Leeds, Eng. University</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
-    <skos:altLabel>Leeds, England. University</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>University of Leeds.</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/135669116">
-    <foaf:name>Leeds (GB) University of Leeds</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb119912088#foaf:Person"/>
-    <foaf:name>Université de Leeds</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/36208-6"/>
-    <foaf:name>Leeds (West Yorkshire). University</foaf:name>
-    <foaf:name>Universität Leeds</foaf:name>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/126662650"/>
-    <foaf:name>Leeds, Eng. University</foaf:name>
-    <foaf:name>Leeds (Anglie). University</foaf:name>
-    <foaf:name>Universitas oxoniensis</foaf:name>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/126662650"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/027985350/id"/>
-    <foaf:name>Leeds metropolitan university</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
-    <foaf:name>Leeds, England. University</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
-    <foaf:name>Leeds. University</foaf:name>
-    <foaf:name>Lidskiĭ universitet</foaf:name>
-    <foaf:name>University of Leeds.</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500312856#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>University of Leeds.</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls000190214#skos:Concept">
-    <skos:prefLabel>University of Leeds.</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cko2006325620#skos:Concept">
-    <skos:altLabel>Leeds (Anglie). University</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>University of Leeds.</skos:prefLabel>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C000362085#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>University of Leeds.</skos:prefLabel>
-    <skos:altLabel>Leeds. University</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <skos:altLabel>Universität Leeds</skos:altLabel>
+    <skos:altLabel>Leeds. University</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C128299290#skos:Concept">
-    <skos:altLabel>Leeds (GB) University of Leeds</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
-    <skos:altLabel>Université de Leeds</skos:altLabel>
-    <skos:altLabel>Leeds. University</skos:altLabel>
+    <skos:altLabel>Leeds metropolitan university</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>University of Leeds.</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
+    <skos:altLabel>Université de Leeds</skos:altLabel>
+    <skos:altLabel>Leeds (GB) University of Leeds</skos:altLabel>
+    <skos:altLabel>Leeds. University</skos:altLabel>
+    <skos:altLabel>Universitas oxoniensis</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0062K7675#skos:Concept">
+    <skos:prefLabel>University of Leeds.</skos:prefLabel>
+    <skos:altLabel>Leeds. University</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80009820#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80009820"/>
+    <skos:altLabel>Leeds, England. University</skos:altLabel>
+    <skos:altLabel>Leeds, Eng. University</skos:altLabel>
+    <skos:altLabel>Lidskiĭ universitet</skos:altLabel>
+    <skos:prefLabel>University of Leeds.</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/135669116/#rdaEnt:CorporateBody">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/135669116"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cko2006325620#skos:Concept">
+    <skos:prefLabel>University of Leeds.</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Leeds (Anglie). University</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027985350#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:altLabel>Universitas oxoniensis</skos:altLabel>
     <skos:altLabel>Leeds metropolitan university</skos:altLabel>
+    <skos:altLabel>Leeds. University</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
+    <skos:prefLabel>University of Leeds.</skos:prefLabel>
+    <skos:altLabel>Leeds (GB) University of Leeds</skos:altLabel>
+    <skos:altLabel>Université de Leeds</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000135253#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
+    <skos:prefLabel>University of Leeds.</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>Leeds. University</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11991208#skos:Concept">
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb119912088"/>
+    <skos:altLabel>Leeds. University</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
+    <skos:prefLabel>University of Leeds.</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb119912088"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls000190214#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
+    <skos:prefLabel>University of Leeds.</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/135669116/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/135669116/#foaf:Organization">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/135669116"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0062K7675#skos:Concept">
-    <skos:prefLabel>University of Leeds.</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
-    <skos:altLabel>Leeds. University</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10149052#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
+    <skos:prefLabel>University of Leeds.</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/135669116/#rdaEnt:CorporateBody">
+  <rdf:Description rdf:about="http://viaf.org/viaf/135669116/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/135669116"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/135669116">
+    <owl:sameAs rdf:resource="http://www.idref.fr/128299290/id"/>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/126662650"/>
+    <foaf:name>Universität Leeds</foaf:name>
+    <foaf:name>Lidskiĭ universitet</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/126662650"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb119912088#foaf:Person"/>
+    <foaf:name>Leeds. University</foaf:name>
+    <foaf:name>Leeds (Anglie). University</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
+    <foaf:name>Leeds metropolitan university</foaf:name>
+    <foaf:name>Université de Leeds</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/36208-6"/>
+    <foaf:name>Leeds, England. University</foaf:name>
+    <foaf:name>Leeds, Eng. University</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <foaf:name>Leeds (West Yorkshire). University</foaf:name>
+    <foaf:name>Leeds (GB) University of Leeds</foaf:name>
+    <foaf:name>University of Leeds.</foaf:name>
+    <foaf:name>Universitas oxoniensis</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500312856#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
+    <skos:prefLabel>University of Leeds.</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035297768#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:altLabel>Leeds. University</skos:altLabel>
+    <skos:altLabel>Leeds, England. University</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
+    <skos:altLabel>Leeds (West Yorkshire). University</skos:altLabel>
+    <skos:altLabel>Leeds, Eng. University</skos:altLabel>
+    <skos:prefLabel>University of Leeds.</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/135669116/#foaf:Organization">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/135669116"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2009031053#skos:Concept">
     <skos:altLabel>Leeds. University</skos:altLabel>
-    <skos:prefLabel>University of Leeds.</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000135253#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <skos:altLabel>Leeds. University</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>University of Leeds.</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027985350#skos:Concept">
-    <skos:altLabel>Leeds. University</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:altLabel>Universitas oxoniensis</skos:altLabel>
-    <skos:altLabel>Leeds (GB) University of Leeds</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>University of Leeds.</skos:prefLabel>
-    <skos:altLabel>Leeds metropolitan university</skos:altLabel>
-    <skos:altLabel>Université de Leeds</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80009820#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:altLabel>Lidskiĭ universitet</skos:altLabel>
-    <skos:prefLabel>University of Leeds.</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
-    <skos:altLabel>Leeds, Eng. University</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80009820"/>
-    <skos:altLabel>Leeds, England. University</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11991208#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:prefLabel>University of Leeds.</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb119912088"/>
-    <skos:altLabel>Leeds. University</skos:altLabel>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb119912088"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/135669116"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
 </rdf:RDF>

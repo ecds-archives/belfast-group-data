@@ -10,200 +10,92 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cold_Heaven_(film)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Black_Robe">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Colour_of_Blood">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Intent_to_Kill">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Moore_(novelist)">
-    <dbpedia-owl:abstract xml:lang="fr">Brian Moore est un écrivain et journaliste irlandais. Né dans une famille catholique, il rejette très tôt sa foi. Outre ses romans, il publie plusieurs thrillers sous des pseudonymes. On lui doit également les scénarios des films Le Rideau déchiré d'Alfred Hitchcock et Le Sang des autres de Claude Chabrol, d'après le roman de Simone de Beauvoir. En 1948, il émigre au Canada et obtient la nationalité canadienne au bout de quelques années, cependant en 1966 il s'installe en Californie où il vivra jusqu'à sa mort.</dbpedia-owl:abstract>
-    <dbpprop:language rdf:resource="http://dbpedia.org/resource/English_language"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Disease-related_deaths_in_California"/>
-    <dbpprop:placeOfDeath xml:lang="en">Malibu, California, U.S.</dbpprop:placeOfDeath>
-    <foaf:givenName xml:lang="en">Brian</foaf:givenName>
-    <dc:description xml:lang="en">Irish expatriate writer and novelist</dc:description>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NorthernIrishExpatriatesInTheUnitedStates"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Brian_Moore_(novelist)"/>
-    <rdfs:comment xml:lang="fr">Brian Moore est un écrivain et journaliste irlandais. Né dans une famille catholique, il rejette très tôt sa foi. Outre ses romans, il publie plusieurs thrillers sous des pseudonymes. On lui doit également les scénarios des films Le Rideau déchiré d'Alfred Hitchcock et Le Sang des autres de Claude Chabrol, d'après le roman de Simone de Beauvoir.</rdfs:comment>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Brian_Moore"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ImmigrantsToCanadaFromNorthernIreland"/>
-    <rdfs:comment xml:lang="en">Brian Moore was a Northern Irish novelist and screenwriter who emigrated to Canada and later lived in the United States. He was acclaimed for the descriptions in his novels of life in Northern Ireland after the Second World War, in particular his explorations of the inter-communal divisions of The Troubles. He was awarded the James Tait Black Memorial Prize in 1975 and the inaugural Sunday Express Book of the Year award in 1987, and was shortlisted for the Booker Prize three times.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.031ffc"/>
-    <dbpedia-owl:nationality rdf:resource="http://dbpedia.org/resource/Canadians"/>
-    <dbpedia-owl:abstract xml:lang="sv">Brian Moore, född 25 augusti 1921 i Belfast på ön Irland i dåvarande Förenade kungariket Storbritannien och Irland, död 11 januari 1999 i Malibu i USA, var en irländsk-brittisk och sedermera kanadensisk författare. Moores första roman, Judith Hearne, filmatiserades med Maggie Smith i huvudrollen. Flera av hans andra romaner har även de filmatiserats såsom, The Luck of Ginger Coffey, Catholics, Black Robe, Cold Heaven och The Statement. Han skrev även filmmanus till Alfred Hitchcocks En läcka i ridån och The Blood of Others, baserad på romanen Le Sang des autres av Simone de Beauvoir. Moore har behandlats i två biografier, i Brian Moore: The Chameleon Novelist (1998) av Denis Sampson och Brian Moore: A Biography (2002) av Patricia Craig.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&amp;Params=A1ARTA0005416/"/>
+    <dbpprop:awards rdf:resource="http://dbpedia.org/resource/Governor_General's_Award_for_English-language_fiction"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Brian_Moore_Novelist.jpg/200px-Brian_Moore_Novelist.jpg"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-01-11</dbpprop:deathDate>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_St_Malachy's_College"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
-    <dbpedia-owl:award rdf:resource="http://dbpedia.org/resource/Governor_General's_Award_for_English-language_fiction"/>
+    <dbpedia-owl:abstract xml:lang="pl">Brian Moore - pisarz irlandzki. Urodził się w północnoirlandzkiej katolickiej rodzinie, jako jedno z dziewięciorga dzieci, lecz już w młodości zerwał z Kościołem. W 1948 roku wyemigrował do Kanady i został jej obywatelem w 1953 roku. Pisał głównie thrillery i scenariusze filmowe, między innymi dla Alfreda Hitchcocka, ale również powieści o wymowie antyklerykalnej, których akcję umiejscawiał w Irlandii i w Irlandii Północnej. Znany z klarownego stylu i znajomości kobiecej psychiki. Trzy jego książki były nominowane do Nagrody Bookera.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <dbpedia-owl:language rdf:resource="http://dbpedia.org/resource/English_language"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/1/hi/entertainment/253500.stm"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Governor_General's_Award_winning_fiction_writers"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Brian_Moore"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</dbpprop:dateOfDeath>
+    <foaf:name xml:lang="en">Brian Moore</foaf:name>
+    <rdfs:comment xml:lang="fr">Brian Moore est un écrivain et journaliste irlandais. Né dans une famille catholique, il rejette très tôt sa foi. Outre ses romans, il publie plusieurs thrillers sous des pseudonymes. On lui doit également les scénarios des films Le Rideau déchiré d'Alfred Hitchcock et Le Sang des autres de Claude Chabrol, d'après le roman de Simone de Beauvoir.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Expatriates_from_Northern_Ireland_in_the_United_States"/>
     <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1921-08-25</dbpedia-owl:birthDate>
+    <dbpedia-owl:nationality rdf:resource="http://dbpedia.org/resource/Canadians"/>
+    <rdfs:label xml:lang="de">Brian Moore</rdfs:label>
+    <rdfs:label xml:lang="en">Brian Moore (novelist)</rdfs:label>
+    <dbpprop:name xml:lang="en">Moore, Brian</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Disease-related_deaths_in_California"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NovelistsFromNorthernIreland"/>
+    <dc:description xml:lang="en">Irish expatriate writer and novelist</dc:description>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Brian_Moore_(romancier)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1921_births"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Brian_Moore_(novelist)"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.031ffc"/>
+    <foaf:givenName xml:lang="en">Brian</foaf:givenName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/St.Malachy'sCollegeAlumni"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Genie_Award_winners_for_Best_Screenplay"/>
+    <dbpprop:language rdf:resource="http://dbpedia.org/resource/English_language"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Belfast"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Brian_Moore_(novelist)"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Brian_Moore_(novelist)?oldid=480908597"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBelfast"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
+    <dbpprop:nationality rdf:resource="http://dbpedia.org/resource/Canadians"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">25</dbpprop:dateOfBirth>
+    <dbpedia-owl:abstract xml:lang="nl">Brian Moore was een Iers schrijver. Hij werd geboren in een groot katholiek doktersgezin. Zijn middelbareschooltijd herinnerde hij zich als een ramp. In de Tweede Wereldoorlog trad hij in dienst van het Britse Ministerie voor Oorlogstransporten en was actief in onder meer Algerije, Italië en Frankrijk. In 1948 vestigde hij zich in Canada en verwierf het Canadese staatsburgerschap. Vanaf de jaren 50 begon hij te schrijven, waarvoor hij zich altijd afzonderde van zijn gezin en vrienden. In 1964 hertrouwde hij met zijn tweede vrouw, Jean Denney, bij wie hij zich veel gelukkiger voelde. Een jaar later verhuisden ze naar Californië, waar hij in 1999 overleed. Zijn meest verkochte roman, The Lies of Silence (1990) is een thriller die speelt in Belfast. Moore maakte zich zorgen over de waanzin en 'dodelijke ziekte' waar Noord-Ierland volgens hem aan leed. In zijn werk wilde hij op de achtergrond blijven.</dbpedia-owl:abstract>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-01-11</dbpedia-owl:deathDate>
+    <rdfs:comment xml:lang="nl">Brian Moore was een Iers schrijver. Hij werd geboren in een groot katholiek doktersgezin. Zijn middelbareschooltijd herinnerde hij zich als een ramp. In de Tweede Wereldoorlog trad hij in dienst van het Britse Ministerie voor Oorlogstransporten en was actief in onder meer Algerije, Italië en Frankrijk. In 1948 vestigde hij zich in Canada en verwierf het Canadese staatsburgerschap. Vanaf de jaren 50 begon hij te schrijven, waarvoor hij zich altijd afzonderde van zijn gezin en vrienden.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Naturalized_citizens_of_Canada"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://threemonkeysonline.com/book_blog/2010/novels/doubt-in-the-novel-brian-moores-cold-heaven"/>
+    <dbpprop:placeOfBirth xml:lang="en">Belfast, Northern Ireland, UK</dbpprop:placeOfBirth>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.mysteryfile.com/Kiss05.html#Mara"/>
+    <dbpedia-owl:abstract xml:lang="sv">Brian Moore, född 25 augusti 1921 i Belfast på ön Irland i dåvarande Förenade kungariket Storbritannien och Irland, död 11 januari 1999 i Malibu i USA, var en irländsk-brittisk och sedermera kanadensisk författare. Moores första roman, Judith Hearne, filmatiserades med Maggie Smith i huvudrollen. Flera av hans andra romaner har även de filmatiserats såsom, The Luck of Ginger Coffey, Catholics, Black Robe, Cold Heaven och The Statement. Han skrev även filmmanus till Alfred Hitchcocks En läcka i ridån och The Blood of Others, baserad på romanen Le Sang des autres av Simone de Beauvoir. Moore har behandlats i två biografier, i Brian Moore: The Chameleon Novelist (1998) av Denis Sampson och Brian Moore: A Biography (2002) av Patricia Craig.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Brian_Moore"/>
+    <dbpprop:shortDescription xml:lang="en">Irish expatriate writer and novelist</dbpprop:shortDescription>
+    <dbpprop:deathPlace xml:lang="en">Malibu, California, US</dbpprop:deathPlace>
+    <foaf:surname xml:lang="en">Moore</foaf:surname>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NorthernIrishExpatriatesInTheUnitedStates"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdfs:comment xml:lang="de">Brian Moore war ein irisch-kanadischer Schriftsteller und Drehbuchautor. Moore war der Sohn eines irischen Chirurgen und Nationalisten und wurde streng katholisch erzogen. Im Zweiten Weltkrieg diente er als Sanitäter. Nach dem Krieg arbeitete Moore für das UN-Hilfswerk in Polen. Hier begann er, Reportagen zu schreiben. 1948 verließ Moore Irland und wurde kanadischer Staatsbürger.</rdfs:comment>
+    <dbpprop:birthPlace xml:lang="en">Belfast, Northern Ireland, UK</dbpprop:birthPlace>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_St_Malachy's_College"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ImmigrantsToCanadaFromNorthernIreland"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/7/7d/Brian_Moore_Novelist.jpg"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Malibu,_California"/>
+    <dbpedia-owl:award rdf:resource="http://dbpedia.org/resource/James_Tait_Black_Memorial_Prize"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
     <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1921-08-25</dbpprop:birthDate>
     <dbpprop:alternativeNames xml:lang="en">Mara, Bernard; Bryan, Michael</dbpprop:alternativeNames>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Expatriates_from_Northern_Ireland_in_the_United_States"/>
-    <rdfs:comment xml:lang="pl">Brian Moore - pisarz irlandzki. Urodził się w północnoirlandzkiej katolickiej rodzinie, jako jedno z dziewięciorga dzieci, lecz już w młodości zerwał z Kościołem. W 1948 roku wyemigrował do Kanady i został jej obywatelem w 1953 roku. Pisał głównie thrillery i scenariusze filmowe, między innymi dla Alfreda Hitchcocka, ale również powieści o wymowie antyklerykalnej, których akcję umiejscawiał w Irlandii i w Irlandii Północnej. Znany z klarownego stylu i znajomości kobiecej psychiki.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Governor_General's_Award_winning_fiction_writers"/>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-01-11</dbpedia-owl:deathDate>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_pulmonary_fibrosis"/>
-    <dbpprop:placeOfBirth xml:lang="en">Belfast, Northern Ireland, UK</dbpprop:placeOfBirth>
-    <rdfs:comment xml:lang="de">Brian Moore war ein irisch-kanadischer Schriftsteller und Drehbuchautor. Moore war der Sohn eines irischen Chirurgen und Nationalisten und wurde streng katholisch erzogen. Im Zweiten Weltkrieg diente er als Sanitäter. Nach dem Krieg arbeitete Moore für das UN-Hilfswerk in Polen. Hier begann er, Reportagen zu schreiben. 1948 verließ Moore Irland und wurde kanadischer Staatsbürger.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NovelistsFromNorthernIreland"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Brian_Moore_(romancier)"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Belfast"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Novelists_from_Northern_Ireland"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.laweekly.com/art+books/books/brian-moore-19211999/6901/"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Genie_Award_winners_for_Best_Screenplay"/>
-    <dbpprop:birthPlace xml:lang="en">Belfast, Northern Ireland, UK</dbpprop:birthPlace>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Malibu,_California"/>
-    <dbpprop:name xml:lang="en">Moore, Brian</dbpprop:name>
-    <dbpedia-owl:language rdf:resource="http://dbpedia.org/resource/English_language"/>
-    <foaf:name xml:lang="en">Brian Moore</foaf:name>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/7/7d/Brian_Moore_Novelist.jpg"/>
-    <dbpprop:nationality rdf:resource="http://dbpedia.org/resource/Canadians"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1999_deaths"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Brian_Moore"/>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Brian_Moore_(novelist)?oldid=480908597"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belfast"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dbpedia-owl:abstract xml:lang="pl">Brian Moore - pisarz irlandzki. Urodził się w północnoirlandzkiej katolickiej rodzinie, jako jedno z dziewięciorga dzieci, lecz już w młodości zerwał z Kościołem. W 1948 roku wyemigrował do Kanady i został jej obywatelem w 1953 roku. Pisał głównie thrillery i scenariusze filmowe, między innymi dla Alfreda Hitchcocka, ale również powieści o wymowie antyklerykalnej, których akcję umiejscawiał w Irlandii i w Irlandii Północnej. Znany z klarownego stylu i znajomości kobiecej psychiki. Trzy jego książki były nominowane do Nagrody Bookera.</dbpedia-owl:abstract>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-01-11</dbpprop:deathDate>
-    <dbpedia-owl:individualisedPnd xml:lang="de">119010763</dbpedia-owl:individualisedPnd>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&amp;Params=A1ARTA0005416/"/>
-    <dbpedia-owl:award rdf:resource="http://dbpedia.org/resource/James_Tait_Black_Memorial_Prize"/>
-    <rdfs:label xml:lang="en">Brian Moore (novelist)</rdfs:label>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Brian_Moore_Novelist.jpg/200px-Brian_Moore_Novelist.jpg"/>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</dbpprop:dateOfDeath>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">25</dbpprop:dateOfBirth>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Naturalized_citizens_of_Canada"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/1/hi/entertainment/253500.stm"/>
-    <dbpprop:deathPlace xml:lang="en">Malibu, California, US</dbpprop:deathPlace>
-    <dbpprop:awards rdf:resource="http://dbpedia.org/resource/James_Tait_Black_Memorial_Prize"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/St.Malachy'sCollegeAlumni"/>
-    <dbpedia-owl:abstract xml:lang="en">Brian Moore was a Northern Irish novelist and screenwriter who emigrated to Canada and later lived in the United States. He was acclaimed for the descriptions in his novels of life in Northern Ireland after the Second World War, in particular his explorations of the inter-communal divisions of The Troubles. He was awarded the James Tait Black Memorial Prize in 1975 and the inaugural Sunday Express Book of the Year award in 1987, and was shortlisted for the Booker Prize three times. Moore also wrote screenplays and several of his books were made into films.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Immigrants_to_Canada_from_Northern_Ireland"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1921-08-25</dbpedia-owl:birthDate>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.mysteryfile.com/Kiss05.html#Mara"/>
-    <rdfs:comment xml:lang="sv">Brian Moore, född 25 augusti 1921 i Belfast på ön Irland i dåvarande Förenade kungariket Storbritannien och Irland, död 11 januari 1999 i Malibu i USA, var en irländsk-brittisk och sedermera kanadensisk författare. Moores första roman, Judith Hearne, filmatiserades med Maggie Smith i huvudrollen. Flera av hans andra romaner har även de filmatiserats såsom, The Luck of Ginger Coffey, Catholics, Black Robe, Cold Heaven och The Statement.</rdfs:comment>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Brian_Moore_(novelist)"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://threemonkeysonline.com/book_blog/2010/novels/doubt-in-the-novel-brian-moores-cold-heaven"/>
-    <dbpedia-owl:abstract xml:lang="de">Brian Moore war ein irisch-kanadischer Schriftsteller und Drehbuchautor. Moore war der Sohn eines irischen Chirurgen und Nationalisten und wurde streng katholisch erzogen. Im Zweiten Weltkrieg diente er als Sanitäter. Nach dem Krieg arbeitete Moore für das UN-Hilfswerk in Polen. Hier begann er, Reportagen zu schreiben. 1948 verließ Moore Irland und wurde kanadischer Staatsbürger. Von 1948 bis 1952 arbeitete er für die Zeitung The Gazette in Montreal und publizierte gleichzeitig unter dem Pseudonym Michael Bryan Thriller. Sein erster, 1956 unter eigenem Namen veröffentlichter Roman The Lonely Passion of Judith Hearne brachte ihm ein Guggenheim-Stipendium in New York ein. Als Alfred Hitchcock ihn mit dem Drehbuch zu Torn Curtain (1966) beauftragte, ließ er sich in Kalifornien nieder. Von 1976 bis 1989 lehrte Moore an der University of California in Los Angeles. Obwohl Moore manchen als Agnostiker galt, lässt sich seine Position zum Christentum, geprägt von irischen Zuständen, als kritischer Katholizismus betrachten, der sich der modernen Welt stellt. Er erhielt zahlreiche Literaturpreise wie den Prix littéraire du Québec (1958) oder den Hughes Irish Fiction Award (1988). Moore war Mitglied bei Aosdána. Sein Werk erscheint auf Deutsch im Zürcher Diogenes Verlag.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="nl">Brian Moore was een Iers schrijver. Hij werd geboren in een groot katholiek doktersgezin. Zijn middelbareschooltijd herinnerde hij zich als een ramp. In de Tweede Wereldoorlog trad hij in dienst van het Britse Ministerie voor Oorlogstransporten en was actief in onder meer Algerije, Italië en Frankrijk. In 1948 vestigde hij zich in Canada en verwierf het Canadese staatsburgerschap. Vanaf de jaren 50 begon hij te schrijven, waarvoor hij zich altijd afzonderde van zijn gezin en vrienden.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="nl">Brian Moore was een Iers schrijver. Hij werd geboren in een groot katholiek doktersgezin. Zijn middelbareschooltijd herinnerde hij zich als een ramp. In de Tweede Wereldoorlog trad hij in dienst van het Britse Ministerie voor Oorlogstransporten en was actief in onder meer Algerije, Italië en Frankrijk. In 1948 vestigde hij zich in Canada en verwierf het Canadese staatsburgerschap. Vanaf de jaren 50 begon hij te schrijven, waarvoor hij zich altijd afzonderde van zijn gezin en vrienden. In 1964 hertrouwde hij met zijn tweede vrouw, Jean Denney, bij wie hij zich veel gelukkiger voelde. Een jaar later verhuisden ze naar Californië, waar hij in 1999 overleed. Zijn meest verkochte roman, The Lies of Silence (1990) is een thriller die speelt in Belfast. Moore maakte zich zorgen over de waanzin en 'dodelijke ziekte' waar Noord-Ierland volgens hem aan leed. In zijn werk wilde hij op de achtergrond blijven.</dbpedia-owl:abstract>
-    <rdfs:label xml:lang="de">Brian Moore</rdfs:label>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.channel4.com/culture/microsites/N/novel/novel_moore.html"/>
-    <foaf:surname xml:lang="en">Moore</foaf:surname>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
-    <dbpprop:awards rdf:resource="http://dbpedia.org/resource/Governor_General's_Award_for_English-language_fiction"/>
+    <dbpedia-owl:abstract xml:lang="fr">Brian Moore est un écrivain et journaliste irlandais. Né dans une famille catholique, il rejette très tôt sa foi. Outre ses romans, il publie plusieurs thrillers sous des pseudonymes. On lui doit également les scénarios des films Le Rideau déchiré d'Alfred Hitchcock et Le Sang des autres de Claude Chabrol, d'après le roman de Simone de Beauvoir. En 1948, il émigre au Canada et obtient la nationalité canadienne au bout de quelques années, cependant en 1966 il s'installe en Californie où il vivra jusqu'à sa mort.</dbpedia-owl:abstract>
     <dbpprop:name xml:lang="en">Brian Moore</dbpprop:name>
-    <dbpprop:shortDescription xml:lang="en">Irish expatriate writer and novelist</dbpprop:shortDescription>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1921_births"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Moore">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/An_Answer_from_Limbo">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Torn_Curtain">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Temptation_of_Eileen_Hughes">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Brian_Moore_%28novelist%29">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Blood_of_Others_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpprop:screenplay rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Catholics_(novel)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Revolution_Script">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lies_of_Silence">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cold_Heaven_(novel)">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Magician's_Wife">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Luck_of_Ginger_Coffey_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Am_Mary_Dunne">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Statement_(novel)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Feast_of_Lupercal">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Luck_of_Ginger_Coffey_(novel)">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Brian_Moore_(novelist)">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/No_Other_Life">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Great_Victorian_Collection">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Mangan_Inheritance">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Black_Robe_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fergus_(novel)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Judith_Hearne">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Emperor_of_Ice-Cream_(novel)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Moore_(novelist)"/>
+    <dbpedia-owl:award rdf:resource="http://dbpedia.org/resource/Governor_General's_Award_for_English-language_fiction"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.channel4.com/culture/microsites/N/novel/novel_moore.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.laweekly.com/art+books/books/brian-moore-19211999/6901/"/>
+    <dbpedia-owl:abstract xml:lang="en">Brian Moore was a Northern Irish novelist and screenwriter who emigrated to Canada and later lived in the United States. He was acclaimed for the descriptions in his novels of life in Northern Ireland after the Second World War, in particular his explorations of the inter-communal divisions of The Troubles. He was awarded the James Tait Black Memorial Prize in 1975 and the inaugural Sunday Express Book of the Year award in 1987, and was shortlisted for the Booker Prize three times. Moore also wrote screenplays and several of his books were made into films.</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <dbpprop:awards rdf:resource="http://dbpedia.org/resource/James_Tait_Black_Memorial_Prize"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Novelists_from_Northern_Ireland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Immigrants_to_Canada_from_Northern_Ireland"/>
+    <rdfs:comment xml:lang="pl">Brian Moore - pisarz irlandzki. Urodził się w północnoirlandzkiej katolickiej rodzinie, jako jedno z dziewięciorga dzieci, lecz już w młodości zerwał z Kościołem. W 1948 roku wyemigrował do Kanady i został jej obywatelem w 1953 roku. Pisał głównie thrillery i scenariusze filmowe, między innymi dla Alfreda Hitchcocka, ale również powieści o wymowie antyklerykalnej, których akcję umiejscawiał w Irlandii i w Irlandii Północnej. Znany z klarownego stylu i znajomości kobiecej psychiki.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belfast"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_pulmonary_fibrosis"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1999_deaths"/>
+    <rdfs:comment xml:lang="sv">Brian Moore, född 25 augusti 1921 i Belfast på ön Irland i dåvarande Förenade kungariket Storbritannien och Irland, död 11 januari 1999 i Malibu i USA, var en irländsk-brittisk och sedermera kanadensisk författare. Moores första roman, Judith Hearne, filmatiserades med Maggie Smith i huvudrollen. Flera av hans andra romaner har även de filmatiserats såsom, The Luck of Ginger Coffey, Catholics, Black Robe, Cold Heaven och The Statement.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Brian Moore was a Northern Irish novelist and screenwriter who emigrated to Canada and later lived in the United States. He was acclaimed for the descriptions in his novels of life in Northern Ireland after the Second World War, in particular his explorations of the inter-communal divisions of The Troubles. He was awarded the James Tait Black Memorial Prize in 1975 and the inaugural Sunday Express Book of the Year award in 1987, and was shortlisted for the Booker Prize three times.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="de">Brian Moore war ein irisch-kanadischer Schriftsteller und Drehbuchautor. Moore war der Sohn eines irischen Chirurgen und Nationalisten und wurde streng katholisch erzogen. Im Zweiten Weltkrieg diente er als Sanitäter. Nach dem Krieg arbeitete Moore für das UN-Hilfswerk in Polen. Hier begann er, Reportagen zu schreiben. 1948 verließ Moore Irland und wurde kanadischer Staatsbürger. Von 1948 bis 1952 arbeitete er für die Zeitung The Gazette in Montreal und publizierte gleichzeitig unter dem Pseudonym Michael Bryan Thriller. Sein erster, 1956 unter eigenem Namen veröffentlichter Roman The Lonely Passion of Judith Hearne brachte ihm ein Guggenheim-Stipendium in New York ein. Als Alfred Hitchcock ihn mit dem Drehbuch zu Torn Curtain (1966) beauftragte, ließ er sich in Kalifornien nieder. Von 1976 bis 1989 lehrte Moore an der University of California in Los Angeles. Obwohl Moore manchen als Agnostiker galt, lässt sich seine Position zum Christentum, geprägt von irischen Zuständen, als kritischer Katholizismus betrachten, der sich der modernen Welt stellt. Er erhielt zahlreiche Literaturpreise wie den Prix littéraire du Québec (1958) oder den Hughes Irish Fiction Award (1988). Moore war Mitglied bei Aosdána. Sein Werk erscheint auf Deutsch im Zürcher Diogenes Verlag.</dbpedia-owl:abstract>
+    <dbpedia-owl:individualisedPnd xml:lang="de">119010763</dbpedia-owl:individualisedPnd>
+    <dbpprop:placeOfDeath xml:lang="en">Malibu, California, U.S.</dbpprop:placeOfDeath>
   </rdf:Description>
 </rdf:RDF>

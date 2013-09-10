@@ -8,15 +8,39 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/57676906/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/57676906"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/57676906">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Peter_Sirr"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Sirr, Peter</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/102179131/id"/>
+    <rdaGr2:dateOfBirth>1960</rdaGr2:dateOfBirth>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Sirr, Peter, 1960-</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/128886226"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C102179131#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C128886226#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <skos:prefLabel>Sirr, Peter, 1960-</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/57676906"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++84223311#skos:Concept">
+    <skos:prefLabel>Sirr, Peter, 1960-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/57676906"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n84223311"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/57676906/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/57676906"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C102179131#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/57676906"/>
+    <skos:prefLabel>Sirr, Peter, 1960-</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CPeter_Sirr#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
@@ -24,36 +48,12 @@
     <skos:prefLabel>Sirr, Peter</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/57676906"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C128886226#skos:Concept">
-    <skos:prefLabel>Sirr, Peter, 1960-</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/57676906"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/57676906/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/57676906"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/57676906/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/57676906"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/57676906"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/57676906/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/57676906"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/57676906">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Sirr, Peter</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/128886226"/>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/102179131/id"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Peter_Sirr"/>
-    <foaf:name>Sirr, Peter, 1960-</foaf:name>
-    <rdaGr2:dateOfBirth>1960</rdaGr2:dateOfBirth>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++84223311#skos:Concept">
-    <skos:prefLabel>Sirr, Peter, 1960-</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/57676906"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n84223311"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
   </rdf:Description>
 </rdf:RDF>

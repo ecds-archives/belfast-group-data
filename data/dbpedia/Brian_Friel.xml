@@ -9,145 +9,107 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_McGuinness">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Brian_Friel">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Friel">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philadelphia,_Here_I_Come!">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dancing_at_Lughnasa">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Friel">
-    <dbpprop:awards xml:lang="en">Lovers</dbpprop:awards>
-    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1929-01-09</dbpprop:birthDate>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Luigi_Pirandello"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Killyclogher"/>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Brian_Friel?oldid=491937003"/>
-    <dbpedia-owl:abstract xml:lang="ru">Брайен Фрил (р. 1929) — ирландский писатель и драматург. В 1948 году окончил колледж св. Патрика со степенью бакалавра искусств. Затем учился в педагогическом колледже св. Иосифа. Работал учителем в школах округа Лондондерри (1950—1960). Начал писать в 1950-е годы радиопьесы и рассказы для журнала «Нью-Йоркер». Написанная в 1963 году пьесу «Филадельфия, я иду к тебе!», впервые представленная на театральном фестивале в Дублине (1964), после — в Нью-Йорке (1966) и Лондоне (1967), получила зрительское признание. Затем писал мелодраматические пьесы. Первая политическая пьеса «Почетные граждане» (1973) о событиях «кровавого воскресенья» 1972 года была представлена одновременно в театре «Ройял Корт» в Лондоне и в Театре Аббатства в Дублине. Пьеса «Переводы» (1980) о конфликте Ирландии с Великобританией стала первой постановкой труппы «Филд Дей Тиэтр», созданной Фрилом вместе с актером Стивеном Ри, поэтом Шеймасом Хини и др. За пьесу «Танцы на празднике Луга» Фрил в 1991 году получил Премию Лоренса Оливье, годом позже — нью-йоркскую премию Тони. Эта, построеннная на автобиографическом материале, пьеса в 1999 году была экранизирована. Автор сборников рассказов «Поддонник с шутками» (1962), «Золото в море» (1966) и «Избранные рассказы» (1994). Фрил переводил на английский язык пьес других авторов, в том числе А.  П.  Чехова и И.  С.  Тургенева.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishDramatistsAndPlaywrights"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=9780521873864"/>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/브라이언_프리엘"/>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Фрил,_Брайен"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Brian_Friel"/>
+    <dbpprop:collaborator rdf:resource="http://dbpedia.org/resource/Seamus_Heaney"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Brian_Friel"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Independent_politicians_in_Ireland"/>
-    <dbpedia-owl:abstract xml:lang="pt">Brian Friel é um dramaturgo norte-ielandês.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_dramatists_and_playwrights"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Tyrone"/>
-    <dbpprop:awards xml:lang="en">• NY Drama Critics Circle Award</dbpprop:awards>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Year_Awards_winners"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.faber.co.uk/index.html"/>
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/St_Patrick's_College,_Maynooth"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Killyclogher"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://aosdana.artscouncil.ie/Members/Literature/Friel.aspx"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfStPatrick'sCollege,Maynooth"/>
-    <dbpprop:birthName xml:lang="en">Bernard Patrick Friel</dbpprop:birthName>
-    <rdfs:comment xml:lang="fr">Brian Friel est un dramaturge irlandais né le 9 janvier 1929 à Omagh en Irlande du Nord.</rdfs:comment>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Bertolt_Brecht"/>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Brian_Friel"/>
-    <rdfs:label xml:lang="en">Brian Friel</rdfs:label>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdfs:comment xml:lang="fi">Brian Friel on pohjoisirlantilainen näytelmäkirjailija, jonka töiden joukossa ovat Lovers ja Dancing at Lughnasa. Hän perusti vuonna 1980 Stephen Rean kanssa Field Day Theatre Companyn Londonderryssä.</rdfs:comment>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Abbey_Theatre"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IndependentPoliticiansInIreland"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Killyclogher"/>
+    <dbpprop:awards xml:lang="en">Dancing at Lughnasa</dbpprop:awards>
+    <dbpprop:ethnicity rdf:resource="http://dbpedia.org/resource/Irish"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1929-01-09</dbpedia-owl:birthDate>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Brian_Friel"/>
+    <dbpedia-owl:abstract xml:lang="en">Brian Friel (born 9 January 1929) is an Irish dramatist, author and director of the Field Day Theatre Company. He is considered to be the greatest living English-language dramatist, hailed by the English-speaking world as an "Irish Chekhov" and "the universally accented voice of Ireland". Friel is best known for plays such as Philadelphia, Here I Come! and Dancing at Lughnasa but has written more than thirty plays in a six-decade spanning career that has seen him elected Saoi of Aosdána. His plays have been a regular feature on Broadway throughout this time. Philadelphia, Here I Come! was turned into a film in 1975, starring Donal McCann, directed by John Quested, screenplay by Brian Friel. In 1980 Friel co-founded Field Day Theatre Company and his play Translations was the company's first production. Neil Jordan completed a screenplay for a film version of Translations that was never produced. With Field Day Friel has collaborated with Seamus Heaney, 1995 recipient of the Nobel Prize in Literature. Heaney and Friel have been friends from a young age. Dancing at Lughnasa brought Friel great acclaim internationally, winning him several Tony Awards, including Best Play, the Laurence Olivier award for Best Play and the New York Drama Critics Circle award for best play. It was also turned into a film in 1998, starring Meryl Streep, directed by Pat O'Connor, script by County Donegal playwright Frank McGuinness. His play Lovers was adapted into an opera by Richard Wargo entitled Ballymore (1999), which was premiered by the Skylight Opera Theatre, Milwaukee, in February 1999. Friel is a member of the American Academy of Arts and Letters, the British Royal Society of Literature and the Irish Academy of Letters. The Brian Friel Theatre, a studio theatre in Belfast, is named after him. He was appointed to Seanad Éireann in 1987 and served until 1989. Richard Pine has written and edited his definitive history.</dbpedia-owl:abstract>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1929-01-09</dbpprop:birthDate>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.faber.co.uk/index.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromOmagh"/>
+    <dbpedia-owl:abstract xml:lang="ru">Брайен Фрил (р. 1929) — ирландский писатель и драматург. В 1948 году окончил колледж св. Патрика со степенью бакалавра искусств. Затем учился в педагогическом колледже св. Иосифа. Работал учителем в школах округа Лондондерри (1950—1960). Начал писать в 1950-е годы радиопьесы и рассказы для журнала «Нью-Йоркер». Написанная в 1963 году пьесу «Филадельфия, я иду к тебе!», впервые представленная на театральном фестивале в Дублине (1964), после — в Нью-Йорке (1966) и Лондоне (1967), получила зрительское признание. Затем писал мелодраматические пьесы. Первая политическая пьеса «Почетные граждане» (1973) о событиях «кровавого воскресенья» 1972 года была представлена одновременно в театре «Ройял Корт» в Лондоне и в Театре Аббатства в Дублине. Пьеса «Переводы» (1980) о конфликте Ирландии с Великобританией стала первой постановкой труппы «Филд Дей Тиэтр», созданной Фрилом вместе с актером Стивеном Ри, поэтом Шеймасом Хини и др. За пьесу «Танцы на празднике Луга» Фрил в 1991 году получил Премию Лоренса Оливье, годом позже — нью-йоркскую премию Тони. Эта, построеннная на автобиографическом материале, пьеса в 1999 году была экранизирована. Автор сборников рассказов «Поддонник с шутками» (1962), «Золото в море» (1966) и «Избранные рассказы» (1994). Фрил переводил на английский язык пьес других авторов, в том числе А.  П.  Чехова и И.  С.  Тургенева.</dbpedia-owl:abstract>
+    <dbpprop:name xml:lang="en">Brian Friel</dbpprop:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ucdpress.ie/ucdpress/display.asp?K=9781900621236&amp;st_01=Pine&amp;sf_01=cauthor&amp;sf_02=ctitle&amp;sf_03=keyword&amp;sort=%24RANK&amp;m=1&amp;dc=1"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Article_Feedback_5"/>
+    <dbpprop:education rdf:resource="http://dbpedia.org/resource/St_Patrick's_College,_Maynooth"/>
+    <dbpprop:alt xml:lang="en">Brian Friel by Bobbie Hanvey</dbpprop:alt>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Killyclogher"/>
     <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_playwright"/>
-    <dbpedia-owl:abstract xml:lang="de">Brian Friel ist ein irischer Dramatiker. Friel lebte lange Zeit im nordirischen Derry City, bevor er 1967 in die Grafschaft Donegal in der Republik Irland zog. Aus seiner Feder stammen zahlreiche Theaterstücke (oft zu spezifisch irischen Themen), die auch in andere Sprachen übersetzt wurden. Seine ersten (unveröffentlichten) Werke entstanden Ende der 1950er- und Anfang der 1960er-Jahre. Mit Philadelphia, ich bin da! (1964) gelang Friel der internationale Durchbruch. Der katholische Friel gründete 1980 mit dem protestantischen Stephen Rea die "Field Day Theatre Company" in Derry, die der vom Nordirlandkonflikt betroffenen Stadt eine neue Grundlage für die gemeinsame kulturelle Identifikation von Katholiken und Protestanten geben wollte. Die erste Produktion der Field Day Theatre Company war die Uraufführung von Friels Sprachstörungen am 23. September 1980. Neben Stephen Rea gehörte auch Liam Neeson zur Besetzung. 1987 wurde Friel von Taoiseach Charles J. Haughey zum Senator im 18. Seanad Éireann nominiert. Lughnasa – Zeit des Tanzes wurde 1998 mit Meryl Streep und Michael Gambon verfilmt. (Der deutsche Titel des Filmes lautet Tanz in die Freiheit.)</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1929_births"/>
+    <dbpedia-owl:abstract xml:lang="ko">브라이언 프리엘은 아일랜드의 극작가다. 학교 선생을 하다가 1960년부터 극작에 전념하였다. 첫 작품은 아일랜드의 성자를 다룬 &lt;안에 있는 적&gt;(1960)이지만 그의 대표작은 &lt;필라델피아, 내가 여기 왔노라&gt;(1964)이다. 미국으로 이민을 갈 한 젊은이의 내적 감정을 관객에게만 보이는 제2의 인물을 통해 표현해 주고 있는데 이러한 수법은 대화, 특히 내면의 자아와의 대화가 불가능하다는 주제를 살려 주고 있다. 그 밖의 작품으로는 70세의 불굴의 여인을 다룬 &lt;카스 맥과이어의 사랑&gt;(1966)과 사랑을 파르스적(的)으로 그린 두 개의 단막극으로 된 &lt;연인들&gt;(1967)이 있다.</dbpedia-owl:abstract>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118990829</dbpedia-owl:individualisedPnd>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfLiterature"/>
-    <rdfs:comment xml:lang="en">Brian Friel (born 9 January 1929) is an Irish dramatist, author and director of the Field Day Theatre Company. He is considered to be the greatest living English-language dramatist, hailed by the English-speaking world as an "Irish Chekhov" and "the universally accented voice of Ireland". Friel is best known for plays such as Philadelphia, Here I Come! and Dancing at Lughnasa but has written more than thirty plays in a six-decade spanning career that has seen him elected Saoi of Aosdána.</rdfs:comment>
-    <dbpprop:awards xml:lang="en">• Olivier Award</dbpprop:awards>
-    <rdfs:comment xml:lang="ru">Брайен Фрил (р. 1929) — ирландский писатель и драматург. В 1948 году окончил колледж св. Патрика со степенью бакалавра искусств. Затем учился в педагогическом колледже св. Иосифа. Работал учителем в школах округа Лондондерри (1950—1960). Начал писать в 1950-е годы радиопьесы и рассказы для журнала «Нью-Йоркер».</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="fi">Brian Friel on pohjoisirlantilainen näytelmäkirjailija, jonka töiden joukossa ovat Lovers ja Dancing at Lughnasa. Hän perusti vuonna 1980 Stephen Rean kanssa Field Day Theatre Companyn Londonderryssä.</dbpedia-owl:abstract>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.faber.co.uk/book_detail.html?bid=35883"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Ulster"/>
-    <dbpprop:awards xml:lang="en">• Tony Award for Best Play for</dbpprop:awards>
-    <dbpprop:name xml:lang="en">Brian Friel</dbpprop:name>
-    <dbpprop:spouse xml:lang="en">Anne Morrison</dbpprop:spouse>
-    <dbpedia-owl:abstract xml:lang="fi">Brian Friel on pohjoisirlantilainen näytelmäkirjailija, jonka töiden joukossa ovat Lovers ja Dancing at Lughnasa. Hän perusti vuonna 1980 Stephen Rean kanssa Field Day Theatre Companyn Londonderryssä.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Brian_Friel"/>
-    <dbpedia-owl:abstract xml:lang="it">Nato a Omagh, Contea di Tyrone, ricevette la sua educazione al St. Columb's College a Derry e, per breve tempo, al seminario di St. Patrick's College, Maynooth, così come a Belfast. Insegnò in varie scuole nella contea di Londonderry dal 1950 al 1960. Friel cominciò la sua carriera scrivendo brevi storie per il The New Yorker nel 1959 e in seguito pubblicò due collezioni: The Saucer of Larks e L'Oro del Mare (The Gold of the Sea). I suoi primi programmi radio furono prodotti dalla BBC, a Belfast, nel 1958. La sua prima opera - This Doubtful Paradise - rappresentata nel 1959 e pochi anni dopo The Enemy Within (1962) gli diede riconoscimento in Irlanda. Philadelphia Here I Come! (1964), Gli amori di Cass McGuire (The Loves of Cass McGuire) (1966, 1999 in italia), e Lovers (1967) ebbero grande successo in Irlanda, così come oltre oceano. Dancing at Lughnasa (1990), probabilmente la sua opera più famosa, rappresentata all'Abbey Theatre, si trasferì al London's West End e fu rappresentata a Broadway, dove vinse tre Tony Awards nel 1992, compreso il premio di Miglior Opera. La più recente opera di Friel è The Home Place (2004), che dopo una stagione di tutto esaurito al Gate Theater a Dublino, si trasferì al West End di Londra il 25 maggio, 2005. La maggior parte delle opere di Friel sono state rappresentate interamente a Dublino all'Abbey Theatre, al Gate e all'Olympia, in molti teatri a Londra e a Broadway. Ballando a Lughnasa fu trasformata in un film nel 1998. Brian Friel fu premiato con un dottorato ad honorium dal Rosary College, River Forest, Illinois nel 1974. Nel 1989, la BBC Radio dedicò una stagione di sei opere al suo lavoro, il primo scrittore vivente ad essere contraddistinto da ciò. Friel ricevette un premio dall'Irish Times nel 1999. Egli è un membro dell'American Academy of Arts and Letters, l'inglese Royal Society of Literature e l'Irish Academy of Letters. Friel fondò (insieme con l'attore Stephen Rea e l'ex compagno di scuola del St. Columb's, Tom Paulin, Seamus Heaney e Seamus Deane) il Field Day Theatre Company, dove molti dei suoi pezzi, compreso Translations (1980), The Communication Cord (1982) and Making History (1988) furono rappresentati. Il 22 gennaio 2006 Friel fu presentato con una Torcia d'oro dal Presidente Mary McAleese in riconoscimento del fatto che quel membro dell'Aosdána lo aveva eletto un Saoi. Solo cinque membri dell'Aosdána possono avere questo onore e Friel si unì a Saoithe Louis le Brocquy, Benedict Kiely, Seamus Heaney and Anthony Cronin. Friel vive nel Donegal, dove è arrivato da Derry nel 1967. In italiano è stata tradotta una scelta dei racconti in L'oro del mare. Racconti irlandesi, a cura di Fiorenzo Fantaccini, Firenze, Le Lettere, 2002.</dbpedia-owl:abstract>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Tyrone"/>
-    <rdfs:label xml:lang="de">Brian Friel</rdfs:label>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <dbpprop:collaborator rdf:resource="http://dbpedia.org/resource/Seamus_Heaney"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_St_Patrick's_College,_Maynooth"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/c/c0/Brian_Friel's_Residence,_Omagh_-_geograph.org.uk_-_197696.jpg"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.press.umich.edu:80/titleDetailDesc.do?id=10757"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1929-01-09</dbpedia-owl:birthDate>
-    <rdfs:comment xml:lang="ko">브라이언 프리엘은 아일랜드의 극작가다. 학교 선생을 하다가 1960년부터 극작에 전념하였다. 첫 작품은 아일랜드의 성자를 다룬 &lt;안에 있는 적&gt;(1960)이지만 그의 대표작은 &lt;필라델피아, 내가 여기 왔노라&gt;(1964)이다. 미국으로 이민을 갈 한 젊은이의 내적 감정을 관객에게만 보이는 제2의 인물을 통해 표현해 주고 있는데 이러한 수법은 대화, 특히 내면의 자아와의 대화가 불가능하다는 주제를 살려 주고 있다. 그 밖의 작품으로는 70세의 불굴의 여인을 다룬 &lt;카스 맥과이어의 사랑&gt;(1966)과 사랑을 파르스적(的)으로 그린 두 개의 단막극으로 된 &lt;연인들&gt;(1967)이 있다.</rdfs:comment>
-    <dbpprop:education xml:lang="en">St. Joseph's Training College, Belfast</dbpprop:education>
-    <rdfs:comment xml:lang="pt">Brian Friel é um dramaturgo norte-ielandês.</rdfs:comment>
-    <foaf:givenName xml:lang="en">Brian</foaf:givenName>
-    <rdfs:comment xml:lang="it">Nato a Omagh, Contea di Tyrone, ricevette la sua educazione al St. Columb's College a Derry e, per breve tempo, al seminario di St. Patrick's College, Maynooth, così come a Belfast. Insegnò in varie scuole nella contea di Londonderry dal 1950 al 1960. Friel cominciò la sua carriera scrivendo brevi storie per il The New Yorker nel 1959 e in seguito pubblicò due collezioni: The Saucer of Larks e L'Oro del Mare (The Gold of the Sea).</rdfs:comment>
-    <dbpedia-owl:individualisedPnd xml:lang="de">118990829</dbpedia-owl:individualisedPnd>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Brian_Friel"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Brian_Friel's_Residence,_Omagh_-_geograph.org.uk_-_197696.jpg/200px-Brian_Friel's_Residence,_Omagh_-_geograph.org.uk_-_197696.jpg"/>
-    <dbpprop:awards xml:lang="en">Dancing at Lughnasa</dbpprop:awards>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0122m5"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Omagh"/>
-    <dbpedia-owl:abstract xml:lang="fr">Brian Friel est un dramaturge irlandais né le 9 janvier 1929 à Omagh en Irlande du Nord.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleOfTheYearAwardsWinners"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Anton_Chekhov"/>
+    <rdfs:comment xml:lang="fr">Brian Friel est un dramaturge irlandais né le 9 janvier 1929 à Omagh en Irlande du Nord.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/브라이언_프리엘"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IndependentPoliticiansInIreland"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_St_Columb's_College"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Christopher_Ewart-Biggs_Memorial_Prize_recipients"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Brian_Friel"/>
-    <dbpprop:caption xml:lang="en">Promotional photo advertising Friel's Faith Healer at the 2009 Edinburgh International Festival. Photo by Bobbie Hanvey.</dbpprop:caption>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
-    <dbpprop:name xml:lang="en">Friel, Brian</dbpprop:name>
-    <dbpedia-owl:abstract xml:lang="ko">브라이언 프리엘은 아일랜드의 극작가다. 학교 선생을 하다가 1960년부터 극작에 전념하였다. 첫 작품은 아일랜드의 성자를 다룬 &lt;안에 있는 적&gt;(1960)이지만 그의 대표작은 &lt;필라델피아, 내가 여기 왔노라&gt;(1964)이다. 미국으로 이민을 갈 한 젊은이의 내적 감정을 관객에게만 보이는 제2의 인물을 통해 표현해 주고 있는데 이러한 수법은 대화, 특히 내면의 자아와의 대화가 불가능하다는 주제를 살려 주고 있다. 그 밖의 작품으로는 70세의 불굴의 여인을 다룬 &lt;카스 맥과이어의 사랑&gt;(1966)과 사랑을 파르스적(的)으로 그린 두 개의 단막극으로 된 &lt;연인들&gt;(1967)이 있다.</dbpedia-owl:abstract>
-    <dbpprop:ethnicity rdf:resource="http://dbpedia.org/resource/Irish"/>
-    <dbpprop:alt xml:lang="en">Brian Friel by Bobbie Hanvey</dbpprop:alt>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Article_Feedback_5"/>
-    <dbpprop:collaborator rdf:resource="http://dbpedia.org/resource/Stephen_Rea"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ucdpress.ie/ucdpress/display.asp?K=9781900621236&amp;st_01=Pine&amp;sf_01=cauthor&amp;sf_02=ctitle&amp;sf_03=keyword&amp;sort=%24RANK&amp;m=1&amp;dc=1"/>
-    <rdfs:comment xml:lang="de">Brian Friel ist ein irischer Dramatiker. Friel lebte lange Zeit im nordirischen Derry City, bevor er 1967 in die Grafschaft Donegal in der Republik Irland zog. Aus seiner Feder stammen zahlreiche Theaterstücke (oft zu spezifisch irischen Themen), die auch in andere Sprachen übersetzt wurden. Seine ersten (unveröffentlichten) Werke entstanden Ende der 1950er- und Anfang der 1960er-Jahre. Mit Philadelphia, ich bin da! (1964) gelang Friel der internationale Durchbruch.</rdfs:comment>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dbpprop:dateOfBirth>
+    <rdfs:comment xml:lang="fi">Brian Friel on pohjoisirlantilainen näytelmäkirjailija, jonka töiden joukossa ovat Lovers ja Dancing at Lughnasa. Hän perusti vuonna 1980 Stephen Rean kanssa Field Day Theatre Companyn Londonderryssä.</rdfs:comment>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Luigi_Pirandello"/>
+    <foaf:givenName xml:lang="en">Brian</foaf:givenName>
+    <dbpedia-owl:abstract xml:lang="fr">Brian Friel est un dramaturge irlandais né le 9 janvier 1929 à Omagh en Irlande du Nord.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Year_Awards_winners"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_dramatists_and_playwrights"/>
     <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
-    <dbpedia-owl:abstract xml:lang="en">Brian Friel (born 9 January 1929) is an Irish dramatist, author and director of the Field Day Theatre Company. He is considered to be the greatest living English-language dramatist, hailed by the English-speaking world as an "Irish Chekhov" and "the universally accented voice of Ireland". Friel is best known for plays such as Philadelphia, Here I Come! and Dancing at Lughnasa but has written more than thirty plays in a six-decade spanning career that has seen him elected Saoi of Aosdána. His plays have been a regular feature on Broadway throughout this time. Philadelphia, Here I Come! was turned into a film in 1975, starring Donal McCann, directed by John Quested, screenplay by Brian Friel. In 1980 Friel co-founded Field Day Theatre Company and his play Translations was the company's first production. Neil Jordan completed a screenplay for a film version of Translations that was never produced. With Field Day Friel has collaborated with Seamus Heaney, 1995 recipient of the Nobel Prize in Literature. Heaney and Friel have been friends from a young age. Dancing at Lughnasa brought Friel great acclaim internationally, winning him several Tony Awards, including Best Play, the Laurence Olivier award for Best Play and the New York Drama Critics Circle award for best play. It was also turned into a film in 1998, starring Meryl Streep, directed by Pat O'Connor, script by County Donegal playwright Frank McGuinness. His play Lovers was adapted into an opera by Richard Wargo entitled Ballymore (1999), which was premiered by the Skylight Opera Theatre, Milwaukee, in February 1999. Friel is a member of the American Academy of Arts and Letters, the British Royal Society of Literature and the Irish Academy of Letters. The Brian Friel Theatre, a studio theatre in Belfast, is named after him. He was appointed to Seanad Éireann in 1987 and served until 1989. Richard Pine has written and edited his definitive history.</dbpedia-owl:abstract>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Killyclogher"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Tyrone"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_18th_Seanad"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfTheUniversityOfUlster"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromOmagh"/>
-    <dbpprop:awards xml:lang="en">• Writers' Guild of Britain Award</dbpprop:awards>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Brian_Friel"/>
-    <foaf:surname xml:lang="en">Friel</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Фрил,_Брайен"/>
     <foaf:name xml:lang="en">Brian Friel</foaf:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Brian_Friel"/>
+    <dbpprop:collaborator rdf:resource="http://dbpedia.org/resource/Stephen_Rea"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleOfTheYearAwardsWinners"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1929_births"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Christopher_Ewart-Biggs_Memorial_Prize_recipients"/>
+    <dbpprop:name xml:lang="en">Friel, Brian</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishDramatistsAndPlaywrights"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Bertolt_Brecht"/>
+    <dbpprop:caption xml:lang="en">Promotional photo advertising Friel's Faith Healer at the 2009 Edinburgh International Festival. Photo by Bobbie Hanvey.</dbpprop:caption>
+    <dbpedia-owl:abstract xml:lang="it">Nato a Omagh, Contea di Tyrone, ricevette la sua educazione al St. Columb's College a Derry e, per breve tempo, al seminario di St. Patrick's College, Maynooth, così come a Belfast. Insegnò in varie scuole nella contea di Londonderry dal 1950 al 1960. Friel cominciò la sua carriera scrivendo brevi storie per il The New Yorker nel 1959 e in seguito pubblicò due collezioni: The Saucer of Larks e L'Oro del Mare (The Gold of the Sea). I suoi primi programmi radio furono prodotti dalla BBC, a Belfast, nel 1958. La sua prima opera - This Doubtful Paradise - rappresentata nel 1959 e pochi anni dopo The Enemy Within (1962) gli diede riconoscimento in Irlanda. Philadelphia Here I Come! (1964), Gli amori di Cass McGuire (The Loves of Cass McGuire) (1966, 1999 in italia), e Lovers (1967) ebbero grande successo in Irlanda, così come oltre oceano. Dancing at Lughnasa (1990), probabilmente la sua opera più famosa, rappresentata all'Abbey Theatre, si trasferì al London's West End e fu rappresentata a Broadway, dove vinse tre Tony Awards nel 1992, compreso il premio di Miglior Opera. La più recente opera di Friel è The Home Place (2004), che dopo una stagione di tutto esaurito al Gate Theater a Dublino, si trasferì al West End di Londra il 25 maggio, 2005. La maggior parte delle opere di Friel sono state rappresentate interamente a Dublino all'Abbey Theatre, al Gate e all'Olympia, in molti teatri a Londra e a Broadway. Ballando a Lughnasa fu trasformata in un film nel 1998. Brian Friel fu premiato con un dottorato ad honorium dal Rosary College, River Forest, Illinois nel 1974. Nel 1989, la BBC Radio dedicò una stagione di sei opere al suo lavoro, il primo scrittore vivente ad essere contraddistinto da ciò. Friel ricevette un premio dall'Irish Times nel 1999. Egli è un membro dell'American Academy of Arts and Letters, l'inglese Royal Society of Literature e l'Irish Academy of Letters. Friel fondò (insieme con l'attore Stephen Rea e l'ex compagno di scuola del St. Columb's, Tom Paulin, Seamus Heaney e Seamus Deane) il Field Day Theatre Company, dove molti dei suoi pezzi, compreso Translations (1980), The Communication Cord (1982) and Making History (1988) furono rappresentati. Il 22 gennaio 2006 Friel fu presentato con una Torcia d'oro dal Presidente Mary McAleese in riconoscimento del fatto che quel membro dell'Aosdána lo aveva eletto un Saoi. Solo cinque membri dell'Aosdána possono avere questo onore e Friel si unì a Saoithe Louis le Brocquy, Benedict Kiely, Seamus Heaney and Anthony Cronin. Friel vive nel Donegal, dove è arrivato da Derry nel 1967. In italiano è stata tradotta una scelta dei racconti in L'oro del mare. Racconti irlandesi, a cura di Fiorenzo Fantaccini, Firenze, Le Lettere, 2002.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Tyrone"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Aosd%C3%A1na_members"/>
+    <rdfs:comment xml:lang="pt">Brian Friel é um dramaturgo norte-ielandês.</rdfs:comment>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Brian_Friel?oldid=491937003"/>
+    <rdfs:comment xml:lang="de">Brian Friel ist ein irischer Dramatiker. Friel lebte lange Zeit im nordirischen Derry City, bevor er 1967 in die Grafschaft Donegal in der Republik Irland zog. Aus seiner Feder stammen zahlreiche Theaterstücke (oft zu spezifisch irischen Themen), die auch in andere Sprachen übersetzt wurden. Seine ersten (unveröffentlichten) Werke entstanden Ende der 1950er- und Anfang der 1960er-Jahre. Mit Philadelphia, ich bin da! (1964) gelang Friel der internationale Durchbruch.</rdfs:comment>
+    <dbpprop:spouse xml:lang="en">Anne Morrison</dbpprop:spouse>
+    <rdfs:label xml:lang="en">Brian Friel</rdfs:label>
     <dbpprop:awards xml:lang="en">Philadelphia, Here I Come!</dbpprop:awards>
+    <dbpprop:awards xml:lang="en">• Writers' Guild of Britain Award</dbpprop:awards>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=9780521873864"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Brian_Friel"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Tyrone"/>
+    <rdfs:comment xml:lang="en">Brian Friel (born 9 January 1929) is an Irish dramatist, author and director of the Field Day Theatre Company. He is considered to be the greatest living English-language dramatist, hailed by the English-speaking world as an "Irish Chekhov" and "the universally accented voice of Ireland". Friel is best known for plays such as Philadelphia, Here I Come! and Dancing at Lughnasa but has written more than thirty plays in a six-decade spanning career that has seen him elected Saoi of Aosdána.</rdfs:comment>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.press.umich.edu:80/titleDetailDesc.do?id=10757"/>
+    <rdfs:label xml:lang="de">Brian Friel</rdfs:label>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Brian_Friel's_Residence,_Omagh_-_geograph.org.uk_-_197696.jpg/200px-Brian_Friel's_Residence,_Omagh_-_geograph.org.uk_-_197696.jpg"/>
+    <dbpprop:awards xml:lang="en">• NY Drama Critics Circle Award</dbpprop:awards>
+    <foaf:surname xml:lang="en">Friel</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Omagh"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0122m5"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dbpprop:dateOfBirth>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Brian_Friel"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Killyclogher"/>
+    <rdfs:comment xml:lang="ru">Брайен Фрил (р. 1929) — ирландский писатель и драматург. В 1948 году окончил колледж св. Патрика со степенью бакалавра искусств. Затем учился в педагогическом колледже св. Иосифа. Работал учителем в школах округа Лондондерри (1950—1960). Начал писать в 1950-е годы радиопьесы и рассказы для журнала «Нью-Йоркер».</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="de">Brian Friel ist ein irischer Dramatiker. Friel lebte lange Zeit im nordirischen Derry City, bevor er 1967 in die Grafschaft Donegal in der Republik Irland zog. Aus seiner Feder stammen zahlreiche Theaterstücke (oft zu spezifisch irischen Themen), die auch in andere Sprachen übersetzt wurden. Seine ersten (unveröffentlichten) Werke entstanden Ende der 1950er- und Anfang der 1960er-Jahre. Mit Philadelphia, ich bin da! (1964) gelang Friel der internationale Durchbruch. Der katholische Friel gründete 1980 mit dem protestantischen Stephen Rea die "Field Day Theatre Company" in Derry, die der vom Nordirlandkonflikt betroffenen Stadt eine neue Grundlage für die gemeinsame kulturelle Identifikation von Katholiken und Protestanten geben wollte. Die erste Produktion der Field Day Theatre Company war die Uraufführung von Friels Sprachstörungen am 23. September 1980. Neben Stephen Rea gehörte auch Liam Neeson zur Besetzung. 1987 wurde Friel von Taoiseach Charles J. Haughey zum Senator im 18. Seanad Éireann nominiert. Lughnasa – Zeit des Tanzes wurde 1998 mit Meryl Streep und Michael Gambon verfilmt. (Der deutsche Titel des Filmes lautet Tanz in die Freiheit.)</dbpedia-owl:abstract>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Tyrone"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Brian_Friel"/>
+    <dbpprop:awards xml:lang="en">• Tony Award for Best Play for</dbpprop:awards>
+    <dbpprop:awards xml:lang="en">• Olivier Award</dbpprop:awards>
+    <rdfs:comment xml:lang="it">Nato a Omagh, Contea di Tyrone, ricevette la sua educazione al St. Columb's College a Derry e, per breve tempo, al seminario di St. Patrick's College, Maynooth, così come a Belfast. Insegnò in varie scuole nella contea di Londonderry dal 1950 al 1960. Friel cominciò la sua carriera scrivendo brevi storie per il The New Yorker nel 1959 e in seguito pubblicò due collezioni: The Saucer of Larks e L'Oro del Mare (The Gold of the Sea).</rdfs:comment>
+    <dbpprop:birthName xml:lang="en">Bernard Patrick Friel</dbpprop:birthName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_St_Patrick's_College,_Maynooth"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
+    <rdfs:comment xml:lang="ko">브라이언 프리엘은 아일랜드의 극작가다. 학교 선생을 하다가 1960년부터 극작에 전념하였다. 첫 작품은 아일랜드의 성자를 다룬 &lt;안에 있는 적&gt;(1960)이지만 그의 대표작은 &lt;필라델피아, 내가 여기 왔노라&gt;(1964)이다. 미국으로 이민을 갈 한 젊은이의 내적 감정을 관객에게만 보이는 제2의 인물을 통해 표현해 주고 있는데 이러한 수법은 대화, 특히 내면의 자아와의 대화가 불가능하다는 주제를 살려 주고 있다. 그 밖의 작품으로는 70세의 불굴의 여인을 다룬 &lt;카스 맥과이어의 사랑&gt;(1966)과 사랑을 파르스적(的)으로 그린 두 개의 단막극으로 된 &lt;연인들&gt;(1967)이 있다.</rdfs:comment>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://arrow.dit.ie/cgi/viewcontent.cgi?article=1000&amp;context=aaschadpoth"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.nytimes.com/48796547266635522733">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Enemy_Within_(play)">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Enemy_Within">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Freedom_of_the_City">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dancing_at_Lughnasa_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Brian_Friel">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Brian_Friel"/>
+    <dbpprop:education xml:lang="en">St. Joseph's Training College, Belfast</dbpprop:education>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_18th_Seanad"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:abstract xml:lang="pt">Brian Friel é um dramaturgo norte-ielandês.</dbpedia-owl:abstract>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/c/c0/Brian_Friel's_Residence,_Omagh_-_geograph.org.uk_-_197696.jpg"/>
+    <dbpprop:awards xml:lang="en">Lovers</dbpprop:awards>
   </rdf:Description>
 </rdf:RDF>

@@ -10,391 +10,175 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Jane_Howard">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephenie_Meyer">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pride_and_Prejudice_and_Zombies">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Emma">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Austen_in_Manhattan">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Persuasion_(novel)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Impressions_(musical)">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_austin">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Richardson">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_Aidan">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pride_and_Prejudice_(musical)">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Death_Comes_to_Pemberley">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pride_and_Prejudice_(1940_film)">
-    <dbpprop:basedOn rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_James">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/E._M._Forster">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Persuasion_(1971_series)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sense_and_Sensibility">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.nytimes.com/84241033785096976613">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Heathfield_School,_Ascot">
-    <dbpprop:houses rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michelle_Reid">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Love_You_Because">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pride_and_Prejudice">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/JAS">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_John_Lawes_School">
-    <dbpprop:houses rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shane_Bolks">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Persuasion_(1960_series)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sense_and_Sensibility_(2008_TV_serial)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Austen">
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</dbpprop:dateOfBirth>
-    <foaf:surname xml:lang="en">Austen</foaf:surname>
-    <dbpprop:restingPlace xml:lang="en">Winchester Cathedral, Hampshire, England</dbpprop:restingPlace>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://sites.google.com/site/austen4kindle/"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Infectious_disease_deaths_in_England"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_novelists"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/19th-centuryEnglishPeople"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <dbpprop:image xml:lang="en">wincath-11S7-9687.jpg</dbpprop:image>
-    <rdfs:comment xml:lang="zh">珍·奧斯汀（英语：Jane Austen，1775年12月16日－1817年7月18日），英国小说家。她的作品主要关注乡绅家庭的女性的婚姻和生活，以细致入微的观察和活泼风趣的文字著称。</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WomenNovelists"/>
-    <dbpprop:caption xml:lang="en">Jane Austen is buried in Winchester Cathedral.</dbpprop:caption>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_Winchester"/>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Jane_Austen"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishRomanticFictionWriters"/>
-    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">175</dbpprop:width>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.040dv"/>
-    <dbpedia-owl:abstract xml:lang="cs">Jane Austenová byla anglická spisovatelka, představitelka tzv. rodinného románu (domestic novel). Ve svých dílech obvykle zachycovala život venkovských vyšších vrstev. Hlavními postavami jejích děl bývají inteligentní, morálně silné hrdinky, které ostře kontrastují s pošetilostí svého okolí.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/etext/17797"/>
-    <rdfs:label xml:lang="ca">Jane Austen</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_English_people"/>
-    <rdfs:label xml:lang="cs">Jane Austenová</rdfs:label>
-    <dbpedia-owl:abstract xml:lang="no">Jane Austen var en britisk forfatter. Hun er mest kjent for sine romantiske romaner. En av grunnene til at mange fremdeles leser Austens romaner er hennes enestående og humoristiske personskildringer. Romanenes bipersoner er ofte karikerte, men særdeles levende.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Jane_Austenová"/>
-    <rdfs:comment xml:lang="ko">제인 오스틴은 유명한 영국의 소설가이다. 섬세한 시선과 재치있는 문체로 18세기 영국 중·상류층 여성들의 삶을 다루는 것이 특징이다. 생전에는 그리 유명하지 않았으나, 20세기에 들어와서는 작품 중 《오만과 편견》, 《이성과 감성》등은 여러 번 영화화되는 등 인기를 끌고 있다.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="sv">Jane Austen, född 16 december 1775 i Steventon, Hampshire, död 18 juli 1817 i Winchester, Hampshire, var en brittisk författare, som med sina kärleksromaner blivit en av den engelskspråkiga litteraturens klassiska kvinnliga författare. 1801 flyttade familjen till Bath och efter hennes fars död, 1805, till Southampton, innan hon slutligen bosatte sig i Chawton, Hampshire, tillsammans med sin äldre syster Cassandra och sin mor. Hon var det sjunde av åtta barn. Bröderna lämnade tidigt hemmet och två av dem blev amiraler. Jane började skriva redan i unga år – romanen Kärlek och vänskap (Love and Freindship) skrev hon så tidigt som 1790. Åren 1795–1798 skrev hon de första versionerna av tre av sina romaner. Hon publicerade dock sin första roman först 1811: Förnuft och känsla (Sense and Sensibility). Den kom att följas av ytterligare tre romaner under hennes livstid: Stolthet och fördom (Pride and Prejudice, 1813), Mansfield Park (1814) och Emma (1815). Hon nådde vissa framgångar som publicerad författare. De två sista, Northanger Abbey (som var skriven redan 1803 och såld till en bokhandlare och var menad att bli publicerad direkt, men av okänd anledning blev det aldrig av. När den väl blev aktuell för publicering skrev Jane Austen själv ett förord till boken angående detta . ) respektive Övertalning, publicerades av hennes syster Cassandra och bror Henry efter hennes död i vad som troligen var Addisons sjukdom. Samtliga hennes böcker utspelar sig i lantlig miljö, inom den engelska aristokratin, och hon hade en fantastisk förmåga att beskriva personer och olika situationer i vardagslivet med förfinad ironi. I hennes berättelser finns ofta en underton av kritik mot aristokratins sociala konventioner och ritualer, som hämmar romanfigurerna (framförallt kvinnorna) i deras försök att finna kärlek och lycka. Austen ligger begravd i katedralen i Winchester. Alla hennes romaner har filmatiserats flera gånger.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="fr">Jane Austen, née le 16 décembre 1775 à Steventon, dans le Hampshire en Angleterre et morte le 18 juillet 1817 à Winchester, dans le même comté, est une femme de lettres anglaise. Son réalisme, sa critique sociale mordante et sa maîtrise du discours indirect libre, son humour décalé et son ironie ont fait d'elle l'un des écrivains anglais les plus largement lus et aimés. Toute sa vie, Jane Austen demeure au sein d'une cellule familiale étroitement unie, appartenant à la petite gentry anglaise. Elle doit son éducation en grande partie à son père et à ses frères aînés, ainsi qu'à ses propres lectures. Le soutien sans faille de sa famille est essentiel pour son évolution en tant qu'écrivain professionnel. L'apprentissage artistique de Jane Austen s'étend du début de son adolescence jusqu'à sa vingt-cinquième année environ. Durant cette période, elle s'essaie à différentes formes littéraires, y compris le roman épistolaire qu'elle expérimente avant de l'abandonner, et écrit et retravaille profondément trois romans majeurs, tout en en commençant un quatrième. De 1811 à 1816, avec la parution de Sense and Sensibility (publié de façon anonyme en 1811), Pride and Prejudice (1813), Mansfield Park (1814) et Emma (1816), elle connaît le succès. Deux autres romans, Northanger Abbey (achevé en fait dès 1803) et Persuasion, font tous deux l'objet d'une publication posthume en 1818 ; en janvier 1817, elle commence son dernier roman, finalement intitulé Sanditon, qu'elle ne peut achever avant sa mort. L'œuvre de Jane Austen est, entre autres, une critique des romans sentimentaux de la seconde moitié du XVIII siècle et appartient à la transition qui conduit au réalisme littéraire du XIX. Les intrigues de Jane Austen, bien qu'essentiellement de nature comique, c'est-à-dire avec un dénouement heureux, mettent en lumière la dépendance des femmes à l'égard du mariage pour obtenir statut social et sécurité économique. Comme Samuel Johnson, l'une de ses influences majeures, elle s'intéresse particulièrement aux questions morales. Du fait de l'anonymat qu'elle cherche à préserver, sa réputation est modeste de son vivant, avec quelques critiques favorables. Au XIX siècle, ses romans ne sont admirés que par l'élite littéraire. Cependant, la parution en 1869 de A Memoir of Jane Austen (Souvenir de Jane Austen), écrit par son neveu, la fait connaître d'un public plus large. On découvre alors une personnalité attirante, et, du coup, l'intérêt populaire pour ses œuvres prend son essor. Dans les années 1940, Jane Austen était largement reconnue sur le plan académique comme « grand écrivain anglais ». Durant la seconde moitié du XX siècle, se multiplient les recherches sur ses romans, qui sont analysés sous divers aspects, par exemple artistique, idéologique ou historique. Peu à peu, la culture populaire s'empare de Jane Austen et les adaptations cinématographiques ou télévisuelles qui sont réalisées sur sa vie ou ses romans connaissent un réel succès. Il est généralement admis que l'œuvre de Jane Austen appartient non seulement au patrimoine littéraire de la Grande-Bretagne et des pays anglophones, mais aussi à la littérature mondiale. Elle fait aujourd'hui l'objet d'un culte, cependant de nature différente de celui qui est rendu aux Brontë.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_women_writers"/>
-    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rv7gurpwpEbGdrcN5Y29ycA"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromHampshire"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <foaf:givenName xml:lang="en">Jane</foaf:givenName>
-    <dbpedia-owl:abstract xml:lang="ru">Джейн Остин — английская писательница, провозвестница реализма в британской литературе, сатирик, писала так называемые романы нравов. Её книги являются признанными шедеврами и покоряют безыскусной искренностью и простотой сюжета на фоне глубокого психологического проникновения в души героев и ироничного, мягкого, истинно «английского» юмора. Джейн Остин до сих пор по праву считают «Первой леди» английской литературы. Её произведения обязательны для изучения во всех колледжах и университетах Великобритании.</dbpedia-owl:abstract>
-    <dbpedia-owl:restingPlace rdf:resource="http://dbpedia.org/resource/England"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.jasa.net.au/index.html"/>
-    <rdfs:comment xml:lang="sv">Jane Austen, född 16 december 1775 i Steventon, Hampshire, död 18 juli 1817 i Winchester, Hampshire, var en brittisk författare, som med sina kärleksromaner blivit en av den engelskspråkiga litteraturens klassiska kvinnliga författare. 1801 flyttade familjen till Bath och efter hennes fars död, 1805, till Southampton, innan hon slutligen bosatte sig i Chawton, Hampshire, tillsammans med sin äldre syster Cassandra och sin mor. Hon var det sjunde av åtta barn.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.goucher.edu/x10707.xml"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_Anglicans"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/18th-centuryEnglishPeople"/>
-    <dbpprop:shortDescription xml:lang="en">English novelist</dbpprop:shortDescription>
-    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Romance_novel"/>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1817-07-18</dbpedia-owl:deathDate>
-    <rdfs:comment xml:lang="fi">Jane Austen oli englantilainen kirjailija. Austenin romaanit ovat arvostettuja hyväntahtoisen ironiansa, huumorinsa ja englantilaisen maalaisaatelin elämän kuvauksen vuoksi, mutta myös erinomaisina naisten kuvauksina.</rdfs:comment>
-    <rdfs:comment xml:lang="uk">Джейн Остін — англійська письменниця. Відзначалася реалістичним, але іронічним і навіть кусючим стилем. Героїні творів Остін — сучасні їй панянки із верстви не дуже заможних дворянських родин, а головна тема творчості письменниці — мораль англійського суспільства ранньої індустріальної епохи.</rdfs:comment>
-    <dbpprop:id xml:lang="en">Austen,_Jane</dbpprop:id>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジェーン・オースティン"/>
-    <rdfs:comment xml:lang="pl">Jane Austen – angielska pisarka. Autorka powieści opisujących życie angielskiej klasy wyższej z początku XIX wieku. Mimo że sama wiodła stosunkowo odosobnione życie na prowincji w hrabstwie Hampshire, nie pozbawiło ją to zmysłu obserwacji i nie zubożyło dramaturgii jej utworów. Ich fabuła najczęściej dotyczy zamążpójścia i związanych z tym problemów społecznych (sama Austen nigdy nie wyszła za mąż).</rdfs:comment>
-    <rdfs:comment xml:lang="de">Jane Austen war eine britische Schriftstellerin aus der Zeit des Regency, deren Hauptwerke wie Stolz und Vorurteil und Emma zu den Klassikern der angelsächsischen Literatur gehören.</rdfs:comment>
-    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Romance_novel"/>
-    <dbpedia-owl:abstract xml:lang="en">Jane Austen (16 December 1775 – 18 July 1817) was an English novelist whose works of romantic fiction, set among the landed gentry, earned her a place as one of the most widely read writers in English literature. Her realism and biting social commentary has gained her historical importance among scholars and critics. Austen lived her entire life as part of a close-knit family located on the lower fringes of the English landed gentry. She was educated primarily by her father and older brothers as well as through her own reading. The steadfast support of her family was critical to her development as a professional writer. Her artistic apprenticeship lasted from her teenage years into her thirties. During this period, she experimented with various literary forms, including the epistolary novel which she tried then abandoned, and wrote and extensively revised three major novels and began a fourth. From 1811 until 1816, with the release of Sense and Sensibility (1811), Pride and Prejudice (1813), Mansfield Park (1814) and Emma (1816), she achieved success as a published writer. She wrote two additional novels, Northanger Abbey and Persuasion, both published posthumously in 1818, and began a third, which was eventually titled Sanditon, but died before completing it. Austen's works critique the novels of sensibility of the second half of the 18th century and are part of the transition to 19th-century realism. Her plots, though fundamentally comic, highlight the dependence of women on marriage to secure social standing and economic security. Her work brought her little personal fame and only a few positive reviews during her lifetime, but the publication in 1869 of her nephew's A Memoir of Jane Austen introduced her to a wider public, and by the 1940s she had become widely accepted in academia as a great English writer. The second half of the 20th century saw a proliferation of Austen scholarship and the emergence of a Janeite fan culture. Biographical information concerning Jane Austen is "famously scarce", according to one biographer. Only some personal and family letters remain (by one estimate only 160 out of Austen's 3,000 letters are extant), and her sister Cassandra (to whom most of the letters were originally addressed) burned "the greater part" of the ones she kept and censored those she did not destroy. Other letters were destroyed by the heirs of Admiral Francis Austen, Jane's brother. Most of the biographical material produced for fifty years after Austen's death was written by her relatives and reflects the family's biases in favour of "good quiet Aunt Jane". Scholars have unearthed little information since.</dbpedia-owl:abstract>
-    <dbpprop:image xml:lang="en">Winchester Cathedral view 1.jpg</dbpprop:image>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Steventon,_Hampshire"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.riapress.com/riapress/author.lasso?goto=39"/>
-    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Austen_Jane_1775-1817"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromReading,Berkshire"/>
-    <dbpprop:placeOfBirth xml:lang="en">Steventon, Hampshire, England</dbpprop:placeOfBirth>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1817_deaths"/>
-    <rdfs:comment xml:lang="no">Jane Austen var en britisk forfatter. Hun er mest kjent for sine romantiske romaner. En av grunnene til at mange fremdeles leser Austens romaner er hennes enestående og humoristiske personskildringer. Romanenes bipersoner er ofte karikerte, men særdeles levende.</rdfs:comment>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdfs:label xml:lang="zh">简·奥斯丁</rdfs:label>
-    <rdfs:comment xml:lang="es">Jane Austen (Steventon, Inglaterra, 16 de diciembre de 1775 – Winchester, Inglaterra, 18 de julio de 1817) fue una destacada novelista británica que vivió durante el período de la regencia. La ironía que emplea para dotar de comicidad a sus novelas hace que Jane Austen sea contada entre los "clásicos" de la novela inglesa, a la vez que su recepción va, incluso en la actualidad, más allá del interés académico, siendo leídas por un público más amplio. Nació en la rectoría de Steventon.</rdfs:comment>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Hampshire"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_tuberculosis"/>
-    <dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1787-01-01T00:00:00+02:00</dbpedia-owl:activeYearsStartYear>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Article_Feedback_5_Additional_Articles"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Cnote2_Begin"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Jane_Austen"/>
-    <rdfs:comment xml:lang="ru">Джейн Остин — английская писательница, провозвестница реализма в британской литературе, сатирик, писала так называемые романы нравов. Её книги являются признанными шедеврами и покоряют безыскусной искренностью и простотой сюжета на фоне глубокого психологического проникновения в души героев и ироничного, мягкого, истинно «английского» юмора. Джейн Остин до сих пор по праву считают «Первой леди» английской литературы.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Women_novelists"/>
-    <dbpprop:name xml:lang="en">Austen, Jane</dbpprop:name>
-    <rdfs:label xml:lang="vi">Jane Austen</rdfs:label>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1775-12-16</dbpedia-owl:birthDate>
-    <dbpprop:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">200</dbpprop:imageSize>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jane_Austen"/>
-    <rdfs:label xml:lang="de">Jane Austen</rdfs:label>
-    <dbpprop:birthPlace xml:lang="en">Steventon Rectory, Hampshire, England</dbpprop:birthPlace>
-    <rdfs:label xml:lang="en">Jane Austen</rdfs:label>
-    <rdfs:comment xml:lang="hu">Jane Austen angol regényírónő. Főszereplői intelligens, erkölcsileg erős hősnők, akik éles kontrasztban állnak környezetük balgaságával.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.janeaustensociety.org.uk/"/>
-    <dbpedia-owl:abstract xml:lang="ca">Jane Austen va ser una novel·lista anglesa. Les seues obres, entre les quals cal destacar Orgull i prejudici, Seny i sentiment i Emma, són generalment considerades clàssics de la literatura anglesa. La seua penetrant anàlisi de la societat de l'època, unida al seu magistral ús del la narració indirecta i de la ironia, fan d'Austen una de les més influents i estimades novel·listes del segle XIX.</dbpedia-owl:abstract>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishWomenWriters"/>
-    <dbpedia-owl:abstract xml:lang="zh">珍·奧斯汀（英语：Jane Austen，1775年12月16日－1817年7月18日），英国小说家。她的作品主要关注乡绅家庭的女性的婚姻和生活，以细致入微的观察和活泼风趣的文字著称。</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="cs">Jane Austenová byla anglická spisovatelka, představitelka tzv. rodinného románu (domestic novel). Ve svých dílech obvykle zachycovala život venkovských vyšších vrstev. Hlavními postavami jejích děl bývají inteligentní, morálně silné hrdinky, které ostře kontrastují s pošetilostí svého okolí.</rdfs:comment>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1817-07-18</dbpedia-owl:deathDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1817_deaths"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.janeausten.co.uk"/>
+    <dbpedia-owl:abstract xml:lang="ja">ジェーン・オースティン（英：Jane Austen、1775年12月16日 - 1817年7月18日）は、イギリスの小説家。イングランド南部ハンプシャー・スティーブントン生れ。Austen を「オーステン」とカナ転写する書籍もあるが、原語により近い発音は「オースティン」。 18世紀から19世紀イングランドにおける田舎の中流社会を舞台として、女性の私生活を結婚を中心として皮肉と愛情を込めて描き、その作品は近代イギリス長編小説の頂点とみなされている。また英語における自由間接話法（描出話法、free indirect speech）の発達に大きく貢献したことでも知られる。主要作品は、『分別と多感』『高慢と偏見』『エマ』『マンスフィールド・パーク』『ノーサンガー僧院』『説得』の6作品。</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Jane_Austen"/>
+    <rdfs:label xml:lang="cs">Jane Austenová</rdfs:label>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/제인_오스틴"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/England"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_novelists"/>
+    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="hu">Jane Austen angol regényírónő. Főszereplői intelligens, erkölcsileg erős hősnők, akik éles kontrasztban állnak környezetük balgaságával.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WomenNovelists"/>
+    <dbpprop:id xml:lang="en">Austen,_Jane</dbpprop:id>
+    <dbpedia-owl:abstract xml:lang="de">Jane Austen war eine britische Schriftstellerin aus der Zeit des Regency, deren Hauptwerke wie Stolz und Vorurteil und Emma zu den Klassikern der angelsächsischen Literatur gehören.</dbpedia-owl:abstract>
+    <dbpprop:liststyle xml:lang="en">upper-alpha</dbpprop:liststyle>
+    <rdfs:label xml:lang="de">Jane Austen</rdfs:label>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Cnote2_Begin"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/19th-centuryEnglishPeople"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Women_of_the_Regency_era"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_women_writers"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/England"/>
+    <dbpedia-owl:abstract xml:lang="no">Jane Austen var en britisk forfatter. Hun er mest kjent for sine romantiske romaner. En av grunnene til at mange fremdeles leser Austens romaner er hennes enestående og humoristiske personskildringer. Romanenes bipersoner er ofte karikerte, men særdeles levende.</dbpedia-owl:abstract>
+    <dbpedia-owl:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1811-01-01T00:00:00+02:00</dbpedia-owl:activeYearsEndYear>
+    <dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1787-01-01T00:00:00+02:00</dbpedia-owl:activeYearsStartYear>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Jane_Austen"/>
+    <dbpprop:name xml:lang="en">Jane Austen</dbpprop:name>
+    <dbpprop:caption xml:lang="en">A watercolour and pencil sketch of Austen, believed to have been drawn from life by her sister Cassandra</dbpprop:caption>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.riapress.com/riapress/author.lasso?goto=39"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Article_Feedback_5_Additional_Articles"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jane_Austen"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Steventon,_Hampshire"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten(c.1810)_hires.jpg/200px-CassandraAusten-JaneAusten(c.1810)_hires.jpg"/>
+    <rdfs:label xml:lang="uk">Джейн Остін</rdfs:label>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jane_Austen"/>
+    <rdfs:comment xml:lang="es">Jane Austen (Steventon, Inglaterra, 16 de diciembre de 1775 – Winchester, Inglaterra, 18 de julio de 1817) fue una destacada novelista británica que vivió durante el período de la regencia. La ironía que emplea para dotar de comicidad a sus novelas hace que Jane Austen sea contada entre los "clásicos" de la novela inglesa, a la vez que su recepción va, incluso en la actualidad, más allá del interés académico, siendo leídas por un público más amplio. Nació en la rectoría de Steventon.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Jane Austen foi uma proeminente escritora inglesa. A ironia que utiliza para descrever as personagens de seus romances a coloca entre os clássicos, haja vista sua aceitação, inclusive na atualidade, sendo constantemente objeto de estudo acadêmico, e alcançando um público bastante amplo. Nascida em Steventon, Hampshire, de uma família pertencente à burguesia agrária, sua situação e ambiente serviram de contexto para todas as suas obras, cujo tema gira em torno do casamento da protagonista.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_novelists"/>
+    <rdfs:comment xml:lang="nl">Jane Austen was een prominente Engelse romanschrijfster van wie het werk nu deel uitmaakt van de westerse literaire canon. De vorm en dramatische inhoud van haar fictie vormen een sterk contrast met het teruggetrokken leven dat ze in werkelijkheid leidde.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="es">Jane Austen (Steventon, Inglaterra, 16 de diciembre de 1775 – Winchester, Inglaterra, 18 de julio de 1817) fue una destacada novelista británica que vivió durante el período de la regencia. La ironía que emplea para dotar de comicidad a sus novelas hace que Jane Austen sea contada entre los "clásicos" de la novela inglesa, a la vez que su recepción va, incluso en la actualidad, más allá del interés académico, siendo leídas por un público más amplio. Nació en la rectoría de Steventon. Su familia pertenecía a la burguesía agraria, contexto del que no salió y en el que sitúa todas sus obras, siempre en torno al matrimonio de su protagonista. La candidez de las obras de Austen, sin embargo, es meramente aparente; si bien pueden interpretarse de varias maneras. Los círculos académicos siempre han considerado a Austen como una escritora conservadora, mientras que la crítica feminista más actual apunta que en su obra puede apreciarse una novelización del pensamiento de Mary Wollstonecraft sobre la educación de la mujer. Sus obras han sido llevadas al cine en diferentes ocasiones, algunas veces reproducidas de forma fiel, como el clásico Más fuerte que el orgullo de 1940 dirigido por Robert Z. Leonard y protagonizada por Greer Garson y Laurence Olivier y en otras haciendo adaptaciones a la época actual, como es el caso de Clueless, adaptación libre de Emma, o bien Sentido y sensibilidad, de 1995; Mansfield Park, de 2000, y las versiones de Bride and Prejudice en el 2004, y en el 2005 Orgullo y prejuicio, ambas basadas en la célebre Pride and Prejudice. El interés que la obra de Jane Austen sigue despertando hoy en día muestra la vigencia de su pensamiento y la influencia que ha tenido en la literatura posterior.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_Bath,_Somerset"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:18th-century_English_people"/>
+    <rdfs:label xml:lang="zh">简·奥斯丁</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_women_writers"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Jane_Austen"/>
+    <dbpprop:deathPlace xml:lang="en">Winchester, Hampshire, England</dbpprop:deathPlace>
+    <rdfs:comment xml:lang="zh">珍·奧斯汀（英语：Jane Austen，1775年12月16日－1817年7月18日），英国小说家。她的作品主要关注乡绅家庭的女性的婚姻和生活，以细致入微的观察和活泼风趣的文字著称。</rdfs:comment>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1817-07-18</dbpprop:deathDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_romantic_fiction_writers"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118505173</dbpedia-owl:individualisedPnd>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Winchester"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thegreatbooks.org/"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジェーン・オースティン"/>
+    <dbpprop:restingPlace xml:lang="en">Winchester Cathedral, Hampshire, England</dbpprop:restingPlace>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Winchester_Cathedral"/>
+    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Romance_novel"/>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rv7gurpwpEbGdrcN5Y29ycA"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.jasa.net.au/index.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Women_novelists"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.jasna.org"/>
     <rdfs:comment xml:lang="ja">ジェーン・オースティン（英：Jane Austen、1775年12月16日 - 1817年7月18日）は、イギリスの小説家。イングランド南部ハンプシャー・スティーブントン生れ。Austen を「オーステン」とカナ転写する書籍もあるが、原語により近い発音は「オースティン」。 18世紀から19世紀イングランドにおける田舎の中流社会を舞台として、女性の私生活を結婚を中心として皮肉と愛情を込めて描き、その作品は近代イギリス長編小説の頂点とみなされている。また英語における自由間接話法（描出話法、free indirect speech）の発達に大きく貢献したことでも知られる。主要作品は、『分別と多感』『高慢と偏見』『エマ』『マンスフィールド・パーク』『ノーサンガー僧院』『説得』の6作品。</rdfs:comment>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Jane_Austen"/>
+    <dbpedia-owl:abstract xml:lang="vi">Jane Austen là một nữ văn sĩ, tác giả của những tác phẩm nổi tiếng như Sense and Sensibility, Pride and Prejudice, Mansfield Park, Emma, Northanger Abbey, và Persuasion. Những bình phẩm về các vấn đề xã hội cùng văn phong tuyệt kỹ trong nghệ thuật dẫn chuyện và xây dựng những tình huống oái ăm đã đem tên tuổi của Austen vào trong số những nhà văn có nhiều ảnh hưởng nhất và được trọng vọng nhất trên văn đàn nước Anh. Những tác phẩm của bà lấy bối cảnh trong Thời kỳ Nhiếp chính (Regnecy Era) – từ năm 1795 đến 1830, nổi bật với những đặc thù trong chính trị, văn hóa và trang phục. Trong suốt cuộc đời mình, Janes Auten không bao giờ kết hôn. Nhưng những câu chuyện tình yêu lãng mạn phần nào được nhà văn khai thác từ chính cuộc tình của mình với Tom Lefroy.</dbpedia-owl:abstract>
+    <dbpprop:shortDescription xml:lang="en">English novelist</dbpprop:shortDescription>
+    <dbpedia-owl:abstract xml:lang="cs">Jane Austenová byla anglická spisovatelka, představitelka tzv. rodinného románu (domestic novel). Ve svých dílech obvykle zachycovala život venkovských vyšších vrstev. Hlavními postavami jejích děl bývají inteligentní, morálně silné hrdinky, které ostře kontrastují s pošetilostí svého okolí.</dbpedia-owl:abstract>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1775-12-16</dbpedia-owl:birthDate>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Jane_Austenová"/>
+    <dbpprop:image xml:lang="en">wincath-11S7-9687.jpg</dbpprop:image>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://sites.google.com/site/austen4kindle/"/>
+    <dbpedia-owl:abstract xml:lang="pt">Jane Austen foi uma proeminente escritora inglesa. A ironia que utiliza para descrever as personagens de seus romances a coloca entre os clássicos, haja vista sua aceitação, inclusive na atualidade, sendo constantemente objeto de estudo acadêmico, e alcançando um público bastante amplo. Nascida em Steventon, Hampshire, de uma família pertencente à burguesia agrária, sua situação e ambiente serviram de contexto para todas as suas obras, cujo tema gira em torno do casamento da protagonista. A inocência das obras de Austen é apenas aparente, e pode ser interpretada de várias maneiras. Os meios acadêmicos a têm considerado uma escritora conservadora, apesar de a crítica feminista atual reconhecer em suas obras uma dramatização do pensamento de Mary Wollstonecraft sobre a educação da mulher.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:label xml:lang="vi">Jane Austen</rdfs:label>
+    <rdfs:comment xml:lang="cs">Jane Austenová byla anglická spisovatelka, představitelka tzv. rodinného románu (domestic novel). Ve svých dílech obvykle zachycovala život venkovských vyšších vrstev. Hlavními postavami jejích děl bývají inteligentní, morálně silné hrdinky, které ostře kontrastují s pošetilostí svého okolí.</rdfs:comment>
+    <foaf:givenName xml:lang="en">Jane</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_Winchester"/>
+    <dbpedia-owl:restingPlace rdf:resource="http://dbpedia.org/resource/Winchester_Cathedral"/>
+    <dbpedia-owl:restingPlace rdf:resource="http://dbpedia.org/resource/England"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/18th-centuryEnglishPeople"/>
+    <dbpedia-owl:abstract xml:lang="pl">Jane Austen – angielska pisarka. Autorka powieści opisujących życie angielskiej klasy wyższej z początku XIX wieku. Mimo że sama wiodła stosunkowo odosobnione życie na prowincji w hrabstwie Hampshire, nie pozbawiło ją to zmysłu obserwacji i nie zubożyło dramaturgii jej utworów. Ich fabuła najczęściej dotyczy zamążpójścia i związanych z tym problemów społecznych (sama Austen nigdy nie wyszła za mąż). Celna obserwacja i żywa prezentacja psychiki kobiet czyni z powieści Austen coś więcej niż romanse. Reputację dobrej pisarki zyskała już za życia - jej powieści chwalił m. in. Walter Scott.</dbpedia-owl:abstract>
+    <dbpprop:birthPlace xml:lang="en">Steventon Rectory, Hampshire, England</dbpprop:birthPlace>
+    <rdfs:comment xml:lang="vi">Jane Austen là một nữ văn sĩ, tác giả của những tác phẩm nổi tiếng như Sense and Sensibility, Pride and Prejudice, Mansfield Park, Emma, Northanger Abbey, và Persuasion. Những bình phẩm về các vấn đề xã hội cùng văn phong tuyệt kỹ trong nghệ thuật dẫn chuyện và xây dựng những tình huống oái ăm đã đem tên tuổi của Austen vào trong số những nhà văn có nhiều ảnh hưởng nhất và được trọng vọng nhất trên văn đàn nước Anh.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="ca">Jane Austen va ser una novel·lista anglesa. Les seues obres, entre les quals cal destacar Orgull i prejudici, Seny i sentiment i Emma, són generalment considerades clàssics de la literatura anglesa. La seua penetrant anàlisi de la societat de l'època, unida al seu magistral ús del la narració indirecta i de la ironia, fan d'Austen una de les més influents i estimades novel·listes del segle XIX.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="pl">Jane Austen – angielska pisarka. Autorka powieści opisujących życie angielskiej klasy wyższej z początku XIX wieku. Mimo że sama wiodła stosunkowo odosobnione życie na prowincji w hrabstwie Hampshire, nie pozbawiło ją to zmysłu obserwacji i nie zubożyło dramaturgii jej utworów. Ich fabuła najczęściej dotyczy zamążpójścia i związanych z tym problemów społecznych (sama Austen nigdy nie wyszła za mąż).</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.janeaustensociety.org.uk/"/>
+    <dbpedia-owl:abstract xml:lang="ko">제인 오스틴은 유명한 영국의 소설가이다. 섬세한 시선과 재치있는 문체로 18세기 영국 중·상류층 여성들의 삶을 다루는 것이 특징이다. 생전에는 그리 유명하지 않았으나, 20세기에 들어와서는 작품 중 《오만과 편견》, 《이성과 감성》등은 여러 번 영화화되는 등 인기를 끌고 있다.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://feedbooks.com/author/18"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishRomanticFictionWriters"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Jane_Austen"/>
+    <foaf:name xml:lang="en">Jane Austen</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishNovelists"/>
+    <dbpedia-owl:abstract xml:lang="en">Jane Austen (16 December 1775 – 18 July 1817) was an English novelist whose works of romantic fiction, set among the landed gentry, earned her a place as one of the most widely read writers in English literature. Her realism and biting social commentary has gained her historical importance among scholars and critics. Austen lived her entire life as part of a close-knit family located on the lower fringes of the English landed gentry. She was educated primarily by her father and older brothers as well as through her own reading. The steadfast support of her family was critical to her development as a professional writer. Her artistic apprenticeship lasted from her teenage years into her thirties. During this period, she experimented with various literary forms, including the epistolary novel which she tried then abandoned, and wrote and extensively revised three major novels and began a fourth. From 1811 until 1816, with the release of Sense and Sensibility (1811), Pride and Prejudice (1813), Mansfield Park (1814) and Emma (1816), she achieved success as a published writer. She wrote two additional novels, Northanger Abbey and Persuasion, both published posthumously in 1818, and began a third, which was eventually titled Sanditon, but died before completing it. Austen's works critique the novels of sensibility of the second half of the 18th century and are part of the transition to 19th-century realism. Her plots, though fundamentally comic, highlight the dependence of women on marriage to secure social standing and economic security. Her work brought her little personal fame and only a few positive reviews during her lifetime, but the publication in 1869 of her nephew's A Memoir of Jane Austen introduced her to a wider public, and by the 1940s she had become widely accepted in academia as a great English writer. The second half of the 20th century saw a proliferation of Austen scholarship and the emergence of a Janeite fan culture. Biographical information concerning Jane Austen is "famously scarce", according to one biographer. Only some personal and family letters remain (by one estimate only 160 out of Austen's 3,000 letters are extant), and her sister Cassandra (to whom most of the letters were originally addressed) burned "the greater part" of the ones she kept and censored those she did not destroy. Other letters were destroyed by the heirs of Admiral Francis Austen, Jane's brother. Most of the biographical material produced for fifty years after Austen's death was written by her relatives and reflects the family's biases in favour of "good quiet Aunt Jane". Scholars have unearthed little information since.</dbpedia-owl:abstract>
+    <dbpprop:name xml:lang="en">Austen, Jane</dbpprop:name>
     <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Jane_Austen?oldid=494554991"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_Anglicans"/>
+    <rdfs:comment xml:lang="de">Jane Austen war eine britische Schriftstellerin aus der Zeit des Regency, deren Hauptwerke wie Stolz und Vorurteil und Emma zu den Klassikern der angelsächsischen Literatur gehören.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1775_births"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</dbpprop:dateOfBirth>
+    <dbpedia-owl:abstract xml:lang="zh">珍·奧斯汀（英语：Jane Austen，1775年12月16日－1817年7月18日），英国小说家。她的作品主要关注乡绅家庭的女性的婚姻和生活，以细致入微的观察和活泼风趣的文字著称。</dbpedia-owl:abstract>
+    <dbpprop:caption xml:lang="en">Jane Austen's memorial gravestone in the nave of Winchester Cathedral</dbpprop:caption>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</dbpprop:dateOfDeath>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Остин,_Джейн"/>
+    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Romance_novel"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pemberley.com"/>
+    <dbpprop:signature xml:lang="en">Jane Austen signature from her will.svg</dbpprop:signature>
+    <rdfs:comment xml:lang="sv">Jane Austen, född 16 december 1775 i Steventon, Hampshire, död 18 juli 1817 i Winchester, Hampshire, var en brittisk författare, som med sina kärleksromaner blivit en av den engelskspråkiga litteraturens klassiska kvinnliga författare. 1801 flyttade familjen till Bath och efter hennes fars död, 1805, till Southampton, innan hon slutligen bosatte sig i Chawton, Hampshire, tillsammans med sin äldre syster Cassandra och sin mor. Hon var det sjunde av åtta barn.</rdfs:comment>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpedia-owl:abstract xml:lang="sv">Jane Austen, född 16 december 1775 i Steventon, Hampshire, död 18 juli 1817 i Winchester, Hampshire, var en brittisk författare, som med sina kärleksromaner blivit en av den engelskspråkiga litteraturens klassiska kvinnliga författare. 1801 flyttade familjen till Bath och efter hennes fars död, 1805, till Southampton, innan hon slutligen bosatte sig i Chawton, Hampshire, tillsammans med sin äldre syster Cassandra och sin mor. Hon var det sjunde av åtta barn. Bröderna lämnade tidigt hemmet och två av dem blev amiraler. Jane började skriva redan i unga år – romanen Kärlek och vänskap (Love and Freindship) skrev hon så tidigt som 1790. Åren 1795–1798 skrev hon de första versionerna av tre av sina romaner. Hon publicerade dock sin första roman först 1811: Förnuft och känsla (Sense and Sensibility). Den kom att följas av ytterligare tre romaner under hennes livstid: Stolthet och fördom (Pride and Prejudice, 1813), Mansfield Park (1814) och Emma (1815). Hon nådde vissa framgångar som publicerad författare. De två sista, Northanger Abbey (som var skriven redan 1803 och såld till en bokhandlare och var menad att bli publicerad direkt, men av okänd anledning blev det aldrig av. När den väl blev aktuell för publicering skrev Jane Austen själv ett förord till boken angående detta . ) respektive Övertalning, publicerades av hennes syster Cassandra och bror Henry efter hennes död i vad som troligen var Addisons sjukdom. Samtliga hennes böcker utspelar sig i lantlig miljö, inom den engelska aristokratin, och hon hade en fantastisk förmåga att beskriva personer och olika situationer i vardagslivet med förfinad ironi. I hennes berättelser finns ofta en underton av kritik mot aristokratins sociala konventioner och ritualer, som hämmar romanfigurerna (framförallt kvinnorna) i deras försök att finna kärlek och lycka. Austen ligger begravd i katedralen i Winchester. Alla hennes romaner har filmatiserats flera gånger.</dbpedia-owl:abstract>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Hampshire"/>
+    <dbpprop:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">200</dbpprop:imageSize>
+    <dbpedia-owl:abstract xml:lang="nl">Jane Austen was een prominente Engelse romanschrijfster van wie het werk nu deel uitmaakt van de westerse literaire canon. De vorm en dramatische inhoud van haar fictie vormen een sterk contrast met het teruggetrokken leven dat ze in werkelijkheid leidde. Haar realisme, bijtend sociaal commentaar en haar gebruik van de vrije indirecte rede, een tot dan toe weinig gebruikte stijlfiguur, heeft ervoor gezorgd dat ze één van de meest gelezen en meest geliefde schrijvers in de Engelse literatuur is geworden.</dbpedia-owl:abstract>
+    <dc:description xml:lang="en">English novelist</dc:description>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thegreatbooks.org/library/texts/austen/"/>
+    <dbpedia-owl:abstract xml:lang="fr">Jane Austen, née le 16 décembre 1775 à Steventon, dans le Hampshire en Angleterre et morte le 18 juillet 1817 à Winchester, dans le même comté, est une femme de lettres anglaise. Son réalisme, sa critique sociale mordante et sa maîtrise du discours indirect libre, son humour décalé et son ironie ont fait d'elle l'un des écrivains anglais les plus largement lus et aimés. Toute sa vie, Jane Austen demeure au sein d'une cellule familiale étroitement unie, appartenant à la petite gentry anglaise. Elle doit son éducation en grande partie à son père et à ses frères aînés, ainsi qu'à ses propres lectures. Le soutien sans faille de sa famille est essentiel pour son évolution en tant qu'écrivain professionnel. L'apprentissage artistique de Jane Austen s'étend du début de son adolescence jusqu'à sa vingt-cinquième année environ. Durant cette période, elle s'essaie à différentes formes littéraires, y compris le roman épistolaire qu'elle expérimente avant de l'abandonner, et écrit et retravaille profondément trois romans majeurs, tout en en commençant un quatrième. De 1811 à 1816, avec la parution de Sense and Sensibility (publié de façon anonyme en 1811), Pride and Prejudice (1813), Mansfield Park (1814) et Emma (1816), elle connaît le succès. Deux autres romans, Northanger Abbey (achevé en fait dès 1803) et Persuasion, font tous deux l'objet d'une publication posthume en 1818 ; en janvier 1817, elle commence son dernier roman, finalement intitulé Sanditon, qu'elle ne peut achever avant sa mort. L'œuvre de Jane Austen est, entre autres, une critique des romans sentimentaux de la seconde moitié du XVIII siècle et appartient à la transition qui conduit au réalisme littéraire du XIX. Les intrigues de Jane Austen, bien qu'essentiellement de nature comique, c'est-à-dire avec un dénouement heureux, mettent en lumière la dépendance des femmes à l'égard du mariage pour obtenir statut social et sécurité économique. Comme Samuel Johnson, l'une de ses influences majeures, elle s'intéresse particulièrement aux questions morales. Du fait de l'anonymat qu'elle cherche à préserver, sa réputation est modeste de son vivant, avec quelques critiques favorables. Au XIX siècle, ses romans ne sont admirés que par l'élite littéraire. Cependant, la parution en 1869 de A Memoir of Jane Austen (Souvenir de Jane Austen), écrit par son neveu, la fait connaître d'un public plus large. On découvre alors une personnalité attirante, et, du coup, l'intérêt populaire pour ses œuvres prend son essor. Dans les années 1940, Jane Austen était largement reconnue sur le plan académique comme « grand écrivain anglais ». Durant la seconde moitié du XX siècle, se multiplient les recherches sur ses romans, qui sont analysés sous divers aspects, par exemple artistique, idéologique ou historique. Peu à peu, la culture populaire s'empare de Jane Austen et les adaptations cinématographiques ou télévisuelles qui sont réalisées sur sa vie ou ses romans connaissent un réel succès. Il est généralement admis que l'œuvre de Jane Austen appartient non seulement au patrimoine littéraire de la Grande-Bretagne et des pays anglophones, mais aussi à la littérature mondiale. Elle fait aujourd'hui l'objet d'un culte, cependant de nature différente de celui qui est rendu aux Brontë.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="no">Jane Austen var en britisk forfatter. Hun er mest kjent for sine romantiske romaner. En av grunnene til at mange fremdeles leser Austens romaner er hennes enestående og humoristiske personskildringer. Romanenes bipersoner er ofte karikerte, men særdeles levende.</rdfs:comment>
+    <rdfs:comment xml:lang="ca">Jane Austen va ser una novel·lista anglesa. Les seues obres, entre les quals cal destacar Orgull i prejudici, Seny i sentiment i Emma, són generalment considerades clàssics de la literatura anglesa. La seua penetrant anàlisi de la societat de l'època, unida al seu magistral ús del la narració indirecta i de la ironia, fan d'Austen una de les més influents i estimades novel·listes del segle XIX.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.040dv"/>
+    <foaf:surname xml:lang="en">Austen</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Basingstoke_and_Deane_(district)"/>
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int">175</dbpprop:width>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/c/cc/CassandraAusten-JaneAusten(c.1810)_hires.jpg"/>
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Austen_Jane_1775-1817"/>
+    <dbpprop:colwidth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">40</dbpprop:colwidth>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Jane_Austen"/>
+    <rdfs:comment xml:lang="en">Jane Austen (16 December 1775 – 18 July 1817) was an English novelist whose works of romantic fiction, set among the landed gentry, earned her a place as one of the most widely read writers in English literature. Her realism and biting social commentary has gained her historical importance among scholars and critics. Austen lived her entire life as part of a close-knit family located on the lower fringes of the English landed gentry.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="ru">Джейн Остин — английская писательница, провозвестница реализма в британской литературе, сатирик, писала так называемые романы нравов. Её книги являются признанными шедеврами и покоряют безыскусной искренностью и простотой сюжета на фоне глубокого психологического проникновения в души героев и ироничного, мягкого, истинно «английского» юмора. Джейн Остин до сих пор по праву считают «Первой леди» английской литературы. Её произведения обязательны для изучения во всех колледжах и университетах Великобритании.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <rdfs:comment xml:lang="ko">제인 오스틴은 유명한 영국의 소설가이다. 섬세한 시선과 재치있는 문체로 18세기 영국 중·상류층 여성들의 삶을 다루는 것이 특징이다. 생전에는 그리 유명하지 않았으나, 20세기에 들어와서는 작품 중 《오만과 편견》, 《이성과 감성》등은 여러 번 영화화되는 등 인기를 끌고 있다.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_tuberculosis"/>
+    <dbpprop:image xml:lang="en">Winchester Cathedral view 1.jpg</dbpprop:image>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.jane-austens-house-museum.org.uk/"/>
     <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Τζέιν_Όστεν"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://romance-books.classic-literature.co.uk/jane-austen/"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Women_of_the_Regency_era"/>
-    <dbpprop:name xml:lang="en">Jane Austen</dbpprop:name>
-    <dbpedia-owl:abstract xml:lang="ko">제인 오스틴은 유명한 영국의 소설가이다. 섬세한 시선과 재치있는 문체로 18세기 영국 중·상류층 여성들의 삶을 다루는 것이 특징이다. 생전에는 그리 유명하지 않았으나, 20세기에 들어와서는 작품 중 《오만과 편견》, 《이성과 감성》등은 여러 번 영화화되는 등 인기를 끌고 있다.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="de">Jane Austen war eine britische Schriftstellerin aus der Zeit des Regency, deren Hauptwerke wie Stolz und Vorurteil und Emma zu den Klassikern der angelsächsischen Literatur gehören.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_women_writers"/>
-    <dbpedia-owl:abstract xml:lang="nl">Jane Austen was een prominente Engelse romanschrijfster van wie het werk nu deel uitmaakt van de westerse literaire canon. De vorm en dramatische inhoud van haar fictie vormen een sterk contrast met het teruggetrokken leven dat ze in werkelijkheid leidde. Haar realisme, bijtend sociaal commentaar en haar gebruik van de vrije indirecte rede, een tot dan toe weinig gebruikte stijlfiguur, heeft ervoor gezorgd dat ze één van de meest gelezen en meest geliefde schrijvers in de Engelse literatuur is geworden.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Basingstoke_and_Deane_(district)"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_English_people"/>
     <rdfs:comment xml:lang="it"></rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Culture_in_Bath,_Somerset"/>
-    <dbpedia-owl:abstract xml:lang="es">Jane Austen (Steventon, Inglaterra, 16 de diciembre de 1775 – Winchester, Inglaterra, 18 de julio de 1817) fue una destacada novelista británica que vivió durante el período de la regencia. La ironía que emplea para dotar de comicidad a sus novelas hace que Jane Austen sea contada entre los "clásicos" de la novela inglesa, a la vez que su recepción va, incluso en la actualidad, más allá del interés académico, siendo leídas por un público más amplio. Nació en la rectoría de Steventon. Su familia pertenecía a la burguesía agraria, contexto del que no salió y en el que sitúa todas sus obras, siempre en torno al matrimonio de su protagonista. La candidez de las obras de Austen, sin embargo, es meramente aparente; si bien pueden interpretarse de varias maneras. Los círculos académicos siempre han considerado a Austen como una escritora conservadora, mientras que la crítica feminista más actual apunta que en su obra puede apreciarse una novelización del pensamiento de Mary Wollstonecraft sobre la educación de la mujer. Sus obras han sido llevadas al cine en diferentes ocasiones, algunas veces reproducidas de forma fiel, como el clásico Más fuerte que el orgullo de 1940 dirigido por Robert Z. Leonard y protagonizada por Greer Garson y Laurence Olivier y en otras haciendo adaptaciones a la época actual, como es el caso de Clueless, adaptación libre de Emma, o bien Sentido y sensibilidad, de 1995; Mansfield Park, de 2000, y las versiones de Bride and Prejudice en el 2004, y en el 2005 Orgullo y prejuicio, ambas basadas en la célebre Pride and Prejudice. El interés que la obra de Jane Austen sigue despertando hoy en día muestra la vigencia de su pensamiento y la influencia que ha tenido en la literatura posterior.</dbpedia-owl:abstract>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1817-07-18</dbpprop:deathDate>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_Bath,_Somerset"/>
-    <rdfs:comment xml:lang="fr">Jane Austen, née le 16 décembre 1775 à Steventon, dans le Hampshire en Angleterre et morte le 18 juillet 1817 à Winchester, dans le même comté, est une femme de lettres anglaise. Son réalisme, sa critique sociale mordante et sa maîtrise du discours indirect libre, son humour décalé et son ironie ont fait d'elle l'un des écrivains anglais les plus largement lus et aimés.</rdfs:comment>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</dbpprop:dateOfDeath>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_romantic_fiction_writers"/>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:deathPlace xml:lang="en">Winchester, Hampshire, England</dbpprop:deathPlace>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1775_births"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Остин,_Джейн"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishNovelists"/>
-    <dbpprop:placeOfDeath xml:lang="en">Winchester, Hampshire, England</dbpprop:placeOfDeath>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/England"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_East_Hampshire_(district)"/>
-    <dbpprop:period rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1787</dbpprop:period>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
     <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1775-12-16</dbpprop:birthDate>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.jasna.org"/>
-    <dbpedia-owl:individualisedPnd xml:lang="de">118505173</dbpedia-owl:individualisedPnd>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten(c.1810)_hires.jpg/200px-CassandraAusten-JaneAusten(c.1810)_hires.jpg"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Winchester_Cathedral"/>
-    <rdfs:comment xml:lang="pt">Jane Austen foi uma proeminente escritora inglesa. A ironia que utiliza para descrever as personagens de seus romances a coloca entre os clássicos, haja vista sua aceitação, inclusive na atualidade, sendo constantemente objeto de estudo acadêmico, e alcançando um público bastante amplo. Nascida em Steventon, Hampshire, de uma família pertencente à burguesia agrária, sua situação e ambiente serviram de contexto para todas as suas obras, cujo tema gira em torno do casamento da protagonista.</rdfs:comment>
-    <dc:description xml:lang="en">English novelist</dc:description>
-    <rdfs:comment xml:lang="en">Jane Austen (16 December 1775 – 18 July 1817) was an English novelist whose works of romantic fiction, set among the landed gentry, earned her a place as one of the most widely read writers in English literature. Her realism and biting social commentary has gained her historical importance among scholars and critics. Austen lived her entire life as part of a close-knit family located on the lower fringes of the English landed gentry.</rdfs:comment>
-    <foaf:name xml:lang="en">Jane Austen</foaf:name>
-    <dbpedia-owl:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1811-01-01T00:00:00+02:00</dbpedia-owl:activeYearsEndYear>
-    <dbpedia-owl:abstract xml:lang="uk">Джейн Остін — англійська письменниця. Відзначалася реалістичним, але іронічним і навіть кусючим стилем. Героїні творів Остін — сучасні їй панянки із верстви не дуже заможних дворянських родин, а головна тема творчості письменниці — мораль англійського суспільства ранньої індустріальної епохи.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Jane_Austen"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WomenOfTheRegencyEra"/>
-    <dbpedia-owl:abstract xml:lang="pl">Jane Austen – angielska pisarka. Autorka powieści opisujących życie angielskiej klasy wyższej z początku XIX wieku. Mimo że sama wiodła stosunkowo odosobnione życie na prowincji w hrabstwie Hampshire, nie pozbawiło ją to zmysłu obserwacji i nie zubożyło dramaturgii jej utworów. Ich fabuła najczęściej dotyczy zamążpójścia i związanych z tym problemów społecznych (sama Austen nigdy nie wyszła za mąż). Celna obserwacja i żywa prezentacja psychiki kobiet czyni z powieści Austen coś więcej niż romanse. Reputację dobrej pisarki zyskała już za życia - jej powieści chwalił m. in. Walter Scott.</dbpedia-owl:abstract>
-    <dbpprop:signature xml:lang="en">Jane Austen signature from her will.svg</dbpprop:signature>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/c/cc/CassandraAusten-JaneAusten(c.1810)_hires.jpg"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:18th-century_English_people"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromReading,Berkshire"/>
     <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Winchester"/>
-    <dbpprop:liststyle xml:lang="en">upper-alpha</dbpprop:liststyle>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thegreatbooks.org/"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jane_Austen"/>
-    <rdfs:comment xml:lang="vi">Jane Austen là một nữ văn sĩ, tác giả của những tác phẩm nổi tiếng như Sense and Sensibility, Pride and Prejudice, Mansfield Park, Emma, Northanger Abbey, và Persuasion. Những bình phẩm về các vấn đề xã hội cùng văn phong tuyệt kỹ trong nghệ thuật dẫn chuyện và xây dựng những tình huống oái ăm đã đem tên tuổi của Austen vào trong số những nhà văn có nhiều ảnh hưởng nhất và được trọng vọng nhất trên văn đàn nước Anh.</rdfs:comment>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/England"/>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.jane-austens-house-museum.org.uk/"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pemberley.com"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://feedbooks.com/author/18"/>
+    <rdfs:comment xml:lang="fi">Jane Austen oli englantilainen kirjailija. Austenin romaanit ovat arvostettuja hyväntahtoisen ironiansa, huumorinsa ja englantilaisen maalaisaatelin elämän kuvauksen vuoksi, mutta myös erinomaisina naisten kuvauksina.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Jane Austen, née le 16 décembre 1775 à Steventon, dans le Hampshire en Angleterre et morte le 18 juillet 1817 à Winchester, dans le même comté, est une femme de lettres anglaise. Son réalisme, sa critique sociale mordante et sa maîtrise du discours indirect libre, son humour décalé et son ironie ont fait d'elle l'un des écrivains anglais les plus largement lus et aimés.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/etext/17797"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.goucher.edu/x10707.xml"/>
     <dbpedia-owl:restingPlace rdf:resource="http://dbpedia.org/resource/Hampshire"/>
-    <dbpedia-owl:abstract xml:lang="ja">ジェーン・オースティン（英：Jane Austen、1775年12月16日 - 1817年7月18日）は、イギリスの小説家。イングランド南部ハンプシャー・スティーブントン生れ。Austen を「オーステン」とカナ転写する書籍もあるが、原語により近い発音は「オースティン」。 18世紀から19世紀イングランドにおける田舎の中流社会を舞台として、女性の私生活を結婚を中心として皮肉と愛情を込めて描き、その作品は近代イギリス長編小説の頂点とみなされている。また英語における自由間接話法（描出話法、free indirect speech）の発達に大きく貢献したことでも知られる。主要作品は、『分別と多感』『高慢と偏見』『エマ』『マンスフィールド・パーク』『ノーサンガー僧院』『説得』の6作品。</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <dbpedia-owl:abstract xml:lang="fi">Jane Austen oli englantilainen kirjailija. Austenin romaanit ovat arvostettuja hyväntahtoisen ironiansa, huumorinsa ja englantilaisen maalaisaatelin elämän kuvauksen vuoksi, mutta myös erinomaisina naisten kuvauksina.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="ca">Jane Austen va ser una novel·lista anglesa. Les seues obres, entre les quals cal destacar Orgull i prejudici, Seny i sentiment i Emma, són generalment considerades clàssics de la literatura anglesa. La seua penetrant anàlisi de la societat de l'època, unida al seu magistral ús del la narració indirecta i de la ironia, fan d'Austen una de les més influents i estimades novel·listes del segle XIX.</rdfs:comment>
     <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:caption xml:lang="en">A watercolour and pencil sketch of Austen, believed to have been drawn from life by her sister Cassandra</dbpprop:caption>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Hampshire"/>
-    <dbpedia-owl:abstract xml:lang="hu">Jane Austen angol regényírónő. Főszereplői intelligens, erkölcsileg erős hősnők, akik éles kontrasztban állnak környezetük balgaságával.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Winchester"/>
-    <dbpedia-owl:abstract xml:lang="vi">Jane Austen là một nữ văn sĩ, tác giả của những tác phẩm nổi tiếng như Sense and Sensibility, Pride and Prejudice, Mansfield Park, Emma, Northanger Abbey, và Persuasion. Những bình phẩm về các vấn đề xã hội cùng văn phong tuyệt kỹ trong nghệ thuật dẫn chuyện và xây dựng những tình huống oái ăm đã đem tên tuổi của Austen vào trong số những nhà văn có nhiều ảnh hưởng nhất và được trọng vọng nhất trên văn đàn nước Anh. Những tác phẩm của bà lấy bối cảnh trong Thời kỳ Nhiếp chính (Regnecy Era) – từ năm 1795 đến 1830, nổi bật với những đặc thù trong chính trị, văn hóa và trang phục. Trong suốt cuộc đời mình, Janes Auten không bao giờ kết hôn. Nhưng những câu chuyện tình yêu lãng mạn phần nào được nhà văn khai thác từ chính cuộc tình của mình với Tom Lefroy.</dbpedia-owl:abstract>
-    <dbpprop:caption xml:lang="en">Jane Austen's memorial gravestone in the nave of Winchester Cathedral</dbpprop:caption>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dbpedia-owl:abstract xml:lang="pt">Jane Austen foi uma proeminente escritora inglesa. A ironia que utiliza para descrever as personagens de seus romances a coloca entre os clássicos, haja vista sua aceitação, inclusive na atualidade, sendo constantemente objeto de estudo acadêmico, e alcançando um público bastante amplo. Nascida em Steventon, Hampshire, de uma família pertencente à burguesia agrária, sua situação e ambiente serviram de contexto para todas as suas obras, cujo tema gira em torno do casamento da protagonista. A inocência das obras de Austen é apenas aparente, e pode ser interpretada de várias maneiras. Os meios acadêmicos a têm considerado uma escritora conservadora, apesar de a crítica feminista atual reconhecer em suas obras uma dramatização do pensamento de Mary Wollstonecraft sobre a educação da mulher.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thegreatbooks.org/library/texts/austen/"/>
-    <dbpprop:colwidth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">40</dbpprop:colwidth>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_novelists"/>
+    <dbpedia-owl:abstract xml:lang="fi">Jane Austen oli englantilainen kirjailija. Austenin romaanit ovat arvostettuja hyväntahtoisen ironiansa, huumorinsa ja englantilaisen maalaisaatelin elämän kuvauksen vuoksi, mutta myös erinomaisina naisten kuvauksina.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="uk">Джейн Остін — англійська письменниця. Відзначалася реалістичним, але іронічним і навіть кусючим стилем. Героїні творів Остін — сучасні їй панянки із верстви не дуже заможних дворянських родин, а головна тема творчості письменниці — мораль англійського суспільства ранньої індустріальної епохи.</dbpedia-owl:abstract>
     <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Multiple_image"/>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/제인_오스틴"/>
-    <rdfs:comment xml:lang="nl">Jane Austen was een prominente Engelse romanschrijfster van wie het werk nu deel uitmaakt van de westerse literaire canon. De vorm en dramatische inhoud van haar fictie vormen een sterk contrast met het teruggetrokken leven dat ze in werkelijkheid leidde.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_East_Hampshire_(district)"/>
+    <rdfs:comment xml:lang="uk">Джейн Остін — англійська письменниця. Відзначалася реалістичним, але іронічним і навіть кусючим стилем. Героїні творів Остін — сучасні їй панянки із верстви не дуже заможних дворянських родин, а головна тема творчості письменниці — мораль англійського суспільства ранньої індустріальної епохи.</rdfs:comment>
+    <rdfs:label xml:lang="en">Jane Austen</rdfs:label>
+    <dbpprop:placeOfDeath xml:lang="en">Winchester, Hampshire, England</dbpprop:placeOfDeath>
+    <dbpprop:caption xml:lang="en">Jane Austen is buried in Winchester Cathedral.</dbpprop:caption>
     <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
-    <rdfs:label xml:lang="uk">Джейн Остін</rdfs:label>
-    <dbpedia-owl:restingPlace rdf:resource="http://dbpedia.org/resource/Winchester_Cathedral"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.janeausten.co.uk"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Jane_Austen">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Atwood">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Emma_(2009_TV_serial)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wendell_Berry">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Susan">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Hubback">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bride_and_Prejudice">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mrs._Ann_Cawley">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/P._D._James">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Northanger_Abbey_(2007_TV_drama)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jenny_Haddon">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Molly_Harper">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Austen_Society">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Austen">
-    <dbpedia-owl:relation rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:relations rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Austen">
-    <dbpedia-owl:relation rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:relations rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Austen">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Watsons">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jon_Hunter_Spence">
-    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_austen">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Phelan_(literary_scholar)">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanditon">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Cheever">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mansfield_Park">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Northanger_Abbey">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Jane_Austen">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_Munro">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pride_&amp;_Prejudice:_A_Latter-Day_Comedy">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/R._D._Blackmore">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Teri_Holbrook">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Petina_Gappah">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sense_and_Sensibility_and_Sea_Monsters">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Eliot">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Jane_Austen"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Infectious_disease_deaths_in_England"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Jane_Austen"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Hampshire"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Culture_in_Bath,_Somerset"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WomenOfTheRegencyEra"/>
+    <dbpedia-owl:abstract xml:lang="hu">Jane Austen angol regényírónő. Főszereplői intelligens, erkölcsileg erős hősnők, akik éles kontrasztban állnak környezetük balgaságával.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromHampshire"/>
+    <rdfs:comment xml:lang="ru">Джейн Остин — английская писательница, провозвестница реализма в британской литературе, сатирик, писала так называемые романы нравов. Её книги являются признанными шедеврами и покоряют безыскусной искренностью и простотой сюжета на фоне глубокого психологического проникновения в души героев и ироничного, мягкого, истинно «английского» юмора. Джейн Остин до сих пор по праву считают «Первой леди» английской литературы.</rdfs:comment>
+    <dbpprop:period rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1787</dbpprop:period>
+    <rdfs:label xml:lang="ca">Jane Austen</rdfs:label>
+    <dbpprop:placeOfBirth xml:lang="en">Steventon, Hampshire, England</dbpprop:placeOfBirth>
   </rdf:Description>
 </rdf:RDF>

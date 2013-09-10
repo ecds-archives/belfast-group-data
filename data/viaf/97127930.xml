@@ -8,194 +8,201 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls014095027#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C119237903#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Cruis O'Brien, Conor 1917-2008</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
-    <skos:altLabel>O'Donnel, Donat, 1917-</skos:altLabel>
+    <skos:altLabel>O'Donnell, Donat, 1917-2008</skos:altLabel>
+    <skos:altLabel>Cruise-O'Brien, Conor 1917-2008</skos:altLabel>
+    <skos:altLabel>O'Brien, Donat Conor Cruise, 1917-2008</skos:altLabel>
+    <skos:prefLabel>O'Brien, Conor Cruise, 1917-2008</skos:prefLabel>
+    <skos:altLabel>O'Brien, Conor C 1917-2008</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Cruise O'Brien, Conor, 1917-</skos:altLabel>
-    <skos:altLabel>O’Brien, Donat Conor Cruise, 1917-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
-    <skos:prefLabel>O’Brien, Conor Cruise, 1917-</skos:prefLabel>
+    <skos:altLabel>O'Brajen, Konor 1917-2008</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca19010412#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/97127930/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00436963#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>オブライエン</skos:altLabel>
+    <skos:prefLabel>O’Brien, Conor Cruise, 1917-2008</skos:prefLabel>
+    <skos:altLabel>Cruise O'Brien, Conor</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:altLabel>オブライエン, ドナト</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++96025989#skos:Concept">
+    <skos:prefLabel>O'Brien, Conor Cruise, 1917-2008</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
     <skos:altLabel>O'Brajen, Konor Kruz.</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028356705#skos:Concept">
+    <skos:altLabel>Cruise O'Brien, Conor</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>O'Brien, Conor Cruise, 1917-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069436657#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
+    <skos:altLabel>Cruise-O'Brien, Conor 1917-2008</skos:altLabel>
+    <skos:prefLabel>O'Brien, Conor Cruise, 1917-2008</skos:prefLabel>
+    <skos:altLabel>O'Brajen, Konor Kruz, 1917-2008</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000122342#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>O'Brien, Donat Conor Cruise, 1917-</skos:altLabel>
+    <skos:prefLabel>O'Brien, Conor Cruise, 1917-....</skos:prefLabel>
+    <skos:altLabel>Cruise O'Brien, Conor, 1917-</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/97127930">
-    <rdaGr2:dateOfBirth>1917-11-03</rdaGr2:dateOfBirth>
-    <foaf:name>O'Brien, Donat Conor Cruise, 1917-</foaf:name>
-    <foaf:name>O'Brajen, Konor Kruz, 1917-2008</foaf:name>
-    <foaf:name>Cruise O'Brien, Conor</foaf:name>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/63489976"/>
-    <foaf:name>オブライエン, ドナト</foaf:name>
-    <foaf:name>O’Brien, Conor Cruise, 1917-2008</foaf:name>
-    <foaf:name>O'Brien, Conor Cruise, 1917-....</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Conor_Cruise_O'Brien"/>
-    <foaf:name>О'Брайен, Коннор Круз, р. 1917</foaf:name>
-    <foaf:name>O'Brien, Donal Conor David Dermot Donat Cruise, 1917-2008</foaf:name>
-    <foaf:name>O'Donnell, Donat, 1917-2008</foaf:name>
-    <foaf:name>O'Donnel, Donat, 1917-</foaf:name>
-    <foaf:name>Cruise O'Brien, Donat Conor, 1917-</foaf:name>
-    <foaf:name>O'Brien, Conor C 1917-2008</foaf:name>
-    <foaf:name>O'Brien, Donat Conor Cruise</foaf:name>
-    <foaf:name>O'Brajen, Konor 1917-2008</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/324908"/>
-    <foaf:name>O'Brajen, Konor Kruz.</foaf:name>
-    <foaf:name>Cruise O'Brien, Conor, 1917-</foaf:name>
-    <foaf:name>O'Brien, Conor Cruise, 1917-2008</foaf:name>
-    <foaf:name>オブライエン</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12020879b#foaf:Person"/>
-    <foaf:name>O’Brien, Donat Conor Cruise, 1917-</foaf:name>
-    <foaf:name>O'Connell, Donat</foaf:name>
-    <foaf:name>O’Brien, Conor Cruise, 1917-</foaf:name>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/63489976"/>
-    <rdaGr2:dateOfDeath>2008-12-18</rdaGr2:dateOfDeath>
-    <owl:sameAs rdf:resource="http://www.idref.fr/028356705/id"/>
-    <foaf:name>Obrien, Conor Cruise</foaf:name>
-    <foaf:name>Cruise-O'Brien, Conor 1917-2008</foaf:name>
-    <foaf:name>e O'Donnell Donat 1917-....</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119237903"/>
-    <foaf:name>O'Brien, Donat Conor Cruise, 1917-2008</foaf:name>
-    <foaf:name>Cruise O'Brien, Donat Conor</foaf:name>
-    <foaf:name>Cruis O'Brien, Conor 1917-2008</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>O'Donnell, Donat, 1917-</foaf:name>
-    <foaf:name>O'brien, Connor Cruise, 1917-2008</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035394288#skos:Concept">
+    <skos:altLabel>O'Donnell, Donat, 1917-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>O'Brien, Donat Conor Cruise, 1917-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:prefLabel>O'Brien, Conor Cruise, 1917-....</skos:prefLabel>
+    <skos:altLabel>Cruise O'Brien, Conor, 1917-</skos:altLabel>
+    <skos:altLabel>Cruise O'Brien, Donat Conor, 1917-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12020879#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
+    <skos:prefLabel>O'Brien, Conor Cruise, 1917-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>O'Donnell, Donat, 1917-</skos:altLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12020879b"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12020879b"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0101F4980#skos:Concept">
+    <skos:altLabel>O'Connell, Donat</skos:altLabel>
+    <skos:prefLabel>O'Brien, Conor Cruise, 1917-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Cruise O'Brien, Donat Conor</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
+    <skos:altLabel>O'Brien, Donat Conor Cruise</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50043483#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Cruise-O'Brien, Conor 1917-2008</skos:altLabel>
+    <skos:altLabel>O'Brien, Donal Conor David Dermot Donat Cruise, 1917-2008</skos:altLabel>
+    <skos:prefLabel>O'Brien, Conor Cruise, 1917-2008</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>O'Brien, Conor Cruise, 1917-2008</skos:prefLabel>
-    <skos:altLabel>O'Brien, Donat Conor Cruise, 1917-2008</skos:altLabel>
     <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50043483"/>
-    <skos:altLabel>O'Brien, Donal Conor David Dermot Donat Cruise, 1917-2008</skos:altLabel>
-    <skos:altLabel>Cruise-O'Brien, Conor 1917-2008</skos:altLabel>
+    <skos:altLabel>O'Brien, Donat Conor Cruise, 1917-2008</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990006212#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
-    <skos:prefLabel>O'Brien, Conor Cruise, 1917-2008</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Cruise-O'Brien, Conor 1917-2008</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/97127930/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>O'Brien, Conor Cruise, 1917-2008</skos:prefLabel>
+    <skos:altLabel>Cruise-O'Brien, Conor 1917-2008</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/97127930/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/97127930"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/97127930/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/97127930"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CConor_Cruise_O'Brien#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Obrien, Conor Cruise</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12020879#skos:Concept">
-    <skos:altLabel>e O'Donnell Donat 1917-....</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
-    <skos:prefLabel>O'Brien, Conor Cruise, 1917-....</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12020879b"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12020879b"/>
+    <skos:prefLabel>Obrien, Conor Cruise</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca19010412#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <skos:altLabel>O'Brajen, Konor Kruz.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>O'Brien, Conor Cruise, 1917-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/97127930">
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/63489976"/>
+    <foaf:name>O'Donnell, Donat, 1917-2008</foaf:name>
+    <foaf:name>O'Brien, Conor C 1917-2008</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12020879b#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Conor_Cruise_O'Brien"/>
+    <foaf:name>Cruise-O'Brien, Conor 1917-2008</foaf:name>
+    <foaf:name>O'Brajen, Konor 1917-2008</foaf:name>
+    <foaf:name>Cruise O'Brien, Conor</foaf:name>
+    <foaf:name>オブライエン</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119237903"/>
+    <foaf:name>O'Donnel, Donat, 1917-</foaf:name>
+    <foaf:name>O'Donnell, Donat, 1917-</foaf:name>
+    <foaf:name>O'Brajen, Konor Kruz.</foaf:name>
+    <foaf:name>О'Брайен, Коннор Круз, р. 1917</foaf:name>
+    <foaf:name>O'Brien, Conor Cruise, 1917-2008</foaf:name>
+    <foaf:name>Cruise O'Brien, Donat Conor</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/028356705/id"/>
+    <foaf:name>O'Brien, Donal Conor David Dermot Donat Cruise, 1917-2008</foaf:name>
+    <foaf:name>O'Brien, Donat Conor Cruise, 1917-</foaf:name>
+    <rdaGr2:dateOfDeath>2008-12-18</rdaGr2:dateOfDeath>
+    <foaf:name>Cruise O'Brien, Conor, 1917-</foaf:name>
+    <rdaGr2:dateOfBirth>1917-11-03</rdaGr2:dateOfBirth>
+    <foaf:name>O'Brajen, Konor Kruz, 1917-2008</foaf:name>
+    <foaf:name>Cruise O'Brien, Donat Conor, 1917-</foaf:name>
+    <foaf:name>O'brien, Connor Cruise, 1917-2008</foaf:name>
+    <foaf:name>O’Brien, Donat Conor Cruise, 1917-</foaf:name>
+    <foaf:name>Obrien, Conor Cruise</foaf:name>
+    <foaf:name>O'Brien, Donat Conor Cruise</foaf:name>
+    <foaf:name>オブライエン, ドナト</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/324908"/>
+    <foaf:name>O'Connell, Donat</foaf:name>
+    <foaf:name>O'Brien, Donat Conor Cruise, 1917-2008</foaf:name>
+    <foaf:name>Cruis O'Brien, Conor 1917-2008</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/63489976"/>
+    <foaf:name>O’Brien, Conor Cruise, 1917-</foaf:name>
+    <foaf:name>O'Brien, Conor Cruise, 1917-....</foaf:name>
+    <foaf:name>O’Brien, Conor Cruise, 1917-2008</foaf:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C324908#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
+    <skos:altLabel>O'Brien, Donat Conor Cruise, 1917-2008</skos:altLabel>
+    <skos:altLabel>Cruise-O'Brien, Conor 1917-2008</skos:altLabel>
+    <skos:altLabel>O'Donnell, Donat, 1917-2008</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>O'Brien, Conor Cruise, 1917-2008</skos:prefLabel>
+    <skos:altLabel>O'Brien, Donal Conor David Dermot Donat Cruise, 1917-2008</skos:altLabel>
     <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/324908#concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <skos:altLabel>O'Brien, Donat Conor Cruise, 1917-2008</skos:altLabel>
-    <skos:altLabel>O'Brien, Donal Conor David Dermot Donat Cruise, 1917-2008</skos:altLabel>
-    <skos:altLabel>O'Donnell, Donat, 1917-2008</skos:altLabel>
-    <skos:altLabel>Cruise-O'Brien, Conor 1917-2008</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0101F4980#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>O'Connell, Donat</skos:altLabel>
-    <skos:altLabel>Cruise O'Brien, Donat Conor</skos:altLabel>
-    <skos:prefLabel>O'Brien, Conor Cruise, 1917-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <skos:altLabel>O'Brien, Donat Conor Cruise</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069436657#skos:Concept">
-    <skos:altLabel>O'Brajen, Konor Kruz, 1917-2008</skos:altLabel>
-    <skos:prefLabel>O'Brien, Conor Cruise, 1917-2008</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Cruise-O'Brien, Conor 1917-2008</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028356705#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Cruise O'Brien, Conor</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls014095027#skos:Concept">
+    <skos:altLabel>O'Donnel, Donat, 1917-</skos:altLabel>
+    <skos:altLabel>O’Brien, Donat Conor Cruise, 1917-</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
-    <skos:prefLabel>O'Brien, Conor Cruise, 1917-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C119237903#skos:Concept">
-    <skos:altLabel>Cruise-O'Brien, Conor 1917-2008</skos:altLabel>
-    <skos:altLabel>O'Brien, Donat Conor Cruise, 1917-2008</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
-    <skos:altLabel>Cruis O'Brien, Conor 1917-2008</skos:altLabel>
-    <skos:altLabel>O'Brien, Conor C 1917-2008</skos:altLabel>
-    <skos:altLabel>O'Donnell, Donat, 1917-2008</skos:altLabel>
-    <skos:altLabel>O'Brajen, Konor 1917-2008</skos:altLabel>
-    <skos:prefLabel>O'Brien, Conor Cruise, 1917-2008</skos:prefLabel>
+    <skos:altLabel>Cruise O'Brien, Conor, 1917-</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+    <skos:prefLabel>O’Brien, Conor Cruise, 1917-</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++96025989#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000100706#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
     <skos:prefLabel>O'Brien, Conor Cruise, 1917-2008</skos:prefLabel>
-    <skos:altLabel>O'Brajen, Konor Kruz.</skos:altLabel>
+    <skos:altLabel>O'brien, Connor Cruise, 1917-2008</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/VLACC%7C000001857#skos:Concept">
+    <skos:prefLabel>Obrien, Conor Cruise</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/VLACC"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Obrien, Conor Cruise</skos:prefLabel>
     <skos:altLabel>Cruise O'Brien, Conor</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/97127930/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/97127930"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000100706#skos:Concept">
-    <skos:prefLabel>O'Brien, Conor Cruise, 1917-2008</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
-    <skos:altLabel>O'brien, Connor Cruise, 1917-2008</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00436963#skos:Concept">
-    <skos:altLabel>オブライエン</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>オブライエン, ドナト</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <skos:prefLabel>O’Brien, Conor Cruise, 1917-2008</skos:prefLabel>
-    <skos:altLabel>Cruise O'Brien, Conor</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035394288#skos:Concept">
-    <skos:altLabel>Cruise O'Brien, Conor, 1917-</skos:altLabel>
-    <skos:altLabel>O'Donnell, Donat, 1917-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <skos:prefLabel>O'Brien, Conor Cruise, 1917-....</skos:prefLabel>
-    <skos:altLabel>O'Brien, Donat Conor Cruise, 1917-</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Cruise O'Brien, Donat Conor, 1917-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/97127930"/>
   </rdf:Description>
 </rdf:RDF>

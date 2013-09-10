@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12316503#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/80698663"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb123165031"/>
+    <skos:altLabel>Bennett Jim 1947-....</skos:altLabel>
+    <skos:prefLabel>Bennett, James Arthur 1947-....</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb123165031"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/80698663/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/80698663"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/80698663/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/80698663"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/80698663">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Bennett Jim 1947-....</foaf:name>
+    <rdaGr2:dateOfBirth>1947-04-02</rdaGr2:dateOfBirth>
+    <foaf:name>Bennett, J. A. (James A.)</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/304997760"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Bennett, James A., fl.1982</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/154749915"/>
+    <foaf:name>Bennett, Jim</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/304997760"/>
+    <foaf:name>Bennett, J.A., fl.1982</foaf:name>
+    <foaf:name>Bennett, Jim A.</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jim_Bennett_(historian)"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb123165031#foaf:Person"/>
+    <foaf:name>Bennett, James Arthur 1947-....</foaf:name>
+    <foaf:name>Bennett, Jim (James A.)</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/80698663/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/80698663"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++81135774#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n81135774"/>
+    <skos:prefLabel>Bennett, J. A. (James A.)</skos:prefLabel>
+    <skos:altLabel>Bennett, Jim (James A.)</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/80698663"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJim_Bennett_(historian)#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/80698663"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Bennett, Jim</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C073179817#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/80698663"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Bennett, James A., fl.1982</skos:altLabel>
+    <skos:prefLabel>Bennett, J.A., fl.1982</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C154749915#skos:Concept">
+    <skos:altLabel>Bennett, Jim</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/80698663"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Bennett, Jim A.</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

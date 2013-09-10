@@ -10,407 +10,209 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Catherine_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Plays_Unpleasant">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/My_Fair_Lady">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Major_Barbara_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Joan_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Wilson">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/George_Bernard_Shaw">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Allan_Chappelow">
-    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ray_Bradbury">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arms_and_the_Man">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/GBS">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ismat_Chughtai">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nurul_Momen">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Devil's_Disciple">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wesley_College,_Dublin">
-    <dbpprop:nobelLaureates rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:nobelLaureates rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Androcles_and_the_Lion_(film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shaw,_George_Bernard">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Her_First_Roman">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Erico_Verissimo">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pygmalion_(1938_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Bernard_Shaw">
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_vegetarians"/>
-    <dbpedia-owl:nationality rdf:resource="http://dbpedia.org/resource/Irish_people"/>
-    <owl:sameAs rdf:resource="http://data.linkedmdb.org/resource/producer/9691"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfLiterature"/>
-    <dc:description xml:lang="en">Irish playwright, critic, and political activist</dc:description>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishMusicCritics"/>
-    <rdfs:label xml:lang="ca">George Bernard Shaw</rdfs:label>
-    <dbpprop:deathPlace xml:lang="en">Ayot St Lawrence, Hertfordshire, England</dbpprop:deathPlace>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:abstract xml:lang="ca">George Bernard Shaw FRSL va ser un dramaturg, crític literari i activista polític (socialista i pacifista) irlandès. Provocador inconformista, Shaw va criticar a través de la seva obra de to humorístic l'encarcarament classista de la societat britànica, l'explotació dels treballadors, la desigualtat entre homes i dones, la hipocresia religiosa, i alhora va proposar solucions des del seu punt de vista filosòfic. Vegetarià convençut, va militar per instaurar una higiene de vida sana i contra la crueltat envers els animals. És l'única persona guardonada alhora amb el premi Nobel de Literatura i el premi Oscar. Pel que fa al premi Nobel, Shaw primer el va voler rebutjar però finalment el va acceptar a petició de la seva muller, que el considerava com un homenatge a Irlanda.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:abstract xml:lang="ko">조지 버나드 쇼는 아일랜드 태생의 영국 극작가 겸 소설가이자 비평가이다. 아일랜드 더블린에서 출생하였고 1925년에 노벨 문학상을 수상하였다.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Shaw_George_Bernard_1856-1950"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Morris"/>
-    <dbpedia-owl:abstract xml:lang="fr">George Bernard Shaw est un critique musical et dramaturge irlandais, essayiste, scénariste, et auteur célèbre de pièces de théâtre. Irlandais acerbe et provocateur, pacifiste et anticonformiste, il obtint le prix Nobel de littérature en 1925.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
-    <dbpedia-owl:abstract xml:lang="vi">George Bernard Shaw là nhà soạn kịch người Anh gốc Ireland đoạt giải Nobel Văn học năm 1925.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1856-07-26</dbpedia-owl:birthDate>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Henry_George"/>
-    <rdfs:comment xml:lang="it"></rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www2.lse.ac.uk/library/archive/holdings/shaw_george_bernard.aspx"/>
-    <rdfs:comment xml:lang="es">George Bernard Shaw fue un escritor irlandés, ganador del Premio Nobel de literatura en 1925 y del Óscar en 1938.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.hrc.utexas.edu/"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Henry_George"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Nobel_laureates_in_Literature"/>
-    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Τζορτζ_Μπέρναρντ_Σω"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shawsociety.org/Chronology-of-Works.htm"/>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Шоу,_Джордж_Бернард"/>
-    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Playwright"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Hertfordshire"/>
-    <dbpedia-owl:abstract xml:lang="fi">George Bernard Shaw oli irlantilaissyntyinen, englantilainen näytelmäkirjailija, jolle myönnettiin Nobelin kirjallisuuspalkinto vuonna 1925. Hänen tunnetuin näytelmänsä on Pygmalion (1912), jonka pohjalta on tehty vuonna 1938 ensi-iltansa saanut samanniminen elokuva ja yhdysvaltalaisena musikaalina My Fair Lady. Shaw sai Pygmalionin elokuvakäsikirjoituksesta parhaan sovitetun käsikirjoituksen Oscar-palkinnon, ja on ainoa henkilö, joka on palkittu sekä kirjallisuuden Nobelilla että Oscarilla. Shaw oli poliittisesti sosialisti ja oli yksi Fabian Societyn tunnetuimmista jäsenistä. Hän aloitti uransa lehtikirjoituksilla muun muassa musiikkiarvosteluilla. Näytelmissään Shaw käsitteli ajankohtaisia teemoja ironian ja paradoksien kesken. Monet hänen sukkeluutensa elävät irrallisina sitaatteina kuten "Ne, jotka osaavat, tekevät. Ne jotka eivät osaa, opettavat. " Ensimmäiseen maailmansotaan asti hän kirjoitti lähinnä komedioita. Sodan jälkeen häneltä ilmestyi vakavampaa draamaa.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://research.hrc.utexas.edu:8080/hrcxtf/view?docId=ead/00121.xml&amp;query=george%20bernard%20shaw&amp;query-join=and/"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Socialists"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishLinguists"/>
-    <rdfs:label xml:lang="vi">George Bernard Shaw</rdfs:label>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishSocialists"/>
-    <dbpedia-owl:abstract xml:lang="pt">George Bernard Shaw foi um dramaturgo, romancista, contista, ensaísta e jornalista irlandês. É autor de comédias satíricas que o tornaram espírito irreverente e inconformista. Filho de uma tradicional mas empobrecida família protestante, foi de início instruído por um tio, mas rejeitou a educação escolar e aos 16 anos empregou-se em um escritório. Adquiriu amplo conhecimento artístico graças à mãe, Lucinda Elizabeth Gurly Shaw, e às freqüentes visitas à National Gallery da Irlanda. Decidido a se tornar escritor, foi morar em Londres em 1876, porém por mais de dez anos seus romances foram recusados por todos os editores da cidade, assim como a maior parte dos artigos enviados à imprensa. Tornou-se vegetariano, socialista, orador brilhante, polemista e fez as primeiras tentativas como dramaturgo. Em 1885 conseguiu um trabalho fixo na imprensa e, durante quase uma década, escreveu resenhas literárias, críticas de arte e brilhantes colunas musicais. Sua atividade literária, em especial a produção teatral, foi uma seqüência de sucessos; destacou-se também na crítica literário, teatral e musical, na defesa do socialismo, criação de panfletos, ensaios sobre assuntos políticos, econômicos e sociais, sendo ainda um prolífico epistológrafo. Como crítico de teatro da Saturday Review, atacou insistentemente a pobreza qualitativa e artística da produção teatral vitoriana. Durante a Primeira Guerra Mundial, interrompeu sua produção teatral e publicou um polêmico panfleto, Common Sense About the War, no qual considerava o Reino Unido, os aliados e os alemães igualmente culpados e reivindicava negociações de paz. Recusou o Nobel de Literatura de 1925 e, em suas últimas peças, intensificou as pesquisas com a linguagem não-realista, simbolista e tragicômica. Por cinco anos deixou de escrever para o teatro e dedicou-se ao preparo e publicação da edição de suas obras escolhidas (1930-1938), e ao tratado político The Intelligent Woman's Guide to Socialism and Capitalism. A sua correspondência também foi publicada, destacando-se a troca de cartas com o escritor H. G. Wells.</dbpedia-owl:abstract>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Morris"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Richard_Wagner"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Modernist_drama,_theatre_and_performance"/>
-    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Satire"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishNobelLaureates"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleAssociatedWithTheBritishMuseum"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_British_Museum"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_artists"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyDuBlin"/>
-    <rdfs:comment xml:lang="de">George Bernard Shaw war ein irisch-britischer Dramatiker, Politiker, Satiriker, Musikkritiker und Pazifist, der 1925 den Nobelpreis für Literatur und 1939 den Oscar für das beste adaptierte Drehbuch erhielt.</rdfs:comment>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Ray_Bradbury"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">89019752</dbpprop:viaf>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishVegetarians"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Accidental_deaths_from_falls"/>
-    <rdfs:comment xml:lang="ca">George Bernard Shaw FRSL va ser un dramaturg, crític literari i activista polític (socialista i pacifista) irlandès. Provocador inconformista, Shaw va criticar a través de la seva obra de to humorístic l'encarcarament classista de la societat britànica, l'explotació dels treballadors, la desigualtat entre homes i dones, la hipocresia religiosa, i alhora va proposar solucions des del seu punt de vista filosòfic.</rdfs:comment>
-    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Black_comedy"/>
-    <dbpprop:nationality xml:lang="en">Irish</dbpprop:nationality>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
-    <rdfs:comment xml:lang="ru">Джо́рдж Бе́рнард Шо́у — британский писатель, романист, драматург, лауреат Нобелевской премии в области литературы. Общественный деятель (социалист-«фабианист», сторонник реформы английской письменности). Второй по популярности драматург в английском театре.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:International_PEN"/>
-    <rdfs:comment xml:lang="ko">조지 버나드 쇼는 아일랜드 태생의 영국 극작가 겸 소설가이자 비평가이다. 아일랜드 더블린에서 출생하였고 1925년에 노벨 문학상을 수상하였다.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_socialists"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/OperaCritics"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/George_Bernard_Shaw"/>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:abstract xml:lang="hu">George Bernard Shaw (írói nevén G. B. Shaw) ír drámaíró. Munkásságát 1925-ben irodalmi Nobel-díjjal honorálták. William Shakespeare után az ő műveit játsszák leggyakrabban az angol nyelvű színházakban.</dbpedia-owl:abstract>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishArtists"/>
-    <rdfs:comment xml:lang="ja">ジョージ・バーナード・ショー（George Bernard Shaw, 1856年7月26日 - 1950年11月2日）は、イギリスにおいて主に19世紀に活躍したアイルランド出身の劇作家、劇評家、音楽評論家、社会主義者。ロンドン・スクール・オブ・エコノミクス（LSE）創設者。イギリス近代演劇の確立者として有名である。ショーが劇作家としての才能を認められるようになったのは40代であるが、精力的に作品を書き続け、94歳で亡くなるまでに53本もの戯曲を残した。カナダのナイアガラ・オン・ザ・レイクでは、毎年数ヶ月にわたって、ショーとその同時代の劇作家の作品を上演するショー・フェスティバルが開催され、世界各国から人々が集まっている。 進取の精神で知られ、新しく世の中に出てくる考え方に対して、ほぼ生涯を通じて賛成している。反面、次々と新しい思想に飛びつき、思想信条に一貫性がないとの誹りもしばしば受けていた。ソビエト連邦や共産主義に関する好意的な姿勢はイギリスの社会主義運動に混乱をもたらし、第二次世界大戦後に軽佻浮薄との痛烈な批判を浴びることになった。 アレクサンダー・テクニーク創始者のフレデリック・マサイアス・アレクサンダーの有力な支持者であった。</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Critic109979321"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
-    <rdfs:comment xml:lang="hu">George Bernard Shaw (írói nevén G. B. Shaw) ír drámaíró. Munkásságát 1925-ben irodalmi Nobel-díjjal honorálták. William Shakespeare után az ő műveit játsszák leggyakrabban az angol nyelvű színházakban.</rdfs:comment>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Friedrich_Nietzsche"/>
-    <dbpprop:lccn xml:lang="en">n/79/6533</dbpprop:lccn>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Opera_critics"/>
-    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118642375</dbpprop:pnd>
-    <rdfs:comment xml:lang="nl">George Bernard Shaw was een Iers toneelschrijver, socialist en theatercriticus. Hij was een vrijdenker, ondersteunde de strijd voor gelijke rechten voor vrouwen en was voorstander van gelijke beloning voor mannen en vrouwen. Tevens was hij overtuigd vegetariër en tegenstander van dierproeven. Hij won de Nobelprijs voor de Literatuur in 1925 – hij accepteerde de eer maar weigerde het geld.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="nl">George Bernard Shaw was een Iers toneelschrijver, socialist en theatercriticus. Hij was een vrijdenker, ondersteunde de strijd voor gelijke rechten voor vrouwen en was voorstander van gelijke beloning voor mannen en vrouwen. Tevens was hij overtuigd vegetariër en tegenstander van dierproeven. Hij won de Nobelprijs voor de Literatuur in 1925 – hij accepteerde de eer maar weigerde het geld.</dbpedia-owl:abstract>
-    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Black_comedy"/>
-    <dbpedia-owl:abstract xml:lang="no">George Bernard Shaw var en anglo-irsk dramatiker. Han ble tildelt nobelprisen i litteratur i 1925. Ettertiden husker ham nok best som forfatter av skuespillet Pygmalion, senere omskapt til musikalen My Fair Lady; og for skarpe vittigheter som «England og USA er to stater som er splittet av det samme språk». Han ble født i en fattig protestantisk familie i Dublin. På 1870-tallet flyttet han til London for å prøve seg som forfatter. Han skrev fem refuserte romaner før han fant arbeid som musikkritiker i avisen The Star. På samme tid begynte han å engasjere seg politisk. Han deltok i Bloody sunday-demonstrasjonen i 1887, og ble medlem av Fabian Society, et intellektuell sosialistisk miljø. Her møtte han også sin kone Charlotte Payne-Townshend, som han giftet seg med i 1898. Som musikkritiker var han en ivrig forkjemper for Wagners musikk. Da han i perioden 1895 til 1898 arbeidet som teaterkritiker i Saturday Review fremsto han som en stor forkjemper for Henrik Ibsens dramatikk. Han hadde allerede i 1891 skrevet boken The Quintessence of Ibsenism, og verket kom i revidert og utvidet utgave i 1923. Hans første teatersuksess, Candida, hadde premiere i 1898, og ble fulgt opp av en rekke komedier: The Devil's Disciple, Arms and the Man (1898), Mrs Warren's Profession (1898), Captain Brassbound's Conversion, Caesar and Cleopatra (1901, Man and Superman, Major Barbara, Androcles and the Lion og Pygmalion . Etter første verdenskrig skrev han mer seriøse stykker, som Heartbreak House og Saint Joan . Shaw bodde i huset Shaw's corner i landsbyen Ayot St Lawrence, Hertfordshire, fra 1906 til sin død. Han døde 94 år gammel, etter et fall fra en stige. Ved sin død var han blitt folkeeie. Hans hjem eies nå av National trust, og holder åpent for publikum. I sitt testamente avsatte Shaw £500 til en konkurranse om utarbeidelsen av eget alfabet, tilpasset lydene i det engelske språket. Resultatet, som ble utarbeidet av Ronald Kingsley Read, er kjent som Shavian.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="ru">Джо́рдж Бе́рнард Шо́у — британский писатель, романист, драматург, лауреат Нобелевской премии в области литературы. Общественный деятель (социалист-«фабианист», сторонник реформы английской письменности). Второй по популярности драматург в английском театре. Единственный человек, удостоенный одновременно и Нобелевской премии по литературе (1925, «За творчество, отмеченное идеализмом и гуманизмом, за искрометную сатиру, которая часто сочетается с исключительной поэтической красотой») и премии «Оскар». Шоу отказался от денежной части Нобелевской премии по литературе (однако принял медаль лауреата; от премии впоследствии также отказывались Борис Пастернак и Жан-Поль Сартр).</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="en">George Bernard Shaw (26 July 1856 – 2 November 1950) was an Irish playwright and a co-founder of the London School of Economics. Although his first profitable writing was music and literary criticism, in which capacity he wrote many highly articulate pieces of journalism, his main talent was for drama, and he wrote more than 60 plays. Nearly all his writings address prevailing social problems, but have a vein of comedy which makes their stark themes more palatable. Shaw examined education, marriage, religion, government, health care, and class privilege. He was most angered by what he perceived as the exploitation of the working class. An ardent socialist, Shaw wrote many brochures and speeches for the Fabian Society. He became an accomplished orator in the furtherance of its causes, which included gaining equal rights for men and women, alleviating abuses of the working class, rescinding private ownership of productive land, and promoting healthy lifestyles. For a short time he was active in local politics, serving on the London County Council. In 1898, Shaw married Charlotte Payne-Townshend, a fellow Fabian, whom he survived. They settled in Ayot St Lawrence in a house now called Shaw's Corner. Shaw died there, aged 94, from chronic problems exacerbated by injuries he incurred by falling from a ladder. He is the only person to have been awarded both a Nobel Prize in Literature (1925) and an Oscar (1938), for his contributions to literature and for his work on the film Pygmalion (adaptation of his play of the same name), respectively. Shaw wanted to refuse his Nobel Prize outright because he had no desire for public honours, but accepted it at his wife's behest: she considered it a tribute to Ireland. He did reject the monetary award, requesting it be used to finance translation of Swedish books into English.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="en">George Bernard Shaw (26 July 1856 – 2 November 1950) was an Irish playwright and a co-founder of the London School of Economics. Although his first profitable writing was music and literary criticism, in which capacity he wrote many highly articulate pieces of journalism, his main talent was for drama, and he wrote more than 60 plays. Nearly all his writings address prevailing social problems, but have a vein of comedy which makes their stark themes more palatable.</rdfs:comment>
-    <rdfs:comment xml:lang="sv">George Bernard Shaw, född 26 juli 1856 i Dublin, död 2 november 1950 i Ayot Saint Lawrence, Hertfordshire, var en irländsk författare (som, trots att han större delen av sitt liv bodde i Storbritannien och hade brittiskt pass, tog mycket illa upp om man kallade honom britt) som belönades med Nobelpriset i litteratur 1925. Han föddes i Dublin som son till protestantiska föräldrar som levde under knappa omständigheter.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="es">George Bernard Shaw fue un escritor irlandés, ganador del Premio Nobel de literatura en 1925 y del Óscar en 1938.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_music_critics"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Friedrich_Nietzsche"/>
-    <dbpprop:influenced xml:lang="en">Socialism and Fabianism in the United Kingdom, Colin Wilson, Kurt Vonnegut, Ray Bradbury</dbpprop:influenced>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shawsociety.org.uk/"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Kurt_Vonnegut"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Henry_Hyndman"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/조지_버나드_쇼"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.silentera.com/PSFL/data/G/GreetingByGeorgeBernar1928.html"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_London_School_of_Economics"/>
-    <rdfs:comment xml:lang="uk">Джордж Бернард Шоу (англ. George Bernard Shaw) — англійський драматург і публіцист ірландського походження, родом з Дубліна, лауреат Нобелівської премії з літератури за 1925, помер в Ейот-Сент-Лоренс, Англія. На українській сцені вперше ставив п'єси Шоу Лесь Курбас у «Молодому театрі» («Кандіда», 1918) й Театрі ім. Т. Шевченка («Учень диявола», 1922); пізніше в Театрі ім. І. Франка були виставлені «Свята Йоанна» (1924) й «Учень диявола» (1948). Саме Б. Шоу разом із Г. Ібсеном і А.</rdfs:comment>
-    <foaf:surname xml:lang="en">Shaw</foaf:surname>
-    <dbpprop:selibr rdf:datatype="http://www.w3.org/2001/XMLSchema#int">91379</dbpprop:selibr>
-    <rdfs:comment xml:lang="fi">George Bernard Shaw oli irlantilaissyntyinen, englantilainen näytelmäkirjailija, jolle myönnettiin Nobelin kirjallisuuspalkinto vuonna 1925. Hänen tunnetuin näytelmänsä on Pygmalion (1912), jonka pohjalta on tehty vuonna 1938 ensi-iltansa saanut samanniminen elokuva ja yhdysvaltalaisena musikaalina My Fair Lady. Shaw sai Pygmalionin elokuvakäsikirjoituksesta parhaan sovitetun käsikirjoituksen Oscar-palkinnon, ja on ainoa henkilö, joka on palkittu sekä kirjallisuuden Nobelilla että Oscarilla.</rdfs:comment>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Fabian_Society"/>
-    <rdfs:comment xml:lang="cs">George Bernard Shaw [Šó Šó] byl anglický dramatik, prozaik a esejista irského původu, nositel Nobelovy ceny za literaturu za rok 1925.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="cs">George Bernard Shaw [Šó Šó] byl anglický dramatik, prozaik a esejista irského původu, nositel Nobelovy ceny za literaturu za rok 1925.</dbpedia-owl:abstract>
-    <dbpprop:placeOfBirth xml:lang="en">Dublin, Ireland</dbpprop:placeOfBirth>
-    <dbpprop:birthPlace xml:lang="en">Dublin, Ireland</dbpprop:birthPlace>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishDramatistsAndPlaywrights"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://tls.timesonline.co.uk/article/0,,25338-2277082,00.html"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/George_Bernard_Shaw"/>
-    <rdfs:label xml:lang="de">George Bernard Shaw</rdfs:label>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Henrik_Ibsen"/>
-    <dbpedia-owl:abstract xml:lang="pl">George Bernard Shaw – irlandzki dramaturg i prozaik, przedstawiciel dramatu realistycznego. Jako filozof twórca koncepcji tzw. siły życiowej (Life Force) i ewolucji twórczej (Creative Evolution). Indywidualność twórcza, outsider i obcokrajowiec, irlandzki obserwator, żyjący w niezgodzie ze społeczeństwem, które znaczyło dla niego mniej niż ludzie, których znał i lubił. Znany zwłaszcza dzięki sztuce Pigmalion oraz często przywoływanym aforyzmom. George Bernard Shaw jest laureatem Nagrody Nobla w dziedzinie literatury za rok 1925. Z uzasadnienia Komitetu Noblowskiego: za twórczość naznaczoną idealizmem i humanizmem, za przenikliwą satyrę, która często łączy się z wyjątkowym pięknem poetyckim. Jest także zdobywcą Oscara w roku 1938 za "najlepszy scenariusz adaptowany" do filmu Pygmalion, co czyni go jedyną osobą w historii uhonorowaną Oscarem i Nagrodą Nobla.</dbpedia-owl:abstract>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/George_Bernard_Shaw?oldid=494759667"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Arthur_Schopenhauer"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Colin_Wilson"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/browse/authors/s#a467"/>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:name xml:lang="en">Shaw, George Bernard</dbpprop:name>
-    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Satire"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shawchicago.org/"/>
-    <rdfs:label xml:lang="cs">George Bernard Shaw</rdfs:label>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/George_Bernard_Shaw"/>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_Royal_Academy_of_Dramatic_Art"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_dramatists_and_playwrights"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Henry_Hyndman"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
-    <rdfs:label xml:lang="uk">Бернард Шоу</rdfs:label>
-    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rveMhpZwpEbGdrcN5Y29ycA"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NobelLaureatesInLiterature"/>
-    <dbpprop:shortDescription xml:lang="en">Irish playwright, critic, and political activist</dbpprop:shortDescription>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shawfest.com/"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Socialism"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Fabian_Society"/>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1950-11-02</dbpprop:deathDate>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Henrik_Ibsen"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Dublin"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://lib-1.lse.ac.uk/archivesblog/?cat=132"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1950_deaths"/>
-    <dbpprop:movement xml:lang="en">Ibsenism, naturalism</dbpprop:movement>
-    <foaf:givenName xml:lang="en">George Bernard</foaf:givenName>
-    <dbpprop:caption xml:lang="en">Shaw in 1915</dbpprop:caption>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shawsociety.org/"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WesternMystics"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26</dbpprop:dateOfBirth>
-    <rdfs:comment xml:lang="pl">George Bernard Shaw – irlandzki dramaturg i prozaik, przedstawiciel dramatu realistycznego. Jako filozof twórca koncepcji tzw. siły życiowej (Life Force) i ewolucji twórczej (Creative Evolution). Indywidualność twórcza, outsider i obcokrajowiec, irlandzki obserwator, żyjący w niezgodzie ze społeczeństwem, które znaczyło dla niego mniej niż ludzie, których znał i lubił. Znany zwłaszcza dzięki sztuce Pigmalion oraz często przywoływanym aforyzmom.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.silentera.com/PSFL/data/G/GeorgeBernardShaw1927.html"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.npg.org.uk/collections/search/portrait.php?LinkID=mp06547&amp;page=1&amp;role=art&amp;rNo=5"/>
-    <dbpprop:name xml:lang="en">George Bernard Shaw</dbpprop:name>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:IMDb_name"/>
-    <rdfs:comment xml:lang="vi">George Bernard Shaw là nhà soạn kịch người Anh gốc Ireland đoạt giải Nobel Văn học năm 1925.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cse.dmu.ac.uk/~mward/gkc/books/debate.txt"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_linguists"/>
-    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="no">George Bernard Shaw var en anglo-irsk dramatiker. Han ble tildelt nobelprisen i litteratur i 1925. Ettertiden husker ham nok best som forfatter av skuespillet Pygmalion, senere omskapt til musikalen My Fair Lady; og for skarpe vittigheter som «England og USA er to stater som er splittet av det samme språk». Han ble født i en fattig protestantisk familie i Dublin. På 1870-tallet flyttet han til London for å prøve seg som forfatter.</rdfs:comment>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Ayot_St_Lawrence"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_the_United_Kingdom"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleAssociatedWithTheLondonSchoolOfEconomics"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thebestquestion.com/georgebernardshaw.htm"/>
-    <dbpedia-owl:abstract xml:lang="de">George Bernard Shaw war ein irisch-britischer Dramatiker, Politiker, Satiriker, Musikkritiker und Pazifist, der 1925 den Nobelpreis für Literatur und 1939 den Oscar für das beste adaptierte Drehbuch erhielt.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="fr">George Bernard Shaw est un critique musical et dramaturge irlandais, essayiste, scénariste, et auteur célèbre de pièces de théâtre. Irlandais acerbe et provocateur, pacifiste et anticonformiste, il obtint le prix Nobel de littérature en 1925.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="ja">ジョージ・バーナード・ショー（George Bernard Shaw, 1856年7月26日 - 1950年11月2日）は、イギリスにおいて主に19世紀に活躍したアイルランド出身の劇作家、劇評家、音楽評論家、社会主義者。ロンドン・スクール・オブ・エコノミクス（LSE）創設者。イギリス近代演劇の確立者として有名である。ショーが劇作家としての才能を認められるようになったのは40代であるが、精力的に作品を書き続け、94歳で亡くなるまでに53本もの戯曲を残した。カナダのナイアガラ・オン・ザ・レイクでは、毎年数ヶ月にわたって、ショーとその同時代の劇作家の作品を上演するショー・フェスティバルが開催され、世界各国から人々が集まっている。 進取の精神で知られ、新しく世の中に出てくる考え方に対して、ほぼ生涯を通じて賛成している。反面、次々と新しい思想に飛びつき、思想信条に一貫性がないとの誹りもしばしば受けていた。ソビエト連邦や共産主義に関する好意的な姿勢はイギリスの社会主義運動に混乱をもたらし、第二次世界大戦後に軽佻浮薄との痛烈な批判を浴びることになった。 アレクサンダー・テクニーク創始者のフレデリック・マサイアス・アレクサンダーの有力な支持者であった。</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:International_PEN"/>
     <dbpprop:id rdf:datatype="http://www.w3.org/2001/XMLSchema#int">789737</dbpprop:id>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_theatre"/>
-    <rdfs:label xml:lang="zh">萧伯纳</rdfs:label>
-    <dbpedia-owl:abstract xml:lang="uk">Джордж Бернард Шоу (англ. George Bernard Shaw) — англійський драматург і публіцист ірландського походження, родом з Дубліна, лауреат Нобелівської премії з літератури за 1925, помер в Ейот-Сент-Лоренс, Англія. На українській сцені вперше ставив п'єси Шоу Лесь Курбас у «Молодому театрі» («Кандіда», 1918) й Театрі ім. Т. Шевченка («Учень диявола», 1922); пізніше в Театрі ім. І. Франка були виставлені «Свята Йоанна» (1924) й «Учень диявола» (1948). Саме Б. Шоу разом із Г. Ібсеном і А. Чеховим був «батьком» гостро соціальної, інтелектуальної драми, «драми ідей». Продовжуючи на новій основі традиції ібсенівського театру, Б. Шоу створив неповторно своєрідну драматургічну систему.</dbpedia-owl:abstract>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Karl_Marx"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/George_bernard_shaw.jpg/200px-George_bernard_shaw.jpg"/>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジョージ・バーナード・ショー"/>
-    <dbpedia-owl:abstract xml:lang="zh">蕭伯纳（George Bernard Shaw，1856年7月26日－1950年11月2日），直譯為喬治·伯纳德·肖，爱尔兰剧作家，1925年「因為作品具有理想主義和人道主義」而獲諾貝爾文學獎，其喜劇作品《賣花女》（Pygmalion）因被 Alan Lerner 改編為音樂劇《窈窕淑女》（My Fair Lady），該音樂劇又被好萊塢改編為同名賣座電影而家喻戶曉。</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1950-11-02</dbpedia-owl:deathDate>
-    <dbpprop:occupation xml:lang="en">Playwright, critic, political activist</dbpprop:occupation>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03cdg"/>
-    <dbpedia-owl:abstract xml:lang="sv">George Bernard Shaw, född 26 juli 1856 i Dublin, död 2 november 1950 i Ayot Saint Lawrence, Hertfordshire, var en irländsk författare (som, trots att han större delen av sitt liv bodde i Storbritannien och hade brittiskt pass, tog mycket illa upp om man kallade honom britt) som belönades med Nobelpriset i litteratur 1925. Han föddes i Dublin som son till protestantiska föräldrar som levde under knappa omständigheter. Under 1870-talet flyttade han till London för att pröva sin lycka som författare. Han skrev fem romaner som alla refuserades, innan han började arbeta som musikkritiker på tidningen The Star, vilket han var duktig på. Ungefär vid denna tid blev han politiskt intresserad och tjänstgjorde från 1897 och flera år framåt som politisk rådgivare. Han var socialist. Som brinnande socialist, skrev Shaw många broschyrer och tal för Fabian Society. Han blev en skicklig talare för främjandet av dess frågor, såsom lika rättigheter för män och kvinnor, lindrandet av missförhållanden i arbetarklassen, återkallandet av privat ägande av produktiv mark och främjandet för en hälsosam livsstil. För en kort tid var han aktiv i lokalpolitiken och tjänstgjorde på London County Council. 1895 började han arbeta som dramakritiker på tidningen Saturday Review, hans första steg mot en karriär som dramatiker. 1898 gifte han sig med irländskan Charlotte Payne-Townshend, och hans första succé, Candida sattes upp samma år. Han följde upp med ett antal komiska dramer, bl.a. The Devil's Disciple, Arms and the Man (1898), Mrs Warren's Profession (1898), Captain Brassbound's Conversion, Caesar and Cleopatra (1901, Man and Superman, Major Barbara, Androcles and the Lion och Pygmalion . Efter första världskriget producerade han mer seriösa dramer, bl.a. Heartbreak House och Saint Joan . Shaw avled 1950, 94 år gammal, efter ett fall från en stege. Sedan 1962 hålls Shawfestivalen, en hyllning till Shaw, i den kanadensiska staden Niagara-on-the-lake. Två gånger har det gjorts musikteater på Shaws pjäser. När representanter för Oscar Straus skrev och ville göra operett på Arms and the Man svarade Shaw att om man inte nämnde hans namn i sammanhanget, och om man inte citerade en enda replik ur dialogen i hans pjäs, skulle han kanske vara vänlig nog att inte stämma dem; operetten komponerades och fick namnet "Der tapfere Soldat". Fyra år efter Shaws död blev det premiär på My Fair Lady, som bröt klart mot Shaws vilja på båda de ovanstående punkterna, och även på en tredje. I den tryckta utgåvan av Pygmalion bifogade Shaw ett långt efterord där han förklarade varför Eliza till slut bryter med Higgins och gifter sig med Freddy; det struntar musikalens librettister i och låter Higgins få henne. Dock ska sägas att ett liknande, ändrat slut finns även i filmversionen från 1938, till vilken Shaw själv står angiven som manusförfattare - om än slutet lades till mot hans vilja. Shaw fick för övrigt en Oscar för sitt manus till filmen, vilket gör honom till den enda person som fått både en Oscar och Nobelpriset i litteratur. Instiftade 1927 Anglo-Swedish Literary Foundation, en fond för utveckling av kulturella förbindelser mellan Storbritannien och Sverige, med nobelprispengarna som grund. Han var även en samvetsöm vegetarian, som t.o.m. sörjde över att behöva plåga grönsakerna och äta upp dem.</dbpedia-owl:abstract>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/c/ca/George_bernard_shaw.jpg"/>
-    <dbpedia-owl:individualisedPnd xml:lang="de">118642375</dbpedia-owl:individualisedPnd>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.lib.uoguelph.ca/resources/archival_&amp;_special_collections/the_collections/dan_laurence_collection.cfm"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Mystics"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Arthur_Schopenhauer"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.lse.ac.uk/library/shawphotos"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/commentisfree/2006/jul/26/gbsat150"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_Nobel_laureates"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Karl_Marx"/>
-    <rdfs:comment xml:lang="zh">蕭伯纳（George Bernard Shaw，1856年7月26日－1950年11月2日），直譯為喬治·伯纳德·肖，爱尔兰剧作家，1925年「因為作品具有理想主義和人道主義」而獲諾貝爾文學獎，其喜劇作品《賣花女》（Pygmalion）因被 Alan Lerner 改編為音樂劇《窈窕淑女》（My Fair Lady），該音樂劇又被好萊塢改編為同名賣座電影而家喻戶曉。</rdfs:comment>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://search.nobelprize.org/search/nobel/?q=George+Bernard+Shaw&amp;i=en&amp;x=0&amp;y=0"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Best_Adapted_Screenplay_Academy_Award_winners"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1856_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleAssociatedWithTheLondonSchoolOfEconomics"/>
     <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:dateOfDeath>
-    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Ayot_St_Lawrence"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_theatre"/>
+    <rdfs:label xml:lang="cs">George Bernard Shaw</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www2.lse.ac.uk/library/archive/holdings/shaw_george_bernard.aspx"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.npg.org.uk/collections/search/portrait.php?LinkID=mp06547&amp;page=1&amp;role=art&amp;rNo=5"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/browse/authors/s#a467"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.lib.uoguelph.ca/resources/archival_&amp;_special_collections/the_collections/dan_laurence_collection.cfm"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thebestquestion.com/georgebernardshaw.htm"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shawsociety.org/Chronology-of-Works.htm"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Hertfordshire"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/George_Bernard_Shaw"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Morris"/>
+    <rdfs:label xml:lang="de">George Bernard Shaw</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1950_deaths"/>
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Playwright"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/George_Bernard_Shaw"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_dramatists_and_playwrights"/>
+    <dbpprop:caption xml:lang="en">Shaw in 1915</dbpprop:caption>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_British_Museum"/>
+    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Black_comedy"/>
+    <rdfs:comment xml:lang="fr">George Bernard Shaw est un critique musical et dramaturge irlandais, essayiste, scénariste, et auteur célèbre de pièces de théâtre. Irlandais acerbe et provocateur, pacifiste et anticonformiste, il obtint le prix Nobel de littérature en 1925.</rdfs:comment>
+    <dbpprop:deathPlace xml:lang="en">Ayot St Lawrence, Hertfordshire, England</dbpprop:deathPlace>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://search.nobelprize.org/search/nobel/?q=George+Bernard+Shaw&amp;i=en&amp;x=0&amp;y=0"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Modernist_drama,_theatre_and_performance"/>
+    <dbpedia-owl:abstract xml:lang="cs">George Bernard Shaw [Šó Šó] byl anglický dramatik, prozaik a esejista irského původu, nositel Nobelovy ceny za literaturu za rok 1925.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfLiterature"/>
+    <owl:sameAs rdf:resource="http://data.linkedmdb.org/resource/producer/9691"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1950-11-02</dbpedia-owl:deathDate>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118642375</dbpedia-owl:individualisedPnd>
+    <rdfs:comment xml:lang="pt">George Bernard Shaw foi um dramaturgo, romancista, contista, ensaísta e jornalista irlandês. É autor de comédias satíricas que o tornaram espírito irreverente e inconformista. Filho de uma tradicional mas empobrecida família protestante, foi de início instruído por um tio, mas rejeitou a educação escolar e aos 16 anos empregou-se em um escritório. Adquiriu amplo conhecimento artístico graças à mãe, Lucinda Elizabeth Gurly Shaw, e às freqüentes visitas à National Gallery da Irlanda.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Джо́рдж Бе́рнард Шо́у — британский писатель, романист, драматург, лауреат Нобелевской премии в области литературы. Общественный деятель (социалист-«фабианист», сторонник реформы английской письменности). Второй по популярности драматург в английском театре.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">George Bernard Shaw was een Iers toneelschrijver, socialist en theatercriticus. Hij was een vrijdenker, ondersteunde de strijd voor gelijke rechten voor vrouwen en was voorstander van gelijke beloning voor mannen en vrouwen. Tevens was hij overtuigd vegetariër en tegenstander van dierproeven. Hij won de Nobelprijs voor de Literatuur in 1925 – hij accepteerde de eer maar weigerde het geld.</rdfs:comment>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/c/ca/George_bernard_shaw.jpg"/>
+    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/Satire"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cse.dmu.ac.uk/~mward/gkc/books/debate.txt"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Ray_Bradbury"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:IMDb_name"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Henrik_Ibsen"/>
+    <rdfs:comment xml:lang="it"></rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Accidental_deaths_from_falls"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Arthur_Schopenhauer"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Шоу,_Джордж_Бернард"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishArtists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Dublin"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:comment xml:lang="sv">George Bernard Shaw, född 26 juli 1856 i Dublin, död 2 november 1950 i Ayot Saint Lawrence, Hertfordshire, var en irländsk författare (som, trots att han större delen av sitt liv bodde i Storbritannien och hade brittiskt pass, tog mycket illa upp om man kallade honom britt) som belönades med Nobelpriset i litteratur 1925. Han föddes i Dublin som son till protestantiska föräldrar som levde under knappa omständigheter.</rdfs:comment>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://chuma.cas.usf.edu/~dietrich/shawsociety.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.silentera.com/PSFL/data/G/GeorgeBernardShaw1927.html"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Friedrich_Nietzsche"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Wesley_College,_Dublin"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1950-11-02</dbpprop:deathDate>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03cdg"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/George_Bernard_Shaw?oldid=494759667"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://tls.timesonline.co.uk/article/0,,25338-2277082,00.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishMusicCritics"/>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rveMhpZwpEbGdrcN5Y29ycA"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/George_Bernard_Shaw"/>
+    <dbpedia-owl:abstract xml:lang="hu">George Bernard Shaw (írói nevén G. B. Shaw) ír drámaíró. Munkásságát 1925-ben irodalmi Nobel-díjjal honorálták. William Shakespeare után az ő műveit játsszák leggyakrabban az angol nyelvű színházakban.</dbpedia-owl:abstract>
+    <dbpprop:birthPlace xml:lang="en">Dublin, Ireland</dbpprop:birthPlace>
+    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Satire"/>
+    <dbpedia-owl:abstract xml:lang="ca">George Bernard Shaw FRSL va ser un dramaturg, crític literari i activista polític (socialista i pacifista) irlandès. Provocador inconformista, Shaw va criticar a través de la seva obra de to humorístic l'encarcarament classista de la societat britànica, l'explotació dels treballadors, la desigualtat entre homes i dones, la hipocresia religiosa, i alhora va proposar solucions des del seu punt de vista filosòfic. Vegetarià convençut, va militar per instaurar una higiene de vida sana i contra la crueltat envers els animals. És l'única persona guardonada alhora amb el premi Nobel de Literatura i el premi Oscar. Pel que fa al premi Nobel, Shaw primer el va voler rebutjar però finalment el va acceptar a petició de la seva muller, que el considerava com un homenatge a Irlanda.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="de">George Bernard Shaw war ein irisch-britischer Dramatiker, Politiker, Satiriker, Musikkritiker und Pazifist, der 1925 den Nobelpreis für Literatur und 1939 den Oscar für das beste adaptierte Drehbuch erhielt.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://research.hrc.utexas.edu:8080/hrcxtf/view?docId=ead/00121.xml&amp;query=george%20bernard%20shaw&amp;query-join=and/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.silentera.com/PSFL/data/G/GreetingByGeorgeBernar1928.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Nobel_laureates_in_Literature"/>
+    <rdfs:comment xml:lang="pl">George Bernard Shaw – irlandzki dramaturg i prozaik, przedstawiciel dramatu realistycznego. Jako filozof twórca koncepcji tzw. siły życiowej (Life Force) i ewolucji twórczej (Creative Evolution). Indywidualność twórcza, outsider i obcokrajowiec, irlandzki obserwator, żyjący w niezgodzie ze społeczeństwem, które znaczyło dla niego mniej niż ludzie, których znał i lubił. Znany zwłaszcza dzięki sztuce Pigmalion oraz często przywoływanym aforyzmom.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpedia-owl:abstract xml:lang="ja">ジョージ・バーナード・ショー（George Bernard Shaw, 1856年7月26日 - 1950年11月2日）は、イギリスにおいて主に19世紀に活躍したアイルランド出身の劇作家、劇評家、音楽評論家、社会主義者。ロンドン・スクール・オブ・エコノミクス（LSE）創設者。イギリス近代演劇の確立者として有名である。ショーが劇作家としての才能を認められるようになったのは40代であるが、精力的に作品を書き続け、94歳で亡くなるまでに53本もの戯曲を残した。カナダのナイアガラ・オン・ザ・レイクでは、毎年数ヶ月にわたって、ショーとその同時代の劇作家の作品を上演するショー・フェスティバルが開催され、世界各国から人々が集まっている。 進取の精神で知られ、新しく世の中に出てくる考え方に対して、ほぼ生涯を通じて賛成している。反面、次々と新しい思想に飛びつき、思想信条に一貫性がないとの誹りもしばしば受けていた。ソビエト連邦や共産主義に関する好意的な姿勢はイギリスの社会主義運動に混乱をもたらし、第二次世界大戦後に軽佻浮薄との痛烈な批判を浴びることになった。 アレクサンダー・テクニーク創始者のフレデリック・マサイアス・アレクサンダーの有力な支持者であった。</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/George_Bernard_Shaw"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Τζορτζ_Μπέρναρντ_Σω"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishNobelLaureates"/>
+    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Black_comedy"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Fabian_Society"/>
+    <dbpprop:selibr rdf:datatype="http://www.w3.org/2001/XMLSchema#int">91379</dbpprop:selibr>
+    <dbpedia-owl:abstract xml:lang="fi">George Bernard Shaw oli irlantilaissyntyinen, englantilainen näytelmäkirjailija, jolle myönnettiin Nobelin kirjallisuuspalkinto vuonna 1925. Hänen tunnetuin näytelmänsä on Pygmalion (1912), jonka pohjalta on tehty vuonna 1938 ensi-iltansa saanut samanniminen elokuva ja yhdysvaltalaisena musikaalina My Fair Lady. Shaw sai Pygmalionin elokuvakäsikirjoituksesta parhaan sovitetun käsikirjoituksen Oscar-palkinnon, ja on ainoa henkilö, joka on palkittu sekä kirjallisuuden Nobelilla että Oscarilla. Shaw oli poliittisesti sosialisti ja oli yksi Fabian Societyn tunnetuimmista jäsenistä. Hän aloitti uransa lehtikirjoituksilla muun muassa musiikkiarvosteluilla. Näytelmissään Shaw käsitteli ajankohtaisia teemoja ironian ja paradoksien kesken. Monet hänen sukkeluutensa elävät irrallisina sitaatteina kuten "Ne, jotka osaavat, tekevät. Ne jotka eivät osaa, opettavat. " Ensimmäiseen maailmansotaan asti hän kirjoitti lähinnä komedioita. Sodan jälkeen häneltä ilmestyi vakavampaa draamaa.</dbpedia-owl:abstract>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Socialism"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://ibdb.com/person.php?id=5784"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:abstract xml:lang="zh">蕭伯纳（George Bernard Shaw，1856年7月26日－1950年11月2日），直譯為喬治·伯纳德·肖，爱尔兰剧作家，1925年「因為作品具有理想主義和人道主義」而獲諾貝爾文學獎，其喜劇作品《賣花女》（Pygmalion）因被 Alan Lerner 改編為音樂劇《窈窕淑女》（My Fair Lady），該音樂劇又被好萊塢改編為同名賣座電影而家喻戶曉。</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishDramatistsAndPlaywrights"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_music_critics"/>
+    <dbpprop:shortDescription xml:lang="en">Irish playwright, critic, and political activist</dbpprop:shortDescription>
+    <rdfs:comment xml:lang="ja">ジョージ・バーナード・ショー（George Bernard Shaw, 1856年7月26日 - 1950年11月2日）は、イギリスにおいて主に19世紀に活躍したアイルランド出身の劇作家、劇評家、音楽評論家、社会主義者。ロンドン・スクール・オブ・エコノミクス（LSE）創設者。イギリス近代演劇の確立者として有名である。ショーが劇作家としての才能を認められるようになったのは40代であるが、精力的に作品を書き続け、94歳で亡くなるまでに53本もの戯曲を残した。カナダのナイアガラ・オン・ザ・レイクでは、毎年数ヶ月にわたって、ショーとその同時代の劇作家の作品を上演するショー・フェスティバルが開催され、世界各国から人々が集まっている。 進取の精神で知られ、新しく世の中に出てくる考え方に対して、ほぼ生涯を通じて賛成している。反面、次々と新しい思想に飛びつき、思想信条に一貫性がないとの誹りもしばしば受けていた。ソビエト連邦や共産主義に関する好意的な姿勢はイギリスの社会主義運動に混乱をもたらし、第二次世界大戦後に軽佻浮薄との痛烈な批判を浴びることになった。 アレクサンダー・テクニーク創始者のフレデリック・マサイアス・アレクサンダーの有力な支持者であった。</rdfs:comment>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Arthur_Schopenhauer"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NobelLaureatesInLiterature"/>
+    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118642375</dbpprop:pnd>
+    <dbpedia-owl:abstract xml:lang="en">George Bernard Shaw (26 July 1856 – 2 November 1950) was an Irish playwright and a co-founder of the London School of Economics. Although his first profitable writing was music and literary criticism, in which capacity he wrote many highly articulate pieces of journalism, his main talent was for drama, and he wrote more than 60 plays. Nearly all his writings address prevailing social problems, but have a vein of comedy which makes their stark themes more palatable. Shaw examined education, marriage, religion, government, health care, and class privilege. He was most angered by what he perceived as the exploitation of the working class. An ardent socialist, Shaw wrote many brochures and speeches for the Fabian Society. He became an accomplished orator in the furtherance of its causes, which included gaining equal rights for men and women, alleviating abuses of the working class, rescinding private ownership of productive land, and promoting healthy lifestyles. For a short time he was active in local politics, serving on the London County Council. In 1898, Shaw married Charlotte Payne-Townshend, a fellow Fabian, whom he survived. They settled in Ayot St Lawrence in a house now called Shaw's Corner. Shaw died there, aged 94, from chronic problems exacerbated by injuries he incurred by falling from a ladder. He is the only person to have been awarded both a Nobel Prize in Literature (1925) and an Oscar (1938), for his contributions to literature and for his work on the film Pygmalion (adaptation of his play of the same name), respectively. Shaw wanted to refuse his Nobel Prize outright because he had no desire for public honours, but accepted it at his wife's behest: she considered it a tribute to Ireland. He did reject the monetary award, requesting it be used to finance translation of Swedish books into English.</dbpedia-owl:abstract>
+    <dbpprop:lccn xml:lang="en">n/79/6533</dbpprop:lccn>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/George_Bernard_Shaw"/>
+    <dbpedia-owl:abstract xml:lang="sv">George Bernard Shaw, född 26 juli 1856 i Dublin, död 2 november 1950 i Ayot Saint Lawrence, Hertfordshire, var en irländsk författare (som, trots att han större delen av sitt liv bodde i Storbritannien och hade brittiskt pass, tog mycket illa upp om man kallade honom britt) som belönades med Nobelpriset i litteratur 1925. Han föddes i Dublin som son till protestantiska föräldrar som levde under knappa omständigheter. Under 1870-talet flyttade han till London för att pröva sin lycka som författare. Han skrev fem romaner som alla refuserades, innan han började arbeta som musikkritiker på tidningen The Star, vilket han var duktig på. Ungefär vid denna tid blev han politiskt intresserad och tjänstgjorde från 1897 och flera år framåt som politisk rådgivare. Han var socialist. Som brinnande socialist, skrev Shaw många broschyrer och tal för Fabian Society. Han blev en skicklig talare för främjandet av dess frågor, såsom lika rättigheter för män och kvinnor, lindrandet av missförhållanden i arbetarklassen, återkallandet av privat ägande av produktiv mark och främjandet för en hälsosam livsstil. För en kort tid var han aktiv i lokalpolitiken och tjänstgjorde på London County Council. 1895 började han arbeta som dramakritiker på tidningen Saturday Review, hans första steg mot en karriär som dramatiker. 1898 gifte han sig med irländskan Charlotte Payne-Townshend, och hans första succé, Candida sattes upp samma år. Han följde upp med ett antal komiska dramer, bl.a. The Devil's Disciple, Arms and the Man (1898), Mrs Warren's Profession (1898), Captain Brassbound's Conversion, Caesar and Cleopatra (1901, Man and Superman, Major Barbara, Androcles and the Lion och Pygmalion . Efter första världskriget producerade han mer seriösa dramer, bl.a. Heartbreak House och Saint Joan . Shaw avled 1950, 94 år gammal, efter ett fall från en stege. Sedan 1962 hålls Shawfestivalen, en hyllning till Shaw, i den kanadensiska staden Niagara-on-the-lake. Två gånger har det gjorts musikteater på Shaws pjäser. När representanter för Oscar Straus skrev och ville göra operett på Arms and the Man svarade Shaw att om man inte nämnde hans namn i sammanhanget, och om man inte citerade en enda replik ur dialogen i hans pjäs, skulle han kanske vara vänlig nog att inte stämma dem; operetten komponerades och fick namnet "Der tapfere Soldat". Fyra år efter Shaws död blev det premiär på My Fair Lady, som bröt klart mot Shaws vilja på båda de ovanstående punkterna, och även på en tredje. I den tryckta utgåvan av Pygmalion bifogade Shaw ett långt efterord där han förklarade varför Eliza till slut bryter med Higgins och gifter sig med Freddy; det struntar musikalens librettister i och låter Higgins få henne. Dock ska sägas att ett liknande, ändrat slut finns även i filmversionen från 1938, till vilken Shaw själv står angiven som manusförfattare - om än slutet lades till mot hans vilja. Shaw fick för övrigt en Oscar för sitt manus till filmen, vilket gör honom till den enda person som fått både en Oscar och Nobelpriset i litteratur. Instiftade 1927 Anglo-Swedish Literary Foundation, en fond för utveckling av kulturella förbindelser mellan Storbritannien och Sverige, med nobelprispengarna som grund. Han var även en samvetsöm vegetarian, som t.o.m. sörjde över att behöva plåga grönsakerna och äta upp dem.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1856_births"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Friedrich_Nietzsche"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Mystics"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Henry_Hyndman"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_Nobel_laureates"/>
     <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Richard_Wagner"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/George_Bernard_Shaw"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Henry_George"/>
+    <dbpedia-owl:abstract xml:lang="pl">George Bernard Shaw – irlandzki dramaturg i prozaik, przedstawiciel dramatu realistycznego. Jako filozof twórca koncepcji tzw. siły życiowej (Life Force) i ewolucji twórczej (Creative Evolution). Indywidualność twórcza, outsider i obcokrajowiec, irlandzki obserwator, żyjący w niezgodzie ze społeczeństwem, które znaczyło dla niego mniej niż ludzie, których znał i lubił. Znany zwłaszcza dzięki sztuce Pigmalion oraz często przywoływanym aforyzmom. George Bernard Shaw jest laureatem Nagrody Nobla w dziedzinie literatury za rok 1925. Z uzasadnienia Komitetu Noblowskiego: za twórczość naznaczoną idealizmem i humanizmem, za przenikliwą satyrę, która często łączy się z wyjątkowym pięknem poetyckim. Jest także zdobywcą Oscara w roku 1938 za "najlepszy scenariusz adaptowany" do filmu Pygmalion, co czyni go jedyną osobą w historii uhonorowaną Oscarem i Nagrodą Nobla.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">George Bernard Shaw foi um dramaturgo, romancista, contista, ensaísta e jornalista irlandês. É autor de comédias satíricas que o tornaram espírito irreverente e inconformista. Filho de uma tradicional mas empobrecida família protestante, foi de início instruído por um tio, mas rejeitou a educação escolar e aos 16 anos empregou-se em um escritório. Adquiriu amplo conhecimento artístico graças à mãe, Lucinda Elizabeth Gurly Shaw, e às freqüentes visitas à National Gallery da Irlanda. Decidido a se tornar escritor, foi morar em Londres em 1876, porém por mais de dez anos seus romances foram recusados por todos os editores da cidade, assim como a maior parte dos artigos enviados à imprensa. Tornou-se vegetariano, socialista, orador brilhante, polemista e fez as primeiras tentativas como dramaturgo. Em 1885 conseguiu um trabalho fixo na imprensa e, durante quase uma década, escreveu resenhas literárias, críticas de arte e brilhantes colunas musicais. Sua atividade literária, em especial a produção teatral, foi uma seqüência de sucessos; destacou-se também na crítica literário, teatral e musical, na defesa do socialismo, criação de panfletos, ensaios sobre assuntos políticos, econômicos e sociais, sendo ainda um prolífico epistológrafo. Como crítico de teatro da Saturday Review, atacou insistentemente a pobreza qualitativa e artística da produção teatral vitoriana. Durante a Primeira Guerra Mundial, interrompeu sua produção teatral e publicou um polêmico panfleto, Common Sense About the War, no qual considerava o Reino Unido, os aliados e os alemães igualmente culpados e reivindicava negociações de paz. Recusou o Nobel de Literatura de 1925 e, em suas últimas peças, intensificou as pesquisas com a linguagem não-realista, simbolista e tragicômica. Por cinco anos deixou de escrever para o teatro e dedicou-se ao preparo e publicação da edição de suas obras escolhidas (1930-1938), e ao tratado político The Intelligent Woman's Guide to Socialism and Capitalism. A sua correspondência também foi publicada, destacando-se a troca de cartas com o escritor H. G. Wells.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Colin_Wilson"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleAssociatedWithTheBritishMuseum"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://lib-1.lse.ac.uk/archivesblog/?cat=132"/>
+    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="vi">George Bernard Shaw là nhà soạn kịch người Anh gốc Ireland đoạt giải Nobel Văn học năm 1925.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジョージ・バーナード・ショー"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Henry_Hyndman"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1856-07-26</dbpedia-owl:birthDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WesternMystics"/>
+    <rdfs:comment xml:lang="en">George Bernard Shaw (26 July 1856 – 2 November 1950) was an Irish playwright and a co-founder of the London School of Economics. Although his first profitable writing was music and literary criticism, in which capacity he wrote many highly articulate pieces of journalism, his main talent was for drama, and he wrote more than 60 plays. Nearly all his writings address prevailing social problems, but have a vein of comedy which makes their stark themes more palatable.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shawsociety.org.uk/"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpedia-owl:abstract xml:lang="uk">Джордж Бернард Шоу (англ. George Bernard Shaw) — англійський драматург і публіцист ірландського походження, родом з Дубліна, лауреат Нобелівської премії з літератури за 1925, помер в Ейот-Сент-Лоренс, Англія. На українській сцені вперше ставив п'єси Шоу Лесь Курбас у «Молодому театрі» («Кандіда», 1918) й Театрі ім. Т. Шевченка («Учень диявола», 1922); пізніше в Театрі ім. І. Франка були виставлені «Свята Йоанна» (1924) й «Учень диявола» (1948). Саме Б. Шоу разом із Г. Ібсеном і А. Чеховим був «батьком» гостро соціальної, інтелектуальної драми, «драми ідей». Продовжуючи на новій основі традиції ібсенівського театру, Б. Шоу створив неповторно своєрідну драматургічну систему.</dbpedia-owl:abstract>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Henry_George"/>
+    <rdfs:label xml:lang="zh">萧伯纳</rdfs:label>
+    <dbpprop:influenced xml:lang="en">Socialism and Fabianism in the United Kingdom, Colin Wilson, Kurt Vonnegut, Ray Bradbury</dbpprop:influenced>
+    <dbpedia-owl:abstract xml:lang="nl">George Bernard Shaw was een Iers toneelschrijver, socialist en theatercriticus. Hij was een vrijdenker, ondersteunde de strijd voor gelijke rechten voor vrouwen en was voorstander van gelijke beloning voor mannen en vrouwen. Tevens was hij overtuigd vegetariër en tegenstander van dierproeven. Hij won de Nobelprijs voor de Literatuur in 1925 – hij accepteerde de eer maar weigerde het geld.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="fi">George Bernard Shaw oli irlantilaissyntyinen, englantilainen näytelmäkirjailija, jolle myönnettiin Nobelin kirjallisuuspalkinto vuonna 1925. Hänen tunnetuin näytelmänsä on Pygmalion (1912), jonka pohjalta on tehty vuonna 1938 ensi-iltansa saanut samanniminen elokuva ja yhdysvaltalaisena musikaalina My Fair Lady. Shaw sai Pygmalionin elokuvakäsikirjoituksesta parhaan sovitetun käsikirjoituksen Oscar-palkinnon, ja on ainoa henkilö, joka on palkittu sekä kirjallisuuden Nobelilla että Oscarilla.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/commentisfree/2006/jul/26/gbsat150"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishSocialists"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/OperaCritics"/>
+    <dbpedia-owl:nationality rdf:resource="http://dbpedia.org/resource/Irish_people"/>
+    <dbpprop:placeOfBirth xml:lang="en">Dublin, Ireland</dbpprop:placeOfBirth>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
+    <rdfs:comment xml:lang="cs">George Bernard Shaw [Šó Šó] byl anglický dramatik, prozaik a esejista irského původu, nositel Nobelovy ceny za literaturu za rok 1925.</rdfs:comment>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_artists"/>
+    <foaf:givenName xml:lang="en">George Bernard</foaf:givenName>
+    <dbpprop:name xml:lang="en">George Bernard Shaw</dbpprop:name>
+    <dbpedia-owl:abstract xml:lang="fr">George Bernard Shaw est un critique musical et dramaturge irlandais, essayiste, scénariste, et auteur célèbre de pièces de théâtre. Irlandais acerbe et provocateur, pacifiste et anticonformiste, il obtint le prix Nobel de littérature en 1925.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="no">George Bernard Shaw var en anglo-irsk dramatiker. Han ble tildelt nobelprisen i litteratur i 1925. Ettertiden husker ham nok best som forfatter av skuespillet Pygmalion, senere omskapt til musikalen My Fair Lady; og for skarpe vittigheter som «England og USA er to stater som er splittet av det samme språk». Han ble født i en fattig protestantisk familie i Dublin. På 1870-tallet flyttet han til London for å prøve seg som forfatter. Han skrev fem refuserte romaner før han fant arbeid som musikkritiker i avisen The Star. På samme tid begynte han å engasjere seg politisk. Han deltok i Bloody sunday-demonstrasjonen i 1887, og ble medlem av Fabian Society, et intellektuell sosialistisk miljø. Her møtte han også sin kone Charlotte Payne-Townshend, som han giftet seg med i 1898. Som musikkritiker var han en ivrig forkjemper for Wagners musikk. Da han i perioden 1895 til 1898 arbeidet som teaterkritiker i Saturday Review fremsto han som en stor forkjemper for Henrik Ibsens dramatikk. Han hadde allerede i 1891 skrevet boken The Quintessence of Ibsenism, og verket kom i revidert og utvidet utgave i 1923. Hans første teatersuksess, Candida, hadde premiere i 1898, og ble fulgt opp av en rekke komedier: The Devil's Disciple, Arms and the Man (1898), Mrs Warren's Profession (1898), Captain Brassbound's Conversion, Caesar and Cleopatra (1901, Man and Superman, Major Barbara, Androcles and the Lion og Pygmalion . Etter første verdenskrig skrev han mer seriøse stykker, som Heartbreak House og Saint Joan . Shaw bodde i huset Shaw's corner i landsbyen Ayot St Lawrence, Hertfordshire, fra 1906 til sin død. Han døde 94 år gammel, etter et fall fra en stige. Ved sin død var han blitt folkeeie. Hans hjem eies nå av National trust, og holder åpent for publikum. I sitt testamente avsatte Shaw £500 til en konkurranse om utarbeidelsen av eget alfabet, tilpasset lydene i det engelske språket. Resultatet, som ble utarbeidet av Ronald Kingsley Read, er kjent som Shavian.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="ca">George Bernard Shaw FRSL va ser un dramaturg, crític literari i activista polític (socialista i pacifista) irlandès. Provocador inconformista, Shaw va criticar a través de la seva obra de to humorístic l'encarcarament classista de la societat britànica, l'explotació dels treballadors, la desigualtat entre homes i dones, la hipocresia religiosa, i alhora va proposar solucions des del seu punt de vista filosòfic.</rdfs:comment>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Richard_Wagner"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_London_School_of_Economics"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Socialists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_the_United_Kingdom"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishVegetarians"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Karl_Marx"/>
+    <rdfs:comment xml:lang="no">George Bernard Shaw var en anglo-irsk dramatiker. Han ble tildelt nobelprisen i litteratur i 1925. Ettertiden husker ham nok best som forfatter av skuespillet Pygmalion, senere omskapt til musikalen My Fair Lady; og for skarpe vittigheter som «England og USA er to stater som er splittet av det samme språk». Han ble født i en fattig protestantisk familie i Dublin. På 1870-tallet flyttet han til London for å prøve seg som forfatter.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">蕭伯纳（George Bernard Shaw，1856年7月26日－1950年11月2日），直譯為喬治·伯纳德·肖，爱尔兰剧作家，1925年「因為作品具有理想主義和人道主義」而獲諾貝爾文學獎，其喜劇作品《賣花女》（Pygmalion）因被 Alan Lerner 改編為音樂劇《窈窕淑女》（My Fair Lady），該音樂劇又被好萊塢改編為同名賣座電影而家喻戶曉。</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_linguists"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26</dbpprop:dateOfBirth>
+    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">89019752</dbpprop:viaf>
+    <rdfs:comment xml:lang="uk">Джордж Бернард Шоу (англ. George Bernard Shaw) — англійський драматург і публіцист ірландського походження, родом з Дубліна, лауреат Нобелівської премії з літератури за 1925, помер в Ейот-Сент-Лоренс, Англія. На українській сцені вперше ставив п'єси Шоу Лесь Курбас у «Молодому театрі» («Кандіда», 1918) й Театрі ім. Т. Шевченка («Учень диявола», 1922); пізніше в Театрі ім. І. Франка були виставлені «Свята Йоанна» (1924) й «Учень диявола» (1948). Саме Б. Шоу разом із Г. Ібсеном і А.</rdfs:comment>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Kurt_Vonnegut"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.lse.ac.uk/library/shawphotos"/>
+    <dbpedia-owl:abstract xml:lang="es">George Bernard Shaw fue un escritor irlandés, ganador del Premio Nobel de literatura en 1925 y del Óscar en 1938.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Opera_critics"/>
+    <dbpedia-owl:abstract xml:lang="ko">조지 버나드 쇼는 아일랜드 태생의 영국 극작가 겸 소설가이자 비평가이다. 아일랜드 더블린에서 출생하였고 1925년에 노벨 문학상을 수상하였다.</dbpedia-owl:abstract>
+    <dbpprop:name xml:lang="en">Shaw, George Bernard</dbpprop:name>
     <rdfs:label xml:lang="en">George Bernard Shaw</rdfs:label>
     <foaf:name xml:lang="en">George Bernard Shaw</foaf:name>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Wesley_College,_Dublin"/>
-    <rdfs:comment xml:lang="pt">George Bernard Shaw foi um dramaturgo, romancista, contista, ensaísta e jornalista irlandês. É autor de comédias satíricas que o tornaram espírito irreverente e inconformista. Filho de uma tradicional mas empobrecida família protestante, foi de início instruído por um tio, mas rejeitou a educação escolar e aos 16 anos empregou-se em um escritório. Adquiriu amplo conhecimento artístico graças à mãe, Lucinda Elizabeth Gurly Shaw, e às freqüentes visitas à National Gallery da Irlanda.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shawsociety.org/"/>
+    <foaf:surname xml:lang="en">Shaw</foaf:surname>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Ayot_St_Lawrence"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Best_Adapted_Screenplay_Academy_Award_winners"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/George_Bernard_Shaw"/>
     <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1856-07-26</dbpprop:birthDate>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Barnard_Shaw">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Nobel_laureates_by_university_affiliation">
-    <dbpprop:t rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Plays_Pleasant">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Shaw">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/G_B_Shaw">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/G.B.Shaw">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caesar_and_Cleopatra_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pygmalion_(1983_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Heartbreak_House">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Geneva,_a_Fancied_Page_of_History_in_Three_Acts">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Agustus_Montrose">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/G.B._Shaw">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Millionairess">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kabir_Chowdhury">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/George_Bernard_Shaw">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/GB_Shaw">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pygmalion_(play)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/My_Fair_Lady_(film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_David_Thoreau">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/G._K._Chesterton">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Millionairess_(play)">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/In_Good_King_Charles's_Golden_Days">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Joan_(play)">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurt_Vonnegut">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ronald_Gow">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arms_and_the_Man_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.nytimes.com/N48804705799338934233">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shane_Leslie">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Devil's_Disciple_(1959_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_Walker">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pervez_Hoodbhoy">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Devil's_Disciple_(1987_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/G._Bernard_Shaw">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Stanley">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/G._B._Shaw">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Bernard_Shaw"/>
+    <dbpedia-owl:abstract xml:lang="vi">George Bernard Shaw là nhà soạn kịch người Anh gốc Ireland đoạt giải Nobel Văn học năm 1925.</dbpedia-owl:abstract>
+    <dc:description xml:lang="en">Irish playwright, critic, and political activist</dc:description>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Karl_Marx"/>
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Shaw_George_Bernard_1856-1950"/>
+    <dbpprop:movement xml:lang="en">Ibsenism, naturalism</dbpprop:movement>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyDuBlin"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.hrc.utexas.edu/"/>
+    <rdfs:comment xml:lang="hu">George Bernard Shaw (írói nevén G. B. Shaw) ír drámaíró. Munkásságát 1925-ben irodalmi Nobel-díjjal honorálták. William Shakespeare után az ő műveit játsszák leggyakrabban az angol nyelvű színházakban.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Critic109979321"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <rdfs:label xml:lang="vi">George Bernard Shaw</rdfs:label>
+    <rdfs:comment xml:lang="de">George Bernard Shaw war ein irisch-britischer Dramatiker, Politiker, Satiriker, Musikkritiker und Pazifist, der 1925 den Nobelpreis für Literatur und 1939 den Oscar für das beste adaptierte Drehbuch erhielt.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shawchicago.org/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shawfest.com/"/>
+    <rdfs:label xml:lang="uk">Бернард Шоу</rdfs:label>
+    <rdfs:comment xml:lang="es">George Bernard Shaw fue un escritor irlandés, ganador del Premio Nobel de literatura en 1925 y del Óscar en 1938.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/George_Bernard_Shaw"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Morris"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/George_bernard_shaw.jpg/200px-George_bernard_shaw.jpg"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/George_Bernard_Shaw"/>
+    <dbpprop:nationality xml:lang="en">Irish</dbpprop:nationality>
+    <dbpprop:occupation xml:lang="en">Playwright, critic, political activist</dbpprop:occupation>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishLinguists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_socialists"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Ayot_St_Lawrence"/>
+    <dbpedia-owl:abstract xml:lang="ru">Джо́рдж Бе́рнард Шо́у — британский писатель, романист, драматург, лауреат Нобелевской премии в области литературы. Общественный деятель (социалист-«фабианист», сторонник реформы английской письменности). Второй по популярности драматург в английском театре. Единственный человек, удостоенный одновременно и Нобелевской премии по литературе (1925, «За творчество, отмеченное идеализмом и гуманизмом, за искрометную сатиру, которая часто сочетается с исключительной поэтической красотой») и премии «Оскар». Шоу отказался от денежной части Нобелевской премии по литературе (однако принял медаль лауреата; от премии впоследствии также отказывались Борис Пастернак и Жан-Поль Сартр).</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_vegetarians"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Fabian_Society"/>
+    <rdfs:comment xml:lang="ko">조지 버나드 쇼는 아일랜드 태생의 영국 극작가 겸 소설가이자 비평가이다. 아일랜드 더블린에서 출생하였고 1925년에 노벨 문학상을 수상하였다.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/조지_버나드_쇼"/>
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Henrik_Ibsen"/>
+    <rdfs:label xml:lang="ca">George Bernard Shaw</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

@@ -4,16 +4,16 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/carson746/series2/subseries2.2/">
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/carson746/index1/"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/85621766"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:name xml:lang="en">Ciaran Carson papers, circa 1970-2010; Subseries 2.2: Poetry, 1971-2009</schema:name>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/carson746/series2/subseries2.2/subseries2.2a/"/>
+    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/carson746/series2/subseries2.2/subseries2.2b/"/>
+    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/85621766">
     <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/carson746/series2/subseries2.2/">
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/carson746/series2/subseries2.2/subseries2.2b/"/>
-    <schema:about rdf:resource="http://viaf.org/viaf/85621766"/>
-    <schema:name xml:lang="en">Ciaran Carson papers, circa 1970-2010; Subseries 2.2: Poetry, 1971-2009</schema:name>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/carson746/index1/"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
-    <dc:hasPart rdf:resource="http://testfindingaids.library.emory.edu/documents/carson746/series2/subseries2.2/subseries2.2a/"/>
   </rdf:Description>
 </rdf:RDF>

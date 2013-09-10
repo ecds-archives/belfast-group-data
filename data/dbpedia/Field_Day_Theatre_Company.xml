@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Field_Day_Theatre_Company">
+    <ns6:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Field_Day_Theatre_Company?oldid=468927935"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Derry"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.066wjv"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TheatreCompaniesInNorthernIreland"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Field_Day_Theatre_Company"/>
+    <dbpedia-owl:abstract xml:lang="en">The Field Day Theatre Company began as an artistic collaboration between playwright Brian Friel and actor Stephen Rea. In 1980, the duo set out to launch a production of Friel's recently completed play, Translations. They decided to rehearse and premiere the play in Derry with the hope of establishing a major theatre company for Northern Ireland. The production and performance of Translations generated a level of excitement and anticipation that unified, if only for a short time, the various factions of a divided community. Although Field Day has never put forth a formal mission statement, their intention was to create a space, a 'fifth province,' that transcended the crippling oppositions of Irish politics. The term 'fifth province' — Ireland consists of four provinces — was coined by the editors of an Irish Journal, The Crane Bag, to name an imaginary cultural space from which a new discourse of unity might emerge. In addition to being an enormous popular and critical success, Field Day's first production created just such a space. After the production of Translations, Seamus Heaney, Ireland's most prominent poet, recognized the importance of what they had accomplished and urged Brian Friel to continue with the project: "this was what theatre was supposed to do" (cited in Richtarik, 65). That the company was established in Derry, Northern Ireland's "second city," is significant. Although Friel knew the city well (he had lived there until 1967), Derry, being close to the border, is a hot-spot in the north-south tensions known as "The Troubles". Furthermore, its western location and its relationship to Belfast, Northern Ireland's east coast capital, underline a second historically older division in Ireland — the division between the cosmopolitan east and the rural, romantic west.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Theatre_companies_in_Northern_Ireland"/>
+    <rdfs:comment xml:lang="en">The Field Day Theatre Company began as an artistic collaboration between playwright Brian Friel and actor Stephen Rea. In 1980, the duo set out to launch a production of Friel's recently completed play, Translations. They decided to rehearse and premiere the play in Derry with the hope of establishing a major theatre company for Northern Ireland.</rdfs:comment>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Field_Day_Theatre_Company"/>
+    <rdfs:label xml:lang="en">Field Day Theatre Company</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

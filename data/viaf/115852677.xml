@@ -8,35 +8,41 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C335832342#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/115852677"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <skos:prefLabel>O'Toole, Fintan, 1958-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CFintan_O'Toole#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/115852677"/>
-    <skos:prefLabel>Otoole, Fintan</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C159557925#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <skos:prefLabel>O'Toole, Fintan, 1958-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/115852677"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/115852677">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Fintan_O'Toole"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb131881071#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/035419318/id"/>
+    <foaf:name>Otoole, Fintan</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/18841679X"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>O'Toole, Fintan, 1958-....</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdaGr2:dateOfBirth>1958</rdaGr2:dateOfBirth>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C13188107#skos:Concept">
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb131881071"/>
     <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb131881071"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/115852677"/>
     <skos:prefLabel>O'Toole, Fintan, 1958-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/115852677"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb131881071"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C18841679X#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2010131896#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>O'Toole, Fintan, 1958-....</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/115852677"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++87138492#skos:Concept">
+    <skos:prefLabel>O'Toole, Fintan, 1958-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/115852677"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n87138492"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C132584085#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/115852677"/>
+    <skos:prefLabel>O'Toole, Fintan, 1958-....</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
   </rdf:Description>
@@ -44,49 +50,37 @@
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/115852677"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C132584085#skos:Concept">
-    <skos:prefLabel>O'Toole, Fintan, 1958-....</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/115852677/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/115852677"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C18841679X#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/115852677"/>
+    <skos:prefLabel>O'Toole, Fintan, 1958-....</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++87138492#skos:Concept">
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n87138492"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C159557925#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/115852677"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <skos:prefLabel>O'Toole, Fintan, 1958-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn+2010131896#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>O'Toole, Fintan, 1958-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/115852677"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/115852677/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/115852677"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/115852677">
-    <foaf:name>O'Toole, Fintan, 1958-....</foaf:name>
-    <rdaGr2:dateOfBirth>1958</rdaGr2:dateOfBirth>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Fintan_O'Toole"/>
-    <foaf:name>Otoole, Fintan</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/18841679X"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb131881071#foaf:Person"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/035419318/id"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/115852677/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/115852677"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C035419318#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
     <skos:prefLabel>O'Toole, Fintan, 1958-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/115852677"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CFintan_O'Toole#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/115852677"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Otoole, Fintan</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
   </rdf:Description>
 </rdf:RDF>

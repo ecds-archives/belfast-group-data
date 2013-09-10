@@ -8,63 +8,63 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
 >
-  <rdf:Description rdf:about="http://sws.geonames.org/2080855/about.rdf">
-    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2080855/"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-02-26</dcterms:modified>
-    <cc:attributionURL rdf:resource="http://sws.geonames.org/2080855/"/>
-    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
-    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
-    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
-  </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2080855/">
-    <gn:locationMap rdf:resource="http://www.geonames.org/2080855/bikini-atoll.html"/>
-    <gn:wikipediaArticle rdf:resource="http://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BA%D0%B8%D0%BD%D0%B8_%28%D0%B0%D1%82%D0%BE%D0%BB%D0%BB%29"/>
-    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2080855/about.rdf"/>
-    <gn:alternateName>Eschocholtz Atoll</gn:alternateName>
-    <gn:alternateName>Udia-Milai</gn:alternateName>
     <gn:featureCode rdf:resource="http://www.geonames.org/ontology#T.ATOL"/>
-    <gn:alternateName xml:lang="sv">Bikiniatollen</gn:alternateName>
-    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Bikini_Atoll"/>
-    <gn:alternateName xml:lang="ru">Атолл Бикини</gn:alternateName>
-    <gn:alternateName>Bikini Island</gn:alternateName>
-    <gn:alternateName>Escholtz</gn:alternateName>
-    <gn:alternateName>Eschscholtz Islands</gn:alternateName>
-    <gn:parentCountry rdf:resource="http://sws.geonames.org/2080185/"/>
-    <gn:alternateName xml:lang="et">Bikini</gn:alternateName>
-    <gn:population>13</gn:population>
-    <gn:alternateName>Eschholtz Atoll</gn:alternateName>
-    <gn:alternateName xml:lang="nl">Bikini</gn:alternateName>
-    <gn:alternateName xml:lang="ja">ビキニ環礁</gn:alternateName>
-    <gn:alternateName>Escacholtz Island</gn:alternateName>
-    <gn:alternateName xml:lang="pt">Atol de Bikini</gn:alternateName>
-    <gn:alternateName xml:lang="it">Atollo di Bikini</gn:alternateName>
-    <wgs84_pos:lat>11.58333</wgs84_pos:lat>
-    <gn:alternateName xml:lang="ko">비키니 환초</gn:alternateName>
     <gn:alternateName xml:lang="hu">Bikini Atoll</gn:alternateName>
-    <gn:alternateName xml:lang="de">Bikini-Atoll</gn:alternateName>
-    <gn:alternateName>Bigini</gn:alternateName>
-    <gn:alternateName xml:lang="pl">Atol Bikini</gn:alternateName>
+    <wgs84_pos:lat>11.58333</wgs84_pos:lat>
+    <gn:alternateName xml:lang="it">Atollo di Bikini</gn:alternateName>
+    <gn:alternateName>Eschocholtz Atoll</gn:alternateName>
+    <gn:alternateName xml:lang="es">Atolón Bikini</gn:alternateName>
+    <gn:alternateName xml:lang="en">Bikini Atoll</gn:alternateName>
+    <gn:countryCode>MH</gn:countryCode>
+    <gn:alternateName xml:lang="nl">Bikini</gn:alternateName>
+    <gn:alternateName xml:lang="sv">Bikiniatollen</gn:alternateName>
+    <gn:alternateName>Bikini Island</gn:alternateName>
+    <gn:alternateName xml:lang="zh">比基尼岛</gn:alternateName>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2080855/nearby.rdf"/>
+    <gn:alternateName xml:lang="fr">Bikini</gn:alternateName>
+    <gn:alternateName>Escacholtz Island</gn:alternateName>
+    <gn:alternateName xml:lang="et">Bikini</gn:alternateName>
+    <gn:wikipediaArticle rdf:resource="http://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BA%D0%B8%D0%BD%D0%B8_%28%D0%B0%D1%82%D0%BE%D0%BB%D0%BB%29"/>
+    <gn:alternateName xml:lang="ja">ビキニ環礁</gn:alternateName>
     <gn:name>Bikini Atoll</gn:name>
-    <gn:alternateName xml:lang="da">Bikini-atollen</gn:alternateName>
+    <gn:alternateName>Bigini</gn:alternateName>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2080855/about.rdf"/>
+    <gn:alternateName>Eschscholtz</gn:alternateName>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2080855/bikini-atoll.html"/>
+    <gn:alternateName>Udia-Milai</gn:alternateName>
+    <gn:alternateName xml:lang="ru">Бикини</gn:alternateName>
+    <gn:alternateName>Eschscholtz Islands</gn:alternateName>
+    <gn:alternateName>Pikinni-tō</gn:alternateName>
+    <gn:alternateName xml:lang="no">Bikiniatollen</gn:alternateName>
+    <gn:alternateName>Eschholtz Atoll</gn:alternateName>
+    <gn:alternateName xml:lang="ru">Атолл Бикини</gn:alternateName>
+    <gn:alternateName>Escholtz</gn:alternateName>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7303497/"/>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/7303497/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Bikini_Atoll"/>
     <gn:featureClass rdf:resource="http://www.geonames.org/ontology#T"/>
+    <gn:alternateName xml:lang="pt">Atol de Bikini</gn:alternateName>
     <gn:alternateName xml:lang="lb">Bikini-Atoll</gn:alternateName>
+    <gn:population>13</gn:population>
+    <gn:alternateName xml:lang="pl">Atol Bikini</gn:alternateName>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2080185/"/>
     <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
     <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Bikini_Atoll"/>
-    <gn:alternateName>Eschscholtz</gn:alternateName>
-    <gn:alternateName xml:lang="es">Atolón Bikini</gn:alternateName>
-    <gn:alternateName xml:lang="no">Bikiniatollen</gn:alternateName>
     <wgs84_pos:long>165.38333</wgs84_pos:long>
-    <gn:parentADM1 rdf:resource="http://sws.geonames.org/7303497/"/>
-    <gn:alternateName xml:lang="ru">Бикини</gn:alternateName>
-    <gn:countryCode>MH</gn:countryCode>
-    <gn:alternateName xml:lang="fr">Bikini</gn:alternateName>
+    <gn:alternateName xml:lang="da">Bikini-atollen</gn:alternateName>
     <gn:alternateName>Bikini Atoll</gn:alternateName>
-    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2080855/nearby.rdf"/>
+    <gn:alternateName xml:lang="ko">비키니 환초</gn:alternateName>
+    <gn:alternateName xml:lang="de">Bikini-Atoll</gn:alternateName>
     <gn:alternateName xml:lang="mk">Бикини</gn:alternateName>
-    <gn:alternateName xml:lang="zh">比基尼岛</gn:alternateName>
-    <gn:alternateName>Pikinni-tō</gn:alternateName>
-    <gn:alternateName xml:lang="en">Bikini Atoll</gn:alternateName>
-    <gn:parentFeature rdf:resource="http://sws.geonames.org/7303497/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2080855/about.rdf">
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-02-26</dcterms:modified>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2080855/"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2080855/"/>
   </rdf:Description>
 </rdf:RDF>

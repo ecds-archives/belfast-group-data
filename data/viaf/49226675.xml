@@ -9,13 +9,101 @@
    xmlns:void="http://rdfs.org/ns/void#"
 >
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11906733#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb119067336"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
     <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb119067336"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
     <skos:altLabel>Hall, Donald Andrew, 1928-</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb119067336"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CDonald_Hall#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hall, Donald</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000016412#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C75479#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
+    <skos:altLabel>Hall, Donald Andrew</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79043673#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Hall, Donald Andrew, 1928-</skos:altLabel>
+    <skos:altLabel>Hall, Donald S., 1928-</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79043673"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0060F6795#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
+    <skos:prefLabel>Hall, Donald</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/49226675/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00442209#skos:Concept">
+    <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
+    <skos:altLabel>ホール, ドナルド</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068372825#skos:Concept">
+    <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C285347#skos:Concept">
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/285347#concept"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000235330#skos:Concept">
+    <skos:altLabel>Hall, Donald Andrew, 1928-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
+    <skos:altLabel>Hall, Donald S., 1928-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118901257#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/49226675">
+    <foaf:name>Hall, Donald, 1928-....</foaf:name>
+    <foaf:name>Hall, Donald</foaf:name>
+    <foaf:name>Hall, Donald S., 1928-</foaf:name>
+    <foaf:name>Hall, Donald Andrew</foaf:name>
+    <foaf:name>ホール, ドナルド</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb119067336#foaf:Person"/>
+    <rdaGr2:dateOfBirth>1928-09-20</rdaGr2:dateOfBirth>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/026912716/id"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Donald_Hall"/>
+    <foaf:name>Hall, Donald Andrew, 1928-</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/285347"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118901257"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035163127#skos:Concept">
     <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
@@ -23,54 +111,16 @@
     <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026912716#skos:Concept">
-    <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
-    <skos:altLabel>Hall, Donald Andrew</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068372825#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97037344#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/49226675/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/49226675"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79043673#skos:Concept">
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79043673"/>
-    <skos:altLabel>Hall, Donald S., 1928-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:altLabel>Hall, Donald Andrew, 1928-</skos:altLabel>
-    <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CDonald_Hall#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <skos:prefLabel>Hall, Donald</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00442209#skos:Concept">
-    <skos:altLabel>ホール, ドナルド</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/49226675/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118901257#skos:Concept">
-    <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/49226675/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/49226675"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca21020498#skos:Concept">
     <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
@@ -78,66 +128,22 @@
     <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/49226675/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/49226675"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cmzk2003169583#skos:Concept">
-    <skos:altLabel>Hall, Donald Andrew, 1928-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000235330#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
     <skos:altLabel>Hall, Donald Andrew, 1928-</skos:altLabel>
-    <skos:altLabel>Hall, Donald S., 1928-</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C285347#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/285347#concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026912716#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0060F6795#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hall, Donald</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97037344#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/49226675">
-    <foaf:name>Hall, Donald</foaf:name>
-    <foaf:name>ホール, ドナルド</foaf:name>
-    <foaf:name>Hall, Donald Andrew</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Donald_Hall"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118901257"/>
-    <foaf:name>Hall, Donald S., 1928-</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb119067336#foaf:Person"/>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/026912716/id"/>
-    <foaf:name>Hall, Donald Andrew, 1928-</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/285347"/>
-    <foaf:name>Hall, Donald, 1928-....</foaf:name>
-    <rdaGr2:dateOfBirth>1928-09-20</rdaGr2:dateOfBirth>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C75479#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
     <skos:altLabel>Hall, Donald Andrew</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Hall, Donald, 1928-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/49226675"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/49226675/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/49226675"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
 </rdf:RDF>

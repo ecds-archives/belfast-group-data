@@ -9,1367 +9,164 @@
    xmlns:owl="http://www.w3.org/2002/07/owl#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Rest_Is_Silence_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Your_Own_Thing">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Testori">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tybalt">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alojz_Gradnik">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Marlowe">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Lear_(1971_UK_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Juliet">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Rivera_(playwright)">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandru_Macedonski">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Littlehampton_Academy">
-    <dbpprop:houses rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Atwood">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand_(The_Tempest)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_Fondane">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_(character)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Shakespear">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/W_Shakespeare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Duncan">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Othello_(character)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bingo_(play)">
-    <dbpprop:characters rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Marx">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.nytimes.com/N44174657276601556123">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheikh_Zubeir">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jason_Smilovic">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%81lvares_de_Azevedo">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edgar_Brau">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespeare's_biography">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/English_Channel">
-    <dbpprop:source rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ophelia">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Berek">
-    <skos:subject rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespearian_Literature">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Said">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Catch_My_Soul_(UK_stage_version)">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:book rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/J.D._Masterson">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_recurring_actors_and_actresses_in_the_James_Bond_film_series__John_Cleese__1">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespeares">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Caesar_(1953_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/W._H._Pugmire">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Desdemona">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_VIII_(play)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jorge_Luis_Borges">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pier_Paolo_Pasolini">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Othello_(1952_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shake-speare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_G._Ingersoll">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Macduff">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Karel_Hynek_M%C3%A1cha">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Irvin_Leigh_Matus">
-    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:field rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Updike">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Orsino_(Twelfth_Night)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Carter_(playwright)">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_(1948_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Boys_from_Syracuse">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Titchfield_Abbey">
-    <dbpprop:people rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/William_Shakespeare">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Shakespeare">
+    <dbpprop:align xml:lang="en">right</dbpprop:align>
+    <rdfs:comment xml:lang="it">Spesso considerato il poeta più rappresentativo del popolo inglese e soprannominato il "Bardo dell'Avon" (o semplicemente "Il Bardo") oppure il "Cigno dell'Avon", delle sue opere ci sono pervenuti, incluse alcune collaborazioni, 37 testi teatrali, 154 sonetti e una serie di altri poemi.</rdfs:comment>
     <rdfs:label xml:lang="uk">Вільям Шекспір</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1616_deaths"/>
-    <dbpedia-owl:abstract xml:lang="ca">William Shakespeare fou un dramaturg, poeta i actor anglès, considerat un dels més grans de la literatura universal. La "New Encyclopaedia Britannica" assenyala que "molts el consideren el dramaturg més gran de tots els temps. Les seves obres [... ... ] es representen més vegades i en major nombre de nacions que les de qualsevol altre escriptor". Les obres de Shakespeare han estat traduïdes a les principals llengües i les seves obres dramàtiques continuen representant-se per tot el món. A més, moltes cites i neologismes de les seves obres han passat a formar part de l'ús quotidià, tant en l'anglès com en altres llengües. Amb el pas del temps, s'ha especulat molt sobre la seva vida, qüestionant la seva sexualitat, la seva afiliació religiosa, i àdhuc, l'autoria de les seves obres.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="uk">Ві́льям Шекспі́р — англійський драматург Єлизаветинської епохи. Один з найвідоміших драматургів світу, автор принаймні 17 комедій, 10 хронік, 11 трагедій, 5 поем і циклу з 154 сонетів.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Tudor_period"/>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:abstract xml:lang="pt">William Shakespeare foi um poeta e dramaturgo inglês, tido como o maior escritor do idioma inglês e o mais influente dramaturgo do mundo. É chamado frequentemente de poeta nacional da Inglaterra e de "Bardo do Avon" (ou simplesmente The Bard, "O Bardo"). De suas obras restaram até os dias de hoje 38 peças, 154 sonetos, dois longos poemas narrativos, e diversos outros poemas. Suas peças foram traduzidas para os principais idiomas do globo, e são encenadas mais do que as de qualquer outro dramaturgo. Muitos de seus textos e temas, especialmente os do teatro, permaneceram vivos até aos nossos dias, sendo revisitados com frequência pelo teatro, televisão, cinema e literatura. Entre suas obras mais conhecidas estão Romeu e Julieta, que se tornou a história de amor por excelência, e Hamlet, que possui uma das frases mais conhecidas da língua inglesa: To be or not to be: that's the question. Shakespeare nasceu e foi criado em Stratford-upon-Avon. Aos 18 anos, segundo alguns estudiosos, casou-se com Anne Hathaway, que lhe concedeu três filhos: Susanna, e os gêmeos Hamnet e Judith. Entre 1585 e 1592 William começou uma carreira bem-sucedida em Londres como ator, escritor e um dos proprietários da companhia de teatro chamada Lord Chamberlain's Men, mais tarde conhecida como King's Men. Acredita-se que ele tenha retornado a Stratford em torno de 1613, morrendo três anos depois. Restaram poucos registros da vida privada de Shakespeare, e existem muitas especulações sobre assuntos como a sua aparência física, sexualidade, crenças religiosas, e se algumas das obras que lhe são atribuídas teriam sido escritas por outros autores. Shakespeare produziu a maior parte de sua obra entre 1590 e 1613. Suas primeiras peças eram principalmente comédias e obras baseadas em eventos e personagens históricos, gêneros que ele levou ao ápice da sofisticação e do talento artístico ao fim do século XVI. A partir de então escreveu apenas tragédias até por volta de 1608, incluindo Hamlet, Rei Lear e Macbeth, consideradas algumas das obras mais importantes na língua inglesa. Na sua última fase, escreveu um conjuntos de peças classificadas como tragicomédias ou romances, e colaborou com outros dramaturgos. Diversas de suas peças foram publicadas, em edições com variados graus de qualidade e precisão, durante sua vida. Em 1623 dois de seus antigos colegas de teatro publicaram o chamado First Folio, uma coletánea de suas obras dramáticas que incluía todas as peças (com a exceção de duas) reconhecidas atualmente como sendo de sua autoria. Shakespeare foi um poeta e dramaturgo respeitado em sua própria época, mas sua reputação só viria a atingir o nível em que se encontra hoje no século XIX. Os românticos, especialmente, aclamaram a genialidade de Shakespeare, e os vitorianos idolatraram-no como um herói, com uma reverência que George Bernard Shaw chamava de "bardolatria". No século XX sua obra foi adotada e redescoberta repetidamente por novos movimentos, tanto na academia e quanto na performance. Suas peças permanecem extremamente populares hoje em dia e são estudadas, encenadas e reinterpretadas constantemente, em diversos contextos culturais e políticos, por todo o mundo.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Sonneteers"/>
-    <dbpedia-owl:abstract xml:lang="sv">William Shakespeare (tidigare även Shakspere eller Shakespear), föddes1564 i Stratford-upon-Avon, Warwickshire, död 23 april 1616 i Stratford-upon-Avon, var en engelsk dramatiker, poet och skådespelare. Shakespeare ses av många inte bara som Englands nationalskald utan också som världslitteraturens främste dramatiker genom tiderna. Redan hans samtida kollega Ben Jonson sade: "Shakespeare was not of an age, but for all time" ("Shakespeare var inte tidsbunden, utan för evigt"). Han har kallats the Bard of Avon och the Swan of Avon ("Avons svan"). Den dramatiska verksamheten under den elisabetanska eran ägde till stor del rum vid Globe Theatre där han var delägare, belägen i Southwark i London.</dbpedia-owl:abstract>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_England"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Stratford-upon-Avon"/>
-    <dbpedia-owl:abstract xml:lang="ja">ウィリアム・シェイクスピア（William Shakespeare, 1564年4月26日（洗礼日） - 1616年4月23日（グレゴリオ暦5月3日））は、英国の劇作家、詩人である。エリザベス朝演劇を代表する作家であり、卓越した人間観察眼と内面の心理描写により、最も優れた英文学の作家とも言われている。また彼ののこした膨大な著作は、初期近代英語の実態を知る上での貴重な言語学的資料ともなっている。 出生地はイングランド地方ストラトフォード・アポン・エイヴォンで、1585年前後にロンドンに進出し、1592年には新進の劇作家として活躍した。1612年ごろに引退するまでの約20年間に、四大悲劇「ハムレット」、「マクベス」、「オセロ」、「リア王」をはじめ、「ロミオとジュリエット」、「ヴェニスの商人」、「夏の夜の夢」、「ジュリアス・シーザー」など多くの傑作を残した。「ヴィーナスとアドーニス」のような物語詩もあり、特に「ソネット集」は今日でも最高の詩編の一つと見なされている。 「シェイクスピア」は、今日の中国語では簡体字で「莎士比亚」、繁体字で「莎士比亞」と音訳される。また日本では、かつて「莎」を「沙」と、「亞」を「亜」と略し、「士」の代わりに「吉」を用いて「沙吉比亜」とする借字も見られた。このため、頭文字を採って華僑社会では「莎翁」、日本では「沙翁」と呼ぶこともしばしばある。</dbpedia-owl:abstract>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Stratford-upon-Avon"/>
-    <dbpedia-owl:abstract xml:lang="fr">William Shakespeare, né probablement le 23 avril 1564 à Stratford-upon-Avon et mort le 23 avril 1616 dans la même ville, est considéré comme l'un des plus grands poètes, dramaturges et écrivains de la culture anglaise. Il est réputé pour sa maîtrise des formes poétiques et littéraires, ainsi que sa capacité à représenter les aspects de la nature humaine. Figure éminente de la culture occidentale, Shakespeare continue d’influencer les artistes d’aujourd’hui. Il est traduit dans un grand nombre de langues et ses pièces sont régulièrement jouées partout dans le monde. Shakespeare est l’un des rares dramaturges à avoir pratiqué aussi bien la comédie que la tragédie. Shakespeare écrivit trente-sept œuvres dramatiques entre les années 1580 et 1613. Mais la chronologie exacte de ses pièces est encore sujette à discussion. Cependant, le volume de ses créations n'apparaît pas comme exceptionnel en regard des critères de l’époque. On mesure l’influence de Shakespeare sur la culture anglo-saxonne en observant les nombreuses références qui lui sont faites, que ce soit à travers des citations, des titres d’œuvres ou les innombrables adaptations de ses œuvres. L'anglais est d'ailleurs souvent surnommé la langue de Shakespeare tant cet auteur a marqué la langue de son pays en inventant de nombreux termes et expressions. Certaines citations d'ailleurs sont passées telles quelles dans le langage courant.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/William_Szekspir"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Stratford-upon-Avon"/>
-    <dbpprop:signature xml:lang="en">William Shakespeare Signature.svg</dbpprop:signature>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/William_Shakespeare"/>
-    <rdfs:comment xml:lang="es">William Shakespeare fue un dramaturgo, poeta y actor inglés. Conocido en ocasiones como el Bardo de Avon (o simplemente El Bardo), Shakespeare es considerado el escritor más importante en lengua inglesa y uno de los más célebres de la literatura universal. La New Encyclopædia Britannica señala que "muchos lo consideran el mayor dramaturgo de todos los tiempos. Sus piezas [... ... ] se representan más veces y en mayor número de naciones que las de cualquier otro escritor".</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="fi">William Shakespeare oli englantilainen näytelmäkirjailija ja runoilija. Häntä pidetään yhtenä merkittävimmistä kirjailijoista kautta historian ja eräänä etevimpänä englannin kielen taitajana. Shakespeare kirjoitti useita näytelmiä, niin tragedioita kuin komedioita, sonetteja ja runoja. Shakespeare kirjoitti teoksensa vuosina 1585–1613, mutta näytelmien kirjoitusjärjestystä ei tiedetä varmasti.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ウィリアム・シェイクスピア"/>
     <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Шекспир,_Уильям"/>
-    <dbpprop:colwidth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</dbpprop:colwidth>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/William_Shakespeare"/>
+    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">96994048</dbpprop:viaf>
+    <dbpprop:signature xml:lang="en">William Shakespeare Signature.svg</dbpprop:signature>
+    <rdfs:comment xml:lang="pl">William Szekspir – angielski poeta, dramaturg, aktor. Powszechnie uważany za jednego z najwybitniejszych pisarzy literatury angielskiej oraz reformatorów teatru. Napisał około 40 sztuk, 154 sonety, a także wiele utworów innych gatunków. Mimo że cieszył się popularnością już za życia, jego sława rosła głównie po śmierci, dopiero wtedy został zauważony przez prominentne osobistości. Uważa się go za poetę narodowego Anglii.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_Renaissance_dramatists"/>
+    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118613723</dbpprop:pnd>
+    <dc:description xml:lang="en">English poet and playwright</dc:description>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/William_Shakespeare"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/70/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:16th-century_actors"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1616_deaths"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg"/>
+    <dbpprop:placeOfDeath xml:lang="en">Stratford-upon-Avon, Warwickshire, England</dbpprop:placeOfDeath>
+    <dbpedia-owl:abstract xml:lang="it">Spesso considerato il poeta più rappresentativo del popolo inglese e soprannominato il "Bardo dell'Avon" (o semplicemente "Il Bardo") oppure il "Cigno dell'Avon", delle sue opere ci sono pervenuti, incluse alcune collaborazioni, 37 testi teatrali, 154 sonetti e una serie di altri poemi. Le sue rappresentazioni sono state tradotte in tutte le maggiori lingue del mondo e sono state inscenate più spesso di qualsiasi altra opera; inoltre è lo scrittore maggiormente citato nella storia della letteratura inglese e molte delle sue espressioni linguistiche sono entrate nell'inglese quotidiano. Nonostante la cronologia esatta delle sue opere sia ancora al centro di numerosi dibattiti, così come la paternità di alcune di esse, è possibile collocare con sufficiente certezza l'epoca di composizione della maggior parte dei suoi lavori nei circa venticinque anni compresi tra il 1588 e il 1613. Capace di eccellere sia nella tragedia sia nella commedia, fu in grado di combinare il gusto popolare della sua epoca con una complessa caratterizzazione dei personaggi, una poetica raffinata e una notevole profondità filosofica. Benché fosse già molto popolare in vita, divenne famoso dopo la sua morte e i suoi lavori furono esaltati e celebrati da numerosi e importanti personaggi nei secoli seguenti. La scarsità di documenti sopravvissuti riguardanti la sua vita privata ha fatto sorgere numerose speculazioni riguardo al suo aspetto fisico, alla sua sessualità, al suo credo religioso e persino all'attribuzione delle sue opere.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ja">ウィリアム・シェイクスピア（William Shakespeare, 1564年4月26日（洗礼日） - 1616年4月23日（グレゴリオ暦5月3日））は、英国の劇作家、詩人である。エリザベス朝演劇を代表する作家であり、卓越した人間観察眼と内面の心理描写により、最も優れた英文学の作家とも言われている。また彼ののこした膨大な著作は、初期近代英語の実態を知る上での貴重な言語学的資料ともなっている。 出生地はイングランド地方ストラトフォード・アポン・エイヴォンで、1585年前後にロンドンに進出し、1592年には新進の劇作家として活躍した。1612年ごろに引退するまでの約20年間に、四大悲劇「ハムレット」、「マクベス」、「オセロ」、「リア王」をはじめ、「ロミオとジュリエット」、「ヴェニスの商人」、「夏の夜の夢」、「ジュリアス・シーザー」など多くの傑作を残した。「ヴィーナスとアドーニス」のような物語詩もあり、特に「ソネット集」は今日でも最高の詩編の一つと見なされている。 「シェイクスピア」は、今日の中国語では簡体字で「莎士比亚」、繁体字で「莎士比亞」と音訳される。また日本では、かつて「莎」を「沙」と、「亞」を「亜」と略し、「士」の代わりに「吉」を用いて「沙吉比亜」とする借字も見られた。このため、頭文字を採って華僑社会では「莎翁」、日本では「沙翁」と呼ぶこともしばしばある。</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="de">William Shakespeare</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="ca">William Shakespeare fou un dramaturg, poeta i actor anglès, considerat un dels més grans de la literatura universal. La "New Encyclopaedia Britannica" assenyala que "molts el consideren el dramaturg més gran de tots els temps. Les seves obres [... ... ] es representen més vegades i en major nombre de nacions que les de qualsevol altre escriptor". Les obres de Shakespeare han estat traduïdes a les principals llengües i les seves obres dramàtiques continuen representant-se per tot el món. A més, moltes cites i neologismes de les seves obres han passat a formar part de l'ús quotidià, tant en l'anglès com en altres llengües. Amb el pas del temps, s'ha especulat molt sobre la seva vida, qüestionant la seva sexualitat, la seva afiliació religiosa, i àdhuc, l'autoria de les seves obres.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="ko">윌리엄 셰익스피어는 영국의 극작가, 시인이다. 그의 작품은 영어로 된 작품 중 최고라는 찬사를 받으며, 셰익스피어 자신도 최고의 극작가로 손꼽힌다. 그는 자주 영국의 "국민 시인"과 "에이번의 시인"으로 불렸다.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.081k8"/>
+    <dbpedia-owl:abstract xml:lang="ru">Уи́льям Шекспи́р — великий английский драматург и поэт, один из самых знаменитых драматургов мира, автор (согласно Шекспировскому канону) по крайней мере 12 трагедий, 16 комедий, 6 исторических хроник — в том числе состоящих из нескольких частей, 4 поэм и цикла из 154 сонетов.</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Sister_project_links"/>
+    <dbpprop:source xml:lang="en">—As You Like It, Act II, Scene 7, 139–42</dbpprop:source>
+    <rdfs:comment xml:lang="ru">Уи́льям Шекспи́р — великий английский драматург и поэт, один из самых знаменитых драматургов мира, автор (согласно Шекспировскому канону) по крайней мере 12 трагедий, 16 комедий, 6 исторических хроник — в том числе состоящих из нескольких частей, 4 поэм и цикла из 154 сонетов.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.openshakespeare.org/"/>
+    <owl:sameAs rdf:resource="http://zitgist.com/music/artist/a4ba11db-ae2b-4ec3-9084-2136db11acfa"/>
+    <rdfs:comment xml:lang="ja">ウィリアム・シェイクスピア（William Shakespeare, 1564年4月26日（洗礼日） - 1616年4月23日（グレゴリオ暦5月3日））は、英国の劇作家、詩人である。エリザベス朝演劇を代表する作家であり、卓越した人間観察眼と内面の心理描写により、最も優れた英文学の作家とも言われている。また彼ののこした膨大な著作は、初期近代英語の実態を知る上での貴重な言語学的資料ともなっている。 出生地はイングランド地方ストラトフォード・アポン・エイヴォンで、1585年前後にロンドンに進出し、1592年には新進の劇作家として活躍した。1612年ごろに引退するまでの約20年間に、四大悲劇「ハムレット」、「マクベス」、「オセロ」、「リア王」をはじめ、「ロミオとジュリエット」、「ヴェニスの商人」、「夏の夜の夢」、「ジュリアス・シーザー」など多くの傑作を残した。「ヴィーナスとアドーニス」のような物語詩もあり、特に「ソネット集」は今日でも最高の詩編の一つと見なされている。 「シェイクスピア」は、今日の中国語では簡体字で「莎士比亚」、繁体字で「莎士比亞」と音訳される。また日本では、かつて「莎」を「沙」と、「亞」を「亜」と略し、「士」の代わりに「吉」を用いて「沙吉比亜」とする借字も見られた。このため、頭文字を採って華僑社会では「莎翁」、日本では「沙翁」と呼ぶこともしばしばある。</rdfs:comment>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Stratford-upon-Avon"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/William_Shakespeare"/>
+    <dbpprop:placeOfBirth xml:lang="en">Stratford-upon-Avon, Warwickshire, England</dbpprop:placeOfBirth>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_dramatists_and_playwrights"/>
+    <foaf:name xml:lang="en">William Shakespeare</foaf:name>
+    <dbpedia-owl:abstract xml:lang="no">William Shakespeare var en engelsk poet og skuespillforfatter. Han betraktes som den største engelskspråklige forfatter og verdens mest fremragende dramatiker. Han kalles Englands nasjonalpoet og «skalden fra Avon» – eller simpelthen «skalden». Ben Jonson gav ham navnet «svanen fra Avon». Forfatterskapet består av 38 skuespill, 154 sonetter, to lange fortellende dikt og flere andre dikt. Skuespillene er oversatt til alle store språk og fremføres oftere enn andre dramatikeres skuespill. Shakespeare ble født og vokste opp i Stratford-upon-Avon. Da han var 18 år gammel giftet han seg med Anne Hathaway, som han fikk tre barn sammen med: Susanna og tvillingene Hamnet og Judith. Han reiste til London en gang mellom 1585 og 1592 og innledet en fremgangsrik karriere som skuespiller, forfatter og deleier av skuespillerselskapet Lord Chamberlain's Men – senere kjent som King's Men. Han trakk seg antagelig tilbake til Stratford omkring 1613 hvor han døde tre år senere. Shakespeare skrev mesteparten av sine kjente verker mellom 1590 og 1613. Hans tidlige skuespill var hovedsakelig komedier og krønikespill, genrer han raffinerte innen slutten av 1500-tallet. Han skrev i hovedsak tragedier frem til 1608 – som for eksempel klassikerne Hamlet, Macbeth og Romeo og Juliet. På slutten av livet skrev han tragikomedier og samarbeidet med andre skuespillforfattere. Mange av hans skuespill ble utgitt i utgaver av varierende kvalitet og grad av nøyaktighet under hans levetid. I 1623 utgav to av hans tidligere teaterkolleger Shakespeares samlede skuespill, som inneholdt alle hans skuespill, bortsett fra to.</dbpedia-owl:abstract>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/200px-Shakespeare.jpg"/>
+    <dbpprop:shortDescription xml:lang="en">English poet and playwright</dbpprop:shortDescription>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
+    <dbpedia-owl:abstract xml:lang="nl">| William Shakespeare Van het Chandos-portret, dat dateert uit de periode 1600-1610, wordt vermoed dat het William Shakespeare uitbeeldt. De National Portrait Gallery waar het te bezichtigen is, is daar zelfs van overtuigd. De maker van het schilderij is onbekend. Algemene informatie Geboren Stratford-upon-Avon, gedoopt op 26 april 1564 (geboortedatum onbekend) Overleden 26 april 1616 Land Verenigd Koninkrijk Beroep Dichter, toneelschrijver Werk Jaren actief ca. 1585–ca.1613 Genre(s) Komedie, tragedie, koningsdrama, romance, poëzie Stroming Engels renaissancetheater Bekende werken o.a. Macbeth, Romeo en Julia, Hamlet, Othello en King Lear Portaal  Portaalicoon   Literatuur Shakespeare |- | |} Beluister 80px William Shakespeare was een Engels toneelschrijver, dichter en acteur. Shakespeare wordt gezien als de grootste schrijver die Engeland ooit heeft voortgebracht, niet alleen vanwege de kwaliteit van zijn werken, maar ook vanwege zijn enorme invloed op de Engelse taal, waarin nog steeds honderden woorden, uitdrukkingen en citaten aan hem zijn toe te schrijven. Hij schreef 154 sonnetten en een aantal langere gedichten en kan beschouwd worden als de eerste moderne toneelschrijver. Zijn toneelwerk bestaat uit 38 tragedies, historische stukken en komedies over tijdloze, universele thema's die tot op de dag van vandaag gebruikt worden voor theaterbewerkingen, opera's, musicals en films. Een van de beroemdste adaptaties van het Romeo en Julia-verhaal is bijvoorbeeld de West Side Story uit 1957, de musical van Leonard Bernstein met de sloppenwijken van New York als decor.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:William_Shakespeare"/>
+    <rdfs:label xml:lang="zh">威廉·莎士比亚</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="zh">威廉·莎士比亞（英语：William Shakespeare，1564年4月23日－儒略曆1616年4月23日或公曆1616年5月3日，華人社會亦常尊稱為莎翁；中國清末民初魯迅摩羅詩力說，被认为是英国文学史上最杰出的戏剧家，也是西方文艺史上最杰出的作家之一，全世界最卓越的文学家之一。他流传下来的作品包括38部戏剧、154首十四行诗、两首长叙事诗和其他诗歌。他的戏剧被翻译成所有主要使用着的语言，并且表演次数远远超过其他任何戏剧家。 莎士比亚在雅芳河畔斯特拉特福出生长大，18岁时与安妮·哈瑟维结婚，两人共生育了三个孩子：苏珊娜、双胞胎哈姆内特和朱迪思。1585年到1592年期间莎士比亚在伦敦开始了成功的职业生涯，他不仅是演员、剧作家，还是宫内大臣剧团的合伙人之一，后来改名为国王剧团。1613年左右，莎士比亚似乎退休回到雅芳河畔斯特拉特福，3年后逝世。有关莎士比亚私人生活的记录流传下来很少，关于他的性取向、宗教信仰、以及他的著作是否出自他人之手都依然是谜（參見莎士比亞另有其人說）。 1590年到1613年是莎士比亚的创作高峰期。他的早期剧本主要是喜剧和历史剧，在16世纪末期达到了深度和艺术性的高峰。接下来到1608年他主要创作悲剧，包括《哈姆雷特》、《李尔王》和《麦克白》，被认为属于英语最佳范例。在他人生最后阶段，他开始创作悲喜剧，又称为传奇剧，并与其他剧作家合作。在他有生之年，他的很多作品就以多种版本出版，质素和准确性参差不齐。1623年，他所在剧团两位同事出版了《第一对开本》，除两部作品外，目前已经被认可的莎士比亚作品均收录其中。 莎士比亚在世时被尊为诗人和剧作家，但直到19世纪他的声望才达到今日的高度。浪漫主义时期赞颂莎士比亚的才华，维多利亚时代象英雄一样地尊敬他，被萧伯纳称为莎士比亚崇拜。20世纪，他的作品常常被新学术运动改编并重新发现价值。他的作品直至今日依旧广受欢迎，在全球以不同文化和政治形式演出和诠释。</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/William_Szekspir"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpprop:dateOfBirth xml:lang="en">April 1564</dbpprop:dateOfBirth>
+    <foaf:givenName xml:lang="en">William</foaf:givenName>
+    <dbpedia-owl:abstract xml:lang="cs">William Shakespeare byl významný anglický básník a dramatik, klíčová postava evropského dramatu. Obvykle je považován za anglického národního básníka neboli barda. Dochovalo se jemu připsaných 37 divadelních her, 154 sonetů, dvě dlouhé epické básně a několik dalších děl. Jeho hry byly přeloženy do všech významnějších jazyků. Kromě tvorby dramat a komedií se věnoval i herectví.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpedia-owl:abstract xml:lang="hu">William Shakespeare 1564. április 23. (?) – 1616. április 23. / 1616. május 3. ; angol drámaíró, költő, színész. Az angol nyelvű drámaírás egyik legnagyobb alakja. Shakespeare világirodalmi öröksége és hatása a világ minden táján fellelhető. Angliában mint a nemzet dalnokát tisztelik („Bard of Avon”, vagy egyszerűen „The Bard” vagy „az avoni hattyú”). Műveit az élő nyelvek majd mindegyikére lefordították, és színműveit folyamatosan játsszák a világ színpadain. Shakespeare azon kevés drámaírók közé tartozik, akik mind a komédia, mind a tragédia műfajában számos maradandó művet alkottak.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="es">William Shakespeare fue un dramaturgo, poeta y actor inglés. Conocido en ocasiones como el Bardo de Avon (o simplemente El Bardo), Shakespeare es considerado el escritor más importante en lengua inglesa y uno de los más célebres de la literatura universal. La New Encyclopædia Britannica señala que "muchos lo consideran el mayor dramaturgo de todos los tiempos. Sus piezas [... ... ] se representan más veces y en mayor número de naciones que las de cualquier otro escritor". Las obras de Shakespeare han sido traducidas a las principales lenguas y sus piezas dramáticas continúan representándose por todo el mundo. Además, muchas citas y aforismos de sus obras han pasado a formar parte del uso cotidiano, tanto en el inglés como en otros idiomas. Con el paso del tiempo, se ha especulado mucho sobre su vida, cuestionando su sexualidad, su afiliación religiosa, e incluso, la autoría de sus obras.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:comment xml:lang="es">William Shakespeare fue un dramaturgo, poeta y actor inglés. Conocido en ocasiones como el Bardo de Avon (o simplemente El Bardo), Shakespeare es considerado el escritor más importante en lengua inglesa y uno de los más célebres de la literatura universal. La New Encyclopædia Britannica señala que "muchos lo consideran el mayor dramaturgo de todos los tiempos. Sus piezas [... ... ] se representan más veces y en mayor número de naciones que las de cualquier otro escritor".</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Shakespeare_William_1564-1616"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/William_Shakespeare"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/윌리엄_셰익스피어"/>
+    <dbpprop:wikt xml:lang="en">Shakespeare</dbpprop:wikt>
+    <dbpedia-owl:individualisedPnd xml:lang="en">118613723</dbpedia-owl:individualisedPnd>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Stratford-upon-Avon"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</dbpprop:dateOfDeath>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Sonneteers"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ουίλλιαμ_Σαίξπηρ"/>
     <dbpprop:quote xml:lang="en">"All the world's a stage,
 and all the men and women merely players:
 they have their exits and their entrances;
 and one man in his time plays many parts..."</dbpprop:quote>
-    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-26</dbpprop:birthDate>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg"/>
-    <dbpedia-owl:abstract xml:lang="hu">William Shakespeare 1564. április 23. (?) – 1616. április 23. / 1616. május 3. ; angol drámaíró, költő, színész. Az angol nyelvű drámaírás egyik legnagyobb alakja. Shakespeare világirodalmi öröksége és hatása a világ minden táján fellelhető. Angliában mint a nemzet dalnokát tisztelik („Bard of Avon”, vagy egyszerűen „The Bard” vagy „az avoni hattyú”). Műveit az élő nyelvek majd mindegyikére lefordították, és színműveit folyamatosan játsszák a világ színpadain. Shakespeare azon kevés drámaírók közé tartozik, akik mind a komédia, mind a tragédia műfajában számos maradandó művet alkottak.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/윌리엄_셰익스피어"/>
-    <rdfs:label xml:lang="cs">William Shakespeare</rdfs:label>
-    <rdfs:comment xml:lang="hu">William Shakespeare 1564. április 23. (?) – 1616. április 23. / 1616. május 3. ; angol drámaíró, költő, színész. Az angol nyelvű drámaírás egyik legnagyobb alakja. Shakespeare világirodalmi öröksége és hatása a világ minden táján fellelhető. Angliában mint a nemzet dalnokát tisztelik („Bard of Avon”, vagy egyszerűen „The Bard” vagy „az avoni hattyú”). Műveit az élő nyelvek majd mindegyikére lefordították, és színműveit folyamatosan játsszák a világ színpadain.</rdfs:comment>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <rdfs:label xml:lang="vi">William Shakespeare</rdfs:label>
-    <dbpprop:align xml:lang="en">right</dbpprop:align>
-    <rdfs:label xml:lang="de">William Shakespeare</rdfs:label>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/dol/images/examples/pdfs/shakespeare.pdf"/>
-    <dc:description xml:lang="en">English poet and playwright</dc:description>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
-    <rdfs:comment xml:lang="ca">William Shakespeare fou un dramaturg, poeta i actor anglès, considerat un dels més grans de la literatura universal. La "New Encyclopaedia Britannica" assenyala que "molts el consideren el dramaturg més gran de tots els temps. Les seves obres [... ... ] es representen més vegades i en major nombre de nacions que les de qualsevol altre escriptor". Les obres de Shakespeare han estat traduïdes a les principals llengües i les seves obres dramàtiques continuen representant-se per tot el món.</rdfs:comment>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://shakespeare.palomar.edu/rowe.htm"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1564_births"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/William_Shakespeare"/>
-    <dbpprop:placeOfDeath xml:lang="en">Stratford-upon-Avon, Warwickshire, England</dbpprop:placeOfDeath>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://digital.lib.muohio.edu/shakespeare/"/>
-    <rdfs:comment xml:lang="zh">威廉·莎士比亞（英语：William Shakespeare，1564年4月23日－儒略曆1616年4月23日或公曆1616年5月3日，華人社會亦常尊稱為莎翁；中國清末民初魯迅摩羅詩力說，被认为是英国文学史上最杰出的戏剧家，也是西方文艺史上最杰出的作家之一，全世界最卓越的文学家之一。他流传下来的作品包括38部戏剧、154首十四行诗、两首长叙事诗和其他诗歌。他的戏剧被翻译成所有主要使用着的语言，并且表演次数远远超过其他任何戏剧家。 莎士比亚在雅芳河畔斯特拉特福出生长大，18岁时与安妮·哈瑟维结婚，两人共生育了三个孩子：苏珊娜、双胞胎哈姆内特和朱迪思。1585年到1592年期间莎士比亚在伦敦开始了成功的职业生涯，他不仅是演员、剧作家，还是宫内大臣剧团的合伙人之一，后来改名为国王剧团。1613年左右，莎士比亚似乎退休回到雅芳河畔斯特拉特福，3年后逝世。有关莎士比亚私人生活的记录流传下来很少，关于他的性取向、宗教信仰、以及他的著作是否出自他人之手都依然是谜（參見莎士比亞另有其人說）。 1590年到1613年是莎士比亚的创作高峰期。他的早期剧本主要是喜剧和历史剧，在16世纪末期达到了深度和艺术性的高峰。接下来到1608年他主要创作悲剧，包括《哈姆雷特》、《李尔王》和《麦克白》，被认为属于英语最佳范例。在他人生最后阶段，他开始创作悲喜剧，又称为传奇剧，并与其他剧作家合作。在他有生之年，他的很多作品就以多种版本出版，质素和准确性参差不齐。1623年，他所在剧团两位同事出版了《第一对开本》，除两部作品外，目前已经被认可的莎士比亚作品均收录其中。 莎士比亚在世时被尊为诗人和剧作家，但直到19世纪他的声望才达到今日的高度。浪漫主义时期赞颂莎士比亚的才华，维多利亚时代象英雄一样地尊敬他，被萧伯纳称为莎士比亚崇拜。20世纪，他的作品常常被新学术运动改编并重新发现价值。他的作品直至今日依旧广受欢迎，在全球以不同文化和政治形式演出和诠释。</rdfs:comment>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:17th-century_English_people"/>
-    <rdfs:comment xml:lang="pl">William Szekspir – angielski poeta, dramaturg, aktor. Powszechnie uważany za jednego z najwybitniejszych pisarzy literatury angielskiej oraz reformatorów teatru. Napisał około 40 sztuk, 154 sonety, a także wiele utworów innych gatunków. Mimo że cieszył się popularnością już za życia, jego sława rosła głównie po śmierci, dopiero wtedy został zauważony przez prominentne osobistości. Uważa się go za poetę narodowego Anglii.</rdfs:comment>
-    <dbpedia-owl:individualisedPnd xml:lang="de">118613723</dbpedia-owl:individualisedPnd>
-    <ns9:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/William_Shakespeare?oldid=494218263"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dbpedia-owl:abstract xml:lang="es">William Shakespeare fue un dramaturgo, poeta y actor inglés. Conocido en ocasiones como el Bardo de Avon (o simplemente El Bardo), Shakespeare es considerado el escritor más importante en lengua inglesa y uno de los más célebres de la literatura universal. La New Encyclopædia Britannica señala que "muchos lo consideran el mayor dramaturgo de todos los tiempos. Sus piezas [... ... ] se representan más veces y en mayor número de naciones que las de cualquier otro escritor". Las obras de Shakespeare han sido traducidas a las principales lenguas y sus piezas dramáticas continúan representándose por todo el mundo. Además, muchas citas y aforismos de sus obras han pasado a formar parte del uso cotidiano, tanto en el inglés como en otros idiomas. Con el paso del tiempo, se ha especulado mucho sobre su vida, cuestionando su sexualidad, su afiliación religiosa, e incluso, la autoría de sus obras.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="ru">Уи́льям Шекспи́р — великий английский драматург и поэт, один из самых знаменитых драматургов мира, автор (согласно Шекспировскому канону) по крайней мере 12 трагедий, 16 комедий, 6 исторических хроник — в том числе состоящих из нескольких частей, 4 поэм и цикла из 154 сонетов.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <owl:sameAs rdf:resource="http://zitgist.com/music/artist/a4ba11db-ae2b-4ec3-9084-2136db11acfa"/>
-    <rdfs:comment xml:lang="pt">William Shakespeare foi um poeta e dramaturgo inglês, tido como o maior escritor do idioma inglês e o mais influente dramaturgo do mundo. É chamado frequentemente de poeta nacional da Inglaterra e de "Bardo do Avon" (ou simplesmente The Bard, "O Bardo"). De suas obras restaram até os dias de hoje 38 peças, 154 sonetos, dois longos poemas narrativos, e diversos outros poemas.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.openshakespeare.org/"/>
-    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ουίλλιαμ_Σαίξπηρ"/>
-    <dbpedia-owl:abstract xml:lang="no">William Shakespeare var en engelsk poet og skuespillforfatter. Han betraktes som den største engelskspråklige forfatter og verdens mest fremragende dramatiker. Han kalles Englands nasjonalpoet og «skalden fra Avon» – eller simpelthen «skalden». Ben Jonson gav ham navnet «svanen fra Avon». Forfatterskapet består av 38 skuespill, 154 sonetter, to lange fortellende dikt og flere andre dikt. Skuespillene er oversatt til alle store språk og fremføres oftere enn andre dramatikeres skuespill. Shakespeare ble født og vokste opp i Stratford-upon-Avon. Da han var 18 år gammel giftet han seg med Anne Hathaway, som han fikk tre barn sammen med: Susanna og tvillingene Hamnet og Judith. Han reiste til London en gang mellom 1585 og 1592 og innledet en fremgangsrik karriere som skuespiller, forfatter og deleier av skuespillerselskapet Lord Chamberlain's Men – senere kjent som King's Men. Han trakk seg antagelig tilbake til Stratford omkring 1613 hvor han døde tre år senere. Shakespeare skrev mesteparten av sine kjente verker mellom 1590 og 1613. Hans tidlige skuespill var hovedsakelig komedier og krønikespill, genrer han raffinerte innen slutten av 1500-tallet. Han skrev i hovedsak tragedier frem til 1608 – som for eksempel klassikerne Hamlet, Macbeth og Romeo og Juliet. På slutten av livet skrev han tragikomedier og samarbeidet med andre skuespillforfattere. Mange av hans skuespill ble utgitt i utgaver av varierende kvalitet og grad av nøyaktighet under hans levetid. I 1623 utgav to av hans tidligere teaterkolleger Shakespeares samlede skuespill, som inneholdt alle hans skuespill, bortsett fra to.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="no">William Shakespeare var en engelsk poet og skuespillforfatter. Han betraktes som den største engelskspråklige forfatter og verdens mest fremragende dramatiker. Han kalles Englands nasjonalpoet og «skalden fra Avon» – eller simpelthen «skalden». Ben Jonson gav ham navnet «svanen fra Avon». Forfatterskapet består av 38 skuespill, 154 sonetter, to lange fortellende dikt og flere andre dikt. Skuespillene er oversatt til alle store språk og fremføres oftere enn andre dramatikeres skuespill.</rdfs:comment>
-    <rdfs:comment xml:lang="sv">William Shakespeare (tidigare även Shakspere eller Shakespear), föddes1564 i Stratford-upon-Avon, Warwickshire, död 23 april 1616 i Stratford-upon-Avon, var en engelsk dramatiker, poet och skådespelare. Shakespeare ses av många inte bara som Englands nationalskald utan också som världslitteraturens främste dramatiker genom tiderna. Redan hans samtida kollega Ben Jonson sade: "Shakespeare was not of an age, but for all time" ("Shakespeare var inte tidsbunden, utan för evigt").</rdfs:comment>
-    <rdfs:label xml:lang="en">William Shakespeare</rdfs:label>
-    <dbpedia-owl:abstract xml:lang="uk">Ві́льям Шекспі́р — англійський драматург Єлизаветинської епохи. Один з найвідоміших драматургів світу, автор принаймні 17 комедій, 10 хронік, 11 трагедій, 5 поем і циклу з 154 сонетів.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="de">William Shakespeare war ein englischer Dramatiker, Lyriker und Schauspieler. Seine Komödien und Tragödien gehören zu den bedeutendsten und am meisten aufgeführten und verfilmten Bühnenstücken der Weltliteratur. Sein überliefertes Gesamtwerk umfasst 38 Dramen, außerdem Versdichtungen, darunter einen Zyklus von 154 Sonetten.</rdfs:comment>
-    <rdfs:label xml:lang="ca">William Shakespeare</rdfs:label>
-    <rdfs:comment xml:lang="nl">| William Shakespeare Van het Chandos-portret, dat dateert uit de periode 1600-1610, wordt vermoed dat het William Shakespeare uitbeeldt. De National Portrait Gallery waar het te bezichtigen is, is daar zelfs van overtuigd. De maker van het schilderij is onbekend. Algemene informatie Geboren Stratford-upon-Avon, gedoopt op 26 april 1564 (geboortedatum onbekend) Overleden 26 april 1616 Land Verenigd Koninkrijk Beroep Dichter, toneelschrijver Werk Jaren actief ca.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <rdfs:comment xml:lang="ja">ウィリアム・シェイクスピア（William Shakespeare, 1564年4月26日（洗礼日） - 1616年4月23日（グレゴリオ暦5月3日））は、英国の劇作家、詩人である。エリザベス朝演劇を代表する作家であり、卓越した人間観察眼と内面の心理描写により、最も優れた英文学の作家とも言われている。また彼ののこした膨大な著作は、初期近代英語の実態を知る上での貴重な言語学的資料ともなっている。 出生地はイングランド地方ストラトフォード・アポン・エイヴォンで、1585年前後にロンドンに進出し、1592年には新進の劇作家として活躍した。1612年ごろに引退するまでの約20年間に、四大悲劇「ハムレット」、「マクベス」、「オセロ」、「リア王」をはじめ、「ロミオとジュリエット」、「ヴェニスの商人」、「夏の夜の夢」、「ジュリアス・シーザー」など多くの傑作を残した。「ヴィーナスとアドーニス」のような物語詩もあり、特に「ソネット集」は今日でも最高の詩編の一つと見なされている。 「シェイクスピア」は、今日の中国語では簡体字で「莎士比亚」、繁体字で「莎士比亞」と音訳される。また日本では、かつて「莎」を「沙」と、「亞」を「亜」と略し、「士」の代わりに「吉」を用いて「沙吉比亜」とする借字も見られた。このため、頭文字を採って華僑社会では「莎翁」、日本では「沙翁」と呼ぶこともしばしばある。</rdfs:comment>
-    <rdfs:comment xml:lang="ko">윌리엄 셰익스피어는 영국의 극작가, 시인이다. 그의 작품은 영어로 된 작품 중 최고라는 찬사를 받으며, 셰익스피어 자신도 최고의 극작가로 손꼽힌다. 그는 자주 영국의 "국민 시인"과 "에이번의 시인"으로 불렸다.</rdfs:comment>
-    <dbpprop:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">250</dbpprop:imageSize>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_Renaissance_dramatists"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ウィリアム・シェイクスピア"/>
-    <rdfs:comment xml:lang="cs">William Shakespeare byl významný anglický básník a dramatik, klíčová postava evropského dramatu. Obvykle je považován za anglického národního básníka neboli barda. Dochovalo se jemu připsaných 37 divadelních her, 154 sonetů, dvě dlouhé epické básně a několik dalších děl. Jeho hry byly přeloženy do všech významnějších jazyků. Kromě tvorby dramat a komedií se věnoval i herectví.</rdfs:comment>
-    <dbpprop:group xml:lang="en">nb</dbpprop:group>
-    <dbpedia-owl:abstract xml:lang="it">Spesso considerato il poeta più rappresentativo del popolo inglese e soprannominato il "Bardo dell'Avon" (o semplicemente "Il Bardo") oppure il "Cigno dell'Avon", delle sue opere ci sono pervenuti, incluse alcune collaborazioni, 37 testi teatrali, 154 sonetti e una serie di altri poemi. Le sue rappresentazioni sono state tradotte in tutte le maggiori lingue del mondo e sono state inscenate più spesso di qualsiasi altra opera; inoltre è lo scrittore maggiormente citato nella storia della letteratura inglese e molte delle sue espressioni linguistiche sono entrate nell'inglese quotidiano. Nonostante la cronologia esatta delle sue opere sia ancora al centro di numerosi dibattiti, così come la paternità di alcune di esse, è possibile collocare con sufficiente certezza l'epoca di composizione della maggior parte dei suoi lavori nei circa venticinque anni compresi tra il 1588 e il 1613. Capace di eccellere sia nella tragedia sia nella commedia, fu in grado di combinare il gusto popolare della sua epoca con una complessa caratterizzazione dei personaggi, una poetica raffinata e una notevole profondità filosofica. Benché fosse già molto popolare in vita, divenne famoso dopo la sua morte e i suoi lavori furono esaltati e celebrati da numerosi e importanti personaggi nei secoli seguenti. La scarsità di documenti sopravvissuti riguardanti la sua vita privata ha fatto sorgere numerose speculazioni riguardo al suo aspetto fisico, alla sua sessualità, al suo credo religioso e persino all'attribuzione delle sue opere.</dbpedia-owl:abstract>
-    <dbpprop:period rdf:resource="http://dbpedia.org/resource/English_Renaissance"/>
-    <dbpprop:wikt xml:lang="en">Shakespeare</dbpprop:wikt>
-    <foaf:surname xml:lang="en">Shakespeare</foaf:surname>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.opensourceshakespeare.org/"/>
-    <dbpedia-owl:abstract xml:lang="pl">William Szekspir – angielski poeta, dramaturg, aktor. Powszechnie uważany za jednego z najwybitniejszych pisarzy literatury angielskiej oraz reformatorów teatru. Napisał około 40 sztuk, 154 sonety, a także wiele utworów innych gatunków. Mimo że cieszył się popularnością już za życia, jego sława rosła głównie po śmierci, dopiero wtedy został zauważony przez prominentne osobistości. Uważa się go za poetę narodowego Anglii. Eksperci uważają, że większość swoich prac napisał między 1586 a 1612 rokiem. Przedmiotem ciągłej debaty jest ich chronologia, a nawet kwestia autorstwa większości z nich. Był jednym z niewielu dramaturgów, którzy z powodzeniem tworzyli zarówno komedie jak i tragedie. Sztuki Szekspira zostały przetłumaczone na wszystkie najważniejsze języki nowożytne, inscenizacje mają miejsce na całym świecie. Jest również najczęściej cytowanym pisarzem anglojęzycznego świata. Wiele jego neologizmów weszło do codziennego użycia. Lista słów, które wprowadził do języka angielskiego, liczy około 600 pozycji. Przez lata dyskutowano na temat jego życia, orientacji seksualnej i religijności.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
-    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Shakespeare_William_1564-1616"/>
-    <dbpprop:name xml:lang="en">William Shakespeare</dbpprop:name>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Reflist"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:William_Shakespeare"/>
-    <foaf:givenName xml:lang="en">William</foaf:givenName>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Sister_project_links"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.findarticles.com/p/articles/mi_qa3709/is_199810/ai_n8827074"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:16th-century_English_people"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://internetshakespeare.uvic.ca/"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Quote_box"/>
-    <dbpprop:source xml:lang="en">—As You Like It, Act II, Scene 7, 139–42</dbpprop:source>
-    <dbpprop:caption xml:lang="en">The Chandos portrait, artist and authenticity unconfirmed. National Portrait Gallery, London.</dbpprop:caption>
-    <dbpedia-owl:abstract xml:lang="zh">威廉·莎士比亞（英语：William Shakespeare，1564年4月23日－儒略曆1616年4月23日或公曆1616年5月3日，華人社會亦常尊稱為莎翁；中國清末民初魯迅摩羅詩力說，被认为是英国文学史上最杰出的戏剧家，也是西方文艺史上最杰出的作家之一，全世界最卓越的文学家之一。他流传下来的作品包括38部戏剧、154首十四行诗、两首长叙事诗和其他诗歌。他的戏剧被翻译成所有主要使用着的语言，并且表演次数远远超过其他任何戏剧家。 莎士比亚在雅芳河畔斯特拉特福出生长大，18岁时与安妮·哈瑟维结婚，两人共生育了三个孩子：苏珊娜、双胞胎哈姆内特和朱迪思。1585年到1592年期间莎士比亚在伦敦开始了成功的职业生涯，他不仅是演员、剧作家，还是宫内大臣剧团的合伙人之一，后来改名为国王剧团。1613年左右，莎士比亚似乎退休回到雅芳河畔斯特拉特福，3年后逝世。有关莎士比亚私人生活的记录流传下来很少，关于他的性取向、宗教信仰、以及他的著作是否出自他人之手都依然是谜（參見莎士比亞另有其人說）。 1590年到1613年是莎士比亚的创作高峰期。他的早期剧本主要是喜剧和历史剧，在16世纪末期达到了深度和艺术性的高峰。接下来到1608年他主要创作悲剧，包括《哈姆雷特》、《李尔王》和《麦克白》，被认为属于英语最佳范例。在他人生最后阶段，他开始创作悲喜剧，又称为传奇剧，并与其他剧作家合作。在他有生之年，他的很多作品就以多种版本出版，质素和准确性参差不齐。1623年，他所在剧团两位同事出版了《第一对开本》，除两部作品外，目前已经被认可的莎士比亚作品均收录其中。 莎士比亚在世时被尊为诗人和剧作家，但直到19世纪他的声望才达到今日的高度。浪漫主义时期赞颂莎士比亚的才华，维多利亚时代象英雄一样地尊敬他，被萧伯纳称为莎士比亚崇拜。20世纪，他的作品常常被新学术运动改编并重新发现价值。他的作品直至今日依旧广受欢迎，在全球以不同文化和政治形式演出和诠释。</dbpedia-owl:abstract>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/William_Shakespeare"/>
-    <dbpedia-owl:individualisedPnd xml:lang="en">118613723</dbpedia-owl:individualisedPnd>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_England"/>
-    <foaf:name xml:lang="en">William Shakespeare</foaf:name>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/William_Shakespeare"/>
-    <rdfs:comment xml:lang="fr">William Shakespeare, né probablement le 23 avril 1564 à Stratford-upon-Avon et mort le 23 avril 1616 dans la même ville, est considéré comme l'un des plus grands poètes, dramaturges et écrivains de la culture anglaise. Il est réputé pour sa maîtrise des formes poétiques et littéraires, ainsi que sa capacité à représenter les aspects de la nature humaine. Figure éminente de la culture occidentale, Shakespeare continue d’influencer les artistes d’aujourd’hui.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/70/50018.html"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://shakespeare.palomar.edu/default.htm"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_dramatists_and_playwrights"/>
-    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118613723</dbpprop:pnd>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/2/hi/uk_news/england/coventry_warwickshire/7422986.stm"/>
-    <dbpprop:placeOfBirth xml:lang="en">Stratford-upon-Avon, Warwickshire, England</dbpprop:placeOfBirth>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <dbpprop:dateOfBirth xml:lang="en">April 1564</dbpprop:dateOfBirth>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/William_Shakespeare"/>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:source xml:lang="en">—Ben Jonson</dbpprop:source>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Shakespeare_family"/>
-    <dbpprop:quote xml:lang="en">"He was not of an age, but for all time."</dbpprop:quote>
-    <rdfs:comment xml:lang="fi">William Shakespeare oli englantilainen näytelmäkirjailija ja runoilija. Häntä pidetään yhtenä merkittävimmistä kirjailijoista kautta historian ja eräänä etevimpänä englannin kielen taitajana. Shakespeare kirjoitti useita näytelmiä, niin tragedioita kuin komedioita, sonetteja ja runoja. Shakespeare kirjoitti teoksensa vuosina 1585–1613, mutta näytelmien kirjoitusjärjestystä ei tiedetä varmasti.</rdfs:comment>
-    <rdfs:comment xml:lang="en">William Shakespeare (baptised 26 April 1564; died 23 April 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His surviving works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and several other poems.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://web.archive.org/web/20070516062509/http:/findarticles.com/p/articles/mi_qa3709/is_199810/ai_n8827074"/>
-    <dbpprop:shortDescription xml:lang="en">English poet and playwright</dbpprop:shortDescription>
-    <dbpprop:birthPlace xml:lang="en">Stratford-upon-Avon, Warwickshire, England</dbpprop:birthPlace>
-    <dbpprop:s xml:lang="en">Author:William Shakespeare</dbpprop:s>
-    <dbpedia-owl:abstract xml:lang="nl">| William Shakespeare Van het Chandos-portret, dat dateert uit de periode 1600-1610, wordt vermoed dat het William Shakespeare uitbeeldt. De National Portrait Gallery waar het te bezichtigen is, is daar zelfs van overtuigd. De maker van het schilderij is onbekend. Algemene informatie Geboren Stratford-upon-Avon, gedoopt op 26 april 1564 (geboortedatum onbekend) Overleden 26 april 1616 Land Verenigd Koninkrijk Beroep Dichter, toneelschrijver Werk Jaren actief ca. 1585–ca.1613 Genre(s) Komedie, tragedie, koningsdrama, romance, poëzie Stroming Engels renaissancetheater Bekende werken o.a. Macbeth, Romeo en Julia, Hamlet, Othello en King Lear Portaal  Portaalicoon   Literatuur Shakespeare |- | |} Beluister 80px William Shakespeare was een Engels toneelschrijver, dichter en acteur. Shakespeare wordt gezien als de grootste schrijver die Engeland ooit heeft voortgebracht, niet alleen vanwege de kwaliteit van zijn werken, maar ook vanwege zijn enorme invloed op de Engelse taal, waarin nog steeds honderden woorden, uitdrukkingen en citaten aan hem zijn toe te schrijven. Hij schreef 154 sonnetten en een aantal langere gedichten en kan beschouwd worden als de eerste moderne toneelschrijver. Zijn toneelwerk bestaat uit 38 tragedies, historische stukken en komedies over tijdloze, universele thema's die tot op de dag van vandaag gebruikt worden voor theaterbewerkingen, opera's, musicals en films. Een van de beroemdste adaptaties van het Romeo en Julia-verhaal is bijvoorbeeld de West Side Story uit 1957, de musical van Leonard Bernstein met de sloppenwijken van New York als decor.</dbpedia-owl:abstract>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/200px-Shakespeare.jpg"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpprop:caption xml:lang="en">The Chandos portrait, artist and authenticity unconfirmed. National Portrait Gallery, London.</dbpprop:caption>
     <dbpedia-owl:abstract xml:lang="ko">윌리엄 셰익스피어는 영국의 극작가, 시인이다. 그의 작품은 영어로 된 작품 중 최고라는 찬사를 받으며, 셰익스피어 자신도 최고의 극작가로 손꼽힌다. 그는 자주 영국의 "국민 시인"과 "에이번의 시인"으로 불렸다.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_King_Edward_VI_School_Stratford-upon-Avon"/>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</dbpprop:dateOfDeath>
-    <dbpedia-owl:abstract xml:lang="en">William Shakespeare (baptised 26 April 1564; died 23 April 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His surviving works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and several other poems. His plays have been translated into every major living language and are performed more often than those of any other playwright. Shakespeare was born and brought up in Stratford-upon-Avon. At the age of 18, he married Anne Hathaway, with whom he had three children: Susanna, and twins Hamnet and Judith. Between 1585 and 1592, he began a successful career in London as an actor, writer, and part owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford around 1613 at age 49, where he died three years later. Few records of Shakespeare's private life survive, and there has been considerable speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written by others. Shakespeare produced most of his known work between 1589 and 1613. His early plays were mainly comedies and histories, genres he raised to the peak of sophistication and artistry by the end of the 16th century. He then wrote mainly tragedies until about 1608, including Hamlet, King Lear, Othello, and Macbeth, considered some of the finest works in the English language. In his last phase, he wrote tragicomedies, also known as romances, and collaborated with other playwrights. Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, two of his former theatrical colleagues published the First Folio, a collected edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's. Shakespeare was a respected poet and playwright in his own day, but his reputation did not rise to its present heights until the 19th century. The Romantics, in particular, acclaimed Shakespeare's genius, and the Victorians worshipped Shakespeare with a reverence that George Bernard Shaw called "bardolatry". In the 20th century, his work was repeatedly adopted and rediscovered by new movements in scholarship and performance. His plays remain highly popular today and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout the world.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="uk">Ві́льям Шекспі́р — англійський драматург Єлизаветинської епохи. Один з найвідоміших драматургів світу, автор принаймні 17 комедій, 10 хронік, 11 трагедій, 5 поем і циклу з 154 сонетів.</rdfs:comment>
+    <dbpprop:source xml:lang="en">—Ben Jonson</dbpprop:source>
+    <foaf:surname xml:lang="en">Shakespeare</foaf:surname>
+    <dbpedia-owl:abstract xml:lang="pt">William Shakespeare foi um poeta e dramaturgo inglês, tido como o maior escritor do idioma inglês e o mais influente dramaturgo do mundo. É chamado frequentemente de poeta nacional da Inglaterra e de "Bardo do Avon" (ou simplesmente The Bard, "O Bardo"). De suas obras restaram até os dias de hoje 38 peças, 154 sonetos, dois longos poemas narrativos, e diversos outros poemas. Suas peças foram traduzidas para os principais idiomas do globo, e são encenadas mais do que as de qualquer outro dramaturgo. Muitos de seus textos e temas, especialmente os do teatro, permaneceram vivos até aos nossos dias, sendo revisitados com frequência pelo teatro, televisão, cinema e literatura. Entre suas obras mais conhecidas estão Romeu e Julieta, que se tornou a história de amor por excelência, e Hamlet, que possui uma das frases mais conhecidas da língua inglesa: To be or not to be: that's the question. Shakespeare nasceu e foi criado em Stratford-upon-Avon. Aos 18 anos, segundo alguns estudiosos, casou-se com Anne Hathaway, que lhe concedeu três filhos: Susanna, e os gêmeos Hamnet e Judith. Entre 1585 e 1592 William começou uma carreira bem-sucedida em Londres como ator, escritor e um dos proprietários da companhia de teatro chamada Lord Chamberlain's Men, mais tarde conhecida como King's Men. Acredita-se que ele tenha retornado a Stratford em torno de 1613, morrendo três anos depois. Restaram poucos registros da vida privada de Shakespeare, e existem muitas especulações sobre assuntos como a sua aparência física, sexualidade, crenças religiosas, e se algumas das obras que lhe são atribuídas teriam sido escritas por outros autores. Shakespeare produziu a maior parte de sua obra entre 1590 e 1613. Suas primeiras peças eram principalmente comédias e obras baseadas em eventos e personagens históricos, gêneros que ele levou ao ápice da sofisticação e do talento artístico ao fim do século XVI. A partir de então escreveu apenas tragédias até por volta de 1608, incluindo Hamlet, Rei Lear e Macbeth, consideradas algumas das obras mais importantes na língua inglesa. Na sua última fase, escreveu um conjuntos de peças classificadas como tragicomédias ou romances, e colaborou com outros dramaturgos. Diversas de suas peças foram publicadas, em edições com variados graus de qualidade e precisão, durante sua vida. Em 1623 dois de seus antigos colegas de teatro publicaram o chamado First Folio, uma coletánea de suas obras dramáticas que incluía todas as peças (com a exceção de duas) reconhecidas atualmente como sendo de sua autoria. Shakespeare foi um poeta e dramaturgo respeitado em sua própria época, mas sua reputação só viria a atingir o nível em que se encontra hoje no século XIX. Os românticos, especialmente, aclamaram a genialidade de Shakespeare, e os vitorianos idolatraram-no como um herói, com uma reverência que George Bernard Shaw chamava de "bardolatria". No século XX sua obra foi adotada e redescoberta repetidamente por novos movimentos, tanto na academia e quanto na performance. Suas peças permanecem extremamente populares hoje em dia e são estudadas, encenadas e reinterpretadas constantemente, em diversos contextos culturais e políticos, por todo o mundo.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/2/hi/uk_news/england/coventry_warwickshire/7422986.stm"/>
+    <rdfs:comment xml:lang="de">William Shakespeare war ein englischer Dramatiker, Lyriker und Schauspieler. Seine Komödien und Tragödien gehören zu den bedeutendsten und am meisten aufgeführten und verfilmten Bühnenstücken der Weltliteratur. Sein überliefertes Gesamtwerk umfasst 38 Dramen, außerdem Versdichtungen, darunter einen Zyklus von 154 Sonetten.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">威廉·莎士比亞（英语：William Shakespeare，1564年4月23日－儒略曆1616年4月23日或公曆1616年5月3日，華人社會亦常尊稱為莎翁；中國清末民初魯迅摩羅詩力說，被认为是英国文学史上最杰出的戏剧家，也是西方文艺史上最杰出的作家之一，全世界最卓越的文学家之一。他流传下来的作品包括38部戏剧、154首十四行诗、两首长叙事诗和其他诗歌。他的戏剧被翻译成所有主要使用着的语言，并且表演次数远远超过其他任何戏剧家。 莎士比亚在雅芳河畔斯特拉特福出生长大，18岁时与安妮·哈瑟维结婚，两人共生育了三个孩子：苏珊娜、双胞胎哈姆内特和朱迪思。1585年到1592年期间莎士比亚在伦敦开始了成功的职业生涯，他不仅是演员、剧作家，还是宫内大臣剧团的合伙人之一，后来改名为国王剧团。1613年左右，莎士比亚似乎退休回到雅芳河畔斯特拉特福，3年后逝世。有关莎士比亚私人生活的记录流传下来很少，关于他的性取向、宗教信仰、以及他的著作是否出自他人之手都依然是谜（參見莎士比亞另有其人說）。 1590年到1613年是莎士比亚的创作高峰期。他的早期剧本主要是喜剧和历史剧，在16世纪末期达到了深度和艺术性的高峰。接下来到1608年他主要创作悲剧，包括《哈姆雷特》、《李尔王》和《麦克白》，被认为属于英语最佳范例。在他人生最后阶段，他开始创作悲喜剧，又称为传奇剧，并与其他剧作家合作。在他有生之年，他的很多作品就以多种版本出版，质素和准确性参差不齐。1623年，他所在剧团两位同事出版了《第一对开本》，除两部作品外，目前已经被认可的莎士比亚作品均收录其中。 莎士比亚在世时被尊为诗人和剧作家，但直到19世纪他的声望才达到今日的高度。浪漫主义时期赞颂莎士比亚的才华，维多利亚时代象英雄一样地尊敬他，被萧伯纳称为莎士比亚崇拜。20世纪，他的作品常常被新学术运动改编并重新发现价值。他的作品直至今日依旧广受欢迎，在全球以不同文化和政治形式演出和诠释。</rdfs:comment>
     <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_writer"/>
-    <dbpprop:deathPlace xml:lang="en">Stratford-upon-Avon, Warwickshire, England</dbpprop:deathPlace>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:label xml:lang="ca">William Shakespeare</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Tudor_period"/>
     <dbpprop:name xml:lang="en">Shakespeare, William</dbpprop:name>
-    <dbpedia-owl:abstract xml:lang="vi">William Shakespeare phiên âm tiếng Việt: Uy-li-am Sếch-xpia là nhà thơ và nhà soạn kịch người Anh. Ông viết khoảng 38 vở kịch và nhiều loại thơ khác, đặc biệt là thơ sonnet). Được xem là một thiên tài, đã phát triển nền kịch nghệ của nước Anh. Tuy nhiên, cũng có người ngoại quốc thẳng tay chỉ trích ông. Song dẫu sao thì trong nước Anh người ta vẫn hết mực hâm mộ ông. Ông được thừa nhận rộng rãi là nhà thi hào viết tiếng Anh kiệt xuất nhất và là một nhà soạn kịch lừng danh thế giới. Ông được tôn vinh làm đại thi hào dân tộc của nước nhà và là "nhà thơ vùng Avon". Những vở kịch của ông được dịch sang mọi ngôn ngữ và được diễn nhiều hơn kịch của bất kỳ một nhà viết kịch nào khác. So với các nhà viết kịch hàng đầu của Pháp như Racine, Shakespeare tái hiện chân thật lịch sử hơn hẳn.</dbpedia-owl:abstract>
-    <dbpprop:lccn xml:lang="en">n/78/95332</dbpprop:lccn>
-    <rdfs:comment xml:lang="it">Spesso considerato il poeta più rappresentativo del popolo inglese e soprannominato il "Bardo dell'Avon" (o semplicemente "Il Bardo") oppure il "Cigno dell'Avon", delle sue opere ci sono pervenuti, incluse alcune collaborazioni, 37 testi teatrali, 154 sonetti e una serie di altri poemi.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://durer.press.illinois.edu/baldwin/vol.1/html/index.html"/>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1616-04-23</dbpedia-owl:deathDate>
-    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwIuzNJwpEbGdrcN5Y29ycA"/>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</dbpprop:deathDate>
-    <dbpedia-owl:abstract xml:lang="cs">William Shakespeare byl významný anglický básník a dramatik, klíčová postava evropského dramatu. Obvykle je považován za anglického národního básníka neboli barda. Dochovalo se jemu připsaných 37 divadelních her, 154 sonetů, dvě dlouhé epické básně a několik dalších děl. Jeho hry byly přeloženy do všech významnějších jazyků. Kromě tvorby dramat a komedií se věnoval i herectví.</dbpedia-owl:abstract>
-    <dbpprop:source xml:lang="en">—Lines from Shakespeare's Sonnet 18.</dbpprop:source>
-    <dbpedia-owl:abstract xml:lang="de">William Shakespeare war ein englischer Dramatiker, Lyriker und Schauspieler. Seine Komödien und Tragödien gehören zu den bedeutendsten und am meisten aufgeführten und verfilmten Bühnenstücken der Weltliteratur. Sein überliefertes Gesamtwerk umfasst 38 Dramen, außerdem Versdichtungen, darunter einen Zyklus von 154 Sonetten.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
-    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">96994048</dbpprop:viaf>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/William_Shakespeare"/>
-    <rdfs:comment xml:lang="ru">Уи́льям Шекспи́р — великий английский драматург и поэт, один из самых знаменитых драматургов мира, автор (согласно Шекспировскому канону) по крайней мере 12 трагедий, 16 комедий, 6 исторических хроник — в том числе состоящих из нескольких частей, 4 поэм и цикла из 154 сонетов.</rdfs:comment>
-    <dbpprop:occupation xml:lang="en">Playwright, poet, actor</dbpprop:occupation>
     <rdfs:comment xml:lang="vi">William Shakespeare phiên âm tiếng Việt: Uy-li-am Sếch-xpia là nhà thơ và nhà soạn kịch người Anh. Ông viết khoảng 38 vở kịch và nhiều loại thơ khác, đặc biệt là thơ sonnet). Được xem là một thiên tài, đã phát triển nền kịch nghệ của nước Anh. Tuy nhiên, cũng có người ngoại quốc thẳng tay chỉ trích ông. Song dẫu sao thì trong nước Anh người ta vẫn hết mực hâm mộ ông. Ông được thừa nhận rộng rãi là nhà thi hào viết tiếng Anh kiệt xuất nhất và là một nhà soạn kịch lừng danh thế giới.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:16th-century_actors"/>
-    <rdfs:label xml:lang="zh">威廉·莎士比亚</rdfs:label>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/70/"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118613723</dbpedia-owl:individualisedPnd>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:16th-century_English_people"/>
+    <rdfs:comment xml:lang="ca">William Shakespeare fou un dramaturg, poeta i actor anglès, considerat un dels més grans de la literatura universal. La "New Encyclopaedia Britannica" assenyala que "molts el consideren el dramaturg més gran de tots els temps. Les seves obres [... ... ] es representen més vegades i en major nombre de nacions que les de qualsevol altre escriptor". Les obres de Shakespeare han estat traduïdes a les principals llengües i les seves obres dramàtiques continuen representant-se per tot el món.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">| William Shakespeare Van het Chandos-portret, dat dateert uit de periode 1600-1610, wordt vermoed dat het William Shakespeare uitbeeldt. De National Portrait Gallery waar het te bezichtigen is, is daar zelfs van overtuigd. De maker van het schilderij is onbekend. Algemene informatie Geboren Stratford-upon-Avon, gedoopt op 26 april 1564 (geboortedatum onbekend) Overleden 26 april 1616 Land Verenigd Koninkrijk Beroep Dichter, toneelschrijver Werk Jaren actief ca.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="fi">William Shakespeare oli englantilainen näytelmäkirjailija ja runoilija. Häntä pidetään yhtenä merkittävimmistä kirjailijoista kautta historian ja eräänä etevimpänä englannin kielen taitajana. Shakespeare kirjoitti useita näytelmiä, niin tragedioita kuin komedioita, sonetteja ja runoja. Shakespeare kirjoitti teoksensa vuosina 1585–1613, mutta näytelmien kirjoitusjärjestystä ei tiedetä varmasti.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">William Shakespeare (baptised 26 April 1564; died 23 April 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His surviving works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and several other poems. His plays have been translated into every major living language and are performed more often than those of any other playwright. Shakespeare was born and brought up in Stratford-upon-Avon. At the age of 18, he married Anne Hathaway, with whom he had three children: Susanna, and twins Hamnet and Judith. Between 1585 and 1592, he began a successful career in London as an actor, writer, and part owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford around 1613 at age 49, where he died three years later. Few records of Shakespeare's private life survive, and there has been considerable speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written by others. Shakespeare produced most of his known work between 1589 and 1613. His early plays were mainly comedies and histories, genres he raised to the peak of sophistication and artistry by the end of the 16th century. He then wrote mainly tragedies until about 1608, including Hamlet, King Lear, Othello, and Macbeth, considered some of the finest works in the English language. In his last phase, he wrote tragicomedies, also known as romances, and collaborated with other playwrights. Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, two of his former theatrical colleagues published the First Folio, a collected edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's. Shakespeare was a respected poet and playwright in his own day, but his reputation did not rise to its present heights until the 19th century. The Romantics, in particular, acclaimed Shakespeare's genius, and the Victorians worshipped Shakespeare with a reverence that George Bernard Shaw called "bardolatry". In the 20th century, his work was repeatedly adopted and rediscovered by new movements in scholarship and performance. His plays remain highly popular today and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout the world.</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Quote_box"/>
     <dbpprop:quote xml:lang="en">"Shall I compare thee to a summer's day?
 Thou art more lovely and more temperate..."</dbpprop:quote>
+    <rdfs:comment xml:lang="cs">William Shakespeare byl významný anglický básník a dramatik, klíčová postava evropského dramatu. Obvykle je považován za anglického národního básníka neboli barda. Dochovalo se jemu připsaných 37 divadelních her, 154 sonetů, dvě dlouhé epické básně a několik dalších děl. Jeho hry byly přeloženy do všech významnějších jazyků. Kromě tvorby dramat a komedií se věnoval i herectví.</rdfs:comment>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpprop:deathPlace xml:lang="en">Stratford-upon-Avon, Warwickshire, England</dbpprop:deathPlace>
+    <dbpedia-owl:abstract xml:lang="vi">William Shakespeare phiên âm tiếng Việt: Uy-li-am Sếch-xpia là nhà thơ và nhà soạn kịch người Anh. Ông viết khoảng 38 vở kịch và nhiều loại thơ khác, đặc biệt là thơ sonnet). Được xem là một thiên tài, đã phát triển nền kịch nghệ của nước Anh. Tuy nhiên, cũng có người ngoại quốc thẳng tay chỉ trích ông. Song dẫu sao thì trong nước Anh người ta vẫn hết mực hâm mộ ông. Ông được thừa nhận rộng rãi là nhà thi hào viết tiếng Anh kiệt xuất nhất và là một nhà soạn kịch lừng danh thế giới. Ông được tôn vinh làm đại thi hào dân tộc của nước nhà và là "nhà thơ vùng Avon". Những vở kịch của ông được dịch sang mọi ngôn ngữ và được diễn nhiều hơn kịch của bất kỳ một nhà viết kịch nào khác. So với các nhà viết kịch hàng đầu của Pháp như Racine, Shakespeare tái hiện chân thật lịch sử hơn hẳn.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Stratford-upon-Avon"/>
+    <dbpprop:colwidth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</dbpprop:colwidth>
+    <dbpprop:s xml:lang="en">Author:William Shakespeare</dbpprop:s>
+    <rdfs:comment xml:lang="no">William Shakespeare var en engelsk poet og skuespillforfatter. Han betraktes som den største engelskspråklige forfatter og verdens mest fremragende dramatiker. Han kalles Englands nasjonalpoet og «skalden fra Avon» – eller simpelthen «skalden». Ben Jonson gav ham navnet «svanen fra Avon». Forfatterskapet består av 38 skuespill, 154 sonetter, to lange fortellende dikt og flere andre dikt. Skuespillene er oversatt til alle store språk og fremføres oftere enn andre dramatikeres skuespill.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">William Shakespeare, né probablement le 23 avril 1564 à Stratford-upon-Avon et mort le 23 avril 1616 dans la même ville, est considéré comme l'un des plus grands poètes, dramaturges et écrivains de la culture anglaise. Il est réputé pour sa maîtrise des formes poétiques et littéraires, ainsi que sa capacité à représenter les aspects de la nature humaine. Figure éminente de la culture occidentale, Shakespeare continue d’influencer les artistes d’aujourd’hui.</rdfs:comment>
+    <dbpprop:group xml:lang="en">nb</dbpprop:group>
+    <rdfs:label xml:lang="vi">William Shakespeare</rdfs:label>
+    <rdfs:comment xml:lang="hu">William Shakespeare 1564. április 23. (?) – 1616. április 23. / 1616. május 3. ; angol drámaíró, költő, színész. Az angol nyelvű drámaírás egyik legnagyobb alakja. Shakespeare világirodalmi öröksége és hatása a világ minden táján fellelhető. Angliában mint a nemzet dalnokát tisztelik („Bard of Avon”, vagy egyszerűen „The Bard” vagy „az avoni hattyú”). Műveit az élő nyelvek majd mindegyikére lefordították, és színműveit folyamatosan játsszák a világ színpadain.</rdfs:comment>
+    <dbpprop:name xml:lang="en">William Shakespeare</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_poets"/>
+    <dbpprop:occupation xml:lang="en">Playwright, poet, actor</dbpprop:occupation>
+    <dbpedia-owl:abstract xml:lang="uk">Ві́льям Шекспі́р — англійський драматург Єлизаветинської епохи. Один з найвідоміших драматургів світу, автор принаймні 17 комедій, 10 хронік, 11 трагедій, 5 поем і циклу з 154 сонетів.</dbpedia-owl:abstract>
+    <dbpprop:birthPlace xml:lang="en">Stratford-upon-Avon, Warwickshire, England</dbpprop:birthPlace>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://shakespeare.palomar.edu/rowe.htm"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:17th-century_English_people"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://web.archive.org/web/20070516062509/http:/findarticles.com/p/articles/mi_qa3709/is_199810/ai_n8827074"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-26</dbpprop:birthDate>
+    <dbpedia-owl:abstract xml:lang="pl">William Szekspir – angielski poeta, dramaturg, aktor. Powszechnie uważany za jednego z najwybitniejszych pisarzy literatury angielskiej oraz reformatorów teatru. Napisał około 40 sztuk, 154 sonety, a także wiele utworów innych gatunków. Mimo że cieszył się popularnością już za życia, jego sława rosła głównie po śmierci, dopiero wtedy został zauważony przez prominentne osobistości. Uważa się go za poetę narodowego Anglii. Eksperci uważają, że większość swoich prac napisał między 1586 a 1612 rokiem. Przedmiotem ciągłej debaty jest ich chronologia, a nawet kwestia autorstwa większości z nich. Był jednym z niewielu dramaturgów, którzy z powodzeniem tworzyli zarówno komedie jak i tragedie. Sztuki Szekspira zostały przetłumaczone na wszystkie najważniejsze języki nowożytne, inscenizacje mają miejsce na całym świecie. Jest również najczęściej cytowanym pisarzem anglojęzycznego świata. Wiele jego neologizmów weszło do codziennego użycia. Lista słów, które wprowadził do języka angielskiego, liczy około 600 pozycji. Przez lata dyskutowano na temat jego życia, orientacji seksualnej i religijności.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="cs">William Shakespeare</rdfs:label>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_England"/>
+    <dbpedia-owl:abstract xml:lang="fr">William Shakespeare, né probablement le 23 avril 1564 à Stratford-upon-Avon et mort le 23 avril 1616 dans la même ville, est considéré comme l'un des plus grands poètes, dramaturges et écrivains de la culture anglaise. Il est réputé pour sa maîtrise des formes poétiques et littéraires, ainsi que sa capacité à représenter les aspects de la nature humaine. Figure éminente de la culture occidentale, Shakespeare continue d’influencer les artistes d’aujourd’hui. Il est traduit dans un grand nombre de langues et ses pièces sont régulièrement jouées partout dans le monde. Shakespeare est l’un des rares dramaturges à avoir pratiqué aussi bien la comédie que la tragédie. Shakespeare écrivit trente-sept œuvres dramatiques entre les années 1580 et 1613. Mais la chronologie exacte de ses pièces est encore sujette à discussion. Cependant, le volume de ses créations n'apparaît pas comme exceptionnel en regard des critères de l’époque. On mesure l’influence de Shakespeare sur la culture anglo-saxonne en observant les nombreuses références qui lui sont faites, que ce soit à travers des citations, des titres d’œuvres ou les innombrables adaptations de ses œuvres. L'anglais est d'ailleurs souvent surnommé la langue de Shakespeare tant cet auteur a marqué la langue de son pays en inventant de nombreux termes et expressions. Certaines citations d'ailleurs sont passées telles quelles dans le langage courant.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpprop:source xml:lang="en">—Lines from Shakespeare's Sonnet 18.</dbpprop:source>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/William_Shakespeare"/>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwIuzNJwpEbGdrcN5Y29ycA"/>
+    <rdfs:comment xml:lang="fi">William Shakespeare oli englantilainen näytelmäkirjailija ja runoilija. Häntä pidetään yhtenä merkittävimmistä kirjailijoista kautta historian ja eräänä etevimpänä englannin kielen taitajana. Shakespeare kirjoitti useita näytelmiä, niin tragedioita kuin komedioita, sonetteja ja runoja. Shakespeare kirjoitti teoksensa vuosina 1585–1613, mutta näytelmien kirjoitusjärjestystä ei tiedetä varmasti.</rdfs:comment>
+    <ns9:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/William_Shakespeare?oldid=494218263"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://shakespeare.palomar.edu/default.htm"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1616-04-23</dbpedia-owl:deathDate>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.opensourceshakespeare.org/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/dol/images/examples/pdfs/shakespeare.pdf"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://digital.lib.muohio.edu/shakespeare/"/>
+    <dbpedia-owl:abstract xml:lang="sv">William Shakespeare (tidigare även Shakspere eller Shakespear), föddes1564 i Stratford-upon-Avon, Warwickshire, död 23 april 1616 i Stratford-upon-Avon, var en engelsk dramatiker, poet och skådespelare. Shakespeare ses av många inte bara som Englands nationalskald utan också som världslitteraturens främste dramatiker genom tiderna. Redan hans samtida kollega Ben Jonson sade: "Shakespeare was not of an age, but for all time" ("Shakespeare var inte tidsbunden, utan för evigt"). Han har kallats the Bard of Avon och the Swan of Avon ("Avons svan"). Den dramatiska verksamheten under den elisabetanska eran ägde till stor del rum vid Globe Theatre där han var delägare, belägen i Southwark i London.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_King_Edward_VI_School_Stratford-upon-Avon"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.findarticles.com/p/articles/mi_qa3709/is_199810/ai_n8827074"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_England"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/ebooks/search/?query=shakespeare"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.081k8"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Macduff's_son">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ysabeau_S._Wilce">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Franzen">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugenio_Montale">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Hamlet">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_C._Loudon">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Stendhal">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tempest_(1982_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Lear_(1971_USSR_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_and_Cleopatra_(1974_TV_drama)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Love_Is_All_There_Is">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugo_Dyson">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:genre rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Willaim_shakespear">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joss_Whedon">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Orson_Welles">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nurse_(Romeo_and_Juliet)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespeare's">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Shakespeare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gertrude_(Hamlet)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wiliiam_shakespear">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saul_Bellow">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Helena_(A_Midsummer_Night's_Dream)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_III_(1912_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespere">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Virgil">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet_Goes_Business">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_de_Montaigne">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Omkara_(film)">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaja-Pshavela">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Romie-0_and_Julie-8">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Men_of_Respect">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Portia_(Merchant_of_Venice)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet_(1990_film)">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Viola_(Twelfth_Night)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Return_to_the_Forbidden_Planet">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ginn_Hale">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Plautus">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Quiney">
-    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joaquim_Maria_Machado_de_Assis">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Chaucer">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Stuart_period">
-    <dbpprop:source rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shake_speare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Perdita_(The_Winter's_Tale)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/As_You_Like_It_(2006_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/England">
-    <dbpprop:source rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T._S._Eliot">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Shakespeare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_shakespare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_(2006_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Haruki_Murakami">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Auster">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Shakespeare_biography">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/One_Hamlet_Less">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cho'lpon">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Iris_Murdoch">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fabio_Vittorini">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweet_Swan_of_Avon">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/VVilliam_Shake%E1%B6%98peare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_shakspeare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_III_(1995_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Othello_(1955_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiss_Me,_Kate">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_shekspere">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakspere,_William">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Catch_My_Soul">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_shakesphere">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Swan_of_Avon">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosaline">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakesepere">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Allan_Bloom">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:mainInterest rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:mainInterests rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maya_Angelou">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Caesar_(1970_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Hugo">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gunasundari_Katha">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Faulkner">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shylock">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_Pessoa">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_shakespeare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sycorax">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Lear_(2008_TV_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulta_Palta">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wendell_Berry">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Foretelling">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_V_(1944_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Cleese">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bandanna_(opera)">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Burleigh_Smith">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Merchant_of_Venice_(unfinished_film)">
-    <dbpprop:play rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercutio">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Much_Ado_About_Nothing_(2012_film)">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caliban">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Horatio_(Hamlet)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Midsummer_Night's_Dream_(1959_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chimes_at_Midnight">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Romeo_and_Juliet_(1955_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Tempest_(1979_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Rawlings">
-    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Roderigo">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Gravediggers">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/August_Strindberg">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Skakespeare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Folio">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakesepare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Lear_(1953_TV_drama)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Regan_(King_Lear)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_(1987_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_(1908_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Emily_Bront%C3%AB">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mihai_Eminescu">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Macbeth">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Rivette">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ursula_K._Le_Guin">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Benvolio">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_(Twelfth_Night)">
-    <dbpedia-owl:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Petruchio">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ovid">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Twelfth_Night_(1955_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Best_of_Both_Worlds_(musical)">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Taming_of_the_Shrew_(1929_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Lear_(1987_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonio_(Merchant_of_Venice)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Donalbain_(Macbeth)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Romeo_and_Juliet_(1968_film)">
-    <dbpprop:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Midsummer_Night's_Dream">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Side_Story">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Almeida_Garrett">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Clare">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/W._Shakespeare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/King_of_Texas">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_Shakespearan_art">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Kesey">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred,_Lord_Tennyson">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Woolf">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakesphere">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Shake-speare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Shakes">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Susanna_Hall">
-    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Midsummer_Night's_Dream_(1909_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Merry_Wives_of_Windsor_(1950_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Journey_to_Melonia">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jo%C5%BEe_Javor%C5%A1ek">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Emilia_(Othello)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet_(1996_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Hathaway_(Shakespeare)">
-    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/2985_Shakespeare">
-    <dbpprop:namedAfter rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Rothfuss">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespeare,_Wm">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Shakepeare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Rice">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_recurring_actors_and_actresses_in_the_James_Bond_film_series">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Miho_Mosulishvili">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Shakespeare's">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bianca_Minola">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Angelic_Conversation_(film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hartley_Coleridge">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ariel_(The_Tempest)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Taming_of_the_Shrew_(1908_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Midsummer_Night's_Dream_(1968_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_Greenblatt">
-    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <skos:subject rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Iago">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespeare's_sonnets">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Othello_(1995_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_B%C3%BCchner">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gulielmus_Shakspere">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespear">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clarissa_Pinkola_Est%C3%A9s">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_(1978_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/VViliam_shakespeare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Christian_Andersen">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Claudius">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Romeo_and_Juliet_(1916_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bollywood_Queen">
-    <dbpprop:writtenBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Caesar_(1950_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_(1916_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespearean_theatre">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet_(2000_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Juliusz_S%C5%82owacki">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Banquo">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/MacHomer">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cordelia_(King_Lear)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_(King_Lear)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Acting_Hamlet_in_the_Village_of_Mrdusa_Donja">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosalind_(As_You_Like_It)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Shakespere">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespire">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Scott">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Speare">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bianca_(Othello)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcel_Proust">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Romeo_and_Juliet_(1954_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabantio">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lone_Star_Love">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Macduff_(Macbeth)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet_(1964_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/As_You_Like_It_(1936_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Turgenev">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Klingon_Hamlet">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Pushkin">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Judith_Quiney">
-    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Williams_(character)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghost_(Hamlet)">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Pory">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Araminta_Star_Matthews">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_(1960_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucian">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_Spenser">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespeare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Lear_(1983_TV_drama)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakspeare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Momtazuddin_Ahmed_(dramatist)">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet_(1969_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/E._A._J._Honigmann">
-    <dbpprop:occupation rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Romeo">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Shakspere">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespearian">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bryan_Reynolds">
-    <dbpedia-owl:philosophicalSchool rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:mainInterests rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:mainInterest rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:schoolTradition rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Hughes">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespeare_(crater)">
-    <dbpprop:eponym rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Pinter">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Volumnia">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Fowles">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Steven_Millhauser">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Goneril">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephenie_Meyer">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Throne_of_Blood">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Midsummer_Night's_Rave">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet_(EWTC_show)">
-    <dbpprop:creatorname rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Bloom">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Browning">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wm._Shakespeare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_and_Cleopatra_(1972_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Looking_for_Richard">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Brown">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fritz_Leiber">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sigmund_Freud">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosencrantz_and_Guildenstern">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Thomas_Fraser">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Donne">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/She's_the_Man">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Yorick">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Seamus_Heaney">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet_(2009_TV_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bard_of_Avon">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_Burgess">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Theodore_Dalrymple">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/World_Shakespeare_Bibliography">
-    <dbpedia-owl:academicDiscipline rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:discipline rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Simon_Forman">
-    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespearean">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Shakespeare_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Merchant_of_Venice">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeff_Andrus">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Aguecheek">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederic_Manning">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rick_Hautala">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Maori_Merchant_of_Venice">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Othello_(1965_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Romeo_&amp;_Juliet:_Sealed_with_a_Kiss">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespeere">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Two_Gentlemen_of_Verona_(musical)">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_III_(2008_film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gotthold_Ephraim_Lessing">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_Luca_Caragiale">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Blixen">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Twelfth_Night_(1988_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/WilliamShakespeare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Crabbe">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Count_Paris">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Wilde">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Javier_Mar%C3%ADas">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Shakspeare">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespears">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Burton's_Hamlet">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaliyattam">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Belle_of_Mayfair">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/O%C4%9Fuz_Atay">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Souli_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Thomson_(poet)">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Real_Thing_at_Last">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Boys_from_Syracuse_(film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Romanoff_and_Juliet_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Friar_Laurence">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespeare_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Len_Cabral">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Merchant_of_Venice_(1916_film)">
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/BBC_Television_Shakespeare">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Bard_of_Avon">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maqbool">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1564_births"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</dbpprop:deathDate>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpprop:period rdf:resource="http://dbpedia.org/resource/English_Renaissance"/>
+    <dbpprop:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">250</dbpprop:imageSize>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bartleby.com/70/50018.html"/>
+    <rdfs:comment xml:lang="en">William Shakespeare (baptised 26 April 1564; died 23 April 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His surviving works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and several other poems.</rdfs:comment>
+    <dbpprop:quote xml:lang="en">"He was not of an age, but for all time."</dbpprop:quote>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/William_Shakespeare"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/William_Shakespeare"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/William_Shakespeare"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://internetshakespeare.uvic.ca/"/>
+    <rdfs:comment xml:lang="pt">William Shakespeare foi um poeta e dramaturgo inglês, tido como o maior escritor do idioma inglês e o mais influente dramaturgo do mundo. É chamado frequentemente de poeta nacional da Inglaterra e de "Bardo do Avon" (ou simplesmente The Bard, "O Bardo"). De suas obras restaram até os dias de hoje 38 peças, 154 sonetos, dois longos poemas narrativos, e diversos outros poemas.</rdfs:comment>
+    <rdfs:label xml:lang="en">William Shakespeare</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://durer.press.illinois.edu/baldwin/vol.1/html/index.html"/>
+    <dbpedia-owl:abstract xml:lang="de">William Shakespeare war ein englischer Dramatiker, Lyriker und Schauspieler. Seine Komödien und Tragödien gehören zu den bedeutendsten und am meisten aufgeführten und verfilmten Bühnenstücken der Weltliteratur. Sein überliefertes Gesamtwerk umfasst 38 Dramen, außerdem Versdichtungen, darunter einen Zyklus von 154 Sonetten.</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Reflist"/>
+    <dbpprop:lccn xml:lang="en">n/78/95332</dbpprop:lccn>
+    <rdfs:comment xml:lang="sv">William Shakespeare (tidigare även Shakspere eller Shakespear), föddes1564 i Stratford-upon-Avon, Warwickshire, död 23 april 1616 i Stratford-upon-Avon, var en engelsk dramatiker, poet och skådespelare. Shakespeare ses av många inte bara som Englands nationalskald utan också som världslitteraturens främste dramatiker genom tiderna. Redan hans samtida kollega Ben Jonson sade: "Shakespeare was not of an age, but for all time" ("Shakespeare var inte tidsbunden, utan för evigt").</rdfs:comment>
   </rdf:Description>
 </rdf:RDF>

@@ -8,121 +8,121 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/94401473/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/94401473"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C029386888#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:altLabel>Hewitt, John, 1907-1987</skos:altLabel>
-    <skos:prefLabel>Hewitt, John Harold, 1907-1987</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/94401473/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjs20030428003#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <skos:prefLabel>Hewitt, John Harold, 1907-1987</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C124133568#skos:Concept">
-    <skos:altLabel>Hewitt, John H. 1907-1987</skos:altLabel>
-    <skos:prefLabel>Hewitt, John Harold, 1907-1987</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
-    <skos:altLabel>Hewitt, John, 1907-1987</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJohn_Hewitt_(poet)#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hewitt, John</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50047981#skos:Concept">
-    <skos:altLabel>Hewitt, John, 1907-1987</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50047981"/>
-    <skos:prefLabel>Hewitt, John Harold, 1907-1987</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00015443#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Hewitt, John Harold, 1907-1987</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:altLabel>Hewitt, John.</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069453950#skos:Concept">
-    <skos:prefLabel>Hewitt, John (John Harold), 1907-1987</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C207142#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/207142#concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hewitt, John, 1907-1987</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C03279455X#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Hewitt, John, 1907-1987</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:prefLabel>Hewitt, John Harold, 1907-1987</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12102506#skos:Concept">
-    <skos:altLabel>Hewitt, John, 1907-1987</skos:altLabel>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12102506j"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Hewitt, John Harold, 1907-1987</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12102506j"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/94401473/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/94401473"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/94401473/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036163340#skos:Concept">
-    <skos:prefLabel>Hewitt, John Harold, 1907-1987</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12102506#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Hewitt, John, 1907-1987</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
+    <skos:altLabel>Hewitt, John, 1907-1987</skos:altLabel>
+    <skos:prefLabel>Hewitt, John Harold, 1907-1987</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12102506j"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12102506j"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/94401473">
-    <foaf:name>Hewitt, John Harold, 1907-1987</foaf:name>
-    <foaf:name>Hewitt, John Harold</foaf:name>
-    <foaf:name>Hewitt, John, poète irlandais</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Hewitt, John.</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Hewitt, John H. 1907-1987</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/029386888/id"/>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/207142"/>
-    <foaf:name>Hewitt, John, 1907-1987</foaf:name>
-    <rdaGr2:dateOfDeath>1987</rdaGr2:dateOfDeath>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/124133568"/>
-    <rdaGr2:dateOfBirth>1907-10-28</rdaGr2:dateOfBirth>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/John_Hewitt_(poet)"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12102506j#foaf:Person"/>
-    <foaf:name>Hewitt, John</foaf:name>
-    <foaf:name>Hewitt, John (John Harold), 1907-1987</foaf:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/94401473/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/94401473"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls000080199#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:altLabel>Hewitt, John, poète irlandais</skos:altLabel>
     <skos:prefLabel>Hewitt, John Harold</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C124133568#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
+    <skos:prefLabel>Hewitt, John Harold, 1907-1987</skos:prefLabel>
+    <skos:altLabel>Hewitt, John, 1907-1987</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Hewitt, John H. 1907-1987</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C03279455X#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Hewitt, John, 1907-1987</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Hewitt, John Harold, 1907-1987</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50047981#skos:Concept">
+    <skos:prefLabel>Hewitt, John Harold, 1907-1987</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50047981"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
+    <skos:altLabel>Hewitt, John, 1907-1987</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069453950#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
+    <skos:prefLabel>Hewitt, John (John Harold), 1907-1987</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJohn_Hewitt_(poet)#skos:Concept">
+    <skos:prefLabel>Hewitt, John</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/94401473">
+    <foaf:name>Hewitt, John.</foaf:name>
+    <foaf:name>Hewitt, John</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/John_Hewitt_(poet)"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/207142"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12102506j#foaf:Person"/>
+    <foaf:name>Hewitt, John, 1907-1987</foaf:name>
+    <foaf:name>Hewitt, John Harold, 1907-1987</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/124133568"/>
+    <foaf:name>Hewitt, John, poète irlandais</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/029386888/id"/>
+    <rdaGr2:dateOfDeath>1987</rdaGr2:dateOfDeath>
+    <foaf:name>Hewitt, John Harold</foaf:name>
+    <rdaGr2:dateOfBirth>1907-10-28</rdaGr2:dateOfBirth>
+    <foaf:name>Hewitt, John (John Harold), 1907-1987</foaf:name>
+    <foaf:name>Hewitt, John H. 1907-1987</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C029386888#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Hewitt, John Harold, 1907-1987</skos:prefLabel>
+    <skos:altLabel>Hewitt, John, 1907-1987</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C207142#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:prefLabel>Hewitt, John, 1907-1987</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/207142#concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036163340#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:prefLabel>Hewitt, John Harold, 1907-1987</skos:prefLabel>
+    <skos:altLabel>Hewitt, John, 1907-1987</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00015443#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Hewitt, John Harold, 1907-1987</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/94401473"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Hewitt, John.</skos:altLabel>
   </rdf:Description>
 </rdf:RDF>

@@ -9,41 +9,32 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Duncan_Forbes_(poet)">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Duncan_Forbes_(poet)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Duncan_Forbes_%28poet%29">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Duncan_Forbes_(poet)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Duncan_Forbes">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Duncan_Forbes_(poet)"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Duncan_Forbes_(poet)">
+    <rdfs:comment xml:lang="en">Duncan Forbes (born 1947) is a British poet. He studied English at Corpus Christi College in Oxford. He works as a teacher.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfCorpusChristiCollege,Oxford"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_poets"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.versedaily.org/aboutduncanforbes.shtml"/>
+    <foaf:givenName xml:lang="en">Duncan</foaf:givenName>
+    <dbpprop:name xml:lang="en">Forbes, Duncan</dbpprop:name>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02qy9xp"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Duncan_Forbes_(poet)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishPoets"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1947_births"/>
+    <dbpedia-owl:abstract xml:lang="en">Duncan Forbes (born 1947) is a British poet. He studied English at Corpus Christi College in Oxford. He works as a teacher.</dbpedia-owl:abstract>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1947</dbpprop:dateOfBirth>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Duncan_Forbes_(poet)"/>
+    <foaf:surname xml:lang="en">Forbes</foaf:surname>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Duncan_Forbes_(poet)?oldid=450767731"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.enitharmon.co.uk"/>
+    <foaf:name xml:lang="en">Duncan Forbes</foaf:name>
+    <rdfs:label xml:lang="en">Duncan Forbes (poet)</rdfs:label>
     <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.randomhouse.co.uk/harvillsecker"/>
-    <dbpedia-owl:abstract xml:lang="en">Duncan Forbes (born 1947) is a British poet. He studied English at Corpus Christi College in Oxford. He works as a teacher.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Corpus_Christi_College,_Oxford"/>
-    <foaf:surname xml:lang="en">Forbes</foaf:surname>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.societyofauthors.net/soa/page_id_sub.php4?pid=30&amp;parentid=7&amp;par_nm=Prizes,%20grants%20and%20awards"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfCorpusChristiCollege,Oxford"/>
-    <dbpprop:name xml:lang="en">Forbes, Duncan</dbpprop:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02qy9xp"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1947_births"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1947</dbpprop:dateOfBirth>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Duncan_Forbes_(poet)"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.enitharmon.co.uk"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_poets"/>
-    <rdfs:comment xml:lang="en">Duncan Forbes (born 1947) is a British poet. He studied English at Corpus Christi College in Oxford. He works as a teacher.</rdfs:comment>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Duncan_Forbes_(poet)"/>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Duncan_Forbes_(poet)?oldid=450767731"/>
-    <rdfs:label xml:lang="en">Duncan Forbes (poet)</rdfs:label>
-    <foaf:givenName xml:lang="en">Duncan</foaf:givenName>
-    <foaf:name xml:lang="en">Duncan Forbes</foaf:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BritishPoets"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.versedaily.org/aboutduncanforbes.shtml"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Corpus_Christi_College,_Oxford"/>
   </rdf:Description>
 </rdf:RDF>

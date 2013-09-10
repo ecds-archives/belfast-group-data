@@ -7,97 +7,97 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/159099121/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/159099121"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C02871010X#skos:Concept">
-    <skos:altLabel>Royal Shakespeare company (Stratford-upon-Avon, GB)</skos:altLabel>
-    <skos:prefLabel>Royal Shakespeare company</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:altLabel>RSC.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/159099121"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12049074#skos:Concept">
-    <skos:prefLabel>Royal Shakespeare company</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb120490740"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/159099121"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>RSC.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb120490740"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++81119193#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>R.S.C.</skos:altLabel>
-    <skos:prefLabel>Royal Shakespeare company</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n81119193"/>
-    <skos:altLabel>Royal Shakespeare Theatre Company.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/159099121"/>
-    <skos:altLabel>RSC.</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C005077893#skos:Concept">
-    <skos:prefLabel>Royal Shakespeare company</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/159099121"/>
-    <skos:altLabel>Shakespeare Company</skos:altLabel>
-    <skos:altLabel>RSC Abkuerzung</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036113315#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <skos:altLabel>Royal Shakespeare Theatre Company.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/159099121"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Royal Shakespeare company</skos:prefLabel>
-    <skos:altLabel>Shakespeare Memorial Trust Theatre Company</skos:altLabel>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/159099121/#rdaEnt:CorporateBody">
     <owl:sameAs rdf:resource="http://viaf.org/viaf/159099121"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/159099121/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/159099121"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00033342#skos:Concept">
-    <skos:altLabel>RSC.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Royal Shakespeare company</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/159099121"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++81119193#skos:Concept">
     <skos:altLabel>Royal Shakespeare Theatre Company.</skos:altLabel>
+    <skos:altLabel>RSC.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/159099121"/>
+    <skos:prefLabel>Royal Shakespeare company</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>R.S.C.</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n81119193"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/159099121">
-    <foaf:name>Royal Shakespeare company</foaf:name>
-    <foaf:name>Shakespeare Memorial Trust Theatre Company</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
-    <foaf:name>RSC Abkuerzung</foaf:name>
     <foaf:name>Royal Shakespeare Theatre Company.</foaf:name>
-    <foaf:name>RSC.</foaf:name>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/123504533"/>
-    <foaf:name>Shakespeare Company</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/507789-8"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/02871010X/id"/>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/123504533"/>
-    <foaf:name>Royal Shakespeare company (Stratford-upon-Avon, GB)</foaf:name>
     <foaf:name>R.S.C.</foaf:name>
+    <foaf:name>Royal Shakespeare company</foaf:name>
+    <foaf:name>Royal Shakespeare company (Stratford-upon-Avon, GB)</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/123504533"/>
+    <foaf:name>RSC Abkuerzung</foaf:name>
+    <foaf:name>RSC.</foaf:name>
+    <foaf:name>Shakespeare Company</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/02871010X/id"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/CorporateBody"/>
     <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb120490740#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/507789-8"/>
+    <foaf:name>Shakespeare Memorial Trust Theatre Company</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/123504533"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/159099121/#foaf:Organization">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/159099121"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/159099121/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/159099121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C02871010X#skos:Concept">
+    <skos:prefLabel>Royal Shakespeare company</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/159099121"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Royal Shakespeare company (Stratford-upon-Avon, GB)</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>RSC.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C005077893#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Shakespeare Company</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/159099121"/>
+    <skos:altLabel>RSC Abkuerzung</skos:altLabel>
+    <skos:prefLabel>Royal Shakespeare company</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036113315#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/159099121"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:prefLabel>Royal Shakespeare company</skos:prefLabel>
+    <skos:altLabel>Royal Shakespeare Theatre Company.</skos:altLabel>
+    <skos:altLabel>Shakespeare Memorial Trust Theatre Company</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00033342#skos:Concept">
+    <skos:altLabel>Royal Shakespeare Theatre Company.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:altLabel>RSC.</skos:altLabel>
+    <skos:prefLabel>Royal Shakespeare company</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/159099121"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/159099121/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/159099121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12049074#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb120490740"/>
+    <skos:altLabel>RSC.</skos:altLabel>
+    <skos:prefLabel>Royal Shakespeare company</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/159099121"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb120490740"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Ckn20051018022#skos:Concept">
     <skos:altLabel>Royal Shakespeare Theatre Company.</skos:altLabel>
-    <skos:prefLabel>Royal Shakespeare company</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:altLabel>RSC.</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:prefLabel>Royal Shakespeare company</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/159099121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/159099121/#foaf:Organization">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/159099121"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
 </rdf:RDF>

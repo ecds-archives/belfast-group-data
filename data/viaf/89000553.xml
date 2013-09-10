@@ -9,311 +9,317 @@
    xmlns:void="http://rdfs.org/ns/void#"
 >
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CGeorge_Eliot#skos:Concept">
-    <skos:prefLabel>Eliot, George</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Eliot, George</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C27556#skos:Concept">
-    <skos:altLabel>Evans, Mary Ann, 1819-1880</skos:altLabel>
-    <skos:prefLabel>Eliot, George, pseud.</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000027297#skos:Concept">
+    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <skos:altLabel>Элиот, Джордж, 1819-1880</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/RERO%7Cvtls000057080#skos:Concept">
-    <skos:altLabel>Evans Lewes Cross, Mary Ann</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
     <skos:prefLabel>Eliot, George</skos:prefLabel>
     <skos:altLabel>Cross, Mary Ann</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/RERO"/>
     <skos:altLabel>Evans, Marian.</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027272338#skos:Concept">
-    <skos:altLabel>Evans, Mary Ann, 1819-1880</skos:altLabel>
-    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Evans Lewes Cross, Mary Ann</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Evans Cross, Mary Ann, 1819-1880</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
-    <skos:altLabel>Cross, Mary Ann Evans, 1819-1880</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/89000553/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000043170#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>Lewes, Marian, 1819-1880</skos:altLabel>
+    <skos:altLabel>איבנס, מרי נ</skos:altLabel>
+    <skos:altLabel>אונס, מאריאן</skos:altLabel>
+    <skos:altLabel>Cross, Marian Evans, 1819-1880</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
+    <skos:altLabel>עליאט, ג'ורג', 1819-1880</skos:altLabel>
+    <skos:altLabel>אונס, מרי אן</skos:altLabel>
+    <skos:altLabel>איבנס, מרי אן</skos:altLabel>
+    <skos:altLabel>Evans, Marian, 1819-1880</skos:altLabel>
+    <skos:altLabel>Эванс, Мэри Энн, 1819-1880</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035061145#skos:Concept">
+    <skos:altLabel>Evans, Marian, 1819-1880</skos:altLabel>
     <skos:altLabel>Elliŏtʻū, Choji, 1819-1880</skos:altLabel>
-    <skos:altLabel>Ėliot, Dzhordzh, 1819-1880</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Eliyaṭ, Jārj, 1819-1880</skos:altLabel>
     <skos:altLabel>Lewes, Marian Evans, 1819-1880</skos:altLabel>
     <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
-    <skos:altLabel>Cross, Marian Evans, 1819-1880</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <skos:altLabel>Eliot, Džordž, 1819-1880</skos:altLabel>
-    <skos:altLabel>Evans, Mary Anne, 1819-1880</skos:altLabel>
-    <skos:altLabel>Evans, Marian, 1819-1880</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
-    <skos:altLabel>Eliyaṭ, Jārj, 1819-1880</skos:altLabel>
-    <skos:altLabel>Lewes, M. E. (Marian Evans), 1819-1880</skos:altLabel>
+    <skos:altLabel>Cross, Marian Evans, 1819-1880</skos:altLabel>
     <skos:altLabel>Cross, Mary Ann, 1819-1880</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+    <skos:altLabel>Ėliot, Dzhordzh, 1819-1880</skos:altLabel>
+    <skos:altLabel>Lewes, M. E. (Marian Evans), 1819-1880</skos:altLabel>
     <skos:altLabel>Eliot, George, pseud., i.e. Marian Evans, afterwards Cross, 1819-1880</skos:altLabel>
+    <skos:altLabel>Evans, Mary Anne, 1819-1880</skos:altLabel>
+    <skos:altLabel>Eliot, Džordž, 1819-1880</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79045512#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+    <skos:altLabel>Cross, Mary Ann, 1819-1880</skos:altLabel>
+    <skos:altLabel>עליאט, דזשארדזש, 1819־1880</skos:altLabel>
+    <skos:altLabel>Elliŏtʻū, Choji, 1819-1880</skos:altLabel>
+    <skos:altLabel>Eliot, Džordž, 1819-1880</skos:altLabel>
+    <skos:altLabel>Evans, Marian, 1819-1880</skos:altLabel>
+    <skos:altLabel>Lewes, M. E. (Marian Evans), 1819-1880</skos:altLabel>
+    <skos:altLabel>עליוט, גי׳ארג׳, 1819־1880</skos:altLabel>
+    <skos:altLabel>אליוט, ג׳ַַורג׳</skos:altLabel>
+    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
+    <skos:altLabel>עליוט ג׳יארג׳, 1819־1880</skos:altLabel>
+    <skos:altLabel>Ėliot, Dzhordzh, 1819-1880</skos:altLabel>
+    <skos:altLabel>עליאט, דזשארדזש</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79045512"/>
+    <skos:altLabel>אליוט, ג׳ורג׳, 1819־1880</skos:altLabel>
+    <skos:altLabel>אליוט, ג׳ורג׳, 1880־1819</skos:altLabel>
+    <skos:altLabel>Eliyaṭ, Jārj, 1819-1880</skos:altLabel>
+    <skos:altLabel>Evans, Mary Anne, 1819-1880</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>עליוט, ג׳רארג׳, 1819־1880</skos:altLabel>
+    <skos:altLabel>Lewes, Marian Evans, 1819-1880</skos:altLabel>
+    <skos:altLabel>Cross, Marian Evans, 1819-1880</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00438796#skos:Concept">
-    <skos:altLabel>エリオット, G</skos:altLabel>
     <skos:altLabel>Mary Ann Evans</skos:altLabel>
-    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
-    <skos:altLabel>エリオット, ジョージ</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+    <skos:altLabel>エリオット, ジョージ</skos:altLabel>
+    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>エリオット, G</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19981000965#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
-    <skos:altLabel>Evans, Marian, 1819-1880</skos:altLabel>
-    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
-    <skos:altLabel>Cross, Mary Ann, 1819-1880</skos:altLabel>
-    <skos:altLabel>Lewes, M. E. (Marian Evans), 1819-1880</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <skos:altLabel>Lewes, Marian Evans, 1819-1880</skos:altLabel>
     <skos:altLabel>Cross, Marian Evans, 1819-1880</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Evans, Mary Anne, 1819-1880</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX836677#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
-    <skos:altLabel>Evans, Marian, 1819-1880</skos:altLabel>
     <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
-    <skos:altLabel>Cross, Mary Ann Evans, 1819-1880</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
     <skos:altLabel>Lewes, Marian Evans, 1819-1880</skos:altLabel>
-    <skos:altLabel>Evans Cross, Mary Ann, 1819-1880</skos:altLabel>
-    <skos:altLabel>Lewes, Marian, 1819-1880</skos:altLabel>
+    <skos:altLabel>Evans, Marian, 1819-1880</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:altLabel>Evans, Mary Anne, 1819-1880</skos:altLabel>
+    <skos:altLabel>Lewes, M. E. (Marian Evans), 1819-1880</skos:altLabel>
+    <skos:altLabel>Cross, Mary Ann, 1819-1880</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca21057527#skos:Concept">
+    <skos:altLabel>Cross, Mary Ann Evans.</skos:altLabel>
+    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Evans, Marian.</skos:altLabel>
     <skos:altLabel>Evans, Mary Ann, 1819-1880</skos:altLabel>
+    <skos:altLabel>Evans Cross, Mary Ann.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C27556#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Eliot, George, pseud.</skos:prefLabel>
+    <skos:altLabel>Evans, Mary Ann, 1819-1880</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001070547#skos:Concept">
+    <skos:prefLabel>اليوت، جورج، 1819-1880</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+    <skos:altLabel>جورج اليوت، 1819-1880</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/89000553/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/89000553"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118529846#skos:Concept">
-    <skos:altLabel>Evans, Mary Ann 1819-1880 Wirklicher Name</skos:altLabel>
-    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
-    <skos:altLabel>Cross, Marian Evans, 1819-1880</skos:altLabel>
-    <skos:altLabel>Evans Lewes Cross, Mary Ann 1819-1880</skos:altLabel>
-    <skos:altLabel>Elliŏtʻū, Choji, 1819-1880</skos:altLabel>
-    <skos:altLabel>Eliot, Georg 1819-1880</skos:altLabel>
-    <skos:altLabel>Lewes, Marian Evans, 1819-1880</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:altLabel>Cross, Marian 1819-1880</skos:altLabel>
-    <skos:altLabel>Lewes, M. E. 1819-1880</skos:altLabel>
-    <skos:altLabel>Evans, Mary A. 1819-1880</skos:altLabel>
     <skos:altLabel>Evans, Marian, 1819-1880</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+    <skos:altLabel>Cross, Marian 1819-1880</skos:altLabel>
+    <skos:altLabel>Eliot, Georg 1819-1880</skos:altLabel>
+    <skos:altLabel>Elliŏtʻū, Choji, 1819-1880</skos:altLabel>
+    <skos:altLabel>Evans, Mary Ann 1819-1880 Wirklicher Name</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Lewes, M. E. 1819-1880</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
+    <skos:altLabel>Cross, Marian Evans, 1819-1880</skos:altLabel>
     <skos:altLabel>Lewes Cross, Mary Ann Evans 1819-1880</skos:altLabel>
+    <skos:altLabel>Lewes, Marian Evans, 1819-1880</skos:altLabel>
+    <skos:altLabel>Evans, Mary A. 1819-1880</skos:altLabel>
     <skos:altLabel>Cross, Mary Ann, 1819-1880</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/89000553/#foaf:Person">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/89000553"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <skos:altLabel>Evans Lewes Cross, Mary Ann 1819-1880</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11901663#skos:Concept">
-    <skos:altLabel>j Evans Cross Mary Ann 1819-1880</skos:altLabel>
-    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
-    <skos:altLabel>Evans, Mary Ann, 1819-1880</skos:altLabel>
-    <skos:altLabel>j Cross Mary Ann Evans 1819-1880</skos:altLabel>
+    <skos:altLabel>Cross, Mary Ann Evans, 1819-1880</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11901663n"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Evans, Mary Ann, 1819-1880</skos:altLabel>
+    <skos:altLabel>Evans Cross, Mary Ann, 1819-1880</skos:altLabel>
     <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11901663n"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11901663n"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0041C1679#skos:Concept">
     <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
-    <skos:altLabel>Cross, Marian Evans, 1819-1880</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
-    <skos:altLabel>Eliot, Mary Ann Evans, dite George, 1819-1880</skos:altLabel>
-    <skos:altLabel>Eliot, George</skos:altLabel>
-    <skos:altLabel>Evans, Marian, 1819-1880</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <skos:altLabel>Cross, Mary Ann Evans, 1819-1880</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Cross, Marian Evans</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068297653#skos:Concept">
-    <skos:altLabel>Iliyaṭa, Jārja</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
-    <skos:altLabel>Ilyūt, Ǧūrǧ</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Eliot, George</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/89000553">
-    <foaf:name>جورج اليوت، 1819-1880</foaf:name>
-    <foaf:name>Eliot, Džordž, 1819-1880</foaf:name>
-    <foaf:name>エリオット, ジョージ</foaf:name>
-    <foaf:name>Cross, Mary Ann</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Eliot"/>
-    <foaf:name>Cross, Mary Ann, 1819-1880</foaf:name>
-    <foaf:name>עליוט, גי׳ארג׳, 1819־1880</foaf:name>
     <foaf:name>אליוט, ג'ורג', 1819-1880</foaf:name>
     <foaf:name>Ėliot, Dzhordzh, 1819-1880</foaf:name>
     <foaf:name>اليوت، جورج، 1819-1880</foaf:name>
+    <foaf:name>Элиот, Джорж, 1819-1880</foaf:name>
+    <foaf:name>אליוט, ג׳ורג׳, 1819־1880</foaf:name>
+    <foaf:name>Элиот, Джордж, 1819-1880</foaf:name>
+    <foaf:name>עליאט, דזשארדזש, 1819־1880</foaf:name>
+    <foaf:name>עליוט, גי׳ארג׳, 1819־1880</foaf:name>
+    <foaf:name>Ilyūt, Ǧūrǧ</foaf:name>
+    <foaf:name>Cross, Marian Evans, 1819-1880</foaf:name>
+    <foaf:name>Mary Ann Evans</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118529846"/>
+    <foaf:name>Evans, Marian.</foaf:name>
+    <rdaGr2:dateOfDeath>1880-12-22</rdaGr2:dateOfDeath>
+    <foaf:name>אליוט, ג׳ורג׳, 1880־1819</foaf:name>
+    <foaf:name>エリオット, G</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11901663n#foaf:Person"/>
+    <foaf:name>איבנס, מרי נ</foaf:name>
+    <foaf:name>Evans, Mary A. 1819-1880</foaf:name>
+    <foaf:name>Evans Lewes Cross, Mary Ann 1819-1880</foaf:name>
+    <foaf:name>Eliot, Georg 1819-1880</foaf:name>
+    <foaf:name>Evans, Mary Anne, 1819-1880</foaf:name>
+    <foaf:name>Iliyaṭa, Jārja</foaf:name>
+    <foaf:name>エリオット, ジョージ</foaf:name>
+    <foaf:name>עליאט, ג'ורג', 1819-1880</foaf:name>
     <foaf:name>Evans, M.A.</foaf:name>
-    <foaf:name>עליוט, ג׳רארג׳, 1819־1880</foaf:name>
+    <foaf:name>Lewes Cross, Mary Ann Evans 1819-1880</foaf:name>
+    <foaf:name>Cross, Marian Evans</foaf:name>
+    <foaf:name>Cross, Mary Ann, 1819-1880</foaf:name>
+    <foaf:name>Evans Cross, Mary Ann.</foaf:name>
+    <foaf:name>Lewes, M. E. 1819-1880</foaf:name>
+    <foaf:name>אליוט, ג׳ַַורג׳</foaf:name>
+    <foaf:name>Lewes, M. E. (Marian Evans), 1819-1880</foaf:name>
+    <foaf:name>עליוט ג׳יארג׳, 1819־1880</foaf:name>
+    <foaf:name>Cross, Mary Ann Evans.</foaf:name>
+    <foaf:name>אונס, מרי אן</foaf:name>
+    <foaf:name>Cross, Mary Anne, 1819-1880</foaf:name>
+    <foaf:name>עליאט, דזשארדזש</foaf:name>
+    <foaf:name>Cross, Marian 1819-1880</foaf:name>
+    <foaf:name>אונס, מאריאן</foaf:name>
+    <foaf:name>Eliot, George, pseud.</foaf:name>
+    <foaf:name>جورج اليوت، 1819-1880</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <foaf:name>Evans, Mary Ann, 1819-1880</foaf:name>
     <foaf:name>Evans, Marian, 1819-1880</foaf:name>
-    <foaf:name>Ilyūt, Ǧūrǧ</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/027272338/id"/>
-    <foaf:name>Cross, Marian 1819-1880</foaf:name>
-    <foaf:name>Cross, Mary Ann Evans, 1819-1880</foaf:name>
-    <foaf:name>Lewes, Marian Evans, 1819-1880</foaf:name>
-    <foaf:name>Cross, Mary Anne, 1819-1880</foaf:name>
-    <foaf:name>Cross, Marian Evans</foaf:name>
-    <foaf:name>אונס, מרי אן</foaf:name>
-    <foaf:name>j Cross Mary Ann Evans 1819-1880</foaf:name>
-    <foaf:name>Evans, Mary A. 1819-1880</foaf:name>
-    <rdaGr2:dateOfDeath>1880-12-22</rdaGr2:dateOfDeath>
-    <foaf:name>Elliŏtʻū, Choji, 1819-1880</foaf:name>
-    <foaf:name>Evans, Marian.</foaf:name>
-    <foaf:name>Evans, Mary Ann 1819-1880 Wirklicher Name</foaf:name>
-    <foaf:name>j Evans Cross Mary Ann 1819-1880</foaf:name>
-    <foaf:name>אליוט, ג׳ורג׳, 1880־1819</foaf:name>
     <foaf:name>Eliot, Mary Ann Evans, dite George, 1819-1880</foaf:name>
-    <foaf:name>Evans Cross, Mary Ann.</foaf:name>
-    <foaf:name>Evans Lewes Cross, Mary Ann</foaf:name>
-    <foaf:name>Eliot, George, 1819-1880</foaf:name>
-    <foaf:name>Lewes, M. E. (Marian Evans), 1819-1880</foaf:name>
-    <foaf:name>Lewes Cross, Mary Ann Evans 1819-1880</foaf:name>
-    <foaf:name>עליאט, דזשארדזש, 1819־1880</foaf:name>
-    <foaf:name>Eliot, Georg 1819-1880</foaf:name>
-    <foaf:name>Lewes, Marian, 1819-1880</foaf:name>
-    <foaf:name>Eliot, George, pseud., i.e. Marian Evans, afterwards Cross, 1819-1880</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <rdaGr2:dateOfBirth>1819-11-22</rdaGr2:dateOfBirth>
-    <foaf:name>אליוט, ג׳ורג׳, 1819־1880</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Eliot, George</foaf:name>
-    <foaf:name>Evans, Mary Anne, 1819-1880</foaf:name>
-    <foaf:name>Cross, Mary Ann Evans.</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/51420"/>
-    <foaf:name>エリオット, G</foaf:name>
-    <foaf:name>Mary Ann Evans</foaf:name>
-    <foaf:name>אונס, מאריאן</foaf:name>
-    <foaf:name>עליאט, דזשארדזש</foaf:name>
-    <foaf:name>עליוט ג׳יארג׳, 1819־1880</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11901663n#foaf:Person"/>
-    <foaf:name>Eliyaṭ, Jārj, 1819-1880</foaf:name>
-    <foaf:name>Eliot, George, pseud.</foaf:name>
-    <foaf:name>Lewes, M. E. 1819-1880</foaf:name>
-    <foaf:name>Элиот, Джорж, 1819-1880</foaf:name>
-    <foaf:name>Эванс, Мэри Энн, 1819-1880</foaf:name>
-    <foaf:name>Evans Lewes Cross, Mary Ann 1819-1880</foaf:name>
-    <foaf:name>Cross, Marian Evans, 1819-1880</foaf:name>
-    <foaf:name>איבנס, מרי נ</foaf:name>
-    <foaf:name>איבנס, מרי אן</foaf:name>
     <foaf:name>Evans Cross, Mary Ann, 1819-1880</foaf:name>
-    <foaf:name>Iliyaṭa, Jārja</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118529846"/>
-    <foaf:name>אליוט, ג׳ַַורג׳</foaf:name>
-    <foaf:name>עליאט, ג'ורג', 1819-1880</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls001070547#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>جورج اليوت، 1819-1880</skos:altLabel>
-    <skos:prefLabel>اليوت، جورج، 1819-1880</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79045512#skos:Concept">
-    <skos:altLabel>Evans, Mary Anne, 1819-1880</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79045512"/>
-    <skos:altLabel>Evans, Marian, 1819-1880</skos:altLabel>
-    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
-    <skos:altLabel>Eliot, Džordž, 1819-1880</skos:altLabel>
-    <skos:altLabel>אליוט, ג׳ורג׳, 1819־1880</skos:altLabel>
-    <skos:altLabel>Cross, Mary Ann, 1819-1880</skos:altLabel>
-    <skos:altLabel>Ėliot, Dzhordzh, 1819-1880</skos:altLabel>
-    <skos:altLabel>Elliŏtʻū, Choji, 1819-1880</skos:altLabel>
-    <skos:altLabel>Lewes, M. E. (Marian Evans), 1819-1880</skos:altLabel>
-    <skos:altLabel>עליוט, גי׳ארג׳, 1819־1880</skos:altLabel>
-    <skos:altLabel>עליוט ג׳יארג׳, 1819־1880</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
-    <skos:altLabel>עליאט, דזשארדזש, 1819־1880</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>אליוט, ג׳ַַורג׳</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:altLabel>אליוט, ג׳ורג׳, 1880־1819</skos:altLabel>
-    <skos:altLabel>Eliyaṭ, Jārj, 1819-1880</skos:altLabel>
-    <skos:altLabel>עליאט, דזשארדזש</skos:altLabel>
-    <skos:altLabel>Lewes, Marian Evans, 1819-1880</skos:altLabel>
-    <skos:altLabel>עליוט, ג׳רארג׳, 1819־1880</skos:altLabel>
-    <skos:altLabel>Cross, Marian Evans, 1819-1880</skos:altLabel>
+    <foaf:name>Cross, Mary Ann</foaf:name>
+    <foaf:name>Эванс, Мэри Энн, 1819-1880</foaf:name>
+    <foaf:name>עליוט, ג׳רארג׳, 1819־1880</foaf:name>
+    <rdaGr2:dateOfBirth>1819-11-22</rdaGr2:dateOfBirth>
+    <foaf:name>Eliyaṭ, Jārj, 1819-1880</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Cross, Mary Ann Evans, 1819-1880</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/51420"/>
+    <foaf:name>איבנס, מרי אן</foaf:name>
+    <foaf:name>Eliot, George, pseud., i.e. Marian Evans, afterwards Cross, 1819-1880</foaf:name>
+    <foaf:name>Evans Lewes Cross, Mary Ann</foaf:name>
+    <foaf:name>Elliŏtʻū, Choji, 1819-1880</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Eliot"/>
+    <foaf:name>Lewes, Marian Evans, 1819-1880</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/027272338/id"/>
+    <foaf:name>Lewes, Marian, 1819-1880</foaf:name>
+    <foaf:name>Eliot, George, 1819-1880</foaf:name>
+    <foaf:name>Eliot, Džordž, 1819-1880</foaf:name>
+    <foaf:name>Evans, Mary Ann 1819-1880 Wirklicher Name</foaf:name>
+    <foaf:name>Eliot, George</foaf:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C51420#skos:Concept">
-    <skos:altLabel>Cross, Mary Ann Evans, 1819-1880</skos:altLabel>
     <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
+    <skos:altLabel>Cross, Mary Ann Evans, 1819-1880</skos:altLabel>
     <skos:altLabel>Evans, Marian, 1819-1880</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
     <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/51420#concept"/>
     <skos:altLabel>Evans, Mary Ann, 1819-1880</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <skos:altLabel>Cross, Mary Anne, 1819-1880</skos:altLabel>
     <skos:altLabel>Evans Cross, Mary Ann, 1819-1880</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000043170#skos:Concept">
-    <skos:altLabel>איבנס, מרי אן</skos:altLabel>
-    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
-    <skos:altLabel>Evans, Marian, 1819-1880</skos:altLabel>
-    <skos:altLabel>Lewes, Marian, 1819-1880</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>עליאט, ג'ורג', 1819-1880</skos:altLabel>
-    <skos:altLabel>Cross, Marian Evans, 1819-1880</skos:altLabel>
-    <skos:altLabel>איבנס, מרי נ</skos:altLabel>
-    <skos:altLabel>אונס, מאריאן</skos:altLabel>
-    <skos:altLabel>Эванс, Мэри Энн, 1819-1880</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
-    <skos:altLabel>אונס, מרי אן</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/89000553/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+    <skos:altLabel>Cross, Mary Anne, 1819-1880</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++94207382#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
-    <skos:altLabel>Cross, Mary Ann Evans.</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:altLabel>Evans, Mary Ann, 1819-1880</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
-    <skos:altLabel>Evans Cross, Mary Ann.</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca21057527#skos:Concept">
     <skos:altLabel>Evans, Mary Ann, 1819-1880</skos:altLabel>
-    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
+    <skos:altLabel>Evans Cross, Mary Ann.</skos:altLabel>
     <skos:altLabel>Cross, Mary Ann Evans.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
-    <skos:altLabel>Evans, Marian.</skos:altLabel>
-    <skos:altLabel>Evans Cross, Mary Ann.</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/89000553/">
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/89000553"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10056312#skos:Concept">
     <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
-    <skos:altLabel>Eliot, Džordž, 1819-1880</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
-    <skos:altLabel>Evans, Mary Anne, 1819-1880</skos:altLabel>
-    <skos:altLabel>Cross, Marian Evans, 1819-1880</skos:altLabel>
-    <skos:altLabel>Lewes, Marian Evans, 1819-1880</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068297653#skos:Concept">
+    <skos:prefLabel>Eliot, George</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:altLabel>Iliyaṭa, Jārja</skos:altLabel>
+    <skos:altLabel>Ilyūt, Ǧūrǧ</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/VLACC%7C000000858#skos:Concept">
-    <skos:prefLabel>Eliot, George</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/VLACC"/>
     <skos:altLabel>Evans, M.A.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+    <skos:prefLabel>Eliot, George</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/VLACC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0041C1679#skos:Concept">
+    <skos:altLabel>Evans, Marian, 1819-1880</skos:altLabel>
+    <skos:altLabel>Eliot, Mary Ann Evans, dite George, 1819-1880</skos:altLabel>
+    <skos:altLabel>Cross, Mary Ann Evans, 1819-1880</skos:altLabel>
+    <skos:altLabel>Cross, Marian Evans, 1819-1880</skos:altLabel>
+    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+    <skos:altLabel>Cross, Marian Evans</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Eliot, George</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027272338#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Evans, Mary Ann, 1819-1880</skos:altLabel>
+    <skos:altLabel>Cross, Mary Ann Evans, 1819-1880</skos:altLabel>
+    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
+    <skos:altLabel>Evans Cross, Mary Ann, 1819-1880</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX836677#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+    <skos:altLabel>Evans, Marian, 1819-1880</skos:altLabel>
+    <skos:altLabel>Lewes, Marian Evans, 1819-1880</skos:altLabel>
+    <skos:altLabel>Cross, Mary Ann Evans, 1819-1880</skos:altLabel>
+    <skos:altLabel>Evans Cross, Mary Ann, 1819-1880</skos:altLabel>
+    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
+    <skos:altLabel>Lewes, Marian, 1819-1880</skos:altLabel>
+    <skos:altLabel>Evans, Mary Ann, 1819-1880</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10056312#skos:Concept">
+    <skos:altLabel>Eliot, Džordž, 1819-1880</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <skos:altLabel>Lewes, Marian Evans, 1819-1880</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/89000553"/>
+    <skos:altLabel>Cross, Marian Evans, 1819-1880</skos:altLabel>
+    <skos:prefLabel>Eliot, George, 1819-1880</skos:prefLabel>
+    <skos:altLabel>Evans, Mary Anne, 1819-1880</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/89000553/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/89000553"/>
   </rdf:Description>
 </rdf:RDF>

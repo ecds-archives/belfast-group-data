@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dolmen_Press">
+    <schema:name xml:lang="en">Dolmen Press</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N74be94f1ce094e579334250c4eb6e74d">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Dolmen_Press"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nba5d83bc67af412fb8fe82717e525063">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Allison_and_busby"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/fallon817/series1/subseries1.4/">
+    <schema:name xml:lang="en">Peter Fallon - Gallery Press collection, circa 1967-1998; Subseries 1.4: O'Brien Press author files, 1980-1985</schema:name>
+    <schema:dateModified xml:lang="en">2013-09-10</schema:dateModified>
+    <schema:mentions rdf:nodeID="N74be94f1ce094e579334250c4eb6e74d"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:mentions rdf:nodeID="Nba5d83bc67af412fb8fe82717e525063"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allison_and_busby">
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <schema:name xml:lang="en">Allison and Busby correspondence</schema:name>
+  </rdf:Description>
+</rdf:RDF>

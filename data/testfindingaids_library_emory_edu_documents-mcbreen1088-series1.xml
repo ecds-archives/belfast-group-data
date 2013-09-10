@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:arch="http://purl.org/archival/vocab/arch#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/262730140">
+    <schema:name xml:lang="en">Joan Newmann</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/120096893">
+    <schema:name xml:lang="en">Medbh McGuckian</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/85878653">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Tom MacIntyre</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/5082602">
+    <schema:name xml:lang="en">Rand Brandes</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/60577">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Eamon Grennan</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/90492836">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Anne Kennedy</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/27303036">
+    <schema:name xml:lang="en">Robert</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/166900766">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">David Mason</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/58320732">
+    <schema:knows rdf:resource="http://viaf.org/viaf/5082602"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/60577"/>
+    <schema:about rdf:resource="http://viaf.org/viaf/58320732"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/27303036"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/262730140"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/262730140"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/5082602"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/27303036"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/60577"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/85878653"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/166900766"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/139786079"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/90492836"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/120096893"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/120096893"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/90492836"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/139786079"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/166900766"/>
+    <arch:correspondedWith rdf:resource="http://viaf.org/viaf/85878653"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/139786079">
+    <schema:name xml:lang="en">Salmon Poetry</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/mcbreen1088/series1/">
+    <schema:name xml:lang="en">Joan McBreen papers; Series 1: Correspondence, 1986-2007</schema:name>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateModified xml:lang="en">2013-09-09</schema:dateModified>
+  </rdf:Description>
+</rdf:RDF>

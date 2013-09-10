@@ -11,672 +11,151 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leeds_Student_Television">
-    <dbpprop:university rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_O'Brien_(British_politician)">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_James_Marsh">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Reade">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Leeds">
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/EducationalOrganization"/>
-    <rdfs:label xml:lang="de">University of Leeds</rdfs:label>
-    <dbpedia-owl:abstract xml:lang="nl">De Universiteit van Leeds is een belangrijke onderzoeksuniversiteit in Engeland en een van de grootste in het Verenigd Koninkrijk met meer dan 32.000 studenten. De universiteit is opgericht in 1904 en maakt deel uit van de zes oorspronkelijke burgeruniversiteiten.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="es">La Universidad de Leeds es una gran universidad de la ciudad de Leeds, West Yorkshire, Inglaterra, fundada en 1904.</dbpedia-owl:abstract>
-    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Leeds"/>
-    <dbpprop:headLabel rdf:resource="http://dbpedia.org/resource/Visitor"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_university"/>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Лидский_университет"/>
-    <dbpedia-owl:type rdf:resource="http://dbpedia.org/resource/Public_university"/>
-    <rdfs:comment xml:lang="pt">A Universidade de Leeds é uma das maiores do Reino Unido, com mais de 32.000 estudantes. É membro do Grupo Russell. Foi fundada em 1904, e é uma das seis universidades cívicas originais. A história da Universidade está ligada com o desenvolvimento de Leeds como um centro internacional de indústria têxtil na era Vitoriana. Suas raízes remontam o século XIX, e antes dessa expansão na educação superior, somente quatro universidades - Oxford, Cambridge, London e Durham - existiam na Inglaterra.</rdfs:comment>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/White_Rose_University_Consortium"/>
-    <dbpprop:free rdf:datatype="http://dbpedia.org/datatype/poundSterling">4.22E8</dbpprop:free>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/University_of_Leeds?oldid=495282370"/>
-    <rdfs:label xml:lang="zh">利兹大学</rdfs:label>
-    <dbpedia-owl:abstract xml:lang="ru">Лидский университет или Университет Лидса — один из крупнейших университетов Великобритании, около 7500 постоянных сотрудников и 32 тыс. очных студентов. Он входит в первую десятку британских университетов как по объему научно-исследовательской работы, так и по количеству студентов. Также входит в группу «университетов из красного кирпича» и в группу Рассел. Кампус университета расположен непосредственно рядом с центром Лидса.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Association_of_Commonwealth_Universities"/>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Russell_Group"/>
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <rdfs:comment xml:lang="nl">De Universiteit van Leeds is een belangrijke onderzoeksuniversiteit in Engeland en een van de grootste in het Verenigd Koninkrijk met meer dan 32.000 studenten. De universiteit is opgericht in 1904 en maakt deel uit van de zes oorspronkelijke burgeruniversiteiten.</rdfs:comment>
-    <dbpedia-owl:viceChancellor rdf:resource="http://dbpedia.org/resource/Michael_Arthur_(academic)"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <dbpedia-owl:abstract xml:lang="uk">Університет Лідса (англ. University of Leeds) — один з найбільших університетів Великобританії, близько 7500 постійних співробітників і 32 тис. очних студентів. Він входить до першої десятки британських університетів як за обсягом науково-дослідної роботи, так і за кількістю студентів. Кампус університету розташований безпосередньо поряд з центром Лідса.</dbpedia-owl:abstract>
-    <dbpedia-owl:endowment rdf:datatype="http://dbpedia.org/datatype/poundSterling">4.928E7</dbpedia-owl:endowment>
-    <dbpedia-owl:province rdf:resource="http://dbpedia.org/resource/West_Yorkshire"/>
-    <dbpedia-owl:numberOfPostgraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9505</dbpedia-owl:numberOfPostgraduateStudents>
     <dbpedia-owl:head rdf:resource="http://dbpedia.org/resource/Lord_President_of_the_Council"/>
-    <dbpprop:imageName xml:lang="en">University_of_Leeds_crest.jpg</dbpprop:imageName>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/European_University_Association"/>
-    <dbpedia-owl:abstract xml:lang="de">Die Universität Leeds ist eine Universität in Leeds, Großbritannien. Mit mehr als 32.000 eingeschriebenen Studenten zählt sie zu den größten Universitäten des Landes und erhielt im Jahre 2006 die zweithöchste Zahl an Studienplatzbewerbungen.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alfred_Waterhouse_buildings"/>
-    <rdfs:comment xml:lang="fr">L'université de Leeds (University of Leeds) est une université anglaise située dans la ville de Leeds. Elle est en 30 position de la ligue d'universités britanniques 2007, publiée par le journal Sunday Times. L'université fait partie des universités Red Brick, et la groupe WUN, spécialistes de la recherche.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="sv">University of Leeds har sin grund i Leeds School of Medicine som grundades 1831 och Yorkshire College of Science som grundades 1874. 1884 slogs de bägge institutionerna samman och 1887 bildade de, tillsammans med Owens College, Manchester och University College, Liverpool, Victoria University. Snart ville dock städerna ha sina egna universitet och 1904 bildades Univerity of Leeds. Universitet har 7 450 anställda och 31 500 studenter (52 100 inklusive studenter som går kortare kurser). Det omsätter årligen drygt 4 miljarder kronor (320 miljoner pund). Universitet tillhör Russell-gruppen. Det är det universitet i Storbritannien som har störst externfinansiering från industrin. Biblioteket är spritt på sex lokaler och har totalt 2 700 000 volymer samt prenumerar på 9 400 tidskrifter.</dbpedia-owl:abstract>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Organization"/>
-    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
-    <rdfs:comment xml:lang="ru">Лидский университет или Университет Лидса — один из крупнейших университетов Великобритании, около 7500 постоянных сотрудников и 32 тыс. очных студентов. Он входит в первую десятку британских университетов как по объему научно-исследовательской работы, так и по количеству студентов. Также входит в группу «университетов из красного кирпича» и в группу Рассел. Кампус университета расположен непосредственно рядом с центром Лидса.</rdfs:comment>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Worldwide_Universities_Network"/>
-    <dbpprop:name xml:lang="en">University of Leeds</dbpprop:name>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.leedsstudent.org"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.luuonline.com/index/"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
-    <dbpprop:established rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1904</dbpprop:established>
-    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/England"/>
-    <foaf:name xml:lang="en">University of Leeds</foaf:name>
-    <dbpedia-owl:abstract xml:lang="fr">L'université de Leeds (University of Leeds) est une université anglaise située dans la ville de Leeds. Elle est en 30 position de la ligue d'universités britanniques 2007, publiée par le journal Sunday Times. L'université fait partie des universités Red Brick, et la groupe WUN, spécialistes de la recherche.</dbpedia-owl:abstract>
-    <dbpprop:province rdf:resource="http://dbpedia.org/resource/West_Yorkshire"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.leeds.ac.uk"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1831"/>
-    <rdf:type rdf:resource="http://schema.org/EducationalOrganization"/>
-    <rdfs:comment xml:lang="zh">University of Leeds 里茲大學（英文：University of Leeds）&lt;/span&gt;位于里茲，為西約克郡的主要教學及研究型大學，名列英國規模最大的大學之一。里茲大學為羅素大學集團成員，每年獲得的研究經費額度為英國各大學的前十名。該大學的主體部分皆建於19世紀下半葉，當時的目的是為了達成對當地科學和技術發展的教育要求。 里茲大學為英國傳統紅磚大學，也是英國最受歡迎的大學之一。據2006年英國大學生申請人數統計，里茲大學為前二名申請人數最多的大學。自1904年英王愛德華七世正式授予里茲大學大學的名號以來，目前全時間在校學生超過34000位，其中研究生約6000位。近年來排名迅速上升，據英國泰晤士報於2008年全球大學排行榜調查，里茲大學排名全球80，未來朝向在2015年晉身全球第50名的目標大幅邁進。 里茲大學為國際化的大學，海外學生占學生總人數10%，來自115個國家，里茲大學在多個國家及地區設有正式的海外代表進行海外招生及國際學術交流與合作。 里茲大學與同樣位於約克地區的約克大學、雪菲爾大學共同組成「白玫瑰大學聯盟」，共同合作在高科技領域的研發工作，聯盟整體的研究經費與規模可與牛津大學、劍橋大學相互輝映。</rdfs:comment>
-    <dbpprop:head xml:lang="en">As Lord President of the Council</dbpprop:head>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Association_of_Commonwealth_Universities"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/University_of_Leeds_crest.jpg/200px-University_of_Leeds_crest.jpg"/>
-    <dbpprop:mottoeng xml:lang="en">"and knowledge will be increased"</dbpprop:mottoeng>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/University"/>
-    <dbpprop:type rdf:resource="http://dbpedia.org/resource/Public_university"/>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Association_of_MBAs"/>
-    <dbpedia-owl:abstract xml:lang="en">The University of Leeds (informally Leeds University, or simply Leeds) is a British Redbrick university located in the city of Leeds, West Yorkshire, England. Originally named the Yorkshire College of Science and later simply the Yorkshire College, it incorporated the Leeds School of Medicine and became part of the federal Victoria University alongside Owens College (which eventually became the University of Manchester) and University College Liverpool (which became the University of Liverpool). In 1904, a royal charter was granted to the University of Leeds by King Edward VII. The University is a member of the Russell Group of research-intensive universities, of which the university's Vice-Chancellor Prof Michael Arthur is the current Chairman, and the N8 Group for research collaboration. The university is also a founding member of the Worldwide Universities Network, the Association of Commonwealth Universities, the European University Association, the White Rose University Consortium, the Santander Network and CDIO and is also affiliated to the Association of MBAs, EQUIS and Universities UK. The student population includes 33,585 students making the university the fifth largest university in the United Kingdom. From 2006 to present, the university has consistently been ranked second in the United Kingdom for the number of applications received, second only to the University of Manchester. The annual income for the institution for 2008-09 was £497.2 million, with an expenditure of £485.3 million. The university has financial endowments of £42.3 million (2008–09), ranking outside the top ten British universities by financial endowment. Nevertheless, Leeds was ranked 8th by The Guardian for total recurrent grants in 2009-10, amounting to £143.6 million whilst being ranked 9th for research-generated income in 2009-10, with a research income of £49.5 million, a 2.1% increase from 2008-09. Described as "a top redbrick university and one of the giants of the British higher education system" by The Guardian newspaper, the university is ranked nationally between 16th and 27th. Internationally, the university is ranked as the 34th best in Europe and globally ranked between 85th in the 2011 QS World University Rankings and 101st in the 2010. In 2007, The Sunday Times released a 10 year average of their rankings, placing Leeds 26th out of 119 institutions from 1998 - 2007. Leeds was ranked 8th in the UK in the 2008 Research Assessment Exercise, the best result in the Yorkshire and the Humber region and in 2010, Leeds was ranked as the 9th most targeted British university by graduate employers. Notable alumni include former Secretary of State Jack Straw, Piers Sellers and multiple Nobel laureates.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="pl">Uniwersytet Leeds (ang. University of Leeds, potocznie także Leeds University) – uniwersytet w mieście Leeds w północnej Anglii w hrabstwie West Yorkshire. Jest drugim co do wielkości (30.5 tys. studentów studiów stacjonarnych, ok. 8 800 pracowników) uniwersytetem brytyjskim, znajdującym się w pojedynczymm mieście. Należy do tzw.</rdfs:comment>
+    <rdfs:label xml:lang="de">University of Leeds</rdfs:label>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-1.55167 53.8072)</geo:geometry>
+    <dbpedia-owl:numberOfPostgraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9505</dbpedia-owl:numberOfPostgraduateStudents>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Education_in_Leeds"/>
+    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity"/>
     <dbpprop:logo rdf:datatype="http://www.w3.org/2001/XMLSchema#int">200</dbpprop:logo>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russell_Group"/>
-    <rdfs:comment xml:lang="ko">리즈 대학교(University of Leeds) 대학 연합체인 맨체스터 빅토리아 대학교의 일부를 이루다가 1904년 에드워드 7세의 설립인가를 받고 독립한 대학이다. 전신은 1831년 설립된 리즈의학교와 1874년 설립된 요크셔과학대학이다. 요크셔과학대학은 1867년 파리국제박람회에 다녀와 유럽대륙의 기술발전에 자극을 받은 요크셔주 모직물제조업자들이 중심이 되어 설립하였다. 개교 초기에는 기술계통 과목만 가르쳤으나 점차 고전과 현대문학·역사 등의 인문계 과목을 개설하면서 학교명도 요크셔대학으로 바뀌었다. 1884년 두 학교를 통합하였고 이후 1887년 맨체스터오언대학 및 리버풀유니버시티칼리지와 함께 연합형태의 종합대학인 맨체스터 빅토리아 대학교를 설립하였으나 나중에 맨체스터와 리버풀의 대학이 독립함에 따라 이 대학도 어쩔 수 없이 독립하게 되었다. 제1차 세계대전 이후 응용과학과 공학분야뿐 아니라 인문과학 분야의 연구에서도 괄목할 만한 발전을 이루었다.</rdfs:comment>
-    <dbpprop:campus xml:lang="en">Urban, Suburban</dbpprop:campus>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/N8_Research_Partnership"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/University_of_Leeds"/>
-    <dbpedia-owl:chancellor rdf:resource="http://dbpedia.org/resource/Melvyn_Bragg"/>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Universities_UK"/>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/리즈_대학교"/>
-    <dbpprop:chancellor rdf:resource="http://dbpedia.org/resource/Melvyn_Bragg"/>
-    <dbpedia-owl:campus rdf:resource="http://dbpedia.org/resource/Urban_area"/>
-    <foaf:homepage rdf:resource="http://www.leeds.ac.uk"/>
-    <dbpprop:students rdf:datatype="http://www.w3.org/2001/XMLSchema#int">33585</dbpprop:students>
-    <rdfs:comment xml:lang="uk">Університет Лідса (англ. University of Leeds) — один з найбільших університетів Великобританії, близько 7500 постійних співробітників і 32 тис. очних студентів. Він входить до першої десятки британських університетів як за обсягом науково-дослідної роботи, так і за кількістю студентів. Кампус університету розташований безпосередньо поряд з центром Лідса.</rdfs:comment>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Association_of_MBAs"/>
-    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.8072</geo:lat>
-    <dbpprop:head rdf:resource="http://dbpedia.org/resource/Member_of_Parliament"/>
-    <rdfs:comment xml:lang="en">The University of Leeds (informally Leeds University, or simply Leeds) is a British Redbrick university located in the city of Leeds, West Yorkshire, England.</rdfs:comment>
-    <rdfs:comment xml:lang="de">Die Universität Leeds ist eine Universität in Leeds, Großbritannien. Mit mehr als 32.000 eingeschriebenen Studenten zählt sie zu den größten Universitäten des Landes und erhielt im Jahre 2006 die zweithöchste Zahl an Studienplatzbewerbungen.</rdfs:comment>
-    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.55167</geo:long>
-    <dbpprop:freeLabel rdf:resource="http://dbpedia.org/resource/Revenue"/>
-    <dbpedia-owl:abstract xml:lang="ko">리즈 대학교(University of Leeds) 대학 연합체인 맨체스터 빅토리아 대학교의 일부를 이루다가 1904년 에드워드 7세의 설립인가를 받고 독립한 대학이다. 전신은 1831년 설립된 리즈의학교와 1874년 설립된 요크셔과학대학이다. 요크셔과학대학은 1867년 파리국제박람회에 다녀와 유럽대륙의 기술발전에 자극을 받은 요크셔주 모직물제조업자들이 중심이 되어 설립하였다. 개교 초기에는 기술계통 과목만 가르쳤으나 점차 고전과 현대문학·역사 등의 인문계 과목을 개설하면서 학교명도 요크셔대학으로 바뀌었다. 1884년 두 학교를 통합하였고 이후 1887년 맨체스터오언대학 및 리버풀유니버시티칼리지와 함께 연합형태의 종합대학인 맨체스터 빅토리아 대학교를 설립하였으나 나중에 맨체스터와 리버풀의 대학이 독립함에 따라 이 대학도 어쩔 수 없이 독립하게 되었다. 제1차 세계대전 이후 응용과학과 공학분야뿐 아니라 인문과학 분야의 연구에서도 괄목할 만한 발전을 이루었다. 2010년 기준 예술학부, 생명공학부, 경영학부, 교육·사회과학·법학부, 공학부, 환경학부, 수학·물리학부, 의학·보건학부, 공연·시각예술·커뮤니케이션학부의 9개 학부에서 560개의 학부 과정과 300개의 대학원 과정을 제공한다. 부속도서관으로는 주로 인문사회계 관련서적을 소장한 브러던도서관과 이공계 관련서적을 소장한 에드워드보일도서관이 있으며, 그밖에 법학도서관·의학도서관·섬유도서관 등의 전문도서관도 있다. 부설시설로는 학습자료 센터, 컴퓨터 센터, 중국연구 센터, 이과교육연구 센터 등이 있다. 캠퍼스에는 학부 건물 이외에 각종 스포츠시설과 슈퍼마켓·여행안내소·서점 및 식당 등의 편의시설이 골고루 갖추어져 있다.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01bzs9"/>
-    <owl:sameAs rdf:resource="http://linkedgeodata.org/triplify/node31004282"/>
-    <dbpprop:website rdf:resource="http://www.leeds.ac.uk"/>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/European_Quality_Improvement_System"/>
-    <dbpedia-owl:campus rdf:resource="http://dbpedia.org/resource/Suburb"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/University_of_Leeds"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1904_establishments_in_England"/>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Universidade_de_Leeds"/>
-    <dbpedia-owl:numberOfStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33585</dbpedia-owl:numberOfStudents>
-    <dbpedia-owl:abstract xml:lang="zh">University of Leeds 里茲大學（英文：University of Leeds）&lt;/span&gt;位于里茲，為西約克郡的主要教學及研究型大學，名列英國規模最大的大學之一。里茲大學為羅素大學集團成員，每年獲得的研究經費額度為英國各大學的前十名。該大學的主體部分皆建於19世紀下半葉，當時的目的是為了達成對當地科學和技術發展的教育要求。 里茲大學為英國傳統紅磚大學，也是英國最受歡迎的大學之一。據2006年英國大學生申請人數統計，里茲大學為前二名申請人數最多的大學。自1904年英王愛德華七世正式授予里茲大學大學的名號以來，目前全時間在校學生超過34000位，其中研究生約6000位。近年來排名迅速上升，據英國泰晤士報於2008年全球大學排行榜調查，里茲大學排名全球80，未來朝向在2015年晉身全球第50名的目標大幅邁進。 里茲大學為國際化的大學，海外學生占學生總人數10%，來自115個國家，里茲大學在多個國家及地區設有正式的海外代表進行海外招生及國際學術交流與合作。 里茲大學與同樣位於約克地區的約克大學、雪菲爾大學共同組成「白玫瑰大學聯盟」，共同合作在高科技領域的研發工作，聯盟整體的研究經費與規模可與牛津大學、劍橋大學相互輝映。</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="ja">University of Leeds 	校訓 	Et Augebitur Scientia"And science will be increased" 	設立 	1904年（前身の創立は1831及び1874年） 	学校種別 	公立 	総長/学長 	メルヴィン・ブラーグ卿 	所在地 	イギリスウェスト・ヨークシャー州リーズ市 	キャンパス環境 	都市 	学生数 	31,500人（学部生・大学院生計） 	教員数 	 	ウェブサイト 	www. leeds. ac.</rdfs:comment>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/European_Quality_Improvement_System"/>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Santander_Network"/>
-    <rdfs:label xml:lang="uk">Університет Лідса</rdfs:label>
-    <dbpprop:head rdf:resource="http://dbpedia.org/resource/The_Right_Honourable"/>
-    <dbpprop:postgrad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9505</dbpprop:postgrad>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Worldwide_Universities_Network"/>
-    <rdfs:comment xml:lang="es">La Universidad de Leeds es una gran universidad de la ciudad de Leeds, West Yorkshire, Inglaterra, fundada en 1904.</rdfs:comment>
-    <dbpprop:undergrad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24080</dbpprop:undergrad>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Université_de_Leeds"/>
-    <dbpprop:established rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1887</dbpprop:established>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EduCAtionalInstitutionsEstablishedIn1831"/>
     <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Association_of_Commonwealth_Universities"/>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/CDIO"/>
-    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Leeds"/>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/リーズ大学"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/University_of_Leeds"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/리즈_대학교"/>
+    <rdfs:comment xml:lang="pl">Uniwersytet Leeds (ang. University of Leeds, potocznie także Leeds University) – uniwersytet w mieście Leeds w północnej Anglii w hrabstwie West Yorkshire. Jest drugim co do wielkości (30.5 tys. studentów studiów stacjonarnych, ok. 8 800 pracowników) uniwersytetem brytyjskim, znajdującym się w pojedynczymm mieście. Należy do tzw.</rdfs:comment>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/White_Rose_University_Consortium"/>
+    <dbpedia-owl:campus rdf:resource="http://dbpedia.org/resource/Urban_area"/>
+    <dbpedia-owl:motto xml:lang="en">"and knowledge will be increased"</dbpedia-owl:motto>
     <dbpedia-owl:numberOfUndergraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24080</dbpedia-owl:numberOfUndergraduateStudents>
     <dbpprop:endowment rdf:datatype="http://dbpedia.org/datatype/poundSterling">4.928E7</dbpprop:endowment>
-    <dbpedia-owl:abstract xml:lang="pt">A Universidade de Leeds é uma das maiores do Reino Unido, com mais de 32.000 estudantes. É membro do Grupo Russell. Foi fundada em 1904, e é uma das seis universidades cívicas originais. A história da Universidade está ligada com o desenvolvimento de Leeds como um centro internacional de indústria têxtil na era Vitoriana. Suas raízes remontam o século XIX, e antes dessa expansão na educação superior, somente quatro universidades - Oxford, Cambridge, London e Durham - existiam na Inglaterra. O campus principal está a 1,6 km ao norte do centro de Leeds.</dbpedia-owl:abstract>
-    <dbpprop:country rdf:resource="http://dbpedia.org/resource/England"/>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Santander_Network"/>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Russell_Group"/>
-    <grs:point xml:lang="en">53.80722222222222 -1.5516666666666667</grs:point>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Universidad_de_Leeds"/>
-    <dbpprop:staff rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8000</dbpprop:staff>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.palgrave.com/products/title.aspx?pid=281268"/>
-    <dbpprop:freeLabel xml:lang="en">Newspaper</dbpprop:freeLabel>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/0/09/University_of_Leeds_crest.jpg"/>
-    <dbpedia-owl:abstract xml:lang="pl">Uniwersytet Leeds (ang. University of Leeds, potocznie także Leeds University) – uniwersytet w mieście Leeds w północnej Anglii w hrabstwie West Yorkshire. Jest drugim co do wielkości (30.5 tys. studentów studiów stacjonarnych, ok. 8 800 pracowników) uniwersytetem brytyjskim, znajdującym się w pojedynczymm mieście. Należy do tzw. Russell Group (grupy 20 uczelni brytyjskich, silnie nastawionych na badania własne i uzyskujących przeszło 60% sumy grantów i funduszy przeznaczonych na badania naukowe dla uczelni w Wielkiej Brytanii). Fundusze badawcze uczelni na rok 2009 wyniosły 113 milionów funtów. W międzynarodowym rankingu wyższych uczelni (THES-QS, The Times Higher Education Supplement) w roku 2007 uniwersytet ten zajmował 80, a w październiku 2009 - 99 miejsce .</dbpedia-owl:abstract>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/N8_Research_Partnership"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/University108286163"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Education_in_Leeds"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/University_of_Leeds"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Leeds"/>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Santander_Network"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Association_of_Commonwealth_Universities"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.leedsstudent.org"/>
+    <rdfs:comment xml:lang="uk">Університет Лідса (англ. University of Leeds) — один з найбільших університетів Великобританії, близько 7500 постійних співробітників і 32 тис. очних студентів. Він входить до першої десятки британських університетів як за обсягом науково-дослідної роботи, так і за кількістю студентів. Кампус університету розташований безпосередньо поряд з центром Лідса.</rdfs:comment>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/University"/>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Russell_Group"/>
+    <dbpprop:type rdf:resource="http://dbpedia.org/resource/Public_university"/>
+    <dbpedia-owl:abstract xml:lang="zh">University of Leeds 里茲大學（英文：University of Leeds）&lt;/span&gt;位于里茲，為西約克郡的主要教學及研究型大學，名列英國規模最大的大學之一。里茲大學為羅素大學集團成員，每年獲得的研究經費額度為英國各大學的前十名。該大學的主體部分皆建於19世紀下半葉，當時的目的是為了達成對當地科學和技術發展的教育要求。 里茲大學為英國傳統紅磚大學，也是英國最受歡迎的大學之一。據2006年英國大學生申請人數統計，里茲大學為前二名申請人數最多的大學。自1904年英王愛德華七世正式授予里茲大學大學的名號以來，目前全時間在校學生超過34000位，其中研究生約6000位。近年來排名迅速上升，據英國泰晤士報於2008年全球大學排行榜調查，里茲大學排名全球80，未來朝向在2015年晉身全球第50名的目標大幅邁進。 里茲大學為國際化的大學，海外學生占學生總人數10%，來自115個國家，里茲大學在多個國家及地區設有正式的海外代表進行海外招生及國際學術交流與合作。 里茲大學與同樣位於約克地區的約克大學、雪菲爾大學共同組成「白玫瑰大學聯盟」，共同合作在高科技領域的研發工作，聯盟整體的研究經費與規模可與牛津大學、劍橋大學相互輝映。</dbpedia-owl:abstract>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Worldwide_Universities_Network"/>
+    <dbpprop:established rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1904</dbpprop:established>
     <dbpedia-owl:head rdf:resource="http://dbpedia.org/resource/The_Right_Honourable"/>
+    <dbpedia-owl:type rdf:resource="http://dbpedia.org/resource/Public_university"/>
+    <dbpedia-owl:abstract xml:lang="de">Die Universität Leeds ist eine Universität in Leeds, Großbritannien. Mit mehr als 32.000 eingeschriebenen Studenten zählt sie zu den größten Universitäten des Landes und erhielt im Jahre 2006 die zweithöchste Zahl an Studienplatzbewerbungen.</dbpedia-owl:abstract>
+    <foaf:name xml:lang="en">University of Leeds</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1904_establishments_in_England"/>
+    <rdfs:label xml:lang="zh">利兹大学</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="ko">리즈 대학교(University of Leeds) 대학 연합체인 맨체스터 빅토리아 대학교의 일부를 이루다가 1904년 에드워드 7세의 설립인가를 받고 독립한 대학이다. 전신은 1831년 설립된 리즈의학교와 1874년 설립된 요크셔과학대학이다. 요크셔과학대학은 1867년 파리국제박람회에 다녀와 유럽대륙의 기술발전에 자극을 받은 요크셔주 모직물제조업자들이 중심이 되어 설립하였다. 개교 초기에는 기술계통 과목만 가르쳤으나 점차 고전과 현대문학·역사 등의 인문계 과목을 개설하면서 학교명도 요크셔대학으로 바뀌었다. 1884년 두 학교를 통합하였고 이후 1887년 맨체스터오언대학 및 리버풀유니버시티칼리지와 함께 연합형태의 종합대학인 맨체스터 빅토리아 대학교를 설립하였으나 나중에 맨체스터와 리버풀의 대학이 독립함에 따라 이 대학도 어쩔 수 없이 독립하게 되었다. 제1차 세계대전 이후 응용과학과 공학분야뿐 아니라 인문과학 분야의 연구에서도 괄목할 만한 발전을 이루었다. 2010년 기준 예술학부, 생명공학부, 경영학부, 교육·사회과학·법학부, 공학부, 환경학부, 수학·물리학부, 의학·보건학부, 공연·시각예술·커뮤니케이션학부의 9개 학부에서 560개의 학부 과정과 300개의 대학원 과정을 제공한다. 부속도서관으로는 주로 인문사회계 관련서적을 소장한 브러던도서관과 이공계 관련서적을 소장한 에드워드보일도서관이 있으며, 그밖에 법학도서관·의학도서관·섬유도서관 등의 전문도서관도 있다. 부설시설로는 학습자료 센터, 컴퓨터 센터, 중국연구 센터, 이과교육연구 센터 등이 있다. 캠퍼스에는 학부 건물 이외에 각종 스포츠시설과 슈퍼마켓·여행안내소·서점 및 식당 등의 편의시설이 골고루 갖추어져 있다.</dbpedia-owl:abstract>
     <dbpprop:head rdf:resource="http://dbpedia.org/resource/Nick_Clegg"/>
-    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity"/>
     <dbpprop:free rdf:resource="http://dbpedia.org/resource/Leeds_Student"/>
-    <dbpedia-owl:staff rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8000</dbpedia-owl:staff>
     <dbpprop:viceChancellor xml:lang="en">Professor Michael Arthur</dbpprop:viceChancellor>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Universities_UK"/>
-    <dbpedia-owl:motto xml:lang="en">"and knowledge will be increased"</dbpedia-owl:motto>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/European_University_Association"/>
-    <rdfs:label xml:lang="en">University of Leeds</rdfs:label>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/CDIO"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Universidade_de_Leeds"/>
+    <dbpprop:campus xml:lang="en">Urban, Suburban</dbpprop:campus>
+    <dbpprop:free rdf:datatype="http://dbpedia.org/datatype/poundSterling">4.22E8</dbpprop:free>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Universities_UK"/>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Santander_Network"/>
+    <dbpedia-owl:province rdf:resource="http://dbpedia.org/resource/West_Yorkshire"/>
+    <rdfs:comment xml:lang="es">La Universidad de Leeds es una gran universidad de la ciudad de Leeds, West Yorkshire, Inglaterra, fundada en 1904.</rdfs:comment>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/England"/>
+    <foaf:homepage rdf:resource="http://www.leeds.ac.uk"/>
+    <dbpedia-owl:abstract xml:lang="nl">De Universiteit van Leeds is een belangrijke onderzoeksuniversiteit in Engeland en een van de grootste in het Verenigd Koninkrijk met meer dan 32.000 studenten. De universiteit is opgericht in 1904 en maakt deel uit van de zes oorspronkelijke burgeruniversiteiten.</dbpedia-owl:abstract>
+    <dbpedia-owl:campus rdf:resource="http://dbpedia.org/resource/Suburb"/>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/European_Quality_Improvement_System"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.palgrave.com/products/title.aspx?pid=281268"/>
+    <dbpprop:head rdf:resource="http://dbpedia.org/resource/The_Right_Honourable"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/CDIO"/>
+    <dbpprop:mottoeng xml:lang="en">"and knowledge will be increased"</dbpprop:mottoeng>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Leeds"/>
+    <grs:point xml:lang="en">53.80722222222222 -1.5516666666666667</grs:point>
+    <owl:sameAs rdf:resource="http://linkedgeodata.org/triplify/node31004282"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/EducationalOrganization"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/リーズ大学"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Université_de_Leeds"/>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Russell_Group"/>
+    <dbpedia-owl:viceChancellor rdf:resource="http://dbpedia.org/resource/Michael_Arthur_(academic)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/University108286163"/>
+    <rdfs:comment xml:lang="ko">리즈 대학교(University of Leeds) 대학 연합체인 맨체스터 빅토리아 대학교의 일부를 이루다가 1904년 에드워드 7세의 설립인가를 받고 독립한 대학이다. 전신은 1831년 설립된 리즈의학교와 1874년 설립된 요크셔과학대학이다. 요크셔과학대학은 1867년 파리국제박람회에 다녀와 유럽대륙의 기술발전에 자극을 받은 요크셔주 모직물제조업자들이 중심이 되어 설립하였다. 개교 초기에는 기술계통 과목만 가르쳤으나 점차 고전과 현대문학·역사 등의 인문계 과목을 개설하면서 학교명도 요크셔대학으로 바뀌었다. 1884년 두 학교를 통합하였고 이후 1887년 맨체스터오언대학 및 리버풀유니버시티칼리지와 함께 연합형태의 종합대학인 맨체스터 빅토리아 대학교를 설립하였으나 나중에 맨체스터와 리버풀의 대학이 독립함에 따라 이 대학도 어쩔 수 없이 독립하게 되었다. 제1차 세계대전 이후 응용과학과 공학분야뿐 아니라 인문과학 분야의 연구에서도 괄목할 만한 발전을 이루었다.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Universidad_de_Leeds"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/University_of_Leeds"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EduCAtionalInstitutionsEstablishedIn1831"/>
+    <dbpprop:name xml:lang="en">University of Leeds</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russell_Group"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.leeds.ac.uk"/>
+    <rdfs:comment xml:lang="ja">University of Leeds 	校訓 	Et Augebitur Scientia"And science will be increased" 	設立 	1904年（前身の創立は1831及び1874年） 	学校種別 	公立 	総長/学長 	メルヴィン・ブラーグ卿 	所在地 	イギリスウェスト・ヨークシャー州リーズ市 	キャンパス環境 	都市 	学生数 	31,500人（学部生・大学院生計） 	教員数 	 	ウェブサイト 	www. leeds. ac.</rdfs:comment>
+    <dbpprop:undergrad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24080</dbpprop:undergrad>
+    <dbpedia-owl:chancellor rdf:resource="http://dbpedia.org/resource/Melvyn_Bragg"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/University_of_Leeds"/>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/European_Quality_Improvement_System"/>
+    <dbpedia-owl:abstract xml:lang="en">The University of Leeds (informally Leeds University, or simply Leeds) is a British Redbrick university located in the city of Leeds, West Yorkshire, England. Originally named the Yorkshire College of Science and later simply the Yorkshire College, it incorporated the Leeds School of Medicine and became part of the federal Victoria University alongside Owens College (which eventually became the University of Manchester) and University College Liverpool (which became the University of Liverpool). In 1904, a royal charter was granted to the University of Leeds by King Edward VII. The University is a member of the Russell Group of research-intensive universities, of which the university's Vice-Chancellor Prof Michael Arthur is the current Chairman, and the N8 Group for research collaboration. The university is also a founding member of the Worldwide Universities Network, the Association of Commonwealth Universities, the European University Association, the White Rose University Consortium, the Santander Network and CDIO and is also affiliated to the Association of MBAs, EQUIS and Universities UK. The student population includes 33,585 students making the university the fifth largest university in the United Kingdom. From 2006 to present, the university has consistently been ranked second in the United Kingdom for the number of applications received, second only to the University of Manchester. The annual income for the institution for 2008-09 was £497.2 million, with an expenditure of £485.3 million. The university has financial endowments of £42.3 million (2008–09), ranking outside the top ten British universities by financial endowment. Nevertheless, Leeds was ranked 8th by The Guardian for total recurrent grants in 2009-10, amounting to £143.6 million whilst being ranked 9th for research-generated income in 2009-10, with a research income of £49.5 million, a 2.1% increase from 2008-09. Described as "a top redbrick university and one of the giants of the British higher education system" by The Guardian newspaper, the university is ranked nationally between 16th and 27th. Internationally, the university is ranked as the 34th best in Europe and globally ranked between 85th in the 2011 QS World University Rankings and 101st in the 2010. In 2007, The Sunday Times released a 10 year average of their rankings, placing Leeds 26th out of 119 institutions from 1998 - 2007. Leeds was ranked 8th in the UK in the 2008 Research Assessment Exercise, the best result in the Yorkshire and the Humber region and in 2010, Leeds was ranked as the 9th most targeted British university by graduate employers. Notable alumni include former Secretary of State Jack Straw, Piers Sellers and multiple Nobel laureates.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="pt">A Universidade de Leeds é uma das maiores do Reino Unido, com mais de 32.000 estudantes. É membro do Grupo Russell. Foi fundada em 1904, e é uma das seis universidades cívicas originais. A história da Universidade está ligada com o desenvolvimento de Leeds como um centro internacional de indústria têxtil na era Vitoriana. Suas raízes remontam o século XIX, e antes dessa expansão na educação superior, somente quatro universidades - Oxford, Cambridge, London e Durham - existiam na Inglaterra.</rdfs:comment>
     <dbpedia-owl:abstract xml:lang="ja">University of Leeds 	校訓 	Et Augebitur Scientia"And science will be increased" 	設立 	1904年（前身の創立は1831及び1874年） 	学校種別 	公立 	総長/学長 	メルヴィン・ブラーグ卿 	所在地 	イギリスウェスト・ヨークシャー州リーズ市 	キャンパス環境 	都市 	学生数 	31,500人（学部生・大学院生計） 	教員数 	 	ウェブサイト 	www. leeds. ac. uk リーズ大学 (University of Leeds) は英国ウェスト・ヨークシャー州リーズ市にある国立大学。トールキン（作家・言語学者）が教鞭をとっていたことがある。33,000人を超す学生が在籍しており、英国でも有数の規模を誇る大学である。(THE - QS World University Rankings 2010（世界大学ランキング）では85位にランクするなど、研究力の高さで知られる大学である（日本からは東大24位、京大25位、阪大49位、東工大60位となっている)。 。また、エコノミスト誌の2009 full-time MBA rankingでも、世界96位にランクされた 。</dbpedia-owl:abstract>
-    <dbpprop:established rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1831</dbpprop:established>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/White_Rose_University_Consortium"/>
-    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-1.55167 53.8072)</geo:geometry>
+    <dbpedia-owl:endowment rdf:datatype="http://dbpedia.org/datatype/poundSterling">4.928E7</dbpedia-owl:endowment>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/N8_Research_Partnership"/>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/CDIO"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/University_of_Leeds?oldid=495282370"/>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Universities_UK"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+    <dbpedia-owl:abstract xml:lang="fr">L'université de Leeds (University of Leeds) est une université anglaise située dans la ville de Leeds. Elle est en 30 position de la ligue d'universités britanniques 2007, publiée par le journal Sunday Times. L'université fait partie des universités Red Brick, et la groupe WUN, spécialistes de la recherche.</dbpedia-owl:abstract>
     <rdfs:comment xml:lang="sv">University of Leeds har sin grund i Leeds School of Medicine som grundades 1831 och Yorkshire College of Science som grundades 1874. 1884 slogs de bägge institutionerna samman och 1887 bildade de, tillsammans med Owens College, Manchester och University College, Liverpool, Victoria University. Snart ville dock städerna ha sina egna universitet och 1904 bildades Univerity of Leeds. Universitet har 7 450 anställda och 31 500 studenter (52 100 inklusive studenter som går kortare kurser).</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="es">La Universidad de Leeds es una gran universidad de la ciudad de Leeds, West Yorkshire, Inglaterra, fundada en 1904.</dbpedia-owl:abstract>
+    <dbpedia-owl:numberOfStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33585</dbpedia-owl:numberOfStudents>
+    <dbpprop:head xml:lang="en">As Lord President of the Council</dbpprop:head>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1831"/>
+    <dbpprop:established rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1887</dbpprop:established>
+    <rdfs:comment xml:lang="en">The University of Leeds (informally Leeds University, or simply Leeds) is a British Redbrick university located in the city of Leeds, West Yorkshire, England.</rdfs:comment>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/European_University_Association"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/0/09/University_of_Leeds_crest.jpg"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/University_of_Leeds_crest.jpg/200px-University_of_Leeds_crest.jpg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01bzs9"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.55167</geo:long>
+    <rdfs:comment xml:lang="fr">L'université de Leeds (University of Leeds) est une université anglaise située dans la ville de Leeds. Elle est en 30 position de la ligue d'universités britanniques 2007, publiée par le journal Sunday Times. L'université fait partie des universités Red Brick, et la groupe WUN, spécialistes de la recherche.</rdfs:comment>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Association_of_MBAs"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Лидский_университет"/>
+    <dbpprop:website rdf:resource="http://www.leeds.ac.uk"/>
+    <dbpprop:chancellor rdf:resource="http://dbpedia.org/resource/Melvyn_Bragg"/>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Leeds"/>
+    <dbpprop:established rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1831</dbpprop:established>
+    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Leeds"/>
+    <dbpprop:students rdf:datatype="http://www.w3.org/2001/XMLSchema#int">33585</dbpprop:students>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.8072</geo:lat>
+    <dbpprop:postgrad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9505</dbpprop:postgrad>
     <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Live_at_Leeds_(John_Martyn_album)">
-    <dbpedia-owl:recordedIn rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_Happold">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/University_of_Leeds">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Elio_Di_Rupo">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Morris_(educationalist)">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Palmer_(rugby_union)">
-    <dbpedia-owl:university rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:university rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Leeds_Conference_Auditorium">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Colclough">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Pine">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Harrison">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Leslie_(politician)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sue_Napier">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_J_Whitaker_(scientist)">
-    <dbpprop:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Truswell">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdulrahman_al-Ansary">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Elaine_Fantham">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Morton_(geologist)">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Cox_(statistician)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Karamat_Ullah_Chaudry">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rebecca_Taylor_(politician)">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Fatchett">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Abbi_Tatton">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicola_Brewer">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_Robert_Allan">
-    <dbpprop:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Brownlee">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Drysdale_Dakin">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Parkinson_Building">
-    <dbpprop:client rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Ind">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_Marshall_(UK_politician)">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacqui_Oatley">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Lydon">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Roderic_Lyne">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Simba_Makoni">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Battle_(politician)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St_James's_University_Hospital">
-    <dbpprop:affiliation rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Satterthwaite">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alistair_Brownlee">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Higginson">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:employer rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Dacre">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sam_Shearon">
-    <dbpedia-owl:training rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alyn_Smith">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Alpha_Epsilon_Pi_chapters">
-    <dbpprop:school rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Cannon_(psychiatrist)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leeds_University">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alistair_Magowan">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leeds_Studies_in_English">
-    <dbpedia-owl:publisher rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Wadlow">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tehmina_Sunny">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leeds_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/University_of_Leeds">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rapha%C3%ABl_Rouquier">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Davies_(bishop_of_Middleton)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Davis_(activist)">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood">
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Melvyn_Bragg">
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Humayra_Abedin">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Eric_Illsley">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Live_at_Leeds">
-    <dbpedia-owl:recordedIn rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:recorded rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Pedley">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Robinson,_1st_Marquess_of_Ripon">
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Cavendish,_9th_Duke_of_Devonshire">
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leeds_University_Union">
-    <dbpprop:institution rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Rawcliffe">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leeds_School_of_Medicine">
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Clapham">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Porter">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Straw">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_MacLeavy">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/UOL">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_David_Kennedy">
-    <dbpprop:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/CORSIKA">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sayeeda_Warsi,_Baroness_Warsi">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Katharine,_Duchess_of_Kent">
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Hunt,_Baron_Hunt_of_Kings_Heath">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jay_Rayner">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Yorkshire_College">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Barry_Rogerson">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_Allen_(politician)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder">
-    <dbpedia-owl:award rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Butler_(bishop)">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Chaytor">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Colquhoun">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Crighton">
-    <dbpprop:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Baulcombe">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leeds_University_Act_1904">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Graham_Gass">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Hall_of_the_University_of_Leeds">
-    <dbpprop:client rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marilyn_Stowe">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Judith_Church">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Cavendish,_10th_Duke_of_Devonshire">
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Hind_(bishop_of_Chichester)">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leeds_university">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Barnett_Stross">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Keir_Starmer">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_licensed_and_localized_editions_of_Monopoly:_Europe">
-    <dbpprop:edition rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Partington">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Yorkshire_College,_Leeds">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Irvine_Laidlaw,_Baron_Laidlaw">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_O'Shea">
-    <dbpprop:alumnus rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_leeds">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clare_Short">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Martine_Croxall">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A.S._Douglas">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Quest">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Kelk_Ingold">
-    <dbpprop:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rebecca_Grinter">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Cook">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Gee">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Daniels">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Fitzpatrick_(engineer)">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Rombo">
-    <dbpedia-owl:university rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:university rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Kelly_(weapons_expert)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kantilal_Mardia">
-    <dbpprop:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leeds_University_Business_School">
-    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Subir_Raha">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Quranic_Arabic_Corpus">
-    <dbpprop:data rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_University,_Leeds">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Gunnell">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Murder_of_Lindsay_Hawker">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Yorkshire_College_of_Science">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Deathfest">
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Beck_(rugby_player)">
-    <dbpedia-owl:university rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:university rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Damnation_Festival">
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_McIntosh_(professor)">
-    <dbpprop:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/V._Craig_Jordan">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/K._M._Chandrasekhar">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_University_of_Leeds">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Grant_(designer)">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_University">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Davies_(scientist)">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Vickers_(computer_scientist)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leeds_Uni">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Abidemi_Sanusi">
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacob_Rowan">
-    <dbpprop:university rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:university rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rory_Ridley-Duff">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Campbell_(politician)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sean_Cox_(rugby_union)">
-    <dbpprop:university rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:university rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gavin_Esler">
-    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:education rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/J._M._Robson">
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Bentley_(Bishop_of_Gloucester)">
-    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
-    <dbpprop:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Leeds"/>
+    <rdfs:comment xml:lang="zh">University of Leeds 里茲大學（英文：University of Leeds）&lt;/span&gt;位于里茲，為西約克郡的主要教學及研究型大學，名列英國規模最大的大學之一。里茲大學為羅素大學集團成員，每年獲得的研究經費額度為英國各大學的前十名。該大學的主體部分皆建於19世紀下半葉，當時的目的是為了達成對當地科學和技術發展的教育要求。 里茲大學為英國傳統紅磚大學，也是英國最受歡迎的大學之一。據2006年英國大學生申請人數統計，里茲大學為前二名申請人數最多的大學。自1904年英王愛德華七世正式授予里茲大學大學的名號以來，目前全時間在校學生超過34000位，其中研究生約6000位。近年來排名迅速上升，據英國泰晤士報於2008年全球大學排行榜調查，里茲大學排名全球80，未來朝向在2015年晉身全球第50名的目標大幅邁進。 里茲大學為國際化的大學，海外學生占學生總人數10%，來自115個國家，里茲大學在多個國家及地區設有正式的海外代表進行海外招生及國際學術交流與合作。 里茲大學與同樣位於約克地區的約克大學、雪菲爾大學共同組成「白玫瑰大學聯盟」，共同合作在高科技領域的研發工作，聯盟整體的研究經費與規模可與牛津大學、劍橋大學相互輝映。</rdfs:comment>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2"/>
+    <dbpedia-owl:abstract xml:lang="pt">A Universidade de Leeds é uma das maiores do Reino Unido, com mais de 32.000 estudantes. É membro do Grupo Russell. Foi fundada em 1904, e é uma das seis universidades cívicas originais. A história da Universidade está ligada com o desenvolvimento de Leeds como um centro internacional de indústria têxtil na era Vitoriana. Suas raízes remontam o século XIX, e antes dessa expansão na educação superior, somente quatro universidades - Oxford, Cambridge, London e Durham - existiam na Inglaterra. O campus principal está a 1,6 km ao norte do centro de Leeds.</dbpedia-owl:abstract>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/Association_of_Commonwealth_Universities"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Organization"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/University_of_Leeds"/>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/N8_Research_Partnership"/>
+    <dbpprop:province rdf:resource="http://dbpedia.org/resource/West_Yorkshire"/>
+    <rdfs:comment xml:lang="ru">Лидский университет или Университет Лидса — один из крупнейших университетов Великобритании, около 7500 постоянных сотрудников и 32 тыс. очных студентов. Он входит в первую десятку британских университетов как по объему научно-исследовательской работы, так и по количеству студентов. Также входит в группу «университетов из красного кирпича» и в группу Рассел. Кампус университета расположен непосредственно рядом с центром Лидса.</rdfs:comment>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/White_Rose_University_Consortium"/>
+    <dbpedia-owl:abstract xml:lang="sv">University of Leeds har sin grund i Leeds School of Medicine som grundades 1831 och Yorkshire College of Science som grundades 1874. 1884 slogs de bägge institutionerna samman och 1887 bildade de, tillsammans med Owens College, Manchester och University College, Liverpool, Victoria University. Snart ville dock städerna ha sina egna universitet och 1904 bildades Univerity of Leeds. Universitet har 7 450 anställda och 31 500 studenter (52 100 inklusive studenter som går kortare kurser). Det omsätter årligen drygt 4 miljarder kronor (320 miljoner pund). Universitet tillhör Russell-gruppen. Det är det universitet i Storbritannien som har störst externfinansiering från industrin. Biblioteket är spritt på sex lokaler och har totalt 2 700 000 volymer samt prenumerar på 9 400 tidskrifter.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="de">Die Universität Leeds ist eine Universität in Leeds, Großbritannien. Mit mehr als 32.000 eingeschriebenen Studenten zählt sie zu den größten Universitäten des Landes und erhielt im Jahre 2006 die zweithöchste Zahl an Studienplatzbewerbungen.</rdfs:comment>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_university"/>
+    <rdfs:label xml:lang="en">University of Leeds</rdfs:label>
+    <dbpprop:freeLabel xml:lang="en">Newspaper</dbpprop:freeLabel>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alfred_Waterhouse_buildings"/>
+    <dbpprop:freeLabel rdf:resource="http://dbpedia.org/resource/Revenue"/>
+    <dbpprop:headLabel rdf:resource="http://dbpedia.org/resource/Visitor"/>
+    <dbpprop:affiliations rdf:resource="http://dbpedia.org/resource/European_University_Association"/>
+    <rdfs:label xml:lang="uk">Університет Лідса</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="pl">Uniwersytet Leeds (ang. University of Leeds, potocznie także Leeds University) – uniwersytet w mieście Leeds w północnej Anglii w hrabstwie West Yorkshire. Jest drugim co do wielkości (30.5 tys. studentów studiów stacjonarnych, ok. 8 800 pracowników) uniwersytetem brytyjskim, znajdującym się w pojedynczymm mieście. Należy do tzw. Russell Group (grupy 20 uczelni brytyjskich, silnie nastawionych na badania własne i uzyskujących przeszło 60% sumy grantów i funduszy przeznaczonych na badania naukowe dla uczelni w Wielkiej Brytanii). Fundusze badawcze uczelni na rok 2009 wyniosły 113 milionów funtów. W międzynarodowym rankingu wyższych uczelni (THES-QS, The Times Higher Education Supplement) w roku 2007 uniwersytet ten zajmował 80, a w październiku 2009 - 99 miejsce .</dbpedia-owl:abstract>
+    <dbpprop:staff rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8000</dbpprop:staff>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Association_of_MBAs"/>
+    <dbpedia-owl:abstract xml:lang="ru">Лидский университет или Университет Лидса — один из крупнейших университетов Великобритании, около 7500 постоянных сотрудников и 32 тыс. очных студентов. Он входит в первую десятку британских университетов как по объему научно-исследовательской работы, так и по количеству студентов. Также входит в группу «университетов из красного кирпича» и в группу Рассел. Кампус университета расположен непосредственно рядом с центром Лидса.</dbpedia-owl:abstract>
+    <dbpprop:country rdf:resource="http://dbpedia.org/resource/England"/>
+    <dbpedia-owl:staff rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8000</dbpedia-owl:staff>
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization"/>
+    <dbpedia-owl:abstract xml:lang="uk">Університет Лідса (англ. University of Leeds) — один з найбільших університетів Великобританії, близько 7500 постійних співробітників і 32 тис. очних студентів. Він входить до першої десятки британських університетів як за обсягом науково-дослідної роботи, так і за кількістю студентів. Кампус університету розташований безпосередньо поряд з центром Лідса.</dbpedia-owl:abstract>
+    <dbpprop:imageName xml:lang="en">University_of_Leeds_crest.jpg</dbpprop:imageName>
+    <dbpedia-owl:affiliation rdf:resource="http://dbpedia.org/resource/Worldwide_Universities_Network"/>
+    <rdfs:comment xml:lang="nl">De Universiteit van Leeds is een belangrijke onderzoeksuniversiteit in Engeland en een van de grootste in het Verenigd Koninkrijk met meer dan 32.000 studenten. De universiteit is opgericht in 1904 en maakt deel uit van de zes oorspronkelijke burgeruniversiteiten.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.luuonline.com/index/"/>
+    <dbpprop:head rdf:resource="http://dbpedia.org/resource/Member_of_Parliament"/>
   </rdf:Description>
 </rdf:RDF>

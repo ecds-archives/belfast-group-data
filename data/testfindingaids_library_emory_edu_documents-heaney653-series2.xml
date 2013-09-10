@@ -4,88 +4,88 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Abbey_Theatre">
-    <schema:name xml:lang="en">Abbey Theatre</schema:name>
+  <rdf:Description rdf:nodeID="N99bef05d93a54c2c88ba569de32a535b">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/7521316/"/>
+    <dc:title rdf:nodeID="Nc349e7df06324ff9ad5ba909a9b019cb"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8678febf04324a5a933388ffd7d6b7e1">
+    <rdf:first xml:lang="en">Station Island</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nottingham_Playhouse">
+    <schema:name xml:lang="en">Nottingham Playhouse</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N9f677f3d534d4c37a6c563f89db054cf">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  <rdf:Description rdf:nodeID="N44c532c53f904c0ea2baefa9ea107d69">
     <schema:mentions rdf:resource="http://viaf.org/viaf/12392958"/>
     <dc:title xml:lang="en">Sweeney's Flight</dc:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/14966454">
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/heaney653/series2/">
+    <schema:mentions rdf:nodeID="N78a046702b6b4a4c9dad0b4e040d84ca"/>
+    <schema:mentions rdf:nodeID="N99bef05d93a54c2c88ba569de32a535b"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
+    <schema:mentions rdf:nodeID="N9c24b95715e24bb9bc8afc11ea55bc3b"/>
+    <schema:name xml:lang="en">Seamus Heaney collection, 1972-1997; Series 2: Printed material</schema:name>
+    <schema:mentions rdf:nodeID="N03d246147c6c4e4fae681d32e4faa83c"/>
+    <schema:mentions rdf:nodeID="Na94e2c2d639d456f918a7cb74c472d6a"/>
+    <schema:mentions rdf:nodeID="N44c532c53f904c0ea2baefa9ea107d69"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N03d246147c6c4e4fae681d32e4faa83c">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/31795628"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/14966454"/>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Waterfront_Hall"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na94e2c2d639d456f918a7cb74c472d6a">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/108232871"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title xml:lang="en">The
+              Guardian</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/12392958">
+    <schema:name xml:lang="en">Rachel Giese</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Liam O'Flynn</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Waterfront_Hall">
-    <schema:name xml:lang="en">Belfast Waterfront Hall</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/7521316/">
-    <schema:name xml:lang="en">Ulster</schema:name>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abbey_Theatre">
+    <schema:name xml:lang="en">Abbey Theatre</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/108232871">
     <schema:name xml:lang="en">Hughes</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Ne633cf87c5c94ab69f4059ad4c323df2">
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-    <rdf:first xml:lang="en">Station Island</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc52dd4810bc94c5fb176f7ceb19ada6f">
-    <schema:mentions rdf:resource="http://sws.geonames.org/7521316/"/>
-    <dc:title rdf:nodeID="Nb9f112b031304e3a936eb5676d6ee447"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nottingham_Playhouse">
-    <schema:name xml:lang="en">Nottingham Playhouse</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nb9f112b031304e3a936eb5676d6ee447">
-    <rdf:rest rdf:nodeID="Ne633cf87c5c94ab69f4059ad4c323df2"/>
-    <rdf:first xml:lang="en">Stations</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nb04e245f6c8d40af957c06864b885f98">
-    <dc:title xml:lang="en">The Cure at Troy</dc:title>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N55250608c0354fd184fefcc1aa7a3f72">
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/108232871"/>
-    <dc:title xml:lang="en">The
-              Guardian</dc:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/12392958">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name xml:lang="en">Rachel Giese</schema:name>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/31795628">
     <schema:name xml:lang="en">John B.
               Vallely</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N82206a96a6c546988f177be9d2026b6e">
-    <schema:mentions rdf:resource="http://dbpedia.org/resource/Nottingham_Playhouse"/>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waterfront_Hall">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name xml:lang="en">Belfast Waterfront Hall</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/7521316/">
+    <schema:name xml:lang="en">Ulster</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/14966454">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Liam O'Flynn</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N78a046702b6b4a4c9dad0b4e040d84ca">
+    <dc:title xml:lang="en">The Cure at Troy</dc:title>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Abbey_Theatre"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc349e7df06324ff9ad5ba909a9b019cb">
+    <rdf:rest rdf:nodeID="N8678febf04324a5a933388ffd7d6b7e1"/>
+    <rdf:first xml:lang="en">Stations</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9c24b95715e24bb9bc8afc11ea55bc3b">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
     <dc:title xml:lang="en">The Burial at Thebes</dc:title>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N55eddfb1705345f199cbe5680c271bcc">
-    <schema:mentions rdf:resource="http://dbpedia.org/resource/Waterfront_Hall"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/14966454"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/31795628"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/heaney653/series2/">
-    <schema:mentions rdf:nodeID="N55eddfb1705345f199cbe5680c271bcc"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:mentions rdf:nodeID="N82206a96a6c546988f177be9d2026b6e"/>
-    <schema:mentions rdf:nodeID="Nc52dd4810bc94c5fb176f7ceb19ada6f"/>
-    <schema:dateModified xml:lang="en">2013-07-15</schema:dateModified>
-    <schema:mentions rdf:nodeID="N55250608c0354fd184fefcc1aa7a3f72"/>
-    <schema:mentions rdf:nodeID="N9f677f3d534d4c37a6c563f89db054cf"/>
-    <schema:mentions rdf:nodeID="Nb04e245f6c8d40af957c06864b885f98"/>
-    <schema:name xml:lang="en">Seamus Heaney collection, 1972-1997; Series 2: Printed material</schema:name>
+    <schema:mentions rdf:resource="http://dbpedia.org/resource/Nottingham_Playhouse"/>
   </rdf:Description>
 </rdf:RDF>

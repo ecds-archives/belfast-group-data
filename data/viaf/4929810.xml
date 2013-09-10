@@ -8,133 +8,133 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C36291#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
+    <skos:altLabel>Feydeau, Georges</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
+    <skos:altLabel>Feydeau, Georges Léon Jules Marie</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11902711#skos:Concept">
+    <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11902711x"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11902711x"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00053652#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
+    <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/4929810/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/4929810"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000224273#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <skos:altLabel>Feydeau, Georges Leon Jules Marie, 1862-1921</skos:altLabel>
+    <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/4929810/#skos:Concept">
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C36291#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
-    <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Feydeau, Georges</skos:altLabel>
-    <skos:altLabel>Feydeau, Georges Léon Jules Marie</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CGeorges_Feydeau#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
-    <skos:prefLabel>Feydeau, Georges</skos:prefLabel>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/4929810">
-    <owl:sameAs rdf:resource="http://www.idref.fr/026864169/id"/>
-    <foaf:name>Feydeau, George 1862-1921</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/186832"/>
+    <rdaGr2:dateOfDeath>1921-06-06</rdaGr2:dateOfDeath>
     <foaf:name>Feydeau, Georges Léon Jules Marie (Georges), 1862-1921</foaf:name>
     <owl:sameAs rdf:resource="http://dbpedia.org/resource/Georges_Feydeau"/>
-    <foaf:name>Feydeau, Georges</foaf:name>
     <foaf:name>Feydeau, Georges Leon Jules Marie., 1862-</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/186832"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Feydeau, Georges Léon Jules Marie, 1862-</foaf:name>
     <owl:sameAs rdf:resource="http://d-nb.info/gnd/118988093"/>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/026864169/id"/>
     <rdaGr2:dateOfBirth>1862-12-08</rdaGr2:dateOfBirth>
+    <foaf:name>Feydeau, Georges Leon Jules Marie, 1862-1921</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Feydeau, Georges, 1862-1921</foaf:name>
+    <foaf:name>Feydeau, George 1862-1921</foaf:name>
+    <foaf:name>Feydeau, Georges Léon Jules Marie</foaf:name>
+    <foaf:name>Feydeau, Georges</foaf:name>
     <foaf:name>フェドー, ジョルジュ</foaf:name>
     <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11902711x#foaf:Person"/>
-    <foaf:name>Feydeau, Georges Léon Jules Marie</foaf:name>
-    <foaf:name>Feydeau, Georges Léon Jules Marie, 1862-</foaf:name>
-    <rdaGr2:dateOfDeath>1921-06-06</rdaGr2:dateOfDeath>
-    <foaf:name>Feydeau, Georges Leon Jules Marie, 1862-1921</foaf:name>
-    <foaf:name>Feydeau, Georges, 1862-1921</foaf:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00439460#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C186832#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
-    <skos:altLabel>Feydeau, Georges Leon Jules Marie., 1862-</skos:altLabel>
-    <skos:altLabel>フェドー, ジョルジュ</skos:altLabel>
-    <skos:prefLabel>Feydeau, Georges Léon Jules Marie, 1862-</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00053652#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
     <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0050L5889#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/186832#concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
-    <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50002730#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
-    <skos:altLabel>Feydeau, Georges Leon Jules Marie, 1862-1921</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50002730"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/4929810/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/4929810"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000224273#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <skos:altLabel>Feydeau, Georges Leon Jules Marie, 1862-1921</skos:altLabel>
-    <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036322546#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
-    <skos:altLabel>Feydeau, Georges Leon Jules Marie, 1862-1921</skos:altLabel>
-    <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/4929810/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/4929810"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118988093#skos:Concept">
     <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:altLabel>Feydeau, George 1862-1921</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
+    <skos:altLabel>Feydeau, Georges Leon Jules Marie, 1862-1921</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068793693#skos:Concept">
     <skos:prefLabel>Feydeau, Georges Léon Jules Marie (Georges), 1862-1921</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/4929810/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/4929810"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CGeorges_Feydeau#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Feydeau, Georges</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026864169#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118988093#skos:Concept">
+    <skos:altLabel>Feydeau, George 1862-1921</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
     <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C186832#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50002730#skos:Concept">
+    <skos:altLabel>Feydeau, Georges Leon Jules Marie, 1862-1921</skos:altLabel>
     <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/186832#concept"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50002730"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11902711#skos:Concept">
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11902711x"/>
-    <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0050L5889#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11902711x"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00439460#skos:Concept">
+    <skos:altLabel>フェドー, ジョルジュ</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
+    <skos:prefLabel>Feydeau, Georges Léon Jules Marie, 1862-</skos:prefLabel>
+    <skos:altLabel>Feydeau, Georges Leon Jules Marie., 1862-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjs20011212016#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/4929810"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Feydeau, Georges, 1862-1921</skos:prefLabel>
   </rdf:Description>
 </rdf:RDF>

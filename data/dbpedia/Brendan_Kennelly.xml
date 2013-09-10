@@ -9,40 +9,28 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Brendan_Kennelly">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Brendan_Kennelly"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Brendan_Kennelly">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Brendan_Kennelly"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Brendan_Kennelly">
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Kerry"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1936</dbpprop:dateOfBirth>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:surname xml:lang="en">Kennelly</foaf:surname>
-    <foaf:name xml:lang="en">Brendan Kennelly</foaf:name>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.076_wv"/>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Brendan_Kennelly?oldid=491026624"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Brendan_Kennelly"/>
-    <rdfs:label xml:lang="en">Brendan Kennelly</rdfs:label>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1936_births"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyKerry"/>
-    <rdfs:comment xml:lang="en">Brendan Kennelly (born 1936) is a popular Irish poet and novelist. He was Professor of Modern Literature at Trinity College Dublin until 2005. He is now retired and occasionally tours the USA as university lecturer.</rdfs:comment>
     <dbpprop:name xml:lang="en">Kennelly, Brendan</dbpprop:name>
-    <dbpedia-owl:abstract xml:lang="en">Brendan Kennelly (born 1936) is a popular Irish poet and novelist. He was Professor of Modern Literature at Trinity College Dublin until 2005. He is now retired and occasionally tours the USA as university lecturer.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="en">Brendan Kennelly (born 1936) is a popular Irish poet and novelist. He was Professor of Modern Literature at Trinity College Dublin until 2005. He is now retired and occasionally tours the USA as university lecturer.</rdfs:comment>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Brendan_Kennelly?oldid=491026624"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyKerry"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1936</dbpprop:dateOfBirth>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.076_wv"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Brendan_Kennelly"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+    <foaf:surname xml:lang="en">Kennelly</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1936_births"/>
     <foaf:givenName xml:lang="en">Brendan</foaf:givenName>
+    <dbpedia-owl:abstract xml:lang="en">Brendan Kennelly (born 1936) is a popular Irish poet and novelist. He was Professor of Modern Literature at Trinity College Dublin until 2005. He is now retired and occasionally tours the USA as university lecturer.</dbpedia-owl:abstract>
     <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Brendan_Kennelly"/>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kennelly,_Brendan">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Brendan_Kennelly"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kennelly">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Brendan_Kennelly"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Brendan_Kennelly"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <foaf:name xml:lang="en">Brendan Kennelly</foaf:name>
+    <rdfs:label xml:lang="en">Brendan Kennelly</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Kerry"/>
   </rdf:Description>
 </rdf:RDF>

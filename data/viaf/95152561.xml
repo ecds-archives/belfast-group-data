@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035877277#skos:Concept">
+    <skos:prefLabel>McGahern, John, 1934-2006</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C248964#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:prefLabel>McGahern, John, 1934-2006</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/248964#concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026999978#skos:Concept">
+    <skos:altLabel>Mc Gahern, John</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>MacGahern, John</skos:altLabel>
+    <skos:prefLabel>McGahern, John, 1934-2006</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Mac Gahern, John</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80012547#skos:Concept">
+    <skos:prefLabel>McGahern, John, 1934-2006</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80012547"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000603965#skos:Concept">
+    <skos:prefLabel>McGahern, John, 1934-2006</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000085074#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+    <skos:prefLabel>McGahern, John, 1934-2006</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/95152561/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/95152561"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C55920#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+    <skos:altLabel>MacGahern, John</skos:altLabel>
+    <skos:altLabel>McGahern, John</skos:altLabel>
+    <skos:prefLabel>MacGahern, John, 1934-2006</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11913782#skos:Concept">
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11913782w"/>
+    <skos:prefLabel>McGahern, John, 1934-2006</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+    <skos:altLabel>MacGahern, John, 1934-2006</skos:altLabel>
+    <skos:altLabel>Mc Gahern, John 1934-2006</skos:altLabel>
+    <skos:altLabel>Mac Gahern John 1934-2006</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11913782w"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/95152561">
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119410087"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/248964"/>
+    <rdaGr2:dateOfBirth>1934-11-12</rdaGr2:dateOfBirth>
+    <foaf:name>マクガハン, ジョン</foaf:name>
+    <foaf:name>Mc Gahern, John 1934-2006</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/John_McGahern"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/026999978/id"/>
+    <foaf:name>Mac Gahern John 1934-2006</foaf:name>
+    <foaf:name>MacGahern, John</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Mac Gahern, John</foaf:name>
+    <foaf:name>McGahern, John</foaf:name>
+    <foaf:name>McGahern, John, 1934-</foaf:name>
+    <foaf:name>Mc Gahern, John</foaf:name>
+    <rdaGr2:dateOfDeath>2006-03-30</rdaGr2:dateOfDeath>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11913782w#foaf:Person"/>
+    <foaf:name>MacGahern, John, 1934-2006</foaf:name>
+    <foaf:name>McGahern, John, 1934-2006</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/95152561/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca1226622x#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>McGahern, John, 1934-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++01106319#skos:Concept">
+    <skos:prefLabel>McGahern, John, 1934-2006</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00961679#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+    <skos:prefLabel>McGahern, John, 1934-2006</skos:prefLabel>
+    <skos:altLabel>マクガハン, ジョン</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJohn_McGahern#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+    <skos:prefLabel>McGahern, John</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SWNL%7Cvtls000139565#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SWNL"/>
+    <skos:prefLabel>McGahern, John</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+    <skos:altLabel>MacGahern, John</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C071217827#skos:Concept">
+    <skos:altLabel>MacGahern, John, 1934-2006</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+    <skos:prefLabel>McGahern, John, 1934-2006</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1010446#skos:Concept">
+    <skos:prefLabel>McGahern, John, 1934-2006</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/95152561/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/95152561"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C119410087#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Mc Gahern, John 1934-2006</skos:altLabel>
+    <skos:altLabel>MacGahern, John, 1934-2006</skos:altLabel>
+    <skos:prefLabel>McGahern, John, 1934-2006</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0061E3121#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95152561"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:prefLabel>McGahern, John, 1934-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+</rdf:RDF>

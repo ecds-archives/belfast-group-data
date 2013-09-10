@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Granta">
+    <foaf:homepage rdf:resource="http://www.granta.com/"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01rdk6"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PuBlicationsEstablishedIn1889"/>
+    <dbpedia-owl:abstract xml:lang="en">Granta is a literary magazine and publisher in the United Kingdom whose mission centers on its "belief in the power and urgency of the story, both in fiction and non-fiction, and the story’s supreme ability to describe, illuminate and make real. " In 2007, The Observer stated, "In its blend of memoirs and photojournalism, and in its championing of contemporary realist fiction, Granta has its face pressed firmly against the window, determined to witness the world."</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.granta.com/"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-magazine-noun-1"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PeriodicalLiterature"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Magazine"/>
+    <dbpedia-owl:abstract xml:lang="sv">Granta är ett engelskt litterärt magasin och bokförlag som sedan 2005 ägs och drivs av Sigrid Rausing. Tidskriften ges ut en gång i kvartalet med en välvald blandning av noveller, poesi, personliga reportage och fotografi.</dbpedia-owl:abstract>
+    <dbpprop:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#int">200</dbpprop:imageSize>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Publications_established_in_1889"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work"/>
+    <rdfs:comment xml:lang="sv">Granta är ett engelskt litterärt magasin och bokförlag som sedan 2005 ägs och drivs av Sigrid Rausing. Tidskriften ges ut en gång i kvartalet med en välvald blandning av noveller, poesi, personliga reportage och fotografi.</rdfs:comment>
+    <dbpprop:editor xml:lang="en">John Freeman</dbpprop:editor>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_magazine"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.granta.com"/>
+    <dbpprop:based rdf:resource="http://dbpedia.org/resource/London"/>
+    <dbpprop:issn rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</dbpprop:issn>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Granta?oldid=489801191"/>
+    <dbpprop:imageCaption xml:lang="en">Granta 108</dbpprop:imageCaption>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://novelists.granta.com/"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Publications_associated_with_the_University_of_Cambridge"/>
+    <dbpprop:frequency xml:lang="en">Quarterly</dbpprop:frequency>
+    <dbpedia-owl:issn xml:lang="en">0017-3231</dbpedia-owl:issn>
+    <dbpprop:founded rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1889</dbpprop:founded>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Granta"/>
+    <foaf:homepage rdf:resource="http://www.granta.com"/>
+    <rdfs:comment xml:lang="en">Granta is a literary magazine and publisher in the United Kingdom whose mission centers on its "belief in the power and urgency of the story, both in fiction and non-fiction, and the story’s supreme ability to describe, illuminate and make real. " In 2007, The Observer stated, "In its blend of memoirs and photojournalism, and in its championing of contemporary realist fiction, Granta has its face pressed firmly against the window, determined to witness the world."</rdfs:comment>
+    <dbpprop:country xml:lang="en">United Kingdom</dbpprop:country>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Magazine"/>
+    <dbpedia-owl:publisher rdf:resource="http://dbpedia.org/resource/Sigrid_Rausing"/>
+    <dbpprop:publisher rdf:resource="http://dbpedia.org/resource/Sigrid_Rausing"/>
+    <dbpprop:title xml:lang="en">Granta</dbpprop:title>
+    <dbpprop:language xml:lang="en">English</dbpprop:language>
+    <dbpprop:circulationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2006</dbpprop:circulationYear>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Digests"/>
+    <dbpprop:category rdf:resource="http://dbpedia.org/resource/Literary_magazine"/>
+    <dbpprop:totalCirculation xml:lang="en">"almost 50,000"</dbpprop:totalCirculation>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Digests"/>
+    <dbpprop:firstdate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-01</dbpprop:firstdate>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/WrittenWork"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LiteraryMagazinesOfTheUnitedKingdom"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:British_literary_magazines"/>
+    <foaf:name xml:lang="en">Granta</foaf:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Granta"/>
+    <rdfs:label xml:lang="en">Granta</rdfs:label>
+    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Literary_magazine"/>
+  </rdf:Description>
+</rdf:RDF>

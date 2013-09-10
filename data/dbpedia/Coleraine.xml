@@ -11,334 +11,125 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Sleeping_Years">
-    <dbpprop:origin rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maggie_O'Farrell">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Coleraine_Academical_Institution">
-    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_Mackenzie_(Edmond)_Young">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/2009%E2%80%9310_Setanta_Sports_Cup">
-    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Campbell_(sculler)">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/2010_UEFA_European_Under-17_Football_Championship_elite_round">
-    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michelle_Fairley">
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Q97.2">
-    <dbpprop:area rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:broadcastArea rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jenny_Bristow">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A26_road_(Northern_Ireland)">
-    <dbpedia-owl:routeStart rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:terminusA rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Coleraine">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Trimble">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_UEFA_European_Under-21_Football_Championship_qualification_Group_4">
-    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/2011%E2%80%9312_Kilmarnock_F.C._season">
-    <dbpprop:venue rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Coleraine_railway_station">
-    <dbpprop:locale rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dawning_of_a_New_Age">
-    <dbpedia-owl:recordedIn rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/2004_UEFA_European_Under-21_Football_Championship_qualification_Group_6">
-    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lodge_Road,_Coleraine">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bertie_Peacock">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:cityofbirth rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballysally">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Ranken_Lyle">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Barry_Hunter_(footballer)">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Nicolls">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Coleraine_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Glenullin">
-    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_FIFA_Women's_World_Cup_qualification_%E2%80%93_UEFA_Group_1">
-    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Rory_Hamill">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Garvagh">
-    <dbpprop:postTown rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Londonderry">
-    <dbpprop:seat rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Loreto_College,_Coleraine">
-    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Showgrounds_(Coleraine)">
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Coleraine">
-    <dbpprop:marLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dbpprop:marLowC>
-    <dbpprop:postcodeArea xml:lang="en">BT</dbpprop:postcodeArea>
-    <dbpprop:augLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</dbpprop:augLowC>
-    <rdfs:comment xml:lang="de">Coleraine (irisch Cúil Raithin) ist eine Stadt im County Derry in Nordirland. Coleraine liegt am River Bann nahe der Mündung in den Nordkanal (englisch North Channel). Das touristische Motto ist Capital of the Causeway Coast. Die Stadt hat 24.042 Einwohner (2001) und ist Verwaltungssitz des Bezirks Coleraine mit 56.800 Einwohnern (2007). Sie liegt 50 mi. von Belfast, 30 von Derry und 25 von Ballymena entfernt. Die meisten Einwohner sind Protestanten.</rdfs:comment>
-    <dbpprop:mapType xml:lang="en">Northern Ireland</dbpprop:mapType>
-    <rdfs:comment xml:lang="it">Coleraine (irl. Cúil Raithin; 24 089 ab. nel 2001) è una città del Regno Unito, capoluogo dell'omonimo distretto nordirlandese; appartiene alla contea storica di Londonderry. Si trova nei pressi dell'estuario del fiume Bann, a circa 85 km a nord-ovest di Belfast, e a 40 km a est dell'aeroporto di Londonderry.</rdfs:comment>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Coleraine"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.027ctx"/>
-    <dbpprop:sepHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</dbpprop:sepHighC>
-    <dbpedia-owl:district rdf:resource="http://dbpedia.org/resource/Coleraine_Borough_Council"/>
-    <rdfs:comment xml:lang="uk">Колрейн — місто у Північній Ірландії на березі річки Банн, у графстві Лондондеррі. Населення складає близько 24 000 жителів.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement"/>
-    <dbpprop:decHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dbpprop:decHighC>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
-    <dbpedia-owl:abstract xml:lang="ru">Колрейн — большой город района Колрейн, столица района, находящийся в графстве Лондондерри Северной Ирландии в устье реки Банн.</dbpedia-owl:abstract>
-    <dbpprop:janLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:janLowC>
-    <dbpprop:marHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dbpprop:marHighC>
-    <rdfs:label xml:lang="de">Coleraine</rdfs:label>
-    <dbpprop:irishGridReference rdf:datatype="http://dbpedia.org/datatype/nicaraguanCórdoba">844328.0</dbpprop:irishGridReference>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_UK_place"/>
-    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
-    <dbpprop:aprHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</dbpprop:aprHighC>
-    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
-    <rdfs:comment xml:lang="no">Coleraine er en by i grevskapet Londonderry i Nord-Irland. Den ligger ved elven Banns munning, og er administrasjonsby for distriktet Coleraine. University of Ulster har en stor avdeling i byen. På den ca. 60 m høye haugen Mountsandel er det funnet rester av trehus fra omkring 7000 f. Kr.</rdfs:comment>
-    <dbpprop:postTown xml:lang="en">COLERAINE</dbpprop:postTown>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <rdfs:comment xml:lang="fr">Coleraine (Cúil Raithin en Irlandais) est une ville du Comté de Londonderry en Irlande du Nord. Coleraine est située à l’embouchure de la rivière Bann à 90 km au nord-est de Belfast et 50 km à l’est de Londonderry. Coleraine compte 24 089 habitants avec 5 000 étudiants de l'Université d'Ulster. En termes de qualité de vie, Coleraine est une des villes les plus attractives d’Irlande du Nord.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_towns_in_the_United_Kingdom"/>
-    <dbpprop:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#int">55</dbpprop:latitude>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Coleraine"/>
-    <foaf:name xml:lang="en">Cúil Raithin</foaf:name>
-    <dbpprop:labelPosition xml:lang="en">none</dbpprop:labelPosition>
-    <dbpedia-owl:postalCode xml:lang="en">BT51, BT52</dbpedia-owl:postalCode>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.riverbannireland.com/Coleraine.T284.aspx"/>
-    <dbpprop:mayLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dbpprop:mayLowC>
-    <dbpprop:sepLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dbpprop:sepLowC>
-    <grs:point xml:lang="en">55.133 -6.661</grs:point>
-    <dbpprop:julLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</dbpprop:julLowC>
-    <dbpedia-owl:abstract xml:lang="de">Coleraine (irisch Cúil Raithin) ist eine Stadt im County Derry in Nordirland. Coleraine liegt am River Bann nahe der Mündung in den Nordkanal (englisch North Channel). Das touristische Motto ist Capital of the Causeway Coast. Die Stadt hat 24.042 Einwohner (2001) und ist Verwaltungssitz des Bezirks Coleraine mit 56.800 Einwohnern (2007). Sie liegt 50 mi. von Belfast, 30 von Derry und 25 von Ballymena entfernt. Die meisten Einwohner sind Protestanten. Coleraine ist durch Bahnlinien mit Belfast, Derry und Portrush verbunden. Die als New University of Ulster, Coleraine am Stadtrand von Coleraine gegründete Universität fusionierte 1984 mit Ulster Polytechnic, Jordanstown und ist seitdem administratives Zentrum der University of Ulster. Der Campus Coleraine ist mit 6000 Studenten (1999) der größte der vier Universitätsstandorte. Auf dem Gelände befinden sich ein Bahnhaltepunkt entlang der Strecke Coleraine-Portrush und seit 1976 auch das Riverside Theatre.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Колрейн"/>
-    <dbpprop:metricFirst xml:lang="en">Yes</dbpprop:metricFirst>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.colerainecommunitysafety.com/"/>
-    <dbpprop:constituencyWestminster rdf:resource="http://dbpedia.org/resource/East_Londonderry_(UK_Parliament_constituency)"/>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Coleraine"/>
-    <rdfs:comment xml:lang="en">Coleraine is a large town near the mouth of the River Bann in County Londonderry, Northern Ireland. It is 55 miles (88.5 km) northwest of Belfast and 30 miles (48.3 km) east of Derry, both of which are linked by major roads and railway connections. City of Derry Airport, 25 miles (40.2 km) to the west, Belfast International Airport, the main regional airport to the south and George Best Belfast City Airport to the south–east are all relatively accessible from Coleraine.</rdfs:comment>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <dbpprop:staticImageCaption xml:lang="en">Coleraine town hall</dbpprop:staticImageCaption>
-    <dbpprop:staticImage2Caption xml:lang="en">OpenStreetMap of Coleraine</dbpprop:staticImage2Caption>
-    <dbpedia-owl:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24089</dbpedia-owl:populationTotal>
-    <foaf:name xml:lang="en">Coleraine</foaf:name>
-    <rdfs:comment xml:lang="pl">Coleraine – miasto w Wielkiej Brytanii, przy ujściu rzeki Bann do Kanału Północnego. Co. Londonderry. Liczba mieszkańców w 2003 roku wynosiła ok. 26 tys.</rdfs:comment>
-    <dbpprop:junHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</dbpprop:junHighC>
-    <dbpprop:country xml:lang="en">Northern Ireland</dbpprop:country>
-    <dbpedia-owl:abstract xml:lang="nl">Coleraine (uit het Iers: Cúil Raithin is een middelgrote plaats in het graafschap Londonderry, Noord-Ierland, vlakbij de monding van de rivier de Bann, 88 km ten noordwesten van Belfast en 48 km ten oosten van Derry. Het bevolkingaantal bedraagt 24.042 . De stad en regio zijn relatief welvarend; de onroerendgoedprijzen zijn zelfs het hoogst van Noord-Ierland. Coleraine heeft een aantrekkelijk centrum en een jachthaven, en het prestigieuze Riverside-theater is er gevestigd. 's Nachts is de stad relatief stil, aangezien het meeste nachtleven zich concentreert op het nabijgelegen kustgebied in de plaatsen Portrush en Portstewart. De locatie van Coleraine aan de rivier de Bann, alwaar de rivier een kwart kilometer breed is, is indrukwekkend. Het stadsplein is genaamd 'The Diamond' en het stadhuis en de nabijgelegen St. Patrick's-kerk liggen beide aan dit plein. Coleraine is het voornaamste economische centrum van het noordwesten van Noord-Ierland. De stad telt weliswaar slechts 24.000 inwoners, maar heeft een grote verzorgende functie voor de omgeving. Ondanks een grote unionistische meerderheid zijn er over het algemeen goede betrekkingen tussen de gemeenschappen. In 2001 had 22,7% een katholieke en 73,5% een protestantse achtergrond.</dbpedia-owl:abstract>
-    <dbpprop:novHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</dbpprop:novHighC>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Coleraine"/>
-    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-6.661 55.133)</geo:geometry>
-    <dbpprop:location rdf:datatype="http://dbpedia.org/datatype/second">1.200138E7</dbpprop:location>
-    <dbpedia-owl:abstract xml:lang="pl">Coleraine – miasto w Wielkiej Brytanii, przy ujściu rzeki Bann do Kanału Północnego. Co. Londonderry. Liczba mieszkańców w 2003 roku wynosiła ok. 26 tys.</dbpedia-owl:abstract>
-    <dbpprop:unitaryNorthernIreland rdf:resource="http://dbpedia.org/resource/Coleraine_Borough_Council"/>
-    <dbpprop:officialName xml:lang="en">Coleraine</dbpprop:officialName>
-    <dbpprop:date xml:lang="en">Sep 2011</dbpprop:date>
-    <dbpprop:novLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</dbpprop:novLowC>
-    <dbpprop:lieutenancyNorthernIreland rdf:resource="http://dbpedia.org/resource/County_Londonderry"/>
-    <foaf:name xml:lang="en">Cowlrain or Cowlraine</foaf:name>
-    <dbpprop:julHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</dbpprop:julHighC>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeoclassPopulatedPlace"/>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/c/c9/Coleraine_Stadtmitte.jpg"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UniversityTownsInTheUnitedKingdom"/>
-    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
-    <dbpprop:constituencyNiAssembly rdf:resource="http://dbpedia.org/resource/East_Londonderry_(Assembly_constituency)"/>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:abstract xml:lang="en">Coleraine is a large town near the mouth of the River Bann in County Londonderry, Northern Ireland. It is 55 miles (88.5 km) northwest of Belfast and 30 miles (48.3 km) east of Derry, both of which are linked by major roads and railway connections. City of Derry Airport, 25 miles (40.2 km) to the west, Belfast International Airport, the main regional airport to the south and George Best Belfast City Airport to the south–east are all relatively accessible from Coleraine.</dbpedia-owl:abstract>
-    <dbpprop:octHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">13</dbpprop:octHighC>
-    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-6.661</geo:long>
-    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.133</geo:lat>
-    <dbpprop:scotsName xml:lang="en">Cowlrain or Cowlraine</dbpprop:scotsName>
-    <dbpprop:febHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dbpprop:febHighC>
-    <rdfs:label xml:lang="uk">Колрейн</rdfs:label>
-    <dbpprop:mayHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</dbpprop:mayHighC>
-    <dbpedia-owl:abstract xml:lang="it">Coleraine (irl. Cúil Raithin; 24 089 ab. nel 2001) è una città del Regno Unito, capoluogo dell'omonimo distretto nordirlandese; appartiene alla contea storica di Londonderry. Si trova nei pressi dell'estuario del fiume Bann, a circa 85 km a nord-ovest di Belfast, e a 40 km a est dell'aeroporto di Londonderry.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="fr">Coleraine (Cúil Raithin en Irlandais) est une ville du Comté de Londonderry en Irlande du Nord. Coleraine est située à l’embouchure de la rivière Bann à 90 km au nord-est de Belfast et 50 km à l’est de Londonderry. Coleraine compte 24 089 habitants avec 5 000 étudiants de l'Université d'Ulster. En termes de qualité de vie, Coleraine est une des villes les plus attractives d’Irlande du Nord. La côte au nord de la ville est l’endroit où les prix du terrain sont les plus élevés de la province, y compris devant les quartiers sud de Belfast. La ville est plutôt calme, les principales activités nocturnes (pubs, club, etc. ) se trouvent dans les villes côtières de Portrush et Portstewart. On trouve à proximité des paysages et des monuments à très fort pouvoir d’attraction comme la Chaussée des Géants, Dunluce castle ou les Glen of Antrim. Coleraine se situe sur à l’emplacement du dernier pont sur la Bann. C’est à proximité de la ville, à Mountsandel Fort, que l’on a trouvé les plus vieilles maisons d’Irlande, datant de 7 000 ans avant JC. Elle est jumelée depuis 1980 avec la ville française de La Roche sur Yon.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://linkedgeodata.org/triplify/node267763060"/>
-    <dbpprop:irishName xml:lang="en">Cúil Raithin</dbpprop:irishName>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.coleraineyouthforum.co.uk/"/>
-    <dbpprop:dialCode rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</dbpprop:dialCode>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TownsInCountyLondonderry"/>
-    <dbpprop:febLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:febLowC>
-    <dbpprop:augHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</dbpprop:augHighC>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Coleraine"/>
-    <dbpprop:singleLine xml:lang="en">Yes</dbpprop:singleLine>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Coleraine_Stadtmitte.jpg/200px-Coleraine_Stadtmitte.jpg"/>
-    <dbpedia-owl:county rdf:resource="http://dbpedia.org/resource/County_Londonderry"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Coleraine"/>
-    <dbpprop:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#int">-7</dbpprop:longitude>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-location-noun-1"/>
-    <dbpprop:decLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:decLowC>
-    <dbpprop:janHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dbpprop:janHighC>
-    <dbpprop:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24089</dbpprop:population>
-    <dbpprop:staticImage rdf:datatype="http://www.w3.org/2001/XMLSchema#int">200</dbpprop:staticImage>
-    <dbpedia-owl:abstract xml:lang="uk">Колрейн — місто у Північній Ірландії на березі річки Банн, у графстві Лондондеррі. Населення складає близько 24 000 жителів.</dbpedia-owl:abstract>
-    <dbpprop:octLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dbpprop:octLowC>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.activcoleraine.com/"/>
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Coleraine?oldid=493015381"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
-    <rdfs:comment xml:lang="ru">Колрейн — большой город района Колрейн, столица района, находящийся в графстве Лондондерри Северной Ирландии в устье реки Банн.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Towns_in_County_Londonderry"/>
-    <dbpprop:junLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dbpprop:junLowC>
-    <dbpprop:postcodeDistrict xml:lang="en">BT51, BT52</dbpprop:postcodeDistrict>
     <dbpedia-owl:abstract xml:lang="no">Coleraine er en by i grevskapet Londonderry i Nord-Irland. Den ligger ved elven Banns munning, og er administrasjonsby for distriktet Coleraine. University of Ulster har en stor avdeling i byen. På den ca. 60 m høye haugen Mountsandel er det funnet rester av trehus fra omkring 7000 f. Kr.</dbpedia-owl:abstract>
-    <dbpedia-owl:areaCode xml:lang="en">028</dbpedia-owl:areaCode>
-    <dbpprop:source rdf:resource="http://dbpedia.org/resource/YR.NO"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Weather_box"/>
-    <rdfs:comment xml:lang="sv">Coleraine är en stad i grevskapet Londonderry i Nordirland. Staden hade 24 089 invånare år 2001 och är distriktstad för distriktet Coleraine. Staden ligger belägen vid floden Banns mynning. Ett av University of Ulsters fyra campus ligger i Coleraine. På den cirka 60 meter höga kullen Mountsandel har man funnit rester från trähus byggda runt år 7000 f. Kr.</rdfs:comment>
-    <dbpprop:aprLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</dbpprop:aprLowC>
+    <dbpprop:constituencyWestminster rdf:resource="http://dbpedia.org/resource/East_Londonderry_(UK_Parliament_constituency)"/>
+    <rdfs:comment xml:lang="it">Coleraine (irl. Cúil Raithin; 24 089 ab. nel 2001) è una città del Regno Unito, capoluogo dell'omonimo distretto nordirlandese; appartiene alla contea storica di Londonderry. Si trova nei pressi dell'estuario del fiume Bann, a circa 85 km a nord-ovest di Belfast, e a 40 km a est dell'aeroporto di Londonderry.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature"/>
+    <rdfs:comment xml:lang="fr">Coleraine (Cúil Raithin en Irlandais) est une ville du Comté de Londonderry en Irlande du Nord. Coleraine est située à l’embouchure de la rivière Bann à 90 km au nord-est de Belfast et 50 km à l’est de Londonderry. Coleraine compte 24 089 habitants avec 5 000 étudiants de l'Université d'Ulster. En termes de qualité de vie, Coleraine est une des villes les plus attractives d’Irlande du Nord.</rdfs:comment>
+    <dbpprop:irishGridReference rdf:datatype="http://dbpedia.org/datatype/nicaraguanCórdoba">844328.0</dbpprop:irishGridReference>
+    <dbpprop:febHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dbpprop:febHighC>
+    <dbpprop:date xml:lang="en">Sep 2011</dbpprop:date>
+    <dbpprop:unitaryNorthernIreland rdf:resource="http://dbpedia.org/resource/Coleraine_Borough_Council"/>
+    <dbpprop:octLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dbpprop:octLowC>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.133</geo:lat>
+    <owl:sameAs rdf:resource="http://linkedgeodata.org/triplify/node267763060"/>
+    <dbpprop:dialCode rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</dbpprop:dialCode>
+    <dbpprop:officialName xml:lang="en">Coleraine</dbpprop:officialName>
+    <dbpprop:novHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</dbpprop:novHighC>
+    <dbpedia-owl:county rdf:resource="http://dbpedia.org/resource/County_Londonderry"/>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-6.661 55.133)</geo:geometry>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <dbpedia-owl:abstract xml:lang="de">Coleraine (irisch Cúil Raithin) ist eine Stadt im County Derry in Nordirland. Coleraine liegt am River Bann nahe der Mündung in den Nordkanal (englisch North Channel). Das touristische Motto ist Capital of the Causeway Coast. Die Stadt hat 24.042 Einwohner (2001) und ist Verwaltungssitz des Bezirks Coleraine mit 56.800 Einwohnern (2007). Sie liegt 50 mi. von Belfast, 30 von Derry und 25 von Ballymena entfernt. Die meisten Einwohner sind Protestanten. Coleraine ist durch Bahnlinien mit Belfast, Derry und Portrush verbunden. Die als New University of Ulster, Coleraine am Stadtrand von Coleraine gegründete Universität fusionierte 1984 mit Ulster Polytechnic, Jordanstown und ist seitdem administratives Zentrum der University of Ulster. Der Campus Coleraine ist mit 6000 Studenten (1999) der größte der vier Universitätsstandorte. Auf dem Gelände befinden sich ein Bahnhaltepunkt entlang der Strecke Coleraine-Portrush und seit 1976 auch das Riverside Theatre.</dbpedia-owl:abstract>
     <rdfs:label xml:lang="en">Coleraine</rdfs:label>
+    <dbpprop:junLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dbpprop:junLowC>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.activcoleraine.com/"/>
+    <dbpprop:marLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</dbpprop:marLowC>
+    <dbpedia-owl:abstract xml:lang="en">Coleraine is a large town near the mouth of the River Bann in County Londonderry, Northern Ireland. It is 55 miles (88.5 km) northwest of Belfast and 30 miles (48.3 km) east of Derry, both of which are linked by major roads and railway connections. City of Derry Airport, 25 miles (40.2 km) to the west, Belfast International Airport, the main regional airport to the south and George Best Belfast City Airport to the south–east are all relatively accessible from Coleraine.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="de">Coleraine (irisch Cúil Raithin) ist eine Stadt im County Derry in Nordirland. Coleraine liegt am River Bann nahe der Mündung in den Nordkanal (englisch North Channel). Das touristische Motto ist Capital of the Causeway Coast. Die Stadt hat 24.042 Einwohner (2001) und ist Verwaltungssitz des Bezirks Coleraine mit 56.800 Einwohnern (2007). Sie liegt 50 mi. von Belfast, 30 von Derry und 25 von Ballymena entfernt. Die meisten Einwohner sind Protestanten.</rdfs:comment>
+    <foaf:name xml:lang="en">Cúil Raithin</foaf:name>
+    <rdfs:comment xml:lang="en">Coleraine is a large town near the mouth of the River Bann in County Londonderry, Northern Ireland. It is 55 miles (88.5 km) northwest of Belfast and 30 miles (48.3 km) east of Derry, both of which are linked by major roads and railway connections. City of Derry Airport, 25 miles (40.2 km) to the west, Belfast International Airport, the main regional airport to the south and George Best Belfast City Airport to the south–east are all relatively accessible from Coleraine.</rdfs:comment>
+    <dbpedia-owl:district rdf:resource="http://dbpedia.org/resource/Coleraine_Borough_Council"/>
+    <dbpprop:irishName xml:lang="en">Cúil Raithin</dbpprop:irishName>
+    <dbpprop:staticImageCaption xml:lang="en">Coleraine town hall</dbpprop:staticImageCaption>
+    <dbpprop:octHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">13</dbpprop:octHighC>
+    <dbpprop:constituencyNiAssembly rdf:resource="http://dbpedia.org/resource/East_Londonderry_(Assembly_constituency)"/>
+    <dbpprop:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24089</dbpprop:population>
+    <dbpprop:labelPosition xml:lang="en">none</dbpprop:labelPosition>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Coleraine"/>
+    <dbpprop:staticImage2Caption xml:lang="en">OpenStreetMap of Coleraine</dbpprop:staticImage2Caption>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.coleraineyouthforum.co.uk/"/>
+    <dbpedia-owl:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24089</dbpedia-owl:populationTotal>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Coleraine"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-6.661</geo:long>
+    <dbpedia-owl:abstract xml:lang="fr">Coleraine (Cúil Raithin en Irlandais) est une ville du Comté de Londonderry en Irlande du Nord. Coleraine est située à l’embouchure de la rivière Bann à 90 km au nord-est de Belfast et 50 km à l’est de Londonderry. Coleraine compte 24 089 habitants avec 5 000 étudiants de l'Université d'Ulster. En termes de qualité de vie, Coleraine est une des villes les plus attractives d’Irlande du Nord. La côte au nord de la ville est l’endroit où les prix du terrain sont les plus élevés de la province, y compris devant les quartiers sud de Belfast. La ville est plutôt calme, les principales activités nocturnes (pubs, club, etc. ) se trouvent dans les villes côtières de Portrush et Portstewart. On trouve à proximité des paysages et des monuments à très fort pouvoir d’attraction comme la Chaussée des Géants, Dunluce castle ou les Glen of Antrim. Coleraine se situe sur à l’emplacement du dernier pont sur la Bann. C’est à proximité de la ville, à Mountsandel Fort, que l’on a trouvé les plus vieilles maisons d’Irlande, datant de 7 000 ans avant JC. Elle est jumelée depuis 1980 avec la ville française de La Roche sur Yon.</dbpedia-owl:abstract>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
+    <dbpprop:postTown xml:lang="en">COLERAINE</dbpprop:postTown>
+    <dbpprop:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#int">55</dbpprop:latitude>
+    <dbpprop:sepHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</dbpprop:sepHighC>
+    <dbpprop:mapType xml:lang="en">Northern Ireland</dbpprop:mapType>
+    <foaf:name xml:lang="en">Coleraine</foaf:name>
+    <dbpedia-owl:abstract xml:lang="it">Coleraine (irl. Cúil Raithin; 24 089 ab. nel 2001) è una città del Regno Unito, capoluogo dell'omonimo distretto nordirlandese; appartiene alla contea storica di Londonderry. Si trova nei pressi dell'estuario del fiume Bann, a circa 85 km a nord-ovest di Belfast, e a 40 km a est dell'aeroporto di Londonderry.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Coleraine"/>
+    <dbpprop:staticImage rdf:datatype="http://www.w3.org/2001/XMLSchema#int">200</dbpprop:staticImage>
+    <dbpprop:janLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:janLowC>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.colerainebc.gov.uk/"/>
-    <dbpedia-owl:abstract xml:lang="sv">Coleraine är en stad i grevskapet Londonderry i Nordirland. Staden hade 24 089 invånare år 2001 och är distriktstad för distriktet Coleraine. Staden ligger belägen vid floden Banns mynning. Ett av University of Ulsters fyra campus ligger i Coleraine. På den cirka 60 meter höga kullen Mountsandel har man funnit rester från trähus byggda runt år 7000 f. Kr.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <dbpprop:augHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</dbpprop:augHighC>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Coleraine_Stadtmitte.jpg/200px-Coleraine_Stadtmitte.jpg"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Coleraine?oldid=493015381"/>
+    <dbpprop:mayHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</dbpprop:mayHighC>
+    <dbpprop:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#int">-7</dbpprop:longitude>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.colerainecommunitysafety.com/"/>
+    <dbpprop:julHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</dbpprop:julHighC>
+    <dbpprop:julLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</dbpprop:julLowC>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_towns_in_the_United_Kingdom"/>
+    <dbpprop:lieutenancyNorthernIreland rdf:resource="http://dbpedia.org/resource/County_Londonderry"/>
+    <rdfs:comment xml:lang="uk">Колрейн — місто у Північній Ірландії на березі річки Банн, у графстві Лондондеррі. Населення складає близько 24 000 жителів.</rdfs:comment>
+    <dbpprop:novLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</dbpprop:novLowC>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Towns_in_County_Londonderry"/>
+    <dbpprop:postcodeDistrict xml:lang="en">BT51, BT52</dbpprop:postcodeDistrict>
+    <dbpedia-owl:abstract xml:lang="nl">Coleraine (uit het Iers: Cúil Raithin is een middelgrote plaats in het graafschap Londonderry, Noord-Ierland, vlakbij de monding van de rivier de Bann, 88 km ten noordwesten van Belfast en 48 km ten oosten van Derry. Het bevolkingaantal bedraagt 24.042 . De stad en regio zijn relatief welvarend; de onroerendgoedprijzen zijn zelfs het hoogst van Noord-Ierland. Coleraine heeft een aantrekkelijk centrum en een jachthaven, en het prestigieuze Riverside-theater is er gevestigd. 's Nachts is de stad relatief stil, aangezien het meeste nachtleven zich concentreert op het nabijgelegen kustgebied in de plaatsen Portrush en Portstewart. De locatie van Coleraine aan de rivier de Bann, alwaar de rivier een kwart kilometer breed is, is indrukwekkend. Het stadsplein is genaamd 'The Diamond' en het stadhuis en de nabijgelegen St. Patrick's-kerk liggen beide aan dit plein. Coleraine is het voornaamste economische centrum van het noordwesten van Noord-Ierland. De stad telt weliswaar slechts 24.000 inwoners, maar heeft een grote verzorgende functie voor de omgeving. Ondanks een grote unionistische meerderheid zijn er over het algemeen goede betrekkingen tussen de gemeenschappen. In 2001 had 22,7% een katholieke en 73,5% een protestantse achtergrond.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Coleraine"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpprop:decLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:decLowC>
+    <dbpedia-owl:areaCode xml:lang="en">028</dbpedia-owl:areaCode>
+    <dbpprop:junHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</dbpprop:junHighC>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement"/>
+    <dbpprop:country xml:lang="en">Northern Ireland</dbpprop:country>
+    <rdfs:comment xml:lang="pl">Coleraine – miasto w Wielkiej Brytanii, przy ujściu rzeki Bann do Kanału Północnego. Co. Londonderry. Liczba mieszkańców w 2003 roku wynosiła ok. 26 tys.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Колрейн"/>
+    <rdfs:comment xml:lang="ru">Колрейн — большой город района Колрейн, столица района, находящийся в графстве Лондондерри Северной Ирландии в устье реки Банн.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UniversityTownsInTheUnitedKingdom"/>
+    <dbpprop:janHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dbpprop:janHighC>
+    <dbpedia-owl:abstract xml:lang="pl">Coleraine – miasto w Wielkiej Brytanii, przy ujściu rzeki Bann do Kanału Północnego. Co. Londonderry. Liczba mieszkańców w 2003 roku wynosiła ok. 26 tys.</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Weather_box"/>
+    <dbpprop:augLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</dbpprop:augLowC>
+    <dbpprop:mayLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dbpprop:mayLowC>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Coleraine"/>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <rdfs:label xml:lang="uk">Колрейн</rdfs:label>
+    <grs:point xml:lang="en">55.133 -6.661</grs:point>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeoclassPopulatedPlace"/>
+    <dbpprop:aprLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</dbpprop:aprLowC>
+    <dbpedia-owl:abstract xml:lang="uk">Колрейн — місто у Північній Ірландії на березі річки Банн, у графстві Лондондеррі. Населення складає близько 24 000 жителів.</dbpedia-owl:abstract>
+    <dbpprop:postcodeArea xml:lang="en">BT</dbpprop:postcodeArea>
     <rdfs:comment xml:lang="nl">Coleraine (uit het Iers: Cúil Raithin is een middelgrote plaats in het graafschap Londonderry, Noord-Ierland, vlakbij de monding van de rivier de Bann, 88 km ten noordwesten van Belfast en 48 km ten oosten van Derry. Het bevolkingaantal bedraagt 24.042 . De stad en regio zijn relatief welvarend; de onroerendgoedprijzen zijn zelfs het hoogst van Noord-Ierland. Coleraine heeft een aantrekkelijk centrum en een jachthaven, en het prestigieuze Riverside-theater is er gevestigd.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_ICC_Under-19_Cricket_World_Cup_Qualifier">
-    <dbpprop:venue rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_UEFA_European_Under-19_Football_Championship_qualification">
-    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pauline_Armitage">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maureen_Madill">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Cook_(Northern_Irish_footballer)">
-    <dbpprop:cityofbirth rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Ulster">
-    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Coleraine">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Coleraine_Borough_Council">
-    <dbpprop:districtHq rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A2_road_(Northern_Ireland)">
-    <dbpprop:destinations rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kilrea_Primary_School">
-    <dbpedia-owl:city rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_UEFA_European_Under-21_Football_Championship_qualification_Group_5">
-    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Coleraine_cheddar">
-    <dbpprop:regiontown rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Estate">
-    <dbpedia-owl:location rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Chambers_(rower)">
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_in_American_soccer">
-    <dbpprop:location rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jenna_McCorkell">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_McClarty">
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/University_halt">
-    <dbpprop:locale rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/2009_UEFA_European_Under-19_Football_Championship_qualification">
-    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Greenmount">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/2010_Bohemian_F.C._season">
-    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Coleraine_F.C.">
-    <dbpprop:ground rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:ground rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/UEFA_Women's_Euro_2009_qualifying">
-    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_Todd">
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Greenmount_Housing_Estate">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cowlraine">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Coleraine"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/1997%E2%80%9398_UEFA_Cup">
-    <dbpprop:stadium rdf:resource="http://dbpedia.org/resource/Coleraine"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.027ctx"/>
+    <dbpprop:sepLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dbpprop:sepLowC>
+    <dbpprop:aprHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</dbpprop:aprHighC>
+    <dbpedia-owl:abstract xml:lang="sv">Coleraine är en stad i grevskapet Londonderry i Nordirland. Staden hade 24 089 invånare år 2001 och är distriktstad för distriktet Coleraine. Staden ligger belägen vid floden Banns mynning. Ett av University of Ulsters fyra campus ligger i Coleraine. På den cirka 60 meter höga kullen Mountsandel har man funnit rester från trähus byggda runt år 7000 f. Kr.</dbpedia-owl:abstract>
+    <foaf:name xml:lang="en">Cowlrain or Cowlraine</foaf:name>
+    <dbpprop:marHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dbpprop:marHighC>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdfs:comment xml:lang="sv">Coleraine är en stad i grevskapet Londonderry i Nordirland. Staden hade 24 089 invånare år 2001 och är distriktstad för distriktet Coleraine. Staden ligger belägen vid floden Banns mynning. Ett av University of Ulsters fyra campus ligger i Coleraine. På den cirka 60 meter höga kullen Mountsandel har man funnit rester från trähus byggda runt år 7000 f. Kr.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="ru">Колрейн — большой город района Колрейн, столица района, находящийся в графстве Лондондерри Северной Ирландии в устье реки Банн.</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_UK_place"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-location-noun-1"/>
+    <dbpprop:singleLine xml:lang="en">Yes</dbpprop:singleLine>
+    <dbpedia-owl:postalCode xml:lang="en">BT51, BT52</dbpedia-owl:postalCode>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/c/c9/Coleraine_Stadtmitte.jpg"/>
+    <dbpprop:location rdf:datatype="http://dbpedia.org/datatype/second">1.200138E7</dbpprop:location>
+    <dbpprop:decHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dbpprop:decHighC>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TownsInCountyLondonderry"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Coleraine"/>
+    <dbpprop:scotsName xml:lang="en">Cowlrain or Cowlraine</dbpprop:scotsName>
+    <rdfs:label xml:lang="de">Coleraine</rdfs:label>
+    <dbpprop:metricFirst xml:lang="en">Yes</dbpprop:metricFirst>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.riverbannireland.com/Coleraine.T284.aspx"/>
+    <dbpprop:source rdf:resource="http://dbpedia.org/resource/YR.NO"/>
+    <dbpprop:febLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:febLowC>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Coleraine"/>
+    <rdfs:comment xml:lang="no">Coleraine er en by i grevskapet Londonderry i Nord-Irland. Den ligger ved elven Banns munning, og er administrasjonsby for distriktet Coleraine. University of Ulster har en stor avdeling i byen. På den ca. 60 m høye haugen Mountsandel er det funnet rester av trehus fra omkring 7000 f. Kr.</rdfs:comment>
   </rdf:Description>
 </rdf:RDF>

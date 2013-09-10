@@ -4,104 +4,104 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="Nf7c790c33f974083a5f90ff4521fb6ab">
-    <rdf:rest rdf:nodeID="N43be425ab20a40cc888cb86950af1b93"/>
-    <rdf:first>Unborn</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N187a4a022bb0493ab1e45b818bb4979a">
-    <rdf:first>Hedgehog</rdf:first>
-    <rdf:rest rdf:nodeID="N2c04a49bdc094d7883945359f9f6ad5b"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Ncde5f340f524411983001ffd43840e9c">
+  <rdf:Description rdf:nodeID="N8a9b6ae76f11455d90b18167df2da2a7">
     <rdf:first>January</rdf:first>
-    <rdf:rest rdf:nodeID="N730a47e49b9246a3a25ad0455e1001d0"/>
+    <rdf:rest rdf:nodeID="Na2f1ae847051455cb1249a3b93235203"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N2c04a49bdc094d7883945359f9f6ad5b">
-    <rdf:rest rdf:nodeID="Nf7c790c33f974083a5f90ff4521fb6ab"/>
-    <rdf:first>Seanchas</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1046">
-    <schema:name>STILLBORN</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1050">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>SNAIL</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.geonames.org/1861060/">
-    <schema:name>Japanese</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1066">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>HEDGEHOG</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1078">
-    <schema:mentions rdf:resource="http://www.geonames.org/1861060/"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2964842/"/>
-    <schema:name>LEAVING THE ISLAND</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1054">
-    <schema:mentions rdf:resource="http://sws.geonames.org/3144096/"/>
-    <schema:name>JANUARY</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N43be425ab20a40cc888cb86950af1b93">
-    <rdf:first>Leaving the Island</rdf:first>
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1070">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:name>SEANCHAS</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2964842/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name>Lough Derg</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1062">
-    <schema:name>HAWK</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/64048541">
+    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>Paul Muldoon</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1074">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:name>UNBORN</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N1aa918f146fe48718151c5902099b26f">
+  <rdf:Description rdf:nodeID="Ne5a44c6694d34951991b4e3c22331b66">
     <rdf:first>Hawk</rdf:first>
-    <rdf:rest rdf:nodeID="N187a4a022bb0493ab1e45b818bb4979a"/>
+    <rdf:rest rdf:nodeID="N9ac3026bcac442da890a42b7d0611881"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1062">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>HAWK</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2964842/">
+    <schema:name>Lough Derg</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na2f1ae847051455cb1249a3b93235203">
+    <rdf:first>Poem at Eighteen</rdf:first>
+    <rdf:rest rdf:nodeID="Ne5a44c6694d34951991b4e3c22331b66"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb8c64738c2b14e4c960d05cdebf48b4c">
+    <rdf:rest rdf:nodeID="Nfc0cc4b1f9344be39a668c525e955151"/>
+    <rdf:first>Seanchas</rdf:first>
   </rdf:Description>
   <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/79045d2e1976a47d3bbc111d561e684c">
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <dc:title rdf:nodeID="N4f2d17657f1a4b808fef98b0e8d16a63"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
     <schema:name>POEMS BY PAUL MULDOON</schema:name>
     <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17mbr"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
-    <dc:title rdf:nodeID="Ne544b72ce27a41a8ba0f5c5edc630bdd"/>
-    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc1669ef9710a4c6daeb4a1852503bf3e">
-    <rdf:rest rdf:nodeID="Ncde5f340f524411983001ffd43840e9c"/>
-    <rdf:first>Snail</rdf:first>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1046">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>STILLBORN</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/64048541"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1070">
+    <schema:name>SEANCHAS</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1058">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
     <schema:name>POEM AT EIGHTEEN</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/64048541">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:name>Paul Muldoon</schema:name>
-    <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N730a47e49b9246a3a25ad0455e1001d0">
-    <rdf:first>Poem at Eighteen</rdf:first>
-    <rdf:rest rdf:nodeID="N1aa918f146fe48718151c5902099b26f"/>
+  <rdf:Description rdf:nodeID="Nfc0cc4b1f9344be39a668c525e955151">
+    <rdf:first>Unborn</rdf:first>
+    <rdf:rest rdf:nodeID="Ncd9b0de5812d42348d5ac0ed29b441b0"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/3144096/">
-    <schema:name>Norway</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Norway</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Ne544b72ce27a41a8ba0f5c5edc630bdd">
+  <rdf:Description rdf:nodeID="Ncd9b0de5812d42348d5ac0ed29b441b0">
+    <rdf:first>Leaving the Island</rdf:first>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1050">
+    <schema:name>SNAIL</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1054">
+    <schema:mentions rdf:resource="http://sws.geonames.org/3144096/"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>JANUARY</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4f2d17657f1a4b808fef98b0e8d16a63">
+    <rdf:rest rdf:nodeID="Nd4644288b78c4cdfacd87156c8931ce0"/>
     <rdf:first>Stillborn</rdf:first>
-    <rdf:rest rdf:nodeID="Nc1669ef9710a4c6daeb4a1852503bf3e"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd4644288b78c4cdfacd87156c8931ce0">
+    <rdf:first>Snail</rdf:first>
+    <rdf:rest rdf:nodeID="N8a9b6ae76f11455d90b18167df2da2a7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1066">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>HEDGEHOG</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.geonames.org/1861060/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Japanese</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9ac3026bcac442da890a42b7d0611881">
+    <rdf:rest rdf:nodeID="Nb8c64738c2b14e4c960d05cdebf48b4c"/>
+    <rdf:first>Hedgehog</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17mbr#muldoon2_1078">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2964842/"/>
+    <schema:name>LEAVING THE ISLAND</schema:name>
+    <schema:mentions rdf:resource="http://www.geonames.org/1861060/"/>
   </rdf:Description>
 </rdf:RDF>

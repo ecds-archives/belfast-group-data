@@ -8,93 +8,103 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cola2002157267#skos:Concept">
+    <skos:prefLabel>Freeman, Bud, 1906-1991</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/12491353"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:altLabel>Freeman, Lawrence, 1906-1991</skos:altLabel>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50026374#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/12491353"/>
     <skos:altLabel>Freeman, Lawrence, 1906-1991</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50026374"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Freeman, Bud, 1906-1991</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CBud_Freeman#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <skos:prefLabel>Freeman, Bud</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/12491353"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/12491353">
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/134377370"/>
-    <foaf:name>Freeman, Bud</foaf:name>
-    <foaf:name>Freeman, Lawrence, 1906-1991</foaf:name>
-    <foaf:name>Bud Lawrence, Freeman</foaf:name>
-    <foaf:name>Freeman, But</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bud_Freeman"/>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <rdaGr2:dateOfBirth>1906-04-13</rdaGr2:dateOfBirth>
-    <rdaGr2:dateOfDeath>1991-03-15</rdaGr2:dateOfDeath>
-    <foaf:name>Freeman, Lawrence</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/114313628/id"/>
-    <foaf:name>Freeman, Bud Lawrence</foaf:name>
-    <foaf:name>Freeman, Bud (Lawrence), 1906-</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb13894147q#foaf:Person"/>
-    <foaf:name>Freeman, Bud, 1906-1991</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/12491353/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/12491353"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/12491353/#foaf:Person">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/12491353"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C114313628#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/12491353"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:altLabel>Freeman, Bud</skos:altLabel>
-    <skos:altLabel>Freeman, Bud Lawrence</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Bud Lawrence, Freeman</skos:altLabel>
-    <skos:prefLabel>Freeman, Bud, 1906-1991</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C13894147#skos:Concept">
-    <skos:prefLabel>Freeman, Bud, 1906-1991</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb13894147q"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb13894147q"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/12491353"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035944546#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/12491353"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
     <skos:prefLabel>Freeman, Bud, 1906-1991</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072305592#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/12491353"/>
-    <skos:prefLabel>Freeman, Bud (Lawrence), 1906-</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cola2002157267#skos:Concept">
-    <skos:altLabel>Freeman, Lawrence, 1906-1991</skos:altLabel>
-    <skos:prefLabel>Freeman, Bud, 1906-1991</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/12491353"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/12491353/">
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/12491353"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C134377370#skos:Concept">
+    <skos:altLabel>Freeman, But</skos:altLabel>
+    <skos:prefLabel>Freeman, Bud</skos:prefLabel>
+    <skos:altLabel>Freeman, Lawrence</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/12491353"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CBud_Freeman#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Freeman, Bud</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/12491353"/>
-    <skos:altLabel>Freeman, But</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:altLabel>Freeman, Lawrence</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072305592#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/12491353"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Freeman, Bud (Lawrence), 1906-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C114313628#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Bud Lawrence, Freeman</skos:altLabel>
+    <skos:prefLabel>Freeman, Bud, 1906-1991</skos:prefLabel>
+    <skos:altLabel>Freeman, Bud Lawrence</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/12491353"/>
+    <skos:altLabel>Freeman, Bud</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/12491353/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/12491353"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C13894147#skos:Concept">
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb13894147q"/>
+    <skos:prefLabel>Freeman, Bud, 1906-1991</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/12491353"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb13894147q"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/12491353/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/12491353"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/12491353">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bud_Freeman"/>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/148619929"/>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/121145768"/>
+    <foaf:name>Freeman, Bud, 1906-1991</foaf:name>
+    <foaf:name>Freeman, Bud (Lawrence), 1906-</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/114313628/id"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/167944465"/>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/167944465"/>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/152268882"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/152268882"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/134377370"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb13894147q#foaf:Person"/>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/156134298"/>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/156134298"/>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/148619929"/>
+    <rdaGr2:dateOfBirth>1906-04-13</rdaGr2:dateOfBirth>
+    <foaf:name>Freeman, Bud</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/121145768"/>
+    <foaf:name>Freeman, Lawrence, 1906-1991</foaf:name>
+    <rdaGr2:dateOfDeath>1991-03-15</rdaGr2:dateOfDeath>
+    <foaf:name>Freeman, Bud Lawrence</foaf:name>
+    <foaf:name>Freeman, Lawrence</foaf:name>
+    <foaf:name>Freeman, But</foaf:name>
+    <foaf:name>Bud Lawrence, Freeman</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/12491353/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/12491353"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
 </rdf:RDF>

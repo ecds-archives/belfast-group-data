@@ -4,62 +4,62 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="Nb3404b89894e4f63a5f3cb92eb7b597e">
-    <rdf:rest rdf:nodeID="N6d0e364bce3645019276f225e4c92389"/>
+  <rdf:Description rdf:nodeID="N03adbfafba76463b903c259ed534e0c3">
+    <rdf:rest rdf:nodeID="N6b4b6833eabe433fb02ffe24cc67482e"/>
     <rdf:first xml:lang="en">The Honest Ulsterman</rdf:first>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N2c8884b6abd04a97816e7b830124ded6">
-    <rdf:type rdf:resource="http://schema.org/Organization"/>
-    <schema:name xml:lang="en">Ulsterman Publication</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N29dc68218d114f5da8d8d8415f697774">
-    <rdf:first xml:lang="en">The Literary Review</rdf:first>
+  <rdf:Description rdf:nodeID="N4b2f010176344e3b91b8a8e319f5ceda">
     <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first xml:lang="en">TLS</rdf:first>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/36933157">
-    <schema:name xml:lang="en">Craig,
-                                    Patricia</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/92591927">
     <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">James
+                                Simmons</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Nd5aa9447d53047e3b225fc19c086e006">
+  <rdf:Description rdf:nodeID="Nde6703c1ed6a48af9f538f5e7df547ee">
     <schema:mentions rdf:resource="http://viaf.org/viaf/7448401"/>
     <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
+    <dc:title rdf:nodeID="N03adbfafba76463b903c259ed534e0c3"/>
     <schema:mentions rdf:resource="http://viaf.org/viaf/92591927"/>
-    <dc:title rdf:nodeID="N83a27c48648a44b7b07a80d445934af2"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5aa58baebdec411b9a500b1638fa4b85">
+    <schema:name xml:lang="en">Ulsterman Publication</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.5/">
+    <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
+    <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004; Subseries 2.5: Printed material about The Honest Ulsterman</schema:name>
+    <schema:about rdf:resource="http://viaf.org/viaf/49280158"/>
+    <rdf:type rdf:resource="http://schema.org/WebPage"/>
+    <schema:mentions rdf:nodeID="Nde6703c1ed6a48af9f538f5e7df547ee"/>
+    <schema:mentions rdf:nodeID="N3ed47c9424834f07aa9363dc1c631b98"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne16f6b95f8f6480c80b31d3fd305474a">
+    <rdf:first xml:lang="en">The Honest Ulsterman</rdf:first>
+    <rdf:rest rdf:nodeID="N4b2f010176344e3b91b8a8e319f5ceda"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6b4b6833eabe433fb02ffe24cc67482e">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first xml:lang="en">The Literary Review</rdf:first>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/7448401">
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">Frazier,
                                     Adrian</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N83a27c48648a44b7b07a80d445934af2">
-    <rdf:rest rdf:nodeID="N29dc68218d114f5da8d8d8415f697774"/>
-    <rdf:first xml:lang="en">The Honest Ulsterman</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series2/subseries2.5/">
-    <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004; Subseries 2.5: Printed material about The Honest Ulsterman</schema:name>
-    <schema:dateModified xml:lang="en">2013-08-07</schema:dateModified>
-    <schema:about rdf:resource="http://viaf.org/viaf/49280158"/>
-    <rdf:type rdf:resource="http://schema.org/WebPage"/>
-    <schema:mentions rdf:nodeID="N84841f7b525944aba2e9f642629c295b"/>
-    <schema:mentions rdf:nodeID="Nd5aa9447d53047e3b225fc19c086e006"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N84841f7b525944aba2e9f642629c295b">
-    <schema:mentions rdf:resource="http://viaf.org/viaf/36933157"/>
-    <dc:title rdf:nodeID="Nb3404b89894e4f63a5f3cb92eb7b597e"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N6d0e364bce3645019276f225e4c92389">
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-    <rdf:first xml:lang="en">TLS</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/92591927">
-    <schema:name xml:lang="en">James
-                                Simmons</schema:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/36933157">
     <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name xml:lang="en">Craig,
+                                    Patricia</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/49280158">
+    <schema:mentions rdf:nodeID="N5aa58baebdec411b9a500b1638fa4b85"/>
     <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:mentions rdf:nodeID="N2c8884b6abd04a97816e7b830124ded6"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3ed47c9424834f07aa9363dc1c631b98">
+    <dc:title rdf:nodeID="Ne16f6b95f8f6480c80b31d3fd305474a"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/36933157"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Manuscript"/>
   </rdf:Description>
 </rdf:RDF>

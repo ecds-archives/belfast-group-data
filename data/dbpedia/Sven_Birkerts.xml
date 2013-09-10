@@ -9,62 +9,52 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Sven_Birkerts">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sven_Birkerts"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/AGNI_(magazine)">
-    <dbpedia-owl:editor rdf:resource="http://dbpedia.org/resource/Sven_Birkerts"/>
-    <dbpprop:editor rdf:resource="http://dbpedia.org/resource/Sven_Birkerts"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Sven_Birkerts">
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writing_teachers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Bennington_College_faculty"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Harvard_University_faculty"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WritingTeachers"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Arlington,_Massachusetts"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03kg9l"/>
-    <rdfs:label xml:lang="en">Sven Birkerts</rdfs:label>
-    <foaf:givenName xml:lang="en">Sven</foaf:givenName>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-09-21</dbpedia-owl:birthDate>
-    <rdfs:label xml:lang="de">Sven Birkerts</rdfs:label>
-    <rdfs:comment xml:lang="en">Sven Birkerts (born September 21, 1951) is an American essayist and literary critic of Latvian ancestry. He is best known for his book The Gutenberg Elegies, which posits a decline in reading due to the overwhelming advances of the Internet and other technologies of the "electronic culture. " Birkerts was born in Pontiac, Michigan. He graduated from Cranbrook School and then from the University of Michigan in 1973.</rdfs:comment>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sven_Birkerts"/>
     <dbpedia-owl:abstract xml:lang="en">Sven Birkerts (born September 21, 1951) is an American essayist and literary critic of Latvian ancestry. He is best known for his book The Gutenberg Elegies, which posits a decline in reading due to the overwhelming advances of the Internet and other technologies of the "electronic culture. " Birkerts was born in Pontiac, Michigan. He graduated from Cranbrook School and then from the University of Michigan in 1973. He has taught writing at Harvard University, Emerson College, Amherst College, and most recently at Mount Holyoke College. Birkerts is the Director of the Bennington College Writing Seminars and the editor of AGNI, the literary journal. He now lives in the Boston area, specifically Arlington, Massachusetts, with his wife Lynn, daughter Mara, and son Liam. His father is noted architect Gunnar Birkerts.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Mount_Holyoke_College_faculty"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromMiddlesexCounty,Massachusetts"/>
-    <dbpedia-owl:individualisedPnd xml:lang="de">115257454</dbpedia-owl:individualisedPnd>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_educators"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromPontiac,Michigan"/>
-    <foaf:name xml:lang="en">Sven Birkerts</foaf:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Sven_Birkerts"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanEduCAtors"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CranbrookAlumni"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Sven_Birkerts"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanAcademics"/>
-    <dbpprop:name xml:lang="en">Birkerts, Sven</dbpprop:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_people_of_Latvian_descent"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cranbrook_Educational_Community_alumni"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
-    <rdfs:comment xml:lang="de">Sven Birkerts ist ein US-amerikanischer Essayist and Literaturkritiker lettischer Abstammung.</rdfs:comment>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-09-21</dbpprop:dateOfBirth>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1951_births"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Pontiac,_Michigan"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Emerson_College_faculty"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_Massachusetts"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Michigan_alumni"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sven_Birkerts?oldid=481245640"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_academics"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_Michigan"/>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.literalmagazine.com/es/archive-L23birkerts.php?section=hive&amp;lang=arces"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pifmagazine.com/2005/05/sven-birkerts/"/>
-    <dbpedia-owl:abstract xml:lang="de">Sven Birkerts ist ein US-amerikanischer Essayist and Literaturkritiker lettischer Abstammung.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Michigan_alumni"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Harvard_University_faculty"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromPontiac,Michigan"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sven_Birkerts?oldid=481245640"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CranbrookAlumni"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sven_Birkerts"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromMiddlesexCounty,Massachusetts"/>
     <foaf:surname xml:lang="en">Birkerts</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cranbrook_Educational_Community_alumni"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanAcademics"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Emerson_College_faculty"/>
+    <rdfs:comment xml:lang="en">Sven Birkerts (born September 21, 1951) is an American essayist and literary critic of Latvian ancestry. He is best known for his book The Gutenberg Elegies, which posits a decline in reading due to the overwhelming advances of the Internet and other technologies of the "electronic culture. " Birkerts was born in Pontiac, Michigan. He graduated from Cranbrook School and then from the University of Michigan in 1973.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_people_of_Latvian_descent"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WritingTeachers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Pontiac,_Michigan"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03kg9l"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writing_teachers"/>
+    <foaf:name xml:lang="en">Sven Birkerts</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_academics"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_educators"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-09-21</dbpedia-owl:birthDate>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Arlington,_Massachusetts"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanEduCAtors"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">115257454</dbpedia-owl:individualisedPnd>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Bennington_College_faculty"/>
+    <rdfs:comment xml:lang="de">Sven Birkerts ist ein US-amerikanischer Essayist and Literaturkritiker lettischer Abstammung.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pifmagazine.com/2005/05/sven-birkerts/"/>
+    <rdfs:label xml:lang="en">Sven Birkerts</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_Massachusetts"/>
+    <foaf:givenName xml:lang="en">Sven</foaf:givenName>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-09-21</dbpprop:dateOfBirth>
+    <dbpedia-owl:abstract xml:lang="de">Sven Birkerts ist ein US-amerikanischer Essayist and Literaturkritiker lettischer Abstammung.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_Michigan"/>
+    <rdfs:label xml:lang="de">Sven Birkerts</rdfs:label>
     <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Sven_Birkerts">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Sven_Birkerts"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Sven_Birkerts"/>
+    <dbpprop:name xml:lang="en">Birkerts, Sven</dbpprop:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Mount_Holyoke_College_faculty"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1951_births"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Sven_Birkerts"/>
   </rdf:Description>
 </rdf:RDF>

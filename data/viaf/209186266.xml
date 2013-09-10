@@ -7,35 +7,35 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/209186266">
+    <foaf:name>McInerney, J. P.</foaf:name>
+    <foaf:name>MacInerney, John P.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>MacInerney, John</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/171201833"/>
+    <foaf:name>McInerney, John</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C171201833#skos:Concept">
+    <skos:altLabel>McInerney, J. P.</skos:altLabel>
+    <skos:altLabel>MacInerney, John</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/209186266"/>
+    <skos:altLabel>McInerney, John</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>MacInerney, John P.</skos:prefLabel>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/209186266/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/209186266"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/209186266">
-    <foaf:name>MacInerney, John</foaf:name>
-    <foaf:name>McInerney, John</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>MacInerney, John P.</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/171201833"/>
-    <foaf:name>McInerney, J. P.</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/209186266/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/209186266"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/209186266/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/209186266"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/209186266/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/209186266"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C171201833#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <skos:altLabel>McInerney, John</skos:altLabel>
-    <skos:altLabel>MacInerney, John</skos:altLabel>
-    <skos:altLabel>McInerney, J. P.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>MacInerney, John P.</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/209186266"/>
   </rdf:Description>
 </rdf:RDF>

@@ -3,6 +3,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
+  <rdf:Description rdf:about="http://viaf.org/viaf/49280158">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/39398205"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://testfindingaids.library.emory.edu/documents/ormsby805/series8/">
     <schema:name xml:lang="en">Frank Ormsby papers, circa 1967-2004; Series 8: Unprocessed additions,</schema:name>
     <schema:about rdf:resource="http://viaf.org/viaf/49280158"/>
@@ -12,9 +16,5 @@
   <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:name xml:lang="en">Michael Longley</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/49280158">
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/39398205"/>
   </rdf:Description>
 </rdf:RDF>

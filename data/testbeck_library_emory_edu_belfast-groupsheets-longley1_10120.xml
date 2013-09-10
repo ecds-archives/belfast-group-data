@@ -4,100 +4,35 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="http://schema.org/"
 >
-  <rdf:Description rdf:nodeID="Nc5af868203044daa95b86296fc656822">
-    <rdf:rest rdf:nodeID="N6cedec0098f24c18b60df609bf52a426"/>
-    <rdf:first>Persephone</rdf:first>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m2n#longley1_10100">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <schema:name>PERSEPHONE</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/24788472">
-    <schema:name>BESSIE SMITH</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N6cedec0098f24c18b60df609bf52a426">
-    <rdf:first>To Derek Mahon                 </rdf:first>
-    <rdf:rest rdf:nodeID="Nde8c59e03dc146c78ca1c7223aae7a96"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m2n#longley1_10119">
-    <schema:name>WORDS FOR JAZZ PERHAPS</schema:name>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/12491353"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/14857262"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/54334148"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2655984/"/>
-    <schema:mentions rdf:resource="http://viaf.org/viaf/24788472"/>
-    <schema:mentions rdf:resource="http://www.geonames.org/2963651/"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/4612862/"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/14857262">
     <schema:name>BILLIE HOLIDAY</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m2n#longley1_1085">
-    <schema:mentions rdf:resource="http://sws.geonames.org/2643743/"/>
-    <schema:name>DR. JOHNSON ON THE HEBRIDES
-                        </schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:mentions rdf:resource="http://sws.geonames.org/2647204/"/>
+  <rdf:Description rdf:nodeID="Ncf0d31337d7c454fa4c2bbdb08704336">
+    <rdf:first>To Derek Mahon                 </rdf:first>
+    <rdf:rest rdf:nodeID="Na2ec2550d4bb413096347cbc41064ac1"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m2n#longley1_10105">
-    <schema:name>TO DEREK MAHON
-                        </schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nde8c59e03dc146c78ca1c7223aae7a96">
-    <rdf:first>A Working Holiday</rdf:first>
-    <rdf:rest rdf:nodeID="Nc2e151c0ca144489b1ac11e036d2a1f6"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nbb5adae49abe484c8d1c12b7b056d6ef">
-    <rdf:first>Leaving Inishmore                 </rdf:first>
-    <rdf:rest rdf:nodeID="Nc2d2074c15334e46bf225625460a08c7"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/43e46ff1e4c9c37334734cf523e9d364">
-    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m2n"/>
-    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
-    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
-    <dc:title rdf:nodeID="N91ad463f3be34946abbb05ec3878caf0"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.geonames.org/2963651/">
+  <rdf:Description rdf:about="http://sws.geonames.org/4612862/">
     <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name>Inisheer</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2655984/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name>BELFAST</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc2d2074c15334e46bf225625460a08c7">
-    <rdf:first>Camouflage</rdf:first>
-    <rdf:rest rdf:nodeID="Nc5af868203044daa95b86296fc656822"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2643743/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name>London</schema:name>
+    <schema:name>Chattanooga Tennessee</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/39398205">
+    <schema:name>MICHAEL LONGLEY</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
     <schema:affiliation rdf:resource="http://viaf.org/viaf/123393054"/>
-    <schema:name>MICHAEL LONGLEY</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N91ad463f3be34946abbb05ec3878caf0">
-    <rdf:first>Dr. Johnson on the Hebrides                 </rdf:first>
-    <rdf:rest rdf:nodeID="Nbb5adae49abe484c8d1c12b7b056d6ef"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc2e151c0ca144489b1ac11e036d2a1f6">
-    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-    <rdf:first>Words for Jazz Perhaps</rdf:first>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/54334148">
     <schema:name>Fats Waller</schema:name>
     <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.geonames.org/2963626">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>Inishmore</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m2n#longley1_1095">
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name>CAMOUFLAGE</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m2n#longley1_1090">
     <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
@@ -106,30 +41,95 @@
                         </schema:name>
     <schema:mentions rdf:resource="http://www.geonames.org/2963626"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m2n#longley1_10119">
+    <schema:mentions rdf:resource="http://viaf.org/viaf/14857262"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/12491353"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/24788472"/>
+    <schema:mentions rdf:resource="http://www.geonames.org/2963651/"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2655984/"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/4612862/"/>
+    <schema:mentions rdf:resource="http://viaf.org/viaf/54334148"/>
+    <schema:name>WORDS FOR JAZZ PERHAPS</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8d62079929a04359990a4aefcbf91a9c">
+    <rdf:first>Dr. Johnson on the Hebrides                 </rdf:first>
+    <rdf:rest rdf:nodeID="Nf38e6d8276224ad7ab0cfdc0168edd92"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m2n#longley1_10112">
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>A WORKING HOLIDAY</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2643743/">
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <schema:name>London</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://belfastgroup.library.emory.edu/groupsheets/md5/43e46ff1e4c9c37334734cf523e9d364">
+    <rdf:type rdf:resource="http://belfastgroup.library.emory.edu/ontologies/2013/6/belfastgroup/#GroupSheet"/>
+    <dc:title rdf:nodeID="N8d62079929a04359990a4aefcbf91a9c"/>
+    <schema:name>POEMS BY MICHAEL LONGLEY</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:URL rdf:resource="http://pid.emory.edu/ark:/25593/17m2n"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m2n#longley1_10100">
+    <schema:name>PERSEPHONE</schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.geonames.org/2963651/">
+    <schema:name>Inisheer</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/12491353">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:name>BUD FREEMAN</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/24788472">
+    <schema:name>BESSIE SMITH</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N40f73d7952714fe8a56db29725380a2c">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first>Words for Jazz Perhaps</rdf:first>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf4eda318819a42dc91797256bd4a21f7">
+    <rdf:first>Persephone</rdf:first>
+    <rdf:rest rdf:nodeID="Ncf0d31337d7c454fa4c2bbdb08704336"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1d19440a60e1487a9f43351dc9dc68b3">
+    <rdf:first>Camouflage</rdf:first>
+    <rdf:rest rdf:nodeID="Nf4eda318819a42dc91797256bd4a21f7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2655984/">
+    <schema:name>BELFAST</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf38e6d8276224ad7ab0cfdc0168edd92">
+    <rdf:first>Leaving Inishmore                 </rdf:first>
+    <rdf:rest rdf:nodeID="N1d19440a60e1487a9f43351dc9dc68b3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m2n#longley1_1085">
+    <schema:mentions rdf:resource="http://sws.geonames.org/2643743/"/>
+    <schema:mentions rdf:resource="http://sws.geonames.org/2647204/"/>
+    <schema:name>DR. JOHNSON ON THE HEBRIDES
+                        </schema:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na2ec2550d4bb413096347cbc41064ac1">
+    <rdf:first>A Working Holiday</rdf:first>
+    <rdf:rest rdf:nodeID="N40f73d7952714fe8a56db29725380a2c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m2n#longley1_10105">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
+    <schema:name>TO DEREK MAHON
+                        </schema:name>
+  </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2647204/">
     <schema:name>Hebridean</schema:name>
     <rdf:type rdf:resource="http://schema.org/Place"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.geonames.org/2963626">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name>Inishmore</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/4612862/">
-    <rdf:type rdf:resource="http://schema.org/Place"/>
-    <schema:name>Chattanooga Tennessee</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/12491353">
-    <schema:name>BUD FREEMAN</schema:name>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m2n#longley1_1095">
-    <schema:name>CAMOUFLAGE</schema:name>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pid.emory.edu/ark:/25593/17m2n#longley1_10112">
-    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/39398205"/>
-    <schema:name>A WORKING HOLIDAY</schema:name>
   </rdf:Description>
 </rdf:RDF>

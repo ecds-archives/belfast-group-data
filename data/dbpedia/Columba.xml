@@ -10,314 +10,185 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Colmcille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Columcille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Colm_Cille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Life_of_Columba">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dunkeld_Cathedral">
-    <dbpprop:dedicated rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colmcille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vita_Sancti_Columbae">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/Columba">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Columba_of_Iona">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vita_Columbae">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Baith%C3%A9ne_mac_Br%C3%A9naind">
-    <dbpprop:before rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colum_Cille_mac_Fedelmtheo">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colm">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Columba's-by-the-Castle">
-    <dbpprop:dedication rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Columbkille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Columba">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Columba">
-    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Columba?oldid=495456026"/>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Kolumba_(opat)"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AbbotsOfIona"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Glengiven"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Succession_box"/>
-    <dbpedia-owl:abstract xml:lang="it">Il giorno della sua festa è il 9 giugno e con san Patrizio e santa Brigida d'Irlanda è uno dei santi patroni dell'Irlanda. Viene spesso confuso con san Colombano abate. Oltre che a Iona, san Columba è molto venerato nella comunità irlandese che porta il suo nome, Glencolumbkille ("Vallata di Columba" dal gaelico irlandese), nella penisola di Slieve League.</dbpedia-owl:abstract>
-    <dbpprop:patronage rdf:resource="http://dbpedia.org/resource/Poet"/>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Columban_von_Iona"/>
-    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Anglican_Communion"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:6th-century_Christian_saints"/>
-    <rdfs:label xml:lang="de">Columban von Iona</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_saints"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medieval_Irish_saints"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medieval_Ireland"/>
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Scotland"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Donegal"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medieval_Scottish_saints"/>
-    <dbpedia-owl:abstract xml:lang="uk">Святий Колумба Святий Колумба Св. Колумба на вітражі в Обані Святий народився 521 помер 9 червня 597 Колумба (власне Крімтан, прозваний сучасниками Колумба, Колум Кілле, Кольм Кілле, що означає «Голуб Церкви», 521 — 9 червня 597) — ірландський святий монах, проповідник християнства в Шотландії.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="ca">Columba o, en gaèlic, Colum Cille (que vol dir colom de l'església) (Gartan, Dún na nGall, 7 de desembre de 521 - Iona, Escòcia, 9 de juny de 597) va ser un monjo irlandès. L'any 563 es traslladà a Escòcia i predicà el cristianisme als pictes. Fundà un monestir a l'illa d'Iona, davant les costes d'Escòcia, on consagrà el rei dels escots Dal Riada. És copatró d'Irlanda i Escòcia i la seva festivitat és el 9 de juny. No s'ha de confondre amb l'abat irlandès Sant Columbà.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="pl">Kolumba, Kolumban z Iony, cs. Prepodobnyj Kołumba, igumien Ionskij – opat i misjonarz, święty Kościoła katolickiego i anglikańskiego, prawosławny święty mnich. Niektóre Kościoły protestanckie uznają go za bohatera wiary. Luteranie i anglikanie zaliczają go do odnowicieli Kościoła.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:6th-century_Irish_people"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.corbie.com/campbellbook.htm"/>
-    <dbpedia-owl:abstract xml:lang="nl">Columba of Colum Cille was een Ierse heilige. Hij was van koninklijken bloede en behoorde tot de Cenél Conaill, het geslacht van Connell van Donegal en Tyrone. In zijn jeugd was het christendom nog het geloof van een kleine groep edelen. Na het bloedbad van 561 besloot hij Ierland te verlaten en in 565 kwam hij aan op het eiland Iona. Daar stichtte hij een klooster dat de kern zou worden van een heel netwerk van kloosters, abdijen en bisdommen in de hele Keltische wereld. Vele van deze kloosters namen de leefregel van Columba aan. Er is echter geen geschreven spoor van overgebleven. Later werd een poging gedaan deze kloosterregel te reconstrueren in de geest van het Keltische christendom.</dbpedia-owl:abstract>
-    <dbpprop:majorShrine rdf:resource="http://dbpedia.org/resource/Scotland"/>
-    <dbpedia-owl:abstract xml:lang="en">Not to be confused with St Columbanus or Columbia. For other uses, see Columba (disambiguation), Saint Columba (disambiguation) and St Columb. Saint Columba, or Colm Cille File:Columba at Bridei's fort. jpgSaint Columba, Apostle to the PictsApostle of the PictsBorn (521-12-07)December 7, 521Gartan, County Donegal, IrelandDied June 9, 597(597-06-09) (aged 75)Iona, ScotlandHonored in Catholic ChurchEastern OrthodoxyLutheran ChurchAnglican CommunionPresbyterian ChurchMajor shrine Iona, ScotlandFeast June 9Attributes A suitable pictorial representation would exhibit him, clothed in the habit and cowl usually worn by the Basilian or Benedictine monks, with Celtic tonsure and crosier. His identity could be best determined by showing him standing near the shell-strewn shore, with currach hard by, and the Celtic cross and ruins of Iona in the background. Patronage Derry, floods, bookbinders, poets, Ireland, Scotland Saint Columba (7 December 521 – 9 June 597 AD)—also known as Colum Cille, Colm Cille, Calum Cille, Colum Keeilley and Kolban or Kolbjørn (Old Norse, meaning "black bear")—was a Gaelic Irish missionary monk who propagated Christianity among the Picts during the Early Medieval Period. He was one of the Twelve Apostles of Ireland.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/6th-centuryChristianSaints"/>
-    <dbpedia-owl:abstract xml:lang="fi">Pyhä Columba (n.530-597) oli irlantilainen munkki. Hänet tunnetaan myös nimillä Colmcille, Colum Cille ja Calum Cille. Vuonna 563 hän matkusti Skotlantiin Ionan saarelle ja perusti sinne luostarin, josta tuli tärkeä kirkollinen keskus. Hänet on haudattu Downpatrickiin Pohjois-Irlannissa.</dbpedia-owl:abstract>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Scotland"/>
-    <dbpedia-owl:abstract xml:lang="ru">Колумба — ирландский святой монах, проповедник христианства в Шотландии. Святой Колумба считается одним из «двенадцати апостолов Ирландии». В 563 году святой Колумба основал первый монастырь на территории нынешней Шотландии.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medieval_Irish_people"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_folklore"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Arthurian_legend"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Cleric"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/?id=rJpjAAAAMAAJ"/>
-    <rdfs:label xml:lang="zh">聖高隆</rdfs:label>
-    <rdfs:comment xml:lang="ru">Колумба — ирландский святой монах, проповедник христианства в Шотландии. Святой Колумба считается одним из «двенадцати апостолов Ирландии». В 563 году святой Колумба основал первый монастырь на территории нынешней Шотландии.</rdfs:comment>
-    <rdfs:comment xml:lang="no">Columba (også kalt Columcille, «Kirkens due») var en katolsk misjonær og klostergrunnlegger.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="es">No confundir con San Columbano, también misionero irlandés y parcialmente contemporáneo suyo. San Columba200pxSan columba delante de la puerta del rey Brude Patrono de Irlanda Nacimiento 7 de diciembre de 521Condado de Donegal, Bandera de Irlanda Irlanda Fallecimiento 9 de junio de 597Iona, Bandera de Escocia Escocia Venerado en Iglesia Católica Romana, Iglesia Católica Ortodoxa Festividad 9 de junio Patronazgo Inundaciones, encuadernadores, poetas, Irlanda, Escocia San Columba o Colomba, llamado también en ocasiones Columba de Iona o, en irlandés antiguo, Saint Colm Cille, Columbkill o Columcille (que significa 'Paloma de la iglesia'), fue una destacada figura entre los monjes misioneros gaélicos que reintrodujeron el cristianismo en Escocia a comienzos de la Edad Media.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.munichgaa.de/"/>
-    <dbpedia-owl:abstract xml:lang="de">Columban (Kolumban) von Iona war ein irischer Mönch und Missionar. Er gilt als einer der „drei Patrone” und der „zwölf Apostel Irlands”. Er ist nicht mit dem jüngeren Columban zu verwechseln.</dbpedia-owl:abstract>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-saint-noun-2"/>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Columba_de_Iona"/>
-    <rdfs:comment xml:lang="fi">Pyhä Columba (n.530-597) oli irlantilainen munkki. Hänet tunnetaan myös nimillä Colmcille, Colum Cille ja Calum Cille. Vuonna 563 hän matkusti Skotlantiin Ionan saarelle ja perusti sinne luostarin, josta tuli tärkeä kirkollinen keskus. Hänet on haudattu Downpatrickiin Pohjois-Irlannissa.</rdfs:comment>
-    <dbpprop:patronage rdf:resource="http://dbpedia.org/resource/Flood"/>
-    <dbpedia-owl:abstract xml:lang="zh">聖高隆（愛爾蘭語：Colum、Columkill、Colum Cille，英语：Saint Columba，521年12月7日－597年6月9日），又譯為聖高隆巴、聖哥倫巴、聖可倫巴、聖科倫巴。他是著名的愛爾蘭蓋爾族天主教僧侶，長居於愛奧那島，因此也被稱為來自愛奧那的高隆巴（Saint Columba of Iona）。將基督教傳播到皮克特人之中，是將天主教傳入蘇格蘭及愛爾蘭的先驅，被認為是愛爾蘭十二使徒之一。 他也被稱為 Colum Cille（愛爾蘭蓋爾語，意思是教會的鴿子），或是Kolban（原始諾爾斯語的名字Kolbjørn，意思是住在山洞中的黑熊）。</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.angelforce.co.uk/stmichael/columba.html"/>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Colomba_d'Iona"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Cleric"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medieval_Irish_writers"/>
-    <dbpedia-owl:abstract xml:lang="pt">São Columba, também conhecido como Columba de Iona, ou, em Gaélico, Colm Cille ou Columcille ("pomba da Igreja"). Foi a grande figura missionária da Escócia. Monge irlandês (gaélico), reintroduziu o Cristianismo entre os Pictos medievais. É dito como sendo o primeiro a ter avistado Nessie, o monstro do lago Ness.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="sv">Columba (även Sankt Columba eller Colum Cille; ej att förväxlas med Columbanus), född 7 december 521, död 9 juni 597, var en irländsk abbot och missionär. Helgon inom Romersk-katolska kyrkan med festdag 9 juni. Han föddes i Gartan i nuvarande Donegal på Irland. Under denna tid kom många kloster till, och eftersom Colum Cille var av kunglig släkt fick han en god utbildning. Han kom att studera vid klostret i Clonard i nuvarande Meath.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.stthomasirondequoit.com/SaintsAlive/id176.htm"/>
-    <dbpprop:name xml:lang="en">Columba</dbpprop:name>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/São_Columba"/>
-    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Columba_di_Iona"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/?id=fJcEAAAACAAJ"/>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">0521-12-07</dbpedia-owl:birthDate>
-    <rdfs:comment xml:lang="pl">Kolumba, Kolumban z Iony, cs. Prepodobnyj Kołumba, igumien Ionskij – opat i misjonarz, święty Kościoła katolickiego i anglikańskiego, prawosławny święty mnich. Niektóre Kościoły protestanckie uznają go za bohatera wiary. Luteranie i anglikanie zaliczają go do odnowicieli Kościoła.</rdfs:comment>
-    <rdfs:comment xml:lang="nl">Columba of Colum Cille was een Ierse heilige. Hij was van koninklijken bloede en behoorde tot de Cenél Conaill, het geslacht van Connell van Donegal en Tyrone. In zijn jeugd was het christendom nog het geloof van een kleine groep edelen. Na het bloedbad van 561 besloot hij Ierland te verlaten en in 565 kwam hij aan op het eiland Iona. Daar stichtte hij een klooster dat de kern zou worden van een heel netwerk van kloosters, abdijen en bisdommen in de hele Keltische wereld.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01xrr"/>
-    <rdfs:comment xml:lang="en">Not to be confused with St Columbanus or Columbia. For other uses, see Columba (disambiguation), Saint Columba (disambiguation) and St Columb. Saint Columba, or Colm Cille File:Columba at Bridei's fort.</rdfs:comment>
-    <rdfs:comment xml:lang="it">Il giorno della sua festa è il 9 giugno e con san Patrizio e santa Brigida d'Irlanda è uno dei santi patroni dell'Irlanda. Viene spesso confuso con san Colombano abate. Oltre che a Iona, san Columba è molto venerato nella comunità irlandese che porta il suo nome, Glencolumbkille ("Vallata di Columba" dal gaelico irlandese), nella penisola di Slieve League.</rdfs:comment>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/a/ae/Columba_at_Bridei's_fort.jpg"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ucc.ie/celt/published/T201011/index.html"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Saint"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/?id=DN6RHgAACAAJ"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.columba.school.nz"/>
-    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Presbyterianism"/>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/コルンバ"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Donegal"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Gartan"/>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dbpprop:dateOfBirth>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Aghaboe"/>
-    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvgi__5wpEbGdrcN5Y29ycA"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://stcolumbamonastery.org/"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PictishPeople"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.stcolmcilles.org/"/>
-    <dbpedia-owl:abstract xml:lang="ja">聖コルンバ（Saint Columba、521年12月17日 - 597年6月9日）はアイルランド出身の修道僧で、スコットランドや北部イングランド布教の中心となったアイオナ修道院を創建した。アイルランド語ではコルム・キル(Colum Cille)。これは教会の鳩を意味する語である。カトリック教会、聖公会、ルーテル教会、正教会の聖人。アイルランド、スコットランドの守護聖人。祝日は6月9日。</dbpedia-owl:abstract>
-    <dc:description xml:lang="en">A Saint and gaelic missionary monk.</dc:description>
-    <dbpprop:before xml:lang="en">New creation</dbpprop:before>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anglican_saints"/>
-    <dbpedia-owl:abstract xml:lang="sv">Columba (även Sankt Columba eller Colum Cille; ej att förväxlas med Columbanus), född 7 december 521, död 9 juni 597, var en irländsk abbot och missionär. Helgon inom Romersk-katolska kyrkan med festdag 9 juni. Han föddes i Gartan i nuvarande Donegal på Irland. Under denna tid kom många kloster till, och eftersom Colum Cille var av kunglig släkt fick han en god utbildning. Han kom att studera vid klostret i Clonard i nuvarande Meath. Klostret i Clonard hade många elever, av dem blev några kända som "de tolv apostlarna" från Irland. De studerade under Sankt Finian av Clonard. Colum blev munk och sedan vigd till präst. Enligt traditionen uppstod en tvist mellan Colum och Sankt Finnian av Moville om ett psaltarmanuskript år 560. Colum hade själv kopierat manuskriptet i akt och mening att behålla kopian. Finnian propsade på rätten till kopian. Traditionen har förknippat manuskriptet med Columbas Cathach. Dispyten ledde så småningom till slaget vid Cúl Dreimhne år 561, där många män ska ha stupat. En synod samlades, och hotade att exkommunicera Colum, men Brendan av Birr talade till Colums försvar. Följden blev att han fick gå i exil. Colum själv föreslog att han skulle missionera i Skottland, för att omvända lika många till kristen tro, som de som hade dödats i striden. År 563 seglade Colum till Skottland i en coracle, tillsammans med tolv följeslagare. Slutligen tog de iland på Iona, där han lovats mark. Iona blev centrum för evangelisationen bland pikterna i Skottland. Columba och hans munkar byggde upp en kommunitet, där gudstjänster och praktiskt arbete intimt hörde samman. Columbas rykte som helig man ledde snart till hans roll som diplomat, i det att han medlade mellan olika lokala stammar. Han var också känd för att vara en god predikant med ett poetiskt språk. Det finns många legender och historier från denna tid. Columba var energisk i sitt evangeliserande och han grundade många kyrkor i Hebriderna. Klostret på Iona var navet i verksamheten, där man bland mycket annat skolade missionärer och lärde ut läs- och skrivkonsten. Columba var omtalad för sin begåvning med pennan; flera hymner och böner räknas efter honom. Columba och hans munkar representerade den keltiska kristendomen, som under denna tid främst fanns på Irland och Skottland. Sankt Columba dog på Iona den 9:e juni 597 och begravdes där. Klostret fortsatte att blomstra fram till 800-talet, då vikingarna kom för att plundra, och många munkar fick sätta livet till, men klostret fortlevde fram till reformationen.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Svatý_Kolumba"/>
-    <dbpedia-owl:abstract xml:lang="no">Columba (også kalt Columcille, «Kirkens due») var en katolsk misjonær og klostergrunnlegger.</dbpedia-owl:abstract>
-    <dbpprop:name xml:lang="en">Saint Columba, or Colm Cille</dbpprop:name>
-    <dbpprop:patronage rdf:resource="http://dbpedia.org/resource/Derry"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Gartan"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ucc.ie/celt/published/T201040/index.html"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleOfMedievalScotland"/>
-    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Lutheranism"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Columba_at_Bridei's_fort.jpg/200px-Columba_at_Bridei's_fort.jpg"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_the_United_Kingdom"/>
-    <dbpprop:patronage rdf:resource="http://dbpedia.org/resource/Ireland"/>
-    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Eastern_Orthodox_Church"/>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">0597-06-09</dbpedia-owl:deathDate>
-    <dbpprop:years xml:lang="en">died 597</dbpprop:years>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/history/scottishhistory/earlychurch/features_earlychurch_iona.shtml"/>
-    <dbpedia-owl:majorShrine rdf:resource="http://dbpedia.org/resource/Scotland"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Pictish_people"/>
-    <rdfs:comment xml:lang="ca">Columba o, en gaèlic, Colum Cille (que vol dir colom de l'església) (Gartan, Dún na nGall, 7 de desembre de 521 - Iona, Escòcia, 9 de juny de 597) va ser un monjo irlandès. L'any 563 es traslladà a Escòcia i predicà el cristianisme als pictes. Fundà un monestir a l'illa d'Iona, davant les costes d'Escòcia, on consagrà el rei dels escots Dal Riada. És copatró d'Irlanda i Escòcia i la seva festivitat és el 9 de juny. No s'ha de confondre amb l'abat irlandès Sant Columbà.</rdfs:comment>
-    <rdfs:label xml:lang="ca">Columba d'Iona</rdfs:label>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Catholic_Church"/>
-    <rdfs:comment xml:lang="zh">聖高隆（愛爾蘭語：Colum、Columkill、Colum Cille，英语：Saint Columba，521年12月7日－597年6月9日），又譯為聖高隆巴、聖哥倫巴、聖可倫巴、聖科倫巴。他是著名的愛爾蘭蓋爾族天主教僧侶，長居於愛奧那島，因此也被稱為來自愛奧那的高隆巴（Saint Columba of Iona）。將基督教傳播到皮克特人之中，是將天主教傳入蘇格蘭及愛爾蘭的先驅，被認為是愛爾蘭十二使徒之一。 他也被稱為 Colum Cille（愛爾蘭蓋爾語，意思是教會的鴿子），或是Kolban（原始諾爾斯語的名字Kolbjørn，意思是住在山洞中的黑熊）。</rdfs:comment>
-    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Iona"/>
-    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Aghaboe"/>
-    <dbpprop:patronage rdf:resource="http://dbpedia.org/resource/Scotland"/>
-    <dbpprop:shortDescription xml:lang="en">A Saint and gaelic missionary monk.</dbpprop:shortDescription>
-    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Eastern_Orthodox_Church"/>
-    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">0521-12-07</dbpprop:birthDate>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medieval_Gaels"/>
-    <foaf:name xml:lang="en">Columba</foaf:name>
-    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Abbot_of_Iona"/>
-    <dbpedia-owl:title xml:lang="en">Apostle of the Picts</dbpedia-owl:title>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Glengiven"/>
-    <rdfs:comment xml:lang="pt">São Columba, também conhecido como Columba de Iona, ou, em Gaélico, Colm Cille ou Columcille ("pomba da Igreja"). Foi a grande figura missionária da Escócia. Monge irlandês (gaélico), reintroduziu o Cristianismo entre os Pictos medievais. É dito como sendo o primeiro a ter avistado Nessie, o monstro do lago Ness.</rdfs:comment>
     <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AnglicanSaints"/>
-    <dbpprop:alternativeNames xml:lang="en">Saint Columba, Columba of Iona, Colm Cille, Columcille</dbpprop:alternativeNames>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.stcolumbamonastery.org"/>
-    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Columba"/>
-    <rdfs:comment xml:lang="uk">Святий Колумба Святий Колумба Св. Колумба на вітражі в Обані Святий народився 521 помер 9 червня 597 Колумба (власне Крімтан, прозваний сучасниками Колумба, Колум Кілле, Кольм Кілле, що означає «Голуб Церкви», 521 — 9 червня 597) — ірландський святий монах, проповідник християнства в Шотландії.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">São Columba, também conhecido como Columba de Iona, ou, em Gaélico, Colm Cille ou Columcille ("pomba da Igreja"). Foi a grande figura missionária da Escócia. Monge irlandês (gaélico), reintroduziu o Cristianismo entre os Pictos medievais. É dito como sendo o primeiro a ter avistado Nessie, o monstro do lago Ness.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="nl">Columba of Colum Cille was een Ierse heilige. Hij was van koninklijken bloede en behoorde tot de Cenél Conaill, het geslacht van Connell van Donegal en Tyrone. In zijn jeugd was het christendom nog het geloof van een kleine groep edelen. Na het bloedbad van 561 besloot hij Ierland te verlaten en in 565 kwam hij aan op het eiland Iona. Daar stichtte hij een klooster dat de kern zou worden van een heel netwerk van kloosters, abdijen en bisdommen in de hele Keltische wereld. Vele van deze kloosters namen de leefregel van Columba aan. Er is echter geen geschreven spoor van overgebleven. Later werd een poging gedaan deze kloosterregel te reconstrueren in de geest van het Keltische christendom.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.munichgaa.de/"/>
+    <rdfs:comment xml:lang="cs">Svatý Kolumba nebo též Kolumba z Iony či Kolumbán starší je historická postava gaelské historie, misionář a mnich, který šířil křesťanství na území dnešního Skotska a Irska během tamní „doby temna“. Byl to jeden z apoštolů piktského národa.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/?id=rJpjAAAAMAAJ"/>
+    <dbpedia-owl:abstract xml:lang="zh">聖高隆（愛爾蘭語：Colum、Columkill、Colum Cille，英语：Saint Columba，521年12月7日－597年6月9日），又譯為聖高隆巴、聖哥倫巴、聖可倫巴、聖科倫巴。他是著名的愛爾蘭蓋爾族天主教僧侶，長居於愛奧那島，因此也被稱為來自愛奧那的高隆巴（Saint Columba of Iona）。將基督教傳播到皮克特人之中，是將天主教傳入蘇格蘭及愛爾蘭的先驅，被認為是愛爾蘭十二使徒之一。 他也被稱為 Colum Cille（愛爾蘭蓋爾語，意思是教會的鴿子），或是Kolban（原始諾爾斯語的名字Kolbjørn，意思是住在山洞中的黑熊）。</dbpedia-owl:abstract>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Aghaboe"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Scotland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Pictish_people"/>
+    <rdfs:comment xml:lang="ja">聖コルンバ（Saint Columba、521年12月17日 - 597年6月9日）はアイルランド出身の修道僧で、スコットランドや北部イングランド布教の中心となったアイオナ修道院を創建した。アイルランド語ではコルム・キル(Colum Cille)。これは教会の鳩を意味する語である。カトリック教会、聖公会、ルーテル教会、正教会の聖人。アイルランド、スコットランドの守護聖人。祝日は6月9日。</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Iona"/>
+    <dbpprop:caption xml:lang="en">Saint Columba, Apostle to the Picts</dbpprop:caption>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">0597-06-09</dbpprop:deathDate>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01xrr"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Gartan"/>
+    <dbpprop:years xml:lang="en">died 597</dbpprop:years>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Cleric"/>
     <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dbpprop:dateOfDeath>
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-    <dbpprop:majorShrine rdf:resource="http://dbpedia.org/resource/Iona"/>
-    <rdfs:comment xml:lang="cs">Svatý Kolumba nebo též Kolumba z Iony či Kolumbán starší je historická postava gaelské historie, misionář a mnich, který šířil křesťanství na území dnešního Skotska a Irska během tamní „doby temna“. Byl to jeden z apoštolů piktského národa.</rdfs:comment>
-    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Anglican_Communion"/>
-    <dbpprop:feastDay rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-09</dbpprop:feastDay>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_the_United_Kingdom"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dbpprop:dateOfBirth>
+    <dbpedia-owl:abstract xml:lang="no">Columba (også kalt Columcille, «Kirkens due») var en katolsk misjonær og klostergrunnlegger.</dbpedia-owl:abstract>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Gartan"/>
+    <dbpprop:before xml:lang="en">New creation</dbpprop:before>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medieval_Irish_people"/>
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Abbot_of_Iona"/>
+    <dbpprop:attributes xml:lang="en">A suitable pictorial representation would exhibit him, clothed in the habit and cowl usually worn by the Basilian or Benedictine monks, with Celtic tonsure and crosier. His identity could be best determined by showing him standing near the shell-strewn shore, with currach hard by, and the Celtic cross and ruins of Iona in the background.</dbpprop:attributes>
+    <dbpprop:shortDescription xml:lang="en">A Saint and gaelic missionary monk.</dbpprop:shortDescription>
+    <rdfs:comment xml:lang="en">Not to be confused with St Columbanus or Columbia. For other uses, see Columba (disambiguation), Saint Columba (disambiguation) and St Columb. Saint Columba, or Colm Cille File:Columba at Bridei's fort.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Saint"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118884948</dbpedia-owl:individualisedPnd>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Anglican_saints"/>
+    <dbpedia-owl:abstract xml:lang="sv">Columba (även Sankt Columba eller Colum Cille; ej att förväxlas med Columbanus), född 7 december 521, död 9 juni 597, var en irländsk abbot och missionär. Helgon inom Romersk-katolska kyrkan med festdag 9 juni. Han föddes i Gartan i nuvarande Donegal på Irland. Under denna tid kom många kloster till, och eftersom Colum Cille var av kunglig släkt fick han en god utbildning. Han kom att studera vid klostret i Clonard i nuvarande Meath. Klostret i Clonard hade många elever, av dem blev några kända som "de tolv apostlarna" från Irland. De studerade under Sankt Finian av Clonard. Colum blev munk och sedan vigd till präst. Enligt traditionen uppstod en tvist mellan Colum och Sankt Finnian av Moville om ett psaltarmanuskript år 560. Colum hade själv kopierat manuskriptet i akt och mening att behålla kopian. Finnian propsade på rätten till kopian. Traditionen har förknippat manuskriptet med Columbas Cathach. Dispyten ledde så småningom till slaget vid Cúl Dreimhne år 561, där många män ska ha stupat. En synod samlades, och hotade att exkommunicera Colum, men Brendan av Birr talade till Colums försvar. Följden blev att han fick gå i exil. Colum själv föreslog att han skulle missionera i Skottland, för att omvända lika många till kristen tro, som de som hade dödats i striden. År 563 seglade Colum till Skottland i en coracle, tillsammans med tolv följeslagare. Slutligen tog de iland på Iona, där han lovats mark. Iona blev centrum för evangelisationen bland pikterna i Skottland. Columba och hans munkar byggde upp en kommunitet, där gudstjänster och praktiskt arbete intimt hörde samman. Columbas rykte som helig man ledde snart till hans roll som diplomat, i det att han medlade mellan olika lokala stammar. Han var också känd för att vara en god predikant med ett poetiskt språk. Det finns många legender och historier från denna tid. Columba var energisk i sitt evangeliserande och han grundade många kyrkor i Hebriderna. Klostret på Iona var navet i verksamheten, där man bland mycket annat skolade missionärer och lärde ut läs- och skrivkonsten. Columba var omtalad för sin begåvning med pennan; flera hymner och böner räknas efter honom. Columba och hans munkar representerade den keltiska kristendomen, som under denna tid främst fanns på Irland och Skottland. Sankt Columba dog på Iona den 9:e juni 597 och begravdes där. Klostret fortsatte att blomstra fram till 800-talet, då vikingarna kom för att plundra, och många munkar fick sätta livet till, men klostret fortlevde fram till reformationen.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyDonegal"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Donegal"/>
+    <dbpprop:alternativeNames xml:lang="en">Saint Columba, Columba of Iona, Colm Cille, Columcille</dbpprop:alternativeNames>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Glengiven"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/6th-centuryChristianSaints"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Columba_di_Iona"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <rdfs:comment xml:lang="nl">Columba of Colum Cille was een Ierse heilige. Hij was van koninklijken bloede en behoorde tot de Cenél Conaill, het geslacht van Connell van Donegal en Tyrone. In zijn jeugd was het christendom nog het geloof van een kleine groep edelen. Na het bloedbad van 561 besloot hij Ierland te verlaten en in 565 kwam hij aan op het eiland Iona. Daar stichtte hij een klooster dat de kern zou worden van een heel netwerk van kloosters, abdijen en bisdommen in de hele Keltische wereld.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">聖高隆（愛爾蘭語：Colum、Columkill、Colum Cille，英语：Saint Columba，521年12月7日－597年6月9日），又譯為聖高隆巴、聖哥倫巴、聖可倫巴、聖科倫巴。他是著名的愛爾蘭蓋爾族天主教僧侶，長居於愛奧那島，因此也被稱為來自愛奧那的高隆巴（Saint Columba of Iona）。將基督教傳播到皮克特人之中，是將天主教傳入蘇格蘭及愛爾蘭的先驅，被認為是愛爾蘭十二使徒之一。 他也被稱為 Colum Cille（愛爾蘭蓋爾語，意思是教會的鴿子），或是Kolban（原始諾爾斯語的名字Kolbjørn，意思是住在山洞中的黑熊）。</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="ca">Columba o, en gaèlic, Colum Cille (que vol dir colom de l'església) (Gartan, Dún na nGall, 7 de desembre de 521 - Iona, Escòcia, 9 de juny de 597) va ser un monjo irlandès. L'any 563 es traslladà a Escòcia i predicà el cristianisme als pictes. Fundà un monestir a l'illa d'Iona, davant les costes d'Escòcia, on consagrà el rei dels escots Dal Riada. És copatró d'Irlanda i Escòcia i la seva festivitat és el 9 de juny. No s'ha de confondre amb l'abat irlandès Sant Columbà.</dbpedia-owl:abstract>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Glengiven"/>
+    <rdfs:comment xml:lang="ru">Колумба — ирландский святой монах, проповедник христианства в Шотландии. Святой Колумба считается одним из «двенадцати апостолов Ирландии». В 563 году святой Колумба основал первый монастырь на территории нынешней Шотландии.</rdfs:comment>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Donegal"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medieval_Irish_saints"/>
+    <dbpedia-owl:abstract xml:lang="ja">聖コルンバ（Saint Columba、521年12月17日 - 597年6月9日）はアイルランド出身の修道僧で、スコットランドや北部イングランド布教の中心となったアイオナ修道院を創建した。アイルランド語ではコルム・キル(Colum Cille)。これは教会の鳩を意味する語である。カトリック教会、聖公会、ルーテル教会、正教会の聖人。アイルランド、スコットランドの守護聖人。祝日は6月9日。</dbpedia-owl:abstract>
+    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Eastern_Orthodox_Church"/>
+    <rdfs:comment xml:lang="ca">Columba o, en gaèlic, Colum Cille (que vol dir colom de l'església) (Gartan, Dún na nGall, 7 de desembre de 521 - Iona, Escòcia, 9 de juny de 597) va ser un monjo irlandès. L'any 563 es traslladà a Escòcia i predicà el cristianisme als pictes. Fundà un monestir a l'illa d'Iona, davant les costes d'Escòcia, on consagrà el rei dels escots Dal Riada. És copatró d'Irlanda i Escòcia i la seva festivitat és el 9 de juny. No s'ha de confondre amb l'abat irlandès Sant Columbà.</rdfs:comment>
+    <rdfs:label xml:lang="en">Columba</rdfs:label>
+    <rdfs:comment xml:lang="fi">Pyhä Columba (n.530-597) oli irlantilainen munkki. Hänet tunnetaan myös nimillä Colmcille, Colum Cille ja Calum Cille. Vuonna 563 hän matkusti Skotlantiin Ionan saarelle ja perusti sinne luostarin, josta tuli tärkeä kirkollinen keskus. Hänet on haudattu Downpatrickiin Pohjois-Irlannissa.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.a-wee-bit-of-ireland.com/eire_2007/gartan_05.html"/>
+    <dbpedia-owl:majorShrine rdf:resource="http://dbpedia.org/resource/Scotland"/>
+    <dbpedia-owl:majorShrine rdf:resource="http://dbpedia.org/resource/Iona"/>
+    <dbpprop:name xml:lang="en">Columba</dbpprop:name>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Columba_de_Iona"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Arthurian_legend"/>
+    <dbpprop:patronage rdf:resource="http://dbpedia.org/resource/Scotland"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/São_Columba"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Colomba_d'Iona"/>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvgi__5wpEbGdrcN5Y29ycA"/>
     <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Presbyterianism"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.corbie.com/campbellbook.htm"/>
+    <dbpedia-owl:abstract xml:lang="fi">Pyhä Columba (n.530-597) oli irlantilainen munkki. Hänet tunnetaan myös nimillä Colmcille, Colum Cille ja Calum Cille. Vuonna 563 hän matkusti Skotlantiin Ionan saarelle ja perusti sinne luostarin, josta tuli tärkeä kirkollinen keskus. Hänet on haudattu Downpatrickiin Pohjois-Irlannissa.</dbpedia-owl:abstract>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-saint-noun-2"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Колумба"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_folklore"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Donegal"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.angelforce.co.uk/stmichael/columba.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.stcolumbamonastery.org"/>
+    <dbpprop:patronage rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <dbpprop:majorShrine rdf:resource="http://dbpedia.org/resource/Iona"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_medieval_Scotland"/>
+    <foaf:name xml:lang="en">Saint Columba, or Colm Cille</foaf:name>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Svatý_Kolumba"/>
+    <dbpprop:titles xml:lang="en">Apostle of the Picts</dbpprop:titles>
+    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Presbyterianism"/>
+    <rdfs:comment xml:lang="uk">Святий Колумба Святий Колумба Св. Колумба на вітражі в Обані Святий народився 521 помер 9 червня 597 Колумба (власне Крімтан, прозваний сучасниками Колумба, Колум Кілле, Кольм Кілле, що означає «Голуб Церкви», 521 — 9 червня 597) — ірландський святий монах, проповідник християнства в Шотландії.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MedievalScottishSaints"/>
+    <rdfs:comment xml:lang="no">Columba (også kalt Columcille, «Kirkens due») var en katolsk misjonær og klostergrunnlegger.</rdfs:comment>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">0521-12-07</dbpedia-owl:birthDate>
+    <dbpedia-owl:abstract xml:lang="it">Il giorno della sua festa è il 9 giugno e con san Patrizio e santa Brigida d'Irlanda è uno dei santi patroni dell'Irlanda. Viene spesso confuso con san Colombano abate. Oltre che a Iona, san Columba è molto venerato nella comunità irlandese che porta il suo nome, Glencolumbkille ("Vallata di Columba" dal gaelico irlandese), nella penisola di Slieve League.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="cs">Svatý Kolumba nebo též Kolumba z Iony či Kolumbán starší je historická postava gaelské historie, misionář a mnich, který šířil křesťanství na území dnešního Skotska a Irska během tamní „doby temna“. Byl to jeden z apoštolů piktského národa.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Saint"/>
+    <dbpedia-owl:abstract xml:lang="es">No confundir con San Columbano, también misionero irlandés y parcialmente contemporáneo suyo. San Columba200pxSan columba delante de la puerta del rey Brude Patrono de Irlanda Nacimiento 7 de diciembre de 521Condado de Donegal, Bandera de Irlanda Irlanda Fallecimiento 9 de junio de 597Iona, Bandera de Escocia Escocia Venerado en Iglesia Católica Romana, Iglesia Católica Ortodoxa Festividad 9 de junio Patronazgo Inundaciones, encuadernadores, poetas, Irlanda, Escocia San Columba o Colomba, llamado también en ocasiones Columba de Iona o, en irlandés antiguo, Saint Colm Cille, Columbkill o Columcille (que significa 'Paloma de la iglesia'), fue una destacada figura entre los monjes misioneros gaélicos que reintrodujeron el cristianismo en Escocia a comienzos de la Edad Media.</dbpedia-owl:abstract>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Abbots_of_Iona"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.columba.school.nz"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.stthomasirondequoit.com/SaintsAlive/id176.htm"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Columban_von_Iona"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Columba"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">0521-12-07</dbpprop:birthDate>
     <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:597_deaths"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/Aghaboe"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleOfMedievalScotland"/>
+    <dbpedia-owl:abstract xml:lang="pl">Kolumba, Kolumban z Iony, cs. Prepodobnyj Kołumba, igumien Ionskij – opat i misjonarz, święty Kościoła katolickiego i anglikańskiego, prawosławny święty mnich. Niektóre Kościoły protestanckie uznają go za bohatera wiary. Luteranie i anglikanie zaliczają go do odnowicieli Kościoła.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="uk">Святий Колумба</rdfs:label>
+    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Baith%C3%A9ne_mac_Br%C3%A9naind"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MedievalIrishSaints"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:6th-century_Irish_people"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/?id=fJcEAAAACAAJ"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Cleric"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">0597-06-09</dbpedia-owl:deathDate>
+    <rdfs:comment xml:lang="it">Il giorno della sua festa è il 9 giugno e con san Patrizio e santa Brigida d'Irlanda è uno dei santi patroni dell'Irlanda. Viene spesso confuso con san Colombano abate. Oltre che a Iona, san Columba è molto venerato nella comunità irlandese che porta il suo nome, Glencolumbkille ("Vallata di Columba" dal gaelico irlandese), nella penisola di Slieve League.</rdfs:comment>
+    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Lutheranism"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:6th-century_Christian_saints"/>
+    <dbpprop:patronage rdf:resource="http://dbpedia.org/resource/Poet"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Iona"/>
+    <dbpedia-owl:abstract xml:lang="en">Not to be confused with St Columbanus or Columbia. For other uses, see Columba (disambiguation), Saint Columba (disambiguation) and St Columb. Saint Columba, or Colm Cille File:Columba at Bridei's fort. jpgSaint Columba, Apostle to the PictsApostle of the PictsBorn (521-12-07)December 7, 521Gartan, County Donegal, IrelandDied June 9, 597(597-06-09) (aged 75)Iona, ScotlandHonored in Catholic ChurchEastern OrthodoxyLutheran ChurchAnglican CommunionPresbyterian ChurchMajor shrine Iona, ScotlandFeast June 9Attributes A suitable pictorial representation would exhibit him, clothed in the habit and cowl usually worn by the Basilian or Benedictine monks, with Celtic tonsure and crosier. His identity could be best determined by showing him standing near the shell-strewn shore, with currach hard by, and the Celtic cross and ruins of Iona in the background. Patronage Derry, floods, bookbinders, poets, Ireland, Scotland Saint Columba (7 December 521 – 9 June 597 AD)—also known as Colum Cille, Colm Cille, Calum Cille, Colum Keeilley and Kolban or Kolbjørn (Old Norse, meaning "black bear")—was a Gaelic Irish missionary monk who propagated Christianity among the Picts during the Early Medieval Period. He was one of the Twelve Apostles of Ireland.</dbpedia-owl:abstract>
+    <dbpprop:majorShrine rdf:resource="http://dbpedia.org/resource/Scotland"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ucc.ie/celt/published/T201011/index.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Renewers_of_the_church"/>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Iona"/>
+    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Anglican_Communion"/>
+    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Catholic_Church"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Columba"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.stcolmcilles.org/"/>
+    <dbpprop:feastDay rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-09</dbpprop:feastDay>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medieval_Gaels"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medieval_Scottish_saints"/>
+    <rdfs:label xml:lang="ca">Columba d'Iona</rdfs:label>
+    <foaf:name xml:lang="en">Columba</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PictishPeople"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_saints"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Columba_at_Bridei's_fort.jpg/200px-Columba_at_Bridei's_fort.jpg"/>
+    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Catholic_Church"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:521_births"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Succession_box"/>
+    <dbpedia-owl:abstract xml:lang="pt">São Columba, também conhecido como Columba de Iona, ou, em Gaélico, Colm Cille ou Columcille ("pomba da Igreja"). Foi a grande figura missionária da Escócia. Monge irlandês (gaélico), reintroduziu o Cristianismo entre os Pictos medievais. É dito como sendo o primeiro a ter avistado Nessie, o monstro do lago Ness.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ucc.ie/celt/published/T201040/index.html"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/a/ae/Columba_at_Bridei's_fort.jpg"/>
+    <rdfs:label xml:lang="zh">聖高隆</rdfs:label>
+    <rdfs:label xml:lang="cs">Svatý Kolumba</rdfs:label>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/コルンバ"/>
+    <dbpedia-owl:abstract xml:lang="uk">Святий Колумба Святий Колумба Св. Колумба на вітражі в Обані Святий народився 521 помер 9 червня 597 Колумба (власне Крімтан, прозваний сучасниками Колумба, Колум Кілле, Кольм Кілле, що означає «Голуб Церкви», 521 — 9 червня 597) — ірландський святий монах, проповідник християнства в Шотландії.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Kolumba_(opat)"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/history/scottishhistory/earlychurch/features_earlychurch_iona.shtml"/>
+    <dbpprop:patronage rdf:resource="http://dbpedia.org/resource/Bookbinding"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medieval_Irish_writers"/>
+    <rdfs:comment xml:lang="de">Columban (Kolumban) von Iona war ein irischer Mönch und Missionar. Er gilt als einer der „drei Patrone” und der „zwölf Apostel Irlands”. Er ist nicht mit dem jüngeren Columban zu verwechseln.</rdfs:comment>
+    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Eastern_Orthodox_Church"/>
+    <rdfs:comment xml:lang="sv">Columba (även Sankt Columba eller Colum Cille; ej att förväxlas med Columbanus), född 7 december 521, död 9 juni 597, var en irländsk abbot och missionär. Helgon inom Romersk-katolska kyrkan med festdag 9 juni. Han föddes i Gartan i nuvarande Donegal på Irland. Under denna tid kom många kloster till, och eftersom Colum Cille var av kunglig släkt fick han en god utbildning. Han kom att studera vid klostret i Clonard i nuvarande Meath.</rdfs:comment>
     <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.stcolmcilles.ie/"/>
     <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/County_Londonderry"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MedievalScottishSaints"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Iona"/>
-    <rdfs:label xml:lang="cs">Svatý Kolumba</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Iona"/>
-    <rdf:type rdf:resource="http://schema.org/Person"/>
-    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Lutheranism"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dbpprop:titles xml:lang="en">Apostle of the Picts</dbpprop:titles>
-    <rdfs:label xml:lang="uk">Святий Колумба</rdfs:label>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_saint"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MedievalIrishSaints"/>
-    <dbpedia-owl:individualisedPnd xml:lang="de">118884948</dbpedia-owl:individualisedPnd>
-    <rdfs:comment xml:lang="es">No confundir con San Columbano, también misionero irlandés y parcialmente contemporáneo suyo.</rdfs:comment>
-    <rdfs:label xml:lang="en">Columba</rdfs:label>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Abbots_of_Iona"/>
-    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/County_Donegal"/>
-    <dbpedia-owl:abstract xml:lang="fr">Colomba d'Iona ou Columkill ou Colomkille ou Colombeau ou Colme ou Colombus ou Saint Colomba, ou Colum(b) Cille en gaélique irlandais (c'est-à-dire « Colombe de l'église »), est un missionnaire irlandais qui aida à réintroduire le christianisme en Écosse et dans le nord de l'Angleterre. Il établit un nouvel ordre monastique dont la principale communauté s'installa sur l'île de Iona en 563. La légende veut qu'il soit arrivé sur la petite île des Hébrides avec douze compagnons, métaphore christique visant à renforcer son caractère sacré. Il a été enterré à Downpatrick avec saint Patrick et sainte Brigitte d'Irlande qui sont les autres saints patrons de l'Irlande. Saint Colomba est fêté le 9 juin.</dbpedia-owl:abstract>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:521_births"/>
-    <dbpprop:caption xml:lang="en">Saint Columba, Apostle to the Picts</dbpprop:caption>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Колумба"/>
-    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Presbyterianism"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Northern_Ireland"/>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
-    <rdfs:comment xml:lang="fr">Colomba d'Iona ou Columkill ou Colomkille ou Colombeau ou Colme ou Colombus ou Saint Colomba, ou Colum(b) Cille en gaélique irlandais (c'est-à-dire « Colombe de l'église »), est un missionnaire irlandais qui aida à réintroduire le christianisme en Écosse et dans le nord de l'Angleterre. Il établit un nouvel ordre monastique dont la principale communauté s'installa sur l'île de Iona en 563.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Medieval_Ireland"/>
     <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Renewers_of_the_church"/>
-    <dbpedia-owl:majorShrine rdf:resource="http://dbpedia.org/resource/Iona"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.a-wee-bit-of-ireland.com/eire_2007/gartan_05.html"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyDonegal"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Columba"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_medieval_Scotland"/>
-    <dbpprop:after rdf:resource="http://dbpedia.org/resource/Baith%C3%A9ne_mac_Br%C3%A9naind"/>
-    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">0597-06-09</dbpprop:deathDate>
-    <rdfs:comment xml:lang="de">Columban (Kolumban) von Iona war ein irischer Mönch und Missionar. Er gilt als einer der „drei Patrone” und der „zwölf Apostel Irlands”. Er ist nicht mit dem jüngeren Columban zu verwechseln.</rdfs:comment>
-    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Catholic_Church"/>
-    <dbpprop:patronage rdf:resource="http://dbpedia.org/resource/Bookbinding"/>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/?id=DN6RHgAACAAJ"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://stcolumbamonastery.org/"/>
+    <dbpedia-owl:veneratedIn rdf:resource="http://dbpedia.org/resource/Anglican_Communion"/>
+    <dbpedia-owl:abstract xml:lang="fr">Colomba d'Iona ou Columkill ou Colomkille ou Colombeau ou Colme ou Colombus ou Saint Colomba, ou Colum(b) Cille en gaélique irlandais (c'est-à-dire « Colombe de l'église »), est un missionnaire irlandais qui aida à réintroduire le christianisme en Écosse et dans le nord de l'Angleterre. Il établit un nouvel ordre monastique dont la principale communauté s'installa sur l'île de Iona en 563. La légende veut qu'il soit arrivé sur la petite île des Hébrides avec douze compagnons, métaphore christique visant à renforcer son caractère sacré. Il a été enterré à Downpatrick avec saint Patrick et sainte Brigitte d'Irlande qui sont les autres saints patrons de l'Irlande. Saint Colomba est fêté le 9 juin.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="es">No confundir con San Columbano, también misionero irlandés y parcialmente contemporáneo suyo.</rdfs:comment>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Scotland"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
     <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/County_Londonderry"/>
-    <foaf:name xml:lang="en">Saint Columba, or Colm Cille</foaf:name>
-    <dbpedia-owl:abstract xml:lang="cs">Svatý Kolumba nebo též Kolumba z Iony či Kolumbán starší je historická postava gaelské historie, misionář a mnich, který šířil křesťanství na území dnešního Skotska a Irska během tamní „doby temna“. Byl to jeden z apoštolů piktského národa.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="ja">聖コルンバ（Saint Columba、521年12月17日 - 597年6月9日）はアイルランド出身の修道僧で、スコットランドや北部イングランド布教の中心となったアイオナ修道院を創建した。アイルランド語ではコルム・キル(Colum Cille)。これは教会の鳩を意味する語である。カトリック教会、聖公会、ルーテル教会、正教会の聖人。アイルランド、スコットランドの守護聖人。祝日は6月9日。</rdfs:comment>
-    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Saint"/>
-    <dbpprop:attributes xml:lang="en">A suitable pictorial representation would exhibit him, clothed in the habit and cowl usually worn by the Basilian or Benedictine monks, with Celtic tonsure and crosier. His identity could be best determined by showing him standing near the shell-strewn shore, with currach hard by, and the Celtic cross and ruins of Iona in the background.</dbpprop:attributes>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Drumlane">
-    <dbpprop:founder rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Colm">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Colmcille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Columba">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colum_Cille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Life_of_St._Columba">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Columb_Cille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colmekill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Columb_Minor_Church">
-    <dbpprop:dedication rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Columba_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colm_Cille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Columb's_Cathedral">
-    <dbpprop:dedication rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Columcille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Columba">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Youngstown">
-    <dbpprop:patron rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Scoto-Hibernian_Monasteries">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Columcille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colmkill">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Columba">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Columb">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Columba,_Saint">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Columbkille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Columbcille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Collumcille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Diocese_of_Dunkeld">
-    <dbpprop:saint rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Calum_Cille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Columcille">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Columba"/>
+    <dbpprop:patronage rdf:resource="http://dbpedia.org/resource/Flood"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AbbotsOfIona"/>
+    <dc:description xml:lang="en">A Saint and gaelic missionary monk.</dc:description>
+    <rdfs:label xml:lang="de">Columban von Iona</rdfs:label>
+    <dbpprop:name xml:lang="en">Saint Columba, or Colm Cille</dbpprop:name>
+    <rdfs:comment xml:lang="pl">Kolumba, Kolumban z Iony, cs. Prepodobnyj Kołumba, igumien Ionskij – opat i misjonarz, święty Kościoła katolickiego i anglikańskiego, prawosławny święty mnich. Niektóre Kościoły protestanckie uznają go za bohatera wiary. Luteranie i anglikanie zaliczają go do odnowicieli Kościoła.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AnglicanSaints"/>
+    <dbpprop:patronage rdf:resource="http://dbpedia.org/resource/Derry"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <dbpedia-owl:abstract xml:lang="ru">Колумба — ирландский святой монах, проповедник христианства в Шотландии. Святой Колумба считается одним из «двенадцати апостолов Ирландии». В 563 году святой Колумба основал первый монастырь на территории нынешней Шотландии.</dbpedia-owl:abstract>
+    <dbpedia-owl:title xml:lang="en">Apostle of the Picts</dbpedia-owl:title>
+    <dbpprop:veneratedIn rdf:resource="http://dbpedia.org/resource/Lutheranism"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_saint"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:abstract xml:lang="de">Columban (Kolumban) von Iona war ein irischer Mönch und Missionar. Er gilt als einer der „drei Patrone” und der „zwölf Apostel Irlands”. Er ist nicht mit dem jüngeren Columban zu verwechseln.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="fr">Colomba d'Iona ou Columkill ou Colomkille ou Colombeau ou Colme ou Colombus ou Saint Colomba, ou Colum(b) Cille en gaélique irlandais (c'est-à-dire « Colombe de l'église »), est un missionnaire irlandais qui aida à réintroduire le christianisme en Écosse et dans le nord de l'Angleterre. Il établit un nouvel ordre monastique dont la principale communauté s'installa sur l'île de Iona en 563.</rdfs:comment>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Columba?oldid=495456026"/>
   </rdf:Description>
 </rdf:RDF>

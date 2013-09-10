@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000159714#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73894449"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <skos:prefLabel>Graham, W.S. (William Sydney), 1918-1986</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12167118#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12167118w"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12167118w"/>
+    <skos:prefLabel>Graham, William Sydney, 1918-1986</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73894449"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CW._S._Graham#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Graham, W. S.</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73894449"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/73894449/#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73894449"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80017807#skos:Concept">
+    <skos:prefLabel>Graham, W.S. (William Sydney), 1918-1986</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80017807"/>
+    <skos:altLabel>Graham, William Sydney, 1918-</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73894449"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++00053646#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>Graham, William Sydney, 1918-1986</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73894449"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Graham, W.S.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035139343#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Graham, William Sydney, 1918-</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <skos:prefLabel>Graham, W. S. (William Sydney), 1918-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73894449"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068695780#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Graham, W.S. (William Sydney), 1918-1986</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73894449"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000602272#skos:Concept">
+    <skos:prefLabel>Graham, William Sydney, 1918-1986</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73894449"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118888374#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73894449"/>
+    <skos:altLabel>Graham, W. S. 1918-1986</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Graham, William Sydney 1918-1986</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Graham, William S. 1918-1986</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/73894449">
+    <foaf:name>Graham, William Sydney, 1918-</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12167118w#foaf:Person"/>
+    <rdaGr2:dateOfDeath>1986-01-09</rdaGr2:dateOfDeath>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/W._S._Graham"/>
+    <foaf:name>Graham, W. S.</foaf:name>
+    <foaf:name>Graham, William Sydney, 1918-1986</foaf:name>
+    <foaf:name>Graham, W.S. (William Sydney), 1918-1986</foaf:name>
+    <foaf:name>Graham, W. S. (William Sydney), 1918-</foaf:name>
+    <foaf:name>Graham, W. S. 1918-1986</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118888374"/>
+    <rdaGr2:dateOfBirth>1918-11-19</rdaGr2:dateOfBirth>
+    <foaf:name>Graham, William S. 1918-1986</foaf:name>
+    <foaf:name>Graham, William Sydney 1918-1986</foaf:name>
+    <foaf:name>Graham, W.S.</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/060965983/id"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C060965983#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Graham, William Sydney, 1918-1986</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Graham, W.S.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/73894449"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/73894449/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/73894449"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/73894449/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/73894449"/>
+  </rdf:Description>
+</rdf:RDF>

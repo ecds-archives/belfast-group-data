@@ -8,209 +8,235 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/172419710">
-    <foaf:name>Henry VIII, koning van Engeland, 1491-1547</foaf:name>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/121014833"/>
-    <foaf:name>Henricus VIII. Anglia, Rex 1491-1547</foaf:name>
-    <foaf:name>Enrique VIII, King of England, 1491-1547</foaf:name>
-    <foaf:name>Henryk VIII (król Anglii ; 1491-1547).</foaf:name>
-    <foaf:name>Henri VIII, King of England, 1491-1547</foaf:name>
-    <foaf:name>Henry VIII, roi d'Angleterre, 1491-1547</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Henri VIII, roi d'Angleterre et d'Irlande, 1491-1547</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11988809r#foaf:Person"/>
-    <foaf:name>Hendrik VIII, 1491-1547</foaf:name>
-    <foaf:name>Jindřich VIII., anglický král, 1491-1547</foaf:name>
-    <rdaGr2:dateOfDeath>1547-01-28</rdaGr2:dateOfDeath>
-    <foaf:name>Henry VIII, re d'Inghilterra, 1491-1547</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/027303608/id"/>
-    <foaf:name>Henry VIII (king of England ; 1491-1547). [m]</foaf:name>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/297006123"/>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/121014833"/>
-    <foaf:name>Henricus VIII roi d'Angleterre et d'Irlande 1491-1547</foaf:name>
-    <foaf:name>Henry 8セイ, 1491-1547, イギリス コクオウ</foaf:name>
-    <foaf:name>Henry 8世, 1491-1547, イギリス国王</foaf:name>
-    <foaf:name>Henry VIII. England, King 1491-1547</foaf:name>
-    <foaf:name>Henricus Octavus.</foaf:name>
-    <foaf:name>Henryk Tudor.</foaf:name>
-    <rdaGr2:dateOfBirth>1491-06-28</rdaGr2:dateOfBirth>
-    <foaf:name>Henry 8sei, 1491-1547, Igirisu Kokuo</foaf:name>
-    <foaf:name>Henry VIII of England</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Henry_VIII_of_England"/>
-    <foaf:name>Heinrich VIII. England, König 1491-1547</foaf:name>
-    <foaf:name>Henry VIII., roi d'Angleterre, 1491-1547</foaf:name>
-    <foaf:name>Henricus VIII, roi d'Angleterre et d'Irlande</foaf:name>
-    <foaf:name>Henry VIII, King of England, 1491-1547</foaf:name>
-    <foaf:name>Henry 08 Of England</foaf:name>
-    <foaf:name>Henri VIII. 1491-1547</foaf:name>
-    <foaf:name>Henry 8, roi d'Angleterre et d'Irlande</foaf:name>
-    <foaf:name>Henri 8, roi d'Angleterre</foaf:name>
-    <foaf:name>Henryk VIII, King of England, 1491-1547</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118548204"/>
-    <foaf:name>Henri VIII (roi d'Angleterre ; 1491-1547).</foaf:name>
-    <foaf:name>Henrie VIII. Angleterre, Roi 1491-1547</foaf:name>
-    <foaf:name>Henry VIII, roi d'Angleterre et d'Irlande</foaf:name>
-    <foaf:name>Heinrich VIII, 1491-1547</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>Henri VIII, roi d'Angleterre</foaf:name>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/297006123"/>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/207833"/>
-    <foaf:name>Henri VIII. Angleterre, Roi 1491-1547</foaf:name>
-    <foaf:name>Henry VIII roi d'Angleterre et d'Irlande 1491-1547</foaf:name>
-    <foaf:name>Henry 08, roi d'Angleterre et d'Irlande</foaf:name>
-    <foaf:name>Heinrich VIII, King of England, 1491-1547</foaf:name>
-    <foaf:name>Henry VIII. Angleterre, Roy 1491-1547</foaf:name>
-    <foaf:name>Henrik VIII, kung av England, 1491-1547</foaf:name>
-    <foaf:name>Henryk VIII Tudor.</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C207833#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
-    <skos:prefLabel>Henrik VIII, kung av England, 1491-1547</skos:prefLabel>
-    <skos:altLabel>Henry VIII, King of England, 1491-1547</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/207833#concept"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97016844#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
     <skos:altLabel>Henricus Octavus.</skos:altLabel>
-    <skos:altLabel>Henryk VIII Tudor.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Henryk VIII (król Anglii ; 1491-1547).</skos:prefLabel>
-    <skos:altLabel>Henry VIII (king of England ; 1491-1547). [m]</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
     <skos:altLabel>Henri VIII (roi d'Angleterre ; 1491-1547).</skos:altLabel>
+    <skos:prefLabel>Henryk VIII (król Anglii ; 1491-1547).</skos:prefLabel>
+    <skos:altLabel>Henryk VIII Tudor.</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CHenry_VIII_of_England#skos:Concept">
-    <skos:prefLabel>Henry VIII of England</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <skos:altLabel>Henry 08 Of England</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0009D5881E#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Henry VIII, King of England, 1491-1547</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <skos:altLabel>Henry VIII (king of England ; 1491-1547). [m]</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca25023986#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
     <skos:altLabel>Henryk VIII Tudor.</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
     <skos:prefLabel>Henryk VIII (król Anglii ; 1491-1547).</skos:prefLabel>
     <skos:altLabel>Henry VIII, King of England, 1491-1547</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
     <skos:altLabel>Henryk Tudor.</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/172419710/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/172419710"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000062154#skos:Concept">
-    <skos:prefLabel>Henry VIII, King of England, 1491-1547</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000700820#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Jindřich VIII., anglický král, 1491-1547</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:altLabel>Henry VIII., roi d'Angleterre, 1491-1547</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/172419710/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C070457999#skos:Concept">
-    <skos:altLabel>Heinrich VIII, 1491-1547</skos:altLabel>
-    <skos:altLabel>Henri VIII. 1491-1547</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
-    <skos:prefLabel>Henry VIII, koning van Engeland, 1491-1547</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:altLabel>Hendrik VIII, 1491-1547</skos:altLabel>
+    <skos:altLabel>Heinrich VIII, 1491-1547</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:altLabel>Henri VIII. 1491-1547</skos:altLabel>
+    <skos:prefLabel>Henry VIII, koning van Engeland, 1491-1547</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11988809#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Henry VIII roi d'Angleterre et d'Irlande 1491-1547</skos:altLabel>
-    <skos:prefLabel>Henri VIII, roi d'Angleterre et d'Irlande, 1491-1547</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BIBSYS%7Cx04094636#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
-    <skos:altLabel>Henricus VIII roi d'Angleterre et d'Irlande 1491-1547</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11988809r"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11988809r"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Henry 8 konge av England 1491-1547</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BIBSYS"/>
+    <skos:prefLabel>Henrik VIII konge av England 1491-1547</skos:prefLabel>
+    <skos:altLabel>Henry VIII konge av England 1491-1547</skos:altLabel>
+    <skos:altLabel>Henrik 8 konge av England 1491-1547</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000700820#skos:Concept">
-    <skos:prefLabel>Jindřich VIII., anglický král, 1491-1547</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00620812#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
-    <skos:altLabel>Henry VIII., roi d'Angleterre, 1491-1547</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Henry 8世, 1491-1547, イギリス国王</skos:prefLabel>
+    <skos:altLabel>Henry 8sei, 1491-1547, Igirisu Kokuo</skos:altLabel>
+    <skos:altLabel>Henry 8セイ, 1491-1547, イギリス コクオウ</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0009D5881F#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <skos:prefLabel>Henry VIII, King of England, 1491-1547</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/172419710">
+    <foaf:name>Henricus VIII roi d'Angleterre et d'Irlande 1491-1547</foaf:name>
+    <foaf:name>Heinrich VIII, 1491-1547</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Henry 08, roi d'Angleterre et d'Irlande</foaf:name>
+    <foaf:name>Henry VIII, roi d'Angleterre, 1491-1547</foaf:name>
+    <foaf:name>Henryk VIII, King of England, 1491-1547</foaf:name>
+    <foaf:name>Henry VIII., roi d'Angleterre, 1491-1547</foaf:name>
+    <foaf:name>Henryk VIII (król Anglii ; 1491-1547).</foaf:name>
+    <foaf:name>Henrik 8 konge av England 1491-1547</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/207833"/>
+    <foaf:name>Hendrik VIII, 1491-1547</foaf:name>
+    <foaf:name>Henri VIII, roi d'Angleterre</foaf:name>
+    <foaf:name>Henry VIII, re d'Inghilterra, 1491-1547</foaf:name>
+    <foaf:name>Henrik VIII konge av England 1491-1547</foaf:name>
+    <foaf:name>Henri VIII. Angleterre, Roi 1491-1547</foaf:name>
+    <foaf:name>Heinrich VIII. England, König 1491-1547</foaf:name>
+    <foaf:name>Henrie VIII. Angleterre, Roi 1491-1547</foaf:name>
+    <foaf:name>Henri VIII. 1491-1547</foaf:name>
+    <foaf:name>Henri 8, roi d'Angleterre</foaf:name>
+    <foaf:name>Henry VIII konge av England 1491-1547</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/297006123"/>
+    <foaf:name>Henry VIII, Anglijas karalis, 1491-1547</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Henry VIII roi d'Angleterre et d'Irlande 1491-1547</foaf:name>
+    <foaf:name>Enrique VIII, King of England, 1491-1547</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/027303608/id"/>
+    <foaf:name>Henry 08 Of England</foaf:name>
+    <foaf:name>Henryk Tudor.</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118548204"/>
+    <foaf:name>Jindřich VIII., anglický král, 1491-1547</foaf:name>
+    <foaf:name>Henry VIII, King of England, 1491-1547</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/297006123"/>
+    <foaf:name>Henry 8世, 1491-1547, イギリス国王</foaf:name>
+    <foaf:name>Henry VIII. Angleterre, Roy 1491-1547</foaf:name>
+    <foaf:name>Henry VIII of England</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/121014833"/>
+    <foaf:name>Henry VIII. England, King 1491-1547</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/121014833"/>
+    <foaf:name>Henricus VIII. Anglia, Rex 1491-1547</foaf:name>
+    <foaf:name>Henry 8sei, 1491-1547, Igirisu Kokuo</foaf:name>
+    <foaf:name>Henrik VIII, kung av England, 1491-1547</foaf:name>
+    <foaf:name>Henri VIII, King of England, 1491-1547</foaf:name>
+    <foaf:name>Henry VIII, koning van Engeland, 1491-1547</foaf:name>
+    <foaf:name>Henricus Octavus.</foaf:name>
+    <foaf:name>Henrijs VIII, Anglijas karalis, 1491-1547</foaf:name>
+    <foaf:name>Henry VIII (king of England ; 1491-1547). [m]</foaf:name>
+    <foaf:name>Henry VIII, roi d'Angleterre et d'Irlande</foaf:name>
+    <foaf:name>Henry 8 konge av England 1491-1547</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Henry_VIII_of_England"/>
+    <foaf:name>Henry 8, roi d'Angleterre et d'Irlande</foaf:name>
+    <foaf:name>Henri VIII (roi d'Angleterre ; 1491-1547).</foaf:name>
+    <foaf:name>Генрих VIII, Anglijas karalis, 1491-1547</foaf:name>
+    <foaf:name>Heinrich VIII, King of England, 1491-1547</foaf:name>
+    <rdaGr2:dateOfBirth>1491-06-28</rdaGr2:dateOfBirth>
+    <foaf:name>Henricus VIII, roi d'Angleterre et d'Irlande</foaf:name>
+    <foaf:name>Henryk VIII Tudor.</foaf:name>
+    <rdaGr2:dateOfDeath>1547-01-28</rdaGr2:dateOfDeath>
+    <foaf:name>Indriķis VIII, Anglijas karalis, 1491-1547</foaf:name>
+    <foaf:name>Henry 8セイ, 1491-1547, イギリス コクオウ</foaf:name>
+    <foaf:name>Henri VIII, roi d'Angleterre et d'Irlande, 1491-1547</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb11988809r#foaf:Person"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035187905#skos:Concept">
-    <skos:prefLabel>Henry VIII, King of England, 1491-1547</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <skos:altLabel>Henryk VIII, King of England, 1491-1547</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:altLabel>Henri VIII, King of England, 1491-1547</skos:altLabel>
-    <skos:altLabel>Enrique VIII, King of England, 1491-1547</skos:altLabel>
+    <skos:altLabel>Henryk VIII, King of England, 1491-1547</skos:altLabel>
     <skos:altLabel>Heinrich VIII, King of England, 1491-1547</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
+    <skos:prefLabel>Henry VIII, King of England, 1491-1547</skos:prefLabel>
+    <skos:altLabel>Enrique VIII, King of England, 1491-1547</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11988809#skos:Concept">
+    <skos:altLabel>Henricus VIII roi d'Angleterre et d'Irlande 1491-1547</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb11988809r"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb11988809r"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:altLabel>Henry VIII roi d'Angleterre et d'Irlande 1491-1547</skos:altLabel>
+    <skos:prefLabel>Henri VIII, roi d'Angleterre et d'Irlande, 1491-1547</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/172419710/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
     <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/172419710"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0009D5881E#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
+    <skos:prefLabel>Henry VIII, King of England, 1491-1547</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79113093#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:altLabel>Heinrich VIII, King of England, 1491-1547</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79113093"/>
-    <skos:altLabel>Henri VIII, King of England, 1491-1547</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Henry VIII, King of England, 1491-1547</skos:prefLabel>
+    <skos:altLabel>Enrique VIII, King of England, 1491-1547</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Henri VIII, King of England, 1491-1547</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79113093"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
     <skos:altLabel>Henryk VIII, King of England, 1491-1547</skos:altLabel>
-    <skos:altLabel>Enrique VIII, King of England, 1491-1547</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000062154#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Henry VIII, King of England, 1491-1547</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027303608#skos:Concept">
+    <skos:altLabel>Henry 08, roi d'Angleterre et d'Irlande</skos:altLabel>
+    <skos:altLabel>Henri 8, roi d'Angleterre</skos:altLabel>
+    <skos:altLabel>Henri VIII, roi d'Angleterre</skos:altLabel>
+    <skos:altLabel>Henry 8, roi d'Angleterre et d'Irlande</skos:altLabel>
+    <skos:altLabel>Henry VIII, roi d'Angleterre et d'Irlande</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
+    <skos:prefLabel>Henri VIII, roi d'Angleterre et d'Irlande, 1491-1547</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:altLabel>Henricus VIII, roi d'Angleterre et d'Irlande</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV12165134#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
     <skos:prefLabel>Henry VIII, re d'Inghilterra, 1491-1547</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/172419710/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/172419710"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C207833#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/207833#concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:altLabel>Henry VIII, King of England, 1491-1547</skos:altLabel>
+    <skos:prefLabel>Henrik VIII, kung av England, 1491-1547</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CHenry_VIII_of_England#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:altLabel>Henry 08 Of England</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
+    <skos:prefLabel>Henry VIII of England</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118548204#skos:Concept">
     <skos:altLabel>Henri VIII. 1491-1547</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Henrie VIII. Angleterre, Roi 1491-1547</skos:altLabel>
     <skos:altLabel>Henry VIII. Angleterre, Roy 1491-1547</skos:altLabel>
     <skos:altLabel>Henri VIII. Angleterre, Roi 1491-1547</skos:altLabel>
-    <skos:altLabel>Henrie VIII. Angleterre, Roi 1491-1547</skos:altLabel>
     <skos:altLabel>Henricus VIII. Anglia, Rex 1491-1547</skos:altLabel>
     <skos:altLabel>Henry VIII. England, King 1491-1547</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Heinrich VIII. England, König 1491-1547</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00620812#skos:Concept">
-    <skos:prefLabel>Henry 8世, 1491-1547, イギリス国王</skos:prefLabel>
-    <skos:altLabel>Henry 8sei, 1491-1547, Igirisu Kokuo</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <skos:altLabel>Henry 8セイ, 1491-1547, イギリス コクオウ</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027303608#skos:Concept">
-    <skos:altLabel>Henry VIII, roi d'Angleterre et d'Irlande</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/172419710/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
-    <skos:altLabel>Henry 08, roi d'Angleterre et d'Irlande</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:altLabel>Henri VIII, roi d'Angleterre</skos:altLabel>
-    <skos:altLabel>Henricus VIII, roi d'Angleterre et d'Irlande</skos:altLabel>
-    <skos:altLabel>Henry 8, roi d'Angleterre et d'Irlande</skos:altLabel>
-    <skos:altLabel>Henri 8, roi d'Angleterre</skos:altLabel>
-    <skos:prefLabel>Henri VIII, roi d'Angleterre et d'Irlande, 1491-1547</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0009D5881F#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
+    <skos:prefLabel>Henry VIII, King of England, 1491-1547</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000047642#skos:Concept">
+    <skos:altLabel>Henrijs VIII, Anglijas karalis, 1491-1547</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/172419710"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Генрих VIII, Anglijas karalis, 1491-1547</skos:altLabel>
+    <skos:prefLabel>Indriķis VIII, Anglijas karalis, 1491-1547</skos:prefLabel>
+    <skos:altLabel>Henry VIII, Anglijas karalis, 1491-1547</skos:altLabel>
   </rdf:Description>
 </rdf:RDF>

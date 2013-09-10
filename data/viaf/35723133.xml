@@ -8,139 +8,150 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027369528#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035619595#skos:Concept">
-    <skos:altLabel>Wœ̄tsawœ̄t, Winlīam, 1770-1850</skos:altLabel>
-    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <skos:altLabel>Wurdzwurth, Wilyam, 1770-1850</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/35723133/">
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/35723133"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118635212#skos:Concept">
-    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C206223#skos:Concept">
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/206223#concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10218341#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97015711#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:altLabel>Wordsworth.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Wordsworth, W.</skos:altLabel>
-    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00461449#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <skos:altLabel>ワーズワース</skos:altLabel>
-    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX998992#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Wordsworth 1770-1850</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/35723133">
-    <foaf:name>وليم وردزورث، 1770-1850</foaf:name>
-    <foaf:name>ワーズワース</foaf:name>
-    <foaf:name>Wordsworth.</foaf:name>
-    <foaf:name>Varḍsavartha Viliyama, 1770-1850</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/William_Wordsworth"/>
-    <foaf:name>Wordsworth, William English poet and garden designer, 1770-1850</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/027369528/id"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb120285721#foaf:Person"/>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/206223"/>
-    <foaf:name>وردزورث، وليم، 1770-1850</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118635212"/>
-    <foaf:name>Wordsworth, William, 1770-1850</foaf:name>
-    <rdaGr2:dateOfBirth>1770-04-07</rdaGr2:dateOfBirth>
-    <rdaGr2:dateOfDeath>1850-04-23</rdaGr2:dateOfDeath>
-    <foaf:name>Wœ̄tsawœ̄t, Winlīam, 1770-1850</foaf:name>
-    <foaf:name>Wurdzwurth, Wilyam, 1770-1850</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/248549594"/>
-    <foaf:name>וורדסוורת, וילים, 1770-1850</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Wordsworth, William</foaf:name>
-    <foaf:name>Wordsworth, W.</foaf:name>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/248549594"/>
-    <foaf:name>Wordsworth 1770-1850</foaf:name>
-    <foaf:name>William Wordsworth</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000143255#skos:Concept">
-    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500071872#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
-    <skos:prefLabel>Wordsworth, William English poet and garden designer, 1770-1850</skos:prefLabel>
-    <skos:altLabel>William Wordsworth</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0102D6980#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12028572#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb120285721"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb120285721"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls002795283#skos:Concept">
+    <skos:prefLabel>وردزورث، وليم، 1770-1850</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>وليم وردزورث، 1770-1850</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/35723133/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/35723133"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000605662#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00461449#skos:Concept">
+    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+    <skos:altLabel>ワーズワース</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118635212#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/35723133/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/35723133"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000143255#skos:Concept">
+    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca1060926x#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+    <skos:altLabel>Wordsworth, W.</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX998992#skos:Concept">
+    <skos:altLabel>Wordsworth 1770-1850</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C206223#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/206223#concept"/>
+    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C027369528#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CWilliam_Wordsworth#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Wordsworth, William</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12028572#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb120285721"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb120285721"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/35723133/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/35723133"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79006595#skos:Concept">
-    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
     <skos:altLabel>Wurdzwurth, Wilyam, 1770-1850</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
-    <skos:altLabel>Wœ̄tsawœ̄t, Winlīam, 1770-1850</skos:altLabel>
-    <skos:altLabel>Varḍsavartha Viliyama, 1770-1850</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79006595"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79006595"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Varḍsavartha Viliyama, 1770-1850</skos:altLabel>
+    <skos:altLabel>Wœ̄tsawœ̄t, Winlīam, 1770-1850</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++97015711#skos:Concept">
+    <skos:altLabel>Wordsworth, W.</skos:altLabel>
+    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+    <skos:altLabel>Wordsworth.</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/35723133">
+    <foaf:name>Уордсуорт, Уильям, 1770-1850</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Wordsworth.</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/William_Wordsworth"/>
+    <foaf:name>William Wordsworth</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb120285721#foaf:Person"/>
+    <foaf:name>Wordsworth 1770-1850</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/248549594"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/206223"/>
+    <rdaGr2:dateOfDeath>1850-04-23</rdaGr2:dateOfDeath>
+    <foaf:name>ワーズワース</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/248549594"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Вордсворт, Вильям, 1770-1850</foaf:name>
+    <foaf:name>Varḍsavartha Viliyama, 1770-1850</foaf:name>
+    <foaf:name>וורדסוורת, וילים, 1770-1850</foaf:name>
+    <foaf:name>Вордсворт, Уильям, 1770-1850</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118635212"/>
+    <foaf:name>Wordsworth, William, 1770-1850</foaf:name>
+    <foaf:name>Wordsworth, W. (William), 1770-1850</foaf:name>
+    <foaf:name>وردزورث، وليم، 1770-1850</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/027369528/id"/>
+    <foaf:name>Wordsworth, William</foaf:name>
+    <foaf:name>Wurdzwurth, Wilyam, 1770-1850</foaf:name>
+    <rdaGr2:dateOfBirth>1770-04-07</rdaGr2:dateOfBirth>
+    <foaf:name>Wordsworth, William English poet and garden designer, 1770-1850</foaf:name>
+    <foaf:name>Wœ̄tsawœ̄t, Winlīam, 1770-1850</foaf:name>
+    <foaf:name>وليم وردزورث، 1770-1850</foaf:name>
+    <foaf:name>Wordsworth, W.</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035619595#skos:Concept">
+    <skos:altLabel>Wurdzwurth, Wilyam, 1770-1850</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
+    <skos:altLabel>Wœ̄tsawœ̄t, Winlīam, 1770-1850</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068478534#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
@@ -148,28 +159,31 @@
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls002795283#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
-    <skos:altLabel>وليم وردزورث، 1770-1850</skos:altLabel>
-    <skos:prefLabel>وردزورث، وليم، 1770-1850</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca1060926x#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <skos:altLabel>Wordsworth, W.</skos:altLabel>
-    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CWilliam_Wordsworth#skos:Concept">
-    <skos:prefLabel>Wordsworth, William</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/35723133/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV10218341#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/JPG%7C500071872#skos:Concept">
+    <skos:prefLabel>Wordsworth, William English poet and garden designer, 1770-1850</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/JPG"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
+    <skos:altLabel>William Wordsworth</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000021794#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Уордсуорт, Уильям, 1770-1850</skos:altLabel>
+    <skos:altLabel>Wordsworth, W. (William), 1770-1850</skos:altLabel>
+    <skos:prefLabel>Wordsworth, William, 1770-1850</skos:prefLabel>
+    <skos:altLabel>Вордсворт, Вильям, 1770-1850</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
+    <skos:altLabel>Вордсворт, Уильям, 1770-1850</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/35723133"/>
   </rdf:Description>
 </rdf:RDF>

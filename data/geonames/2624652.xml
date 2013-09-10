@@ -8,62 +8,62 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
 >
-  <rdf:Description rdf:about="http://sws.geonames.org/2624652/">
-    <gn:locationMap rdf:resource="http://www.geonames.org/2624652/arhus.html"/>
-    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
-    <wgs84_pos:long>10.21076</wgs84_pos:long>
-    <gn:alternateName xml:lang="de">Århus</gn:alternateName>
-    <gn:alternateName xml:lang="fi">Århus</gn:alternateName>
-    <gn:alternateName xml:lang="pl">Århus</gn:alternateName>
-    <gn:alternateName xml:lang="ro">Århus</gn:alternateName>
-    <gn:alternateName xml:lang="la">Aarhusium</gn:alternateName>
-    <gn:name>Aarhus</gn:name>
-    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2624652/nearby.rdf"/>
-    <gn:alternateName xml:lang="es">Århus</gn:alternateName>
-    <gn:alternateName xml:lang="id">Aarhus</gn:alternateName>
-    <gn:alternateName xml:lang="gl">Århus</gn:alternateName>
-    <gn:alternateName xml:lang="io">Aarhus</gn:alternateName>
-    <gn:alternateName xml:lang="nl">Århus</gn:alternateName>
-    <gn:alternateName>Aarhus</gn:alternateName>
-    <gn:alternateName xml:lang="ja">オーフス</gn:alternateName>
-    <gn:parentADM1 rdf:resource="http://sws.geonames.org/6418539/"/>
-    <gn:parentCountry rdf:resource="http://sws.geonames.org/2623032/"/>
-    <gn:alternateName xml:lang="sv">Århus</gn:alternateName>
-    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2624652/about.rdf"/>
-    <gn:alternateName xml:lang="sr">Орхус</gn:alternateName>
-    <gn:alternateName xml:lang="cs">Århus</gn:alternateName>
-    <gn:alternateName xml:lang="da">Århus</gn:alternateName>
-    <gn:countryCode>DK</gn:countryCode>
-    <gn:alternateName xml:lang="no">Århus</gn:alternateName>
-    <gn:alternateName xml:lang="hu">Aarhus</gn:alternateName>
-    <gn:alternateName xml:lang="is">Árósar</gn:alternateName>
-    <gn:population>237551</gn:population>
-    <gn:alternateName xml:lang="tr">Århus</gn:alternateName>
-    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
-    <gn:alternateName xml:lang="it">Århus</gn:alternateName>
-    <gn:wikipediaArticle rdf:resource="http://ru.wikipedia.org/wiki/%D0%9E%D1%80%D1%85%D1%83%D1%81"/>
-    <gn:alternateName xml:lang="bg">Орхус</gn:alternateName>
-    <gn:alternateName xml:lang="eo">Arhuzo</gn:alternateName>
-    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLA2"/>
-    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Aarhus"/>
-    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Aarhus"/>
-    <gn:alternateName xml:lang="et">Århus</gn:alternateName>
-    <wgs84_pos:lat>56.15674</wgs84_pos:lat>
-    <gn:alternateName xml:lang="en">Aarhus</gn:alternateName>
-    <gn:alternateName xml:lang="fr">Århus</gn:alternateName>
-    <gn:alternateName xml:lang="lv">Orhūsa</gn:alternateName>
-    <gn:alternateName xml:lang="ru">Орхус</gn:alternateName>
-    <gn:parentFeature rdf:resource="http://sws.geonames.org/2624647/"/>
-    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2624647/"/>
-    <gn:alternateName xml:lang="he">אורהוס</gn:alternateName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2624652/about.rdf">
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-10-23</dcterms:modified>
     <cc:attributionURL rdf:resource="http://sws.geonames.org/2624652/"/>
-    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
-    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2624652/"/>
     <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-10-23</dcterms:modified>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sws.geonames.org/2624652/">
+    <gn:countryCode>DK</gn:countryCode>
+    <gn:name>Aarhus</gn:name>
+    <wgs84_pos:long>10.21076</wgs84_pos:long>
+    <gn:alternateName>Aarhus</gn:alternateName>
+    <gn:alternateName xml:lang="pl">Århus</gn:alternateName>
+    <wgs84_pos:lat>56.15674</wgs84_pos:lat>
+    <gn:alternateName xml:lang="hu">Aarhus</gn:alternateName>
+    <gn:alternateName xml:lang="io">Aarhus</gn:alternateName>
+    <gn:alternateName xml:lang="nl">Århus</gn:alternateName>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Aarhus"/>
+    <gn:alternateName xml:lang="no">Århus</gn:alternateName>
+    <gn:alternateName xml:lang="ja">オーフス</gn:alternateName>
+    <gn:wikipediaArticle rdf:resource="http://ru.wikipedia.org/wiki/%D0%9E%D1%80%D1%85%D1%83%D1%81"/>
+    <gn:alternateName xml:lang="cs">Århus</gn:alternateName>
+    <gn:alternateName xml:lang="la">Aarhusium</gn:alternateName>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2624647/"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2624652/about.rdf"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLA2"/>
+    <gn:alternateName xml:lang="gl">Århus</gn:alternateName>
+    <gn:alternateName xml:lang="sr">Орхус</gn:alternateName>
+    <gn:alternateName xml:lang="fr">Århus</gn:alternateName>
+    <gn:alternateName xml:lang="fi">Århus</gn:alternateName>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Aarhus"/>
+    <gn:alternateName xml:lang="da">Århus</gn:alternateName>
+    <gn:alternateName xml:lang="is">Árósar</gn:alternateName>
+    <gn:alternateName xml:lang="id">Aarhus</gn:alternateName>
+    <gn:alternateName xml:lang="it">Århus</gn:alternateName>
+    <gn:alternateName xml:lang="eo">Arhuzo</gn:alternateName>
+    <gn:alternateName xml:lang="sv">Århus</gn:alternateName>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2624652/arhus.html"/>
+    <gn:alternateName xml:lang="he">אורהוס</gn:alternateName>
+    <gn:alternateName xml:lang="bg">Орхус</gn:alternateName>
+    <gn:parentADM2 rdf:resource="http://sws.geonames.org/2624647/"/>
+    <gn:alternateName xml:lang="de">Århus</gn:alternateName>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2623032/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/6418539/"/>
+    <gn:alternateName xml:lang="ru">Орхус</gn:alternateName>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2624652/nearby.rdf"/>
+    <gn:alternateName xml:lang="es">Århus</gn:alternateName>
+    <gn:alternateName xml:lang="lv">Orhūsa</gn:alternateName>
+    <gn:alternateName xml:lang="ro">Århus</gn:alternateName>
+    <gn:alternateName xml:lang="et">Århus</gn:alternateName>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:alternateName xml:lang="tr">Århus</gn:alternateName>
+    <gn:alternateName xml:lang="en">Aarhus</gn:alternateName>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:population>237551</gn:population>
   </rdf:Description>
 </rdf:RDF>

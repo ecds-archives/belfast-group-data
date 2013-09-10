@@ -8,34 +8,34 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
 >
+  <rdf:Description rdf:about="http://sws.geonames.org/2657256/about.rdf">
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-01-06</dcterms:modified>
+    <cc:attributionURL rdf:resource="http://sws.geonames.org/2657256/"/>
+    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2657256/"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://sws.geonames.org/2657256/">
-    <gn:locationMap rdf:resource="http://www.geonames.org/2657256/antrim-borough.html"/>
-    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2657256/about.rdf"/>
-    <gn:shortName>Antrim</gn:shortName>
     <gn:parentADM1 rdf:resource="http://sws.geonames.org/2641364/"/>
     <wgs84_pos:long>-6.25</wgs84_pos:long>
     <gn:population>53000</gn:population>
-    <gn:name>Antrim</gn:name>
-    <gn:parentFeature rdf:resource="http://sws.geonames.org/2641364/"/>
-    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/2657256/antrim-borough.html"/>
     <gn:countryCode>GB</gn:countryCode>
-    <wgs84_pos:lat>54.66667</wgs84_pos:lat>
-    <gn:alternateName>Antrim Borough Council</gn:alternateName>
-    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
-    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Antrim_Borough_Council"/>
-    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/2657256/contains.rdf"/>
-    <gn:shortName xml:lang="en">Antrim</gn:shortName>
     <gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
-    <gn:parentCountry rdf:resource="http://sws.geonames.org/2635167/"/>
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2657256/about.rdf"/>
+    <wgs84_pos:lat>54.66667</wgs84_pos:lat>
+    <gn:shortName>Antrim</gn:shortName>
     <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Antrim_Borough_Council"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://sws.geonames.org/2657256/about.rdf">
-    <cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
-    <cc:attributionURL rdf:resource="http://sws.geonames.org/2657256/"/>
-    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
-    <foaf:primaryTopic rdf:resource="http://sws.geonames.org/2657256/"/>
-    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-01-06</dcterms:modified>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/2641364/"/>
+    <gn:childrenFeatures rdf:resource="http://sws.geonames.org/2657256/contains.rdf"/>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <gn:alternateName>Antrim Borough Council</gn:alternateName>
+    <gn:name>Antrim</gn:name>
+    <gn:shortName xml:lang="en">Antrim</gn:shortName>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/2635167/"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Antrim_Borough_Council"/>
   </rdf:Description>
 </rdf:RDF>

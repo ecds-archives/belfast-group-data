@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Hill_(painter)">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2000_deaths"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.dun-na-ngall.com/glebe.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPainters"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpedia-owl:abstract xml:lang="en">Arthur Derek Hill, CBE (1916 – 30 July 2000) was an English portrait and landscape painter.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishPainters"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1916</dbpprop:dateOfBirth>
+    <rdfs:comment xml:lang="en">Arthur Derek Hill, CBE (1916 – 30 July 2000) was an English portrait and landscape painter.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.rossfineart.ie/news/Derek+Hill+and+Friends"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Portrait_artists"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Derek_Hill_(painter)?oldid=486794081"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1916_births"/>
+    <foaf:surname xml:lang="en">Hill</foaf:surname>
+    <rdfs:label xml:lang="en">Derek Hill (painter)</rdfs:label>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-07-30</dbpedia-owl:deathDate>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0dtznn"/>
+    <foaf:name xml:lang="en">Derek Hill</foaf:name>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Derek_Hill_(painter)"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artcyclopedia.com/artists/hill_derek.html"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_landscape_painters"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LandscapeArtists"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/news/2000/aug/10/guardianobituaries1"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Derek_Hill_(painter)"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.rte.ie/news/2000/0731/hill.html"/>
+    <dbpprop:name xml:lang="en">Hill, Derek</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromHampshire"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30</dbpprop:dateOfDeath>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <foaf:givenName xml:lang="en">Derek</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_landscape_painters"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PortraitArtists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Hampshire"/>
+  </rdf:Description>
+</rdf:RDF>

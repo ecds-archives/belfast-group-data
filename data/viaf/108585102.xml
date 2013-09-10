@@ -8,148 +8,148 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca23636427#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000604846#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79006446#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:altLabel>Sheffer, Piter, 1926-</skos:altLabel>
+    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79006446"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118796852#skos:Concept">
-    <skos:altLabel>Shaffer, Peter Levin 1926-</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Shaffer, Peter Levin 1926-</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
     <skos:altLabel>Sheffer, Piter, 1926-</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
     <skos:altLabel>Šafir, Pītir 1926-</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068680287#skos:Concept">
-    <skos:prefLabel>Shaffer, Peter (Peter Levin), 1926-</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00456196#skos:Concept">
+    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
+    <skos:altLabel>シェーファー, ピーター</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108585102/">
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/108585102"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C033509778#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca23636427#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
+    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/108585102/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00456196#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>シェーファー, ピーター</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
-    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX830599#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
     <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++98701663#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-    <skos:altLabel>Sheffer, Piter.</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Shaffer, Peter Levin.</skos:altLabel>
-    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C74634#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
-    <skos:altLabel>Shaffer, Peter Levin.</skos:altLabel>
     <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
-    <skos:altLabel>Shaffer, Peter</skos:altLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12436971#skos:Concept">
+    <skos:altLabel>Shaffer, Peter</skos:altLabel>
+    <skos:altLabel>Shaffer, Peter Levin.</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb124369716"/>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb124369716"/>
-    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035491698#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C033509778#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C225122#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/225122#concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CPeter_Shaffer#skos:Concept">
+    <skos:prefLabel>Shaffer, Peter</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12436971#skos:Concept">
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb124369716"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Shaffer, Peter</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb124369716"/>
+    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls000970141#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
+    <skos:altLabel>شفر، بيتر 1926-</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
-    <skos:altLabel>شفر، بيتر 1926-</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
     <skos:prefLabel>شافر، بيتر، 1926-</skos:prefLabel>
     <skos:altLabel>بيتر شافر، 1926-</skos:altLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/108585102/#foaf:Person">
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/108585102"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++98701663#skos:Concept">
+    <skos:altLabel>Shaffer, Peter Levin.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
+    <skos:altLabel>Sheffer, Piter.</skos:altLabel>
+    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/108585102">
-    <rdaGr2:dateOfBirth>1926-05-15</rdaGr2:dateOfBirth>
-    <foaf:name>Šafir, Pītir 1926-</foaf:name>
-    <foaf:name>شفر، بيتر 1926-</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/033509778/id"/>
-    <foaf:name>شافر، بيتر، 1926-</foaf:name>
+    <foaf:name>Shaffer, Peter</foaf:name>
     <foaf:name>Sheffer, Piter.</foaf:name>
     <foaf:name>Shaffer, Peter Levin 1926-</foaf:name>
-    <foaf:name>بيتر شافر، 1926-</foaf:name>
-    <foaf:name>シェーファー, ピーター</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118796852"/>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/225122"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Peter_Shaffer"/>
-    <foaf:name>Shaffer, Peter (Peter Levin), 1926-</foaf:name>
-    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/85038349"/>
-    <foaf:name>Shaffer, Peter, 1926-....</foaf:name>
-    <foaf:name>Shaffer, Peter</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb124369716#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/033509778/id"/>
     <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/23419941"/>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/23419941"/>
-    <owl:differentFrom rdf:resource="http://viaf.org/viaf/85038349"/>
-    <foaf:name>Sheffer, Piter, 1926-</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Shaffer, Peter (Peter Levin), 1926-</foaf:name>
+    <foaf:name>Shaffer, Peter, 1926-....</foaf:name>
     <foaf:name>Shaffer, Peter Levin.</foaf:name>
+    <rdaGr2:dateOfBirth>1926-05-15</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118796852"/>
+    <foaf:name>Šafir, Pītir 1926-</foaf:name>
+    <foaf:name>شافر، بيتر، 1926-</foaf:name>
+    <rdfs:seeAlso rdf:resource="http://viaf.org/viaf/85038349"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb124369716#foaf:Person"/>
+    <foaf:name>بيتر شافر، 1926-</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Peter_Shaffer"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/225122"/>
+    <foaf:name>シェーファー, ピーター</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/23419941"/>
+    <foaf:name>Sheffer, Piter, 1926-</foaf:name>
+    <foaf:name>شفر، بيتر 1926-</foaf:name>
+    <owl:differentFrom rdf:resource="http://viaf.org/viaf/85038349"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++79006446#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
-    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n79006446"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035491698#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Sheffer, Piter, 1926-</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000604846#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
     <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C068680287#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Shaffer, Peter (Peter Levin), 1926-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/108585102/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/108585102"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/108585102/#foaf:Person">
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/108585102"/>
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C225122#skos:Concept">
+    <skos:prefLabel>Shaffer, Peter, 1926-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/225122#concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/108585102"/>
   </rdf:Description>
 </rdf:RDF>

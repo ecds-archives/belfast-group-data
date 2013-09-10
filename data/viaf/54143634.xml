@@ -8,156 +8,164 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV12194542#skos:Concept">
-    <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00462388#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
     <skos:altLabel>アヌイユ, ジヤン</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
     <skos:altLabel>アヌイ</skos:altLabel>
   </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118503251#skos:Concept">
+    <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/54143634/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/54143634"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BAV%7CADV12194542#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BAV"/>
+    <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/54143634">
-    <foaf:name>アヌイ</foaf:name>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb118888981#foaf:Person"/>
     <foaf:name>Anouig, Zan, 1910-1987</foaf:name>
-    <foaf:name>Anouilhy, Jean 1910-1987</foaf:name>
-    <foaf:name>انوى، جان، 1910-1987 م.</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jean_Anouilh"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118503251"/>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/227661"/>
-    <foaf:name>Anuï, Z︠H︡an, 1910-1987</foaf:name>
-    <foaf:name>Anui, Žan, 1910-1987</foaf:name>
-    <foaf:name>Anouilh, Jean</foaf:name>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <rdaGr2:dateOfDeath>1987-10-03</rdaGr2:dateOfDeath>
-    <foaf:name>Anouilh, Jean (Jean Marie Lucien Pierre), 1910-1987</foaf:name>
-    <foaf:name>Anouilh, Jean Marie Lucien Pierre</foaf:name>
-    <foaf:name>アヌイユ, ジヤン</foaf:name>
     <foaf:name>Anouilh, Jean, 1910-</foaf:name>
-    <foaf:name>Anouilh, Jean, 1910-1987</foaf:name>
+    <foaf:name>Anouilh, Jean (Jean Marie Lucien Pierre), 1910-1987</foaf:name>
+    <foaf:name>アヌイ</foaf:name>
+    <foaf:name>Anouilhy, Jean 1910-1987</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118503251"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jean_Anouilh"/>
     <owl:sameAs rdf:resource="http://www.idref.fr/026687542/id"/>
     <foaf:name>جان انوى، 1910-1987 م.</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb118888981#foaf:Person"/>
+    <rdaGr2:dateOfDeath>1987-10-03</rdaGr2:dateOfDeath>
+    <foaf:name>Anui, Žan, 1910-1987</foaf:name>
+    <foaf:name>アヌイユ, ジヤン</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
     <foaf:name>Anujʹ, Ž., 1910-1987</foaf:name>
+    <foaf:name>Anouilh, Jean Marie Lucien Pierre</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/227661"/>
     <rdaGr2:dateOfBirth>1910-06-23</rdaGr2:dateOfBirth>
+    <foaf:name>Anuï, Z︠H︡an, 1910-1987</foaf:name>
+    <foaf:name>انوى، جان، 1910-1987 م.</foaf:name>
+    <foaf:name>Ануй, Жан, 1910-1987</foaf:name>
+    <foaf:name>Anouilh, Jean, 1910-1987</foaf:name>
+    <foaf:name>Anouilh, Jean</foaf:name>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX833077#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
-    <skos:altLabel>Anouilhy, Jean 1910-1987</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80069026#skos:Concept">
+    <skos:altLabel>Anuï, Z︠H︡an, 1910-1987</skos:altLabel>
     <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls000896336#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
-    <skos:prefLabel>انوى، جان، 1910-1987 م.</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80069026"/>
+    <skos:altLabel>Anui, Žan, 1910-1987</skos:altLabel>
+    <skos:altLabel>Anouig, Zan, 1910-1987</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>جان انوى، 1910-1987 م.</skos:altLabel>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CJean_Anouilh#skos:Concept">
     <skos:prefLabel>Anouilh, Jean</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C227661#skos:Concept">
+    <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
     <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/227661#concept"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca12304748#skos:Concept">
-    <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++80069026#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/54143634/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
-    <skos:altLabel>Anui, Žan, 1910-1987</skos:altLabel>
-    <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
-    <skos:altLabel>Anuï, Z︠H︡an, 1910-1987</skos:altLabel>
-    <skos:altLabel>Anouig, Zan, 1910-1987</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80069026"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++93080083#skos:Concept">
-    <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn20000600283#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000010594#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <skos:prefLabel>Anouilh, Jean</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C4415#skos:Concept">
+    <skos:altLabel>Anouilh, Jean Marie Lucien Pierre</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11888898#skos:Concept">
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb118888981"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
     <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb118888981"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026687542#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000026950#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
+    <skos:altLabel>Ануй, Жан, 1910-1987</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
     <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C06841434X#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <skos:prefLabel>Anouilh, Jean (Jean Marie Lucien Pierre), 1910-1987</skos:prefLabel>
-    <skos:altLabel>Anujʹ, Ž., 1910-1987</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035007236#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <skos:prefLabel>Anouilh, Jean, 1910-</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/54143634/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/54143634"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/54143634/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/54143634"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/54143634/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000010594#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C4415#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-    <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
-    <skos:altLabel>Anouilh, Jean Marie Lucien Pierre</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
+    <skos:prefLabel>Anouilh, Jean</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118503251#skos:Concept">
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca12304748#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C06841434X#skos:Concept">
+    <skos:prefLabel>Anouilh, Jean (Jean Marie Lucien Pierre), 1910-1987</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:altLabel>Anujʹ, Ž., 1910-1987</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++93080083#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
+    <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035007236#skos:Concept">
+    <skos:prefLabel>Anouilh, Jean, 1910-</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX833077#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
+    <skos:altLabel>Anouilhy, Jean 1910-1987</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls000896336#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>جان انوى، 1910-1987 م.</skos:altLabel>
+    <skos:prefLabel>انوى، جان، 1910-1987 م.</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C11888898#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb118888981"/>
+    <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb118888981"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C026687542#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Anouilh, Jean, 1910-1987</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/54143634"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>

@@ -8,156 +8,162 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118569740#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CPhilip_Larkin#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Larkin, Philip</skos:prefLabel>
-    <skos:altLabel>Larkin, Philip Arthur</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls000895563#skos:Concept">
-    <skos:altLabel>فيليب لاركن، 1925-1985</skos:altLabel>
-    <skos:prefLabel>لاركن، فيليب، 1925-1985</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C118569740#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
+    <skos:altLabel>Larkin, Philip Arthur</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Larkin, Philip</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjo2001100053#skos:Concept">
+    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
+    <skos:altLabel>Larkin, Philip Arthur, 1922-1985</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12036911#skos:Concept">
     <skos:altLabel>Larkin, Philip Arthur, 1922-1985</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
     <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12036911n"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12036911n"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12036911n"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11541829#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
-    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0053L3939#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000077281#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
     <skos:prefLabel>Larkin, Philip</skos:prefLabel>
-    <skos:altLabel>Larkin, Philip, 1922-</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C258450#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/258450#concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00470136#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
-    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
-    <skos:altLabel>ラーキン, フィリップ</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028556879#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
-    <skos:altLabel>Larkin, Philip Arthur</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000408656#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/68946198">
-    <foaf:name>Larkin, Philip Arthur, 1922-1985</foaf:name>
-    <rdaGr2:dateOfDeath>1985-12-02</rdaGr2:dateOfDeath>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <foaf:name>Larkin, Philip Arthur</foaf:name>
-    <foaf:name>Coleman, Brunette</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118569740"/>
-    <foaf:name>Larkin, Philip, 1922-</foaf:name>
-    <foaf:name>Larkin, Philip, 1922-1985</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/258450"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/028556879/id"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12036911n#foaf:Person"/>
-    <foaf:name>Larkin, Philip</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Philip_Larkin"/>
-    <foaf:name>ラーキン, フィリップ</foaf:name>
-    <foaf:name>فيليب لاركن، 1925-1985</foaf:name>
-    <foaf:name>Larkin, Philip (Philip Arthur), 1922-1985</foaf:name>
-    <rdaGr2:dateOfBirth>1922-08-09</rdaGr2:dateOfBirth>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>لاركن، فيليب، 1925-1985</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50036026#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <skos:prefLabel>Larkin, Philip</skos:prefLabel>
-    <skos:altLabel>Coleman, Brunette</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50036026"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000081152#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C06932669X#skos:Concept">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
-    <skos:prefLabel>Larkin, Philip (Philip Arthur), 1922-1985</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjo2001100053#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>Larkin, Philip Arthur, 1922-1985</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1132120#skos:Concept">
-    <skos:altLabel>Larkin, Philip Arthur, 1922-1985</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C258450#skos:Concept">
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/258450#concept"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
     <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CPhilip_Larkin#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
-    <skos:prefLabel>Larkin, Philip</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/68946198/#foaf:Person">
     <owl:sameAs rdf:resource="http://viaf.org/viaf/68946198"/>
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C62394#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
-    <skos:altLabel>Larkin, Philip Arthur</skos:altLabel>
-    <skos:altLabel>Larkin, Philip</skos:altLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11541829#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
     <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLI%7C000408656#skos:Concept">
+    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLI"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50036026#skos:Concept">
+    <skos:altLabel>Coleman, Brunette</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50036026"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Larkin, Philip</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/68946198">
+    <foaf:name>Larkin, Philip (Philip Arthur), 1922-1985</foaf:name>
+    <foaf:name>لاركن، فيليب، 1925-1985</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12036911n#foaf:Person"/>
+    <foaf:name>Larkin, Philip</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/258450"/>
+    <rdaGr2:dateOfBirth>1922-08-09</rdaGr2:dateOfBirth>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Philip_Larkin"/>
+    <foaf:name>Coleman, Brunette</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118569740"/>
+    <foaf:name>Larkin, Philip Arthur, 1922-1985</foaf:name>
+    <foaf:name>Larkin, Philip, 1922-1985</foaf:name>
+    <foaf:name>Larkin, Philip, 1922-</foaf:name>
+    <foaf:name>Larkin, Philip Arthur</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/028556879/id"/>
+    <rdaGr2:dateOfDeath>1985-12-02</rdaGr2:dateOfDeath>
+    <foaf:name>ラーキン, フィリップ</foaf:name>
+    <foaf:name>فيليب لاركن، 1925-1985</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/EGAXA%7Cvtls000895563#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/EGAXA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>فيليب لاركن، 1925-1985</skos:altLabel>
+    <skos:prefLabel>لاركن، فيليب، 1925-1985</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNE%7CXX1132120#skos:Concept">
+    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
+    <skos:altLabel>Larkin, Philip Arthur, 1922-1985</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNE"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LAC%7C0053L3939#skos:Concept">
+    <skos:altLabel>Larkin, Philip, 1922-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LAC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Larkin, Philip</skos:prefLabel>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/68946198/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/68946198"/>
     <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/68946198"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NDL%7C00470136#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NDL"/>
+    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <skos:altLabel>ラーキン, フィリップ</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C06932669X#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <skos:prefLabel>Larkin, Philip (Philip Arthur), 1922-1985</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C028556879#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <skos:altLabel>Larkin, Philip Arthur</skos:altLabel>
+    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++94000659#skos:Concept">
     <skos:altLabel>Larkin, Philip Arthur, 1922-1985</skos:altLabel>
-    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/PTBNP%7C62394#skos:Concept">
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/PTBNP"/>
+    <skos:altLabel>Larkin, Philip Arthur</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <skos:prefLabel>Larkin, Philip, 1922-1985</skos:prefLabel>
+    <skos:altLabel>Larkin, Philip</skos:altLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/68946198/#skos:Concept">
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
     <foaf:focus rdf:resource="http://viaf.org/viaf/68946198"/>
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
 </rdf:RDF>

@@ -9,733 +9,158 @@
    xmlns:owl="http://www.w3.org/2002/07/owl#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Joyce's_The_Dead">
-    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_R._Delany">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Laurence">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Amis">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Campbell">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_H._Quillian">
-    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <skos:subject rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/James_Joyce">
-    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Fritscher">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Mother">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_Burgess">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Boarding_House">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ronald_Verlin_Cassill">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet_and_the_New_Poetic:_James_Joyce_and_T._S._Eliot">
-    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gayl_Jones">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Laurence_Sterne">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Sisters_(short_story)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.nytimes.com/87022308807550067493">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giambattista_Vico">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julien_Green">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jerome_Charyn">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Andr%C3%A9_Aciman">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/River_Liffey">
-    <dbpprop:source rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Bloom">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Roth">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Araby_(short_story)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_O'Hara">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Jane_Murray">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Aris_Marangopoulos">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Terence_McKenna">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dylan_Thomas">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Saul_Bellow">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Malcolm_Lowry">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheridan_Le_Fanu">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marshall_McLuhan">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_McCann">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cormac_McCarthy">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/B._S._Johnson">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julio_Cort%C3%A1zar">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilo_Jos%C3%A9_Cela">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joyce,_James">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Aquinas">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joyce_Carol_Oates">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Barthelme">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_O'Nolan">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Pinter">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Miho_Mosulishvili">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_Hero">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Painful_Case">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giannina_Braschi">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Michaelian">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulysses_(novel)">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Janet_Frame">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Cats_of_Copenhagen">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Luigi_Malerba">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Finnegans_Wake">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Salman_Rushdie">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Updike">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Byron">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bonnie_Bluh">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_K._Dick">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giordano_Bruno">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mihail_Sebastian">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lojze_Kova%C4%8Di%C4%8D">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Barth">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jamie_O'Neill">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Brendan_Behan">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_Dedalus">
-    <dbpedia-owl:creator rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Browne">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitch_Berman">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/S%C3%A9amus_Seoighe">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Georgescu">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maimonides">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Styron">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Dead_(film)">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Italo_Svevo">
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Portrait_of_the_Artist_as_a_Young_Man">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Counterparts_(short_story)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gene_Wolfe">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bret_Easton_Ellis">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mircea_C%C4%83rt%C4%83rescu">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Auster">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_Munro">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Valya_Dudycz_Lupescu">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Naguib_Mahfouz">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_Rabelais">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Motojir%C5%8D_Kajii">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Markson">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Two_Gallants_(short_story)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Weininger">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Teju_Cole">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Orwell">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joel_Chandler_Harris">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Umberto_Eco">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Jos%C3%A9_Farmer">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colum_McCann">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Exiles_(play)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Burns">
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Don_DeLillo">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chen_Ran">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Joyce_(disambiguation)">
-    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Augustine_Joyce">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/After_the_Race">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_joyce">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Raymond_Kennedy">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Yates_(novelist)">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Woolf">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ignacio_Padilla">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/James_Joyce">
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_Austria-Hungary"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyDuBlin"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_short_story_writers"/>
-    <dbpedia-owl:individualisedPnd xml:lang="de">118558501</dbpedia-owl:individualisedPnd>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_France"/>
-    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/1/1e/Revolutionary_Joyce_Better_Contrast.jpg"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:NPG_name"/>
-    <dbpedia-owl:abstract xml:lang="nl">De Ierse schrijver James Joyce (voluit James Augustine Aloysius Joyce) wordt beschouwd als een van de belangrijkste schrijvers van de 20e eeuw. Zijn hoofdwerk is de roman Ulysses.</dbpedia-owl:abstract>
-    <dbpprop:q xml:lang="en">James Joyce</dbpprop:q>
-    <rdfs:label xml:lang="zh">詹姆斯·乔伊斯</rdfs:label>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishAsASecondLanguAgeTeachers"/>
-    <rdfs:comment xml:lang="pl">James Augustine Aloysius Joyce – irlandzki pisarz tworzący w języku angielskim, jeden z najwybitniejszych pisarzy XX wieku.</rdfs:comment>
-    <dc:description xml:lang="en">Irish writer and poet</dc:description>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.jamesjoyce.ie/"/>
-    <dbpprop:n xml:lang="en">no</dbpprop:n>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.life.com/image/first/in-gallery/44421/bloomsday-in-photos-joyces-dublin#index/0"/>
-    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Zurich"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishExpatriatesInSwitzerland"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishAgnostics"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.uvic.ca/site/lib/dig/JamesJoyceinParis.html"/>
-    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジェイムズ・ジョイス"/>
-    <rdfs:label xml:lang="ca">James Joyce</rdfs:label>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdfs:comment xml:lang="ko">제임스 어거스틴 앨로이셔스 조이스는 아일랜드의 더블린 출신의 소설가, 시인, 극작가이다. 유명한 소설은 《율리시즈》(1922)와 매우 논쟁적인 후속작 《피네간의 경야》(1939), 단편인 《더블린 사람들》(1914), 반자전적 소설 《젊은 예술가의 초상》(1916) 등이 있다. 성인이 되어서 대부분의 삶을 아일랜드 밖에서 보냈지만, 그의 정신적 가상적 세계는 그의 고향인 더블린에 뿌리깊게 자리잡고 있다. 더블린은 그의 소설의 주제와 설정의 많은 부분을 제공해 주었다.</rdfs:comment>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://rmc.library.cornell.edu/joyce/introduction/index.html"/>
-    <dbpedia-owl:abstract xml:lang="ca">'James Augustine Aloysius Joyce, o Seamus Seoighe com se'l coneix a vegades en irlandès, fou un poeta i escriptor irlandès, reconegut mundialment com un dels més importants i influents del segle XX. Joyce és aclamat per la seva obra mestra, Ulisses (1922) i per la seva controvertida novel·la posterior, Finnegans Wake (1939). Igualment ha estat molt valorada la sèrie d'històries breus titulada Dublinesos, així com la seva novel·la semi autobiogràfica Retrat de l'artista adolescent. Joyce és un representant destacat del corrent literari anomenat modernisme anglosaxó, al costat d'autors com T. S. Eliot, Virginia Woolf, Ezra Pound o Wallace Stevens. Encara que va passar la major part de la seva vida adulta fora de Irlanda, l'univers literari d'aquest autor es troba fortament arrelat a la seva nativa Dublín, la ciutat que proveeix a les seves obres dels escenaris, ambients, personatges i la resta de matèria narrativa. Més en concret, la seva problemàtica relació primera amb l'església catòlica d'Irlanda es reflecteix molt bé a través dels conflictes interiors que assolen al seu alter ego en la ficció, representat pel personatge Stephen Dedalus. Així, Joyce és conegut per la seva atenció minuciosa a un escenari molt delimitat i pel seu prolongat i autoimposat exili, però també per la seva enorme influència a tot el món. Per això, malgrat el seu regionalisme, paradoxalment va arribar a ser un dels escriptors més cosmopolites del seu temps. L'Enciclopèdia Britànica destaca el subtil i veraç retrat de la naturalesa humana que aconsegueix imprimir l'autor a les seves obres, juntament amb el mestratge en l'ús del llenguatge i el brillant desenvolupament de noves formes literàries, motiu pel qual la seva figura va exercir una influència decisiva en tota la novel·lística del segle XX. Els personatges de Leopold Bloom i Molly Bloom, en particular, tenen una riquesa i calidesa humanes incomparables. |}} T.S. Eliot, al seu assaig "Ulysses, Order, and Myth" (1923), va observar sobre aquesta mateixa obra: « Considero que aquest llibre és l'expressió més important que ha trobat la nostra època, és un llibre amb el qual tots estem en deute, i del que cap de nosaltres pot escapar. »</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="ko">제임스 어거스틴 앨로이셔스 조이스는 아일랜드의 더블린 출신의 소설가, 시인, 극작가이다. 유명한 소설은 《율리시즈》(1922)와 매우 논쟁적인 후속작 《피네간의 경야》(1939), 단편인 《더블린 사람들》(1914), 반자전적 소설 《젊은 예술가의 초상》(1916) 등이 있다. 성인이 되어서 대부분의 삶을 아일랜드 밖에서 보냈지만, 그의 정신적 가상적 세계는 그의 고향인 더블린에 뿌리깊게 자리잡고 있다. 더블린은 그의 소설의 주제와 설정의 많은 부분을 제공해 주었다.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="ru">Джеймс Августин Алоизиус Джойс — ирландский писатель и поэт, представитель модернизма.</dbpedia-owl:abstract>
-    <dbpprop:wikt xml:lang="en">no</dbpprop:wikt>
-    <dbpedia-owl:abstract xml:lang="en">James Augustine Aloysius Joyce (2 February 1882 – 13 January 1941) was an Irish novelist and poet, considered to be one of the most influential writers in the modernist avant-garde of the early 20th century. Joyce is best known for Ulysses (1922), a landmark work in which the episodes of Homer's Odyssey are paralleled in an array of contrasting literary styles, perhaps most prominently the stream of consciousness technique he perfected. Other major works are the short-story collection Dubliners (1914), and the novels A Portrait of the Artist as a Young Man (1916) and Finnegans Wake (1939). His complete oeuvre includes three books of poetry, a play, occasional journalism, and his published letters. Joyce was born to a middle class family in Dublin, where he excelled as a student at the Jesuit schools Clongowes and Belvedere, then at University College Dublin. In his early twenties he emigrated permanently to continental Europe, living in Trieste, Paris and Zurich. Though most of his adult life was spent abroad, Joyce's fictional universe does not extend beyond Dublin, and is populated largely by characters who closely resemble family members, enemies and friends from his time there; Ulysses in particular is set with precision in the streets and alleyways of the city. Shortly after the publication of Ulysses he elucidated this preoccupation somewhat, saying, "For myself, I always write about Dublin, because if I can get to the heart of Dublin I can get to the heart of all the cities of the world. In the particular is contained the universal."</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="vi">James Augustine Aloysius Joyce là một nhà văn và nhà thơ biệt xứ Ireland, được đánh giá là một trong những nhà văn ảnh hưởng nhất thế kỷ 20. Ông nổi tiếng nhất với tiểu thuyết bước ngoặt Ulyxơ (1922). Các tác phẩm chính khác của ông là tập truyện ngắn người Dublin (1914), các tiểu thuyết Bức họa người nghệ sĩ là thanh niên (1916) và Finnegans Wake (1939). J. Joyce còn là tác giả của các tập thơ Nhạc thính phòng, Thơ một xu một bài, Colleted Poems, 1936.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="vi">James Augustine Aloysius Joyce là một nhà văn và nhà thơ biệt xứ Ireland, được đánh giá là một trong những nhà văn ảnh hưởng nhất thế kỷ 20. Ông nổi tiếng nhất với tiểu thuyết bước ngoặt Ulyxơ (1922). Các tác phẩm chính khác của ông là tập truyện ngắn người Dublin (1914), các tiểu thuyết Bức họa người nghệ sĩ là thanh niên (1916) và Finnegans Wake (1939). J. Joyce còn là tác giả của các tập thơ Nhạc thính phòng, Thơ một xu một bài, Colleted Poems, 1936. Dù số lượng không nhiều nhưng thơ của James Joyce có sự ảnh hưởng rất lớn đến các nhà thơ Anh phái Hình tượng. Mặc dù phần lớn quãng đời trưởng thành của ông là ở nước ngoài, kinh nghiệm Ailen của Joyce vẫn rất tinh tế trong các bài viết của ông và nó cung cấp tất cả nền tảng cho tưởng tượng của ông và các vấn đề chủ thể nó. Không gian tưởng tượng trước tiên khởi điểm tại Dublin và phản ánh cuộc sống gia đình của ông và các sự kiện và bạn bè (và kẻ thù) từ những ngày ở trường phổ thông và trường đại học. Dù vậy, ông trở thành người chủ nghĩa toàn cầu nhất và là một trong số những người địa phương nhất của tất cả phạm vi tiếng Anh hiện đại.</dbpedia-owl:abstract>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfUniversityCollegeDuBlin"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishExpatriatesInItaly"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Clongowes_Wood_College"/>
-    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Джойс,_Джеймс"/>
-    <rdfs:comment xml:lang="ru">Джеймс Августин Алоизиус Джойс — ирландский писатель и поэт, представитель модернизма.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishShortStoryWriters"/>
-    <rdfs:comment xml:lang="es">James Augustine Aloysius Joyce fue un escritor irlandés, reconocido mundialmente como uno de los más importantes e influyentes del siglo XX. Joyce es aclamado por su obra maestra, Ulises (1922), y por su controvertida novela posterior, Finnegans Wake (1939). Igualmente ha sido muy valorada la serie de historias breves titulada Dublineses (1914), así como su novela semi autobiográfica Retrato del artista adolescente (1916).</rdfs:comment>
-    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Τζαίημς_Τζόυς"/>
-    <dbpedia-owl:abstract xml:lang="sv">James Augustine Aloysius Joyce, född 2 februari 1882 i Rathgar, County Dublin, död 13 januari 1941 i Zürich, var en irländsk författare. Hans roman Odysseus räknas som en av 1900-talets mest betydelsefulla romaner. Verk av honom brändes under bokbålen runt om i Nazityskland 1933.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="ca">'James Augustine Aloysius Joyce, o Seamus Seoighe com se'l coneix a vegades en irlandès, fou un poeta i escriptor irlandès, reconegut mundialment com un dels més importants i influents del segle XX. Joyce és aclamat per la seva obra mestra, Ulisses (1922) i per la seva controvertida novel·la posterior, Finnegans Wake (1939). Igualment ha estat molt valorada la sèrie d'històries breus titulada Dublinesos, així com la seva novel·la semi autobiogràfica Retrat de l'artista adolescent.</rdfs:comment>
-    <ns9:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/James_Joyce?oldid=494943684"/>
-    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/James_Joyce"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Dublin"/>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.columbia.edu/~fms5/ulys.htm"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://digital.library.wisc.edu/1711.dl/JoyceColl"/>
-    <rdfs:label xml:lang="de">James Joyce</rdfs:label>
-    <rdfs:label xml:lang="en">James Joyce</rdfs:label>
-    <dbpprop:id xml:lang="en">James_Joyce</dbpprop:id>
-    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1941-01-13</dbpedia-owl:deathDate>
-    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:dateOfBirth>
-    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/James_Joyce"/>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishExpatriatesInAustria-Hungary"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_Switzerland"/>
-    <rdfs:comment xml:lang="sv">James Augustine Aloysius Joyce, född 2 februari 1882 i Rathgar, County Dublin, död 13 januari 1941 i Zürich, var en irländsk författare. Hans roman Odysseus räknas som en av 1900-talets mest betydelsefulla romaner. Verk av honom brändes under bokbålen runt om i Nazityskland 1933.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1941_deaths"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_Italy"/>
-    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Revolutionary_Joyce_Better_Contrast.jpg/200px-Revolutionary_Joyce_Better_Contrast.jpg"/>
-    <rdfs:comment xml:lang="en">James Augustine Aloysius Joyce (2 February 1882 – 13 January 1941) was an Irish novelist and poet, considered to be one of the most influential writers in the modernist avant-garde of the early 20th century. Joyce is best known for Ulysses (1922), a landmark work in which the episodes of Homer's Odyssey are paralleled in an array of contrasting literary styles, perhaps most prominently the stream of consciousness technique he perfected.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishExpatriatesInFrance"/>
-    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Joyce_James_1882-1941"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_University_College_Dublin"/>
-    <dbpedia-owl:abstract xml:lang="it">Benché la sua produzione letteraria non sia molto vasta è stato di fondamentale importanza per lo sviluppo della letteratura del ventesimo secolo, in particolare della corrente modernista. Il suo romanzo più noto, Ulisse, è una vera e propria rivoluzione rispetto alla letteratura dell'Ottocento, e il successivo e controverso Finnegans Wake ne è l'estremizzazione. Il suo carattere anticonformista e critico verso la società irlandese e la Chiesa cattolica traspare in opere come Gente di Dublino - palesato dalle famose epifanie - e soprattutto in Ritratto dell'artista da giovane. Durante la sua vita intraprese molti viaggi attraverso l'Europa, ma l'ambientazione delle sue opere, così saldamente legata a Dublino, lo fece diventare uno dei più cosmopoliti e allo stesso tempo più locali scrittori irlandesi.</dbpedia-owl:abstract>
-    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1882-02-02</dbpedia-owl:birthDate>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Rathgar"/>
-    <dbpedia-owl:abstract xml:lang="pl">James Augustine Aloysius Joyce – irlandzki pisarz tworzący w języku angielskim, jeden z najwybitniejszych pisarzy XX wieku.</dbpedia-owl:abstract>
-    <dbpedia-owl:abstract xml:lang="pt">James Augustine Aloysius Joyce foi um romancista, contista e poeta irlandês expatriado. É amplamente considerado um dos autores de maior relevância do século XX. Suas obras mais conhecidas são o volume de contos Dublinenses/Gente de Dublin e os romances Retrato do Artista Quando Jovem, Ulisses e Finnegans Wake - o que se poderia considerar um "cânone joyceano". Também participou dos primórdios do modernismo poético em língua inglesa, sendo considerado por Ezra Pound um dos mais eminentes poetas do imagismo. Embora Joyce tenha vivido fora de seu país natal pela maior parte da vida adulta, suas experiências irlandesas são essenciais para sua obra e fornecem-lhe toda a ambientação e muito da temática. Seu universo ficcional enraíza-se fortemente em Dublin e reflete sua vida familiar e eventos, amizades e inimizades dos tempos de escola e faculdade. Desta forma, ele é ao mesmo tempo um dos mais cosmopolitas e um dos mais particularistas dos autores modernistas de língua inglesa.</dbpedia-owl:abstract>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Sister_project_links"/>
-    <dbpprop:lccn xml:lang="en">n/79/56824</dbpprop:lccn>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.buffalo.edu/jamesjoyce"/>
-    <dbpprop:name xml:lang="en">James Joyce</dbpprop:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
-    <dbpedia-owl:abstract xml:lang="de">James Joyce [ˌdʒeɪmz ˈdʒɔɪs] war ein irischer Schriftsteller. Besonders seine wegweisenden Werke Ulysses und Finnegans Wake verhalfen ihm zu großer Bekanntheit.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.buffalo.edu"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:James_Joyce"/>
-    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/James_Joyce"/>
-    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
-    <dbpedia-owl:abstract xml:lang="zh">詹姆斯·奥古斯丁·阿洛伊修斯·乔伊斯（James Augustine Aloysius Joyce，1882年2月2日－1941年1月13日），爱尔兰作家和诗人，20世纪最重要的作家之一。代表作包括短篇小说集《都柏林人》（1914）、长篇小说《一个青年艺术家的画像》（1916）、《尤利西斯》（1922）以及《芬尼根的苏醒》（1939）。 尽管乔伊斯一生大部分时光都远离故土爱尔兰，但早年在祖国的生活经历却对他的创作产生了深远的影响。他的大部分作品都以爱尔兰为背景和主题。他所创作的小说大多根植于他早年在都柏林的生活，包括他的家庭、朋友、敌人、中学和大学的岁月。乔伊斯是用英文写作的现代主义作家中将国际化因素和乡土化情节结合最好的人。</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="hu">James Augustine Aloysius Joyce ír költő, író, kritikus. Fő műve az 1922-ben megjelent Ulysses, amely az Egyesült Királyságban és az Egyesült Államokban 1936-ig be volt tiltva.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="fr">James Joyce est un romancier et poète irlandais expatrié, considéré comme l'un des écrivains les plus influents du XX siècle. Ses œuvres majeures sont un recueil de nouvelles, intitulé Les Gens de Dublin, et des romans tels que Dedalus, Ulysse, et Finnegans Wake. Bien qu'il ait passé la majeure partie de sa vie en dehors de son pays natal, l'expérience irlandaise de Joyce est essentielle dans ses écrits et est la base de la plupart de ses œuvres. Son univers fictionnel est ancré à Dublin et reflète sa vie de famille, les événements, les amis (et les ennemis) des jours d'école et de collège. Ainsi, il est devenu à la fois le plus cosmopolite et le plus local des grands écrivains irlandais. Son œuvre est marquée par sa maîtrise de la langue et l'utilisation de nouvelles formes littéraires, associées à la création de personnages qui, comme Leopold Bloom et Molly Bloom, constituent des individualités d'une profonde humanité.</dbpedia-owl:abstract>
-    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
-    <dbpedia-owl:abstract xml:lang="no">James Augustine Aloysius Joyce var en irsk forfatter. Joyce blir regnet som en av de mest fremtredende forfattere av det tyvende århundre. Han er mest kjent for novellesamlingen Dublinere og romanene Portrett av kunstneren som ung mann, Ulysses og Finnegans Wake. Selv om Joyce tilbrakte det meste av livet utenlands, er særlig forholdet hans til Dublin vesentlig for forfatterskapet. Selv om all handling og mye av tematikken i diktningen hans dreier seg om Irland, var han allikevel en av den mest kosmopolitiske engelskspråklige forfatterne i sin generasjon.</dbpedia-owl:abstract>
-    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:shortDescription xml:lang="en">Irish writer and poet</dbpprop:shortDescription>
-    <dbpprop:id rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2467</dbpprop:id>
-    <dbpprop:b xml:lang="en">no</dbpprop:b>
-    <rdfs:label xml:lang="cs">James Joyce</rdfs:label>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://uwdc.library.wisc.edu"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_novelists"/>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_as_a_Second_Language_teachers"/>
-    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/James_Joyce"/>
-    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:placeOfBirth xml:lang="en">Rathgar, Dublin, Ireland</dbpprop:placeOfBirth>
-    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">44300643</dbpprop:viaf>
-    <rdfs:comment xml:lang="ja">ジェイムズ・オーガスティン・アロイジアス・ジョイス（James Augustine Aloysius Joyce 1882年2月2日 – 1941年1月13日）は、20世紀の最も重要な作家の1人と評価されるアイルランド出身の小説家、詩人。画期的な小説『ユリシーズ』（1922年）が最もよく知られており、他の主要作品には短編集『ダブリン市民』（1914年）、『若き芸術家の肖像』（1916年）、『フィネガンズ・ウェイク』（1939年）などがある。 ジョイスは青年期以降の生涯の大半を国外で費やしているが、ジョイスのすべての小説の舞台やその主題の多くがアイルランドでの経験を基礎においている。彼の作品世界はダブリンに根差しており、家庭生活や学生時代のできごとや友人（および敵）が反映されている。そのため、英語圏のあらゆる偉大なモダニストのうちでも、ジョイスは最もコスモポリタン的であると同時に最もローカルな作家という特異な位置を占めることとなった。</rdfs:comment>
-    <dbpprop:alternativeNames xml:lang="en">Seoighe, Seamus</dbpprop:alternativeNames>
-    <rdfs:comment xml:lang="nl">De Ierse schrijver James Joyce (voluit James Augustine Aloysius Joyce) wordt beschouwd als een van de belangrijkste schrijvers van de 20e eeuw. Zijn hoofdwerk is de roman Ulysses.</rdfs:comment>
-    <dbpprop:s xml:lang="en">James Joyce</dbpprop:s>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_Irish_people"/>
-    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03_87"/>
-    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118558501</dbpprop:pnd>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1882_births"/>
-    <rdfs:comment xml:lang="cs">James Augustine Aloysius Joyce byl irský romanopisec a básník. Svým dílem náleží mezi významné autory 20. století, vedle např. Marcela Prousta, Roberta Musila či Virginie Woolfové. V jeho díle se často objevuje motiv jeho rodného města, Dublinu, přestože většinu svého dospělého života prožil v zahraničí. Dalším silným motivem v jeho díle je římskokatolická církev, nejzřetelněji je jeho vztah k této instituci vidět v psychologii Štěpána Dedala, jedné z hlavních postav v Odysseovi.</rdfs:comment>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_Croatia"/>
-    <dbpedia-owl:abstract xml:lang="fi">James Augustine Aloysius Joyce oli irlantilainen kirjailija ja runoilija. Häntä pidetään yhtenä 1900-luvun tärkeimmistä kirjailijoista. Joycen tunnettuimpia teoksia ovat novellikokoelma Dublinilaisia (Dubliners) sekä romaanit Taiteilijan omakuva nuoruuden vuosilta (A Portrait of the Artist as a Young Man), Odysseus (Ulysses) ja Finnegans Wake (ei suomennettu). Teoksista varsinkin Odysseus on laajalti tunnettu ja kiistelty, ja sitä on sanottu yhdeksi 1900-luvun tärkeimmistä kaunokirjallisista teoksista. Joycella on "vaikean" kirjailijan maine, sillä hänen teoksensa ovat täynnä hämäriä viittauksia, latinankielisiä lauseita sekä mytologisia rinnastuksia. Joycen asema kirjallisuudessa on kuitenkin merkittävä. Joycen tuotannossa ovat kokemukset Irlannista olennaisia, vaikka hän asui suurimman osan elämäänsä ulkomailla. Kirjojen tapahtumapaikat ja suurin osa teosten aiheista ovat peräisin Irlannista. Joyce loi Dublinista oman kirjallisen pienoismaailmansa.</dbpedia-owl:abstract>
-    <rdfs:comment xml:lang="uk">Джеймс Августин Алоїзій Джойс — ірландський письменник, якого вважають одним з найвпливовіших письменників двадцятого століття. Він здобув загальне визнання перш за все завдяки своєму монументальному роману «Улісс» (1922). Крім того, його перу належать такі книги як збірка оповідань «Дублінці» (1914), напівавтобіографічний роман «Портрет митця замолоду» (1916), а також найбільш загадковий та багатоплановий його твір — «Поминки за Фіннеганом» (1939).</rdfs:comment>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
-    <dbpprop:v xml:lang="en">no</dbpprop:v>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishNovelists"/>
-    <dbpprop:author xml:lang="en">yes</dbpprop:author>
-    <foaf:surname xml:lang="en">Joyce</foaf:surname>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
-    <dbpprop:placeOfDeath xml:lang="en">Zurich, Switzerland</dbpprop:placeOfDeath>
-    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_writers"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://lawreview.wustl.edu/inprint/85/2/Gillers.pdf"/>
-    <rdfs:label xml:lang="uk">Джеймс Джойс</rdfs:label>
-    <rdfs:comment xml:lang="fi">James Augustine Aloysius Joyce oli irlantilainen kirjailija ja runoilija. Häntä pidetään yhtenä 1900-luvun tärkeimmistä kirjailijoista. Joycen tunnettuimpia teoksia ovat novellikokoelma Dublinilaisia (Dubliners) sekä romaanit Taiteilijan omakuva nuoruuden vuosilta (A Portrait of the Artist as a Young Man), Odysseus (Ulysses) ja Finnegans Wake (ei suomennettu).</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishExpatriatesInCroatia"/>
-    <rdfs:comment xml:lang="pt">James Augustine Aloysius Joyce foi um romancista, contista e poeta irlandês expatriado. É amplamente considerado um dos autores de maior relevância do século XX. Suas obras mais conhecidas são o volume de contos Dublinenses/Gente de Dublin e os romances Retrato do Artista Quando Jovem, Ulisses e Finnegans Wake - o que se poderia considerar um "cânone joyceano".</rdfs:comment>
-    <dbpprop:name xml:lang="en">Joyce, James Augustine Aloysius</dbpprop:name>
-    <rdfs:comment xml:lang="no">James Augustine Aloysius Joyce var en irsk forfatter. Joyce blir regnet som en av de mest fremtredende forfattere av det tyvende århundre. Han er mest kjent for novellesamlingen Dublinere og romanene Portrett av kunstneren som ung mann, Ulysses og Finnegans Wake. Selv om Joyce tilbrakte det meste av livet utenlands, er særlig forholdet hans til Dublin vesentlig for forfatterskapet.</rdfs:comment>
-    <dbpprop:commons xml:lang="en">James Joyce</dbpprop:commons>
-    <foaf:givenName xml:lang="en">James Augustine Aloysius</foaf:givenName>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.reason.com/news/show/29196.html"/>
-    <dbpedia-owl:abstract xml:lang="ja">ジェイムズ・オーガスティン・アロイジアス・ジョイス（James Augustine Aloysius Joyce 1882年2月2日 – 1941年1月13日）は、20世紀の最も重要な作家の1人と評価されるアイルランド出身の小説家、詩人。画期的な小説『ユリシーズ』（1922年）が最もよく知られており、他の主要作品には短編集『ダブリン市民』（1914年）、『若き芸術家の肖像』（1916年）、『フィネガンズ・ウェイク』（1939年）などがある。 ジョイスは青年期以降の生涯の大半を国外で費やしているが、ジョイスのすべての小説の舞台やその主題の多くがアイルランドでの経験を基礎においている。彼の作品世界はダブリンに根差しており、家庭生活や学生時代のできごとや友人（および敵）が反映されている。そのため、英語圏のあらゆる偉大なモダニストのうちでも、ジョイスは最もコスモポリタン的であると同時に最もローカルな作家という特異な位置を占めることとなった。</dbpedia-owl:abstract>
-    <foaf:name xml:lang="en">James Augustine Aloysius Joyce</foaf:name>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
-    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/James_Joyce"/>
-    <dbpedia-owl:abstract xml:lang="cs">James Augustine Aloysius Joyce byl irský romanopisec a básník. Svým dílem náleží mezi významné autory 20. století, vedle např. Marcela Prousta, Roberta Musila či Virginie Woolfové. V jeho díle se často objevuje motiv jeho rodného města, Dublinu, přestože většinu svého dospělého života prožil v zahraničí. Dalším silným motivem v jeho díle je římskokatolická církev, nejzřetelněji je jeho vztah k této instituci vidět v psychologii Štěpána Dedala, jedné z hlavních postav v Odysseovi.</dbpedia-owl:abstract>
-    <dbpprop:species xml:lang="en">no</dbpprop:species>
-    <rdfs:label xml:lang="vi">James Joyce</rdfs:label>
-    <rdfs:comment xml:lang="it">Benché la sua produzione letteraria non sia molto vasta è stato di fondamentale importanza per lo sviluppo della letteratura del ventesimo secolo, in particolare della corrente modernista. Il suo romanzo più noto, Ulisse, è una vera e propria rivoluzione rispetto alla letteratura dell'Ottocento, e il successivo e controverso Finnegans Wake ne è l'estremizzazione.</rdfs:comment>
-    <dbpedia-owl:abstract xml:lang="hu">James Augustine Aloysius Joyce ír költő, író, kritikus. Fő műve az 1922-ben megjelent Ulysses, amely az Egyesült Királyságban és az Egyesült Államokban 1936-ig be volt tiltva.</dbpedia-owl:abstract>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.james-joyce-music.com"/>
-    <rdfs:comment xml:lang="zh">詹姆斯·奥古斯丁·阿洛伊修斯·乔伊斯（James Augustine Aloysius Joyce，1882年2月2日－1941年1月13日），爱尔兰作家和诗人，20世纪最重要的作家之一。代表作包括短篇小说集《都柏林人》（1914）、长篇小说《一个青年艺术家的画像》（1916）、《尤利西斯》（1922）以及《芬尼根的苏醒》（1939）。 尽管乔伊斯一生大部分时光都远离故土爱尔兰，但早年在祖国的生活经历却对他的创作产生了深远的影响。他的大部分作品都以爱尔兰为背景和主题。他所创作的小说大多根植于他早年在都柏林的生活，包括他的家庭、朋友、敌人、中学和大学的岁月。乔伊斯是用英文写作的现代主义作家中将国际化因素和乡土化情节结合最好的人。</rdfs:comment>
-    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/James_Joyce"/>
-    <dbpedia-owl:abstract xml:lang="uk">Джеймс Августин Алоїзій Джойс — ірландський письменник, якого вважають одним з найвпливовіших письменників двадцятого століття. Він здобув загальне визнання перш за все завдяки своєму монументальному роману «Улісс» (1922). Крім того, його перу належать такі книги як збірка оповідань «Дублінці» (1914), напівавтобіографічний роман «Портрет митця замолоду» (1916), а також найбільш загадковий та багатоплановий його твір — «Поминки за Фіннеганом» (1939). Хоча Джойс більшу частину дорослого життя прожив за межами батьківщини, його твори просякнуті темою Ірландії: всі події відбуваються в Ірландії та більшість сюжетів пов'язані з нею. Центр світу, створеного Джойсом, знаходиться у Дубліні та відображає його сімейне життя, події й друзів (і ворогів) ще зі шкільних років. Саме через це Джеймс Джойс став одним із найкосмополітичніших і, водночас, найлокальніших модерністів, які писали англійською.</dbpedia-owl:abstract>
-    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
-    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">13</dbpprop:dateOfDeath>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.archive.org/details/TheJamesJoyceHistoricalAndLiteraryTourOfMullingar/"/>
-    <rdfs:comment xml:lang="de">James Joyce [ˌdʒeɪmz ˈdʒɔɪs] war ein irischer Schriftsteller. Besonders seine wegweisenden Werke Ulysses und Finnegans Wake verhalfen ihm zu großer Bekanntheit.</rdfs:comment>
-    <rdf:type rdf:resource="http://dbpedia.org/class/yago/19th-centuryIrishPeople"/>
-    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.james-joyce.de/"/>
-    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/제임스_조이스"/>
     <dbpedia-owl:abstract xml:lang="es">James Augustine Aloysius Joyce fue un escritor irlandés, reconocido mundialmente como uno de los más importantes e influyentes del siglo XX. Joyce es aclamado por su obra maestra, Ulises (1922), y por su controvertida novela posterior, Finnegans Wake (1939). Igualmente ha sido muy valorada la serie de historias breves titulada Dublineses (1914), así como su novela semi autobiográfica Retrato del artista adolescente (1916). Joyce es representante destacado de la corriente literaria denominada modernismo anglosajón, junto a autores como T. S. Eliot, Virginia Woolf, Ezra Pound o Wallace Stevens. Aunque pasó la mayor parte de su vida adulta fuera de Irlanda, el universo literario de este autor se encuentra fuertemente enraizado en su nativa Dublín, la ciudad que provee a sus obras de los escenarios, ambientes, personajes y demás materia narrativa. Más en particular, su problemática relación primera con la iglesia católica de Irlanda se refleja muy bien a través de los conflictos interiores que asolan a su álter ego en la ficción, representado por el personaje de Stephen Dedalus. Así, Joyce es conocido por su atención minuciosa a un escenario muy delimitado y por su prolongado y autoimpuesto exilio, pero también por su enorme influencia en todo el mundo. Por ello, pese a su regionalismo, paradójicamente llegó a ser uno de los escritores más cosmopolitas de su tiempo. La Enciclopedia Británica destaca en el autor el sutil y veraz retrato de la naturaleza humana que logra imprimir en sus obras, junto con la maestría en el uso del lenguaje y el brillante desarrollo de nuevas formas literarias, motivo por el cual su figura ejerció una influencia decisiva en toda la novelística del siglo XX. Los personajes de Leopold Bloom y Molly Bloom, en particular, ostentan una riqueza y calidez humanas incomparables. Jorge Luis Borges, en un texto de 1939, afirmó sobre el autor: Es indiscutible que Joyce es uno de los primeros escritores de nuestro tiempo. Verbalmente, es quizá el primero. En el Ulises hay sentencias, hay párrafos, que no son inferiores a los más ilustres de Shakespeare o de Sir Thomas Browne. T.S. Eliot, en su ensayo "Ulysses, Order and Myth" (1923), observó sobre esta misma obra: Considero que este libro es la expresión más importante que ha encontrado nuestra época; es un libro con el que todos estamos en deuda, y del que ninguno de nosotros puede escapar.</dbpedia-owl:abstract>
     <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvymFSJwpEbGdrcN5Y29ycA"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_Irish_people"/>
+    <dbpedia-owl:abstract xml:lang="nl">De Ierse schrijver James Joyce (voluit James Augustine Aloysius Joyce) wordt beschouwd als een van de belangrijkste schrijvers van de 20e eeuw. Zijn hoofdwerk is de roman Ulysses.</dbpedia-owl:abstract>
+    <dbpprop:id xml:lang="en">James_Joyce</dbpprop:id>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/James_Joyce"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishAgnostics"/>
+    <dbpprop:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118558501</dbpprop:pnd>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_poets"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/James_Joyce"/>
+    <dbpprop:author xml:lang="en">yes</dbpprop:author>
+    <rdfs:label xml:lang="vi">James Joyce</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.buffalo.edu/jamesjoyce"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/1/1e/Revolutionary_Joyce_Better_Contrast.jpg"/>
+    <dbpprop:shortDescription xml:lang="en">Irish writer and poet</dbpprop:shortDescription>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromCountyDuBlin"/>
+    <rdfs:label xml:lang="cs">James Joyce</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishPoets"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishExpatriatesInItaly"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Revolutionary_Joyce_Better_Contrast.jpg/200px-Revolutionary_Joyce_Better_Contrast.jpg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishNovelists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_France"/>
+    <rdfs:label xml:lang="uk">Джеймс Джойс</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.reason.com/news/show/29196.html"/>
+    <rdfs:comment xml:lang="pl">James Augustine Aloysius Joyce – irlandzki pisarz tworzący w języku angielskim, jeden z najwybitniejszych pisarzy XX wieku.</rdfs:comment>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int">13</dbpprop:dateOfDeath>
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Joyce_James_1882-1941"/>
+    <dbpprop:lccn xml:lang="en">n/79/56824</dbpprop:lccn>
+    <dbpprop:placeOfDeath xml:lang="en">Zurich, Switzerland</dbpprop:placeOfDeath>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.archive.org/details/TheJamesJoyceHistoricalAndLiteraryTourOfMullingar/"/>
+    <dbpprop:b xml:lang="en">no</dbpprop:b>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_County_Dublin"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジェイムズ・ジョイス"/>
+    <dbpedia-owl:abstract xml:lang="it">Benché la sua produzione letteraria non sia molto vasta è stato di fondamentale importanza per lo sviluppo della letteratura del ventesimo secolo, in particolare della corrente modernista. Il suo romanzo più noto, Ulisse, è una vera e propria rivoluzione rispetto alla letteratura dell'Ottocento, e il successivo e controverso Finnegans Wake ne è l'estremizzazione. Il suo carattere anticonformista e critico verso la società irlandese e la Chiesa cattolica traspare in opere come Gente di Dublino - palesato dalle famose epifanie - e soprattutto in Ritratto dell'artista da giovane. Durante la sua vita intraprese molti viaggi attraverso l'Europa, ma l'ambientazione delle sue opere, così saldamente legata a Dublino, lo fece diventare uno dei più cosmopoliti e allo stesso tempo più locali scrittori irlandesi.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishExpatriatesInFrance"/>
+    <rdfs:comment xml:lang="ru">Джеймс Августин Алоизиус Джойс — ирландский писатель и поэт, представитель модернизма.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.columbia.edu/~fms5/ulys.htm"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <foaf:name xml:lang="en">James Augustine Aloysius Joyce</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_Switzerland"/>
+    <rdfs:label xml:lang="ca">James Joyce</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/19th-centuryIrishPeople"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:James_Joyce"/>
+    <dbpedia-owl:abstract xml:lang="vi">James Augustine Aloysius Joyce là một nhà văn và nhà thơ biệt xứ Ireland, được đánh giá là một trong những nhà văn ảnh hưởng nhất thế kỷ 20. Ông nổi tiếng nhất với tiểu thuyết bước ngoặt Ulyxơ (1922). Các tác phẩm chính khác của ông là tập truyện ngắn người Dublin (1914), các tiểu thuyết Bức họa người nghệ sĩ là thanh niên (1916) và Finnegans Wake (1939). J. Joyce còn là tác giả của các tập thơ Nhạc thính phòng, Thơ một xu một bài, Colleted Poems, 1936. Dù số lượng không nhiều nhưng thơ của James Joyce có sự ảnh hưởng rất lớn đến các nhà thơ Anh phái Hình tượng. Mặc dù phần lớn quãng đời trưởng thành của ông là ở nước ngoài, kinh nghiệm Ailen của Joyce vẫn rất tinh tế trong các bài viết của ông và nó cung cấp tất cả nền tảng cho tưởng tượng của ông và các vấn đề chủ thể nó. Không gian tưởng tượng trước tiên khởi điểm tại Dublin và phản ánh cuộc sống gia đình của ông và các sự kiện và bạn bè (và kẻ thù) từ những ngày ở trường phổ thông và trường đại học. Dù vậy, ông trở thành người chủ nghĩa toàn cầu nhất và là một trong số những người địa phương nhất của tất cả phạm vi tiếng Anh hiện đại.</dbpedia-owl:abstract>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Sister_project_links"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/James_Joyce"/>
+    <dbpedia-owl:abstract xml:lang="fr">James Joyce est un romancier et poète irlandais expatrié, considéré comme l'un des écrivains les plus influents du XX siècle. Ses œuvres majeures sont un recueil de nouvelles, intitulé Les Gens de Dublin, et des romans tels que Dedalus, Ulysse, et Finnegans Wake. Bien qu'il ait passé la majeure partie de sa vie en dehors de son pays natal, l'expérience irlandaise de Joyce est essentielle dans ses écrits et est la base de la plupart de ses œuvres. Son univers fictionnel est ancré à Dublin et reflète sa vie de famille, les événements, les amis (et les ennemis) des jours d'école et de collège. Ainsi, il est devenu à la fois le plus cosmopolite et le plus local des grands écrivains irlandais. Son œuvre est marquée par sa maîtrise de la langue et l'utilisation de nouvelles formes littéraires, associées à la création de personnages qui, comme Leopold Bloom et Molly Bloom, constituent des individualités d'une profonde humanité.</dbpedia-owl:abstract>
+    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int">44300643</dbpprop:viaf>
+    <dbpprop:v xml:lang="en">no</dbpprop:v>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_short_story_writers"/>
+    <rdfs:comment xml:lang="hu">James Augustine Aloysius Joyce ír költő, író, kritikus. Fő műve az 1922-ben megjelent Ulysses, amely az Egyesült Királyságban és az Egyesült Államokban 1936-ig be volt tiltva.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_novelists"/>
+    <rdfs:comment xml:lang="cs">James Augustine Aloysius Joyce byl irský romanopisec a básník. Svým dílem náleží mezi významné autory 20. století, vedle např. Marcela Prousta, Roberta Musila či Virginie Woolfové. V jeho díle se často objevuje motiv jeho rodného města, Dublinu, přestože většinu svého dospělého života prožil v zahraničí. Dalším silným motivem v jeho díle je římskokatolická církev, nejzřetelněji je jeho vztah k této instituci vidět v psychologii Štěpána Dedala, jedné z hlavních postav v Odysseovi.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishShortStoryWriters"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.uvic.ca/site/lib/dig/JamesJoyceinParis.html"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/James_Joyce"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_Italy"/>
+    <rdfs:comment xml:lang="vi">James Augustine Aloysius Joyce là một nhà văn và nhà thơ biệt xứ Ireland, được đánh giá là một trong những nhà văn ảnh hưởng nhất thế kỷ 20. Ông nổi tiếng nhất với tiểu thuyết bước ngoặt Ulyxơ (1922). Các tác phẩm chính khác của ông là tập truyện ngắn người Dublin (1914), các tiểu thuyết Bức họa người nghệ sĩ là thanh niên (1916) và Finnegans Wake (1939). J. Joyce còn là tác giả của các tập thơ Nhạc thính phòng, Thơ một xu một bài, Colleted Poems, 1936.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Clongowes_Wood_College"/>
+    <dbpedia-owl:abstract xml:lang="pt">James Augustine Aloysius Joyce foi um romancista, contista e poeta irlandês expatriado. É amplamente considerado um dos autores de maior relevância do século XX. Suas obras mais conhecidas são o volume de contos Dublinenses/Gente de Dublin e os romances Retrato do Artista Quando Jovem, Ulisses e Finnegans Wake - o que se poderia considerar um "cânone joyceano". Também participou dos primórdios do modernismo poético em língua inglesa, sendo considerado por Ezra Pound um dos mais eminentes poetas do imagismo. Embora Joyce tenha vivido fora de seu país natal pela maior parte da vida adulta, suas experiências irlandesas são essenciais para sua obra e fornecem-lhe toda a ambientação e muito da temática. Seu universo ficcional enraíza-se fortemente em Dublin e reflete sua vida familiar e eventos, amizades e inimizades dos tempos de escola e faculdade. Desta forma, ele é ao mesmo tempo um dos mais cosmopolitas e um dos mais particularistas dos autores modernistas de língua inglesa.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishExpatriatesInAustria-Hungary"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Rathgar"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1882-02-02</dbpedia-owl:birthDate>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://rmc.library.cornell.edu/joyce/introduction/index.html"/>
+    <dbpprop:alternativeNames xml:lang="en">Seoighe, Seamus</dbpprop:alternativeNames>
+    <dbpedia-owl:individualisedPnd xml:lang="de">118558501</dbpedia-owl:individualisedPnd>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EnglishAsASecondLanguAgeTeachers"/>
+    <rdfs:comment xml:lang="ja">ジェイムズ・オーガスティン・アロイジアス・ジョイス（James Augustine Aloysius Joyce 1882年2月2日 – 1941年1月13日）は、20世紀の最も重要な作家の1人と評価されるアイルランド出身の小説家、詩人。画期的な小説『ユリシーズ』（1922年）が最もよく知られており、他の主要作品には短編集『ダブリン市民』（1914年）、『若き芸術家の肖像』（1916年）、『フィネガンズ・ウェイク』（1939年）などがある。 ジョイスは青年期以降の生涯の大半を国外で費やしているが、ジョイスのすべての小説の舞台やその主題の多くがアイルランドでの経験を基礎においている。彼の作品世界はダブリンに根差しており、家庭生活や学生時代のできごとや友人（および敵）が反映されている。そのため、英語圏のあらゆる偉大なモダニストのうちでも、ジョイスは最もコスモポリタン的であると同時に最もローカルな作家という特異な位置を占めることとなった。</rdfs:comment>
+    <ns9:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/James_Joyce?oldid=494943684"/>
+    <dbpprop:name xml:lang="en">James Joyce</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishExpatriatesInCroatia"/>
+    <dbpedia-owl:abstract xml:lang="ru">Джеймс Августин Алоизиус Джойс — ирландский писатель и поэт, представитель модернизма.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ca">'James Augustine Aloysius Joyce, o Seamus Seoighe com se'l coneix a vegades en irlandès, fou un poeta i escriptor irlandès, reconegut mundialment com un dels més importants i influents del segle XX. Joyce és aclamat per la seva obra mestra, Ulisses (1922) i per la seva controvertida novel·la posterior, Finnegans Wake (1939). Igualment ha estat molt valorada la sèrie d'històries breus titulada Dublinesos, així com la seva novel·la semi autobiogràfica Retrat de l'artista adolescent. Joyce és un representant destacat del corrent literari anomenat modernisme anglosaxó, al costat d'autors com T. S. Eliot, Virginia Woolf, Ezra Pound o Wallace Stevens. Encara que va passar la major part de la seva vida adulta fora de Irlanda, l'univers literari d'aquest autor es troba fortament arrelat a la seva nativa Dublín, la ciutat que proveeix a les seves obres dels escenaris, ambients, personatges i la resta de matèria narrativa. Més en concret, la seva problemàtica relació primera amb l'església catòlica d'Irlanda es reflecteix molt bé a través dels conflictes interiors que assolen al seu alter ego en la ficció, representat pel personatge Stephen Dedalus. Així, Joyce és conegut per la seva atenció minuciosa a un escenari molt delimitat i pel seu prolongat i autoimposat exili, però també per la seva enorme influència a tot el món. Per això, malgrat el seu regionalisme, paradoxalment va arribar a ser un dels escriptors més cosmopolites del seu temps. L'Enciclopèdia Britànica destaca el subtil i veraç retrat de la naturalesa humana que aconsegueix imprimir l'autor a les seves obres, juntament amb el mestratge en l'ús del llenguatge i el brillant desenvolupament de noves formes literàries, motiu pel qual la seva figura va exercir una influència decisiva en tota la novel·lística del segle XX. Els personatges de Leopold Bloom i Molly Bloom, en particular, tenen una riquesa i calidesa humanes incomparables. |}} T.S. Eliot, al seu assaig "Ulysses, Order, and Myth" (1923), va observar sobre aquesta mateixa obra: « Considero que aquest llibre és l'expressió més important que ha trobat la nostra època, és un llibre amb el qual tots estem en deute, i del que cap de nosaltres pot escapar. »</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.jamesjoyce.ie/"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1941-01-13</dbpedia-owl:deathDate>
+    <dbpedia-owl:abstract xml:lang="en">James Augustine Aloysius Joyce (2 February 1882 – 13 January 1941) was an Irish novelist and poet, considered to be one of the most influential writers in the modernist avant-garde of the early 20th century. Joyce is best known for Ulysses (1922), a landmark work in which the episodes of Homer's Odyssey are paralleled in an array of contrasting literary styles, perhaps most prominently the stream of consciousness technique he perfected. Other major works are the short-story collection Dubliners (1914), and the novels A Portrait of the Artist as a Young Man (1916) and Finnegans Wake (1939). His complete oeuvre includes three books of poetry, a play, occasional journalism, and his published letters. Joyce was born to a middle class family in Dublin, where he excelled as a student at the Jesuit schools Clongowes and Belvedere, then at University College Dublin. In his early twenties he emigrated permanently to continental Europe, living in Trieste, Paris and Zurich. Though most of his adult life was spent abroad, Joyce's fictional universe does not extend beyond Dublin, and is populated largely by characters who closely resemble family members, enemies and friends from his time there; Ulysses in particular is set with precision in the streets and alleyways of the city. Shortly after the publication of Ulysses he elucidated this preoccupation somewhat, saying, "For myself, I always write about Dublin, because if I can get to the heart of Dublin I can get to the heart of all the cities of the world. In the particular is contained the universal."</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_University_College_Dublin"/>
+    <dbpprop:species xml:lang="en">no</dbpprop:species>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
+    <rdfs:label xml:lang="de">James Joyce</rdfs:label>
+    <rdfs:comment xml:lang="ca">'James Augustine Aloysius Joyce, o Seamus Seoighe com se'l coneix a vegades en irlandès, fou un poeta i escriptor irlandès, reconegut mundialment com un dels més importants i influents del segle XX. Joyce és aclamat per la seva obra mestra, Ulisses (1922) i per la seva controvertida novel·la posterior, Finnegans Wake (1939). Igualment ha estat molt valorada la sèrie d'històries breus titulada Dublinesos, així com la seva novel·la semi autobiogràfica Retrat de l'artista adolescent.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.life.com/image/first/in-gallery/44421/bloomsday-in-photos-joyces-dublin#index/0"/>
+    <rdfs:comment xml:lang="fi">James Augustine Aloysius Joyce oli irlantilainen kirjailija ja runoilija. Häntä pidetään yhtenä 1900-luvun tärkeimmistä kirjailijoista. Joycen tunnettuimpia teoksia ovat novellikokoelma Dublinilaisia (Dubliners) sekä romaanit Taiteilijan omakuva nuoruuden vuosilta (A Portrait of the Artist as a Young Man), Odysseus (Ulysses) ja Finnegans Wake (ei suomennettu).</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03_87"/>
+    <rdfs:comment xml:lang="it">Benché la sua produzione letteraria non sia molto vasta è stato di fondamentale importanza per lo sviluppo della letteratura del ventesimo secolo, in particolare della corrente modernista. Il suo romanzo più noto, Ulisse, è una vera e propria rivoluzione rispetto alla letteratura dell'Ottocento, e il successivo e controverso Finnegans Wake ne è l'estremizzazione.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="sv">James Augustine Aloysius Joyce, född 2 februari 1882 i Rathgar, County Dublin, död 13 januari 1941 i Zürich, var en irländsk författare. Hans roman Odysseus räknas som en av 1900-talets mest betydelsefulla romaner. Verk av honom brändes under bokbålen runt om i Nazityskland 1933.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/제임스_조이스"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/James_Joyce"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"/>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
+    <dbpedia-owl:abstract xml:lang="pl">James Augustine Aloysius Joyce – irlandzki pisarz tworzący w języku angielskim, jeden z najwybitniejszych pisarzy XX wieku.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ja">ジェイムズ・オーガスティン・アロイジアス・ジョイス（James Augustine Aloysius Joyce 1882年2月2日 – 1941年1月13日）は、20世紀の最も重要な作家の1人と評価されるアイルランド出身の小説家、詩人。画期的な小説『ユリシーズ』（1922年）が最もよく知られており、他の主要作品には短編集『ダブリン市民』（1914年）、『若き芸術家の肖像』（1916年）、『フィネガンズ・ウェイク』（1939年）などがある。 ジョイスは青年期以降の生涯の大半を国外で費やしているが、ジョイスのすべての小説の舞台やその主題の多くがアイルランドでの経験を基礎においている。彼の作品世界はダブリンに根差しており、家庭生活や学生時代のできごとや友人（および敵）が反映されている。そのため、英語圏のあらゆる偉大なモダニストのうちでも、ジョイスは最もコスモポリタン的であると同時に最もローカルな作家という特異な位置を占めることとなった。</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_Austria-Hungary"/>
+    <dbpedia-owl:abstract xml:lang="zh">詹姆斯·奥古斯丁·阿洛伊修斯·乔伊斯（James Augustine Aloysius Joyce，1882年2月2日－1941年1月13日），爱尔兰作家和诗人，20世纪最重要的作家之一。代表作包括短篇小说集《都柏林人》（1914）、长篇小说《一个青年艺术家的画像》（1916）、《尤利西斯》（1922）以及《芬尼根的苏醒》（1939）。 尽管乔伊斯一生大部分时光都远离故土爱尔兰，但早年在祖国的生活经历却对他的创作产生了深远的影响。他的大部分作品都以爱尔兰为背景和主题。他所创作的小说大多根植于他早年在都柏林的生活，包括他的家庭、朋友、敌人、中学和大学的岁月。乔伊斯是用英文写作的现代主义作家中将国际化因素和乡土化情节结合最好的人。</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="es">James Augustine Aloysius Joyce fue un escritor irlandés, reconocido mundialmente como uno de los más importantes e influyentes del siglo XX. Joyce es aclamado por su obra maestra, Ulises (1922), y por su controvertida novela posterior, Finnegans Wake (1939). Igualmente ha sido muy valorada la serie de historias breves titulada Dublineses (1914), así como su novela semi autobiográfica Retrato del artista adolescente (1916).</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_writers"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/James_Joyce"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://uwdc.library.wisc.edu"/>
+    <dc:description xml:lang="en">Irish writer and poet</dc:description>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.james-joyce-music.com"/>
+    <rdfs:comment xml:lang="zh">詹姆斯·奥古斯丁·阿洛伊修斯·乔伊斯（James Augustine Aloysius Joyce，1882年2月2日－1941年1月13日），爱尔兰作家和诗人，20世纪最重要的作家之一。代表作包括短篇小说集《都柏林人》（1914）、长篇小说《一个青年艺术家的画像》（1916）、《尤利西斯》（1922）以及《芬尼根的苏醒》（1939）。 尽管乔伊斯一生大部分时光都远离故土爱尔兰，但早年在祖国的生活经历却对他的创作产生了深远的影响。他的大部分作品都以爱尔兰为背景和主题。他所创作的小说大多根植于他早年在都柏林的生活，包括他的家庭、朋友、敌人、中学和大学的岁月。乔伊斯是用英文写作的现代主义作家中将国际化因素和乡土化情节结合最好的人。</rdfs:comment>
+    <rdfs:label xml:lang="en">James Joyce</rdfs:label>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:NPG_name"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfUniversityCollegeDuBlin"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1941_deaths"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/James_Joyce"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://library.buffalo.edu"/>
+    <foaf:givenName xml:lang="en">James Augustine Aloysius</foaf:givenName>
+    <rdfs:comment xml:lang="sv">James Augustine Aloysius Joyce, född 2 februari 1882 i Rathgar, County Dublin, död 13 januari 1941 i Zürich, var en irländsk författare. Hans roman Odysseus räknas som en av 1900-talets mest betydelsefulla romaner. Verk av honom brändes under bokbålen runt om i Nazityskland 1933.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De Ierse schrijver James Joyce (voluit James Augustine Aloysius Joyce) wordt beschouwd als een van de belangrijkste schrijvers van de 20e eeuw. Zijn hoofdwerk is de roman Ulysses.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://lawreview.wustl.edu/inprint/85/2/Gillers.pdf"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_expatriates_in_Croatia"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/James_Joyce"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IrishExpatriatesInSwitzerland"/>
+    <dbpprop:n xml:lang="en">no</dbpprop:n>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://digital.library.wisc.edu/1711.dl/JoyceColl"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English_as_a_Second_Language_teachers"/>
+    <rdfs:comment xml:lang="ko">제임스 어거스틴 앨로이셔스 조이스는 아일랜드의 더블린 출신의 소설가, 시인, 극작가이다. 유명한 소설은 《율리시즈》(1922)와 매우 논쟁적인 후속작 《피네간의 경야》(1939), 단편인 《더블린 사람들》(1914), 반자전적 소설 《젊은 예술가의 초상》(1916) 등이 있다. 성인이 되어서 대부분의 삶을 아일랜드 밖에서 보냈지만, 그의 정신적 가상적 세계는 그의 고향인 더블린에 뿌리깊게 자리잡고 있다. 더블린은 그의 소설의 주제와 설정의 많은 부분을 제공해 주었다.</rdfs:comment>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <rdfs:comment xml:lang="uk">Джеймс Августин Алоїзій Джойс — ірландський письменник, якого вважають одним з найвпливовіших письменників двадцятого століття. Він здобув загальне визнання перш за все завдяки своєму монументальному роману «Улісс» (1922). Крім того, його перу належать такі книги як збірка оповідань «Дублінці» (1914), напівавтобіографічний роман «Портрет митця замолоду» (1916), а також найбільш загадковий та багатоплановий його твір — «Поминки за Фіннеганом» (1939).</rdfs:comment>
+    <rdfs:comment xml:lang="de">James Joyce [ˌdʒeɪmz ˈdʒɔɪs] war ein irischer Schriftsteller. Besonders seine wegweisenden Werke Ulysses und Finnegans Wake verhalfen ihm zu großer Bekanntheit.</rdfs:comment>
+    <dbpprop:wikt xml:lang="en">no</dbpprop:wikt>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Τζαίημς_Τζόυς"/>
+    <foaf:surname xml:lang="en">Joyce</foaf:surname>
+    <dbpedia-owl:abstract xml:lang="no">James Augustine Aloysius Joyce var en irsk forfatter. Joyce blir regnet som en av de mest fremtredende forfattere av det tyvende århundre. Han er mest kjent for novellesamlingen Dublinere og romanene Portrett av kunstneren som ung mann, Ulysses og Finnegans Wake. Selv om Joyce tilbrakte det meste av livet utenlands, er særlig forholdet hans til Dublin vesentlig for forfatterskapet. Selv om all handling og mye av tematikken i diktningen hans dreier seg om Irland, var han allikevel en av den mest kosmopolitiske engelskspråklige forfatterne i sin generasjon.</dbpedia-owl:abstract>
+    <dbpprop:name xml:lang="en">Joyce, James Augustine Aloysius</dbpprop:name>
+    <dbpedia-owl:abstract xml:lang="de">James Joyce [ˌdʒeɪmz ˈdʒɔɪs] war ein irischer Schriftsteller. Besonders seine wegweisenden Werke Ulysses und Finnegans Wake verhalfen ihm zu großer Bekanntheit.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="cs">James Augustine Aloysius Joyce byl irský romanopisec a básník. Svým dílem náleží mezi významné autory 20. století, vedle např. Marcela Prousta, Roberta Musila či Virginie Woolfové. V jeho díle se často objevuje motiv jeho rodného města, Dublinu, přestože většinu svého dospělého života prožil v zahraničí. Dalším silným motivem v jeho díle je římskokatolická církev, nejzřetelněji je jeho vztah k této instituci vidět v psychologii Štěpána Dedala, jedné z hlavních postav v Odysseovi.</dbpedia-owl:abstract>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Zurich"/>
+    <dbpedia-owl:abstract xml:lang="fi">James Augustine Aloysius Joyce oli irlantilainen kirjailija ja runoilija. Häntä pidetään yhtenä 1900-luvun tärkeimmistä kirjailijoista. Joycen tunnettuimpia teoksia ovat novellikokoelma Dublinilaisia (Dubliners) sekä romaanit Taiteilijan omakuva nuoruuden vuosilta (A Portrait of the Artist as a Young Man), Odysseus (Ulysses) ja Finnegans Wake (ei suomennettu). Teoksista varsinkin Odysseus on laajalti tunnettu ja kiistelty, ja sitä on sanottu yhdeksi 1900-luvun tärkeimmistä kaunokirjallisista teoksista. Joycella on "vaikean" kirjailijan maine, sillä hänen teoksensa ovat täynnä hämäriä viittauksia, latinankielisiä lauseita sekä mytologisia rinnastuksia. Joycen asema kirjallisuudessa on kuitenkin merkittävä. Joycen tuotannossa ovat kokemukset Irlannista olennaisia, vaikka hän asui suurimman osan elämäänsä ulkomailla. Kirjojen tapahtumapaikat ja suurin osa teosten aiheista ovat peräisin Irlannista. Joyce loi Dublinista oman kirjallisen pienoismaailmansa.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="uk">Джеймс Августин Алоїзій Джойс — ірландський письменник, якого вважають одним з найвпливовіших письменників двадцятого століття. Він здобув загальне визнання перш за все завдяки своєму монументальному роману «Улісс» (1922). Крім того, його перу належать такі книги як збірка оповідань «Дублінці» (1914), напівавтобіографічний роман «Портрет митця замолоду» (1916), а також найбільш загадковий та багатоплановий його твір — «Поминки за Фіннеганом» (1939). Хоча Джойс більшу частину дорослого життя прожив за межами батьківщини, його твори просякнуті темою Ірландії: всі події відбуваються в Ірландії та більшість сюжетів пов'язані з нею. Центр світу, створеного Джойсом, знаходиться у Дубліні та відображає його сімейне життя, події й друзів (і ворогів) ще зі шкільних років. Саме через це Джеймс Джойс став одним із найкосмополітичніших і, водночас, найлокальніших модерністів, які писали англійською.</dbpedia-owl:abstract>
+    <dbpprop:id rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2467</dbpprop:id>
+    <dbpprop:q xml:lang="en">James Joyce</dbpprop:q>
     <dbpedia-owl:individualisedPnd xml:lang="en">118558501</dbpedia-owl:individualisedPnd>
-    <rdfs:comment xml:lang="fr">James Joyce est un romancier et poète irlandais expatrié, considéré comme l'un des écrivains les plus influents du XX siècle. Ses œuvres majeures sont un recueil de nouvelles, intitulé Les Gens de Dublin, et des romans tels que Dedalus, Ulysse, et Finnegans Wake. Bien qu'il ait passé la majeure partie de sa vie en dehors de son pays natal, l'expérience irlandaise de Joyce est essentielle dans ses écrits et est la base de la plupart de ses œuvres.</rdfs:comment>
+    <rdfs:label xml:lang="zh">詹姆斯·乔伊斯</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="ko">제임스 어거스틴 앨로이셔스 조이스는 아일랜드의 더블린 출신의 소설가, 시인, 극작가이다. 유명한 소설은 《율리시즈》(1922)와 매우 논쟁적인 후속작 《피네간의 경야》(1939), 단편인 《더블린 사람들》(1914), 반자전적 소설 《젊은 예술가의 초상》(1916) 등이 있다. 성인이 되어서 대부분의 삶을 아일랜드 밖에서 보냈지만, 그의 정신적 가상적 세계는 그의 고향인 더블린에 뿌리깊게 자리잡고 있다. 더블린은 그의 소설의 주제와 설정의 많은 부분을 제공해 주었다.</dbpedia-owl:abstract>
     <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Dead_(short_story)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Groden">
-    <skos:subject rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivy_Day_in_the_Committee_Room">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Little_Cloud">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Molly_Bloom">
-    <dbpedia-owl:creator rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Wilde">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Barun_Roy">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_(short_story)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Stoppard">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Fuentes">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edna_O'Brien">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://mpii.de/yago/resource/James_Joyce">
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Simon_Vestdijk">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Seamus_Seoighe">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Sensual_World_(song)__Flower_of_the_Mountain__1">
-    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/An_Encounter">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Dos_Passos">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Eveline">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pomes_Penyeach">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Nabokov">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Benstock">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Guram_Dochanashvili">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_McAleer">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clay_(short_story)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_A._A._Joyce">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurt_Vonnegut">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chamber_Music_(book)">
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Augustine_Aloysius_Joyce">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Lermontov">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Horia_G%C3%A2rbea">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Moore_(novelist)">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Leopold_Bloom">
-    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpedia-owl:creator rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Felix_Aderca">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Hitchens">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Irvine_Welsh">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Subimal_Mishra">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dubliners">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giacomo_Joyce">
-    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:author rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joshua_Cohen_(writer)">
-    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fran_Ross">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Veno_Taufer">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Chekhov">
-    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralph_Ellison">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hal_Duncan">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Kerouac">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/In_Glorious_Times">
-    <dbpprop:lyrics rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/O%C4%9Fuz_Atay">
-    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/5418_Joyce">
-    <dbpprop:namedAfter rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Aloysius_Joyce">
-    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James_Joyce"/>
+    <rdfs:comment xml:lang="fr">James Joyce est un romancier et poète irlandais expatrié, considéré comme l'un des écrivains les plus influents du XX siècle. Ses œuvres majeures sont un recueil de nouvelles, intitulé Les Gens de Dublin, et des romans tels que Dedalus, Ulysse, et Finnegans Wake. Bien qu'il ait passé la majeure partie de sa vie en dehors de son pays natal, l'expérience irlandaise de Joyce est essentielle dans ses écrits et est la base de la plupart de ses œuvres.</rdfs:comment>
+    <dbpprop:commons xml:lang="en">James Joyce</dbpprop:commons>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.james-joyce.de/"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Джойс,_Джеймс"/>
+    <dbpedia-owl:abstract xml:lang="hu">James Augustine Aloysius Joyce ír költő, író, kritikus. Fő műve az 1922-ben megjelent Ulysses, amely az Egyesült Királyságban és az Egyesült Államokban 1936-ig be volt tiltva.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1882_births"/>
+    <dbpprop:placeOfBirth xml:lang="en">Rathgar, Dublin, Ireland</dbpprop:placeOfBirth>
+    <rdfs:comment xml:lang="no">James Augustine Aloysius Joyce var en irsk forfatter. Joyce blir regnet som en av de mest fremtredende forfattere av det tyvende århundre. Han er mest kjent for novellesamlingen Dublinere og romanene Portrett av kunstneren som ung mann, Ulysses og Finnegans Wake. Selv om Joyce tilbrakte det meste av livet utenlands, er særlig forholdet hans til Dublin vesentlig for forfatterskapet.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">James Augustine Aloysius Joyce foi um romancista, contista e poeta irlandês expatriado. É amplamente considerado um dos autores de maior relevância do século XX. Suas obras mais conhecidas são o volume de contos Dublinenses/Gente de Dublin e os romances Retrato do Artista Quando Jovem, Ulisses e Finnegans Wake - o que se poderia considerar um "cânone joyceano".</rdfs:comment>
+    <dbpprop:s xml:lang="en">James Joyce</dbpprop:s>
+    <rdfs:comment xml:lang="en">James Augustine Aloysius Joyce (2 February 1882 – 13 January 1941) was an Irish novelist and poet, considered to be one of the most influential writers in the modernist avant-garde of the early 20th century. Joyce is best known for Ulysses (1922), a landmark work in which the episodes of Homer's Odyssey are paralleled in an array of contrasting literary styles, perhaps most prominently the stream of consciousness technique he perfected.</rdfs:comment>
   </rdf:Description>
 </rdf:RDF>

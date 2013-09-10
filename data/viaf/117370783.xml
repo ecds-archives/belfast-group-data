@@ -8,59 +8,65 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072118865#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/117370783"/>
-    <skos:prefLabel>Fiacc, Padraic</skos:prefLabel>
+  <rdf:Description rdf:about="http://viaf.org/viaf/117370783/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/117370783"/>
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++50001241#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/117370783"/>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50001241"/>
-    <skos:prefLabel>Fiacč, Padraič, 1924-</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Fiacč, Padraič, 1924-</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50001241"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/117370783">
+    <foaf:name>Fiacč, Padraič, 1924-</foaf:name>
+    <rdaGr2:dateOfBirth>1924</rdaGr2:dateOfBirth>
+    <foaf:name>O'Connor, Patrick Joseph</foaf:name>
+    <foaf:name>Fiacc, Padraic</foaf:name>
+    <owl:sameAs rdf:resource="http://www.idref.fr/089348559/id"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Padraic_Fiacc"/>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CPadraic_Fiacc#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <skos:prefLabel>Fiacc, Padraic</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/117370783"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C072118865#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/117370783"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Fiacc, Padraic</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C089348559#skos:Concept">
+    <skos:altLabel>O'Connor, Patrick Joseph</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <skos:prefLabel>Fiacč, Padraič, 1924-</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/117370783"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/117370783/#skos:Concept">
     <foaf:focus rdf:resource="http://viaf.org/viaf/117370783"/>
     <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CPadraic_Fiacc#skos:Concept">
-    <skos:prefLabel>Fiacc, Padraic</skos:prefLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/117370783"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C089348559#skos:Concept">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LNB%7CLNC10-000038546#skos:Concept">
     <skos:prefLabel>Fiacč, Padraič, 1924-</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LNB"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/117370783"/>
-    <skos:altLabel>O'Connor, Patrick Joseph</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/117370783/#foaf:Person">
     <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
     <owl:sameAs rdf:resource="http://viaf.org/viaf/117370783"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000035082659#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/117370783"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>Fiacč, Padraič, 1924-</skos:prefLabel>
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/117370783/">
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/117370783"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/117370783">
-    <foaf:name>Fiacc, Padraic</foaf:name>
-    <foaf:name>Fiacč, Padraič, 1924-</foaf:name>
-    <foaf:name>O'Connor, Patrick Joseph</foaf:name>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdaGr2:dateOfBirth>1924</rdaGr2:dateOfBirth>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Padraic_Fiacc"/>
-    <owl:sameAs rdf:resource="http://www.idref.fr/089348559/id"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/117370783"/>
+    <skos:prefLabel>Fiacč, Padraič, 1924-</skos:prefLabel>
   </rdf:Description>
 </rdf:RDF>

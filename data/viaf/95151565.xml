@@ -8,130 +8,130 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:void="http://rdfs.org/ns/void#"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++77003396#skos:Concept">
-    <skos:altLabel>Laverty, Bernard Mac</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:altLabel>מק׳לאוורטי, ברנרד</skos:altLabel>
-    <skos:prefLabel>Maclaverty, Bernard</skos:prefLabel>
-    <skos:altLabel>Mac Laverty, Bernard.</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n77003396"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/95151565">
-    <rdaGr2:dateOfBirth>1942-09-14</rdaGr2:dateOfBirth>
-    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
-    <foaf:name>McLaverty, Bernard</foaf:name>
-    <foaf:name>Mac Laverty, Bernard.</foaf:name>
-    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/259664"/>
-    <foaf:name>MacLaverty, Bernard, 1942-....</foaf:name>
-    <owl:sameAs rdf:resource="http://d-nb.info/gnd/121355896"/>
-    <foaf:name>Mc Laverty, Bernard</foaf:name>
-    <foaf:name>מק׳לאוורטי, ברנרד</foaf:name>
-    <foaf:name>Mc Laverty Bernard 1942-....</foaf:name>
-    <foaf:name>Laverty, Bernard Mac</foaf:name>
-    <owl:sameAs rdf:resource="http://www.idref.fr/061070750/id"/>
-    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12660692v#foaf:Person"/>
-    <foaf:name>Laverty, Bernard Mac, 1942-</foaf:name>
-    <foaf:name>McLaverty Bernard 1942-....</foaf:name>
-    <foaf:name>Mac Laverty, Bernard, 1942-</foaf:name>
-    <foaf:name>Maclaverty, Bernard</foaf:name>
-    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bernard_MacLaverty"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CBernard_MacLaverty#skos:Concept">
-    <skos:prefLabel>Maclaverty, Bernard</skos:prefLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C259664#skos:Concept">
-    <skos:prefLabel>MacLaverty, Bernard, 1942-....</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
-    <skos:altLabel>Laverty, Bernard Mac, 1942-</skos:altLabel>
-    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/259664#concept"/>
-    <skos:altLabel>Mac Laverty, Bernard, 1942-</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SWNL%7Cvtls000134704#skos:Concept">
-    <skos:altLabel>Laverty, Bernard Mac</skos:altLabel>
-    <skos:altLabel>Mac Laverty, Bernard.</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SWNL"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
-    <skos:prefLabel>Maclaverty, Bernard</skos:prefLabel>
-  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLP%7Ca11015123#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>Mac Laverty, Bernard.</skos:prefLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C061070750#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>MacLaverty, Bernard, 1942-....</skos:prefLabel>
-    <skos:altLabel>Mc Laverty, Bernard</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
-    <skos:altLabel>Mac Laverty, Bernard.</skos:altLabel>
-    <skos:altLabel>McLaverty, Bernard</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/95151565/#foaf:Person">
-    <owl:sameAs rdf:resource="http://viaf.org/viaf/95151565"/>
-    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12660692#skos:Concept">
-    <skos:altLabel>Mac Laverty, Bernard, 1942-</skos:altLabel>
-    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12660692v"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>MacLaverty, Bernard, 1942-....</skos:prefLabel>
-    <skos:altLabel>Mc Laverty Bernard 1942-....</skos:altLabel>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
-    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12660692v"/>
-    <skos:altLabel>McLaverty Bernard 1942-....</skos:altLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++98701674#skos:Concept">
-    <skos:prefLabel>MacLaverty, Bernard, 1942-....</skos:prefLabel>
-    <skos:altLabel>Mac Laverty, Bernard.</skos:altLabel>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/95151565/">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
-    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/95151565"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036517487#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>MacLaverty, Bernard, 1942-....</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLP"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/DNB%7C121355896#skos:Concept">
     <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/DNB"/>
-    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
     <skos:altLabel>Mac Laverty, Bernard, 1942-</skos:altLabel>
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:prefLabel>MacLaverty, Bernard, 1942-....</skos:prefLabel>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/95151565/#skos:Concept">
-    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
-    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069592101#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:prefLabel>MacLaverty, Bernard, 1942-....</skos:prefLabel>
-    <skos:altLabel>Mac Laverty, Bernard, 1942-</skos:altLabel>
     <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NKC%7Cjn19990005258#skos:Concept">
-    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NKC"/>
     <skos:prefLabel>MacLaverty, Bernard, 1942-....</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NLA%7C000036517487#skos:Concept">
+    <skos:prefLabel>MacLaverty, Bernard, 1942-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NLA"/>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/95151565/#foaf:Person">
+    <rdfs:comment>This primary entity identifier is deprecated. See the owl:sameAs link for the new identifier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/95151565"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/95151565">
+    <foaf:name>Maclaverty, Bernard</foaf:name>
+    <foaf:name>Laverty, Bernard Mac</foaf:name>
+    <foaf:name>מק׳לאוורטי, ברנרד</foaf:name>
+    <foaf:name>McLaverty, Bernard</foaf:name>
+    <owl:sameAs rdf:resource="http://libris.kb.se/resource/auth/259664"/>
+    <foaf:name>Mc Laverty Bernard 1942-....</foaf:name>
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb12660692v#foaf:Person"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/061070750/id"/>
+    <foaf:name>Mac Laverty, Bernard, 1942-</foaf:name>
+    <foaf:name>Mc Laverty, Bernard</foaf:name>
+    <foaf:name>Laverty, Bernard Mac, 1942-</foaf:name>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Person"/>
+    <foaf:name>Mac Laverty, Bernard.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>MacLaverty, Bernard, 1942-....</foaf:name>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/121355896"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bernard_MacLaverty"/>
+    <rdaGr2:dateOfBirth>1942-09-14</rdaGr2:dateOfBirth>
+    <foaf:name>McLaverty Bernard 1942-....</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NUKAT%7Cn++98701674#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NUKAT"/>
+    <skos:prefLabel>MacLaverty, Bernard, 1942-....</skos:prefLabel>
+    <skos:altLabel>Mac Laverty, Bernard.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/LC%7Cn++77003396#skos:Concept">
+    <skos:altLabel>מק׳לאוורטי, ברנרד</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n77003396"/>
+    <skos:altLabel>Mac Laverty, Bernard.</skos:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Laverty, Bernard Mac</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/LC"/>
+    <skos:prefLabel>Maclaverty, Bernard</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/WKP%7CBernard_MacLaverty#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
+    <skos:prefLabel>Maclaverty, Bernard</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/WKP"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SUDOC%7C061070750#skos:Concept">
+    <skos:prefLabel>MacLaverty, Bernard, 1942-....</skos:prefLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
+    <skos:altLabel>Mac Laverty, Bernard.</skos:altLabel>
+    <skos:altLabel>Mc Laverty, Bernard</skos:altLabel>
+    <skos:altLabel>McLaverty, Bernard</skos:altLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SUDOC"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SWNL%7Cvtls000134704#skos:Concept">
+    <skos:prefLabel>Maclaverty, Bernard</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SWNL"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Laverty, Bernard Mac</skos:altLabel>
+    <skos:altLabel>Mac Laverty, Bernard.</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/SELIBR%7C259664#skos:Concept">
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:altLabel>Mac Laverty, Bernard, 1942-</skos:altLabel>
+    <skos:prefLabel>MacLaverty, Bernard, 1942-....</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://libris.kb.se/resource/auth/259664#concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/SELIBR"/>
+    <skos:altLabel>Laverty, Bernard Mac, 1942-</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/BNF%7C12660692#skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/BNF"/>
+    <skos:exactMatch rdf:resource="http://data.bnf.fr/ark:/12148/cb12660692v"/>
+    <skos:altLabel>Mac Laverty, Bernard, 1942-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
+    <skos:altLabel>Mc Laverty Bernard 1942-....</skos:altLabel>
+    <skos:prefLabel>MacLaverty, Bernard, 1942-....</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="http://catalogue.bnf.fr/ark:/12148/cb12660692v"/>
+    <skos:altLabel>McLaverty Bernard 1942-....</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/95151565/#skos:Concept">
+    <rdfs:comment>This concept identifier is deprecated. See the foaf:focus link for the primary entity.</rdfs:comment>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/95151565/">
+    <void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://viaf.org/viaf/95151565"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/sourceID/NTA%7C069592101#skos:Concept">
+    <skos:prefLabel>MacLaverty, Bernard, 1942-....</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://viaf.org/authorityScheme/NTA"/>
+    <skos:altLabel>Mac Laverty, Bernard, 1942-</skos:altLabel>
+    <foaf:focus rdf:resource="http://viaf.org/viaf/95151565"/>
   </rdf:Description>
 </rdf:RDF>
