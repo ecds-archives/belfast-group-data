@@ -244,16 +244,21 @@ class HarvestRelated(object):
                         # (request with content negotation returns extra data where
                         # uri is the subject and is also slower)
                         try:
-                            dbpedia_sparql.setQuery('''
-                                SELECT ?S ?p ?o
-                                WHERE {
-                                    ?s ?p ?o
-                                    FILTER (?s = <%s>)
-                                }''' % u)
-                            # NOTE: was using DESCRIBE <uri>, but that generates
+                            dbpedia_sparql.setQuery('DESCRIBE <%s>' % u)
+                            # NOTE: DESCRIBE <uri> is the simplest query that's
+                            # close to what we want and returns a response that
+                            # can be easily converted to an rdflib graph, but it generates
                             # too many results for records like United States, England
                             dbpedia_sparql.setReturnFormat(SPARQLWrapper.RDF)
-                            tmp_graph = dbpedia_sparql.query().convert()
+
+                            # convert to rdflib graph, then filter out any triples
+                            # where our uri is not the subject
+                            tmp_graph =  dbpedia_sparql.query().convert()
+                            for triple in tmp_graph:
+                                s, p, o = triple
+                                if s != rdflib.URIRef(u):
+                                    tmp_graph.remove(triple)
+
                             if not len(tmp_graph):
                                 print 'Error: DBpedia query returned no triples for %s' % u
                                 continue
@@ -270,7 +275,10 @@ class HarvestRelated(object):
                         if data.status_code == requests.codes.ok:
                             # also add to master graph so we can download related data
                             # i.e.  dbpedia records for VIAF persons
-                            g.parse(data=data.content)
+                            # ONLY download related data for viaf (sameas dbpedia)
+                            # (geonames rdf may reference multiple dbpedia without any sameAs)
+                            if name == 'viaf':
+                                g.parse(data=data.content)
 
                             tmp_graph = rdflib.Graph()
                             tmp_graph.parse(data=data.content)
