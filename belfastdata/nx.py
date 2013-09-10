@@ -6,6 +6,7 @@ import rdflib
 from rdflib.collection import Collection as RdfCollection
 
 from belfastdata.rdfns import SCHEMA_ORG, DC
+from belfastdata.clean import normalize_whitespace
 
 # first-pass attempt to generate weighted network based on
 # type of rdf relation
@@ -87,12 +88,14 @@ class Rdf2Gexf(object):
 
                 else:
                     val = unicode(obj)
-                self.network.node[subj][name] = val
+                self.network.node[self._uri_to_node_id(subj)][name] = normalize_whitespace(val)
 
             # otherwise, add an edge between the two resource nodes
             else:
                 edge_labels.add(name)
-                self.network.add_edge(subj, obj, label=name,
+                self.network.add_edge(self._uri_to_node_id(subj),
+                                      self._uri_to_node_id(obj),
+                                      label=name,
                                       weight=connection_weights.get(name, 1))
 
         print '%d nodes, %d edges' % (self.network.number_of_nodes(),
@@ -110,7 +113,7 @@ class Rdf2Gexf(object):
         # use name first, if we have one
         name = self.graph.value(res, SCHEMA_ORG.name)
         if name:
-            return name
+            return normalize_whitespace(name)
 
         title = self.graph.value(res, DC.title)
         if title:
@@ -124,7 +127,7 @@ class Rdf2Gexf(object):
 
             # otherwise, title should be a literal (no conversion needed)
 
-            return title
+            return normalize_whitespace(title)
 
         # as a fall-back, use type for a label
         type = self.graph.value(res, rdflib.RDF.type)
@@ -157,11 +160,17 @@ class Rdf2Gexf(object):
         if isinstance(res, rdflib.URIRef) or isinstance(res, rdflib.BNode):
             return True
 
+    def _uri_to_node_id(self, uri):
+        # at least one dbpedia URI contains accents; not sure if this is valid,
+        # but gexf reader borks when trying to load
+        return unicode(uri).encode('ascii', 'ignore')
+
+
     def _add_node(self, res):
         # add an rdf term to the network as a node
         attrs = {}
         label = self._node_label(res)
         if label is not None:
             attrs['label'] = label
-        self.network.add_node(res, **attrs)
+        self.network.add_node(self._uri_to_node_id(res), **attrs)
 
