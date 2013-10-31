@@ -29,6 +29,7 @@ class QUB(object):
         'Simmons, James': 'http://viaf.org/viaf/92591927',
         'Parker, Stewart': 'http://viaf.org/viaf/7497547',
         'MacLaverty, Bernard': 'http://viaf.org/viaf/95151565',
+        'Watton, Joan': 'http://viaf.org/viaf/262730140',  # AKA Joan Newmann
         'Belfast Group': rdfns.BELFAST_GROUP_URI,
     }
 
@@ -48,7 +49,6 @@ class QUB(object):
     #   Sullivan, Ronald
     #   Brophy, Michael (possibly the one born in 1945, http://viaf.org/viaf/70921974 - http://trove.nla.gov.au/work/33952887?versionId=41792823)
     #   Mitchell, Michael
-    #   Watton, Joan
     #   Bond, John
     #   Gallagher, Maurice
     #   Harvey, W.J.
